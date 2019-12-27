@@ -1,0 +1,2784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c900ce06-9853-4e83-bd84-1863d93cb844" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer">guest</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-09-25T10:29:14+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="4">DA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DA</stress>
+                    <syll/>
+                    <pron/>
+                    <usg type="unknown" value="" rend="">(Pornind de la valoarea semantică proprie fiecărui subsens, formează numeroase locuţiuni verbale şi expresii</usg>
+                </form>
+                <gramGrp>
+                    <pos value="vb."/>
+                    <iType value="I"/>
+                    <subc value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-48ceb3fd-67e1-4926-9758-692e5a322976" n="I.">
+                        <sense xml:id="uuid-d077a64b-c395-4be8-9f6e-287fb5a83012" n="1.">
+                            <usg type="gram" value="folosit.și.absol" corresp="#" rend=""/>
+                            <sense xml:id="uuid-70db27c8-0231-47e1-980d-f86622820e70" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da gura </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cuiva gura </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cuiva gură</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cuiva o gură</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cuiva gurița</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da gurița</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da buzele</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cuiva buzele</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da o sărutare</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A-și a o sărutare</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da sărutări</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A-și a sărutări</term>
+                                </form>
+                                <def xml:id="uuid-c0c2a152-bd90-45af-aa60-55bc43058058"/>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="a (se) săruta (2)" corresp="#uuid-c0c2a152-bd90-45af-aa60-55bc43058058"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="I. GOLESCU, C. | I. GOLESCU, Cond. I"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Un flăcău şi-o fată mare, De tot snopul îşi dau gingaş o
+                                        furişă sărutare</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ALECSANDRI, O. ALECSANDRI, O. I ALECSANDRI, P. III ALECSANDRI, POEZII | ALECSANDRI, Pastel."/>
+                                        <date/>
+                                        <citedRange>67</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-84e4788e-92cc-4fc3-9e0f-9e9a9d0e032a" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da țâță</term>
+                                </form>
+                                <def xml:id="uuid-0c351dbc-5343-45b6-9183-12a6eaaba2cc"/>
+                                <ptr type="trimitere" target="ţâţă (I 1)" corresp="#uuid-0c351dbc-5343-45b6-9183-12a6eaaba2cc"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-aac24d80-981f-4c26-9d7f-5390d871d0a7" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A-i da (cuiva) să sugă</term>
+                                </form>
+                                <def xml:id="uuid-0b70d351-2a13-46a2-9bd9-a95cdfe7e137"/>
+                                <ptr type="trimitere" target=" suge (1)" corresp="#uuid-0b70d351-2a13-46a2-9bd9-a95cdfe7e137"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-ef57a4bb-6be6-41e4-a0b7-4e653345a003" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A nu da hăţurile din mână</term>
+                                </form>
+                                <def xml:id="uuid-0283a59e-66a8-44aa-a5a3-7b12987be0ae"/>
+                                <ptr type="trimitere" target="mână^1^ (I 1) " corresp="#uuid-0283a59e-66a8-44aa-a5a3-7b12987be0ae"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-23c01828-b14b-4aa0-aa66-fac0863386a7" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da papucii</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A i se da cuiva papucii</term>
+                                </form>
+                                <def xml:id="uuid-3bbac057-cdb8-48fc-bac1-d14c8a805a4e"/>
+                                <ptr type="trimitere" target="papuc^1^ (I)." corresp="#uuid-3bbac057-cdb8-48fc-bac1-d14c8a805a4e"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-353b2aa1-f69b-4bb8-901d-64cd95772615" n="♦">
+                                <sense xml:id="uuid-606e7be9-4fc1-4846-b80b-ac210cd1287f" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-783aeea0-8a08-47b6-8be6-f5639ccbf832"/>
+                                    <cit>
+                                        <quote>Balurile ... se dau de două ori pe săptămână</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ALECSANDRI, O. IV ALECSANDRI, O. P. ALECSANDRI, S. L. (DA) ALECSANDRI, PR. | ALECSANDRI, Proză"/>
+                                            <date/>
+                                            <citedRange>252</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-abbb3477-5801-4f8f-8088-da57cb9f12d2" n="◊">
+                                    <sense xml:id="uuid-0b82dda7-b90c-4936-af3e-b054efed0fe8" n="◊">
+                                        <gramGrp>
+                                            <pos value="vb."/>
+                                            <iType value="I"/>
+                                            <subc value="refl. pas."/>
+                                            <subc value=""/>
+                                        </gramGrp>
+                                        <def xml:id="uuid-2b45a43f-e319-4189-882e-d5125f3ae30d"/>
+                                        <cit>
+                                            <quote>A doua zi ... li se mai dă un mic ospăţ</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="GHICA, C. E. II | GHICA, Conv. Ec. VI"/>
+                                                <date/>
+                                                <citedRange>430</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <sense xml:id="uuid-d7cc12b1-fb99-48d2-9b4f-a79f853ae77f" n="♦">
+                                        <sense xml:id="uuid-860d5d49-27f7-44bd-98fc-09d36020bb58" n="◊">
+                                            <def xml:id="uuid-6a647729-c658-47c9-8fae-55d8e446bf68"/>
+                                            <usg type="register style" value="glumeț" corresp="#uuid-6a647729-c658-47c9-8fae-55d8e446bf68" rend=""/>
+                                            <cit>
+                                                <quote>Ori mori, neică, ori te scoală, Ori dă-mi şi
+                                                  mie din boală</quote>
+                                                <bibl type="unknown">
+                                                    <ptr target="HODOŞ, P. P. | HODOŞ, Poezii Pop. I"/>
+                                                    <date/>
+                                                    <citedRange>76</citedRange>
+                                                </bibl>
+                                            </cit>
+                                        </sense>
+                                        <def xml:id="uuid-2331e046-e8ec-4053-8f88-8fe2853e8f4d">A oferi mai multora câte o parte dintr-un
+                                            întreg</def>
+                                        <def xml:id="uuid-cf337479-316a-430f-a2fe-a23e003dcc13"/>
+                                        <ptr targetLang="" type="syn" subtype="unknown" target="a distribui" corresp="#uuid-cf337479-316a-430f-a2fe-a23e003dcc13"/>
+                                        <ptr targetLang="" type="syn" subtype="unknown" target="a repartiza (*1*)" corresp="#uuid-cf337479-316a-430f-a2fe-a23e003dcc13"/>
+                                        <usg type="sem" value="p..ext." corresp="#uuid-cf337479-316a-430f-a2fe-a23e003dcc13" rend=""/>
+                                        <cit>
+                                            <quote/>
+                                            <bibl type="unknown">
+                                                <ptr target="unknown"/>
+                                                <date/>
+                                                <citedRange/>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <def xml:id="uuid-acc86923-a089-4856-a223-c09b3f0a305c"/>
+                                    <usg type="unknown" value="" corresp="#uuid-acc86923-a089-4856-a223-c09b3f0a305c" rend=""/>
+                                    <cit>
+                                        <quote>Îi dete un ospăţ de să se ducă pomina</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ISPIRESCU, M. V. ISPIRESCU, O. II | ISPIRESCU, I. Mihai Vit."/>
+                                            <date/>
+                                            <citedRange>32</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-f88b6181-04a8-4613-98fb-0ee3aa3d0092">A organiza, a pregăti şi a oferi (în cinstea cuiva sau a
+                                    ceva)</def>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-f88b6181-04a8-4613-98fb-0ee3aa3d0092" rend="">mese, petreceri</usg>
+                                <cit>
+                                    <quote>Deputaţii şi evgenistii dau astăzi un bal</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="AR (18...) | Albina Rom."/>
+                                        <date>1829</date>
+                                        <citedRange>18^1^/10</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Dă un ospăţ mare La toţi soţii</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="HELIADE, O. II HELIADE, V. | HELIADE-RĂDULESCU, Teor. Lb."/>
+                                        <date/>
+                                        <citedRange>351</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-722ca924-4596-4c72-8450-1172d5050d4d" n="♦">
+                                <sense xml:id="uuid-72d627aa-c1bd-4423-a7f5-72148bce44de" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-ebc04a83-1f6e-4d7d-8c57-1830cd2c6ba6"/>
+                                    <cit>
+                                        <quote>Lucrători din mahalale, cărora li se dădea lucrul pe
+                                            acasă</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="IORGA, C. I. III | IORGA, Ist. Rom. III"/>
+                                            <date/>
+                                            <citedRange>133</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-eb057628-1249-4828-92df-5dd0a3cb1de9" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da (ceva) pe mâna (cuiva)</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term>A da (ceva) în mâna (cuiva)</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term>A da (ceva) la mâna (cuiva)</term>
+                                        <usg type="time" value="înv." rend=""/>
+                                    </form>
+                                    <def xml:id="uuid-5d36800d-2dce-4f39-9164-c956e973fccd">a încredinţa ceva (spre păstrare)</def>
+                                    <def xml:id="uuid-5092143a-2999-4a72-a4c5-c8d9dd692550">a lăsa ceva la dispoziţia, la bunul plac, în voia
+                                        cuiva</def>
+                                    <cit>
+                                        <quote>Eu, Şerban diiac, meşterul mare a tiparelor şi cu
+                                            Marien diiac dându în mâna noastră ceaste cărţi</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="GCR I | Chrest. Rom. I"/>
+                                            <date>1582</date>
+                                            <citedRange>38/6</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-e5d98264-8b90-4b5a-abe6-60955750c478" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A-i da (cuiva) de lucru</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A-i da (cuiva) de furcă</term>
+                                    </form>
+                                    <def xml:id="uuid-86e7d6b1-a2c2-48c7-8a02-a8372f347fdf">a pricinui cuiva bătaie de cap</def>
+                                    <def xml:id="uuid-492131b1-b79e-468a-8fde-0233e8f0101f">a pune pe cineva în încurcătură</def>
+                                    <cit>
+                                        <quote>Hai la treabă, cumătriţă, că lupul ţi-a dat de
+                                            lucru!</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CREANGĂ, O. CREANGĂ, O. I CREANGĂ, P. | CREANGĂ, Pov."/>
+                                            <date/>
+                                            <citedRange>29</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-849d5057-e2c0-4a31-8949-f1dc625121b5">A încredinţa cuiva îndeplinirea unei activităţi</def>
+                                <def xml:id="uuid-0b1fe2ae-23b4-47d9-be63-0190fa10dea7">a încredinţa cuiva ceva spre păstrare, întreţinere sau
+                                    prelucrare</def>
+                                <usg type="plev" value="adesea" corresp="#uuid-0b1fe2ae-23b4-47d9-be63-0190fa10dea7" rend="">construit cu verbe la conjunctiv sau la infinitiv</usg>
+                                <cit>
+                                    <quote>Eu, jupânul Hârjil Lucaciu ... dedu de le tipării
+                                        *[Evangheliile]* în lauda Tatălui şi Fiului şi Duhului
+                                        Sfânt</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CORESI, EV. (DA) CORESI, E. (Cf. CORESI, EV.) | CORESI, Ev. – T."/>
+                                        <date/>
+                                        <citedRange>1</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250">A întinde sau a aduce, a pune în aproprierea, la îndemâna ori
+                                în mâna, braţele, gura etc. cuiva</def>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a încredinţa" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a înmâna" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a preda (1)" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a remite (2)" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a încrede" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250">
+                                <usg type="time" value="înv." rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a paradosi (2)" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a tinde (I 5)" corresp="#uuid-4f89a799-d62f-4a03-a5ba-067c9cabb250"/>
+                            <def xml:id="uuid-6da1fad9-c09e-495f-93e1-076e367644e1">a oferi (1), a servi de mâncat sau (şi) de băut</def>
+                            <usg type="sem" value="p..restr." corresp="#uuid-6da1fad9-c09e-495f-93e1-076e367644e1" rend=""/>
+                            <usg type="hint coloc" value="despre" corresp="#uuid-6da1fad9-c09e-495f-93e1-076e367644e1" rend=";">oameni</usg>
+                            <usg type="obj" value="complementul.indică" corresp="#uuid-6da1fad9-c09e-495f-93e1-076e367644e1" rend="">de obicei, obiecte, bunuri</usg>
+                            <cit>
+                                <quote>Deaderă în loc de mâ[n]care mea fiare şi în seatea mea
+                                    adăpară-me cu oţet</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PSALT. HUR. PSALT. HUR.2 | Psalt. Hur. – T. I"/>
+                                    <date>c. 1500</date>
+                                    <citedRange>145</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>Toate cătră tire aşteaptă, se dai mâncare loru în bură
+                                    vreame</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PSALT. PSALT. SCH. (DA) PSAL. SCH. (DA) CANDREA, PS. (cf. PSAL.) (DA) PSALT. (VOR., SCH., HUR., COR., COR.2, DOS.) | Psalt. Sch. – T. I"/>
+                                    <date/>
+                                    <citedRange>216/9</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-06a5c202-88cf-4326-8887-88d0aed64a68" n="2.">
+                            <sense xml:id="uuid-b7dd090b-8cd7-4e50-9135-9ea98c800c4b" n="◊">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value=""/>
+                                    <subc value="refl. pas."/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-bbd7ed12-a294-4503-a7ef-12c970052e27"/>
+                                <cit>
+                                    <quote>Ceaialaltă parte s-au dat, frăţini-său, lui Filip. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ANTIM, O. ANTIM, P. | ANTIM, Didahii"/>
+                                        <date>1709</date>
+                                        <citedRange>318</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-c2b8715e-1f59-49a2-a3c0-5497554e8ecd" n="◊">
+                                <def xml:id="uuid-b7717864-5bbd-4913-926f-1f33c5247c82"/>
+                                <usg type="sem" value="p..anal." corresp="#uuid-b7717864-5bbd-4913-926f-1f33c5247c82" rend=""/>
+                                <cit>
+                                    <quote>Unii dădeau prestigiul numelui, ceilalţi puterea
+                                        aurului.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="EFTIMIU, N. | EFTIMIU, Nuntă"/>
+                                        <date>1952</date>
+                                        <citedRange>96</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-597ab303-2732-4ec5-af6d-eb682987b81c" n="◊">
+                                <sense xml:id="uuid-f38e6848-546a-4deb-9d57-82eebb781053" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value=""/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-3cd1cfb0-d194-4de4-8d5d-7806d292fed7"/>
+                                    <cit>
+                                        <quote>La ţărmuru mării să pot da părţi de pământ mici ...
+                                            la cetăţenii din obştele de aproape.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="FUND. | F. Legi Gran. Mil."/>
+                                            <date>1656</date>
+                                            <citedRange>10/5</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-a937a1db-d947-4712-9dcd-c15776c01446"/>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-a937a1db-d947-4712-9dcd-c15776c01446" rend="">funcţii, ranguri, demnităţi sau însemnele acestora, ori drepturi, dovezi etc.</usg>
+                                <cit>
+                                    <quote>Da-i-va giudeţul puteare să să hrănească cu venitul ce va
+                                        fi dentru acele bucate.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PRAV. COND. (1780) MAN. LEG. | Prav. Cond."/>
+                                        <date>1780</date>
+                                        <citedRange>180</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-3a7115c9-b9ba-43d3-b2ab-569bc4425a73" n="♦">
+                                <def xml:id="uuid-00c89d7a-e10e-4f49-96ba-5865e851b906">A oferi cuiva (plătind, de obicei, consumaţia la un local)
+                                    pentru a sărbători ceva</def>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="a face o trataţie" corresp="#uuid-00c89d7a-e10e-4f49-96ba-5865e851b906"/>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="a face cinste" corresp="#uuid-00c89d7a-e10e-4f49-96ba-5865e851b906"/>
+                                <usg type="register style" value="familiar" corresp="#uuid-00c89d7a-e10e-4f49-96ba-5865e851b906" rend=";"/>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-00c89d7a-e10e-4f49-96ba-5865e851b906" rend="">băuturi, alimente</usg>
+                                <cit>
+                                    <quote>Ţi-ai făcut casă nouă şi nu dai şi tu un pahar de
+                                        vin?</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PREDA, DELIR. | PREDA, Delir."/>
+                                        <date/>
+                                        <citedRange>66</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-9736f339-b852-4dcc-8a07-2848f061a66d" n="◊">
+                                <def xml:id="uuid-d717729b-554e-4370-b6be-0408043d4c04"/>
+                                <usg type="sem" value="p..anal." corresp="#uuid-d717729b-554e-4370-b6be-0408043d4c04" rend=""/>
+                                <cit>
+                                    <quote>Fiinţa funcţionarilor civili şi militari, toţi
+                                        inmundiraţi, da acestei privelişti o pompă solemnă.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="NEGRUZZI, O. I NEGRUZZI, P. T. NEGRUZZI, S. I | NEGRUZZI, Amint."/>
+                                        <date>1876</date>
+                                        <citedRange>36</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>O frunte naltă, ... ochii ..., îi da arătarea unui
+                                        înţelept din vechime</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="EMINESCU, P. L. EMINESCU, O. VI | EMINESCU, Făt-Frumos"/>
+                                        <date>1873</date>
+                                        <citedRange>44</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-88e92b03-8cd9-45d6-a211-f6f58498b8bf" n="◊">
+                                <sense xml:id="uuid-aa9d4e28-1fec-42d8-9d53-6a0a60e1d15d" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-f3fafe36-2084-4d19-8103-c853676a4d35"/>
+                                    <cit>
+                                        <quote>Amară pedeapsă în dar mi s-a dat. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ALEXANDRESCU, O. I | ALEXANDRESCU, Poezii Pop."/>
+                                            <date>1999</date>
+                                            <citedRange>91</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-4eeab3a2-ff01-48ee-a149-7804a7226620"/>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-4eeab3a2-ff01-48ee-a149-7804a7226620" rend="">idei, lămuriri, ajutoare, permisiuni, recompense etc.</usg>
+                                <cit>
+                                    <quote>Pomeneaşte cuvâ[n]tul Tău şerbului Tău de ce me-ai
+                                        nedejde dat.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PSALT. HUR. PSALT. HUR.2 | Psalt. Hur. – T. I"/>
+                                        <date>c. 1500</date>
+                                        <citedRange>189</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Dă noao agiutoriu de grije. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PSALT. PSALT. SCH. (DA) PSAL. SCH. (DA) CANDREA, PS. (cf. PSAL.) (DA) PSALT. (VOR., SCH., HUR., COR., COR.2, DOS.) | Psalt. Sch. – T. I"/>
+                                        <date>&lt;1573–1578&gt; </date>
+                                        <citedRange>115/5</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-482c2b3e-f286-4310-9721-91ee8c1f3932" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da lecții</term>
+                                </form>
+                                <def xml:id="uuid-567e616c-640f-4c6e-a7a0-71c6d9f7e4ac"/>
+                                <ptr type="trimitere" target="lecție" corresp="#uuid-567e616c-640f-4c6e-a7a0-71c6d9f7e4ac"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5f935871-d4a1-4bbe-9fe9-a321a50eb71a" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da creștere</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da educație</term>
+                                </form>
+                                <def xml:id="uuid-93097cf4-fcef-45d5-8574-f6cb3ec8430b">a forma</def>
+                                <def xml:id="uuid-149ac637-0b94-4438-a4b4-2431b22a2582">a educa</def>
+                                <cit>
+                                    <quote>Sânteţi învăţători carii aveţi a da pruncilor
+                                        creaştere.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PETROVICI, P. | PETROVICI, Ped. – T."/>
+                                        <date>1999</date>
+                                        <citedRange>9/1</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b3e14611-a97a-42b9-b20e-5b62840c7da4" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da ocară</term>
+                                </form>
+                                <def xml:id="uuid-27296c0c-65e1-40a0-be38-e10f53397934"/>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="a ocărî (1)" corresp="#uuid-27296c0c-65e1-40a0-be38-e10f53397934"/>
+                                <cit>
+                                    <quote>Te bate şi-ţi dă ocară.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CULIANU, C. (DA) CULIANU, C. | CULIANU, C. Cosm."/>
+                                        <date>1999</date>
+                                        <citedRange>25</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-769750aa-c7b8-4fc6-94ff-bdfea2f61ddc" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da ascultare</term>
+                                </form>
+                                <def xml:id="uuid-a9c4f7fb-60a6-4064-806b-a8395ce2de1a"/>
+                                <ptr type="trimitere" target="ascultare" corresp="#uuid-a9c4f7fb-60a6-4064-806b-a8395ce2de1a"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-69bb5539-268a-4252-b172-deebce5c9a19" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da un impuls</term>
+                                </form>
+                                <def xml:id="uuid-2c42eab2-4c6b-42d0-9e91-63c8970cf7d4"/>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="a impulsiona" corresp="#uuid-2c42eab2-4c6b-42d0-9e91-63c8970cf7d4"/>
+                                <cit>
+                                    <quote>Scriirile a mai multor barbaţi şi mai cu samă a lui Petru
+                                        Maior ... au dat un mare impuls naţionalităţei
+                                        noastre.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="IST. M. | ALBINEŢ, Man. Ist. Mold. I"/>
+                                        <date>1999</date>
+                                        <citedRange>XXX/2</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-ec06d0dc-f9fc-4d10-8250-dddc5cf63a1e" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da (bună) învățătură</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da (bune) învățături</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="plev" value="rar" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da (bune) învățăminte</term>
+                                </form>
+                                <def xml:id="uuid-da9115e6-7104-45ae-8892-a5b041807da3">a invăța</def>
+                                <def xml:id="uuid-e58b1c92-36ae-4362-9d5e-68ea5b6f3c89">a sfătui (1)</def>
+                                <cit>
+                                    <quote>Da învăţătură să nu să vânză alte bucate. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="VARLAAM, C. (DA) VARLAAM, C. | VARLAAM, Cazania"/>
+                                        <date>1999</date>
+                                        <citedRange>43</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-a8e34f9f-2c40-4247-b0d5-59e4a2d49f77" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da atenție</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da destulă atenție</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da puțină atenție</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da puțintică atenție</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da o deosebită atenție</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da o mediocră atenție</term>
+                                </form>
+                                <def xml:id="uuid-5e15cd7a-518a-4b0d-adca-3ab00c614479">a (nu) acorda (mare) interes, grijă, importanţă</def>
+                                <def xml:id="uuid-9423ea21-af43-40d7-8ae6-832681b04293">a (nu) se ocupa de ...</def>
+                                <cit>
+                                    <quote>Ocărmuirea au dedat toată a sa îngrijire la acest obiect
+                                        de mare cuviinţă [agri¬cultura] (a. 1846)</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="HURMUZAKI, XI (DA) HURMUZAKI, XI | Doc. Ist. Rom. XI"/>
+                                        <date>1999</date>
+                                        <citedRange>524</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Vă rog să-mi daţi puţintică atenţie.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="GHICA, A. | GHICA, Amint."/>
+                                        <date>1999</date>
+                                        <citedRange>212</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6583f850-f05d-4ff5-a061-7c5f8298a3f5" n="◊">
+                                <sense xml:id="uuid-d925ff18-15cd-4351-84fe-876e6b0358d9" n="a)">
+                                    <def xml:id="uuid-638f9c28-0b60-4dc4-8770-07e75872845e">a ridica pedeapsa pentru păcatul, vina sau greşeala
+                                        cuiva</def>
+                                    <def xml:id="uuid-09c5180c-762a-49c1-a2cf-22455c6fee79">a ierta</def>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-1ef2fd46-3204-4edd-98a1-ad87a820aa39" n="b)">
+                                    <def xml:id="uuid-706bf905-ea9f-469b-8c12-73d4a361eefe">a scuza (3)</def>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-beb6f3fd-8675-4b37-a6cf-4a56d6571079" n="">
+                                    <def xml:id="uuid-63bde467-2c9a-4daa-811d-88289f79a13d"/>
+                                    <cit>
+                                        <quote>Iertare nu-i poate da. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="RETEGANUL, CH. | POP-RETEGANUL, Chiuit."/>
+                                            <date>1999</date>
+                                            <citedRange>23</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend="și"/>
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da iertare</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da iertăciune</term>
+                                </form>
+                                <def xml:id="uuid-583547a8-0071-4be9-8e3b-71d0c9f74fb6"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cb17c3ec-c130-4a83-bbcb-06b0b4c8d359" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A (-și) da îmtâlnire</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A (-și) da rendez-vous</term>
+                                </form>
+                                <def xml:id="uuid-22c967d7-1f28-48c5-8992-94a16b1cbd19">a(-şi) fixa o întâlnire.</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-95d46229-4c59-433f-ab84-36f0dd024bdd" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A(-i) da legătura</term>
+                                </form>
+                                <def xml:id="uuid-64eccb19-9c23-4298-ac8e-320e7e807108">a face legătura telefonică</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-8b22fe19-821c-4e63-83f9-0c63edc795a1" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da cuvântul</term>
+                                </form>
+                                <def xml:id="uuid-9cb57e41-34c1-4056-abaf-53cf960ba224"/>
+                                <ptr type="trimitere" target="cuvânt" corresp="#uuid-9cb57e41-34c1-4056-abaf-53cf960ba224"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-90ee9f02-56af-4815-8689-3772a8fc0b1c" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da cuiva frâu liber</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da la ceva frâu liber</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da cuiva slobod</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da la ceva slobod</term>
+                                </form>
+                                <def xml:id="uuid-79a73b4e-6b02-4ab2-b2c4-60650ab97d0a"/>
+                                <ptr type="trimitere" target="liber" corresp="#uuid-79a73b4e-6b02-4ab2-b2c4-60650ab97d0a"/>
+                                <ptr type="trimitere" target="slobod (12)" corresp="#uuid-79a73b4e-6b02-4ab2-b2c4-60650ab97d0a"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-dcd1d948-2d9c-4fcf-ade8-41b9cb38542b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da ocazie</term>
+                                </form>
+                                <def xml:id="uuid-fea9a6b3-d880-492e-b809-fa7cd5edada2"/>
+                                <ptr type="trimitere" target="ocazie (1)" corresp="#uuid-fea9a6b3-d880-492e-b809-fa7cd5edada2"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-19c8be06-d1a3-46ad-bdb5-b6d9738c0800" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da cuiva revanșa</term>
+                                </form>
+                                <def xml:id="uuid-01d70142-ef9d-4c22-a7c4-f52eeca10fb7"/>
+                                <ptr type="trimitere" target="revanșă" corresp="#uuid-01d70142-ef9d-4c22-a7c4-f52eeca10fb7"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-2c1989cc-c83e-4fbc-b63e-76e78fae4e2b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="unknown" value="" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da nas (cuiva)</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A da obraz (cuiva)</term>
+                                </form>
+                                <def xml:id="uuid-f87a66d3-61c0-438b-b811-340aac7deace"/>
+                                <ptr type="trimitere" target="nas^1^ (1)" corresp="#uuid-f87a66d3-61c0-438b-b811-340aac7deace"/>
+                                <ptr type="trimitere" target="obraz (1)" corresp="#uuid-f87a66d3-61c0-438b-b811-340aac7deace"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-f6d5b739-3748-4579-9817-ea60bd6bcf96" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da (cuiva) pace</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da (cuiva) buna pace</term>
+                                </form>
+                                <def xml:id="uuid-540dd1d7-469a-4af8-80c1-41dab012ff23"/>
+                                <ptr type="trimitere" target="pace (4)" corresp="#uuid-540dd1d7-469a-4af8-80c1-41dab012ff23"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-f4661414-702e-4d4a-bd3f-6573663d0689" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da (cuiva) pas</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A nu da (cuiva) pas</term>
+                                </form>
+                                <def xml:id="uuid-a4fef9e3-9171-4832-b59f-4b9f27fc92bc"/>
+                                <ptr type="trimitere" target="pas^2^ (I 1)" corresp="#uuid-a4fef9e3-9171-4832-b59f-4b9f27fc92bc"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5fb192c5-7588-4490-8baa-e0a9bb0c7833" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) pasaportul</term>
+                                </form>
+                                <def xml:id="uuid-d86357d7-6bba-4c9a-9ee0-1031c197e4e4"/>
+                                <ptr type="trimitere" target="pașaport" corresp="#uuid-d86357d7-6bba-4c9a-9ee0-1031c197e4e4"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e5f19e39-1369-48a4-9f1d-8093fd4e3c51" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) răvaș</term>
+                                </form>
+                                <def xml:id="uuid-6a2d98dd-6da3-40b7-9407-e1706499f5e3"/>
+                                <ptr type="trimitere" target="răvaș (III 1)" corresp="#uuid-6a2d98dd-6da3-40b7-9407-e1706499f5e3"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-674738b6-e6a9-4f89-8488-fe9bc35afcb5" n="♦">
+                                <sense xml:id="uuid-73537242-73bf-4c33-b2a8-9d3dba294a02" n="">
+                                    <def xml:id="uuid-43c14ac9-29ec-4642-960e-d3b797d73f28"/>
+                                    <usg type="gram" value="absol." corresp="#uuid-43c14ac9-29ec-4642-960e-d3b797d73f28" rend=""/>
+                                    <cit>
+                                        <quote>Dă în chirie. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ROSETTI – CAZACU, I. L. R. I ROSETTI – CAZACU – ONU, I. L. R.2 | ROSETTI – CAZACU – ONU, Ist. Lb. R. Lit. I"/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-56ec5082-7f63-4186-bdf4-028b98664ff1" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-cde595ce-0df1-49e4-bc7c-6d2f639b9523"/>
+                                    <cit>
+                                        <quote>Locurile care până la vreame s-au dat în arândă
+                                            trăbuie să le descopere domnul acelora.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ALAS | Adev. Lit.as"/>
+                                            <date>1999</date>
+                                            <citedRange>17/2</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-6eca9862-78ff-467d-a0aa-c276fbdec194">A încredinţa ceva spre folosinţă pe un timp limitat, în
+                                    schimbul unei arende, al unei chirii etc.</def>
+                                <usg type="coloc" value="urmat.de.determinări" corresp="#uuid-6eca9862-78ff-467d-a0aa-c276fbdec194" rend="">ca „în arendă”, „în parte”, „în” sau „cu chirie”, rar, „în posesie” etc.</usg>
+                                <ptr type="trimitere" target="arendă" corresp="#uuid-6eca9862-78ff-467d-a0aa-c276fbdec194"/>
+                                <ptr type="trimitere" target="chirie" corresp="#uuid-6eca9862-78ff-467d-a0aa-c276fbdec194"/>
+                                <ptr type="trimitere" target="parte (I 4)" corresp="#uuid-6eca9862-78ff-467d-a0aa-c276fbdec194"/>
+                                <ptr type="trimitere" target="posesiune (2)" corresp="#uuid-6eca9862-78ff-467d-a0aa-c276fbdec194"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-83b6d37f-2ca0-4311-be63-53f4ec2edf3d" n="♦">
+                                <sense xml:id="uuid-c3a03dc1-336c-4107-8259-e780370b17ba" n="◊">
+                                    <def xml:id="uuid-e4d91196-2eb6-42d7-8aa1-c9b80d98941b"/>
+                                    <usg type="hint" value="eliptic" corresp="#uuid-e4d91196-2eb6-42d7-8aa1-c9b80d98941b" rend=""/>
+                                    <cit>
+                                        <quote>Ce vârstă aveţi, domnişoară? ... – Dumneata cât îmi
+                                            dai?</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CĂLINESCU, B. I. CĂLINESCU, O. V | CĂLINESCU, B. Ioanide I"/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-e75df963-fee1-449d-88a8-5cf73a2b9c1a">A aprecia cu aproximație</def>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-e75df963-fee1-449d-88a8-5cf73a2b9c1a" rend="">vârsta cuiva</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-c98e18d8-6b7c-4a4b-bbd5-0a22cd5fd538" n="♦">
+                                <def xml:id="uuid-ae489af4-51de-4909-93dd-2f077cd23c18">A împrumuta</def>
+                                <usg type="gram" value="folosit.și.absol" corresp="#uuid-ae489af4-51de-4909-93dd-2f077cd23c18" rend=";"/>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-ae489af4-51de-4909-93dd-2f077cd23c18" rend=";">mai ales bani</usg>
+                                <usg type="coloc" value="urmat.de" corresp="#uuid-ae489af4-51de-4909-93dd-2f077cd23c18" rend="">determinări modale</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-d2a73f44-5705-4362-a80a-092c0949d6b3" n="♦">
+                                <sense xml:id="uuid-20200133-3bbb-4b6a-9087-72f8a90849d5" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                        <term>A da înapoi</term>
+                                    </form>
+                                    <def xml:id="uuid-ed5d4513-2c76-48b8-ad41-a2c88aed905d"/>
+                                    <ptr type="trimitere" target="înapoi" corresp="#uuid-ed5d4513-2c76-48b8-ad41-a2c88aed905d"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-72af4e9b-5316-4664-8f4b-973214c6fb8c" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                        <term>A da îndărăt</term>
+                                    </form>
+                                    <def xml:id="uuid-725fd5a1-619d-4df6-bd4c-f52917b58c24"/>
+                                    <ptr type="trimitere" target="îndărăt" corresp="#uuid-725fd5a1-619d-4df6-bd4c-f52917b58c24"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-96e65e46-caed-4506-97d1-cd239b3e1018">A restitui (1).</def>
+                                <usg type="time" value="înv." corresp="#uuid-96e65e46-caed-4506-97d1-cd239b3e1018" rend="și"/>
+                                <usg type="register style" value="popular" corresp="#uuid-96e65e46-caed-4506-97d1-cd239b3e1018" rend=""/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-ad29ab03-c1ca-487d-b894-37af96eb1237">A pune la dispoziţia cuiva ceva spre folosinţă sau pe cineva
+                                pentru ajutor</def>
+                            <def xml:id="uuid-19bdbd08-0982-434a-b865-fafe2ad2d33b">a face ca cineva să aibă, să beneficieze de ...</def>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a acorda" corresp="#uuid-19bdbd08-0982-434a-b865-fafe2ad2d33b"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a atribui" corresp="#uuid-19bdbd08-0982-434a-b865-fafe2ad2d33b"/>
+                            <cit>
+                                <quote>Şi deade pământul lor parte, partea lu Israil, oamenrilor
+                                    săi.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PSALT. HUR. PSALT. HUR.2 | Psalt. Hur. – T. I"/>
+                                    <date>c. 1500</date>
+                                    <citedRange>200</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>Partea celuia ce samănă pre locul altuia ... sânt a lui 9
+                                    snopi, şi a celuia ce au dat pământul un snop.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PRAV. COND. (1780) MAN. LEG. | Prav. Cond."/>
+                                    <date/>
+                                    <citedRange>7</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-232afeb2-f773-4cd8-bf7b-28d4b51d1ea8" n="3.">
+                            <sense xml:id="uuid-f0f535aa-a353-49d0-a459-64ab24f28987" n="◊">
+                                <sense xml:id="uuid-7a1dd8ea-770c-41ad-8ddd-a0ac844e3a7f" n="">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-def9afd4-e5fa-4eac-909f-5a33d7d80e42"/>
+                                    <cit>
+                                        <quote>Am alcătuit o carte ... Să se dea de premium
+                                            sholariului celui bun.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="TOMICI, C. A. | TOMICI, C. Albine. – T."/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                    <cit>
+                                        <quote>Lumea moştenire-ntâmplă¬rilor s-a dat!</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ALEXANDRESCU, A. | ALEXANDRESCU, Alzira – T."/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-cda8c43a-1d44-4a5b-ad0c-04514e39f706" n="">
+                                    <def xml:id="uuid-ac147699-02ce-4999-aa5b-803bd21ac510"/>
+                                    <usg type="register style sem" value="fig." corresp="#uuid-ac147699-02ce-4999-aa5b-803bd21ac510" rend=""/>
+                                    <cit>
+                                        <quote>Toată bucuria ce-o ai agonisită Putea-vei, fără
+                                            murmur, s-o dai durerii dar!</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-f421d8a4-1856-45b4-a9a2-3cc985849e8c"/>
+                                <usg type="coloc" value="cu.determinări" corresp="#uuid-f421d8a4-1856-45b4-a9a2-3cc985849e8c" rend="">modale</usg>
+                                <cit>
+                                    <quote>Deacă nu va avea copii, ... să va da danie cuiva.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PRAV. COND. (1780) MAN. LEG. | Prav. Cond."/>
+                                        <date>1814</date>
+                                        <citedRange>80/6</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Dau în dar, adică-i dăruiesc.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="GOLESCU, E. GOLESCU, S. | GOLESCU, El. Filos. – T."/>
+                                        <date>1999</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6751221a-12f3-485d-b104-316e24f621b4" n="◊">
+                                <def xml:id="uuid-79508007-3846-4fcb-ae3b-cec883aff62c"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-fcffff59-ef90-48ea-acd4-4eaefa26071a" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da naștere</term>
+                                </form>
+                                <def xml:id="uuid-68761765-79db-49c2-be4e-56574b37d51f"/>
+                                <ptr type="trimitere" target="naștere (III)" corresp="#uuid-68761765-79db-49c2-be4e-56574b37d51f"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-4502e93c-871f-454f-9843-8e3e7081296b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da frumusețe</term>
+                                </form>
+                                <def xml:id="uuid-bc56df0e-2384-44ba-953b-4eedb474c818">a înfrumuseța</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e9bb0141-6643-4662-85bf-b7ac36f93380" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da viață</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da suflarea vieții</term>
+                                </form>
+                                <def xml:id="uuid-43db1189-602c-42c1-bd35-0a8e3730f113">a procrea</def>
+                                <def xml:id="uuid-7c7c3377-330d-412a-9995-deb147e9b18f">a crea, a făuri</def>
+                                <usg type="register style sem" value="fig." corresp="#uuid-7c7c3377-330d-412a-9995-deb147e9b18f" rend=""/>
+                                <def xml:id="uuid-0f3d1488-8a69-43f6-b3a2-eb22ffdcbbd6">a face să fie viu</def>
+                                <def xml:id="uuid-b1801769-0427-45ec-8a15-98da5bebb153">a înviora</def>
+                                <usg type="register style sem" value="fig." corresp="#uuid-b1801769-0427-45ec-8a15-98da5bebb153" rend=""/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-799ba827-1cfb-4180-b7d3-71bf1a021583" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da cămașa de pe el</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da cămașa de pe el</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da și cămașa de pe el</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da cămașa de pe el</term>
+                                </form>
+                                <def xml:id="uuid-224af663-c372-4819-b4ac-db42a49fc6cc"/>
+                                <ptr type="trimitere" target="cămașă" corresp="#uuid-224af663-c372-4819-b4ac-db42a49fc6cc"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-866a6ff7-fa83-4480-a6fc-f664cc305615" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) și pe gură și pe nas</term>
+                                </form>
+                                <def xml:id="uuid-4247ca62-9d70-4a50-8470-792445c31136"/>
+                                <ptr type="trimitere" target="nas^1^ (1)" corresp="#uuid-4247ca62-9d70-4a50-8470-792445c31136"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1c4edf10-58ae-42d6-8061-e99c6b1b80be" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da cuvântul</term>
+                                </form>
+                                <def xml:id="uuid-30dfe913-4543-498d-a14c-8d7c9b6baa20"/>
+                                <ptr type="trimitere" target="cuvânt" corresp="#uuid-30dfe913-4543-498d-a14c-8d7c9b6baa20"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b0384ada-08dd-46c5-a815-67ef66952123" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) apă la moară</term>
+                                </form>
+                                <def xml:id="uuid-e39287cd-fec6-4de1-bf18-e89e1ee68a16"/>
+                                <ptr type="trimitere" target="moară (1)" corresp="#uuid-e39287cd-fec6-4de1-bf18-e89e1ee68a16"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-78c5fd2f-aad9-4b3a-aa62-b93f48d0532e" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da osteneală</term>
+                                </form>
+                                <def xml:id="uuid-0703a957-034e-4e2c-9613-04c18ce1b959"/>
+                                <ptr type="trimitere" target="ostenelă (2)" corresp="#uuid-0703a957-034e-4e2c-9613-04c18ce1b959"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-8a601b0b-e917-4141-a8be-02cd4e2d2b5b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-și da parola</term>
+                                </form>
+                                <def xml:id="uuid-2848a958-6046-48dd-8d11-020787cd0703"/>
+                                <ptr type="trimitere" target="parolă (1)" corresp="#uuid-2848a958-6046-48dd-8d11-020787cd0703"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5fe7e3f7-5900-4e3a-b0d2-9803b20e24fc" n="♦">
+                                <sense xml:id="uuid-a28f6627-b205-4357-b7cd-1975154eaaf8" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A(-și) da bună ziua</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A(-și) da ziua bună</term>
+                                    </form>
+                                    <def xml:id="uuid-064898f7-c918-45ae-8d02-23bc0af3ed8f"/>
+                                    <ptr type="trimitere" target="zi (II 2)" corresp="#uuid-064898f7-c918-45ae-8d02-23bc0af3ed8f"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-043448ec-658f-45f6-99cf-aa0e3267cb4b" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da bună seara</term>
+                                    </form>
+                                    <def xml:id="uuid-de5d1289-1fdd-44f3-9079-6f7d82c1b083"/>
+                                    <ptr type="trimitere" target="seară (I 1)" corresp="#uuid-de5d1289-1fdd-44f3-9079-6f7d82c1b083"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-139e2a4f-7c92-4b06-b65f-0ed4d91282b2" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da binețe</term>
+                                    </form>
+                                    <def xml:id="uuid-cef3e235-a58a-4d84-a7fc-96e720480588"/>
+                                    <ptr type="trimitere" target="binețe" corresp="#uuid-cef3e235-a58a-4d84-a7fc-96e720480588"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-a6fad8f4-c3dd-433b-a445-8ddc051844d8" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da buna dimineața</term>
+                                    </form>
+                                    <def xml:id="uuid-461bce18-77a0-4573-83a7-382cc1f0a490"/>
+                                    <ptr type="trimitere" target="dimineață" corresp="#uuid-461bce18-77a0-4573-83a7-382cc1f0a490"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-ad153936-6d16-45e8-9d0c-b9ad077796ad" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da bun întâlnișul</term>
+                                    </form>
+                                    <def xml:id="uuid-e002134b-59bb-427c-94c1-603dd432877f"/>
+                                    <ptr type="trimitere" target="întâlniș" corresp="#uuid-e002134b-59bb-427c-94c1-603dd432877f"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-181f5916-668e-4e49-a557-73367f78b76b" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A da noroc</term>
+                                    </form>
+                                    <def xml:id="uuid-3eccd52a-f940-46ba-8d5d-01247da263d8"/>
+                                    <ptr type="trimitere" target="noroc (1)" corresp="#uuid-3eccd52a-f940-46ba-8d5d-01247da263d8"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <usg type="register style" value="popular" corresp="#" rend=";"/>
+                                <usg type="coloc" value="în.formule.de" corresp="#" rend="">salut</usg>
+                                <def xml:id="uuid-ef4e9f36-b1bf-4e84-9f51-fc8be1d233fe">A spune (2)</def>
+                                <def xml:id="uuid-9305d583-f3f7-485f-bd99-5fb0fe6c6c95">a ura^2^ (2)</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-0afd9438-3c00-4dc3-84d0-6d8f50bd9af8" n="♦">
+                                <def xml:id="uuid-b8113205-b821-4ba2-bb64-859fcebc63f1">A saluta autorităţile cu ocazia unor evenimente deosebite
+                                    sau fapte de arme, prezentând arma sau sunând din goarnă</def>
+                                <usg type="coloc" value="urmat.de.determinarea" corresp="#uuid-b8113205-b821-4ba2-bb64-859fcebc63f1" rend="">„onorul”</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-0da7fb10-77f9-44af-83ca-6a76019f1ab4" n="♦">
+                                <def xml:id="uuid-de0b12fd-22e0-440d-9461-d855db9841c3">A insufla, a inspira (forţă, fermitate, avânt etc.)</def>
+                                <def xml:id="uuid-41289611-b63d-483a-815e-40178f0dd578">a întări</def>
+                                <usg type="coloc" value="construit.cu" corresp="#uuid-41289611-b63d-483a-815e-40178f0dd578" rend="">substantive care indică însuşiri morale</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <usg type="gram" value="folosit.și.absol" corresp="#" rend=""/>
+                            <def xml:id="uuid-8f457bc8-85ab-4132-8347-bb3a33a1b034">A face cuiva un dar2 (I 1)</def>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a dărui (1)" corresp="#uuid-8f457bc8-85ab-4132-8347-bb3a33a1b034"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a oferi (1)" corresp="#uuid-8f457bc8-85ab-4132-8347-bb3a33a1b034"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a prosfora^2^" corresp="#uuid-8f457bc8-85ab-4132-8347-bb3a33a1b034">
+                                <usg type="time" value="înv." rend="și"/>
+                                <usg type="geo" value="regional" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a prosforisi" corresp="#uuid-8f457bc8-85ab-4132-8347-bb3a33a1b034">
+                                <usg type="time" value="înv." rend=""/>
+                            </ptr>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-245fc49f-16c3-435f-97c0-0e206d491af4" n="4.">
+                            <sense xml:id="uuid-30276b51-cc72-4cf1-b359-0778224d4eb1" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+                                    <term>Cum dă Dumnezeu</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+                                    <term>Din ce dă Dumnezeu</term>
+                                </form>
+                                <def xml:id="uuid-484d32a8-494e-40a5-9ce1-49a01a98db87">(în mod) sărăcăcois (3)</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5a047153-e868-41a9-9dce-9643eed1ed54" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da morții</term>
+                                </form>
+                                <def xml:id="uuid-2f85ab6a-7d57-4571-aa70-1a3d6e69cbb4"/>
+                                <ptr type="trimitere" target="moarte (4)" corresp="#uuid-2f85ab6a-7d57-4571-aa70-1a3d6e69cbb4"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-abd767c0-ecf9-464a-8250-40cf157ddcd8" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=";"/>
+                                    <usg type="hint coloc" value="despre" rend="">ospețe, chefuri</usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>(Ş-apoi) dă, Doamne, (bine)</term>
+                                </form>
+                                <def xml:id="uuid-37a14ac7-5f96-49a8-aef2-6be8b129110d">extraordinar</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cbd0d8fa-3d81-4961-a4e9-2915a689f3f2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>Cum a da târgul și norocul</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>Ce a da târgul și norocul</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>Cum o da târgul și norocul</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>Ce o da târgul și norocul</term>
+                                </form>
+                                <def xml:id="uuid-a40a5abc-7cdc-4f8e-8f65-635249f25f30"/>
+                                <ptr type="trimitere" target="noroc (1)" corresp="#uuid-a40a5abc-7cdc-4f8e-8f65-635249f25f30"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-9d9d618c-04dc-43ea-bc3c-ad9ab67012f4" n="♦">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value=""/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-50f02eb6-63d9-48b0-9f98-d2774d6e1455">A se pomeni (7)</def>
+                                <usg type="time" value="astăzi" corresp="#uuid-50f02eb6-63d9-48b0-9f98-d2774d6e1455" rend=";">rar</usg>
+                                <usg type="coloc" value="în.forma" corresp="#uuid-50f02eb6-63d9-48b0-9f98-d2774d6e1455" rend="">negativă</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <usg type="gram" value="folosit.și.absol" corresp="#" rend=""/>
+                            <def xml:id="uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">A face sau a permite ca ceva să aibă loc, să se producă
+                                într-un anumit fel</def>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a destina" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a hărăzi" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a hotărî" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a predestina (1)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a rândui^1^ (III 1)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a sorti^1^ (I 1)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a ursi (1)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a rezerva" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">
+                                <usg type="register style" value="livresc" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a predetermina" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">
+                                <usg type="plev" value="rar" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a preursi" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a orândui (4)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">
+                                <usg type="time" value="înv." rend="și"/>
+                                <usg type="register style" value="popular" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a noroci (1)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">
+                                <usg type="register style" value="popular" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a soroci (3)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="a tocmi (II 3)" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37">
+                                <usg type="time" value="înv." rend=""/>
+                            </ptr>
+                            <usg type="gram" value="mai.ales.la" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37" rend=";">forma pasivă</usg>
+                            <usg type="subj" value="cu.subiectul.exprimat.sau.subînțeles" corresp="#uuid-52986cfb-7707-423e-aeca-2bcf04db6e37" rend="">, de obicei, divinitatea sau o forţă supranaturală</usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-9190dabb-48da-472e-8cae-c41d0a4ee925" n="5.">
+                            <sense xml:id="uuid-0e94d810-a6dd-4c66-a0c3-111f96c11d73" n="♦">
+                                <sense xml:id="uuid-1a00c1e9-5e6b-4ccd-8f00-2f69774b4d60" n="◊">
+                                    <gramGrp>
+                                        <pos value="vb."/>
+                                        <iType value="I"/>
+                                        <subc value="refl. pas."/>
+                                        <subc value=""/>
+                                    </gramGrp>
+                                    <def xml:id="uuid-38b2d2e7-8e15-4922-b149-0be02baee2ff"/>
+                                    <cit>
+                                        <quote>Dacă s-a întâmplat a se da arvonă … partea ce se va
+                                            căi ... dacă va fi vânzătoriul va plăti arvona
+                                            îndoit.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="PRAV. COND. (1780) MAN. LEG. | Prav. Cond."/>
+                                            <date>1780</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                    <cit>
+                                        <quote>Banii ca o marfă ... se dau cu dobândă.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="PRAV. COND. (1780) MAN. LEG. | Prav. Cond."/>
+                                            <date>1780</date>
+                                            <citedRange>223</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <usg type="gram" value="folosit.și.absol" corresp="#" rend=""/>
+                                <def xml:id="uuid-fdbc62dd-3c2b-4ad2-8b03-1cedadd372d8">A achita o obligație materială</def>
+                                <def xml:id="uuid-c8c0bab9-5ddd-4ac8-8c2f-1f4b30cab34c">a oferi cuiva pentru a obține ceva</def>
+                                <def xml:id="uuid-fd743694-32aa-4a2c-b9f4-3fa5dfb2d508">a plăti (1, 2)</def>
+                                <usg type="obj" value="complementul.indică" corresp="#uuid-fd743694-32aa-4a2c-b9f4-3fa5dfb2d508" rend="">mai ales bani</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-03e0877a-d4b2-4c43-803a-c62173335153" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da bir cu fugiții</term>
+                                </form>
+                                <def xml:id="uuid-e3acd81f-ab09-4e5d-88c0-d70d9dff69dc"/>
+                                <ptr type="trimitere" target="bir" corresp="#uuid-e3acd81f-ab09-4e5d-88c0-d70d9dff69dc"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b9183eb0-c404-45aa-b4f8-c66f5d4ca5d9" n="◊">
+                                <def xml:id="uuid-0556913a-2555-44f3-b8a4-266a79da66d2">A oferi ca plată</def>
+                                <def xml:id="uuid-7806ed10-3f26-4822-bf48-8615d4c06702">a propune ca preț</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <usg type="gram" value="folosit.și.absol" corresp="#" rend=""/>
+                            <def xml:id="uuid-95729b70-ca01-4eab-a198-6b8c35a22e96">A vinde (1)</def>
+                            <usg type="time" value="înv." corresp="#uuid-95729b70-ca01-4eab-a198-6b8c35a22e96" rend="și"/>
+                            <usg type="register style" value="popular" corresp="#uuid-95729b70-ca01-4eab-a198-6b8c35a22e96" rend=";"/>
+                            <usg type="obj" value="complementul.indică" corresp="#uuid-95729b70-ca01-4eab-a198-6b8c35a22e96" rend="">bunuri</usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-31579bdb-c2a7-4c7a-a413-75fcdd7f5135" n="6.">
+                            <sense xml:id="uuid-ec13988e-fc09-4c3a-b089-761ad3757ed2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da cinstea pe rușine</term>
+                                </form>
+                                <def xml:id="uuid-f6cb1ebe-56d0-4877-aa3c-444d504cba0a"/>
+                                <ptr type="trimitere" target="cinste" corresp="#uuid-f6cb1ebe-56d0-4877-aa3c-444d504cba0a"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-fc41f66f-30a3-43d0-a924-83303146fd36" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="familiar" rend=""/>
+                                    <subc value="fact."/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A nu se da pe cineva</term>
+                                </form>
+                                <def xml:id="uuid-c3452cf3-dc6f-45d6-9b07-e7666c5fb6c2">a se preţui mai mult decât pe altul (sau pe alţii)</def>
+                                <def xml:id="uuid-1ec92a2d-8579-456e-9f16-66636356370b">a se considera superior cuiva</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cb0b7876-0c0f-456e-988a-a5cd68bb141f" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="plev" value="rar" rend=""/>
+                                    <subc value="fact."/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A nu se da pentru mult</term>
+                                </form>
+                                <def xml:id="uuid-598b26ed-20ba-41cf-87bd-14ff4d42b473">a se preţui mult</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="DL | DL I"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Toate ca toate, dar de asta să mă văd o dată scăpat, apoi
+                                        nu m-aş da pentru mult. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="BOTA, P. | BOTA, Cul. Pov."/>
+                                        <date>1999</date>
+                                        <citedRange>27</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="DEX | DEX"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5edb3aac-d1c1-4a19-abab-7fa202e7ff0c" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="geo" value="regional" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da toate pe una</term>
+                                </form>
+                                <def xml:id="uuid-73fe3fca-51c9-45b0-bdd4-258280793511">a rămâne cu o singură alternativă</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e1791f33-209a-421a-94d1-536ef05cd904" n="♦">
+                                <def xml:id="uuid-2e22e93d-06bd-470e-b794-4bcd630a06e7">A renunța la ceva de pret</def>
+                                <def xml:id="uuid-3069488f-aedd-4794-9512-a8fb61f0ddde">a sacrifica (2)</def>
+                                <usg type="sem" value="p..ext." corresp="#uuid-3069488f-aedd-4794-9512-a8fb61f0ddde" rend=""/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cfc4e0c1-82ff-40a6-a9a1-9499fd00cfc3" n="◊">
+                                <def xml:id="uuid-102176de-8c74-4402-8c28-d98df471f993"/>
+                                <usg type="coloc" value="urmat.de.determinarea" corresp="#uuid-102176de-8c74-4402-8c28-d98df471f993" rend="">„viaţa” ”, exprimă ideea de sacrificiu din devotament</usg>
+                                <cit>
+                                    <quote>Oamenii carii ş-au dat viiaţa lor pentru numele
+                                        Domnului.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="D. N. TEST. | D. N. Test."/>
+                                        <date>1648</date>
+                                        <citedRange>155^v^/6</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Sunt gata a-mi da viaţa pentru tine. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ISPIRESCU, L. ISPIRESCU, O. I | ISPIRESCU, Legendeispiresc"/>
+                                        <date>1999</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cb2c9dfd-b64a-4c83-b146-21329accbee6" n="◊">
+                                <sense xml:id="uuid-2f4d0045-f9b8-4674-af05-a5ff8080e23d" n="">
+                                    <def xml:id="uuid-9d5084e7-7017-4d95-b630-1cabd11eae75"/>
+                                    <usg type="register style sem" value="fig." corresp="#uuid-9d5084e7-7017-4d95-b630-1cabd11eae75" rend=""/>
+                                    <cit>
+                                        <quote>A hotărât ca partea a doua a „Sufletelor moarte”,
+                                            consacrată regenerării lui Cicikov ..., să fie dată
+                                            jertfă flăcărilor.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="SADOVEANU, A. L. SADOVEANU, O. XVIII | SADOVEANU, Avent. Dun."/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da jertfă</term>
+                                </form>
+                                <def xml:id="uuid-7e0a1d71-f01d-4997-bd33-2ce958aa2494">a jertfi</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-f74a08ad-d1d0-492a-a50c-9f4b0dd9f38d">A înlocui cu altcineva sau cu altceva (de aceeaşi natură, de
+                                aceeaşi valoare, necesar etc.), a ceda pentru a primi în loc altceva
+                                (de aceeaşi natură, de aceeaşi valoare, necesar etc.), a schimba (I
+                                1)</def>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value=""/>
+                            <subc value="tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-ab38a8b8-8013-461d-8bb4-da63e1795646"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-9f7cc35f-4aab-4180-b604-9d36539478e5" n="II.">
+                        <sense xml:id="uuid-5dc59980-7d9b-41e8-9bdc-94d1306a9044" n="1.">
+                            <sense xml:id="uuid-519c7164-f65c-4ee5-b13d-a1f84cf4d0c5" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="geo" value="regional" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A se da la culcare</term>
+                                </form>
+                                <def xml:id="uuid-275c1486-ab12-4ca8-98bd-8fd6379507c7">a se culca</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-45d777a3-392b-4249-a1a7-514faf6724a2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da credință</term>
+                                </form>
+                                <def xml:id="uuid-631058eb-7793-4920-9693-7694ee4ad8ad"/>
+                                <ptr type="trimitere" target="credință" corresp="#uuid-631058eb-7793-4920-9693-7694ee4ad8ad"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1e5ef67f-8be7-46a4-8561-96b316b7da67" n="♦">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value="tranz."/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-ca45e35c-8a27-41b0-926e-1c1872d981a8">A petrece (i 1)</def>
+                                <usg type="plev" value="rar" corresp="#uuid-ca45e35c-8a27-41b0-926e-1c1872d981a8" rend=""/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="intranz. tranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-06b22d96-399a-4237-a76d-07eb25f26d02">A (se) aşeza (într-un anumit loc, într-o anumită poziţie,
+                                într-un anumit mod).</def>
+                            <usg type="time" value="înv." corresp="#uuid-06b22d96-399a-4237-a76d-07eb25f26d02" rend="și"/>
+                            <usg type="register style" value="popular" corresp="#uuid-06b22d96-399a-4237-a76d-07eb25f26d02" rend=""/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-5e6118b1-ef4f-4682-9d25-5cd6aeead6c5" n="2.">
+                            <sense xml:id="uuid-6862ee3f-7069-43f9-858d-f65c00b46a11" n="♦">
+                                <def xml:id="uuid-5801c807-f4c1-4cf4-81ba-92370b5fd1b8">A ajunge, a se întinde până la ... </def>
+                                <usg type="hint coloc" value="despre" corresp="#uuid-5801c807-f4c1-4cf4-81ba-92370b5fd1b8" rend="">terenuri</usg>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b05a342f-1fae-4187-8705-ac85a22dbe06" n="♦">
+                                <def xml:id="uuid-d16befa8-7bbf-48d7-980d-d9b5db133e61">A cădea într-o direcție</def>
+                                <usg type="" value="despre lumină" corresp="#uuid-d16befa8-7bbf-48d7-980d-d9b5db133e61" rend=""/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="intranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-568b9f3c-d0c1-40b2-ae6f-5459a02484ef">A fi orientat, a avea vederea spre ..., a se deschide spre
+                                ..., a comunica cu ... </def>
+                            <usg type="hint coloc" value="despre" corresp="#uuid-568b9f3c-d0c1-40b2-ae6f-5459a02484ef" rend=";">ferestre, uşi, încăperi etc.</usg>
+                            <usg type="coloc" value="urmat.de.determinări" corresp="#uuid-568b9f3c-d0c1-40b2-ae6f-5459a02484ef" rend="">locale introduse prin prep. „în”, „spre”, „asupra”, „pe”, rar, „înspre”</usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-3a92a1f6-528d-4ea5-b9a4-6ef10d4cf2ef" n="3.">
+                            <sense xml:id="uuid-4345771d-f1a7-4749-a668-c318ccc484eb" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da sare</term>
+                                </form>
+                                <def xml:id="uuid-c852700e-500c-4a23-9425-8ffefb598cc2"/>
+                                <ptr type="trimitere" target="sare (1)" corresp="#uuid-c852700e-500c-4a23-9425-8ffefb598cc2"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-117dc5dc-6bd9-4fb4-9e58-b6cd4675aa92" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da piper</term>
+                                </form>
+                                <def xml:id="uuid-12ce94a6-b806-4571-a805-a2951da7a99a">a pipera</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-04e65c19-0c46-428c-a99e-a5f0eb808708" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da perdaf</term>
+                                </form>
+                                <def xml:id="uuid-706b83ef-c220-413a-96de-18e663845820"/>
+                                <ptr type="trimitere" target="perdaf (1 a)" corresp="#uuid-706b83ef-c220-413a-96de-18e663845820"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1cd5eac1-7db9-41c1-81c4-a711b202c74f" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da suliman</term>
+                                </form>
+                                <def xml:id="uuid-72c029c3-f036-4242-bb75-e6939c282d48"/>
+                                <ptr type="trimitere" target="suliman (I 1)" corresp="#uuid-72c029c3-f036-4242-bb75-e6939c282d48"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7e486457-78f0-4332-8d6c-8cc119c2fea7" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da cu poleială</term>
+                                </form>
+                                <def xml:id="uuid-c1074184-9337-4b7d-8973-ce9d7d3cf8ff"/>
+                                <ptr type="trimitere" target="a polei^4^ (1)" corresp="#uuid-c1074184-9337-4b7d-8973-ce9d7d3cf8ff"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e1e7c0dc-3ee0-4155-ad2e-8c9fa2e19f76" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A se da cu săpun</term>
+                                </form>
+                                <def xml:id="uuid-095be40e-1f6b-47ec-9b6b-2ed36e80cf94"/>
+                                <ptr type="trimitere" target="a se săpuni (1)" corresp="#uuid-095be40e-1f6b-47ec-9b6b-2ed36e80cf94"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-3a28a0c8-3a24-4d58-bef3-f2028beb6fc5" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) cu ardei pe la nas</term>
+                                    <subc value="intranz."/>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <subc value="intranz."/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) cu chibritul pe la nas</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <subc value="intranz."/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) cu frunnză de tutun pe la nas</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <subc value="intranz."/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A-i da (cuiva) cu ceva pe la nas</term>
+                                </form>
+                                <def xml:id="uuid-06bb9372-57f2-4b4e-bd0b-eab6e799764e"/>
+                                <ptr type="trimitere" target="nas ^1^ (1)" corresp="#uuid-06bb9372-57f2-4b4e-bd0b-eab6e799764e"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-d8bc2dac-8bee-4de5-a7a1-25e3c054b9bd" n="◊">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value="fact."/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-69ad58a4-0935-4f34-b741-6f6374ae410f"/>
+                                <cit>
+                                    <quote>Dacă fetele se dau cu salcie pe păr în ziua de Florii, le
+                                        creşte părul.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CANDREA, F. | CANDREA, Folc. Med."/>
+                                        <date>1999</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-560ede0d-f9df-4943-83db-55eaf55f5a3a" n="◊">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value="intranz."/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-c6642f97-32fa-4fcd-9d1c-086a7fc5c35f"/>
+                                <cit>
+                                    <quote>Lapte cu care dete pe la ochii împăratului</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ISPIRESCU, L. ISPIRESCU, O. I | ISPIRESCU, Legende"/>
+                                        <date>1999</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="tranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-d0efbe10-0cb6-4272-8ac0-188495abc055">A acoperi cu un strat de substanţă, de vopsea, de metal, a
+                                întinde pe deasupra</def>
+                            <def xml:id="uuid-2a85227a-7ef2-4dfb-af81-8bbb4fd8045e">a spoi (2), a vopsi (I 1)</def>
+                            <usg type="sem" value="spec." corresp="#uuid-2a85227a-7ef2-4dfb-af81-8bbb4fd8045e" rend=""/>
+                            <usg type="coloc" value="cu.determinări" corresp="#uuid-2a85227a-7ef2-4dfb-af81-8bbb4fd8045e" rend="">introduse prin prep. „cu”</usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-30949f63-82b9-4fb2-aa62-0c91a7c12b19" n="4.">
+                            <sense xml:id="uuid-3114a62c-8cee-4bbd-a4bb-04862839ee09" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da cărțile pe față</term>
+                                </form>
+                                <def xml:id="uuid-a376c961-ad91-42d8-9cb1-76678fe59805"/>
+                                <ptr type="trimitere" target="carte" corresp="#uuid-a376c961-ad91-42d8-9cb1-76678fe59805"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-aa2ff3db-b163-4f1b-b5a7-5444ed0b3c30" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da ușa de perete</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da ușa la perete</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da poarta de perete</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da poarta la perete</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da fereastra de perete</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da fereastra la perete</term>
+                                </form>
+                                <def xml:id="uuid-d97df906-8d1e-47ed-9a1b-34a9332d0c23"/>
+                                <ptr type="trimitere" target="perete (I 1)" corresp="#uuid-d97df906-8d1e-47ed-9a1b-34a9332d0c23"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-0a4449a7-9890-408c-bde9-b82ed443cba5" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da dos (la față)</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da dosul (la față)</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="register style" value="popular" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A da dosurile (la față)</term>
+                                </form>
+                                <def xml:id="uuid-61feba89-4fc0-4d22-8906-a9ecab5d78f4"/>
+                                <ptr type="trimitere" target="dos" corresp="#uuid-61feba89-4fc0-4d22-8906-a9ecab5d78f4"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="tranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-4a0727bb-24f0-45ae-8ac3-94984baada2c">A schimba poziţia, locul etc.</def>
+                            <def xml:id="uuid-03f6ea1d-955f-42c9-815c-a06cfdae4c5c">a împinge</def>
+                            <usg type="sem" value="p..ext." corresp="#uuid-03f6ea1d-955f-42c9-815c-a06cfdae4c5c" rend=""/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-a0b0046e-fa26-4beb-a973-3bdf829feab3"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-651d3ada-28ee-4286-80e7-368844e529f5" n="III.">
+                        <sense xml:id="uuid-babe65f7-1a73-4c04-9515-db6acc9dc131" n="1.">
+                            <sense xml:id="uuid-6ae87dcc-1033-4271-84df-b0fae64bddf4" n="◊">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value="recipr."/>
+                                    <subc value=""/>
+                                </gramGrp>
+                                <def xml:id="uuid-676314d7-7179-4626-b81e-e3194e6e6956"/>
+                                <usg type="time" value="înv." corresp="#uuid-676314d7-7179-4626-b81e-e3194e6e6956" rend=""/>
+                                <cit>
+                                    <quote>În curvie se-au dat pre sine.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CUV. | RĂDUCANU GRECEANU, Cuvânt. – T."/>
+                                        <date>1999</date>
+                                        <citedRange>22/16</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-2f322842-b8a2-4131-bdd6-2472f26ff12b" n="◊">
+                                <def xml:id="uuid-49f1a3ef-d58c-4586-9b71-86832a0b3484"/>
+                                <usg type="time" value="înv." corresp="#uuid-49f1a3ef-d58c-4586-9b71-86832a0b3484" rend=";"/>
+                                <usg type="coloc" value="urmat.de.complementul" corresp="#uuid-49f1a3ef-d58c-4586-9b71-86832a0b3484" rend="">război, care prezizează sensul acțiunii</usg>
+                                <cit>
+                                    <quote>Şi dând război, birui Ştefan-Vodă.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ASACHI, A. LIT. | ASACHI, A. Lit."/>
+                                        <date>1999</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote>Dând război leaşilor, nu-i putură dobândi.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ASACHI, A. LIT. | ASACHI, A. Lit."/>
+                                        <date>1999</date>
+                                        <citedRange>13</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-25f6a93e-e43a-40dc-a7d5-80a63b9be88a" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da față</term>
+                                </form>
+                                <def xml:id="uuid-e93bbea0-260c-4bbb-bfe9-52a87e08f8d9"/>
+                                <ptr type="trimitere" target="față" corresp="#uuid-e93bbea0-260c-4bbb-bfe9-52a87e08f8d9"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-198bdb45-6cd5-4798-b686-979844159803" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da foc</term>
+                                </form>
+                                <def xml:id="uuid-977304f7-d1a7-4ce8-83b6-c946800043a8"/>
+                                <ptr type="trimitere" target="foc" corresp="#uuid-977304f7-d1a7-4ce8-83b6-c946800043a8"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7d81c2ac-11bb-458a-80ca-5d57da241eab" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da greș</term>
+                                </form>
+                                <def xml:id="uuid-3ef573e4-40c8-4b30-b8ff-6cc4591e817c"/>
+                                <ptr type="trimitere" target="greș" corresp="#uuid-3ef573e4-40c8-4b30-b8ff-6cc4591e817c"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-675c8b28-fba9-4544-b4ae-22e4e35c5c54" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A-i da greș (cuiva)</term>
+                                </form>
+                                <def xml:id="uuid-2eadc129-cb10-4b87-bbf1-81534dc0c828"/>
+                                <ptr type="trimitere" target="greș" corresp="#uuid-2eadc129-cb10-4b87-bbf1-81534dc0c828"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7d11e315-ed05-4c93-ac41-90024c0496a1" n="◊">
+                                <sense xml:id="uuid-ae6384bf-4da2-40b5-9c81-e9aa31f6a1dc" n="">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                        <term/>
+                                        <subc value="refl. pas."/>
+                                    </form>
+                                    <def xml:id="uuid-37ccbd99-bd6f-46c8-9407-278c064681ab"/>
+                                    <cit>
+                                        <quote>Se dă lemnului anumite forme.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="ASACHI, A. LIT. | ASACHI, A. Lit."/>
+                                            <date>1999</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da formă</term>
+                                </form>
+                                <def xml:id="uuid-929e2375-159a-49cb-b457-de2700aff8d2">a modela</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-024144db-fdd2-44c9-8677-d3d3d63b4d1e" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="time" value="înv." rend="și"/>
+                                    <usg type="geo" value="regional" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A-și da moarte</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg type="" value="înv" rend="și"/>
+                                    <usg type="geo" value="regional" rend=""/>
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A se da morții</term>
+                                </form>
+                                <def xml:id="uuid-813881d7-8d84-4405-9def-d6ca35fc6e1f">a se sinucide</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-bb7875fa-e014-4156-963f-aefcc13c72c5" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <term>A da moarte cuiva</term>
+                                </form>
+                                <def xml:id="uuid-a363803b-23b2-464b-bba0-3bc9518fd379">a omorî (1)</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="tranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-af7d77df-df21-48ef-8bb0-28252be8b5da">A pune în anumite circumstanţe</def>
+                            <def xml:id="uuid-4e9eb581-b842-4321-8587-e32222d0301f">a supune unei activităţi sau acţiuni (organi¬zate), a
+                                încredinţa cuiva în vederea unui scop</def>
+                            <def xml:id="uuid-551aa67e-a4bb-40fa-aaa8-471e6069bc43">a lăsa la dispoziţia cuiva</def>
+                            <def xml:id="uuid-20e03330-c800-4697-99ad-951843f29239">a preda (justiţiei)</def>
+                            <usg type="obj" value="complementul.indică" corresp="#uuid-20e03330-c800-4697-99ad-951843f29239" rend="">oameni</usg>
+                            <ptr type="trimitere" target="denunța (1)" corresp="#uuid-20e03330-c800-4697-99ad-951843f29239"/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-e79676fc-4759-4590-bcb8-bc27b4dcaa31"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-3d1297c2-aad7-44c6-83a2-414050e775e9" n="">
+                        <def xml:id="uuid-cfb1d71f-1ecc-432c-849b-c69d714e8d58"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dau</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dăm</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">darem</form>
+                        <usg type="geo" value="regional" rend=""/>
+                        <bibl type="unknown">
+                            <ptr target="ARH. FOLK. I ş. u. | An. Arh. Folk. I-VII"/>
+                            <date>1932</date>
+                            <citedRange>196</citedRange>
+                        </bibl>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="imperf."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădeam și dam</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="imperf."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dedeam</form>
+                        <usg type="register style" value="popular" rend=""/>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădui</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dedei</form>
+                        <usg type="time" value="înv." rend="și"/>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dediu,
+                            dedu</form>
+                        <usg type="time" value="înv." rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">detei,
+                            didei</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dăduși</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dedeși</form>
+                        <usg type="time" value="înv." rend="și"/>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădu</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dede,
+                            dete</form>
+                        <usg type="time" value="înv." rend="și"/>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">deade, dedi,
+                            diede</form>
+                        <usg type="time" value="înv." rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădurăm</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">deterăm</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădură</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">deteră</form>
+                        <usg type="time" value="înv." rend="și"/>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">deaderă, deateră,
+                            dediră</form>
+                        <usg type="time" value="înv." rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dară</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădusem și
+                            dasem</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dedesem,
+                            detesem</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dăduse şi
+                            dase</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădeasă, dedease,
+                            didease, didese</form>
+                        <usg type="time" value="înv." rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dedese,
+                            detese</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dădusem,
+                            dăduserăm</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dăduseră</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">dideseră</form>
+                        <usg type="time" value="înv." rend=""/>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value="prez."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să dea</form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value="prez."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să deie</form>
+                        <usg type="geo" value="regional" rend=""/>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-63040326-f9d4-4e22-924d-9081615018c3">dedá</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="I"/>
+                        <subc value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend=","/>
+                    <usg type="plev" value="rar" rend=""/>
+                </re>
+                <etym cert="high">
+                    <idno type="cuvântul.titlu-element.moştenit-etimon.atestat"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">dare</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

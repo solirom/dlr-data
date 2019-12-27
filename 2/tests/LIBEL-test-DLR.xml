@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-059ebbfe-cb72-4109-b354-e631b4e02e11" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-05-09T12:08:06+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">LIBEL</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LIBÉL</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="n."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-dd530d3c-1b55-4ad8-9539-34c7ebb1447a" n="I.">
+                        <def xml:id="uuid-6e89a5c2-81ce-43e5-9c3f-f86c3ed5f693">Satiră</def>
+                        <usg type="register style" value="livresc" corresp="#uuid-6e89a5c2-81ce-43e5-9c3f-f86c3ed5f693" rend=""/>
+                        <def xml:id="uuid-6b6882d3-f059-478f-8a75-21adbc1b9853">pamflet</def>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="I. GOLESCU, C. | I. GOLESCU, Cond. I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>S a încercat uneori să mânuiască armele i perfide, aruncând
+                                libele contra oamenilor de merit</quote>
+                            <bibl type="unknown">
+                                <ptr target="CARAGIALE, N. F. CARAGIALE, O. III | CARAGIALE, Notiţe F. I"/>
+                                <date/>
+                                <citedRange>278</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-c85ddfac-188c-48b0-988f-e5686aca6d4a" n="II.">
+                        <sense xml:id="uuid-017361cd-0050-4fd5-89df-ca641ac3e4da" n="1.">
+                            <def xml:id="uuid-5749bd98-b79c-494e-aace-49cf53478c93"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="Cărticică" corresp="#uuid-5749bd98-b79c-494e-aace-49cf53478c93">
+                                <usg type="hint" value="în.dicționarele.din.trecut" rend=""/>
+                            </ptr>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="opuscul" corresp="#uuid-5749bd98-b79c-494e-aace-49cf53478c93"/>
+                            <cit>
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="POLIZU | POLIZU, V.polizu"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="LM | LMD I"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-c7668aa8-8ddf-4e4c-b4e4-bb39a974e054" n="2.">
+                            <def xml:id="uuid-94b8e23f-0d81-4d0a-9938-d1e0db2c6419">Caiet (pentru însemnări)</def>
+                            <def xml:id="uuid-0c452af0-0038-44ea-babd-195a3732b5e0">condică, registru</def>
+                            <usg type="geo" value="prin.Transilv." corresp="#uuid-0c452af0-0038-44ea-babd-195a3732b5e0" rend=""/>
+                            <cit>
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="ALR I/I | ALR I/I I1"/>
+                                    <date/>
+                                    <citedRange>513/107</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-b8a80bff-1709-480c-85bd-8e9c40523eda" n="3.">
+                            <def xml:id="uuid-310dcae2-3549-4ef9-8d29-6483b00e6c27">Reclamaţie, plângere (scrisă)</def>
+                            <usg type="time" value="învechit" corresp="#uuid-310dcae2-3549-4ef9-8d29-6483b00e6c27" rend=","/>
+                            <usg type="geo" value="prin.Transilv." corresp="#uuid-310dcae2-3549-4ef9-8d29-6483b00e6c27" rend=""/>
+                            <cit>
+                                <quote>Denunţările contra lui au curs neîncetat, până când au ajuns
+                                    la număru de 22, care apoi s‑au contras toate într-un libel şi
+                                    s‑au transpus respectivei comisiuni spre investigaţiune</quote>
+                                <bibl type="unknown">
+                                    <ptr target="BARIŢIU, P. A. I | BARIŢIU, P. Ist. Transilv. I"/>
+                                    <date/>
+                                    <citedRange>108<br xmlns=""/>
+                                        <br xmlns=""/>
+                                        <hi rend="italic"/>
+                                    </citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a3d9f3c3-f35a-4575-a670-12833c1f7b70" n="tip-proces-semantic">
+                            <def xml:id="uuid-ff31fb24-f517-497b-a8e8-fa0cf398c047">Libret (bancar)</def>
+                            <usg type="time" value="ieșit.din.uz" corresp="#uuid-ff31fb24-f517-497b-a8e8-fa0cf398c047" rend=""/>
+                            <cit>
+                                <quote>Deponentului i se dă la mână un libel de depuneri, un libret,
+                                    un caiet, o cărticică, un carnet în care se însemnează sumele
+                                    depuse</quote>
+                                <bibl type="unknown">
+                                    <ptr target="I. PANŢU, PR. (DA) I. PANŢU, PR. | I. PANŢU, Procent."/>
+                                    <date/>
+                                    <citedRange>62</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>Cer optzeci de mii zestre, cari bani, într-un libel de
+                                    depuneri, să mi fie predaţi în ziua cununiei</quote>
+                                <bibl type="unknown">
+                                    <ptr target="AGÎRBICEANU, A. AGÎRBICEANU, O. VII | AGÂRBICEANU, Arhang."/>
+                                    <date/>
+                                    <citedRange>263</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-e91c24fa-7f5d-43d5-bafc-8f3d5ad4bf27"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-27dbeadb-0019-423e-acdc-858bc373c100" n="">
+                        <def xml:id="uuid-e382425b-c054-46b7-98ef-b98bad99d64c"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>libele</number>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>libeluri</number>
+                        <usg type="plev" value="rar" rend=""/>
+                        <ptr targetLang="" type="sense-number" subtype="unknown" target="unknown"/>
+                        <bibl type="unknown">
+                            <ptr target="DN3 | DN3"/>
+                            <date/>
+                            <citedRange/>
+                        </bibl>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-7489df69-404a-4f03-b5d8-5e4b74fdbbfd">libélă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-d9e70445-0874-4376-877e-465405784ea3">libér</def>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                    <usg type="geo" value="regional" rend=""/>
+                    <ptr targetLang="" type="sense-number" subtype="unknown" target="unknown"/>
+                    <bibl type="unknown">
+                        <ptr target="ALR I/I | ALR I/I I1"/>
+                        <date/>
+                        <citedRange>513/107</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-c48bfe36-dc68-4a1b-991d-969ff41e1ca1">ribél</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="n."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <ptr targetLang="" type="sense-number" subtype="unknown" target="unknown"/>
+                </re>
+                <etym cert="low">
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">libellus</term>
+                </etym>
+                <etym cert="low">
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">libelle</term>
+                </etym>
+                <etym cert="low">
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="de" type="unknown" subtype="unknown">Libell</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

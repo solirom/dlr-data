@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5728b9a4-a290-4adf-a759-c9c258f2e8e2" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-14T13:27:51+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">LUARE</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LUÁRE</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-503b297e-ff77-4b95-8d78-5dea5edd1524" n="">
+                        <sense xml:id="uuid-c863df11-4da5-4c88-b5d4-d041efe66fdd" n="I.">
+                            <sense xml:id="uuid-f57fa3c9-ac1b-4437-b81c-224d0321c8a7" n="1.">
+                                <sense xml:id="uuid-72ff9e55-3e86-43f0-a3e7-7fb7a44ed3d0" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Luarea armelor</term>
+                                    </form>
+                                    <def xml:id="uuid-5eb9363e-e774-45da-9eb9-b6fd098ba4c7">pregătire de luptă</def>
+                                    <ptr targetLang="" type="syn" subtype="unknown" target="înarmare" corresp="#uuid-5eb9363e-e774-45da-9eb9-b6fd098ba4c7"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="cf.">
+                                            <ptr target="COSTINESCU | COSTINESCU, V. I"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-72236b54-6589-4fea-bb87-e09246ab3aea">Apucare (cu mâna) pentru a ţine sau a folosi, pentru a
+                                    duce cu sine sau a muta în altă parte.</def>
+                                <ptr type="trimitere" target="lua (I 1)" corresp="#uuid-72236b54-6589-4fea-bb87-e09246ab3aea"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="POLIZU | POLIZU, V."/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="COSTINESCU | COSTINESCU, V. I"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-993f1efe-67cf-4643-8e1d-a097884d4779" n="2.">
+                                <def xml:id="uuid-c2c0ae80-a64f-4fc7-8afb-22577d565b86">Aşezare pe (ceva)</def>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="punere (I 1)" corresp="#uuid-c2c0ae80-a64f-4fc7-8afb-22577d565b86"/>
+                                <usg type="plev" value="rar" corresp="#uuid-c2c0ae80-a64f-4fc7-8afb-22577d565b86" rend=""/>
+                                <ptr type="trimitere" target="lua (I 2)" corresp="#uuid-c2c0ae80-a64f-4fc7-8afb-22577d565b86"/>
+                                <cit>
+                                    <quote>Popoarele slavice... întrebuinţau... luarea pământului pe
+                                        cap.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PANAITESCU, O. Ţ. | PANAITESCU, Obştea"/>
+                                        <date/>
+                                        <citedRange>96</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6cafc511-5654-42af-90bc-b71142c45aac" n="3.">
+                                <sense xml:id="uuid-98d7eab2-8898-4e6b-b765-9ce10fc1bf82" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Luare de rod</term>
+                                    </form>
+                                    <def xml:id="uuid-72594312-4d04-4a32-8e45-ecbf9c82a5e6">jertfa din roade ale câmpului</def>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-7c591212-ef7b-41c1-832c-f268577ac751"> Aducere de jertfa (prin ardere de tot)</def>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="prinos (1)" corresp="#uuid-7c591212-ef7b-41c1-832c-f268577ac751"/>
+                                <usg type="time" value="înv." corresp="#uuid-7c591212-ef7b-41c1-832c-f268577ac751" rend=","/>
+                                <usg type="plev" value="rar" corresp="#uuid-7c591212-ef7b-41c1-832c-f268577ac751" rend=""/>
+                                <ptr type="trimitere" target="lua (I 4)" corresp="#uuid-7c591212-ef7b-41c1-832c-f268577ac751"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-dcbfac71-d12c-4559-adc8-22ca20790c4f"/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a298eadc-c171-4265-9183-271e2406acf8" n="II.">
+                            <sense xml:id="uuid-acc17df2-2c5a-4a92-b095-0d6d07ded1fe" n="1.">
+                                <sense xml:id="uuid-0d2a4490-cd75-4ef1-b355-243e1cf8c56e" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Luare din păr</term>
+                                    </form>
+                                    <def xml:id="uuid-2e81d137-d186-4aaa-a218-24aeda6d4b2e"> tundere pentru prima oară a unui copil, tăin- du-i-se
+                                        un smoc de păr</def>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-6cf819e3-5693-4d22-af22-02a18b4fc1bd" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Luare afară</term>
+                                    </form>
+                                    <def xml:id="uuid-1208ea1c-b498-4f46-95c0-58b9feb534f8">excepţie</def>
+                                    <ptr targetLang="" type="syn" subtype="unknown" target="exceptare" corresp="#uuid-1208ea1c-b498-4f46-95c0-58b9feb534f8"/>
+                                    <ptr targetLang="" type="syn" subtype="unknown" target="excludere" corresp="#uuid-1208ea1c-b498-4f46-95c0-58b9feb534f8"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-16e4e0dc-7e3d-4062-a339-501603ec5679" n="♦">
+                                    <def xml:id="uuid-d797992d-2f4d-4436-bca7-40c8120e97a3"> Desprin­ dere din locul în care se afla, unde a fost
+                                        fixat</def>
+                                    <cit>
+                                        <quote>Tabloul înfăţişează luarea lui Hristos de pe
+                                            cruce</quote>
+                                        <bibl type="▭">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-7b3a0b4b-2b82-409b-896b-4693997b476c" n="♦">
+                                    <def xml:id="uuid-076f76db-cc7d-4d0a-b200-cdd4f387ab67"> Dispariţie a unui fenomen al naturii</def>
+                                    <usg type="register style" value="popular" corresp="#uuid-076f76db-cc7d-4d0a-b200-cdd4f387ab67" rend=""/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-8b583a44-cb6c-4101-a94c-ec41119ff77c">Dare la o parte a unui obiect, îndepărtare (de pe...),
+                                    înlăturare</def>
+                                <ptr type="trimitere" target="lua (II 1)" corresp="#uuid-8b583a44-cb6c-4101-a94c-ec41119ff77c"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-4c131579-117a-4abd-8818-0ede52069ff4" n="2.">
+                                <sense xml:id="uuid-b7c0b953-17d8-4109-8ffb-e26ea46faa7a" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Luare din scaun</term>
+                                    </form>
+                                    <def xml:id="uuid-3d71790e-1e1e-48c4-ae03-ec098f20f5a6"> înlăturare de la domnie; detronare</def>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-273fb8bd-3189-4c4c-8fac-68f6e4d4ebf0" n="♦">
+                                    <def xml:id="uuid-4f7c5ec8-a319-42a8-8976-d774152299c0"> Lipsire a cuiva de ceva (fară intenţia de a-şi însuşi
+                                        acest lucru)</def>
+                                    <ptr type="trimitere" target="lua (II 2)" corresp="#uuid-4f7c5ec8-a319-42a8-8976-d774152299c0"/>
+                                    <cit>
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-fdb0a2d9-ee1c-42a7-88af-e0f05f390384">îndepărtare a cuiva dintr-o funcţie</def>
+                                <def xml:id="uuid-c1977351-6b92-48bc-a4cc-6d8d780a43ec">lipsire a cuiva de o funcţie, de o demnitate, de un
+                                    drept</def>
+                                <ptr type="trimitere" target="lua (II 2)" corresp="#uuid-c1977351-6b92-48bc-a4cc-6d8d780a43ec"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-24daa23d-21af-44b1-b418-09dd19b4a0f1" n="3.">
+                                <def xml:id="uuid-6940835a-fe35-4cce-bcb9-9f405bd9832d">Scoatere de ceva (mai ales de materii) în cantitate
+                                    limitată.</def>
+                                <ptr type="trimitere" target="lua (II 3)" corresp="#uuid-6940835a-fe35-4cce-bcb9-9f405bd9832d"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-970704d6-108c-4784-ae55-51dbffc3417b"/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-688f3bde-98b5-478b-8b3a-60e8c1c9c119">Acţiunea de a lua şi rezultatul ei.</def>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-010e6656-d636-4f22-ac2b-3748c2c33e46" n="">
+                        <def xml:id="uuid-76364d3b-a1c4-4ac1-a5f0-e86ad0d505c6"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="">
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">lu-a-</syll>
+                </form>
+                <form type="writing">
+                    <oVar>luoare</oVar>
+                    <usg type="time" value="înv." rend=""/>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>luări</number>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
+                        <case value="gen.-dat.">luării</case>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
+                        <case value="gen.-dat.">luarei</case>
+                        <usg type="time" value="înv." rend=""/>
+                        <usg type="plev" value="rar" rend=""/>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-bec49a7e-a8b2-479e-bf15-42ba5a17b7a1">loâre</def>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend="și"/>
+                    <usg type="geo" value="regional" rend=""/>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-8879f95e-2579-4e49-9f99-2ded9a0b31ff">luore</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend=""/>
+                    <form type="grammatical-information">
+                        <idno type="grammatical-information-type-for-adj-et-al"/>
+                        <idno type="grammatical-information-subtype-for-pl"/>
+                        <form type="grammatical-information-for-plural" corresp="">
+                            <number>luori</number>
+                            <usg type="time" value="înv." rend=""/>
+                        </form>
+                    </form>
+                    <form type="grammatical-information">
+                        <idno type="grammatical-information-type-for-adj-et-al"/>
+                        <idno type="grammatical-information-subtype-for-pl"/>
+                        <form type="grammatical-information-for-plural" corresp="">
+                            <number>luore</number>
+                            <usg type="time" value="înv." rend=""/>
+                            <bibl type="unknown">
+                                <ptr target="L. ROM. | LR I −"/>
+                                <date>1960</date>
+                                <citedRange> nr. 3,94</citedRange>
+                            </bibl>
+                        </form>
+                    </form>
+                </re>
+                <etym cert="low">
+                    <idno type="cuvântul.titlu-formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="lua"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

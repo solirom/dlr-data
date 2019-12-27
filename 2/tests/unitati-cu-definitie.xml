@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="unitati-cu-definitie" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2018-04-24T12:16:42+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n=""/><stress xml:lang="ro-x-accent-upcase-vowels"/>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-77738896-baea-48aa-a4df-016ce35e5454" n="1.">
+                        <form type="unitate-semantică-subsumată">
+                            <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <term>A pune dahii</term>
+                        </form>
+                        <def xml:id="uuid-a29e8f5a-724f-4176-9dbc-ca272b8528bd">a vorbi în
+                            dodii</def>
+                        <def xml:id="uuid-c8a59200-5d71-4a06-9572-43496734b7fb">a bâigui</def>
+                        <def xml:id="uuid-7bd079ef-53ff-4b5f-a828-cc796a7c73b6">a spune lucruri fără
+                            importanță</def>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-38cfc210-9297-4bfa-9d56-5f8042848d26" n="">
+                        <def xml:id="uuid-d070bd34-4c50-4417-beba-e574de77250b"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="unknown"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

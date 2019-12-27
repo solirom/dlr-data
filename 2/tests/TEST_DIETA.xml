@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-fa4d6cd7-ccb0-4b34-b0d7-23264e2ae1b0" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2016-05-24T12:00:49+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">DIETA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DIÉTÁ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <name type="unknown"/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-61577462-a9d7-413d-a63c-24aedd592fa1" n="">
+                        <sense xml:id="uuid-0ce8187b-51a4-40dc-a834-18bd434c46cb" n="◊">
+                            <def xml:id="uuid-fbcbeb68-237b-4fa7-85f1-30b630e2d474"/>
+                            <usg type="" value="fig." corresp="#uuid-fbcbeb68-237b-4fa7-85f1-30b630e2d474" rend=""/>
+                            <cit>
+                                <quote>Cel ce voiaşte a să folosi din cetire, trebue neapărat să urmeză
+                                dieta aceasta, adecă, după ce va ceti în linişte ...să închiză
+                                cartea şi să se întrebe pe sine ce au cetit</quote>
+                                <bibl type="unknown">
+                                    <ptr target="BV III (DA) BV | BRV III1-2 (I-II subscript)"/>
+                                    <date>1824</date>
+                                    <citedRange>441</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-a2aa52ac-ac5a-4388-a50b-a027c596fa49">Regim alimentar special, recomandat de medic în scop terapeutic sau
+                        pentru menţinerea sănătăţii</def>
+                        <ptr type="syn" target="regim (2)" corresp="#uuid-a2aa52ac-ac5a-4388-a50b-a027c596fa49"/>
+                        <cit>
+                            <quote>Altă mâncare a mânca nici pofta mă îndemna, nici diieta doftoriilor
+                            mă lăsa.</quote>
+                            <bibl type="unknown">
+                                <ptr target="CANTEMIR, I. I. I–II CANTEMIR, IST. CANTEMIR, O. C. IV | CANTEMIR, Ist. Ier."/>
+                                <date>&lt;1704-1705&gt;</date>
+                                <citedRange>409</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>.</quote>
+                            <bibl type="cf.">
+                                <ptr target="IPOCRAT | A. Ippocrat"/>
+                                <date>a 2-a jum. a sec. XII</date>
+                                <citedRange>1</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-3dbe3581-596e-4cbe-a981-6e28e9fe7ae1" n="">
+                        <def xml:id="uuid-5406446e-4aaf-4410-b365-174f0fa67229"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="">
+                    <pVar>di-e-</pVar>
+                </form>
+                <form type="writing">
+                    <oVar>diietă</oVar>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>diete</number>
+                    </form>
+                </form>
+                <etym>
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <certainty cert="high" locus="value"/>
+                    <term xml:lang="grc" type="unknown" subtype="unknown"> S iaixa</term>
+                </etym>
+                <etym>
+                    <idno type="cuvântul.titlu-element.moştenit-etimon.atestat"/>
+                    <certainty cert="high" locus="value"/>
+                    <term xml:lang="la" type="" subtype="unknown">diaeta</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>
