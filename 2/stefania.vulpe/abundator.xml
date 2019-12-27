@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d09c83ae-2e38-425c-87ff-8c56bfa40d60" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-19T13:33:46+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abundător</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUNDĂTÓR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9bad9c35-6978-49b8-acb2-4e062b9ac572" n="">
+						<def xml:id="uuid-d200fb85-e1d8-4834-b75e-42cb9a51bd12">Care abundă.</def>
+						<usg corresp="#uuid-d200fb85-e1d8-4834-b75e-42cb9a51bd12">
+							<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Iășea Nilul cu răvărsarea apelor sale celor <hi rend="bold">abundătoare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6befbd90-5c1d-7bf4-9a20-246c0cfa1366"/>
+								<date>1837</date>
+								<citedRange>XVII/7</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-36c5b591-21f0-4779-8d37-b40259425fa1" n="">
+						<def xml:id="uuid-800939ae-e9d4-4771-aa32-d4bc8fd365db"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+						<term>-OARE </term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abundători, -oare</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="Abunda"/>
+                    <term xml:lang="" type="sufix" subtype="unknown">-(ă)tor</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

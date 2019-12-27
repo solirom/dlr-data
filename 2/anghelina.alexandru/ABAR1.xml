@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6c3681af-f90a-412d-95db-ed5c2507fe5b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T15:40:49+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">abar</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-11b63748-a38d-4479-88a6-27a8a1cf0f99" n="">
+						<def xml:id="uuid-8a587d58-c131-40b1-8eb8-03b0b3d70ac5">Abagiu.</def>
+						<usg corresp="#uuid-8a587d58-c131-40b1-8eb8-03b0b3d70ac5">
+							<seg type="geo" rend="usg">Reg.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date/>
+								<citedRange>1 792/934. (Militari) București</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6b83a7a6-be7e-42bb-ab73-cf1dcc99a81f" n="">
+						<def xml:id="uuid-3e885539-1cb7-4087-a917-213d9b5a510d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abari</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Aba3"/><term xml:lang="" type="sufix" subtype="unknown">ar</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

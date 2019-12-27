@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6f42ba56-08dd-4201-b75e-93ede9c88151" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T14:56:34+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abumarkub</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUMARKÚB</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-841c0b1a-28c1-4378-970a-fcdba4f8a9c1" n="">
+						<def xml:id="uuid-eb9bd18a-0467-4ebd-a021-c7000253fa61">Pasăre de talie
+							înaltă, din familia <hi rend="italic">Balaencipitidae</hi>, originară
+							din Africa, asemănătoare cu struțul, cu gâtul scurt și gros, cu capul
+							mare și cioc enorn și lat, de forma unui sabot (<hi rend="italic">Balaeniceps rex</hi>).</def>
+						<usg corresp="#uuid-eb9bd18a-0467-4ebd-a021-c7000253fa61">
+							<seg type="dom" rend="usg">ORNIT.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39"/>
+								<date>2002</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b8c60eb6-cad5-480e-b1e0-71c3318f92ec" n="">
+						<def xml:id="uuid-c8cae5ff-a94c-4dfd-8964-fda655342af5"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="cuvânt.internațional"/><term xml:lang="" type="unknown" subtype="unknown"/>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abu-markub</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">Abu Markub</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

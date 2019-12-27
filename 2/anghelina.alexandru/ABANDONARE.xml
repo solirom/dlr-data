@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2b2d14ad-982f-4e55-bbf4-52737839a12c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-13T12:35:54+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abandonare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABANDONÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-36f09e14-e004-4c31-9be3-b6eb962062d2" n="">
+						<sense xml:id="uuid-4ea6b7c5-69be-4ee0-95ff-4a2baa93879a" n="1.">
+							<sense xml:id="uuid-ca60d6f5-1ea0-4ac2-8bf3-cfae0ad718f8" n="✦">
+								<def xml:id="id">Părăsire a copiilor, a familiei sau a persoanelor
+									asistate, lăsându-le fără sprijin.</def>
+								<usg corresp="#id">
+									<seg type="dom" rend="usg">JUR.</seg>
+								</usg>
+								<cit type="unknown">
+									<quote>Jean Guéret e fals în toată atitudinea şi hotărârea lui
+										de <hi rend="bold">abandonare</hi> a căminului, a soţiei şi
+										a copilei.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">cortina</ptr>
+										<date>1913</date>
+										<citedRange>129</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Cauzele de drept penal. Ele aparțin dreptului bizantin:
+										a) expunerea copiilor și <hi rend="bold">abandonarea</hi>
+										lor; b) prostituarea unei fiice de către tatăl său.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hamangiu</ptr>
+										<date>1930</date>
+										<citedRange>258</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Acela care, având sub paza sa, sau îngrijirea sa o
+										persoană… îi pune în pericol iminent vieața, sănătatea sau
+										integritatea corporală, comite delictul de <hi rend="bold">abandonare</hi> a persoanelor neputincioase.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod. pen</ptr>
+										<date>1936</date>
+										<citedRange>143</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Frecvente... [în secolul al XV-lea] erau cazurile de
+										infanticid şi de <hi rend="bold">abandonare</hi> a noilor
+										născuţi – în primul rând, desigur, a copiilor
+										nelegitimi.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+										<date>1994</date>
+										<citedRange>413</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Voi veghea la promulgarea unor legi ce vor proteja
+										copilul, femeia, bătrânul, handicapatul – şi vor pedepsi cu
+										dreaptă severitate maltratarea, violentarea, violarea, <hi rend="bold">abandonarea</hi>, exploatarea (femeii, a
+										copilului).</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3e794073-96ce-a5a2-171d-466688455f7c">goma</ptr>
+										<date>2000</date>
+										<citedRange>413</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Părăsire a ceva sau a cuiva; renunțare la ceva:</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="lăsare (I 1)"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abandona (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Știi d-ta ce simț io și trebuie să simtă oricine care cât de
+									puțin ș-au studiat limba istoricește? Greață! abandonament! <hi rend="bold">abandonare</hi>! etc.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
+										contem</ptr>
+									<date>1847</date>
+									<citedRange>271</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu trebuie a merge până a se lăsa să se resipească aceste
+									templuri, cari sunt, precum a zis domnul ministru al cultelor,
+									nu numai nişte monumente religioase ci şi istorice, şi asemenea
+										<hi rend="bold">abandonare</hi> poate să aducă ruină unui
+									capital foarte scump.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-152f9909-0a44-0bfe-9c78-4ff2f2b30e79">orat.</ptr>
+									<date>1864</date>
+									<citedRange>42</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Becattini zice că ceea ce a îndemnat pre Turcia să facă pre
+									Manole Domn Moldovei a fost dorința ca să deae a crede Europei
+									că <hi rend="bold">abandonarea</hi> Iașilor… nu au schimbat în
+									nimica starea afacerilor ei în Moldova.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5634939d-2803-020e-752a-546b3edb2d3f">ist.
+										rom</ptr>
+									<date>1892</date>
+									<citedRange>180</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Când criticul a primit şi sancţiunea opiniei publice prin
+									aprobarea acţiunei sale şi prin <hi rend="bold">abandonarea</hi>
+									favoritului de până mai ieri, înseamnă că lovitura a fost
+									meritată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cd550141-a4b0-5586-9375-cda6f0b10e0c">chendi</ptr>
+									<date>1904</date>
+									<citedRange>142</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Poezia aceasta… sufere de câteva concesii ori <hi rend="bold">abandonării</hi> versului liber.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-556f4cde-6193-504c-14b3-92d071e71d83">ibrăileanu</ptr>
+									<date>1921</date>
+									<citedRange>134</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Distingerile plus-cunoaștere, zero cunoaștere, minus
+									cunoaștere nu izbutesc să ne consoleze de <hi rend="bold">abandonarea</hi> conceptului de cunoaștere.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">arta
+										liter</ptr>
+									<date>1931</date>
+									<citedRange>272</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu sunt decât două soluţii: sau <hi rend="bold">abandonarea</hi> asediului, lăsând oraşul să se predea prin
+									foame după ce se vor fi sfârşit proviziile − sau distrugerea lui
+									prin artileria grea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0c21e14f-4671-8e87-09e7-8c6275419cfd">argetoianu</ptr>
+									<date>1941</date>
+									<citedRange>267</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Jurubița] e capabilă în același timp de elanuri, dar și de
+										<hi rend="bold">abandonări</hi> sincere.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+										rom</ptr>
+									<date>1955</date>
+									<citedRange>iulie, nr. 7, 243</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>El alege, consemnând cel puțin pe planul tematic, <hi rend="bold">abandonarea</hi> eroticii ușoare și
+									superficiale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f0d46dd4-9012-45d4-16b2-cc32397ea7a8">cornea</ptr>
+									<date>1972</date>
+									<citedRange>354</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>A[buz] de d[rept] p[rocesual] prezintă două laturi şi anume:
+									una de natură subiectivă constând in exercitarea dreptului cu
+									rea-credinţă fie în scopul de a-l şicana pe adversar, fie
+									deliberat în vederea constrângerii acestuia la anumite concesii
+									sau chiar la <hi rend="bold">abandonarea</hi> dreptului
+									său.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr.
+										priv</ptr>
+									<date>1997</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se înregistrează, la un moment dat, o oarecare tendinţă de
+										<hi rend="bold">abandonare</hi> a sufixului, numeroase
+									împrumuturi, dar şi verbe mai vechi fiind atrase spre clasa fără
+									sufix.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-40ef8c33-41ce-68b4-6333-2cf7a0c25d09">galr</ptr>
+									<date>2005</date>
+									<citedRange>560</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Faptul se datoreşte <hi rend="bold">abandonării</hi>
+									tipurilor orientale de obiecte şi materiale folosite pentru
+									fumat şi adoptării altora, de sorginte occidentală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4cebded3-a294-97fc-8fe5-0eefae33a162">infl.
+										tc</ptr>
+									<date>2009</date>
+									<citedRange>383</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cfea8c4f-7642-456c-be95-245e6cd54df3" n="2.">
+							<def xml:id="id">Lăsare la voia întâmplării. </def>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<xr type="analog" corresp="#id">
+								<ptr target="apatie"/>
+							</xr>
+							<xr type="analog" corresp="#id">
+								<ptr target="delăsare"/>
+							</xr>
+							<xr type="analog" corresp="#id">
+								<ptr target="nepăsare"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abandona (2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Actorul care, prin concepţiunea ingenioasă a principiului de
+									viaţă universal al caracterelor, prin spiritul intenţiunilor
+									sale, ocupă şi surprinde pe spiritul cugetător, răpeşte totodată
+									simţirei plăcerea unei <hi rend="bold">abandonări</hi> totale la
+									viaţa ce pare reală şi la mişcarea cea liberă a unui om
+									individual.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6b030d96-5649-1498-66e7-73a6c1cd9bf9">eminescu</ptr>
+									<date>&lt;1866–1878&gt;</date>
+									<citedRange>269</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>El căuta s-o consoleze în <hi rend="bold">abandonarea</hi> și
+									durerea ei. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8859d686-02d9-1af6-a435-e697172364ea">grandea</ptr>
+									<date>1887</date>
+									<citedRange>352</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cântecul de supunere, de <hi rend="bold">abandonare</hi> al
+									unei femei poate să placă bărbatului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d35742da-9bd6-0733-58fa-e49997095291">opinii</ptr>
+									<date>1906</date>
+									<citedRange>121</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cuvântul artă evocă mai multă conștiență, mai multă voință...
+									pe când cuvântul poezie evocă mai mult sentiment, mai multă
+									sinceritate, mai multă spontaneitate, mai multă <hi rend="bold">abandonare</hi>, mai multă inspiraţie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-556f4cde-6193-504c-14b3-92d071e71d83">scriit.</ptr>
+									<date>1921</date>
+									<citedRange>135</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În genere [Eminescu] era resemnat, liniștit până la umor, de
+									un umor care prevestea o nouă <hi rend="bold">abandonare</hi> în
+									voia spumelor demenţei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">viața
+										em</ptr>
+									<date>1932</date>
+									<citedRange>292</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am ştiut că Maitreyi mi se dă toată în acea <hi rend="bold">abandonare</hi> a gleznei şi a pulpei, aşa cum nu se mai
+									dăduse vreodată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-748e47d7-5db2-832c-39e4-51b534b87b14">maitre</ptr>
+									<date>1933</date>
+									<citedRange>64</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ideea crimei nu-mi apărea atunci când ea... mă înlătura, ci
+									atunci când mi se da cu multă <hi rend="bold">abandonare</hi>,
+									când aveam sentimentul că este mai mult a mea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b0df50d2-2baa-8f2d-77e4-9fecb03b7113">obsesia</ptr>
+									<date>1946</date>
+									<citedRange>105</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dumneata înţelegi prin acceptare <hi rend="bold">abandonare</hi>. Prin acceptarea a ceea ce există, inclusiv
+									suferinţa, eu înțeleg angajarea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5bda1e3a-4573-19a0-8aea-14b20b50684a">risipitor</ptr>
+									<date>1962</date>
+									<citedRange>695</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Armele erau ţinute cu o uşoară <hi rend="bold">abandonare</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-524df20b-766f-5efe-1f81-23ca15b38339">nord</ptr>
+									<date>1967</date>
+									<citedRange>282</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dincolo de pânza subţire atârnau două picioare lungi, într-o
+										<hi rend="bold">abandonare</hi> ce trăda o mare
+									oboseală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8aafe7f3-2bb5-8f34-463e-2f22b4f578d0">princi</ptr>
+									<date>1969</date>
+									<citedRange>523</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pacea pe care poate o visa el nu era cea visată de tatăl ei.
+									Nicidecum. O <hi rend="bold">abandonare</hi>. Totul, în mâinile
+									Domnului!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-33acaabf-006a-8907-0041-5309274aa0bb">orașul</ptr>
+									<date>1985</date>
+									<citedRange>331</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fiecare abandonare a simţurilor într-un dans lâncezind de
+									voluptate sau plesnind de delir vital deslănţuit este … un dans
+									macabru.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">frunzetti</ptr>
+									<date>1985 (†)</date>
+									<citedRange>228</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ele [relațiile] oscilează, în primul rând instinctiv, între
+									dezinteres, indiferență, <hi rend="bold">abandonare</hi> și, în
+									unele cazuri, chiar repudiere „afectivă”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-59b3155f-861c-468d-6b34-fe1d11bb87d8">marino</ptr>
+									<date>1999</date>
+									<citedRange>129</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mărioara zăcea în aceeaşi poziţie de abandonare, cu ochii
+									ridicaţi în tavan şi mâinile împreunate pe pântece.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa9e4478-a591-7f8a-4bd4-2565e8036663">biruit.</ptr>
+									<date>2002</date>
+									<citedRange>145</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-42bbf06a-d715-45ce-9a2b-f262396cc138">Acțiunea de <hi rend="spaced">a (se) abandona</hi> și rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1f625840-86d3-4859-85dd-ee944349a1a2" n="">
+						<def xml:id="uuid-0f01e8c1-db86-4e0b-9057-d23c40e7df02"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abandonări</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășesc</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db994243-75a0-8ec8-58ea-7ef28e3f725b">barcianu</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">COSTINESCU</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">steinber</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-62ba4608-73a4-12cd-438e-5539461f2aa0">severin</ptr>
+						<date>1923</date>
+						<citedRange>21</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">Dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

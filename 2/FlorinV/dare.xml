@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2edfc8e8-7063-472f-896e-22104a17f5ad" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Dana-Melania</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-28T10:58:27+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">dare</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">dare</stress>
+                    <syll/>
+                    <pron/>
+                    
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-89ac4f72-bf00-4111-8650-a35bb1bf2744" n="">
+                        <sense xml:id="uuid-8412786e-25d6-4279-bac2-3cce77596315" n="">
+                            <sense xml:id="uuid-eeb9cf18-a0e2-49c6-a53b-c61b82fb409f" n="1.">
+                                <sense xml:id="uuid-9fc9ac05-2e27-4b88-9145-decb6527cc13" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>dare de seamă</term>
+                                    </form>
+                                    <def xml:id="uuid-3788d23a-c240-40e5-ae95-483c26ac3d4f">a) raport, referat asupra unei activităţi, a unei
+                                        gestiuni etc.</def>
+                                    <def xml:id="uuid-a937a680-586c-4618-aa68-b55bf26536ee"> b) prezentare critică a unei scrieri literare sau
+                                        ştiinţifice; recenzie. </def>
+                                    <def xml:id="uuid-33ca6b45-7c3c-4b97-ae64-9c540d2831f5"> c) relatare, mai ales în ziare, a unor întâmplări,
+                                        fapte etc. </def>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="cf.">
+                                            <ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-3405a027-2d00-47d9-b3f1-ab76df98b930" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>dare la semn</term>
+                                    </form>
+                                    <def xml:id="uuid-903fefd1-25ec-4871-9677-272caab9a8ad">tragere la ţintă.</def>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-668b7314-7113-4c30-aff2-7a33789c3581" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>darea de
+                                        mână/mâinii</term>
+                                    </form>
+                                    <def xml:id="uuid-ef03b237-3f18-4f75-b41a-cc4bbb083c86"> se face la încheierea unei afaceri, a unei logodne
+                                        etc. </def>
+                                    <usg corresp="#uuid-ef03b237-3f18-4f75-b41a-cc4bbb083c86">
+                                        <seg type="time" rend="usg">Învechit</seg> și <seg type="register style" rend="usg">popular</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0"> Faptul de a întinde sau de a aduce, de a pune în
+                                    apropierea sau la îndemâna cuiva ceva.</def>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target=" încredinţare"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target=" înmânare"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target="predare  (1)"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target="oferire"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target="remitere  (1) "/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target=" încredere"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target="paradosire (2)."/>
+                                </xr>
+                                <xr type="analog" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                    <ptr target=" d a 3  (I  1)."/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote>Blagosloveaşte sufletul mieu Domnul şi nu uita toate
+                                        dările lui. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-6999b371-00a3-0906-57b2-418e3ed3771c"/>
+                                        <date/>
+                                        <citedRange>425. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-7992d0fc-6241-4416-824a-45ae2a5bfc4e"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-d5c63ae9-9ce8-4ba1-8b6e-f4129ad611a6">Acţiunea de a d a 3 şi rezultatul ei.</def>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-f1d14c4c-2d9e-4961-88b1-1e31269abdfc" n="">
+                        <def xml:id="uuid-d1ddb9bd-0cd0-49bd-a962-d6082ccfadc8"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="unknown"/>
+                </form>
+                <etym cert="high">
+                    <idno type="unknown"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

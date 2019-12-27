@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-fcdefc3d-7f92-4ff7-bb77-727ae3dc4da8" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catamara</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-22T17:45:38+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">ACOLURIE</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">ACOLURĺE</stress>
+                    <syll/>
+                    <pron/>
+                    
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-1fea50b4-4145-464c-898d-421907ce86bd" n="">
+                        <def xml:id="uuid-eff0d2e3-f4b1-4c43-8799-6c35053df3c9">Absenţă a pigmenţilor biliari din urină.</def>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-8e67e641-a051-4327-9914-1dc218bd6aa5" n="">
+                        <def xml:id="uuid-22d06d98-00d5-49f6-8420-0bb401ddf6ca"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>acolurii</number>
+                    </form>
+                </form>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">acholurie</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

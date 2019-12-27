@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7ff55985-ea34-42ef-8997-32c4fd62b6df" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-13T13:01:26+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">ACETIL</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">ACETÍL</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m."/>
+                    <number value="sg."/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-93644a8e-1ff9-41b8-a65c-2b08c46402b8" n="">
+                        <def xml:id="uuid-1386bece-d156-46b2-8762-eb5a9b9f6209">Radical organic monovalent, derivat de la acidul acetic</def>
+                        <usg corresp="#uuid-1386bece-d156-46b2-8762-eb5a9b9f6209"><seg type="dom" rend="usg">Chim.</seg></usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-2d0e6c7c-076b-46c9-89d9-f51ac63e4bf1" n="">
+                        <def xml:id="uuid-0c24113b-030d-4044-888f-b54421ebcfce"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">acétyle</term>
+                    <note type="unknown" n="unknown" cert="high">
+                        <term/>
+                    </note>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

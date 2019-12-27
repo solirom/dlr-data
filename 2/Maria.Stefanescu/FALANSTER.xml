@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7864798b-6ac1-47f6-ad75-5df0b06b1aaf" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mirceaminica</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-08-24T18:55:49+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">FALANSTÉR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-318dad84-73a9-4597-a490-0a600e2a14be" n="1.">
+						<def xml:id="uuid-317e1c90-f91c-4fb6-9018-c216d4aacef2">Celulă
+							social-economică primară, care urma să funcţioneze ca o asociaţie de
+							producţie şi consum bazată îndeosebi pe îndeletniciri agricole,
+							proiectată de socialistul utopist francez Fourier, destinată viitoarei
+							societăţi imaginate de el.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="cf.">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">NEGULICI</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Diamant însă s-a întors în ţară, bine hotărât a persista în acele
+								idei şi a organiza societatea noastră încadrate pe falanstere ca
+								tabla de joc de şah.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe">GHICA</ptr>
+								<date>1879–1886</date>
+								<citedRange>331</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A consacrat moşia sa din Prahova… pentru înfiinţarea unui
+								falanster.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe">GHICA</ptr>
+								<date>1879–1886</date>
+								<citedRange>299</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bugetul e falansteriul revoluţiei intelectuale şi morale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">EMINESCU</ptr>
+								<date>1882–1883; 1888–1889</date>
+								<citedRange>144</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Naum făcea parte dintre vizitatorii intermitenţi ai falansterului
+								de la Dumbrăveni.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-fd22ee31-fd1d-40ee-9860-d913e0214a70" n="2.">
+						<def xml:id="id">Sistem de locuinţe în comun, cu ateliere, biblioteci,
+							cantine etc., destinat unui falanster (1).</def>
+						<cit type="unknown">
+							<quote>Îmi arată falansterul construit pentru lucrători.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7308652e-2110-131a-5e5b-b87e3d28302e">C.
+									PETRESCU</ptr>
+								<date>1922</date>
+								<citedRange>216</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O realizare model… au fost, la un moment dat, „Căminele unite”:
+								studenţi… de peste Prut au închiriat o casă foarte spaţioasă…, după
+								amenajarea ei… am vizitat acest cămin… am cunoscut… şi unul dintre
+								conducătorii acestui „falanster”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3447b573-2f10-0337-6245-2ca97f974937">IORDAN</ptr>
+								<date>1977</date>
+								<citedRange>253</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-e40069ad-0afd-4f61-aa0a-9aa7e692c2b0" n="3.">
+						<def xml:id="id">Grup de persoane care trăiesc în comun, (ca) într un
+							falanster (1).</def>
+						<cit type="unknown">
+							<quote>Până atunci locuise la Avram Rotaru, unde se înfiripase un
+								adevărat falanster.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cdabddd3-46d9-4f22-29dd-274891555d10">BENIUC</ptr>
+								<date>1959</date>
+								<citedRange>298</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rotaru hotărî definitiv să spargă falansterul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cdabddd3-46d9-4f22-29dd-274891555d10">BENIUC</ptr>
+								<date>1959</date>
+								<citedRange>302</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În acest falanster al celor trei familii urma să se reconstituie
+								în mic ţara lăsată departe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-72e96c2e-120b-88bf-2d03-0c45faa875a8">CIOCULESCU</ptr>
+								<date>1935–1972</date>
+								<citedRange>240</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-266de1d8-8ecc-4977-9be4-c28fdcc8f04c" n="">
+						<def xml:id="uuid-8ab71bd2-4a1c-4436-9626-8ebbd263928e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="unknown"/>
+				</form>
+				<etym cert="high">
+					<idno type="Din fr. phalanstère."/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

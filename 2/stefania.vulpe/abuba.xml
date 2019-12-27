@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-13001838-971b-4843-8ee7-b029e618d091" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-13T11:51:19+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abubă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ÁBUBĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-282a23f6-80b2-4ba8-ae0a-20d8fafa43af" n="">
+						<def xml:id="uuid-424225f3-e468-4bda-b160-d8237d246885">Abces alveolar</def>
+						<usg corresp="#uuid-424225f3-e468-4bda-b160-d8237d246885">
+							<seg type="dom" rend="usg">MED.</seg>
+							<seg type="register style" rend="usg">Pop. </seg>
+						</usg>
+						<ptr type="trimitere" target="abces"/>
+						<cit type="unknown">
+							<quote>Coacerea <hi rend="bold">abubei</hi> să poate grăbi punând des
+								cataplazme de făină de in, cât se poate de calde şi făcând des
+								gargară cu ceai cald de muşăţel, iar după ce a spart sau s-a deschis
+								să să urmeze cu gargară de acid boric (4%) pentru a desinfecta gura,
+								până la vindecare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bianu</ptr>
+								<date>1910</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abubă</hi> [=] umflare dureroasă a gurii la
+								prunci.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">d.
+									etim</ptr>
+								<date>1924</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abubă</hi> [=] Bubă vânătă, negricoasă,
+								înveninată și foarte dureroasă, care se face mai adesea în
+								gură.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+								<date>1931</date>
+								<citedRange>4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bubele dulci şi deochiul Se tămăduiesc cu ghiocul; <hi rend="bold">Abuba</hi>, gingia şi gălbinarea Trec repede ca
+								ţigarea. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1a39b8a7-8191-2a04-57d9-c127ef861ac4">mucig</ptr>
+								<date>1931</date>
+								<citedRange>231</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Descântecul] … de bubă, <hi rend="bold">abubă</hi>, bubă rea,
+								bubă neagră, bubă vânătă, bubă din cap, bube rele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-47d9f900-81f7-3177-0bfa-39c8e5d20fff">gorovei</ptr>
+								<date>1931</date>
+								<citedRange>252</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lista boalelor care se pot căuta cu leacurile arătate în această
+								carte: … <hi rend="bold">abubă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-399f7bb5-16de-0f04-8597-d84eeca121b0">leacuri</ptr>
+								<date>1935</date>
+								<citedRange>9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abubă</hi>. (Abces alveolar) Umflarea gingiilor
+								și a obrazului din pricina unui dinte stricat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-187b9735-57d6-7f02-3b86-130d27107cd9">boli</ptr>
+								<date>1936</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Abcesul alveolar e numit <hi rend="bold">abubă</hi>, adică ,,acea
+								bubă”, buba primejdioasă, ştiută de toţi, temându-se de a rosti
+								adevăratul ei nume.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8e94d50c-01fe-4552-4f6d-7f2f47f49f5b">folc</ptr>
+								<date>1944</date>
+								<citedRange>271</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poate cădeți cu zgaidele-n sus din copaci, Vă scrântiți noada,
+								ori veniți cu vreo brobință, vreo <hi rend="bold">abubă</hi>, cu
+								vreo brâncă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b2dfbc58-54ce-0968-1c21-70eaa9404647">lilieci</ptr>
+								<date>1977</date>
+								<citedRange>308</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medical</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote><hi rend="bold">Abubă </hi>[=] buba rea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5a4b537f-8cec-3827-1374-d5b0ec7c852c">vâlcea</ptr>
+								<date>1910</date>
+								<citedRange>89</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1df8c57a-5281-4c55-bc87-08d46fd5d851" n="">
+						<def xml:id="uuid-aaedc73c-22b6-42d9-be93-d79695efb882"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abube</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/><ptr targetLang="" type="component-element" subtype="unknown" target="Pron. a"/><ptr targetLang="" type="base-word" subtype="unknown" target="bubă"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-9c19b487-a1ec-1a2f-7c98-f23fec8117f0">jahr</ptr>
+						<date>1913</date>
+						<citedRange>19</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">D. etim</ptr>
+						<date>1966</date>
+						<citedRange>s.v. <hi rend="italic">bubă</hi></citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

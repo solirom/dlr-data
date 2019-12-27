@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7e083dff-576c-42e6-bbe1-065741b6af5e" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catamara</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-23T12:23:17+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DÂNSUL, DÂNSA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DÂNSUL, DÂNSA</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="pron."/>
+                    <subc value="pers."/>
+                    <gen value=""/>
+                    <per value=""/>
+                    <number value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <gramGrp>
+                    <pos value="subst."/>
+                    <number value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-e82c7ffb-003f-49e0-b186-341a84faa4a3" n="I.">
+                        <sense xml:id="uuid-c0c2e057-8d2d-4e29-810a-39940be13068" n="1.">
+                            <sense xml:id="uuid-efdd9e3d-eda2-43ea-9201-850554e15590" n="a)">
+                                <def xml:id="uuid-ef02e443-1368-4aef-bd57-4dca804b0f36">(Cu funcţie de subiect, aşezat înaintea sau,</def>
+                                <def xml:id="uuid-ff82037b-cf84-4125-8c34-43ebb94d5970">în urma predicatului, are rolul de evidenţiere a autorului
+                                    acţiunii)</def>
+                                <usg corresp="#uuid-ff82037b-cf84-4125-8c34-43ebb94d5970">
+                                    <seg type="plev" rend="usg">rar</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Tătarii... au dat în urma oştilor celor protivnice şi,
+                                        agiungându-se în Moldova la pădurea Băcăului, dânsele n-au
+                                        stat la bătaie.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-6eabb999-4e19-7279-a6fe-729d0d2e6ed0"/>
+                                        <date/>
+                                        <citedRange>327/22</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>O vinit dâns vreodată?</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ALR II 3"/>
+                                        <date/>
+                                        <citedRange>111/95,</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="ALR I/Il"/>
+                                        <date/>
+                                        <citedRange>h 183.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-ba0a1d7f-f26c-48a4-9d83-27b71a2832c3" n="b)">
+                                <def xml:id="uuid-9a531ac1-fcdc-4519-ba5f-53af327a5d14">(Aşezat după predicate exprimate prin verbe de declaraţie
+                                    sau în propoziţii incidente, are rolul de a marca insistenţa
+                                    asupra autorului acţiunii sau de a evita repetarea
+                                    acestuia)</def>
+                                <cit type="unknown">
+                                    <quote>O, şopteşte-mi - zice dânsul - tu cu ochii plini d-eres
+                                        Dulci cuvinte ne-nţelese, însă pline de-nţeles.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-3a6bd1dd-08a6-026e-3def-ce2262e21478"/>
+                                        <date/>
+                                        <citedRange>82</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-8e7f6d80-c0a3-42ae-9be7-358e302c781c" n="c)">
+                                <def xml:id="uuid-81beb382-a3c0-4c1e-a894-57740418ee4c">(însoţit de „şi” adverbial, cu funcţia de reluare a subiectului)</def>
+                                <cit type="unknown">
+                                    <quote>Toţi arhiereii lumei şi dânşii sânguri trăbue să se
+                                        chiame la sobor şi să hotărască dogmele credinţii, lăsând
+                                        pre toţi ceilalţi afară, veri clirici, veri mireni.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="MAIOR, S. I,"/>
+                                        <date/>
+                                        <citedRange>34.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-96a5dd1f-2e2c-4358-9069-09108dca4389">(La nominativ) El, ea.</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-f809e60d-7f43-4a95-a0c6-475ba722f6d5" n="2.">
+                            <def xml:id="uuid-54d36b67-88a7-48b0-8139-b09ca3fba183">(La genitiv şi dativ; înlocuieşte numele unui atribut sau al
+                                unui complement indirect) </def>
+                            <cit type="unknown">
+                                <quote>Crescând extensia vreunui concept scade intensia dânsului, şi
+                                    scăzându-i intensia, îi creşte extensia.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="EMINESCU, O. XV,"/>
+                                    <date/>
+                                    <citedRange>569.</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Urmează ca doamna ministru să descâlcească iţele urât
+                                    încurcate de predecesorii dânsei.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="RL 2005, nr. 4 503."/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-5681de20-c569-4d00-9a9e-8335d5f404ec" n="3.">
+                            <sense xml:id="uuid-11039e66-b7c4-45bc-b82b-ab7e41385994" n="◊">
+                                <def xml:id="uuid-65df8c80-8147-4be6-9ab0-752f3db962a5">(Fără prepoziţie, înlocuieşte numele unui complement
+                                    direct)</def>
+                                <usg corresp="#uuid-65df8c80-8147-4be6-9ab0-752f3db962a5">
+                                    <seg type="time" rend="usg">înv.</seg>
+                                    <seg type="plev" rend="usg">rar</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Şi nu credzură jidovii dinsu c-au fost orb şi
+                                        veade.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <date/>
+                                        <citedRange>121</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b5916209-09cd-46b1-8771-a4df3a9fc8e1" n="◊">
+                                <def xml:id="uuid-663791bf-7795-428e-b14d-b738071bd3c2">(în construcţii prepoziţionale cu valoare de dativ)</def>
+                                <usg corresp="#uuid-663791bf-7795-428e-b14d-b738071bd3c2">
+                                    <seg type="time" rend="usg">înv.</seg> și <seg type="geo" rend="usg">regional</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Nu ceareţi de la dânşii mai mult decât ce sânt ei în
+                                        stare a face.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target=" PETROVICI, P. "/>
+                                        <date/>
+                                        <citedRange>307/13.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cfbd8235-d6b7-4d1a-ad2d-4f719652b25c" n="◊">
+                                <def xml:id="uuid-de6c59ba-6457-46a0-bc1f-9c3af31f97b3">(în construcţii prepoziţionale cu valoare de
+                                    genitiv)</def>
+                                <usg corresp="#uuid-de6c59ba-6457-46a0-bc1f-9c3af31f97b3">
+                                    <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Au început a bate cetatea şi au bătut pregiur dânsa trei
+                                        săptămâni. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="URECHE, L."/>
+                                        <date/>
+                                        <citedRange>102.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6c49eb72-e72c-4558-b877-1dfb802e78ce" n="◊">
+                                <def xml:id="uuid-a02ccec6-f847-46b5-a368-f38aaae352a1">(fără prepoziţie)</def>
+                                <usg corresp="#uuid-a02ccec6-f847-46b5-a368-f38aaae352a1">
+                                    <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Ruga-se-vor dinsul în toate dzile şi-l vor
+                                        blagoslovi.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PSALT. HUR."/>
+                                        <date/>
+                                        <citedRange>62r/2-3.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1214ef73-4626-4e67-ab60-8dff0230888d" n="◊">
+                                <def xml:id="uuid-0e930a8d-0762-4798-8bfd-05443457b5d4">(La dativ şi acuzativ, reluat sau anticipat prin formele neaccentuate ale pronumelui personal „el”, „ea”)</def>
+                                <cit type="unknown">
+                                    <quote>Graba au pripit, de l-au ucis pre dâns în locul
+                                        aceluia.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="PRAV."/>
+                                        <date/>
+                                        <citedRange>84.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e08a6d35-33f2-4b0f-abd6-fff9bdb68959" n="◊">
+                                <def xml:id="uuid-e9353385-21b6-47f5-be67-c69457f704c7">(în comparaţii)</def>
+                                <cit type="unknown">
+                                    <quote>Nu-i atâta de mare păcatul, căci că-i om deopotrivă ca şi
+                                        dâns. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <date/>
+                                        <citedRange>27</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-3ea5086d-72ad-4df0-ac3f-49e0845cb6c6" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                    <term>Ca pe dânsul</term>
+                                </form>
+                                <def xml:id="uuid-d3d7049b-a3a3-4b6b-8d6c-7453db9c3f4b"/>
+                                <usg corresp="#uuid-d3d7049b-a3a3-4b6b-8d6c-7453db9c3f4b">
+                                    <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-b9ca5c2e-03e4-47a5-afa6-fef5f6dcb1cd" n="">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                    <term>sau ca pe dânsa</term>
+                                </form>
+                                <def xml:id="uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">straşnic (1)</def>
+                                <xr type="syn" corresp="#uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">
+                                    <ptr target="grozav."/>
+                                </xr>
+                                <usg corresp="#uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">
+                                    <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Trânteşte baba în mijlocul casei şi-o frământă cu
+                                        picioarele, şi-o ghigoseşte ca pe dânsa. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                        <date/>
+                                        <citedRange>13.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-8ed841af-8551-4883-a22f-0d541f8cd473">(La acuzativ; precedat de diverse prepoziţii, înlocuieşte
+                                numele unui complement indirect sau circumstanţial sau al unui
+                                atribut)</def>
+                            <cit type="unknown">
+                                <quote>Că de la Dumnedzeu e mila multă, de la Dins
+                                    mântuirea.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-0e55e396-19ec-14a5-5727-005e2697013f"/>
+                                    <date/>
+                                    <citedRange>192</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Tabachera o scos ai, Tabac din dânsa luai. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-50bad9fe-7db8-407c-0489-b16bf04a27ed"/>
+                                    <date/>
+                                    <citedRange>159</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="pron."/>
+                            <subc value="pers."/>
+                            <gen value=""/>
+                            <per value="la pers. 3"/>
+                            <number value=""/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-4cde9771-85ba-4f2f-9535-14bb36848acd">(înlocuieşte, de obicei, nume de persoane</def>
+                        <usg corresp="#uuid-4cde9771-85ba-4f2f-9535-14bb36848acd">
+                            <seg type="gram" rend="usg">artic.</seg> 
+                            <seg type="time" rend="usg">înv.</seg> și <seg type="geo" rend="usg">regional</seg> <seg type="gram" rend="usg">nearticulat</seg>
+                        </usg>
+                        <def xml:id="uuid-e6fcb2af-4a83-43d9-8e1c-fc0d8359e9e5">şi nume de lucruri;</def>
+                        <def xml:id="uuid-8ff131ba-753e-413d-94fe-a29d4028a04f">pentru unii vorbitori şi cu o nuanţă de politeţe)</def>
+                        <def xml:id="uuid-7743a3b0-f27e-4996-94de-6c65e12b3182">Ţine locul persoanei despre care se vorbeşte.</def>
+                        <usg corresp="#uuid-7743a3b0-f27e-4996-94de-6c65e12b3182">
+                            <seg type="time" rend="usg">înv.</seg> și <seg type="geo" rend="usg">regional</seg>
+                            <seg type="plev" rend="usg">mai ales în Moldo</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-421a677d-88f9-491f-957d-893bf032aa0d" n="II.">
+                        <sense xml:id="uuid-0bb97d46-dc21-42cb-b2b6-6e0e5c7ad1ed" n="1.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="m. si f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-2af6317e-032c-442f-b546-7c05306587ca">Soţ1 (2),</def>
+                            <def xml:id="uuid-e0162e15-5c4d-4e4c-ad53-5a18a10768fb">soţie (3).</def>
+                            <usg corresp="#uuid-e0162e15-5c4d-4e4c-ad53-5a18a10768fb">
+                                <seg type="register style" rend="usg">popular</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Să ştii că dânsu-al meu e supărat! </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-8be874c2-76c0-62e5-0bb3-ea1cf7c8269f"/>
+                                    <date/>
+                                    <citedRange>103</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-e1e922e0-c3b3-4044-bf13-dd126ae47e4d" n="2.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-38c93425-4a21-4d5c-9f20-d3d68acf0b71"> Iele.</def>
+                            <usg corresp="#uuid-38c93425-4a21-4d5c-9f20-d3d68acf0b71">
+                                <seg type="register style" rend="usg">eufemistic</seg>
+                                <seg type="register style" rend="usg">în credințele populare</seg>, <seg type="plev" rend="usg">mai ales</seg>
+                                <seg type="geo" rend="usg">prin Mold.</seg>
+                                <seg type="gram" rend="usg">la pl.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Dânsele sau ielele, spun babele, sunt foarte rele. Au putere de a lua cuiva minţile ... să-l facă din om neom. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-d5b4bac8-89e4-86e0-a3da-48ee37688653"/>
+                                    <date/>
+                                    <citedRange>64</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-3abca09d-8926-4bf9-9d5c-9bc64477e53c" n="3.">
+                            <sense xml:id="uuid-81688849-8174-454d-a6b1-cfe4be621720" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>De dânsele</term>
+                                </form>
+                                <def xml:id="uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">Dânsul (II 3).</def>
+                                <usg corresp="#uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">
+                                    <seg type="register style" rend="usg">popular</seg>
+                                </usg>
+                                <xr type="trimitere" corresp="#uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">
+                                    <ptr target="Dânsul (II 3)."/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote>„De dânsele ” se numeşte un morb în feliul reumatismului,
+                                        însă, după cum spune poporul, e cu mult mai periculos,
+                                        fiindcă se întinde peste tot corpul </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-caf8ed82-4383-9191-57f7-4c3424c6910c"/>
+                                        <date/>
+                                        <citedRange>91</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-4be5a9c7-b0f4-4dc8-b328-501f5f77a2f9">Boală (reumatică) despre care se crede că este provocată de
+                                iele.</def>
+                            <usg corresp="#uuid-4be5a9c7-b0f4-4dc8-b328-501f5f77a2f9">
+                                <seg type="register style" rend="usg">popular</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-02a7cf3f-ccf4-4979-954a-e03bf1c2f450" n="4.">
+                            <sense xml:id="uuid-f99fd2a8-5092-4fb7-89d5-d5b6d022c271" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>De dânsele</term>
+                                </form>
+                                <def xml:id="uuid-8e8854b2-e3c1-433b-82cd-1defcb063838">Dânsul (II 4).</def>
+                                <xr type="trimitere" corresp="#uuid-8e8854b2-e3c1-433b-82cd-1defcb063838">
+                                    <ptr target="dânsul (II 4)"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1a0b3a19-d0bd-43fd-9132-eb38e950ba2e" n="a)">
+                                <def xml:id="uuid-5e44ead5-3277-445f-b5d7-2221ff1687c3">Equisetum palustre.</def>
+                                <usg corresp="#uuid-5e44ead5-3277-445f-b5d7-2221ff1687c3">
+                                    <seg type="dom" rend="usg">Bot.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>64</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7671a4f7-fae7-421f-8e46-4a6af777832e" n="b)">
+                                <def xml:id="uuid-352e628a-7013-4712-8283-d90df2c5ad0f">Geranium phaeum.</def>
+                                <usg corresp="#uuid-352e628a-7013-4712-8283-d90df2c5ad0f">
+                                    <seg type="dom" rend="usg">Bot.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-fc9e5b4b-6cb3-6229-375c-5537f7c34426"/>
+                                        <date/>
+                                        <citedRange>87</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-67c7c14d-3aba-40a5-ac3c-8543cb317f6a">Numele unor plante erbacee folosite în medicina populară pentru tratarea bolii „de dânsele”, v. d â n s u 1 (II 3)</def>
+                            <usg corresp="#uuid-67c7c14d-3aba-40a5-ac3c-8543cb317f6a">
+                                <seg type="dom" rend="usg">Bot.</seg>; <seg type="geo" rend="usg">prin Mold.</seg> și <seg type="geo" rend="usg">prin Bucov.</seg>
+                            </usg>
+                            <xr type="trimitere" corresp="#uuid-67c7c14d-3aba-40a5-ac3c-8543cb317f6a">
+                                <ptr target="dânsul (II 3)"/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-4e229bb9-f525-4349-9f1a-3fb64f4d10bf" n="5.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="m."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-a572c4a2-4d47-4868-93d5-0a92a2c838b5">Lup {Caniş lupus).</def>
+                            <usg corresp="#uuid-a572c4a2-4d47-4868-93d5-0a92a2c838b5">
+                                <seg type="register style" rend="usg">popular</seg>; <seg type="register style" rend="usg">eufemistic</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Românul din toate unghiurile ţării, când e nevoit să
+                                    vorbească de lup... zice: dânsul, pădurarul sau hoţul. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-8e94d50c-01fe-4552-4f6d-7f2f47f49f5b"/>
+                                    <date/>
+                                    <citedRange>263</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="subst."/>
+                            <number value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-a86c744c-992e-447a-ac15-893e1fe60da6"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-3d4a1aaa-54f7-4237-9e9d-77e35e4b16d6" n="">
+                        <def xml:id="uuid-0bb7d0de-2c35-488e-8ba7-2e7465c8da5b"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
+                        <case value="gen.-dat.">dânsului</case>
+                    </form>
+                    <form type="grammatical-information-for-case" corresp="">
+                        <case value="gen.-dat.">dânsei</case>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-e493ca88-3e2c-445e-ba04-59b124e28788">dinsul, dinsa</def>
+                    <gramGrp>
+                        <pos value="pron."/>
+                        <subc value="pers."/>
+                        <gen value=""/>
+                        <per value=""/>
+                        <number value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-6949920a-579d-4602-a43d-fed3614dcc3d">dénsul, dénsa,</def>
+                    <gramGrp>
+                        <pos value="pron."/>
+                        <subc value="pers."/>
+                        <gen value=""/>
+                        <per value=""/>
+                        <number value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-35290eff-c56d-4f49-94f1-7d0cee08e755">dânsuşi</def>
+                    <gramGrp>
+                        <pos value="pron."/>
+                        <subc value="pers."/>
+                        <gen value=""/>
+                        <per value=""/>
+                        <number value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
+                </re>
+                <etym cert="high">
+                    <idno type="formație.internă-compus-format.din De1 + însul."/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

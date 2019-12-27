@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f6d0a90c-977c-4212-9286-c262a105b291" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catamara</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-23T15:10:40+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DÂRLOG</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DÂRLÓG</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-81963436-b2dd-49e9-a5bb-38abb506ba76" n="1.">
+                        <sense xml:id="uuid-8fa1d68e-84f8-48df-9c9a-59604348cc40" n="◊">
+                            <def xml:id="uuid-3a51a154-45c3-4b7d-8f0a-f6f7476a2353"/>
+                            <usg corresp="#uuid-3a51a154-45c3-4b7d-8f0a-f6f7476a2353">
+                                <seg type="sem" rend="usg">fig.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Traian ...a u luat chivernisala dălogilor împărăţiii.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-02982330-74c8-8dec-63a2-b9d2bf654288"/>
+                                    <date/>
+                                    <citedRange>186</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-2c22f78c-4df9-4cb3-aa3b-e18ab2053963" n="◊">
+                            <def xml:id="uuid-17a5a55e-a925-4ed7-bb0b-0116fc883d09"/>
+                            <usg corresp="#uuid-17a5a55e-a925-4ed7-bb0b-0116fc883d09">
+                                <seg type="register style" rend="usg">glumeț</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Foaie verde siminoc Duc bărbat la iarmaroc; Cine-a da un leu
+                                    şi un zlot îl dau cu dârlog cu tot.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-cbd41b02-07e5-a249-99eb-027b9bf59bae"/>
+                                    <date/>
+                                    <citedRange>779.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-dbb85cf8-0fc8-4588-b061-eaf321f47b7c">Parte a căpăstrului sau a frâului de sub bărbia calului de care se
+                            ţine cu mâna când se duce calul de aproape;</def>
+                        <def xml:id="uuid-3be5a95b-2ef6-4fb5-a663-6cbaa09dc981">cureaua de sub bărbia calului;</def>
+                        <def xml:id="uuid-a0d993e5-3fbf-4209-bdfd-31025c2b8325">capătul ştreangului unui căpăstru sau hăţurile frâului pentru
+                            călărie;</def>
+                        <xr type="syn" corresp="#uuid-a0d993e5-3fbf-4209-bdfd-31025c2b8325">
+                            <ptr target="frâu"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-a0d993e5-3fbf-4209-bdfd-31025c2b8325">
+                            <ptr target="hăț"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-a0d993e5-3fbf-4209-bdfd-31025c2b8325">
+                            <ptr target="zăbală."/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote>Nu fire ţi ca calul şi mujdeiul cei ce n-au mente; cu zăbale şi
+                                cu frâu (dălogul D) fălcile loru tragi.</quote>
+                            <bibl type="unknown">
+                                <ptr target="PSALT."/>
+                                <date/>
+                                <citedRange>55.</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Legându-şi calul cu dălogul la piciorul său.</quote>
+                            <bibl type="unknown">
+                                <ptr target="DOSOFTEI, V. S. noiembrie"/>
+                                <date/>
+                                <citedRange>1 1 8 r/ 1 6.</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Cu ajutorul lui Dumnezeu să să ştie ce am târguit: undelemn oca
+                                300, căte bani 36, 220 ... 3 ibunce. 3 părechi de dărlogi.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-2e4139d4-87d5-00dc-216f-ce3a755b7134"/>
+                                <date>(a. 1700)</date>
+                                <citedRange>18</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-97e3961b-2419-48ec-ac15-a8e93f1b3542" n="2.">
+                        <sense xml:id="uuid-a2a0e2fc-eee2-4f0b-a5d4-ecf92426c846" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <term>cal de dârloagă</term>
+                            </form>
+                            <def xml:id="uuid-f2bfb37b-93c1-4af3-baa0-cb6625c7fd47">Dârlog (2)</def>
+                            <xr type="trimitere" corresp="#uuid-f2bfb37b-93c1-4af3-baa0-cb6625c7fd47">
+                                <ptr target="dârlog (2)."/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote>Calul de dârloagă fiind întotdeauna un cal mai prost, e mai
+                                    puţin îngrijit decât ceilalţi.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="ZANNE, P. I"/>
+                                    <date/>
+                                    <citedRange>459.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-b44dbd2a-c53c-4bc0-9a46-95271fcd79c0">Mârțoagă.</def>
+                        <usg corresp="#uuid-b44dbd2a-c53c-4bc0-9a46-95271fcd79c0">
+                            <seg type="plev" rend="usg">mai ales</seg>
+                            <seg type="coloc" rend="usg">în forma dârloagă</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <sense xml:id="uuid-98b7fd19-ed4a-4b40-a6ba-7a2bb5e4e8cc" n="◊">
+                            <def xml:id="uuid-59456eb3-f18f-47f3-b0d2-449bca7966a4">(Ca epitet pus înaintea termenului calificat de care se leagă
+                                prin prep. „de”)</def>
+                            <cit type="unknown">
+                                <quote>Dârloagă de cal.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="DA"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-51a108da-0795-4e66-8baf-bf81e1654e12" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>(A fî sau a ajunge, a se băga)
+                                slugă la (sau, neobişnuit, după) dârloagă</term>
+                            </form>
+                            <def xml:id="uuid-68548cf7-8f5e-4969-87a6-bc992acb1ef5">(a fi sau a ajunge, din cauza sărăciei, a prostiei, a lenei)
+                                condus, comandat de un om nepriceput, nevrednic, inferior.</def>
+                            <cit type="unknown">
+                                <quote>O putoare! Un pierde-vară! ... o slugă la dârloaga vizitiului
+                                    de la curte.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="DA"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-6ea6b6a0-01d2-448f-b3ba-5e9edc18b2ce" n="◊">
+                            <sense xml:id="uuid-983fc27c-3a39-471d-85ff-138dd8793c60" n="a)">
+                                <def xml:id="uuid-ab090752-a6c2-4c8a-9d2a-15305eea9d8b">a ţine din scurt pe cineva; a înfrâna.</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-00442045-5246-4568-a281-77014cfac948" n="b)">
+                                <def xml:id="uuid-59278995-75e4-47d3-98ba-bdc807b2b34e">a duce de nas pe cineva, v. n a s1 (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>A-i pune cuiva dârlogii de
+                                nas</term>
+                            </form>
+                            <def xml:id="uuid-0e7ffa69-648a-44b9-8622-c9abbde2c8b3"/>
+                            <usg corresp="#uuid-0e7ffa69-648a-44b9-8622-c9abbde2c8b3">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-fa2c01b2-f0b5-40d2-93f6-a67258dce7e6" n="♦">
+                            <def xml:id="uuid-1029098c-b757-4eb8-8b97-b0e2729572fa">Femeie decăzută, de moravuri uşoare,</def>
+                            <xr type="syn" corresp="#uuid-1029098c-b757-4eb8-8b97-b0e2729572fa">
+                                <ptr target="prostituată."/>
+                            </xr>
+                            <usg corresp="#uuid-1029098c-b757-4eb8-8b97-b0e2729572fa">
+                                <seg type="geo" rend="usg">regional</seg>; <seg type="coloc" rend="usg">în forma dârloagă</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Şi-a luat şi el de nevastă o dârloagă.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-77d8613d-1816-2ad6-4b66-22bbcb96755c"/>
+                                    <date/>
+                                    <citedRange>141.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                    </sense>
+                    <sense xml:id="uuid-57911784-0329-491d-a599-d2330ed7caff" n="3.">
+                        <def xml:id="uuid-5240c84b-1933-4255-abad-09898d254d79">Fiecare dintre cele două prăjini la trăsura (1) sau căruţa cu un
+                            cal, între care se înhamă calul.</def>
+                        <usg corresp="#uuid-5240c84b-1933-4255-abad-09898d254d79">
+                            <seg type="geo" rend="usg">prin Ban.</seg>; <seg type="gram" rend="usg">la pl.</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DA."/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-fb29a7d5-19eb-4b9b-9dd3-f0971fb6f8c7" n="4.">
+                        <def xml:id="uuid-8af9d691-c07e-44e5-a1ba-d86acaa8cd4d">Cureaua de la îmblăciu sau sfoara ori cureluşa cu care se leagă
+                            biciul de codirişte.</def>
+                        <usg corresp="#uuid-8af9d691-c07e-44e5-a1ba-d86acaa8cd4d">
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-ef5cbb86-926a-12af-a6f2-350f3a63026e"/>
+                                <date/>
+                                <citedRange>338</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-9d3e864c-5f28-44cb-88aa-b93204fdd145" n="5.">
+                        <def xml:id="uuid-cf6bbf48-309a-47a1-bf7b-0f04ba48c574">Sfoară cu care se leagă iţele de culmea războiului.</def>
+                        <usg corresp="#uuid-cf6bbf48-309a-47a1-bf7b-0f04ba48c574">
+                            <seg type="geo" rend="usg">prin nordul Munt.</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote>Dârlogii iţelor,</quote>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-713006b3-8496-4412-b6ce-ca6b4bf6b144" n="6.">
+                        <def xml:id="uuid-5946a7fb-79e4-4226-bd54-3917a72a81fc">Accesoriu format din două bucăţi de lână, îmbrăcate în pânză,
+                            legate printr-o sforicică, pe care le pun femeile pe cap, la dreapta şi
+                            la stânga, pentru a aşeza peste ele cozile; şnur sau panglică cu care
+                            îşi împletesc femeile cozile.</def>
+                        <usg corresp="#uuid-5946a7fb-79e4-4226-bd54-3917a72a81fc">
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote>Pieptănătura cu „cormi” s-a întâlnit şi în alte zone etnografice,
+                                ca de exemplu Clisura Dunării, unde este denumită „dârlogi” sau
+                                „pleteri”.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-5a5ba065-32c8-105e-46ef-3b009a6e425c"/>
+                                <date/>
+                                <citedRange>164</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-36f3878b-a7bf-44b4-95c6-c16a86e93670" n="7.">
+                        <def xml:id="uuid-741a119b-0b81-4776-95d4-cba1cbc0354a">Ciot.</def>
+                        <usg corresp="#uuid-741a119b-0b81-4776-95d4-cba1cbc0354a">
+                            <seg type="geo" rend="usg">regional (Vâlcele - Cluj-Napoca)</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                                <date/>
+                                <citedRange>67</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-cfa81daa-f271-44cf-988e-3f530112bf25" n="">
+                        <def xml:id="uuid-0ff38711-7f30-4fc8-adcb-526e60f138c1"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>dârlogi</number>
+                    </form>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>dârloage</number>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <bibl type="cf.">
+                            <ptr target="ALR I"/>
+                            <date/>
+                            <citedRange>1 126/926,</citedRange>
+                        </bibl>
+                        <bibl type="cf.">
+                            <ptr target="ALR SN II"/>
+                            <date/>
+                            <citedRange>h 293/705,</citedRange>
+                        </bibl>
+                        <bibl type="unknown">
+                            <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                            <date/>
+                            <citedRange>67</citedRange>
+                        </bibl>
+                        <gramGrp>
+                            <pos value="s."/>
+                            <gen value="n."/>
+                            <number value=""/>
+                            <case value=""/>
+                            <subc value=""/>
+                        </gramGrp>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-400637a0-dd5c-4f22-894c-f783a2bce058">dălóg</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-f86bb654-b1e1-43bc-98ca-8ebb319111c8">darlóg</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="cf.">
+                        <ptr target="DR V,"/>
+                        <date/>
+                        <citedRange>181.</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-8b34d034-fc5b-47a2-b30d-65716285454f">dológ</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-44f8e7e7-056e-4225-87df-42826ed3952c">dărlóg</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-e3d7e257-a147-4c3d-9c3c-b0f99528b670">dârloágă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-13a9d3c9-2fd0-4eab-9df3-9304db6c5018">dârgoálă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="cf.">
+                        <ptr target="DR V"/>
+                        <date/>
+                        <citedRange>181</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-40d1b9ff-6435-416f-8528-521ddc2f28ec">dârlúgă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="cf.">
+                        <ptr target="ZANNE, P. IV,"/>
+                        <date/>
+                        <citedRange>603</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-9f8003ef-6826-4741-baca-3aad923c1c63">dârdóc</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-1646ef6a-5da6-4f64-b0f6-c3fc5a3eb39b">târloágă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="cf.">
+                        <ptr target="#uuid-77d8613d-1816-2ad6-4b66-22bbcb96755c"/>
+                        <date/>
+                        <citedRange>168</citedRange>
+                    </bibl>
+                    <bibl type="cf.">
+                        <ptr target="#uuid-fd83c6ab-45ae-17bf-23df-16aa316e909d"/>
+                        <date/>
+                        <citedRange>163</citedRange>
+                    </bibl>
+                </re>
+                <etym cert="high">
+                    <idno type="element.necunoscut"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

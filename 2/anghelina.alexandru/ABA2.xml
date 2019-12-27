@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-726626bc-d70f-44da-8c3a-b650b31402ab" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-11T09:51:16+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="2">aba</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="interj."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-d156a9ae-4e9e-4793-b1d5-b44286bb26e8" n="">
+						<def xml:id="uuid-92d15e1d-b508-4714-99b8-4e852ace3563">Exclamație care
+							exprimă mirarea sau atrage atenția cuiva atunci când i se
+							vorbește.</def>
+						<usg corresp="#uuid-92d15e1d-b508-4714-99b8-4e852ace3563">
+							<seg type="time" rend="usg">Înv. </seg>și <seg type="register style" rend="usg">popular</seg>
+						</usg>
+						<xr type="analog" corresp="#uuid-92d15e1d-b508-4714-99b8-4e852ace3563">
+							<ptr target="abo"/>
+						</xr>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Aba</hi>, Dragomire, când pleci tu?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-49cbf5a5-6cae-4f06-7eec-ca91d3473887">caragiale</ptr>
+								<date>1890</date>
+								<citedRange>366</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Aba</hi>, Dragomire maică, lumea se prăpădește de
+								frig, și tu stai și cânți din fluier!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4e860496-a39a-62e5-03f3-6d114e8e7cad">vlahu</ptr>
+								<date>1901 (1908) </date>
+								<citedRange>65</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Abă</hi>, maică, să știi, nimeni nu vede
+								tot.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aee8bbd5-89fb-5a0b-02b8-af29ebc849a3">stancu</ptr>
+								<date>1948 (1952)</date>
+								<citedRange>19</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">A-ba</hi>, neică! de ce mai vorbești și
+								d-ta?</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1887</date>
+								<citedRange>79</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Haba</hi>: cucoană Varvară, Iea poftim pe
+								prispă-afară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d744546b-6dd9-5e94-843a-a52515f20770">sevastos</ptr>
+								<date>1888</date>
+								<citedRange>311</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi>, fă, nevastă fa, Nu mi-ai văzut
+								luleaua?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-76a60fc3-4434-8f04-99e2-ac9ae7ff06a3">codin</ptr>
+								<date>&lt;1896–1913&gt;</date>
+								<citedRange>453</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi>, fine, dumneata Cum s-ar putea vorba așa Să
+								se taie nășia Să rămâie finia?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-652aa152-2c8c-29f7-5256-30afafd96f0f">m.
+									fol</ptr>
+								<date>ante 1897</date>
+								<citedRange>60</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi>, mă, mi-o făcuși?!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ec7ac94a-5c14-65ef-071b-9306360514cd">ciauș</ptr>
+								<date>1931</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi>, mamă mama mea, Ieu te adăst să vii râzând
+								Șî tu vii mai rău plângând.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f685b51d-8a20-8b33-0fb8-6f9f0b2f384b">folc.
+									ol</ptr>
+								<date>1932</date>
+								<citedRange>522</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi> mă zău, mi-o făcuși.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9870e937-3691-5bb1-6088-88bb0cf31b08">tomescu</ptr>
+								<date>1944</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>
+								<hi rend="bold">Aba</hi> fa, cumnata mea ascultă la
+								mine-ncoa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3dcf89c7-48f0-2e29-3560-f3fd918c6ea8">folc.
+									ol</ptr>
+								<date>1963</date>
+								<citedRange>426</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-aa6812bf-e69e-400d-aae7-fa758c5bf3aa" n="">
+						<def xml:id="uuid-204e6a03-7fe9-4b32-a0fd-f073d7e7a77b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg><seg type="register style" rend="usg">popular</seg></usg>
+					<def>abắ</def>
+					<gramGrp>
+						<pos value="interj."/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="register style" rend="usg">popular</seg></usg>
+					<def>habá </def>
+					<gramGrp>
+						<pos value="interj."/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-onomatopee"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">RESMERI</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

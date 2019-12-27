@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b6601f3d-188d-4b7b-a7af-361a1553d0db" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-04-25T13:21:07+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dex">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="5">A</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">A</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-b9e505f2-587d-40bb-a697-75fb79d0b093" n="">
+                        <def xml:id="uuid-1c8d9481-f4fc-409e-9750-3a3ecd1d61c6"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-38d6e5b3-e133-4e7a-a960-37a75bd0701f" n="">
+                        <def xml:id="uuid-7c795135-383a-4e98-8c36-a3376b31acae">Element de compunere care însemnând „lipsit de”, „fără”, care
+                            servește la formarea unor substantive, adjective etc. </def>
+                        <cit>
+                            <quote>Acomercial, acomercial</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-4a48ba9a-7b9b-49ab-9906-8eea581eae58">an-</def>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="unknown"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

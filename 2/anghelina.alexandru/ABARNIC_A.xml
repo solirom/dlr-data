@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1b286d59-5f33-4945-bbf5-09ad178a6650" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T15:55:22+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abarnic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁRNIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-35dd3aef-07a2-4c77-92b7-3508b6d47037" n="">
+						<def xml:id="uuid-a66c46a3-43d7-49f9-aebb-a5f5dfb5578d">Care străbate, care
+							răzbate;</def>
+						<usg corresp="#uuid-a66c46a3-43d7-49f9-aebb-a5f5dfb5578d">
+							<seg type="geo" rend="usg">Prin Bucov.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-a66c46a3-43d7-49f9-aebb-a5f5dfb5578d">
+							<ptr target="destoinic (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown">lexic reg</ptr>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-f41dec91-adfe-4832-a3ae-395548e1910b" n="">
+						<def xml:id="uuid-1a474109-0e78-4587-b482-ae087274a7ad"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="harnic"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

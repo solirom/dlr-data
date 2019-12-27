@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-18646f2b-1211-459c-acae-964c12499ab2" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T12:06:04+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abulic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÚLIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-830f0e00-cbcc-4782-ab59-e30c41aee7bf" n="1.">
+						<sense xml:id="uuid-bf2c74af-8e9b-431b-98d1-5e7b741c8677" n="✧">
+							<def xml:id="uuid-14711a3f-214e-4989-8143-e0861b8298e4"/>
+							<usg corresp="#uuid-14711a3f-214e-4989-8143-e0861b8298e4">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Exploratorul nu împărtășește nici în roman resemnarea <hi rend="bold">abulică</hi> a eloilor ripostând cu violență
+									atacurile speciei subpământene. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f309bab-47f1-8b85-759e-8d78e7353495"/>
+									<date>1986</date>
+									<citedRange>161</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-d9068814-e02f-43ef-9bc4-2fa88bbf69c0"/>
+						<def xml:id="uuid-f3ee504a-d335-4c76-92a0-df4fb000a221">lipsit de
+							voință</def>
+						<usg corresp="#uuid-d9068814-e02f-43ef-9bc4-2fa88bbf69c0">
+							<seg type="hint" rend="usg">(Despre oameni sau manifestările lor)</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-d9068814-e02f-43ef-9bc4-2fa88bbf69c0">
+							<ptr target="Nehotărât"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Când se scoală purtarea ei e cu totul alta: caracterul său, care
+								e melancolic şi <hi rend="bold">abulic</hi> de obicei, devine vesel
+								şi sensibil.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-371e6a7f-52fc-7762-9b9e-7f1672378ce9"/>
+								<date>1923</date>
+								<citedRange>6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În existența poetului se observă o iritațiune, o nemulțumire ...
+								o nevroză cu caracter <hi rend="bold">abulic</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d"/>
+								<date>1932</date>
+								<citedRange>166</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adolescenții anilor săi sunt de obicei, sentimentali, <hi rend="bold">abulici</hi> și pesimiști. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7a4020a4-0782-7027-1c64-7b1ba2059c86"/>
+								<date>1932</date>
+								<citedRange>84</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În jurnalul lor intim se retrag şi se regăsesc oamenii cu
+								capacitate practică redusă, naturile <hi rend="bold">abulice</hi> şi
+								veleitare, sufletele ulcerate în contactul cu viaţa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-60d866fb-97b6-1981-063a-e07f5ef53e5d"/>
+								<date>1946</date>
+								<citedRange>132</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Virgil Ogășanu îl întruchipează pe fiul risipitor, caracter
+								incert, resemnat ori <hi rend="bold">abulic</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d"/>
+								<date>1970</date>
+								<citedRange>nr. 50, 16</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu ea e și Viorella Vidrighin, domnișoară de aproape 40 de ani,
+								de o bună extracție și dânsa, cu o privire <hi rend="bold">abulică</hi> ... ascunzând o ușoară psihopatie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f033158d-9cde-34e5-053c-84b8f9266224"/>
+								<date>1979</date>
+								<citedRange>329</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Doctrina Sohenfeld, amendamentul Jackson și alte multe cravașe
+								[sunt] destinate să ne dezumfle și să ne integreze în „letargia <hi rend="bold">abulică</hi>” în care, neurologic morți, continuăm
+								totuși să trăim. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1665e541-639e-89cf-7f26-2ae4fede0b5e"/>
+								<date>1980 (†) </date>
+								<citedRange>271</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bărbatul e de regulă slab, <hi rend="bold">abulic</hi>,
+								nehotărât, nestatornic, egoist, laș.</quote>
+							<bibl type="unknown">
+								<ptr target="Cinema (R.) |  |  | Cinema (R.) |  | CINEMAcinema"/>
+								<date>1984</date>
+								<citedRange>nr. 3, 15</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cella Delavrancea … ar fi trăit din lecţiile de pian date câtorva
+								copilaşi exsangui şi <hi rend="bold">abulici</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c733e7c9-58c0-44a6-3ffb-b4c329fb6233"/>
+								<date>1999</date>
+								<citedRange>102</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-a46d2059-120d-4bac-8d5f-052c94b04b07" n="2.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-ba2b6b35-d465-466c-b998-fb4eae588fc8">(Persoană) care
+							suferă de abulie.</def>
+						<usg corresp="#uuid-ba2b6b35-d465-466c-b998-fb4eae588fc8">
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Ne aflăm, pesemne, în faţa unui tipic caz de timiditate, dacă nu
+								avem de a face cu un <hi rend="bold">abulic</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8"/>
+								<date>1925</date>
+								<citedRange>127</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A spus cel dintâi, poetul, că Hamlet e un hipersensitiv <hi rend="bold">abulic</hi>, – dimpotrivă, răspunde cel de-al
+								doilea: e un om de admirabilă sănătate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9"/>
+								<date>1936</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Johannes de Silentius era un fricos, un <hi rend="bold">abulic</hi>, un candidat la nebunie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6"/>
+								<date>1939</date>
+								<citedRange>278</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu o mamă dementă, el însuşi <hi rend="bold">abulic</hi>,
+								alcoolic şi tuberculos … poetul a cântat «singurătatea» proletară. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb"/>
+								<date>1941</date>
+								<citedRange>498</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Hixem al II-lea] era, fără îndoială, un <hi rend="bold">abulic</hi>, dar a avut nenorocul ca sultana lui favorită,
+								Aurora, să remarce de timpuriu ... pe fostul ei intendent.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5"/>
+								<date>1944</date>
+								<citedRange>54</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aci intră unii intelectuali obişnuiţi să aprecieze pro şi contra
+								până la paralizarea iniţiativei, în sfârşit <hi rend="bold">abulicii</hi>, cazurile de patologie a voinţei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc1915c-3c10-2376-67dc-daa484c971c8"/>
+								<date>1960 (†) </date>
+								<citedRange>431</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Romanul, pe care a pornit să-l scrie acest iremediabil <hi rend="bold">abulic</hi>, e intitulat semnificativ S.O.S.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b63d9583-3737-8ae3-4fe6-792ad8dc326f"/>
+								<date>1974</date>
+								<citedRange>560</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Niciun escroc nu-l va întrece vreodată pe Cațavencu, niciun senil
+								cap de familie pe Trahanache și niciun cretin <hi rend="bold">abulic</hi> pe Dandanache.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d"/>
+								<date>1986</date>
+								<citedRange>nr. 6, 2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>El [Richard Șipa] adună de multă vreme în caietele sale intime
+								„ideile pierdute” ale <hi rend="bold">abulicilor</hi> din
+								cârciumi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-244e0ba2-3b08-a451-2937-fc8ed18a9177"/>
+								<date>1989</date>
+								<citedRange>447</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">d.
+									medical</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4aa5da03-caa8-4f79-a9e2-88f5d20f4621" n="">
+						<def xml:id="uuid-6aac00d1-ef6e-49c8-a2cd-bc9d9755d809"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abulici, -ce</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">aboulique</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">DEN</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

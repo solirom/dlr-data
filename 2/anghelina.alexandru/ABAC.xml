@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-25d8d832-63aa-49e5-8d7f-5b54368fac13" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>anghelina.alexandru</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T14:07:13+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abac</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁC </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6b591cfd-3f3f-432d-bfb9-c98a52165d07" n="1.">
+						<def xml:id="uuid-90489a2b-1235-4866-bebe-584402f7d360">Tabel sau diagramă
+							care permite rezolvarea imediată a unor calcule</def>
+						<usg corresp="#uuid-90489a2b-1235-4866-bebe-584402f7d360">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Oameni cărtulari şi sameşi mari de cumpăta împărăţâia cu
+								scrisorile şi cu <hi rend="bold">ambacul</hi> grecescu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f44014e6-70b8-7ef5-036b-71c725667ca9">danovici</ptr>
+								<date>&lt;1678–1689&gt; </date>
+								<citedRange>241</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cuişoare, şofran de Beci, aţă albă de Sibii, 1 carte cu <hi rend="bold">hambac</hi> latinesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef284a51-99be-0859-931c-fcbf336d9b26">st.
+									doc</ptr>
+								<date>1779</date>
+								<citedRange>81</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eu nu voi să-l fac filosof, învață-l lătinește... și caută vre-un
+								om care să știi <hi rend="bold">hambacul</hi> bine, ca să-l înveți a
+								face tot feliul de socotele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5b55b5e-59e6-3bbf-0347-a452f0c9180f">gherasim</ptr>
+								<date>1793</date>
+								<citedRange>14/10</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Caligrafia cu însămnărura, adecă zugrăvirea cu negru cum și
+								însemnarea planurilor, a ceti, a scrie și <hi rend="bold">ambacul</hi> îl învață copiii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albina
+									ro</ptr>
+								<date>1829</date>
+								<citedRange>142<hi rend="superscript">1</hi>/20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Ambac</hi>... tăblița pe care sunt scrise numerele
+								cele arabicești.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
+								<date>c. 1832</date>
+								<citedRange>61<hi rend="superscript">v</hi>/20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Numerii sub sută sunt pentru întreaga computare (<hi rend="bold">ambac</hi>) de cea mai mare cumpănă încăt începătorii nu au să
+								pășească la numerii mai depărtați până nu vor petrece cu vederea
+								lămurit cele de întâiu și până nu vor fi în stare să facă cu cele
+								mai felurite prefaceri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a1709d56-7a43-3b32-a02e-3c07ed2a26bd">andrievi</ptr>
+								<date>1850</date>
+								<citedRange>7/15</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-ad0f31e6-0598-4add-92e0-ec303dec4b56" n="2. ">
+						<def xml:id="uuid-a2794528-668d-4d6e-a0db-d1a77e272100">Instrument format
+							dintr-un cadru pe care se pot deplasa bile, folosit pentru efectuarea de
+							calcule simple</def>
+						<usg corresp="#uuid-a2794528-668d-4d6e-a0db-d1a77e272100">
+							<seg type="sem" rend="usg">Concr.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-a2794528-668d-4d6e-a0db-d1a77e272100">
+							<ptr target="numărătoare (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Şi-a cumpărat un <hi rend="bold">abac</hi> şi s-a aşezat pe
+								socoteli.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+									ro</ptr>
+								<date>1961</date>
+								<citedRange>februarie, nr. 2, 34</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În sfârşit, nemaiputând să le suport, sâcâit de rouă, le dam
+								pradă, numărându-le în prealabil cu <hi rend="bold">abacul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b068a82-7dea-0178-8dea-69d4894a86cd">brumaru</ptr>
+								<date>1978</date>
+								<citedRange>96</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Numărat, care numărat, ce numărat? Ce sunt eu, <hi rend="bold">abac</hi>?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-482afab3-4dcf-773f-6a36-6d4d3e477f27">viziunea</ptr>
+								<date>1982</date>
+								<citedRange>691</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fiecare avea în faţă câte un <hi rend="bold">abac</hi> pe care
+								muta bilele sau câte o maşină mecanică de calculat la care
+								râşnea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a1a3efab-87a5-a12c-16ab-0f1cfb760e35">planet</ptr>
+								<date>1987</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La numai câţiva ani de la moartea lui Gerbert (în 1003) <hi rend="bold">abacul</hi> folosit pentru astfel de calcule era
+								recunoscut în diferite regiuni ale Occidentului. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f8406ad0-9cb6-9f29-404c-4a7542698ac5">drimba</ptr>
+								<date>1990</date>
+								<citedRange>659</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eu nu știu socoti cu <hi rend="bold">hambacu</hi>, ci aruncu cu
+								bobii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9f848cfb-043d-0863-610d-8db05b2a3460">cantacuzino</ptr>
+								<date>1785</date>
+								<citedRange>115<hi rend="superscript">v</hi>/17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ei nu știia nici însuș metaherisirea <hi rend="bold">hambacului</hi>, la care să sluje de niște bubușlii înșirate pe
+								sărmă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b4cda8df-1892-3545-50cc-a77807d97b73">gherasim</ptr>
+								<date>1792</date>
+								<citedRange>16<hi rend="superscript">v</hi>/21</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-09fe8928-a13a-4108-8b77-d59a42c044bc" n="3.">
+						<def xml:id="uuid-15f792d0-897d-401e-86ed-37c046eb77ec">Partea superioară a
+							capitelului unei coloane care susține arhitrava</def>
+						<usg corresp="#uuid-15f792d0-897d-401e-86ed-37c046eb77ec">
+							<seg type="dom" rend="usg">Arhit.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arcadele sunt festonate; ele transmit pe coloane greutatea cu
+								care sunt încărcate, prin intermediul unui <hi rend="bold">abac</hi>
+								puternic, de formă cubică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8122a28f-6c05-8486-4054-21bd1cf3705e">grigore</ptr>
+								<date>1937</date>
+								<citedRange>193</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Capitelurile cu croşete cam tocite formează un brâu continuu, dar
+								bazele colonetului şi <hi rend="bold">abacul</hi> marchează încă
+								linia treptată a retragerilor. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b2853779-64b1-3704-4da9-51442bf2348c">vătășia</ptr>
+								<date>1959</date>
+								<citedRange>63</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Demonstraţia este cu totul neconvingătoare, tipul de <hi rend="bold">abacă</hi> amintit regăsindu-se la mai toate
+								monumentele cisterciene.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-176c48e5-88f0-0e0e-71fd-596aea9d387a">drăguț</ptr>
+								<date>1979</date>
+								<citedRange>35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mulura sau <hi rend="bold">abaca</hi> pot fi acoperite de motive
+								sculptate în relief.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f8406ad0-9cb6-9f29-404c-4a7542698ac5">drimba</ptr>
+								<date>1990</date>
+								<citedRange>362</citedRange>
+							</bibl>
+						</cit>
+						<re type="lexical-variant-section">
+							<def>abácă</def>
+							<gramGrp>
+								<pos value="s."/>
+								<gen value="f."/>
+								<number value=""/>
+								<case value=""/>
+								<subc value=""/>
+							</gramGrp>
+						</re>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a191c49a-fc6b-42e3-a875-936176af3b08" n="">
+						<def xml:id="uuid-5351f27f-264b-4a7d-8580-105307c7b945"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abace</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>ambác</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="el" type="unknown" subtype="unknown">άμπακος</term>
+					</etym></re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>hambác</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>hâmbác</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abaque</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+					<term xml:lang="la" type="unknown" subtype="unknown">abacus</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange>6<hi rend="superscript">1</hi>/34</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<date>1949</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-64d20768-8a98-34d3-08ca-3e56937c485a">d. tehn</ptr>
+						<date>1953</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">d. medical</ptr>
+						<date>1969</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-762a8ac0-2258-91c9-703c-7d0ae2ea0df5">veche</ptr>
+						<date>1980</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cfe8f2d6-218b-4bf2-2dc5-4616f3571fc8">dex</ptr>
+						<date>2016</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

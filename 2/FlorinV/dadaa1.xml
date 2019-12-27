@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d4815668-2f35-42b9-a4d6-7357f8661cbe" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>FlorinV</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-24T09:32:36+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">DADĂ</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DÁDĂ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-4b3bc680-ecb6-49c5-86d2-fba90f5a4ccc" n="1.">
+                        <sense xml:id="uuid-ebc25632-eff5-4432-9f4b-4f5960b6ce51" n="♦">
+                            <def xml:id="uuid-d9baaa92-15a8-404f-adb9-1203001e5688"> Doică. </def>
+                            <usg corresp="#uuid-d9baaa92-15a8-404f-adb9-1203001e5688">
+                                <seg type="sem" rend="usg">p. restr.</seg>
+                                <seg type="time" rend="usg">învechit</seg>, <seg type="plev" rend="usg">rar</seg>
+                                <seg type="coloc" rend="usg">în forma dodă</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="DDRF"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-bab19f42-9de0-4575-86b7-da4d9816d91c" n="♦">
+                            <def xml:id="uuid-2736850c-5245-4e92-a88c-571bf992eccf"> Mamă vitregă.</def>
+                            <usg corresp="#uuid-2736850c-5245-4e92-a88c-571bf992eccf">
+                                <seg type="geo" rend="usg">regional</seg>, <seg type="geo" rend="usg">Strâmba-Vulcan - Rovinari</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-72d06301-1b0f-06dc-9663-6a49101662fd"/>
+                                    <date/>
+                                    <citedRange>h 217/839</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-e6b81b97-ac02-4843-ae6a-1af093c38f0d"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-a596bd42-a9ad-4166-8875-e7b88814f905" n="2.">
+                        <def xml:id="uuid-e0d75943-08a4-4b75-b5d7-a56d2ad97c4e">Iubită.</def>
+                        <usg corresp="#uuid-e0d75943-08a4-4b75-b5d7-a56d2ad97c4e">
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote>Aolică, dodo fa , Au tu mi-ai făcut ceva De nu te mai poci uita? </quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-2a46df1d-3a14-994d-60f5-55ab4fad777f"/>
+                                <date/>
+                                <citedRange>315.</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-6843908c-d56a-4a36-a29b-5ec620a4c56b" n="3.">
+                        <def xml:id="uuid-4cd9c164-7e7c-454d-9c19-aa4d3f7509c9"> Femeie care are părul lins, în dezordine, după spălat. </def>
+                        <usg corresp="#uuid-4cd9c164-7e7c-454d-9c19-aa4d3f7509c9">
+                            <seg type="geo" rend="usg">regional</seg>, <seg type="hint" rend="usg">în forma dodă</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="CADE"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target=" ş e z . v ,"/>
+                                <date/>
+                                <citedRange> 70.</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-74f3dec9-7b68-467b-8f71-d8f750e7a1ee" n="4.">
+                        <def xml:id="uuid-639106ba-9888-4c22-8abe-c0005725f8ca"> Dans popular în genul horei;</def>
+                        <def xml:id="uuid-24ba76fa-7167-4e42-80d9-26d4897baf7a"> melodie după care se execută acest dans. </def>
+                        <usg corresp="#uuid-24ba76fa-7167-4e42-80d9-26d4897baf7a">
+                            <seg type="geo" rend="usg">regional</seg>, <seg type="hint" rend="usg">în forma dodă</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-197dcc95-df40-49e3-8ac0-3c3d6b718a39" n="5.">
+                        <sense xml:id="uuid-7b17b121-6d90-474a-b735-25d910d1ba7c" n="♦">
+                            <def xml:id="uuid-c3615340-e109-43de-9b40-7eb8ccfaf58c"> Termen de dezmierdare pentru mână de copil. </def>
+                            <usg corresp="#uuid-c3615340-e109-43de-9b40-7eb8ccfaf58c">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="CADE | CADE I"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <form type="unitate-semantică-subsumată">
+                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <term>Dodă nică cu furnică</term>
+                        </form>
+                        <def xml:id="uuid-837729ee-d34f-4337-b397-f4080eb95d0a">numele unui joc de copii nedefinit mai îndeaproape. </def>
+                        <usg corresp="#uuid-837729ee-d34f-4337-b397-f4080eb95d0a">
+                            <seg type="geo" rend="usg">regional</seg>, <seg type="hint" rend="usg">în forma dodă</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-4cf5d911-92c8-4c64-94bb-13b1a08ee29f" n="">
+                        <def xml:id="uuid-76c70d4d-092a-4a34-88a6-fabe9e53f661"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>dade</number>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-2bf0e1b6-76d6-4315-a468-17bd56ebe615"> dodă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-d12167a3-a085-4d8c-8637-4a294b0ab9f0">didă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-b99e0cd8-7312-4228-bc90-18cbc44f8614">doâdă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                </re>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="tr" type="unknown" subtype="unknown">dada</term>  Cf. sb. d a d a,
+					ngr.  νταντά „bonă”.<note type="unknown" n="unknown" cert="high">
+                        <term/>
+                    </note>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1a38fd2b-4988-46e8-b3ee-d698840bc2a8" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>FlorinV</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-30T10:25:52+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">adresa</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">adrésa</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-0e9743ab-e5ee-4281-9d81-103bc26e5a28" n="1">
+                        <sense xml:id="uuid-0281ef48-4118-4ed1-ab3e-69b0086251e0" n="♦">
+                            <def xml:id="uuid-799fc5c2-0faa-4616-869a-03e23568ff09">Date care indică domiciliul unei persoane; p. gener.
+                                    domiciliu</def>
+                            <cit type="unknown">
+                                <quote>Când să-ţi văz justaminte adresa, mi-a tăiat drumul nişte
+                                    câini.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="CARAGIALE, O. VI (DA) CARAGIALE, T. I | CARAGIALE, Noapte F."/>
+                                    <date>1879</date>
+                                    <citedRange>48</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d08306a1-5228-4a75-8602-99fece927b9c" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <term>Adresă bibliografică </term>
+                            </form>
+                            <def xml:id="uuid-f56407f4-0a3a-4f30-8b64-0781bb7964f6"> totalitatea datelor privind apariţia unei cărţi</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="DN3"/>
+                                    <date>1978</date>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-74fc29d5-57c3-459f-8b24-ee68d102e984" n="">♦ <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
+                                <term>La adresa</term>
+                            </form>
+                            <def xml:id="uuid-85f542f9-34dc-4a7d-9dac-bd95d59b2a5d"> referitor la cineva sau ceva.</def>
+                            <cit type="unknown">
+                                <quote>Scrisoarea … am primit-o… Am văzut cele coprinse într-însa la
+                                    adresa noastră. </quote>
+                                <bibl type="ap.">
+                                    <ptr target="URECHIA, I. R. | URECHIA, Ist. Rom. II"/>
+                                    <date>1775</date>
+                                    <citedRange>II, 229</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-202ed73a-926d-412a-b346-3d3cc29fe03c" n="♦">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>A greşi adresa</term>
+                            </form>
+                            <def xml:id="uuid-06fed652-d502-456b-b13f-72e465e1075d">a) a nimeri în alt loc sau la altă persoană decât cea
+                                indicată</def>
+                            <def xml:id="uuid-11f72302-94fe-46d4-a4b3-4ae344414310">b) a avea o părere greşită despre cineva sau ceva, a se înşela
+                                    asupra cuiva. </def>
+                            <usg corresp="#uuid-11f72302-94fe-46d4-a4b3-4ae344414310">
+                                Şi <seg type="sem" rend="usg">fig.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Samson ... greşise adresa: pe mine avea el supărare. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="COŞBUC, O. A. IV | COŞBUC, Scr. Proză I"/>
+                                    <date>1897</date>
+                                    <citedRange>51</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-1fb91c7c-29f2-44f5-b5a1-eeb25148b363" n="♦">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>A greşi adresa</term>
+                            </form>
+                            <def xml:id="uuid-0c165155-3cda-4005-a566-bcd574170ba4">b) a avea o părere greşită despre cineva sau ceva, a se înşela
+                                    asupra cuiva.</def>
+                            <usg corresp="#uuid-0c165155-3cda-4005-a566-bcd574170ba4">
+                                <seg type="register style" rend="usg">familiar</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="DEX"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-5d5234d4-96bb-4c7d-8dd7-61032a3813b8" n="♦">
+                            <def xml:id="uuid-848b2f42-eca1-4ed5-b9b0-fe315e64799c">Îndemânare, abilitate</def>
+                            <usg corresp="#uuid-848b2f42-eca1-4ed5-b9b0-fe315e64799c">
+                                <seg type="plev" rend="usg">rar</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+                                    <date>1848</date>
+                                    <citedRange/>
+                                </bibl>
+                                <citedRange/>
+                            </cit>
+                            <cit type="unknown">
+                                <bibl type="author-reference">
+                                    <author target="Pelimon"/>
+                                </bibl>
+                                <quote> Începe a strânge arcanul învârtindu-l ca nişte colace pe
+                                    după mâini şi aruncându-l cu multă adresă. </quote>
+                                <bibl type="ap.">
+                                    <ptr target="#uuid-3d0ae70a-6c1d-89c2-867c-b2999f447ecc"/>
+                                    <date>1863</date>
+                                    <citedRange>75</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="s."/>
+                            <gen value="f."/>
+                            <number value=""/>
+                            <case value=""/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <gramGrp>
+                            <pos value="s."/>
+                            <gen value="n."/>
+                            <number value=""/>
+                            <case value=""/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-e89dcad1-f8e5-425c-af1c-b5ac666497da">Indicaţie (pe scrisori, pe colete etc.) cuprinzând numele şi domiciliul
+                                destinatarului; p. gener. (loc de) destinaţie.</def>
+                        <cit type="unknown">
+                            <bibl type="author-reference">
+                                <author target=""/>
+                            </bibl>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="piuariu-molnar  "/>
+                                <date>1788</date> 8<citedRange>385</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Învăţaţi pre prunci a pecetlui scrisoarea şi a scrie adresul pre
+                                ia. </quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-92c986b1-5fe9-2831-9e42-342e1b5e395f"/>
+                                <date>1818</date>1<citedRange>310/25.</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote> Te poftesc să beştelueşti gazeta grecească „Teligraful”, pe
+                                adresul arh. stolnicu Ianco Lahovari.</quote>
+                            <bibl type="unknown">
+                                <ptr target="St.Doc."/>
+                                <date>1821</date>I<citedRange>VIII, 140</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-fb0a4ad1-e5b3-495d-86fa-cd05ff97ee5d" n="2">
+                        <sense xml:id="uuid-6d183840-6010-438d-9cab-b77c0b773ce6" n="♦">
+                            <def xml:id="uuid-6c522cb5-66eb-40d6-92b1-62cd073df102">Declaraţie a unei camere a parlamentului care se trimitea
+                                    regelui.</def>
+                            <usg corresp="#uuid-6c522cb5-66eb-40d6-92b1-62cd073df102">
+                                <seg type="time" rend="usg">Învechit</seg>
+                                <seg type="coloc" rend="usg">și în sint. adresa tronului</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+                                    <date>1848</date>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>1876 EMINESCU, Pub. I, 284 Cuprinsul acestei interpelaţii
+                                    s-aseamănă cu amendamentul pe care tot acest domn îl propusese
+                                    de a se adaoge adresei tronului, prin care se accentua
+                                    neutralitatea României.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="Emin"/>
+                                    <date>1876</date>
+                                    <citedRange>284</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-bd100b87-c177-49c9-aae5-7b5d2de33425">Comunicare în scris (făcută oficial, mai ales de o organizaţie, o instituţie etc.)</def>
+                        <cit type="unknown">
+                            <quote> Stăpânirea vremelnică au trimis oştii franţozeşti acest
+                                următoriu atres.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-3b2c3512-871e-530a-55a9-62d168ba7e7a"/>
+                                <date>1814</date>
+                                <citedRange>12/2</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-f4e36733-aae5-4df8-9085-800f755b8cea" n="">
+                        <def xml:id="uuid-dc5d5d12-925c-426a-b506-af278fa2ff04"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>adrese</number>
+                    </form>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>adresuri</number>
+                        <usg>
+                            <seg type="register style" rend="usg">popular</seg>
+                        </usg>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-ef89c253-891e-4813-8933-361d4690abf2">adres</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="n."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">învechit</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="#uuid-bc28729a-4861-7004-4541-87a3f5388aa4"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-db0e7573-8927-4329-ac01-348992b422da"> atres</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="n."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">învechit</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">învechit</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target=" ALR "/>
+                        <date/>
+                        <citedRange>II 4846/279</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-ce5296e6-a30d-436e-82ed-9da2ac5ed3fb">adreásă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">Transilv.</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                        <date/>
+                        <citedRange> 53, 155</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-8f505678-6631-49d1-88e9-56d81a5446ad">adrésie </def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II4846/2, 157</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II 4846/192, 235, 250, 272, 284, 316, 346, 349, 574, 605,
+                            833</citedRange>
+                    </bibl>
+                    <def xml:id="uuid-ef3c2204-13ad-4104-8793-d74be9790e17">adriásă </def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II 4846/192</citedRange>
+                    </bibl>
+                    <def xml:id="uuid-5a37d1e7-ffa8-4386-9874-88cb7467bbdf">adriésiă </def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange> II 4846/172</citedRange>
+                    </bibl>
+                    <def xml:id="uuid-ae87c97c-abd5-4a78-ad7c-2df00d93f1be">adiriásă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-d5a041a5-8f23-471f-aece-f8b04530ddb4">adiriésă </def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>
+                            <span xmlns="" lang="RO" style="font-size:12.0pt;font-family: &#34;Times New Roman&#34;,serif;mso-fareast-font-family:SimSun;mso-ansi-language:RO; mso-fareast-language:EN-US;mso-bidi-language:AR-SA"> II 4846/551, 836</span>
+                        </citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-0bf898cf-841e-441b-a78f-9e6ca8d3c980">adriés </def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="n."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II 4846/353</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-7485c9ad-a416-4398-9bb2-4b29108f39fd">atreásă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II 4846/279</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-93e79d39-c6b3-4bf8-bad4-b8d056f47977">antriésă</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="f."/>
+                        <number value=""/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR"/>
+                        <date/>
+                        <citedRange>II 4846/27</citedRange>
+                    </bibl>
+                </re>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">adresse</term>
+                    <note type="unknown" n="unknown" cert="high">
+                        <term/>
+                    </note>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

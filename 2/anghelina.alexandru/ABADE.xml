@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-46dec67a-22fe-4bee-989e-947e164191fd" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T10:57:29+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abade</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁDE </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-d9afcfa9-5237-4a27-b4b2-5cb733cf3077" n="1.">
+						<def xml:id="uuid-a7402455-dc9d-4cbc-852a-65a60a43b4e3">În grabă;</def>
+						<usg corresp="#uuid-a7402455-dc9d-4cbc-852a-65a60a43b4e3">
+							<seg type="geo" rend="usg">Prin nord-estul Olt.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-a7402455-dc9d-4cbc-852a-65a60a43b4e3">
+							<ptr target="repede"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-a7402455-dc9d-4cbc-852a-65a60a43b4e3">
+							<ptr target="iute"/>
+						</xr>
+						<def xml:id="uuid-a1acc2e4-c874-4a53-a0b3-a7ad1bbfe7a7">în sfârșit, o
+							dată</def>
+						<cit type="unknown">
+							<quote>Vină (sau vino) <hi rend="bold">abade</hi>. Mai <hi rend="bold">abade</hi> te întoarce.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">m.
+									diale</ptr>
+								<date>1960</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-dbc12363-9254-4061-aec0-02f1b248a83a" n="2.">
+						<def xml:id="uuid-6527610f-cb16-406a-88de-d8acca174602">Până una alta</def>
+						<usg corresp="#uuid-6527610f-cb16-406a-88de-d8acca174602">
+							<seg type="geo" rend="usg">Prin Transilv.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-6527610f-cb16-406a-88de-d8acca174602">
+							<ptr target="deja"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Am ieșit până-afară și-<hi rend="bold">abade</hi> mi-a și făcut
+								pozna.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+								<date>1960</date>
+								<citedRange>155</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8bf059b3-bebe-49a8-a98e-67e9945ee7ca" n="">
+						<def xml:id="uuid-9d80a3c2-ffd7-4a69-be0d-66c3ab9c5646"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/>
+					<ptr targetLang="ro" type="cuvântul.titlu-formație.internă-trimitere-Cf." target="aba1"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

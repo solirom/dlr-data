@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-fcf58029-65dc-4b27-ab7b-626557e68301" version="3.3.0" source="0.20">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>anghelina.alexandru</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Linguistic Institute of the Romanian Academy</publisher>
+				<idno type="dictionary">DLR</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-11-28T12:29:21+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">a</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">A</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ea6eff8c-1806-4af7-86d0-c46ca5f54144" n="1.">
+						<sense xml:id="uuid-02cd0b57-21d1-4055-89f6-bc94959203d0" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+								<term>De la a (până) la z</term>
+							</form>
+							<def xml:id="id">de la început până la sfârşit; totul, în
+								întregime</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+									<date>1955</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pătrund cu ea în casele cu adevărat boiereşti. Sunt cel mult
+									două duzini în toată ţara. E vorba de nişte oameni scăpătaţi.
+									Sunt modeşti, dar foarte vanitoşi. Sunt risipiţi, din fericire,
+									pe toată întinderea alfabetului, <hi rend="bold">de la a până la
+										zed</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunatec</ptr>
+									<date>1964 (†)</date>
+									<citedRange>95</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-3c9c6a67-663c-41d7-af2f-cecc2cb89c0e">Prima literă a
+							alfabetului limbii române (A majusculă; a minusculă);</def>
+						<def xml:id="uuid-9726294a-5f85-4a87-a601-84d93c7efe3f">sunet notat cu
+							această literă (vocală deschisă nerotunjită medială).</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">deleanu</ptr>
+								<date>1818</date>
+								<citedRange>193<hi rend="superscript">r</hi>/5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">A</hi>... cea dântâiu slovă din slovele limbii
+								rumânești.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
+								<date>c. 1832</date>
+								<citedRange>22<hi rend="superscript">r</hi>/2</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-bcf52c36-b0ec-403e-817f-2469f9dbd72d" n="2.">
+						<sense xml:id="uuid-a25ae1e0-e19a-448e-bbaa-16cc92e4ec8a" n="a)">
+							<def xml:id="id">Primul element dintr-o enumerare, dintr-o serie
+								etc.</def>
+							<cit type="unknown">
+								<quote>Să presupunem că fiecare dn imaginile „<hi rend="bold">a</hi>”, „b”, „c”, produce emoţiunea „<hi rend="bold">A</hi>”.
+									În acest caz e natural ca această emoţiune fiind odată
+									deşteptată, de către „<hi rend="bold">a</hi>”, să deştepte şi ea
+									la rândul său pe celelalte corelative ale sale, adică pe
+									imaginea „b” sau „c”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<date>&lt;1875–1876&gt;</date>
+									<citedRange>90</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-9d578fdf-5ac2-4882-a627-e04dfce75fb7" n="b)">
+							<def xml:id="id">A șasea notă din scara diatonică corespunzând sunetului
+								la în notația literală anglo germanică</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">MUZ.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-8cf0fcd0-a452-015d-00ff-b9470175a5f1">d.
+										muz</ptr>
+									<date>1898</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-30107373-406b-7ee6-9f58-c181703c5c40">d.
+										muz</ptr>
+									<date>1905</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-87ff1114-785e-986a-a2b5-33edd3a44557">d.
+										muz</ptr>
+									<date>1979</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-50b8c8e4-1b2e-4c1f-a565-61fe689ebcab" n="c)">
+							<def xml:id="id">Amper</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">FIZ.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										fiz</ptr>
+									<date>1972</date>
+									<citedRange>s. v. <hi rend="italic">sistem de
+										unități</hi>.</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-249c9175-622b-4fd7-9407-41956c1e1b2d" n="d)">
+							<def xml:id="id">Angström</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">FIZ.</seg> (<seg type="plev" rend="usg">Notat Å</seg>)</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										fiz</ptr>
+									<date>1972</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-44ebe164-fea9-4847-b202-2325ffec183b" n="e)">
+							<def xml:id="id">Arie<hi rend="spaced"><hi rend="superscript">2</hi></hi>.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										fiz</ptr>
+									<date>1972</date>
+									<citedRange>s.v. <hi rend="italic">densitate de
+										curent</hi>.</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d.
+										enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-143a1dc7-9834-45c0-89b4-310bf73d6fbe" n="f)">
+							<def xml:id="id">Una dintre vitamine. Vitamina A.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">CHIM.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+										chim</ptr>
+									<date>1964</date>
+									<citedRange>s.v. <hi rend="italic">densitate de
+										curent</hi>.</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-a8f6bb47-91d5-452f-aea1-24d2a4b0c957" n="g)">
+							<def xml:id="id">Judecată universal-afirmativă</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">LOG.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d.
+										enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7518e787-0369-4353-a50b-5d7742ff59ec" n="h)">
+							<def xml:id="id">Una dintre grupele sangvine din sistemul ABO</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">MED.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Sistemul clasic... este sistemul ABO, cuprinzând patru grupe
+									sanguine: <hi rend="bold">A</hi> (prezenţa aglutinogenului <hi rend="bold">A</hi>), B (prezenţa aglutinogenului B), AB
+									(prezenţa celor două aglutinogene, <hi rend="bold">A</hi> şi B),
+									0 (absenţa aglutinogenelor).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">d.
+										medical</ptr>
+									<date>2007</date>
+									<citedRange>533</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-64baf105-e861-4a1b-84b9-a94057c76d4a" n="i)">
+							<def xml:id="id">Autostradă</def>
+							<usg corresp="#id">(<seg type="coloc" rend="usg">Urmat de un numeral
+									cardinal</seg>)</usg>
+							<cit type="▭">
+								<quote>Autostrada <hi rend="bold">A</hi>2 va fi închisă în
+									următoarele trei zile.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-bbdff072-5998-4d58-b0e9-974b104898db" n="j)">
+							<def xml:id="id">Serie de standarde internaționale pentru dimensiunea
+								unei coli, fiecare având suprafața de două ori mai mare decât a
+								celei următoare: A1, A2, A3, A4 etc.</def>
+							<usg corresp="#id">(<seg type="coloc" rend="usg">Urmat de un numeral
+									cardinal</seg>)</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-bbe6c6f4-9358-4eab-84f9-e2a6500605bc" n="k)">
+							<def xml:id="id">Cea mai mare notă acordată elevilor și studenților în
+								unele sisteme de evaluare</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Simbol sau abreviere pentru:</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a9e4cce2-c5f7-46dc-995a-be7bc63f1232" n="">
+						<def xml:id="uuid-49716029-8d20-42a9-9bb0-0201924ae642"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>a</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">A</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-49be1a3c-53a4-5137-2e8a-1b6ce5fe2583">clemens</ptr>
+						<date>1823</date>
+						<citedRange><hi rend="superscript"/></citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenaru</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db994243-75a0-8ec8-58ea-7ef28e3f725b">barcianu</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">DDRF</ptr>
+						<date>1983</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinean</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">CADE</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">Scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

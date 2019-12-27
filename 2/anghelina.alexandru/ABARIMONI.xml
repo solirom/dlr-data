@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1290e40e-628f-4346-9e4d-1dc1852d403e" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T15:51:41+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abarimoni</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABARIMONI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-58df5ff4-471f-4e99-8ea6-41d75d8e1d45" n="">
+						<def xml:id="uuid-ccaa4ed6-c077-4dc6-9dc9-df696f1fc2b5">Numele unei
+							populații nedefinite mai îndeaproape.</def>
+						<usg corresp="#uuid-ccaa4ed6-c077-4dc6-9dc9-df696f1fc2b5"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c5bdcd7-6391-1369-9095-ea3dbe953772">dacia</ptr>
+								<date>1911 (†)</date>
+								<citedRange>811</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-fbf81d96-70c2-478c-b944-774a32442e07" n="">
+						<def xml:id="uuid-8e9cba66-6125-4cc3-b1df-b6d4cf2f82c2"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

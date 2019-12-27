@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e2cd5431-10e2-4ff5-8df0-172a5e57ff69" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-19T13:36:50+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abundent</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUNDÉNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c518146a-1e13-4846-8f2e-b4c72fedb6a7" n="1.">
+						<sense xml:id="uuid-cd523c8f-bfae-49f9-8c74-fe893ba71560" n="✦">
+							<def xml:id="uuid-8a633c7f-c2a0-4c78-9155-860e810b5653">Care creează,
+								citează etc. mult;</def>
+							<usg corresp="#uuid-8a633c7f-c2a0-4c78-9155-860e810b5653">
+								<seg type="plev" rend="usg">Rar</seg> (<seg type="hint" rend="usg">Despre scriitori</seg>) </usg>
+							<xr type="syn" corresp="#uuid-8a633c7f-c2a0-4c78-9155-860e810b5653">
+								<ptr target="prolific"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Domnul Eugen Lovinescu, o cunoştinţă veche şi o precocitate
+									literară, era la paisprezece ani de două ori mai <hi rend="bold">abundent</hi> decât Balzac şi de trei ori mai genial ca
+									Goethe.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2bb07750-3764-6fde-7842-0cdbb53f29f4"/>
+									<date>1915</date>
+									<citedRange>144</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Veniră de acolo … doctorul Vasile Pop din Braşov, care
+									publicase la 1807 o tesă latină despre îngroparea la români, –
+									acesta un scriitor <hi rend="bold">abundent</hi> şi un om de
+									toată isprava. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ddf9a353-5c3a-6e37-a647-e7dfa6e2604f"/>
+									<date>1928</date>
+									<citedRange>185</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Petulante, foarte atrăgătoare sunt impresiile lui Petru
+									Comarnescu din „Homo americanus”. Autorul e un intelectual
+									nutrit de lecturi şi inteligent, care nu se fixează. <hi rend="bold">Abundent</hi> şi el, Dragoş Protopopescu nu-i
+									mai puţin delectabil când vorbeşte despre „Fenomenul
+									englez”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb"/>
+									<date>1941</date>
+									<citedRange>832</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ea4bdd61-fe9d-49ea-8b16-70ec6d4a6e73" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+							<cit type="unknown">
+								<quote>Astăzi, poetul Valéry, de exemplu, se miră <hi rend="bold">abundent</hi> de neglijarea tehnicii – neglijarea adică a
+									specificului artistic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">zarifopol</ptr>
+									<date>1930</date>
+									<citedRange>224</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Citea mult şi fără discernământ, cita <hi rend="bold">abundent</hi> şi amesteca ideile.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">viața
+										e</ptr>
+									<date>1932</date>
+									<citedRange>204</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold"/>Așezat la masă, plecat peste hârtii, Fărâmă
+									scria. Dar nu mai scria atât de repede și de <hi rend="bold">abundent </hi>ca înainte.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4896547c-013a-7dfe-6c8b-dc3551c03e30">prozei</ptr>
+									<date>1955</date>
+									<citedRange>139</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se arată ... destul de degajat și <hi rend="bold">abundent
+									</hi>în detalii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia
+										lit</ptr>
+									<date>1984</date>
+									<citedRange>nr. 36, 4</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Contactul [cu Dumnezeu] e necomplezent, aproape pragmatic,
+									valorificând <hi rend="bold">abundent </hi>plenitudinea
+									simțurilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">îngeri</ptr>
+									<date>2003</date>
+									<citedRange>218</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-7309ebbc-61d0-4247-8f7b-21be38f30e5a">Care se
+							caracterizează prin bogăție de mijloace de expresie;</def>
+						<def xml:id="uuid-7037b849-f74c-4c36-b18b-a8e58b4ee35f">care se manifestă în
+							număr mare;</def>
+						<usg corresp="#uuid-7309ebbc-61d0-4247-8f7b-21be38f30e5a"> (<seg type="hint" rend="usg">Despre idei, noțiuni, creații etc. ale oamenilor</seg>) </usg>
+						<xr type="syn" corresp="#uuid-7309ebbc-61d0-4247-8f7b-21be38f30e5a">
+							<ptr target="numeros"/>
+						</xr>
+						<cit type="unknown">
+							<quote>„Deplinite” conțepturi sunt în care deosebim atâtea note câte se
+								cer spre hotărârea lor ... Iară de ar cuprinde și mai multe note
+								decât se cer spre hotărâre, se numesc conțepturi „îmbelșugate” sau
+									<hi rend="bold">abundante</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-998e6fd6-1be8-842f-20f5-a7e7e21672a5"/>
+								<date>&lt;1834-1835&gt; </date>
+								<citedRange>125/4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Chemarea politică a „Columnei lui Traian” s-a împlinit. Ca și
+								până acuma, ea va apare o dată pe săptămână, ca și până acuma și va
+								coprinde în sine o <hi rend="bold">abundinte</hi> materie. </quote>
+							<bibl type="unknown">
+								<ptr target="HASDEU, Pub. II , II1 |  | HASDEU | Pub. II | II1 |"/>
+								<date>1871</date>
+								<citedRange>359</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>„Noul Procanon” al lui Petru Maior formează izvoare sigure și <hi rend="bold">abundante</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe"/>
+								<date>1895</date>
+								<citedRange>107</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Restul expoziției cuprinde nume multe și opere puține, cu toate
+								că tablouri foarte <hi rend="bold">abundente</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a"/>
+								<date>1912</date>
+								<citedRange>44</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ascultându-și ritmul cuvântului <hi rend="bold">abundent</hi>,
+								ales și foarte plăcut ... el [Piu al X-lea] vorbește ... de revista
+								mea franceză.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-10e5c181-2d46-0260-3846-03a7cbc24b34"/>
+								<date>1927</date>
+								<citedRange>187</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Concluzii întemeiate şi aparat bibliografic <hi rend="bold">abundent</hi> şi la zi introduc pe cetitor în toate arcanele
+								istorice şi filologice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4fcf0ab7-748e-2033-3704-9299918d5a9d"/>
+								<date>1938</date>
+								<citedRange>243</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rămân prea mult în urma subiectelor mele, care sunt mai <hi rend="bold">abundente</hi> decât randamentul meu așa
+								sărac.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5"/>
+								<date>1943</date>
+								<citedRange>495</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Literatura în legătură cu problemele metaforei este foarte <hi rend="bold">abundentă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516"/>
+								<date>1957</date>
+								<citedRange>200</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cele mai <hi rend="bold">abundente</hi> ştiri cunoscute până acum
+								asupra husitismului în Moldova în prima jumătate a secolului al
+								XV-lea provin din două texte publicate şi cunoscute de mult
+								istoricilor noştri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08864a42-5f8f-7ca9-5242-dbbdaff3a134"/>
+								<date>1962</date>
+								<citedRange>280</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Sandfeld] se credea îndrituit să proclame crearea unei științe
+								deosebite, „lingvistica balcanică”, în sectorul căreia s-a format o
+								bibliografie <hi rend="bold">abundentă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7a53f57b-4ddb-05b5-1ea6-9512b8f71235"/>
+								<date>1981</date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Abundentele</hi> detalii epice se
+								realiniază.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d"/>
+								<date>1983</date>
+								<citedRange>nr. 39, 17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Citatele <hi rend="bold">abundente</hi>, plictisitoare şi inutil
+								de precise ale erudiţiei postbelice sunt consecinţa perversă a
+								confuziei dintre retorică şi dovadă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a"/>
+								<date>2001</date>
+								<citedRange>257</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dovada o constituie <hi rend="bold">abundentele</hi> note
+								marginale care însoţesc versiunea românească (în număr de 185!),
+								foarte edificatoare prin atitudinea lor simpatetică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f24d377a-a463-61d8-0506-f943859395b9"/>
+								<date>2002</date>
+								<citedRange>441</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-b59331dc-9f39-4a75-b827-3588e1203bae" n="2.">
+						<sense xml:id="uuid-f27caa16-9aa7-4ca2-9971-9c3b5532e123" n="✦">
+							<def xml:id="uuid-94c167be-e1fd-4352-9aea-e326f52ab780">Care este foarte
+								mult, care este în număr mare</def>
+							<usg corresp="#uuid-94c167be-e1fd-4352-9aea-e326f52ab780"> (<seg type="hint" rend="usg">Despre păr sau formațiuni
+								anatomice</seg>) </usg>
+							<xr type="syn" corresp="#uuid-94c167be-e1fd-4352-9aea-e326f52ab780">
+								<ptr target="des (I 1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Semnele sănătăței sunt: părul <hi rend="bold">abondint</hi>,
+									dinții frumoși și sănătoși și mai cu seamă o față ...
+									curată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eb028096-1cf2-a76b-4a2a-feb9135c3dff"/>
+									<date>1857</date>
+									<citedRange>78</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Deosebit de <hi rend="bold">abundente</hi> sunt terminațiile
+									nervoase în teaca internă a foliculilor atretici și a celor
+									obișnuiți.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3b2a87b7-1e07-29a7-0018-99b37a0d48fe"/>
+									<date>1927</date>
+									<citedRange>521</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Obrazul aspru şi colţuros, cu sistemul pilos atât de <hi rend="bold">abundent</hi> încât părea întotdeauna
+									nebărbierit de trei zile, arăta cel mai desăvârşit dispreţ
+									pentru cel plecat. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e0e253ed-a1fc-9470-1225-861d743b828d"/>
+									<date>1928</date>
+									<citedRange>115</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Victor Hugo ... avea în cap un păr <hi rend="bold">abundent</hi>, o coamă de leu, foarte lirică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd"/>
+									<date>1935</date>
+									<citedRange>38</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Zeul însuşi, sub chipul unui satir tânăr cu picioare de ţap,
+									cu capul înconjurat de plete <hi rend="bold">abundente</hi> şi
+									împodobite cu o semilună, este în mijloc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c8a108f7-029e-2fd0-8ab4-1f794e5aa659"/>
+									<date>1943</date>
+									<citedRange>274</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îi luă la rându-i palma s-o privească, pretext de a-i veni şi
+									mai aproape, atingându-i din nou obrazul cu părul <hi rend="bold">abundent</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65"/>
+									<date>1970</date>
+									<citedRange>423</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-83b1869f-2ca5-40da-a32b-4a71ff7e8bca" n="✦">
+							<def xml:id="uuid-6462c059-0096-45cf-aef1-8d037f694f64">Care este bine
+								dezvoltat</def>
+							<usg corresp="#uuid-6462c059-0096-45cf-aef1-8d037f694f64">(<seg type="hint" rend="usg">Despre părți ale corpului omenesc</seg>) </usg>
+							<xr type="syn" corresp="#uuid-6462c059-0096-45cf-aef1-8d037f694f64">
+								<ptr target="voluminos"/>
+							</xr>
+							<xr type="syn" corresp="#uuid-6462c059-0096-45cf-aef1-8d037f694f64">
+								<ptr target="voluptuos"/>
+							</xr>
+							<xr type="syn" corresp="#uuid-6462c059-0096-45cf-aef1-8d037f694f64">
+								<ptr target="opulent"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Vedeau … o matroană bine împlântată în pământ, cu șolduri,
+									coapse și sâni <hi rend="bold">abundenți</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b50e1327-5d95-8928-328d-c1ae191ea1d6"/>
+									<date>1932</date>
+									<citedRange>225</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Avea părul ondulat natural, blond, perna nu i-l stricase,
+									purta ceva care părea o pijama de nylon, era bine clădită, cu
+									piept <hi rend="bold">abundent</hi>, dar cu trăsături destul de
+									fine şi mâna subţire pe care se vedea un pic de aur. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f391ac37-135a-2757-3721-2a0b81cf3e50"/>
+									<date>1971</date>
+									<citedRange>127</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cămașa, sub presiunea greutății, suprafeței și căldurii
+									formelor ei <hi rend="bold">abundente</hi>, după un sfert de oră
+									era uscată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5e3d83f-6bac-96e3-a3c5-5364a1710133"/>
+									<date>1993</date>
+									<citedRange>60</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-3ca506e1-a3f5-40bb-8197-7e6998d6eb4d" n="✦">
+							<def xml:id="uuid-29ea68fa-37ec-4808-8159-ec7639d1b092">Care curge în
+								cantitate mare, în exces.</def>
+							<usg corresp="#uuid-29ea68fa-37ec-4808-8159-ec7639d1b092"> (<seg type="hint" rend="usg">Despre secreții</seg>) </usg>
+							<cit type="unknown">
+								<quote>Pulmonul stâng umflat, la secţiune se scurge un lichid <hi rend="bold">abundent</hi> şi spumos conţinând vezicule mici;
+									partea postero-inferioară puţin congestionată; totul e
+									aerat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e00778d4-2539-91d9-867f-891fe8480062"/>
+									<date>1892</date>
+									<citedRange>291</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Gutunarul, tusa, saliva <hi rend="bold">abondentă</hi> încă
+									sunt factori împiedicători ai vorbirei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1f749326-1575-9c1d-40af-2e7304de6e1b"/>
+									<date>1899</date>
+									<citedRange>90</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Depunem <hi rend="bold">abundente</hi> și curate lacrămi la
+									căpătâiul D-nei Elisa T. Ioan.</quote>
+								<bibl type="unknown">
+									<ptr target="Doc. Bârl., V |  |  | Doc. Bârl. | V |"/>
+									<date>1906</date>
+									<citedRange>187</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O boabă de fasole, bunăoară, se umflă în nas inflamând
+									mucoasa nazală care secretă mucus <hi rend="bold">abundent</hi>,
+									ce devine apoi purulent.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db"/>
+									<date>1959</date>
+									<citedRange>618</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Alte nopţi nedormite din cauza sudorilor <hi rend="bold">abundente</hi>. Tibirculos nu sunt, poate îmi va fi lipsind
+									zahărul (din organismus).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3"/>
+									<date>2002</date>
+									<citedRange>210</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu putem identifica holera actuală nici măcar cu acea
+									„pestă”, descrisă de cronicarii medievali ca fiind caracterizată
+									de <hi rend="bold">abundente</hi> evacuări
+									sangvinolente.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a"/>
+									<date>2002</date>
+									<citedRange>6</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1056b300-4deb-42b9-9108-e5e6e19a8665" n="✦">
+							<def xml:id="uuid-32da2e00-0338-4908-9f47-2791af38a367">Care cade, care
+								se așază în cantitate mare.</def>
+							<usg corresp="#uuid-32da2e00-0338-4908-9f47-2791af38a367"> (<seg type="hint" rend="usg">Despre ploi, ninsori, etc.</seg>) </usg>
+							<cit type="unknown">
+								<quote>Căzură, precum cade câmpul cel uscat O ploae <hi rend="bold">abondantă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-db5e8b65-a6f2-468c-774d-d15328324fff"/>
+									<date>1847</date>
+									<citedRange>139/20</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O ploaie <hi rend="bold">abundentă</hi> s-a revărsat asupra
+									pământului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda"/>
+									<date>1892</date>
+									<citedRange>47</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îndată ce dă de soare, – nu e nevoie în acest caz de nori, –
+									soarele se pune să-i fabrice instantaneu, şi o ploaie <hi rend="bold">abundentă</hi> răcoreşte capitala.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e4f2a235-6bb5-3980-21b3-6cc71f423e28"/>
+									<date>1931</date>
+									<citedRange>212</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O ninsoare <hi rend="bold">abundentă</hi> înfrumuseţase
+									oraşul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ca7761c2-7fb4-41db-8b92-a3f4b25b13be"/>
+									<date>1932</date>
+									<citedRange>368</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toată noaptea a nins şi ziua. Zăpada e <hi rend="bold">abundentă</hi>; nu ştiu de va dăinui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cdec6c3a-9ca9-8bce-9368-4c490d9c908c"/>
+									<date>1932</date>
+									<citedRange>176</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Peste noapte căzuse o ninsoare <hi rend="bold">abundentă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1f57c20c-5dba-1037-82ff-1fe5dee14a36"/>
+									<date>1974</date>
+									<citedRange>153</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Doctorul Bălăceanu punea apariţia holerei în legătură cu
+									temperatura atmosferică excesivă şi cu ploile <hi rend="bold">abundente</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a"/>
+									<date>2002</date>
+									<citedRange>245</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-7898ab14-82bb-4581-b27d-fea81d0b1c4c">Care este bogat,
+							care este în cantitate mare</def>
+						<usg corresp="#uuid-7898ab14-82bb-4581-b27d-fea81d0b1c4c"> (<seg type="hint" rend="usg">Despre produse materiale sau ale naturii</seg>; <seg type="sem" rend="usg">p. ext.</seg>
+							<seg type="hint" rend="usg">despre locul unde există sau se
+							produc</seg>)</usg>
+						<xr type="syn" corresp="#uuid-7898ab14-82bb-4581-b27d-fea81d0b1c4c">
+							<ptr target="îmbelșugat"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-7898ab14-82bb-4581-b27d-fea81d0b1c4c">
+							<ptr target="îndestulat"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-7898ab14-82bb-4581-b27d-fea81d0b1c4c">
+							<ptr target="mănos (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Asămine pământ se numește puternic și <hi rend="bold">abondent</hi> (îmbelșugat).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f07069d2-33fd-607a-2d95-4d6d74625619"/>
+								<date>1853</date>
+								<citedRange>10/6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Șosele și poduri trebuiesc țării, ca să se poată transporta mai
+								cu lesnire aceste producte, pentru ca ea să fie <hi rend="bold">abondentă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f64fa4e6-8aef-9279-7828-01c01bb850e9"/>
+								<date>1858</date>
+								<citedRange>22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu există pe fața pământului o altă țară unde acest metal să fie
+								mai <hi rend="bold">abundinte</hi>, mai bun și mai ieftin.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4be494a0-25e1-9277-a76a-5a6d47278709"/>
+								<date>1868</date>
+								<citedRange>255</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Știți dumneavoastră că în Moldova, unde recolta n-a fost așa de
+									<hi rend="bold">abondentă</hi> ... n-au mai rămas nici 100
+								părechi de boi?</quote>
+							<bibl type="unknown">
+								<ptr target="KOGĂLNICEANU, Orat., II1 |  | KOGĂLNICEANU | Orat. | II1 | KOGĂLNICEANU, O. IV"/>
+								<date>1868</date>
+								<citedRange>617</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Omul izolat nu putea a se nutri decât cu fructe mai multe; acum
+								vânatul îi fu mai <hi rend="bold">abondent</hi> și mai sicur de la
+								prima însoțire.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8faf3bcd-6795-768e-640b-07134cb634a1"/>
+								<date>1872 (†) </date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[La Brăila sunt] piețe mari și <hi rend="bold">abondante</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c"/>
+								<date>1886</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mineralogia, ca una ce este întemeiată pe consideraţii asupra
+								moleculelor, este o ştiinţă care se interesează de „speciile
+								minerale”, rămânând cu desăvârşire străină de întrebarea, dacă un
+								mineral e <hi rend="bold">abundent</hi> ori nu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbe97f49-5886-8717-6cb3-21d7a30f61ee"/>
+								<date>1894</date>
+								<citedRange>140</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bugeagul se putea numi un adevărat Eldorado al vânătorilor,
+								cuprinzând mii de păseri, ce se-nmulțesc prin <hi rend="bold">abundantele</hi> ierburi ale acelor șesuri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9824637e-561e-2a7c-5eac-5f4fb2c09fc8"/>
+								<date>1898</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Peştii tineri cari au intrat din Dunăre şi puii găsind în aceste
+								bălţi o hrană <hi rend="bold">abundentă</hi> se hrănesc toată vara
+								şi cresc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-37a46989-1c9b-6f29-16a7-b565d9a509cd"/>
+								<date>1910</date>
+								<citedRange>86</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Erau probabil grădini cum se concepeau în Orient, cu o vegetaţie
+									<hi rend="bold">abundentă</hi>, cu pavilioane pierdute în
+								funduri de alei şi basinuri pe luciul cărora pluteau câteodată bărci
+								grele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2aebb37-0fd1-74a0-655d-829e36954078"/>
+								<date>1932</date>
+								<citedRange>276</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Perspectiva actuală ... ne lasă să întrevedem că România n-a
+								jucat rolul său în Europa anilor 1912-1942 prin grâul sau petrolul
+									<hi rend="bold">abundent</hi> ... ci mai mult prin statuarul
+								solitar Constantin Brâncuși.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8cf00c8-9bd0-8a14-4515-0601aefe4ffc"/>
+								<date>1945</date>
+								<citedRange>102</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La Levadia, nu foarte departe de Atena, am văzut, cred, cele mai
+								vestite izvoare din Grecia ... Sunt două, unul mai <hi rend="bold">abundent</hi>, al Lethei, alegoria uitării, altul, trecut pe
+								sub o poartă de fier, al Mnemosynei, zeiţa memoriei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-05fb8e6a-6134-4c48-2d69-784c3d80a3b8"/>
+								<date>1972</date>
+								<citedRange>195</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din vechea construcție mai dăinuie doar corpul navei ... Cel
+								vestic, încastrat într-un rezalit, are o bogată articulare, cu șase
+								planuri, capitelele colonetelor fiind unite între ele printr-o friză
+								de frunziș <hi rend="bold">abundent</hi> și robust ca
+								tratare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-176c48e5-88f0-0e0e-71fd-596aea9d387a"/>
+								<date>1979</date>
+								<citedRange>68</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Piatra – material <hi rend="bold">abundent</hi> în Egipt – a
+								înlocuit cărămida.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a"/>
+								<date>1984</date>
+								<citedRange>109</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mă las pe vine şi cineva mă trage brusc înapoi. Este mama, care
+								mă ia de mânuţă şi-ncepem urcuşul pe scările pline de acelaşi moloz,
+								uneori atât de <hi rend="bold">abundent</hi>, că trebuie să
+								escaladăm pur şi simplu grămezile cenuşii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44"/>
+								<date>1996</date>
+								<citedRange>209</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se remarcă la cununi o lucrătură <hi rend="bold">abundentă</hi>
+								şi strânsă în foi de aur precum cele din Tarquinia, expuse la
+								British Museum.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c65cb38b-3d8f-9391-2a0b-ee03c3f357c3"/>
+								<date>2003</date>
+								<citedRange>388</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f61feb82-14e1-4c59-8e78-9ccc6c5a4a04" n="✧">
+						<def xml:id="uuid-514fbe44-d6ac-4213-b925-3e80eace4e55"/>
+						<usg corresp="#uuid-514fbe44-d6ac-4213-b925-3e80eace4e55"> (<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+						<cit type="unknown">
+							<quote>În răstimp trenul înainta prudent, fumegând mai <hi rend="bold">abondent</hi> ca altădată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b9b146a-24cf-5c5b-581c-faea14bd654a"/>
+								<date>1932</date>
+								<citedRange>477</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fixarea de sol este cu atât mai trainică cu cât rădăcina se
+								înfige mai adânc în pământ … şi cu cât se ramifică mai <hi rend="bold">abundent</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-496a8a4a-1d96-96f6-a316-a08595c580ce">man.
+									bot</ptr>
+								<date>1962</date>
+								<citedRange>22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Dumitrana] revăzu lungile coridoare luminate numai de o lampă
+								gălbuie, sus, în tavan, şi uşile nesfârşite … şi simţi că asudă <hi rend="bold">abundent</hi> de câteva ori.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0bb5f849-478a-82a1-7085-e9aa8a7098b7"/>
+								<date>1965</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Maică-sa lăcrima <hi rend="bold">abundent</hi>, „e totuşi copilul
+								nostru”, nutrind în adâncul sufletului satisfacţia de a avea la
+								dispoziţie o fiinţă lipsită de apărare în faţa revărsărilor ei de
+								devotament şi spirit de sacrificiu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a1a3efab-87a5-a12c-16ab-0f1cfb760e35"/>
+								<date>1987</date>
+								<citedRange>62</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-01c77dbe-01de-43ce-b985-6e3da55b3a3e" n="">
+						<def xml:id="uuid-ccb93c3c-fbfb-4ba5-8776-bca58687b972"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+						<term>-Ă </term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abundenți, -te</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="time" rend="usg">astăzi
+							rar</seg></usg>
+					<def>abondént</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/>
+						<idno type="grammatical-information-subtype-for-fem-sg"/>
+						<form type="grammatical-information-for-fem-sg">
+							<term>-ă</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abondánt</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/>
+						<idno type="grammatical-information-subtype-for-fem-sg"/>
+						<form type="grammatical-information-for-fem-sg">
+							<term>-ă</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abundánt</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/>
+						<idno type="grammatical-information-subtype-for-fem-sg"/>
+						<form type="grammatical-information-for-fem-sg">
+							<term>-ă</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abondínt</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/>
+						<idno type="grammatical-information-subtype-for-fem-sg"/>
+						<form type="grammatical-information-for-fem-sg">
+							<term>-ă</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abundínte</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abondant</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abundans, -ntis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopope</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4e00444f-93f8-4acb-73d6-80002fc38ea3">gheție</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

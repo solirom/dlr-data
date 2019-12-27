@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c2c1d289-5d32-4b22-a553-5fcdb50e13db" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catamara</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-12T14:29:43+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dex">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">ACOLO</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">ACÓLO</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="adv."/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-9333ae1a-697a-4921-86c2-79e08ffd6007" n="">
+                        <def xml:id="uuid-9a4d035e-8ea4-4445-889f-f579b1f4b2d5"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-4275155d-6807-4376-97b0-8b0816949031" n="">
+                        <sense xml:id="uuid-84b08143-bfbe-481e-bbd3-2e4a4aec1366" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Pe acolo</term>
+                            </form>
+                            <def xml:id="uuid-975c4c3b-a94d-493e-a89b-e39df5db9c60">cam în locul acela; (despre cantități) aproximativ.</def>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-fd7d1389-d5c1-4e6e-9ed2-adabb7bc81a1" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>De (sau dintr-)acolo</term>
+                            </form>
+                            <def xml:id="uuid-0d6bbcdc-ea65-4c0a-93a5-e93fbe3712a4">din partea aceea, din locul acela.</def>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-717f7f3e-962c-4ab2-a7b4-afe25c3918fc" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Într-acolo</term>
+                            </form>
+                            <def xml:id="uuid-293335e6-e4d5-4e7b-9387-d525937d12ae">spre acel loc, spre direcția aceea.</def>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-1ca69acf-1395-4123-8dd9-0ee92f709faa" n="◊">De (pe) acolo<form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>De (pe) acolo</term>
+                            </form>
+                            <def xml:id="uuid-d4cd4956-a027-4507-9eb3-1d5785800614">cam din acel loc.</def>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-162311d6-1596-4b0c-b4df-b222a6017a0b" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Până acolo</term>
+                            </form>
+                            <def xml:id="uuid-cd0d1561-c5a2-4265-98df-2e5cfd6214b6">până la situația..., la împrejurarea (care depășește limita îngăduită)...</def>
+                            <usg corresp="#uuid-cd0d1561-c5a2-4265-98df-2e5cfd6214b6">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-e626dec7-fb0f-4776-a47f-e747ece89412" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>(Pân’) pe-acolo</term>
+                            </form>
+                            <def xml:id="uuid-5afc8ea3-15c6-4b72-8dc5-52155dbe4ea8">peste măsură, din cale-afară (de greu, mare, frumos etc.).</def>
+                            <usg corresp="#uuid-5afc8ea3-15c6-4b72-8dc5-52155dbe4ea8">
+                                <seg type="geo" rend="usg">Reg.</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-89299438-e49c-4f3f-9273-27a9d4b25f10" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>Cine e acolo?</term>
+                            </form>
+                            <def xml:id="uuid-acf9cb6c-7519-469e-96e5-d8afe10a341b">Cine a bătut în ușă, cine a sunat la telefon?</def>
+                            <usg corresp="#uuid-acf9cb6c-7519-469e-96e5-d8afe10a341b">
+                                <seg type="register style" rend="usg">Fam.</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-907d1351-4707-4914-aa29-cedb5de76bc5" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>Ce ai acolo?</term>
+                            </form>
+                            <def xml:id="uuid-6f480570-2a9f-4341-addf-bff5679dcf2a">ce ai la tine (sau în mână etc.)?</def>
+                            <usg corresp="#uuid-6f480570-2a9f-4341-addf-bff5679dcf2a">
+                                <seg type="register style" rend="usg">familiar</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d86823d8-bd91-4a6b-adf0-226828c3a9ff" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>Fugi de-acolo!</term>
+                            </form>
+                            <def xml:id="uuid-91d60a56-2889-4425-99ef-2353f2d1d628">da de unde! nici gând! imposibil!</def>
+                            <usg corresp="#uuid-91d60a56-2889-4425-99ef-2353f2d1d628">
+                                <seg type="register style" rend="usg">familiar da de unde! nici gând! imposibil!</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-842d94d3-05bc-455b-a6ed-7b6b631d2db7" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>Ce am eu de-acolo?</term>
+                            </form>
+                            <def xml:id="uuid-20cbc290-a6ac-4fd1-ad9d-710627a4bbcb">ce mă privește, ce avantaj am din asta?</def>
+                            <usg corresp="#uuid-20cbc290-a6ac-4fd1-ad9d-710627a4bbcb">
+                                <seg type="register style" rend="usg">familiar</seg>
+                            </usg>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="adv."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-3f138afb-97e8-41e3-b5df-a11587ffeda4">În acel loc (relativ) îndepărtat (de cel care vorbește); în alt loc.</def>
+                        <usg corresp="#uuid-3f138afb-97e8-41e3-b5df-a11587ffeda4">
+                            <seg type="hint" rend="usg">în opoziție cu aici</seg>
+                        </usg>
+                        <pc/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target=""/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="element.moştenit-etimon.atestat"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">eccum-[i]lloc</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d452abe5-a3e7-4fb2-b1d1-78b4a3d421d0" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T13:21:54+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abtaliune</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABTALIÚNE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8be5272b-cc78-4785-8df9-e01b24129181" n="">
+						<def xml:id="uuid-7d3f860c-51b1-407d-83f3-39a849bff1f2">Bucată mică din
+							ceva;</def>
+						<usg corresp="#uuid-7d3f860c-51b1-407d-83f3-39a849bff1f2">
+							<seg type="geo" rend="usg">Prin Bucov.</seg>
+						</usg>
+						<def xml:id="uuid-e18654cd-78b8-4025-9b1e-657fec3fd1fe">zdrob (I 1)</def>
+						<usg corresp="#uuid-e18654cd-78b8-4025-9b1e-657fec3fd1fe">
+							<seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="Lexic Reg., I |  |  | Lexic Reg. | I | LEXIC REG."/>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2f8db525-943e-4c0f-b503-8459a34e5f71" n="">
+						<def xml:id="uuid-01ef6f06-a346-41b1-a25a-283722421365"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="de" type="unknown" subtype="unknown">abteil</term>
+					<note type="unknown" n="unknown" cert="high">
+						<term>„secțiune”</term>
+					</note>
+                </etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

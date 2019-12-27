@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-92c85a3b-0382-4b84-ba9e-348283d55044" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T10:50:44+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abagică</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGÍCĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3e486dd3-8ca8-4a54-80c8-e3c594b511a5" n="">
+						<def xml:id="uuid-813163fc-e036-400a-a828-1fac4f41322b"/>
+						<usg corresp="#uuid-813163fc-e036-400a-a828-1fac4f41322b">
+							<seg type="geo" rend="usg">Prin Mold.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-813163fc-e036-400a-a828-1fac4f41322b">
+							<ptr target="Bageac"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-224bee0c-a38e-971f-3023-489526b49634">anchete</ptr>
+								<date>&lt;1956–1958&gt;</date>
+								<citedRange>28, 33, 35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-792ed9bf-17e6-9863-a15d-e7b1e1c9577c">anchete</ptr>
+								<date>1957</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a8ab16ea-de65-4efb-a1af-4c606e65902a" n="">
+						<def xml:id="uuid-21b1c531-e996-4164-891f-853d7d4f0b3b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagele</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="bageac"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

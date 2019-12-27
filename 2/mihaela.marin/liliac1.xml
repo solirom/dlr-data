@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-429a26e4-75be-4e0c-bcb2-17341897e90b" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-06T11:16:47+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">LILIAC</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LILIÁC</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m."/>
+                    <number value="sg."/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-ef1fe26a-2b26-4abb-8687-125b088613d2" n="1.">
+                        <sense xml:id="uuid-a6081ef3-a675-40e8-b2a4-a888f55c5afb" n="a)">
+                            <sense xml:id="uuid-53d8d7d1-e029-4721-86a7-ad5824168849" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    nemţesc)</term>
+                                </form>
+                                <def xml:id="uuid-1f57321e-a467-479a-9a35-4db5ce590a96">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>166</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-86c4af32-b48d-42ce-8383-5e0923e55a01" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    roşu)</term>
+                                </form>
+                                <def xml:id="uuid-1847a6d6-6027-4788-bfa8-3b2dc58796a8">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>166</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-0ab98016-de6e-4cbd-8c90-7f007193ea78" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    sălbatic)</term>
+                                </form>
+                                <def xml:id="uuid-11818f94-3800-4e76-b8c0-2b439547a830">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>166</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">Arbust înalt până la 7 m cu flori colorate în diferite nunaţe
+                                de violet, albe, roşii, plăcut mirositoare şi care creşte spontan în
+                                regiunile mai calde ale ţării sau se cultivă ca arbust ornamental
+                                (Syringa vulgaris)</def>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="iorgovan"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="liurbăn"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="mălin"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="mălin roşu"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="scânteie"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="scrinte"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="scumpie"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-fc780f41-9aba-48c6-8393-332f2b5784f8">
+                                <ptr target="sireni"/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote>Liliacul ... creşte în voie, sălbatec, pe stâncile din
+                                    Cazane.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc"/>
+                                    <date/>
+                                    <citedRange>55</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-e1bafe7f-304d-4ce3-8f33-5b4eb305b0dc" n="b)">
+                            <sense xml:id="uuid-9da5298d-9483-45bf-b1bd-2de45be61b42" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma
+                                    liliac-franţuzesc)</term>
+                                </form>
+                                <def xml:id="uuid-f9b9a7ed-aa60-4cb1-bb58-b0a3d4ff18cc">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-a910e926-9a63-473a-8e54-abdab2218066" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>( Şi în sintagma liliac
+                                    nemţesc)</term>
+                                </form>
+                                <def xml:id="uuid-dcd3ab1d-1e5b-4ec6-9368-4ad0366c1075">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>166</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-2398eaf4-e108-459c-8344-5235a9b404cf" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    persan)</term>
+                                </form>
+                                <def xml:id="uuid-ab7d50aa-df16-4be6-a0a8-074067ab1887">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-a91eef91-4baa-4ad7-9456-0b0d3ca7ba62">arbust înalt de 2-3 m, cu ramuri răsfirate, cu flori palid
+                                liliachii, mirositoare, dispuse în panicule, cultivat ca arbust
+                                ornamental (Syrinca persica)</def>
+                            <xr type="syn" corresp="#uuid-a91eef91-4baa-4ad7-9456-0b0d3ca7ba62">
+                                <ptr target="boroştean"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-a91eef91-4baa-4ad7-9456-0b0d3ca7ba62">
+                                <ptr target="mălin-verde"/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>166</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a71f40cd-af55-458f-b1e4-d0433379e99e" n="c)">
+                            <sense xml:id="uuid-22618fe6-7cc9-43c6-a027-f8ed93c30255" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    nemţesc)</term>
+                                </form>
+                                <def xml:id="uuid-8dbcf3ca-004e-4114-bd0f-2ae7b5917884">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-f2379fdb-7509-4319-b45b-d9188ff94513">arbust înalt de 2-3 m, cu lujeri glabri, cu frunze lanceolate
+                                şi flori purpurii-liliachii, şi care se cultivă în ţara noastră ca
+                                arbust ornamental (Syringa chinensis)</def>
+                            <cit type="unknown">
+                                <quote>Reînflorea pe dealuri liliacul.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-d98ebc5c-a066-373d-391b-bdea81eb5d7e"/>
+                                    <date/>
+                                    <citedRange>256</citedRange>
+                                </bibl>
+                            </cit>
+                            <sense xml:id="uuid-2fcf3987-0195-4862-92f6-63a0da4c52c9" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>liliac chinezesc</term>
+                                </form>
+                                <def xml:id="uuid-25d1b031-ca9a-4933-8da1-7eee70f6adb4">v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                        </sense>
+                        <sense xml:id="uuid-8fba3ee8-5822-4758-807b-ef252b843644" n="d)">
+                            <sense xml:id="uuid-78f149b9-c3af-46bf-9204-080ebc7640b2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>(Şi în sintagma liliac
+                                    românesc)</term>
+                                </form>
+                                <def xml:id="uuid-8eef7d6f-a429-45c5-8d8a-87396fbbd80a"> v. LILIAC (1)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-d6c75e3c-3240-1da7-8612-d301298e5977"/>
+                                        <date/>
+                                        <citedRange>510</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-2a03767f-e0e5-4012-be0d-dc568fa1e83a">lemnul-vântului
+                                (Syringa iosikaea)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc"/>
+                                    <date/>
+                                    <citedRange>389</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a16afb26-b2cd-47d7-8d8b-d8e931880c81" n="♦">
+                            <def xml:id="uuid-e1d035b1-188b-4eb9-88c1-364aee95369b">Floare de liliac1 (1)</def>
+                            <usg corresp="#uuid-e1d035b1-188b-4eb9-88c1-364aee95369b">
+                                <seg type="sem" rend="usg">p. restr.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Era o lună ca ziua şi mirosea liliacul</quote>
+                                <bibl type="unknown">
+                                    <ptr target="BRĂTESCU-VOINEŞTI, L. D. BRĂTESCU-VOINEŞTI, P. | BRĂTESCU-VOINEŞTI, Î. L. Dreptăţii"/>
+                                    <date/>
+                                    <citedRange>109</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d69e8e7f-9572-4703-80b0-5bf39205ef6b" n="◊">
+                            <def xml:id="uuid-de33c7f5-74a8-413c-9027-36649aa42d34">Ca epitet, precedă termenul calificat de care se leagă prin
+                                prep. „de“)</def>
+                            <cit type="unknown">
+                                <quote>Un liliac de copil.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-edf18c32-6c21-5358-8bd9-c3118a118fac"/>
+                                    <date/>
+                                    <citedRange>175</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-dd20a1db-3160-4cc6-adc1-7b9d9559e9a6" n="♦">
+                            <def xml:id="uuid-786591cc-e200-4ff9-9fbf-219984fe856d">Termen dezmierdător pentru un copil</def>
+                            <usg corresp="#uuid-786591cc-e200-4ff9-9fbf-219984fe856d">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Zi-i să mi se arate mai des în vis, Dragul mamei
+                                    liliac </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-cbf3c647-0fe2-69f0-1d02-24ce2d8f5c2d"/>
+                                    <date/>
+                                    <citedRange>147</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>Un<def xml:id="uuid-a42f0ded-20bd-4b0c-bcc3-14b3e1cf1c41">Numele mai multor
+                            specii de arbori şi arbuşti din familia oleaceelor cu frunzele opuse,
+                            simple, întregi, cu inflorescenţă terminală la vârful ramurilor anuale,
+                            cu fructul în formă de capsulă coriacee</def>
+                        <cit type="unknown">
+                            <quote>Liliacul ... creşte în voie, sălbatec, pe stâncile din
+                                Cazane.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc"/>
+                                <date/>
+                                <citedRange>55</citedRange>
+                            </bibl>
+                        </cit>
+                        <sense xml:id="uuid-32c4662f-2f83-4619-bbbb-43072ba2ce3f" n="♦">
+                            <def xml:id="uuid-175200e9-606f-4562-96ed-24ffca9cef28">Lemn de liliac1 (1).</def>
+                            <usg corresp="#uuid-175200e9-606f-4562-96ed-24ffca9cef28">
+                                <seg type="plev" rend="usg">rar</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Toarce ... Cu caieru de bumbac Şi furca de liliac.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-cd32ca20-9244-51cd-2a5d-4c5ce43885d3"/>
+                                    <date/>
+                                    <citedRange>165</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                    </sense>
+                    <sense xml:id="uuid-98a3c726-9bc8-4e5a-ad7e-9312e02d3d4b" n="2.">
+                        <sense xml:id="uuid-9fb239c7-c029-406b-8cee-2fa74648be49" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <term>(Şi în sintagma liliac de
+                                munte)</term>
+                            </form>
+                            <def xml:id="uuid-40d47d3f-9234-4e56-a7f4-e5322fa903a7">v. LILIAC (2)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-3eb9e8ef-04f5-4680-a757-3bf4d292b5bc">Arin de munte (Almus viridis).</def>
+                        <cit type="unknown">
+                            <quote>Sunt mulţi arini, numiţi liliaci.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c"/>
+                                <date/>
+                                <citedRange>192</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-46531e9c-0500-4e6f-bdec-94fa0b418119" n="3.">
+                        <def xml:id="uuid-2a3af4ab-3ed2-4067-b2ec-fa7ec35e4d2e">Mălin (I1) (prunus padus)</def>
+                        <usg corresp="#uuid-2a3af4ab-3ed2-4067-b2ec-fa7ec35e4d2e">
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                <date/>
+                                <citedRange>123</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-8a743ad7-4bbf-436e-97d9-e2cc0dc80a80" n="4.">
+                        <def xml:id="uuid-7cd93e76-3f5c-43d4-aadd-9e160eb3f906">Salcâm (Robinia pseudacacia).</def>
+                        <usg corresp="#uuid-7cd93e76-3f5c-43d4-aadd-9e160eb3f906">
+                            <seg type="geo" rend="usg">prin Ban.</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                <date/>
+                                <citedRange>148</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-c1347f83-ea8f-4db9-8087-84ba1526abc7" n="5.">
+                        <def xml:id="uuid-1fe306d9-fd56-4d5d-85bb-df22ec671291">Scumpie (Cotinus coggygria).</def>
+                        <usg corresp="#uuid-1fe306d9-fd56-4d5d-85bb-df22ec671291">
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                <date/>
+                                <citedRange>53</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-55511f3f-671c-4956-ba9c-ac2cc325fa19" n="6.">
+                        <sense xml:id="uuid-7bfef34c-e4fb-4389-afe7-25fb6246d370" n="a)">
+                            <sense xml:id="uuid-adb406ad-51ed-42f5-9628-9f2cf38e686b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <term>(Şi în forma
+                                    liliac-de-câmp)</term>
+                                </form>
+                                <def xml:id="uuid-c6ed550f-af41-4311-a0c7-941522447b81">v. v. LILIAC (6)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-e03675fc-02c1-1c47-5b15-33d2438e8245"/>
+                                        <date/>
+                                        <citedRange>218</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-8d2c1e6e-42ec-4df9-a954-3ebfcfc2c95b" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <term>(Şi în forma
+                                    liliac-de-toamnă) </term>
+                                </form>
+                                <def xml:id="uuid-fb38bff3-338f-4c8f-b84a-9b068a193f35">v. LILIAC (6)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <date/>
+                                        <citedRange>26</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-sălbatic</term>
+                            </form>
+                            <def xml:id="uuid-3797b1a6-b572-4bd9-b7b9-626d5763f75b">albăstrică (Aster tripolium)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-e03675fc-02c1-1c47-5b15-33d2438e8245"/>
+                                    <date/>
+                                    <citedRange>218</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-db2e175c-ad6d-4a8e-949d-8fe46106ab07" n="b)">
+                            <sense xml:id="uuid-97da287f-1f39-4cb0-b9d2-9b226e80c488" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <term>liliac-de-pădure</term>
+                                </form>
+                                <def xml:id="uuid-0797a53f-df9b-4294-b122-e7dfffa88109">v. LILIAC (6)</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-sălbatic</term>
+                            </form>
+                            <def xml:id="uuid-b374c6d5-0802-4641-a287-fd32877ec7a4">tulichină (Daphne mezereum)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-2006941e-c5d1-49d4-841e-3634087b9682" n="">
+                            <sense xml:id="uuid-aab0fd79-3ffd-485d-9d70-c3edf23c154a" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <term>(sau
+                                    liliac-franţuzesc)</term>
+                                </form>
+                                <def xml:id="uuid-60beaa58-de2b-4519-82d7-59af3d937b05">v. liliac-de-grădină</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-de-grădină</term>
+                            </form>
+                            <def xml:id="uuid-307c18d9-659e-4c3c-bef3-8e2274b71dc4">nopticoasă (Hesperis matronalis)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-60d7c0ec-7d12-4428-b1d7-87e84818dcba" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-nemţesc</term>
+                            </form>
+                            <def xml:id="uuid-d3cb8de3-3487-41d2-8bcd-65f8ffec3d5b">brumărele (Phlox paniculata)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>129</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-c08bb0d1-09cb-40ee-93de-71263afd6454" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-galben</term>
+                            </form>
+                            <def xml:id="uuid-d199d5b1-3ade-41f9-9704-24657c8b63e7">cuişoare (Ribes aureum)</def>
+                            <usg corresp="#uuid-d199d5b1-3ade-41f9-9704-24657c8b63e7">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>147</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-9ce587de-51af-4ee7-a2d5-95f91edfcef6" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <term>liliac-de-mare</term>
+                            </form>
+                            <def xml:id="uuid-bd5235b4-9939-49ba-bfa7-428374aaef1d">crin de toamnă (Hosta plantaginaea)</def>
+                            <usg corresp="#uuid-bd5235b4-9939-49ba-bfa7-428374aaef1d">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>85</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-ad520f62-ec31-442c-a260-e0bcb211191f">Compuse:</def>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-acc4621f-fa21-4610-8130-2d4c0d00aedb" n="">
+                        <def xml:id="uuid-14b5d5ed-c4ad-451e-b6d9-2dfe6bfd9c11"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="trisyllabic">
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">li-li-ac</syll>
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">li-liac</syll>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>lilieci</number>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>liliaci</number>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="plev" rend="usg">rar</seg>
+                        </usg>,
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="plev" rend="usg">rar</seg>
+                        </usg>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-5b55ee4a-bfd9-4d33-b8de-d361934cc916">leliác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="COSTINESCU | COSTINESCU, V. II"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 917/550, 582, 595, 708</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-1af2485b-f845-4f0b-9c8c-e61148a1b297">lileác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
+                    <bibl type="unknown">
+                        <ptr target="unknown"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-05385696-f6ce-4deb-9d66-8f12d381b975">liliéc</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <bibl type="unknown">
+                        <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-44764cd0-49ff-47fc-8f6e-3978a3cf1cb6">leleác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 977/584</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-16bb78a4-8353-405b-b79d-a9cbae47f30a">ilileác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="bg" type="unknown" subtype="unknown">лиляк „idem“</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

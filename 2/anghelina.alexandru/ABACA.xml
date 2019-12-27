@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d1d76490-bcc3-443b-a49d-7467fc2106b3" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-13T11:15:11+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abaca</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁCA </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-d33c31ee-f00a-458e-89c3-6473fbfec940" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-3243e2dd-7106-4bb6-9593-b6cfc7f229be">Fibră textilă
+							obținută din pețiolurile frunzelor unui bananier originar din
+							Filipine</def>
+						<def xml:id="uuid-1da61254-5bcd-4f67-a7ec-6435a9cce796">cânepă de
+							Manila.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-6e4a10cd-dc07-4334-b784-627256c9d948" n="2.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">Specie de bananier
+							din familia <hi rend="italic">Musaceae</hi>, originar din Filipine, cu
+							fructe necomestibile și frunze cu pețioluri lungi din care se obțin
+							fibre textile </def>
+						<usg corresp="#uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">
+							<seg type="dom" rend="usg">Bot.</seg>
+						</usg>
+						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">Musa
+							textilis</term>
+						<cit type="unknown">
+							<quote>Ca plantă textilă e cultivată pe o scară foarte întinsă M.[usa]
+								textilis Née sau <hi rend="bold">Abaca</hi>, a cărei patrie e în
+								insulele Filipine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ff8667f-670c-8806-57c3-ec0d17de2b5c">enc.
+									agr</ptr>
+								<date>1942</date>
+								<citedRange>99</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Culturi de orez, de trestie de zahăr, de tutun, de <hi rend="bold">abaca</hi> (cânepă de Manila).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8745fec6-0238-5b9d-8176-6297903295cb">der</ptr>
+								<date>1965</date>
+								<citedRange>185</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ab1a58dd-5557-44f9-9ff1-0bae8c970dd7" n="">
+						<def xml:id="uuid-ea644929-c9c0-419a-b552-cb240d78649a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="2">
+						<number>abaca</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section"> , <usg><hi rend="italic"/><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">astăzi
+							rar</seg><hi rend="italic">)</hi></usg>
+					<def>abácă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">enc. mar</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="es" type="unknown" subtype="unknown">abacá</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abaca</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7505c824-4f9b-72be-423d-5428fc8516ef">vamal</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">enc. mar</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">DAN</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

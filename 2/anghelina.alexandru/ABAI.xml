@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e2d367af-bc85-4923-b269-3e4107e31a85" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T14:06:50+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abai</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-df8dea62-554e-4ef9-ba8d-8abe153f5e2a" n="">
+						<def xml:id="uuid-71949034-773a-431a-b8e5-ca8ee2e2f777">Învelitoare, de
+							obicei împodobită, care se pune pe spatele calului, sub șa<hi rend="superscript">3</hi>;</def>
+						<usg corresp="#uuid-71949034-773a-431a-b8e5-ca8ee2e2f777"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-71949034-773a-431a-b8e5-ca8ee2e2f777">
+							<ptr target="harșa"/>
+							<usg>înv.</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-71949034-773a-431a-b8e5-ca8ee2e2f777">
+							<ptr target="șabracă"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote><hi rend="bold"/>1 abai cadife roş cu sirma cosit; 1 carşaf cosit
+								matasă; 1 birin galbin matasă; 1 <hi rend="bold">abai</hi> cadife
+								roş; 2 abai zerbap cosit; 2 gugiman sobol; 1 bohga; 4 carşaf cos; 1
+								abai cadefe ne(gru?)”, şi mai jos: „on abai sirma i
+								cadife...”.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1579</date>
+								<citedRange>82</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>1 <hi rend="bold">abai</hi> cadife roş, cu sirma cosit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f00bcbef-347e-87b2-2e75-e246c66748de">doc.
+									îns</ptr>
+								<date>1594</date>
+								<citedRange>192</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-46dde07b-c77e-4880-9f3e-78cc6d6a6cd5" n="">
+						<def xml:id="uuid-ba2be4a8-fc0d-4788-99c1-b32e7a4c904b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="accentuation-variant">
+					<stress xml:lang="ro-x-accent-lowcase-vowels">abái</stress>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abáie</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>abae</oVar>
+					</form>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+							<bibl type="unknown">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1887</date>
+								<citedRange/>
+							</bibl>
+							<number>abăi</number>
+						</form>
+					</form>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="sr" type="unknown" subtype="unknown">abaja</term>
+					</etym>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="tr" type="unknown" subtype="unknown">abayi, abaı</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-158d1eed-482e-2876-112a-e32820732dee">cuv. rare</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

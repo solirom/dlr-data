@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-026bbd78-8e70-4c04-9a88-70d123d18f70" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-13T11:52:40+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuboyo</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUBOYO</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value=""/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2eb1ef87-8ce1-4e0b-806a-b0663cdb355d" n="">
+						<def xml:id="uuid-d83412d4-9479-4b43-b88a-04d5a05ab7aa">Instrument cu coarde
+							ciupite format dintr-un număr variabil de lamele metalice de diferite
+							lungimi, prinse pe un cadru de lemn.</def>
+						<usg corresp="#uuid-d83412d4-9479-4b43-b88a-04d5a05ab7aa">
+							<seg type="dom" rend="usg">MUZ.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d093be0-363c-736d-89cc-77fa7c7e2bdb"/>
+								<date>1999</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8c68e0ec-5174-4b12-8383-ec98687d7982" n="">
+						<def xml:id="uuid-5ded2e93-cac4-48b0-80f8-9d3df4670122"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

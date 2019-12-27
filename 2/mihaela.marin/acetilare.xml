@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5bca916d-d088-4a9c-9f66-096840701843" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-13T13:11:52+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">ACETILARE</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">ACETILÁRE</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value="sg."/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-864a5e0d-e5f1-4241-ae15-94f3c9cad854" n="">n<def xml:id="uuid-4ed7f995-1679-4875-af46-300459d00066">Introducere a
+                            radicalului acid în molecula unui compus organic</def>
+                        <usg corresp="#uuid-4ed7f995-1679-4875-af46-300459d00066"><seg type="dom" rend="usg">Chim.</seg></usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-8ce76c38-ad24-45d4-908c-37c6e8d36495" n="">
+                        <def xml:id="uuid-42af6462-bc7f-4ba8-83dc-97c57a9ae0fa"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="formație.internă-trimitere-Din-etimon.atestat"/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="acetil"/>
+                    <note type="unknown" n="unknown" cert="high">
+                        <term/>
+                    </note>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-93c0bf5f-cf9a-49c2-bea8-85bc33a94d77" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>FlorinV</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-24T10:47:31+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="2">dadă</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">dádă</stress>
+                    <syll/>
+                    <pron/>
+                    
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-4befa5e4-8ffa-4268-8c6e-6d0e56a7ddf2" n="1.">
+                        <def xml:id="uuid-fc39d46b-ee96-466a-b006-3254a515c340">Tată (I 1).</def>
+                        <cit type="unknown">
+                            <quote>Auzit-am ... De la dada, Dumnezeu să-l ierte. Că mare nevoie va
+                                să pată Ahăla ... asupra căruia corbul zboară.</quote>
+                            <bibl type="unknown">
+                                <ptr target="BUDAI-DELEANU, O. I-II BUDAI-DELEANU, Ţ. BUDAI-DELEANU, Ţ.2 BUDAI-DELEANU, ŢIG. (DA) BUDAI-DELEANU, Ţ. | BUDAI-DELEANU, Ţig."/>
+                                <date/>
+                                <citedRange> 86 . </citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-b2f6c666-e985-498f-bfe2-ed087cdda0cc" n="2.">
+                        <def xml:id="uuid-0702d899-8bb4-4396-ab10-0daa695d8a0a">Bulibaşă.</def>
+                        <cit type="unknown">
+                            <bibl type="author-reference">
+                                <author target="GT (1889)"/>
+                            </bibl>
+                            <quote>„Ce să fie încârligata asta, dado" întreabă ţiganii pe cel mai
+                                bătrân dintre ei, care era vaivoda lor.</quote>
+                            <bibl type="în">
+                                <ptr target="#uuid-cbd41b02-07e5-a249-99eb-027b9bf59bae"/>
+                                <date/>
+                                <citedRange> 205. </citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-3d3a06c2-23a1-46c0-bc81-7fda92cc1e53" n="3.">
+                        <def xml:id="uuid-9da28d82-8631-4f15-b2b3-72c4dbfc25ae"> Epitet depreciativ dat unui bărbat. </def>
+                        <usg corresp="#uuid-9da28d82-8631-4f15-b2b3-72c4dbfc25ae">
+                            <seg type="geo" rend="usg">Straja – Vicovu de sus</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-3160fd6d-0795-4830-a868-0e19ca060afc" n="">
+                        <def xml:id="uuid-293c5aa2-788e-4ed1-81b0-e9015090a696"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>?</number>
+                        <gramGrp>
+                            <pos value=""/>
+                        </gramGrp>
+                    </form>
+                </form>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="rom" type="unknown" subtype="unknown">dada</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

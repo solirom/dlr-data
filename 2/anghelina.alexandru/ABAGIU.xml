@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-befebe88-38f5-4237-abf6-cb4d520057c4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T10:54:49+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abagiu</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGÍU</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-79b5927a-2e6d-4423-9ffb-5c7345cae9bd" n="">
+						<def xml:id="uuid-811af8e1-6777-44ee-9b20-b6570b93c48b">Persoană care se
+							ocupa cu fabricarea sau vânzarea abalei<hi rend="superscript">3</hi>;</def>
+						<def xml:id="uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">persoană care
+							confecționa haine de aba<hi rend="superscript">3</hi>;</def>
+						<usg corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<seg type="sem" rend="usg">p. restr.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<ptr target="abager"/>
+							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi>
+								</seg></usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<ptr target="piuar"/>
+							<usg>
+								<seg type="geo" rend="usg">reg.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<ptr target="abar"/>
+							<usg>
+								<seg type="geo" rend="usg">reg.</seg>
+							</usg>
+						</xr>
+						<xr type="asoc" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<ptr target="șalvaragiu"/>
+						</xr>
+						<xr type="asoc" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+							<ptr target="sumănar"/>
+						</xr>
+						<cit type="unknown">
+							<quote>După vânzarea me, încă am pus și mare mărturie: Năneța dascălul
+								și... Vasilei <hi rend="bold">abagiul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5f1cae97-889e-546a-5780-bad36401128b">drh b</ptr>
+								<date>&lt;1651–1652&gt;</date>
+								<citedRange>201</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vasilie tij brat, Stan sărariul... Gligorii abăgiar... Gheorghie
+									<hi rend="bold">abăgiul</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavlesc</ptr>
+								<date>1673</date>
+								<citedRange>510</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Scris-am și mărturisim cu acesta al nostru zapis ca s[ă] hie de
+								bun[ă] credință la mâna jupânului Dobre <hi rend="bold">abagiul</hi>
+								cum s[â] se știe că am vândut dumnealui 1 locu de cas[ă] aicea în
+								oraș în București.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b64cf992-93a2-4773-3ba7-cd2cab316240">colțea</ptr>
+								<date>1679</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Casa lui Petco <hi rend="bold">abagiul</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1681</date>
+								<citedRange>81</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi sânt aceştia [epitropii]: jupan Neacşul biv staroste,... jupan
+								Gheorghe <hi rend="bold">abagiul</hi> sân Vasilie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e5a2fa7b-84ff-5942-6bf4-7bbb283e961e">așez</ptr>
+								<date>1713</date>
+								<citedRange>328</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Va fi păcat să mă mai prade... și de la <hi rend="bold">abagiu</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe8d53cb-8ffb-2d19-a474-3a5c6bef12db">doc.
+									cant</ptr>
+								<date>1719</date>
+								<citedRange>204</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nimenea din alte rufeturi să nu fie volnic... să coase materii cu
+								fir... afară de rufetul <hi rend="bold">abagiilor</hi>, cari au a
+								lucra numai marfă de aba.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-869e334d-9a41-0fa2-888c-fbb0fe396791">urechia</ptr>
+								<date>1781</date>
+								<citedRange>193</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dionisie monahu, Radu Popescu, diiaconu Dumitru, Costandin <hi rend="bold">abagiu</hi>, Chialia Copila, Vasile
+								Cruceriu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a1bc91dc-3c49-33df-1994-48138dbb6b5a">st.
+									doc</ptr>
+								<date>c. 1790</date>
+								<citedRange>129</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nimeni din alte rufeturi să nu să amestice la meştişugul lor [al
+								boiangiilor], adică nici basmagiii, nici <hi rend="bold">abagiii</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-05f6fe57-3a9f-0d0c-59ae-0f7cec308c96">urechia</ptr>
+								<date>1803</date>
+								<citedRange>283</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Această sfântă icoană s-au făcut cu cheltuiala isnafului <hi rend="bold">abagiilor</hi>, la an 1850.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ea099379-6c12-6e7c-6f35-78b2a4437be7">st.
+									doc</ptr>
+								<date>1850</date>
+								<citedRange>70</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lăsați-o dar să piară. Bărbat are-<hi rend="bold">abagiu</hi>, De
+								neam mojic el este, iar nu de celebiu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3cbf0366-86e2-660e-7cdc-0f6aad809e25">serru</ptr>
+								<date>1858</date>
+								<citedRange>95</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A treia [uliță], acoperită cu scânduri ca bazarele din Stambul,
+								era locuită numai de <hi rend="bold">abagii</hi> şi
+								găitănari.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bf4db234-9d9b-a0eb-0648-6212a6058030">ciocoii</ptr>
+								<date>&lt;1862–1863&gt;</date>
+								<citedRange>64</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abagiii</hi> făceau tuzluci, pantaloni (nădragi),
+								mintene scurte până la brâu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">igiena</ptr>
+								<date>1895</date>
+								<citedRange>150</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Următoarele isnafuri erau în ființă în ambele Principate în anul
+								1820: lipscani, cavafi... fainari, <hi rend="bold">abagii</hi>,
+								pânzari.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d9c16398-1d02-38d9-75d4-4c37fd1066fb">furnic</ptr>
+								<date>1926</date>
+								<citedRange>141</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu ajutorul lui Marinescu, magazionerul, care fusese şi <hi rend="bold">abagiu</hi> în civilitate... mantaua adormitului fu
+								despuiată de magnifica ei căptuşală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-931b5f88-68ab-2c98-8d19-f77cce637e79">rusoaic</ptr>
+								<date>1933</date>
+								<citedRange>117</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sunt de neam prost ori de pripas, <hi rend="bold">abagii</hi>,
+								plăcintari, slugi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3d0ae70a-6c1d-89c2-867c-b2999f447ecc">călinescu</ptr>
+								<date>1954</date>
+								<citedRange>34</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Postăvarii şi <hi rend="bold">abagiii</hi> se întâlnesc, de
+								asemenea, către sfârşitul secolului [al XVII-lea].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
+								<date>1969</date>
+								<citedRange>135</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Foarte vii sunt și scenele de rezistență din Dealul Filaretului,
+								cu participarea pânzarilor, abagiilor, opincarilor și a puținei
+								intelectualități bucureștene.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe8fec15-155b-8782-8d7b-4d520c5893db">simion</ptr>
+								<date>1976</date>
+								<citedRange>186</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La cererea debitorului, care se adresase Divanului, caimacamul
+								Costache Caragea poruncește starostelui... să pună creditorilor lui
+								Pavel <hi rend="bold">abagiul</hi> soroace.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a82d83aa-4820-129c-7ca7-20c319494da9">strihan</ptr>
+								<date>1979</date>
+								<citedRange>109</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote><hi rend="bold">Habagiul</hi> cu capace Toată noaptea nu-mi dă
+								pace, Tot mă pișcă și mă trage Și mă roagă să-l sărut.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-70974a0b-97c9-1226-333a-50c32f974b76">hore</ptr>
+								<date>1907 (†) </date>
+								<citedRange>156</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date/>
+								<citedRange>1 729/727</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr I</ptr>
+								<date/>
+								<citedRange>1 7 47/825</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-75bffa3e-9cf1-4cb4-b515-44e6f5f30c2d" n="">
+						<def xml:id="uuid-e563febc-599b-43b6-b862-8b4fb9e4640d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagii</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abăgíu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abagéu</def>
+					<bibl type="ap.">
+						<ptr target="#uuid-d4ba99c4-7513-7988-675f-cdf568e97001">suci</ptr>
+						<date>1642</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>habagíu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="tr" type="unknown" subtype="unknown">abağy</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășe</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">ciorănescu</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

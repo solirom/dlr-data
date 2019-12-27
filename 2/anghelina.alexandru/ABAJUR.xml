@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-30ae01c4-c20e-4059-a8a1-953135962b6b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T14:31:31+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abajur</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAJÚR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9e45772d-090f-4a61-be52-b1b403df25fb" n="">
+						<def xml:id="uuid-28b23457-7205-42d6-a84a-8ed0ced1b93d">Dispozitiv din
+							sticlă, metal etc., fixat în jurul unei lămpi pentru a dirija lumina
+							într-o anumită direcție;</def>
+						<xr type="syn" corresp="#uuid-28b23457-7205-42d6-a84a-8ed0ced1b93d">
+							<ptr target="sahan (2)"/>
+							<usg>
+								<seg type="geo" rend="usg">
+									<hi rend="italic">reg.</hi>
+								</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abajurul</hi> unei lampe făcea salonul să fie
+								scufundat într-un semiîntuneric.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aba7adb6-73ec-38e6-06d1-ce7def690aa6">matilda</ptr>
+								<date>1845</date>
+								<citedRange>602</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În colțurile din fund... se află câte-o lampă mare, cu <hi rend="bold">abajur</hi> roșu. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-898d8591-5021-3b6c-9480-4f4bfa4e45c6">ascanio</ptr>
+								<date>1883</date>
+								<citedRange>189</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lumina lampei se concentra de sub <hi rend="bold">abajur</hi>
+								numai pe masa mea de scris, lăsând celelalte unghiere în
+								întuneric.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9824637e-561e-2a7c-5eac-5f4fb2c09fc8">ciurea</ptr>
+								<date>1898</date>
+								<citedRange>196</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe un soclu stă o lampă electrică, cu proporţiile reduse şi
+								ieşită ca din mâna unui lampagiu patentat. Are şi abajur, şi nici
+								firul conducător de curent nu lipseşte.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">pensula</ptr>
+								<date>1911</date>
+								<citedRange>21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sute de solicitatori de posturi, ajutoare bănești sau lemne sunt
+								mai întâi introduși sub un <hi rend="bold">abat-jour</hi>
+								enorm.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3a3cb766-0836-696f-1cd0-6b5d0cec2830">urmuz</ptr>
+								<date>1922</date>
+								<citedRange>14</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Căţelul de porţelan, un Rick sau Rack... mă priveşte speriat
+								peste <hi rend="bold">abajurul</hi> lăsat direct pe hârtie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<date>1939</date>
+								<citedRange>140</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se aprindeau lumini trandafirii sub lămpi înalte, cu <hi rend="bold">abajururi</hi> de mătase, în casa de lângă Biserica
+								Albă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a3b4d94f-83c0-a17c-6e27-c4c6420c1ead">sf.
+									veac</ptr>
+								<date>1944</date>
+								<citedRange>283</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aprinse lampa de petrol cu un <hi rend="bold">abajur</hi> mare de
+								porțelan alb.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a0c894e2-676b-8a5f-0857-969d6d61a32b">cron.
+									fam</ptr>
+								<date>1955</date>
+								<citedRange>154</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe un piedestal subţiratec, o zveltă lampă de cobalt cu sticlă de
+								cristal şi <hi rend="bold">abajur</hi> verde.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunate</ptr>
+								<date>1964 (†)</date>
+								<citedRange>35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cătălina se trudea să găsească priza micii lămpi cu <hi rend="bold">abatjour</hi> japonez de lângă divan.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e18efc7f-3d37-138e-08f3-3559a53f1e7f">sânziene</ptr>
+								<date>1971</date>
+								<citedRange>223</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lampa are un <hi rend="bold">abajur</hi> cenușiu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b361567d-607e-2c6b-96aa-ee9e83235c52">bălăi</ptr>
+								<date>1975</date>
+								<citedRange>252</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ghica se învârte în jurul măsuţei dominate de <hi rend="bold">abajurul</hi> lămpii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5ddf4a65-7684-43bd-6d89-efce7bf70baf">dumitriu</ptr>
+								<date>1984</date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vitrinele aprinse ale magazinului de mobilă arătau obiectele
+								ştiute, liniştitoare: fotolii şi canapele, birouri, lămpi cu <hi rend="bold">abajur</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44">orbitor</ptr>
+								<date>1996</date>
+								<citedRange>221</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lampa avea <hi rend="bold">abajurul</hi> spart.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+								<date>2002</date>
+								<citedRange>204</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">alr</ptr>
+								<date>&lt;1930–1937&gt;</date>
+								<citedRange>MN 3 911/182, 405, 666, 987</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-edec20c0-8cf2-48a0-ba0f-ca31ac20a28c" n="">
+						<def xml:id="uuid-b15dd34c-64dd-4ce7-b4e3-1b5718fdb749"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abat-jour</oVar>
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+				</form>
+				<form type="writing">
+					<oVar>abatjour</oVar>
+					<usg><hi rend="italic">(</hi><seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abajururi</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abajure</number>
+						<usg><hi rend="italic">(</hi><seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<def>abajór</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<date>&lt;1930–1937&gt; </date>
+						<citedRange>MN 3911/182</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<def>abăjúr</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<date>&lt;1930–1937&gt; </date>
+						<citedRange>MN 3911/405</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<def>ambajúr</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<date>&lt;1930–1937&gt; </date>
+						<citedRange>MN 3911/987</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<def>bujuór</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<date>&lt;1930–1937&gt; </date>
+						<citedRange>MN 3911/666</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abat-jour</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+						<date>1950</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

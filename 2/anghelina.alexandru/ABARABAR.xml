@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-654fd410-6a92-48d2-abe1-8d1d42730ecc" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T15:43:13+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abarabăr</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABARABẮR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6e25a204-9d1a-4623-a4bf-960630c9fadc" n="">
+						<def xml:id="uuid-3b2317f9-2473-4f11-a028-2ed73c5ef2de"/>
+						<usg corresp="#uuid-3b2317f9-2473-4f11-a028-2ed73c5ef2de">
+							<seg type="geo" rend="usg">Reg.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-3b2317f9-2473-4f11-a028-2ed73c5ef2de">
+							<ptr target="Egal"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-3b2317f9-2473-4f11-a028-2ed73c5ef2de">
+							<ptr target="totuna"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Ăsta așa-i de bogat, că nime nu-i lui <hi rend="bold">abarabăr.</hi></quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ad53b0b2-88f1-811e-5fe7-8de469b28c13">l.
+									costin</ptr>
+								<date>1926</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ccc8058a-b12b-44fc-84e5-c26543b625f8" n="">
+						<def xml:id="uuid-ff72e1d6-15ff-49e8-80b5-69a58358be1b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<def>abarabár </def>
+					<bibl type="unknown">
+						<ptr target="#uuid-6e4e3d66-8469-56ad-2f3d-4f8fcec58eaa">gămulescu</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="adv."/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="sr" type="unknown" subtype="unknown">barabar</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-6e4e3d66-8469-56ad-2f3d-4f8fcec58eaa">gămulescu</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

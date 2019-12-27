@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ea48b6a8-2fe7-49c4-81c7-981585f3e05e" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-11-29T15:32:56+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="3">a</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">A</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0c20d8fb-4dd1-4fa3-b107-a9b004eee569" n="">
+						<def xml:id="uuid-84197039-5521-4f28-8072-5967592301f1"/>
+						<usg corresp="#uuid-84197039-5521-4f28-8072-5967592301f1">(<seg type="hint" rend="usg">Semnifică ideea de direcţionare a unui element înspre
+								altul</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-ca1e3e5f-e82c-4adf-91ad-54072865eb30" n="I.">
+						<sense xml:id="uuid-544c0a7a-e8c5-41bc-a793-fa540776d5ce" n="1.">
+							<sense xml:id="uuid-ee972e9a-db7f-4df6-ab7d-a7aaa7fa6bc0" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg/>
+									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+									<term>De a munte</term>
+								</form>
+								<def xml:id="id"/>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="unknown"/>
+										<date/>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id"/>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă situarea prin apropiere sau deplasarea, în
+									direcţia unui reper spaţial</seg>)</usg>
+							<cit type="unknown">
+								<quote>Juca fata Irodiadei <hi rend="bold">a</hi> mijloc.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1574</date>
+									<citedRange>68</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sunt de remarcat formele: „<hi rend="bold">a</hi>” (la: „<hi rend="bold">a</hi> soare”, „<hi rend="bold">a</hi> umbră”). </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fafdba43-50a5-675e-439a-988b9e7f0948">candrea</ptr>
+									<date>1907</date>
+									<citedRange>23</citedRange>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote>Bădişor ca badiu meu Nu-i cât ţine Dumnezeu, Făr’ mai este un
+									brad <hi rend="bold">a</hi> munte Ca bădiţa meu de
+									frunte.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1887</date>
+									<citedRange>68</citedRange>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote>Num’ al meu şede <hi rend="bold">a</hi> umbră.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-00286354-1f74-a5d4-1dff-b9a9355798d1">bud</ptr>
+									<date>1908</date>
+									<citedRange>40</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold"/>Am dus vitele <hi rend="bold">a</hi>
+									dolie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic
+										re</ptr>
+									<date>1967</date>
+									<citedRange>19</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id"/>
+						<usg corresp="#id">(<seg type="hint" rend="usg">Exprimă direcţionarea în
+								plan spaţial</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-61ec68ec-b425-4d80-801d-b5e2abce8b98" n="">
+						<def xml:id="uuid-12310a6e-869e-436f-95a8-8248f00dce01"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

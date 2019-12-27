@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4b37239a-094e-44db-a9ce-c1c8db1333d5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mirceaminica</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-08-25T20:34:30+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">FÁRBĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6f1e562b-9f32-4fae-9b09-7ce63b79d37b" n="1.">
+						<sense xml:id="uuid-3ca8bde7-0187-4fa4-b22e-d66d56b03f10" n="✦">
+							<def xml:id="id">Definiţie.</def>
+							<cit type="unknown">
+								<quote>Vasăzică aici e buba! Vezi aşa, ieşi cu farba pe
+									faţă!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7df1e03-8d84-73e0-6bee-95514c7c5efa">F </ptr>
+									<date>1865–1906</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-03ec0fec-5f48-44f1-a671-90b88084f65d" n="✧">
+							<def xml:id="id">Fig.</def>
+							<cit type="unknown">
+								<quote>El îşi tălmăcea toate orânduelile politice, şi ştia prin
+									isteţimea duhului său cel rău de a da temeiurilor celor
+									moraliceşti toate farbele ce voia el.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9c6c4ae1-29e8-57d1-7a10-c3e7ad393cc1">BR</ptr>
+									<date>1834</date>
+									<citedRange>17/15</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-4bb92b62-41dd-4f76-9955-e1290efa8859" n="">
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-5ba07266-d415-4748-81e3-bb3a03f2f3a3">Culoare.</def>
+						<cit type="unknown">
+							<quote>Toate mu(l)ierile pre lume… se grijesc de podoaba cea din afară a
+								trupului lor; de acolo au eşit atâta de multe feluri de haine
+								perstiţă şi tot chipul de farbe.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mare deschilinire... doi oameni întră sine arată: cu mărimea şi
+								conformaţia trupului..., cu coloarea (farba) pealei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-412a4b14-37a2-1440-4a87-99e57a7a2a19">ANTROP.</ptr>
+								<date>1830</date>
+								<citedRange>5/22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pânzile era de feliurite farbe (colore) de mătasă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-168b60aa-5da9-361e-171d-132eb33d6374">BR </ptr>
+								<date>1834</date>
+								<citedRange>9/17</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-cd798bd8-5564-4784-866b-ab5e0b3938f9" n="2.">
+						<def xml:id="id">Vopsea (1).</def>
+						<cit type="unknown">
+							<quote>Sunt multe şi fărburi, care zugravii le bine cunosc cu arsenic
+								făcute.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9c60678b-065b-5db2-4748-d24f6cff87b7">DIETET.</ptr>
+								<date>1831</date>
+								<citedRange>82/17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Minerul... cercetează ca toate punctele să fie stropite şi îi
+								cere conducătorului să mai dea cu farbă prin unele părţi pe care el
+								le socoteşte că nu-s deajuns de însemnate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-112ddcf1-3387-6394-7791-722be2f20292">BOGZA</ptr>
+								<date>1935</date>
+								<citedRange>77</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Specifice pentru subdialectul bănăţean sunt numeroase elemente
+								lexicale:... elemente germane:... farba „vopsea”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-60316b40-4404-8aa9-4710-779eaea24fc7">TODORAN</ptr>
+								<date>1956–1989</date>
+								<citedRange>57</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-d3dbb9c1-3665-4097-8392-46439d3e01fd" n="3.">
+						<def xml:id="id">Carte de joc, necesară pentru deschiderea jocului, care
+							este diferită faţă de celelalte cărţi prin culoarea sa şi nu are aceeaşi
+							putere de joc.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="cf.">
+								<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">L.
+									ROM.</ptr>
+								<date>1952</date>
+								<citedRange>1960, nr.2, 21</citedRange>
+							</bibl>
+						</cit>
+						<re type="lexical-variant-section">
+							<dictScrap>În jocul de cărţi numit filcău</dictScrap>
+							<def/>
+							<gramGrp>
+								<pos value=""/>
+							</gramGrp>
+						</re>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8782d0ad-2389-4d93-8465-e99e96f91da6" n="">
+						<def xml:id="uuid-179e3271-712c-4f3e-a427-3bcb30b74489"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="unknown"/>
+				</form>
+				<re type="lexical-variant-section">
+					<dictScrap>Ban. şi prin Transilv., Maram., Bucov.</dictScrap>
+					<def/>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="Din germ. Farbe."/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

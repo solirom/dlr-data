@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-545b9f8b-d518-4d6f-b391-cb4c922fd900" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T15:16:46+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abunda</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUNDÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0b4c655d-4d60-4ea2-9e85-da933475062d" n="1.">
+						<sense xml:id="uuid-081717e6-8d3a-431b-9479-91c4ac474e2b" n="✧">
+							<def xml:id="uuid-f72874c6-cddd-44fc-850a-2c800aaea01c">A fi în număr
+								mare;</def>
+							<usg corresp="#uuid-f72874c6-cddd-44fc-850a-2c800aaea01c">
+								<seg type="sem" rend="usg">P. ext. </seg>(<seg type="hint" rend="usg">Despre oameni sau despre creațiile, manifestările
+									etc. lor</seg>) </usg>
+							<xr type="syn" corresp="#uuid-f72874c6-cddd-44fc-850a-2c800aaea01c">
+								<ptr target="numeros"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Literaţii nu <hi rend="bold">abunda</hi> atuncea ca acumă:
+									puţini se ocupau de a scrie, şi mal alesă de a face versuri,
+									care erau gustate cu mare plăcere, daca erau bine
+									făcute.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-212add53-35df-1912-02a2-a704feea76cc"/>
+									<date>1888</date>
+									<citedRange>459</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De la cei mai tradiţionali până la cei care se complac în
+									sineş subt denumire de moderni, actori banali ai unei
+									sensibilităţi streine, nulităţile <hi rend="bold">abundă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5563a9e0-7a08-35b9-1817-8ec00d600a07"/>
+									<date>1913</date>
+									<citedRange>76</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ar fi regretabil ca acest flux de frumos, de care <hi rend="bold">abundă</hi> literatura noastră acum, să nu fie
+									răspândit, transfuzat acolo unde se cere. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8758183a-957e-1da7-a1a3-c0487c852e36"/>
+									<date>1925</date>
+									<citedRange>347</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eminescu nu era un vanitos mărunt, de felul celor care <hi rend="bold">abundă</hi> în lumea literelor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d"/>
+									<date>1932</date>
+									<citedRange>209</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„Tineret drag”, „tineri dragi”, „călirea neamului în văpaia
+									Războiului”, <hi rend="bold">abundă</hi> şi în această
+									cuvântare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cba97fab-0fa8-9f5d-0986-3b4b90c01632"/>
+									<date>1942</date>
+									<citedRange>314</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Versurile inexpresive <hi rend="bold">abundă</hi>, unele
+									obsesii verbale eminesciane te urmăresc şi impresia de exerciţiu
+									...este nedezminţită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b550a618-8322-0cb7-3f95-29396cd95889">constantinescu</ptr>
+									<date>1945</date>
+									<citedRange>27</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Romanul e un foarte interesant document de epocă – unul
+									dintre romanele-cronică din viaţa Capitalei, <hi rend="bold">abundând</hi> la noi după primul război mondial.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d12d15f1-422c-952d-0ba7-553a8e43218a"/>
+									<date>1973</date>
+									<citedRange>416</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„Întoarcerea acasă” echivalează cu drumul spre Centru și
+									regăsirea de sine. Imagini şi scenarii analoge <hi rend="bold">abundă</hi> în literatura universală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-58ae8ee0-11e9-0960-8e3b-954e60f452ee"/>
+									<date>1976</date>
+									<citedRange>232</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cuvintele turceşti <hi rend="bold">abundă</hi>: „naziru,
+									derviş-aga, panganeturi, căputani beşlii, agale, odobaşi,
+									ciohodari, binbaşii, bre, domuz, meidan, sarascher”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3c7a8eb5-941b-9280-0622-8ef704f375db"/>
+									<date>1985</date>
+									<citedRange>677</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Exemple în acest sens <hi rend="bold">abundă</hi> la toţi
+									militanţii renaşterii naţionale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2be2f94b-8190-0956-3f17-b67f949f1c79"/>
+									<date>1988</date>
+									<citedRange>61</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În jurnal <hi rend="bold">abundă</hi> însemnările privitoare
+									la panica de care erau cuprinşi nu numai comandanţii militari
+									sau trupa, dar chiar şi ziariştii, constatând progresele
+									molimei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a"/>
+									<date>2002</date>
+									<citedRange>296</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-8555d147-8566-4dc0-9a22-06f916fc33c7">A fi, a se găsi din
+							belşug, în mare cantitate;</def>
+						<xr type="syn" corresp="#uuid-8555d147-8566-4dc0-9a22-06f916fc33c7">
+							<ptr target=" a prisosi"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În general antichitățile noastre romane <hi rend="bold">abundă</hi> pre malurile Dunării.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2cbc0036-32f7-988a-822a-2b6e01519676"/>
+								<date>1870</date>
+								<citedRange>321</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După cum vedem dar, autori și manuscrise n-ar fi lipsit, spre a
+								alimenta teascurile române, dacă în adevăr ele ar fi existat. Și
+								dovadă este că pe dată ce fură introduse, tipăriturile începură <hi rend="bold">să abunde</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20"/>
+								<date>1906</date>
+								<citedRange>117</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În raport cu numărul lor mai mic nu se arată mult mai mică nici
+								mişcarea ungurilor, mai ales a secuilor. <hi rend="bold">Abundă</hi>
+								locurile părăsite, pustii şi în Secuime.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9e93481b-0603-5bd6-632c-616a12db8454"/>
+								<date>1944</date>
+								<citedRange>124</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Grupe întregi de animale care <hi rend="bold">abundă</hi> în
+								Mediterana, lipsesc complet în Marea Neagră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9001a634-7349-38ef-2be5-5555bf4e3d79"/>
+								<date>1947</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mătasea-broaştei (Spirogyra) este poate cea mai răspândită şi mai
+								bine cunoscută algă verde care <hi rend="bold">abundă</hi>, din
+								primăvară până toamna târziu, în mai toate apele noastre
+								stătătoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-496a8a4a-1d96-96f6-a316-a08595c580ce"/>
+								<date>1962</date>
+								<citedRange>106</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Stâlpii anthropomorfi, fie integrați arhitecturii, fie autonomi,
+									<hi rend="bold">abundă</hi>, asemănători acelor xoana ai
+								civilizației protohellenice. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1"/>
+								<date>1985 (†)</date>
+								<citedRange>102</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dintre podoabele romane inelele, brăţările, cerceii şi colierele
+									<hi rend="bold">abundă</hi>, fibulele sunt rare, iar diademele
+								aproape că lipsesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c65cb38b-3d8f-9391-2a0b-ee03c3f357c3"/>
+								<date>2003</date>
+								<citedRange>388</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Probabil că, sub presiunea cuceritorilor celţi (în mormintele lor
+									<hi rend="bold">abundă</hi> armele), populaţia băştinaşă s-a
+								retras mai spre munte.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f6d49dac-6c44-5ede-040a-85fff7e9887e"/>
+								<date>2010</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-db81626d-2c2b-4cfd-a057-4b35c3133c59" n="2.">
+						<sense xml:id="uuid-a6237e30-0ac2-41c5-ae2a-894f1ebc7011" n="✧">
+							<def xml:id="uuid-81cc9d72-da9e-4d78-925a-482666798693"/>
+							<usg corresp="#uuid-81cc9d72-da9e-4d78-925a-482666798693">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Tractatele de curat moral ... <hi rend="bold">abundă</hi> în
+									reflecțiuni religioase, în cugetări profunde ... sunt muiate în
+									bunul simț.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419"/>
+									<date>1857</date>
+									<citedRange>62</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cu cât limbile sunt mai primitive, ieşite din sânul naturei,
+									cu atâta <hi rend="bold">abondă</hi> mai mult în asemenea vorbe
+									imitative şi se înavuţesc apoi din derivatele lor ca din nişte
+									rădăcini. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ee1629fd-a2d1-402a-9981-7a814e58141c"/>
+									<date>1868</date>
+									<citedRange>369</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Zacheiu priimește pre Iisus plin de bucurie în casa sa, și ca
+									cel-ce <hi rend="bold">abundează</hi> de bucurie stă înaintea
+									lui Iisus și dzice: „Eată jumătate avuția mea, Doamne, dau
+									săracilor, și de am asuprit pre cineva cu ceva, întorc
+									împătrat!”</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-77a2b9a8-5179-77ed-12b9-b065c7b92404"/>
+									<date>1898</date>
+									<citedRange>225</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Câteva încercări mai vechi … <hi rend="bold">abundau</hi> în
+									atâtea amănunte ce reuşiau se ne dea, fie atmosfera unui orăşel
+									de provincie, fie psihologia unui individ integrată în cadrele
+									mai largi ale carierei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-016e5203-1f74-4099-2ded-c7e156592b44"/>
+									<date>1928</date>
+									<citedRange>326</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Tăcere cu atât mai semnificativă din partea lui R., care de
+									obicei <hi rend="bold">abundă</hi> în elogii scrise, telefonate,
+									transmise și reiterate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5"/>
+									<date>1940</date>
+									<citedRange>263</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„Convorbiri literare” <hi rend="bold">abundau</hi> în
+									cercetări istorice, deoarece aveau director pe academicianul Ion
+									Bogdan, fratele doamnei Iorga.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-831ab6aa-961a-877a-5f7b-56258dd603ad"/>
+									<date>1941</date>
+									<citedRange>586</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cartea lui <hi rend="bold">abundă</hi> de anecdote despre
+									actori.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d"/>
+									<date>1984</date>
+									<citedRange>nr. 31, 5</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cronica sa [a lui Radu Popescu] <hi rend="bold">abundă</hi>
+									și în judecăți aspre etnico-politice împotriva „tiraniei și
+									lăcomiei păgânești”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87"/>
+									<date>2005 (†)</date>
+									<citedRange>116</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-bee2d29e-d9c5-4bbb-a9f1-6eb1dd15d83d">A avea, a conţine
+							din plin;</def>
+						<def xml:id="uuid-987d14f4-3b7f-42ba-aeef-e9ce3d16bc06">a folosi din belşug. </def>
+						<usg corresp="#uuid-bee2d29e-d9c5-4bbb-a9f1-6eb1dd15d83d">
+							<seg type="gram" rend="usg">Intranz.</seg>
+							<seg type="plev" rend="usg">Rar </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Parcul <hi rend="bold">abunda</hi> în arme: săgeţi pentru
+								infanterie, pentru cavalerie suliţe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-240f6506-59fc-9196-16b9-e3e746cd7083"/>
+								<date>1865</date>
+								<citedRange>221</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Capitala lor [a toltecilor] era Tolan (azi Tuia), oraş ce <hi rend="bold">abundă</hi> în clădiri bogat împodobite cu
+								sculpturi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c65cb38b-3d8f-9391-2a0b-ee03c3f357c3"/>
+								<date>2003</date>
+								<citedRange>343</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-a19ae2f6-93ed-41c6-9f2b-903861e20006" n="✧">
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<term>A abunda în acest sens</term>
+						</form>
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<term>A abunda în sensul acesta</term>
+						</form>
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<term>A abunda în sensul cuiva</term>
+						</form>
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<term>A abunda în sensul a ceva</term>
+						</form>
+						<def xml:id="uuid-61b0d012-3b73-4997-922a-a6cad0af2b6f">a fi cu totul de
+							aceeași părere (cu cineva sau cu ceva)</def>
+						<cit type="unknown">
+							<quote>Dl. Negruzzi, mai mult din spirit de zeflemea, <hi rend="bold">abonda în acest sens</hi>, însă fără convingere, mai mult ca un
+								fel de modă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7b0064b3-2e10-8620-51c3-986a66363479"/>
+								<date>1908</date>
+								<citedRange>64</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă întrerupătorul este însă din același partid cu dumneata și
+								vorbele lui <hi rend="bold">abundează în sensul ideilor
+									dumitale</hi>, atunci urmează liniștit discursul așa cum l-ai
+								învățat. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4584d196-3c4d-8167-5177-537606807cff"/>
+								<date>1910</date>
+								<citedRange>173</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Reţetele de gospodărie şi preţurile legumelor în piaţă, vorbite
+								de Marieta în acea atmosferă, sunaseră ciudat, cu toate că Monica
+									<hi rend="bold">abundase în sensul Marietei</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-97236ad0-8dec-2f03-0ef7-e01e03cf4b59"/>
+								<date>1927</date>
+								<citedRange>356</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu sufăr de mania contradicţiei, mai ales faţă de ea. Din contra,
+									<hi rend="bold">abundez întotdeauna în sensul ei</hi> … pentru
+								că împărtăşesc părerile ei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb5c1090-6c27-5b17-88de-db6834366433"/>
+								<date>1933</date>
+								<citedRange>101</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am lăsat pe Laval <hi rend="bold">să abunde în sensul acesta</hi>
+								pentru ca să priceapă mai bine că nu mă lăsam înşelat deloc de
+								formulele lui de susţinere.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-24b3fdc7-503b-4f67-8b34-0ad961f4808a"/>
+								<date>1935</date>
+								<citedRange>631</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pictura epocii, mai ales a anumitor ţări de intensă consolidare
+								economică a burgheziei, <hi rend="bold">a abundat în acest
+								sens</hi>, zugrăvind interioare şi scene de atmosferă ale familiei
+								burgheze, prosperă, liniştită şi surâzătoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1964</date>
+								<citedRange>februarie,152</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-3a3c1306-e2c8-4c1f-b810-27eb80a01c2e" n="3.">
+						<def xml:id="id">A veni în mare număr;</def>
+						<usg corresp="#id">
+							<seg type="gram" rend="usg">Tranz. </seg>
+							<seg type="plev" rend="usg">Rar </seg>
+						</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="a năvăli"/>
+						</xr>
+						<cit type="unknown">
+							<quote>În restul Franţei, vizitatorii <hi rend="bold">abundă</hi>
+								drumurile în autocare cunoscute, dar în Bretania te simţi mai la
+								adăpost.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6ff6a7c4-5a5f-7e3a-67fc-cb153f9d4309">călăt</ptr>
+								<date>1934</date>
+								<citedRange>534</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1cb1a0c5-0531-4509-9e41-8cc88f218c82" n="">
+						<def xml:id="uuid-36429461-cedd-425a-8596-b2b32295496f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abúndă</form>
+					</form>
+                    <form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abundez</form>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                        </usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
+					<def>abondá</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="I"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abonder</term>
+					<note type="unknown" n="unknown" cert="high">
+						<term/>
+					</note>
+                </etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abundare</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4e00444f-93f8-4acb-73d6-80002fc38ea3">gheție</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">cioră</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

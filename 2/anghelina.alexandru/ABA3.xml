@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a6172fee-0ca6-4616-9130-525bf69537d3" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T10:41:47+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="3">aba</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a9af8523-170d-41e3-b466-92581f81e777" n="1.">
+						<sense xml:id="uuid-4be72e9c-aa6e-4146-b970-9e905408cdf5" n="♦">
+							<def xml:id="uuid-a6dcacb0-6d7d-41e3-acf5-1407647c4cf4">Țesătură mai
+								fină.</def>
+							<usg corresp="#uuid-a6dcacb0-6d7d-41e3-acf5-1407647c4cf4">
+								<seg type="dom" rend="usg">Transilv.</seg> (<seg type="hint" rend="usg">În forma <hi rend="italic">abă</hi></seg>)</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1887</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-42e5cec4-1c3f-41d2-b67c-f30dbee47c0f">Ţesătură groasă de
+							lână din care se confecţionează haine (ţărăneşti)</def>
+						<xr type="syn" corresp="#uuid-42e5cec4-1c3f-41d2-b67c-f30dbee47c0f">
+							<ptr target="dimie"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-42e5cec4-1c3f-41d2-b67c-f30dbee47c0f">
+							<ptr target="pănură (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="ap.">
+								<ptr target="#uuid-850f8c2b-1b40-1181-4da2-c6c2dec58220">tdrg</ptr>
+								<date>1529</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ne-am vândut pentru... o dulamă de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-595cc8ac-01a2-0684-55e9-c80f495f934a">drh b</ptr>
+								<date>1628</date>
+								<citedRange>20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un lemnariu care păzește lemnăria, <hi rend="bold">aba</hi> coți
+								16.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-16db2def-4054-4bb0-7fa1-36b78db374c3">anateft</ptr>
+								<date>1695</date>
+								<citedRange>439</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La Joi mari să dea la trei săraci câte o dulamă de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e5a2fa7b-84ff-5942-6bf4-7bbb283e961e">antim</ptr>
+								<date>1713</date>
+								<citedRange>332</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aba albă, de 14 bucăți un leu vechiu, <hi rend="bold">aba</hi>
+								roșie, de 7 bucăți un leu vechiu.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1761</date>
+								<citedRange>80</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Abaua</hi> care merge la Țara Turcească, de bucată –
+								300 bani.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-419588b9-33ee-1917-0d5a-a67b9bf41800">tariful</ptr>
+								<date>1776</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să ştii că m-am apucat păstor la bucatile dumisale, la epi,
+								herghelegiu, ca să i le păzăscu să n-aibă vreo pagubă, să ferescă
+								Dumnezău, dreptu doozăci şi cinci de lei într-u an zile, o manta
+								bună, o păreche ciubote, berneveci de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5c4e0bf2-7a44-0d45-11ba-5d449cb66cbb">doc.
+									rel</ptr>
+								<date>1777</date>
+								<citedRange>477</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>10 [lei] 20 [parale] o manta de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fef5c197-3783-7244-825e-b22ba6810615">uricariul</ptr>
+								<date>1792</date>
+								<citedRange>136</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La Cozia funcționează un atelier de abagerie care produce toată
+									<hi rend="bold">abaua</hi> necesară arestaților pentru costumele
+								de iarnă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia</ptr>
+								<date>1886</date>
+								<citedRange>nr. 2 658, 1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acum vin la protecțiunea acordată postavurilor noastre... adică
+								pături de rând cu păr lung..., postavuri <hi rend="bold">aba</hi> și
+								dimie, postav brut, covoare de lână de toate felurile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5b4892e3-2e85-0c32-58b0-f1f85e7d76e3">kogălnicea</ptr>
+								<date>1875</date>
+								<citedRange>162</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Piua, piva sau chiua este unealta ce se întrebuințează... pentru
+								a bate dimiile, sumanii sau <hi rend="bold">abaoa</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5b199c6d-2291-0052-6171-4d98f60a480b">ter.
+									pop</ptr>
+								<date>1898</date>
+								<citedRange>167</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cioarecii de <hi rend="bold">aba</hi> brumărie cu dungă stacojie
+								de șiret, se perdeau în tureatca înaltă a botforilor de
+								iuft.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-64e0c349-57c7-0aec-a292-d36250df540e">adam</ptr>
+								<date>1902</date>
+								<citedRange>6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În acest timp se dă <hi rend="bold">abaua</hi> prin zeama cu
+								piatră acră ca să se împietreze.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2658f72e-0ead-240f-3c8b-a082bd9a18ea">lupescu</ptr>
+								<date>1914</date>
+								<citedRange>137</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arabi... cu hlamide murdare de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-412683f1-8ddf-0624-0c28-604868159923">brăescu</ptr>
+								<date>1937</date>
+								<citedRange>133</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Straie de <hi rend="bold">aba</hi>. Cizme din zgârcenie cu
+								carâmbii prea scurți.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-499d5329-2679-802f-06aa-74e94c2b9dd3">păuna</ptr>
+								<date>1948</date>
+								<citedRange>330</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În a doua treime a secolului al XVII-lea se diferenţiază abagerii
+								(abagii). Ei se întâlnesc în oraşele ambelor ţări [Moldova şi Ţara
+								Românească] şi confecţionau <hi rend="bold">abaua</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
+								<date>1969</date>
+								<citedRange>168</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se vedea, după pantalonii lor de <hi rend="bold">aba</hi> neagră
+								şi după flanelele cărămizii, că erau tot din sat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">delirul</ptr>
+								<date>1975</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În cele [zonele] joase s-au folosit țesături mai subțiri, din
+								lână țurcană sau din lână mai fină, cum era <hi rend="bold">abaua</hi> sau dimia.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-904f8b28-16f4-2ad6-7a79-905d2d5615f0">butură</ptr>
+								<date>1978</date>
+								<citedRange>301</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Numai cu un deget, cu arătătorul, desena pe furiș un cerc
+								neîntrerupt peste <hi rend="bold">abaua</hi> pantalonilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a1c5a1a8-3f96-05fc-8282-1c2af35b1e6f">naum</ptr>
+								<date>1985</date>
+								<citedRange>116</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dintre aceşti evrei se alegeau doisprezece, care alergau
+								îmbrăcaţi într-o jachetă de <hi rend="bold">aba</hi> albă, iar mai
+								târziu, complet goi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+								<date>1994</date>
+								<citedRange>145</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe vreme friguroasă foloseau ciorecii, făcuţi din pânză de lână
+								albă, dată la piuă, pe care localnicii o numeau dimie sau <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f760699-528b-a4b4-4c64-f6f14ffd4150">ciubotaru</ptr>
+								<date>2005</date>
+								<citedRange>422</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date>&lt;1930–1937&gt;</date>
+								<citedRange>239/677, 684, 960</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Să trage <hi rend="bold">abaua</hi> la piuă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
+								<date>&lt;1930–1937&gt;</date>
+								<citedRange>6 464/899</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Pălărie de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-de27f9f4-2bd3-4295-8d25-4861802400fd">ALRM
+									(SN</ptr>
+								<date>&lt;1929–1938&gt;</date>
+								<citedRange>h 1159</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-08a3ef88-b724-49ad-9b91-92ad5402b172" n="2.">
+						<def xml:id="uuid-19adfc43-7057-4589-ad48-9d4c98c0b510">Haină confecționată
+							din această țesătură</def>
+						<def xml:id="uuid-6ab1dfd0-0d55-4b42-99e8-2f3d2dbee009">mărfuri, varietăți
+							de aba (<hi rend="bold">1</hi>).</def>
+						<usg corresp="#uuid-6ab1dfd0-0d55-4b42-99e8-2f3d2dbee009">
+							<seg type="gram" rend="usg">la pl.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Aşijderea, obicei are starostile, de veac, a scrie câte patru
+								ciocli de la toate breslile de meserelile tuturor... den ceprăgari,
+								din croitori de <hi rend="bold">abale</hi> ce să chiamă
+								abagieri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be67a745-770f-1341-7818-7b9d999613d8">mavrocorda</ptr>
+								<date>1676</date>
+								<citedRange>589</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Foiţă dă vezeteii domneşti şi de biglari şi dărvari carele li să
+								dă <hi rend="bold">abale</hi> de Paşte, după obicei cum semnează în
+								jos anume.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-16db2def-4054-4bb0-7fa1-36b78db374c3">anateft</ptr>
+								<date>1695</date>
+								<citedRange>439</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Orânduim acestui schit, părinților călugări, ca să aibă a lua pe
+								tot anul de la Domnia Mea această milă: 12 <hi rend="bold">abale</hi>, i 12 cojoace, 12 perechi de cisme.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-869e334d-9a41-0fa2-888c-fbb0fe396791">urechia</ptr>
+								<date>1775</date>
+								<citedRange>71</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nimenea din alte rufeturi să nu fie volnic... să coase materii cu
+								fir... afară de rufetul abagiilor, cari au a lucra numai marfă de
+									<hi rend="bold">aba</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-869e334d-9a41-0fa2-888c-fbb0fe396791">urechia</ptr>
+								<date>1781 </date>
+								<citedRange>193</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Praf de pușcă, orez, rogojini, aluni. 6 topuri hârtie proastă. 38
+								tiancuri <hi rend="bold">abale</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-40acd439-1a75-77c3-6328-2646b37a3cf4">Iorga</ptr>
+								<date>1818</date>
+								<citedRange>110</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toţi din marginile lumei, în Moldova adunaţi, Veniţi goli în
+								strae proaste, în <hi rend="bold">abale</hi> îmbracați.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-789c748d-33bd-0d7f-345e-f2e0fc549bfc">eterie</ptr>
+								<date>1826 (†) </date>
+								<citedRange>7/28</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Oricine va lua <hi rend="bold">abale</hi> să aibă a popri de la
+								vânzător la treizeci de bucăți câte parale doaozeci.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef284a51-99be-0859-931c-fcbf336d9b26">st.
+									doc</ptr>
+								<date>c. 1832</date>
+								<citedRange>96</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>300 încărcătura de <hi rend="bold">abale</hi> ce trece în
+								Ungaria.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9fe72e5e-75ae-692b-1015-2d679d4598ad">sion</ptr>
+								<date>1863</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vânzătoare de legume, negustoraşi de încălţăminte, de frânghii,
+								de <hi rend="bold">abale</hi>, pânzeturi, numiţi braşoveni, covaci,
+								bărberi, băcănași, locuiesc aceste mahalale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7595ce97-0a77-7cd0-82ce-65b4d47fa2e0">doritor</ptr>
+								<date>1864</date>
+								<citedRange>352</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Apoi, domnilor, aceste le găsim în țară, în orice cantități și de
+								orice model, precum pănură, <hi rend="bold">abale</hi>, pâslă
+								etc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b3e5ae9a-1127-6899-4ba4-ff79d401220e">orat.</ptr>
+								<date>1882</date>
+								<citedRange>133</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mărfuri cari odinioară se fabricau în Brașov... dimie, sfoară,
+								postavuri groase, glugi, <hi rend="bold">abale</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f8e05887-7b0b-06f3-5e21-f6ca09564f1c">panțu</ptr>
+								<date>1897 (1904)</date>
+								<citedRange>292</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prăvăliile erau înnoite; pe prăjini, în cuie bătute afară,
+								stăteau aninate toate soiurile de mărfuri pestriţe: piei de opinci,
+								sumane, <hi rend="bold">abale</hi>, cizme şi fierării. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d299213-7923-16bb-0cd1-6b8484f28416">fl.
+									ofil</ptr>
+								<date>1905</date>
+								<citedRange>171</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Brașovenii vindeau stamburi, cutnii... <hi rend="bold">abale</hi>
+								pentru țărani.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d9c16398-1d02-38d9-75d4-4c37fd1066fb">furnică</ptr>
+								<date>1926</date>
+								<citedRange>142</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Avea magazin de <hi rend="bold">abale</hi> și postavuri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-679b177e-1770-31d4-8c74-3b09ff400889">cron.
+									fam</ptr>
+								<date>1955</date>
+								<citedRange>45</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tariful vamal al Ţării Româneşti din 1767 menţionează exportul
+									<hi rend="bold">abalelor</hi>, caşcavalului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">șerban</ptr>
+								<date>1969</date>
+								<citedRange>292</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vâltorile au fost mai simple... dar au cedat în locul
+								instalațiilor mai evoluate pentru finisarea dimiei, pănurii, <hi rend="bold">abalei</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-904f8b28-16f4-2ad6-7a79-905d2d5615f0">butură</ptr>
+								<date>1978</date>
+								<citedRange>397</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A adunat tot ce era mai bun printre oamenii locurilor în
+								meseriile tâmplăriei, zidăriei, în ţesutul pânzei, <hi rend="bold">abalei</hi> şi năvoadelor, în ridicarea de mori, de
+								poduri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-80e35808-7621-9f35-3cf1-36355fd232e2">bănulescu</ptr>
+								<date>1989</date>
+								<citedRange>685</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date>&lt;1930–1937&gt; </date>
+								<citedRange>288/960</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-3a3d9205-8686-477a-905b-567aef2b8021" n="">
+						<def xml:id="uuid-aa8bcf4c-9ad8-4cff-a711-93a5c7d68171"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abale</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>)</usg>
+					<def>ábă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="sr" type="unknown" subtype="unknown">aba</term>
+					</etym>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="hu" type="unknown" subtype="unknown">aba</term>
+					</etym>
+				</re>
+				<re type="lexical-variant-section">
+					<def>habá</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b78b4ef4-37b5-6c4c-4e62-bbe83e5e408c">da</ptr>
+						<date>1934</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="sr" type="unknown" subtype="unknown">haba</term>
+					</etym>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="hu" type="unknown" subtype="unknown">aba</term>
+					</etym>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="uk" type="unknown" subtype="unknown">haba</term>
+					</etym>
+				</re>
+				<re type="lexical-variant-section">
+					<def>hábă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">Lb</ptr>
+						<date>1825</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="sr" type="unknown" subtype="unknown">haba</term>
+					</etym>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="hu" type="unknown" subtype="unknown">aba</term>
+					</etym>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="uk" type="unknown" subtype="unknown">haba</term>
+					</etym>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="tr" type="unknown" subtype="unknown">aba</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-79b7ad6e-44f3-65dc-2f9a-018442fa382b">d. val</ptr>
+						<date>c. 1650</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resme</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

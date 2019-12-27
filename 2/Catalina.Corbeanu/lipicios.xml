@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-73f75931-a88d-4657-98b9-99a91f83ee76" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catalina.Corbeanu</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+                <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-10T14:04:28+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">Lipicios</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">Lipicios</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-85045036-1957-47ce-8ec9-7bc373beb1bd" n="I">
+                        <sense xml:id="uuid-6a3febff-0467-433e-bb82-69ebabf66765" n="1.">
+                            <sense xml:id="uuid-c135c97c-b5ba-4524-99b8-fe1f0a111634" n="◊">
+                                <def xml:id="uuid-05db7d4a-18ec-4b5c-b343-355177c062a5"/>
+                                <usg corresp="#uuid-05db7d4a-18ec-4b5c-b343-355177c062a5">
+                                    <seg type="sem" rend="usg">Fig.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>De ce te dai lenei, d-aia mai mult ea te coprinde, ş-apoi
+                                        tot ce este rău este foarte lipicios.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-a94fdffb-9856-2260-8ef4-10d7bdc34ae4"/>
+                                        <date/>
+                                        <citedRange>18</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-662cfaca-be74-4c99-a929-61270913a6b3" n="◊">
+                                <def xml:id="uuid-c11a1861-fc1e-40ce-a1bd-e048e6652d33"/>
+                                <usg corresp="#uuid-c11a1861-fc1e-40ce-a1bd-e048e6652d33">
+                                    <seg type="gram" rend="usg">(Adverbial)</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Cea mai infimă creatură este o revelare a unei infinite
+                                        puteri, a unei incomensurabile şi eterne voinţe, fie acel
+                                        fenomen o râmă oarbă, care se târăşte lipicios pe un palmac
+                                        de mocirlă în umbră.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CARAGIALE, O. III"/>
+                                        <date/>
+                                        <citedRange>57</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6c6f5276-e998-4467-b569-416d40e0dc20" n="♦">
+                                <def xml:id="uuid-556163ba-c47d-445c-8b78-1eff4b605bbe"> Urduros.</def>
+                                <usg corresp="#uuid-556163ba-c47d-445c-8b78-1eff4b605bbe">
+                                    <seg type="time" rend="usg">învechit</seg>
+                                    <seg type="plev" rend="usg">rar</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-adad0834-8417-567a-4bf1-2893152c3480"/>
+                                        <date/>
+                                        <citedRange>305</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-dafab347-f20c-41af-9511-68d775cff320" n="◊">
+                                <def xml:id="uuid-38fbf16c-7fb8-4411-a9b8-330629541edc">Compus : lipicios-deolaltă = glutinos.</def>
+                                <usg corresp="#uuid-38fbf16c-7fb8-4411-a9b8-330629541edc">
+                                    <seg type="time" rend="usg">învechit</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Semânţele cele glutinoase (lipicioase-deolaltă).</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-cfc3434c-4e10-3e4c-9625-7bb9216207af"/>
+                                        <date/>
+                                        <citedRange>121/1</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-78ecb5f9-b322-43cb-a0d4-5dbe38825c31"> Care se lipeşte (13); care aderă la obiectele cu care vine în
+                                atingere, c l eios, v â s cos; care are la exterior o materie
+                                vâscoasă (ca cleiul).</def>
+                            <usg corresp="#uuid-78ecb5f9-b322-43cb-a0d4-5dbe38825c31">
+                                <seg type="hint" rend="usg">Despre substanţe, materii etc.</seg>
+                                <seg type="hint" rend="usg">Despre corpuri sau părţi ale lor</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Tocmi... o unsoare de smoală cu său şi cu de alte lipicioase
+                                    şi unsuroase şi ardzoase lucruri.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="Dosoftei, V. S."/>
+                                    <date/>
+                                    <citedRange>noiembrie 128r/7</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-45024267-a18c-4885-9a26-d8c90a6b8d3b" n="2.">
+                            <sense xml:id="uuid-c46cf60c-fcb2-4b14-9e86-6f4355aa7445" n="♦">
+                                <def xml:id="uuid-468777ee-6eaa-47de-b7f6-3158e96be209">Care se apropie, care se ataşează uşor de cineva;
+                                    prietenos (1).</def>
+                                <usg corresp="#uuid-468777ee-6eaa-47de-b7f6-3158e96be209">
+                                    <seg type="hint" rend="usg">Despre oameni</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="POLIZU, M. D. ENC."/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-24aa1834-d2ae-4654-ad11-e15e611ec407">Atrăgător, plăcut, simpatic.</def>
+                            <usg corresp="#uuid-24aa1834-d2ae-4654-ad11-e15e611ec407">
+                                <seg type="hint" rend="usg">despre oameni sau despre chipul, înfăţişarea etc. lor</seg>
+                                <seg type="register style" rend="usg">popular</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="TDRG, CADE, M.D.ENC., DEX, V. Breban, D. G"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Mândră mult frumoasă, La ochi mângâioasă, La faţă lipicoasă. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-50bad9fe-7db8-407c-0489-b16bf04a27ed"/>
+                                    <date/>
+                                    <citedRange>303</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-cf3eb69a-479a-4f8f-829d-ee2ae9dd9c0c" n="3.">
+                            <sense xml:id="uuid-2ad62193-4a0a-44e1-94f5-fc088aac42a4" n="♦">
+                                <def xml:id="uuid-f93f600d-2d87-41ad-83a2-62b146679cc0"> Care transmite o boală infecţioasă.</def>
+                                <usg corresp="#uuid-f93f600d-2d87-41ad-83a2-62b146679cc0">
+                                    <seg type="time" rend="usg">învechit</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Această boală... este cu atâta mai primejdioasă, cu cât
+                                        veninul ei este lipicios.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="AR (1829)"/>
+                                        <date/>
+                                        <citedRange>11/31</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-d5c884e7-1101-4c9d-950e-e996f198d583" n="♦">
+                                <def xml:id="uuid-41d3db36-ab24-43cd-93d8-35b384fe1446"> Care se transmite (uşor) de la un individ la altul.</def>
+                                <usg corresp="#uuid-41d3db36-ab24-43cd-93d8-35b384fe1446">
+                                    <seg type="time" rend="usg">Fig.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Bucuria e lipicioasă şi spiritul deşteaptă
+                                        spirit.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="FM (1846)"/>
+                                        <date/>
+                                        <citedRange>275/39</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-d9e22dda-c85b-4677-a93c-22a9acd75e22"> Contagios, molipsitor; lipitos.</def>
+                            <usg corresp="#uuid-d9e22dda-c85b-4677-a93c-22a9acd75e22">
+                                <seg type="time" rend="usg">învechit</seg> <seg type="register style" rend="usg">popular</seg> și <seg type="hint" rend="usg">despre boli</seg>
+                                <seg type="time" rend="usg">învechit</seg> <seg type="plev" rend="usg">rar</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Neunire în politie şi neînvoinţa în cetate, ciuma şi lângoare
+                                    cea mai rea şi troajna cea mai lipicioasă iaste.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8"/>
+                                    <date/>
+                                    <citedRange>141</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="adj."/>
+                            <subc value=""/>
+                            <number value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-74c62e59-2cd7-4a24-91af-34476837f477"/>
+                        <xr type="trimitere" corresp="#uuid-74c62e59-2cd7-4a24-91af-34476837f477">
+                            <ptr target="unknown"/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target=""/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-4ae3643f-4362-487b-8509-0c1be9e8b859" n="II">
+                        <sense xml:id="uuid-6b26864a-fcb6-4283-b6c9-6b9b97cf2f2b" n="1.">
+                            <sense xml:id="uuid-a5cb6b09-f89c-43ec-b288-0d0dda6222e5" n="">
+                                <def xml:id="uuid-0843b73c-8356-40e4-9e37-e2c9c35143a7">plantă cu tulpina ramificată şi întinsă pe pământ,
+                                    acoperită cu peri aspri şi necurbaţi, cu flori mici
+                                    albastre-roşietice şi care creşte în locuri aride; (regional)
+                                    lipici ( I i i ) (Asperugo procumbens).</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-c0f8823f-3c76-4aec-201c-c53ed4d69f25"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-8622956f-75c8-4d3a-82a7-94b2ac09e70b" n="">
+                                <def xml:id="uuid-80286dfe-9096-4d5b-bbff-b279e4ce9dbc">plantă a cărei tulpină secretă în partea superioară un suc
+                                    cleios, cu flori roşii sau albe, care creşte prin fâneţe,
+                                    păşuni, păduri, cultivată uneori ca plantă decorativă; lipici (1
+                                    1 h) (Viscaria vulgaris).</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="DDRF"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-173ec954-2552-4fd2-b52b-8b04833ce120"> Numele a două plante erbacee: </def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-6105c9a0-dd9d-4e34-9aa5-7f2877d8f84e" n="2.">
+                            <sense xml:id="uuid-29e32c64-de49-47f1-9656-4c6c8ff53051" n="">
+                                <def xml:id="uuid-0fe455d5-d708-451e-9a3c-e87f791d31fc">plantă cu frunzele ovale şi cu flori albe dispuse câte
+                                    trei în vârful ramificaţiilor tulpinii, care creşte prin locuri
+                                    stâncoase (Silene nemoralis).</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-6e5cb2eb-dda4-4274-960d-da61113cb3c7" n="">
+                                <def xml:id="uuid-3ccbd906-3379-448c-939f-42295b5beb6e"> miliţea (2) (Silene nutans).</def>
+                                <usg corresp="#uuid-3ccbd906-3379-448c-939f-42295b5beb6e">
+                                    <seg type="geo" rend="usg">Regional</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-cbfa2605-fcef-4456-a6cb-65428c3d8b94">Numele a două plante erbacee:</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-c50f9a2a-d60b-4807-a402-868a2a967254" n="3.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-9f5ec22d-5f84-40f5-8787-57c49e7f0a42">Turiţă (1) (Galium aparine).</def>
+                            <usg corresp="#uuid-9f5ec22d-5f84-40f5-8787-57c49e7f0a42">
+                                <seg type="geo" rend="usg">Regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-341c073a-4a4d-4376-82d5-0581e7531004" n="4.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="f."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-84f111a6-8ef8-44f6-ad27-bd00644dac29">Turiţă (2 a) (Agrimonia eupatoria).</def>
+                            <usg corresp="#uuid-84f111a6-8ef8-44f6-ad27-bd00644dac29">
+                                <seg type="geo" rend="usg">regional</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>12</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d3f3d97d-48b0-44d4-bc32-1d9b3a8ecd56" n="5.">
+                            <gramGrp>
+                                <pos value="s."/>
+                                <gen value="m."/>
+                                <number value=""/>
+                                <case value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-e6454ef8-b8ac-453e-93e9-a7815e76c371">Arin (Alnus glutinosa).</def>
+                            <usg corresp="#uuid-e6454ef8-b8ac-453e-93e9-a7815e76c371">
+                                <seg type="geo" rend="usg">regional</seg> 
+                                <seg type="hint" rend="usg">în forma lipicios</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <date/>
+                                    <citedRange>16</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="subst."/>
+                            <number value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-72134c63-dd71-4f89-a728-180b0ebeb882"/>
+                        <usg corresp="#uuid-72134c63-dd71-4f89-a728-180b0ebeb882">
+                            <seg type="dom" rend="usg">Bot.</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-c0f8823f-3c76-4aec-201c-c53ed4d69f25"/>
+                                <date/>
+                                <citedRange>37</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <sense xml:id="uuid-b93d9bdb-2798-4461-88fb-d43d2ee07dda" n="">
+                    <def xml:id="uuid-96d3dca0-2431-4c43-9252-cfbd41d11da0"/>
+                    <cit>
+                        <quote/>
+                        <bibl type="unknown">
+                            <ptr target="unknown"/>
+                            <date/>
+                            <citedRange/>
+                        </bibl>
+                    </cit>
+                </sense>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-ca5e9742-5be5-4d04-80ed-d5ec80c776c3" n="">
+                        <def xml:id="uuid-2db9d4c3-5b04-4b7b-add4-d2356a08037d"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="writing">
+                    <oVar/>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>lipicioși, lipicioase</number>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-ef5fe22c-a97d-44be-8733-29f8e34b3457"/>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="lipi+ suf. -icios"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

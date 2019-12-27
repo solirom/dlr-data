@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5fa4d98f-a1ba-44f5-9c5b-6a725dcda881" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>valentinas</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-16T16:23:24+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abrict</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABRÍCT </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-162fcd28-fcd2-49bf-b930-1f0a0912cc8f" n="">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-3d6d6b33-0040-48c4-8ec5-2c9364d83c9c">Unealtă pentru
+							așchierea, rindeluirea, îndreptarea și degroșarea lemnului, acţionată
+							electric, alcătuită dintr-o suprafaţă orizontală şi un cuţit
+							rotativ</def>
+						<usg corresp="#uuid-3d6d6b33-0040-48c4-8ec5-2c9364d83c9c">
+							<seg type="dom" rend="usg">TEHN.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Cu capul gol şi cu pasul împleticit de spaimă şi de presimţiri
+								rele, de lângă abrichtul cu şuruburile şi cuţitele uitate pe planşa
+								de oţel. 1949 Legis. Ec. Plan., 26: [Se naţionalizează]
+								întreprinderile producătoare de tâmplărie... </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5b5ab621-9dd9-652e-26ec-c5779fa5352a">G. M.
+									ZAMFIRESCU</ptr>
+								<date>1936</date>
+								<citedRange>29</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Se naţionalizează] întreprinderile producătoare de tâmplărie...
+								utilate cu maşini-unelte, cum ar fi: bandseg, abricht, fierăstrău
+								circular.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-48754b6d-6aba-4f41-8698-9c3b2c427695">Legis. Ec.
+									Plan</ptr>
+								<date>1949</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Domne, eu cât am fost, n-am avut accident de muncă, dar nici
+								colegii mei n-au avut. Un accident dacă era cine ştie cum... o dată
+								pe an... Acum zeci de oameni se perindă... toţi cu mâini tăiate de
+								drujbă, de abric, de circular. </quote>
+							<bibl type="ap.">
+								<ptr target="">SCÂRNECI ‒ UNGUREAN, Vieți paralele</ptr>
+								<date>2001</date>
+								<citedRange>89</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prea mari scule de lucrat lemnul, nu avem... d-astea, moderne,
+								cum sunt astăzi, că nu avem bani... Abricuri avem, dar n avem din
+								cele pentru grosime, cu circulație separată... Ca să avem o mașină
+								din aia universală, ne-ar costa o sută și ceva de milioane.</quote>
+							<bibl type="ap.">
+								<ptr target="unknown">STAHL ‒ CONSTANTIN, Meșterii</ptr>
+								<date>&lt;2002‒2003&gt;</date>
+								<citedRange>88</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dotarea minimală pentru atelierul de prelucrare lemn (tâmplărie):
+								mașină universală de prelucrat lemnul: ‒ circular – freză – strung –
+								abric.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+								<date>2007</date>
+								<citedRange>nr. 501, 30</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acest utilaj pe nume abrict, îndreaptă lemnul</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date>2009</date>
+								<citedRange>&lt;https://www.constructosu.eu/care-este-diferenta-intre-o-masina-de-rindeluit-si-un-abrict/&gt;
+									(accesat la 15.06.2019): </citedRange>
+							</bibl>
+						</cit>
+						<re type="lexical-variant-section">
+							<usg>
+								<seg type="plev" rend="usg">rar</seg>
+							</usg>
+							<def>abríc</def>
+							<gramGrp>
+								<pos value="s."/>
+								<gen value="n."/>
+								<number value=""/>
+								<case value=""/>
+								<subc value=""/>
+							</gramGrp>
+							<form type="writing">
+								<oVar>abrícht </oVar>
+							</form>
+						</re>
+					</sense>
+					<sense xml:id="uuid-a625953f-1caf-447c-8201-d31d3c51a7ce" n="">
+						<def xml:id="id">Cuțit rotativ, acționat electric, utilizat la operațiunea
+							de geluire a scândurilor.</def>
+						<usg corresp="#id">
+							<seg type="geo" rend="usg">Prin Maram. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown">DRAM</ptr>
+								<date>2015</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<sense xml:id="uuid-8915e281-e815-4425-a9c3-05ee0f89bf88" n="">
+					<def xml:id="id"/>
+					<cit type="unknown">
+						<quote/>
+						<bibl type="unknown">
+							<ptr target="unknown"/>
+							<date/>
+							<citedRange/>
+						</bibl>
+					</cit>
+				</sense>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-313a08f2-bef8-4d6e-9f50-09902502e835" n="">
+						<def xml:id="uuid-0f6e97ce-7abc-4874-9803-695a70c064e3"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="unknown"/>
+				</form>
+				<etym cert="high">
+					<idno type="abrict"/>
+					<note type="uuid-691bd716-15c8-3e7f-a65a-3913e069704e" n="unknown" cert="high">
+						<term xml:lang="de" type="unknown" subtype="unknown">
+							Abricht(hobelmaschine).</term>
+					</note></etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

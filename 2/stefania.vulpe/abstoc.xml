@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-48eeb160-1bbd-4d36-8482-88003da99c93" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T13:06:25+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abștoc</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABȘTÓC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0717c999-6aad-4910-a3c7-e1751522b8d7" n="">
+						<def xml:id="uuid-42a3fd8b-5628-4309-b4f7-2d10681a5fdb">Fiecare dintre cele
+							două vergele de fier care leagă la căruţă capetele crucii de capetele
+							osiilor de dinainte;</def>
+						<usg corresp="#uuid-42a3fd8b-5628-4309-b4f7-2d10681a5fdb">
+							<seg type="geo" rend="usg">Reg.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-42a3fd8b-5628-4309-b4f7-2d10681a5fdb">
+							<ptr target="lambă (2)"/>
+						</xr>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-a619c815-a05d-183e-0ddc-b1c256648edc"/>
+								<date/>
+								<citedRange>h 859/239 (Petrova – Vișeu de Sus).</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-5fdbdf65-b92b-48a4-8f02-a375adfb467f" n="">
+						<def xml:id="uuid-4c8a0203-1c74-4d85-a175-a82e35551229"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstocken</term>
+					<note type="unknown" n="unknown" cert="high">
+						<term>„a se învecina cu”</term>
+					</note></etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

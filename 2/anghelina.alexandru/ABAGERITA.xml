@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d3867769-a770-4fe0-99c9-5968032c1e91" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T10:43:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abageriță</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGERÍȚĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0a2208e6-0130-41e9-ade2-6a669fda2ab5" n="">
+						<def xml:id="uuid-31738714-9179-406a-bfd1-5c1bf9674aa7">Femeie care se ocupa
+							cu fabricarea sau vânzarea abalei<hi rend="superscript">3</hi>;</def>
+						<usg corresp="#uuid-31738714-9179-406a-bfd1-5c1bf9674aa7">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="uuid-c431980c-f524-4e12-82b2-351ff5c4dad3">femeie care
+							confecționa haine de aba<hi rend="superscript">3</hi>.</def>
+						<usg corresp="#uuid-c431980c-f524-4e12-82b2-351ff5c4dad3">
+							<seg type="sem" rend="usg">p. restr.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Avut-au giudecată de faţă, înainte noastră, Manole neguţitoriul
+								din Botoşeni, cu Ştefan ficiorul <hi rend="bold">abăgeriţii</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be67a745-770f-1341-7818-7b9d999613d8">mavroc</ptr>
+								<date>1742</date>
+								<citedRange>470</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prima însemnare [din sec. XVII] poate fi interpretată şi în
+								sensul intrării directe în breaslă..., probabil în <hi rend="bold">abagerie</hi>, – în cazul în care am admite că Ioana abageriţa
+								şi soră-sa Aftanasia trăiau în momentul în care fata şi nepoata lor,
+								Catrina, fu primită în breaslă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavlescu</ptr>
+								<date>1939</date>
+								<citedRange>128</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ca şi în cazul altor meşteşuguri practicate de unele femei, şi
+								printre abagii se întâlnesc la Iaşi <hi rend="bold">abageriţe</hi>
+								[în sec. XVII].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
+								<date>1969</date>
+								<citedRange>276</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-52ecb463-182b-4de3-91cd-5e38d67408e2" n="">
+						<def xml:id="uuid-ab61c432-ce80-4aef-92d1-fc9bc823bc46"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagerițe</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abăgeríță </def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abager"/><term xml:lang="" type="sufix" subtype="unknown">iță</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

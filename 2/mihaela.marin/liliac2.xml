@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b191a174-318f-4a98-bad5-528346182ad3" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-07-14T21:38:28+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="2">LILIAC</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LILIÁC</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m."/>
+                    <number value="sg."/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-68ad158f-10bb-460e-ae02-ad8a165dcfd8" n="">
+                        <sense xml:id="uuid-bf1bc843-5997-4b60-84e3-993dcb804840" n="♦">
+                            <def xml:id="uuid-fb7f1701-3868-422d-8940-6bdbb875c4ba">Moroi</def>
+                            <usg corresp="#uuid-fb7f1701-3868-422d-8940-6bdbb875c4ba">
+                                <seg type="geo" rend="usg">regional</seg> 
+                                <seg type="geo" rend="usg">Cimburud-Aiud</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                                    <date/>
+                                    <citedRange>1 399/138</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-3807c27d-b383-4689-993a-29a1627b1e3b" n="◊">
+                            <def xml:id="uuid-870d8baf-541b-4cd7-8b01-1faf4f42bc92">(Urmat de determinări care indică specia</def>
+                            <cit type="unknown">
+                                <quote>Liliacul vulgar.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-5f89fb56-6e22-a6e3-1951-00cfe7dc5030"/>
+                                    <date/>
+                                    <citedRange>41/22</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Liliacul pitic</quote>
+                                <bibl type="unknown">
+                                    <ptr target="ENC. ROM. (DA) ENCICL. R. I | Enc. Rom. I"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>lLliacul comun</quote>
+                                <bibl type="unknown">
+                                    <ptr target="ENC. ROM. (DA) ENCICL. R. I | Enc. Rom. I"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Liliacull urecheat</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3"/>
+                                    <date/>
+                                    <citedRange>28</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>liliac de noapte</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3"/>
+                                    <date/>
+                                    <citedRange>28</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>des întâlnit la noi este liliacul urecheat</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-5b7c6173-4abd-14da-73ab-dc137bc37fa1"/>
+                                    <date/>
+                                    <citedRange>18</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Liliacul de scorbură</quote>
+                                <bibl type="unknown">
+                                    <ptr target="DER | DER III"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-5d7fd3f7-60de-4834-9783-1d9f154ce09f" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                                <term>Umblă noaptea ca
+                                lililecii</term>
+                            </form>
+                            <def xml:id="uuid-17045b04-f708-43bc-bf59-848ee5559d2f">se zice despre cei răi şi desfrânaţi</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="PANN, P. V. II PANN, P. V.2 | PANN, Pov. Vorbii"/>
+                                    <date/>
+                                    <citedRange>142/25</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-7f21088e-df55-4b16-a21d-823e132d1242" n="">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                                <term>Stă ascuns ca un liliac</term>
+                            </form>
+                            <def xml:id="uuid-88122c29-b83d-4e31-bc6e-db647b6f4d14">se zice despre cei care duc o viaţă retrasă</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="ZANNE, P. I ZANNE, P.2 I (DA) ZANNE, P. I | ZANNE, Prov. I"/>
+                                    <date/>
+                                    <citedRange>507</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-97ebeded-f2c6-49b2-b244-14e69e23c362">Mamifer insectivor crespuscular şi nocturn din ordinul
+                            chiropterelor, asemănător cu şoarecele, cu aripi formate dintr-o
+                            memebrană care uneşte degetele foarte alungite ale membrelor anterioare,
+                            laturile capului, laturile corpului, membrele posterioare şi coada, şi
+                            care trăieşte prin locuri întunecoase, puţin frecventate (Plecoctus
+                            auritus şi Nictalus noctula)</def>
+                        <xr type="syn" corresp="#uuid-97ebeded-f2c6-49b2-b244-14e69e23c362">
+                            <ptr target="potlogar"/>
+                        </xr>
+                        <def xml:id="uuid-1357f4f2-d32b-4f35-85fa-308afe717258">şoarece cu urechi</def>
+                        <cit type="unknown">
+                            <quote>Den zburătoare nu se vor mânca ... pupăza şi liliiacul</quote>
+                            <bibl type="unknown">
+                                <ptr target="BIBLIA (1688)3 | Biblia (1688) – T."/>
+                                <date>1688</date>
+                                <citedRange>77/40</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Zgomotul alaiului domnesc deşteptase bufniţele şi
+                                liliecii</quote>
+                            <bibl type="unknown">
+                                <ptr target="ODOBESCU, S. II | ODOBESCU, Archeol."/>
+                                <date/>
+                                <citedRange>162</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-5a95d9d5-d0c2-4d07-9169-d89da2202b7b" n="">
+                        <def xml:id="uuid-696b5df6-513e-46f6-9b66-e56f4f08a44b"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="trisyllabic">
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">-li-ac</syll>
+                </form>
+                <form type="pronunciation" value="bisyllabic">
+                    <pRef xml:lang="ro-x-accent-lowcase-vowels">li-liac</pRef>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>lilieci</number>
+                    </form>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>liliaci</number>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-bc27387a-cf90-4876-8934-3d34e4cac7b8">leliác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="HERODOT (1645) HERODOT2 (DA) HERODOT | Istorii – T."/>
+                        <date/>
+                        <citedRange>109</citedRange>
+                    </bibl>
+                    <bibl type="unknown">
+                        <ptr target="COSTINESCU | COSTINESCU, V. II"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/378</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-0eab91b8-b574-4a0f-9673-9d30e156f846">liliéc</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <bibl type="unknown">
+                        <ptr target="#uuid-84aa5d82-1319-2815-821f-e9f5680923de"/>
+                        <date/>
+                        <citedRange/>
+                    </bibl>
+                    <def xml:id="uuid-fec6043d-52b4-4571-8521-0dcabd6e4d96">liuliuiác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-dd08fe24-5ccf-4c02-901e-aea2fbb867aa">luliác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/98</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-b85cb22f-89b2-4c3f-ade8-e8b7edb9eba5">luluiác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/144</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-8123fd74-f02a-4012-af06-32f89a2be76d">lulác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/302</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-0806ec6c-6875-4389-be30-a04c001cce1b">ililiác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/1</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">l<def xml:id="uuid-e972248e-3d33-430b-b3b0-e9edbe6b8d17">iliác</def>l<gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea Ilr"/>
+                        <date/>
+                        <citedRange>1 055/259</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-b26bde4c-9430-46f8-ab85-b3f80e80aaa5">ililiác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/259</citedRange>
+                    </bibl>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-c9013a87-c9c7-49b1-83d0-0ee7fbf3c00d">uliác</def>
+                    <gramGrp>
+                        <pos value="s."/>
+                        <gen value="m."/>
+                        <number value="sg."/>
+                        <case value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <bibl type="unknown">
+                        <ptr target="ALR I (DA) ALR I… | ALR I Partea I"/>
+                        <date/>
+                        <citedRange>1 055/80</citedRange>
+                    </bibl>
+                </re>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="bg" type="unknown" subtype="unknown">лиляк</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

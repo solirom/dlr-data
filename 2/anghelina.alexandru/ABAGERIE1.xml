@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2f9471ef-837c-4c5d-80f2-462b38eaab52" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-09T16:32:14+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">abagerie</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGERÍE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0bf8d1be-1305-4898-bbba-4120fbc39c43" n="">
+						<sense xml:id="uuid-67562d5f-47ee-44f8-b491-dc13d0db1e52" n="">
+							<def xml:id="id">Mulțime de haine confecționate din aba<hi rend="superscript">3</hi>.</def>
+							<usg corresp="#id">(<seg type="hint" rend="usg">Cu sens
+								colectiv</seg>)</usg>
+							<cit type="unknown">
+								<quote>Hagi Enache, fratele Stami jăluitorul, cu Hagi Ivan soţul
+									Hagicăi, au avut tovărăşie ca 24 de ani la prăvălii de <hi rend="bold">abagerie</hi>, ţiind amândoi o pungă și o
+									cheltuială. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-46c62043-05d9-00ab-1d49-617ef8b25afb">doc.
+										buc</ptr>
+									<date>1819</date>
+									<citedRange>594</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Câți din abagii vor vrea să ție prăvălie de căvăfie să nu fie
+									popriți, dar să nu amestece <hi rend="bold">abagerie</hi> în
+									prăvălie de căvăfie.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-4e07d5c6-647a-0259-1549-27e4489d8c45">urechia</ptr>
+									<date>1819</date>
+									<citedRange>382</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În 1837 „importaţia şi ecsportaţia” pe la acel punct a fost
+									de 833.121 lei:... bumbăcărie lucrată şi nelucrată, <hi rend="bold">abagerie</hi> de Turchia, căvăfie,
+									curelărie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-032b7129-1ff0-4102-8871-b6cbc8ab6f80">alexandrescu</ptr>
+									<date>1955</date>
+									<citedRange>242</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-0a42e76f-dd8e-42ab-ab19-58cc31c032d4">Atelier sau fabrică
+							unde se produceau haine de aba3; prăvălie unde se vindeau haine de
+								aba<hi rend="superscript">3</hi>.</def>
+						<usg corresp="#uuid-0a42e76f-dd8e-42ab-ab19-58cc31c032d4">
+							<hi rend="italic"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop</seg>. </hi>
+						</usg>
+						<cit type="unknown">
+							<quote>Duca-Vodă... au fost la dugheană, la <hi rend="bold">abăgerie</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-881ef2a8-57f5-035e-2c8d-7c3b44fa22f7">racov</ptr>
+								<date>&lt;1705–1732&gt;</date>
+								<citedRange>19</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să aibă a scuti de vamă un car de marfă de <hi rend="bold">abagerie</hi>, din câte aduce de peste Dunăre.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-235efa89-67b2-7d6a-3a88-44fd08d79ff2">urechia</ptr>
+								<date>1813</date>
+								<citedRange>236</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La Cozia funcționează un atelier de <hi rend="bold">abagerie</hi>
+								care produce toată abaua necesară arestaților pentru costumele de
+								iarnă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia
+									li</ptr>
+								<date>1886</date>
+								<citedRange>nr. 2 658, 1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată, domnilor, taxele ce ni se propun să încuviinţăm:... 30 bani
+								de la fiecare car cu orice fel de marfă de marchitănie, braşovenie,
+								manufactură, lipscănie, hăinărie, cojocărie, cizmărie, pielărie, <hi rend="bold">abagerie</hi>, sticlărie, porţelane.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-50127c23-25b6-109c-7019-30f64b068e9f">kogălnice</ptr>
+								<date>1890</date>
+								<citedRange>204</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lucrurile de cismărie, croitorie, <hi rend="bold">abajerie</hi>,
+								drogărie, pantofărie etc., se dobândeau nu prin fabrici... ci prin
+								lucrul de mână al meșteșugarilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d9c16398-1d02-38d9-75d4-4c37fd1066fb">furnic</ptr>
+								<date>1926</date>
+								<citedRange>103</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prima însemnare [din sec. XVII] poate fi interpretată şi în
+								sensul intrării directe în breaslă, pe baza calității de
+								meșteșugăriță, probabil în <hi rend="bold">abagerie</hi>, – în cazul
+								în care am admite că Ioana abageriţa şi soră-sa Aftanasia trăiau în
+								momentul în care fata şi nepoata lor, Catrina, fu primită în
+								breaslă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">ec.
+									bre</ptr>
+								<date>1939</date>
+								<citedRange>128</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Știa nişte prăvălii cu tot soiul de marfă de îmbrăcăminte şi
+								încălţăminte: opincării, pânzării, <hi rend="bold">abagerii</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5f50793d-793f-1bbd-944b-57fc1f235ad1">un om</ptr>
+								<date>1955</date>
+								<citedRange>459</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0c259a9a-e31f-4cc9-8ce1-638445a33c80" n="">
+						<def xml:id="uuid-3dc3ea6f-a99d-4027-8a3f-b629cb27bc66"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagerii</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abăgerie</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abajeríe</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/><term xml:lang="" type="sufix" subtype="unknown">ărie</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-64d2a30c-399d-a4d6-4336-de3b68780cf4">cihac</ptr>
+						<date>1879</date>
+						<citedRange>541</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<date>1949</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-425ec52b-0345-750d-4dbe-ba0db004a2b2">arhais</ptr>
+						<date>2005</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-fb85211f-c219-4e73-b8fd-2b3b05c34f53" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T11:53:08+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuli</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABULÍ </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8136766d-cd0f-45c8-9653-b92da155801e" n="">
+						<sense xml:id="uuid-9721c0d5-751f-4107-b612-d296bd700e8b" n="✧">
+							<def xml:id="uuid-d82bbaa4-c645-4963-aa3d-5f8e11be70ab"/>
+							<usg corresp="#uuid-d82bbaa4-c645-4963-aa3d-5f8e11be70ab">
+								<seg type="gram" rend="usg">(Cu valoare de interjecție)</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Nu mai am decât treizeci și cinci lei ... Ie buni și ăia ...
+									(Gena îi dă din buzunarul șorțului) <hi rend="bold">Abulé</hi>!
+									(întinde mâna). </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdfadfed-44ce-a6e5-55bb-d4ed1387a2fa"/>
+									<date>1936</date>
+									<citedRange>98</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-96dfc711-0552-48c3-98fb-63cd509ac071"/>
+						<usg corresp="#uuid-96dfc711-0552-48c3-98fb-63cd509ac071">
+							<seg type="register style" rend="usg"> Arg.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-96dfc711-0552-48c3-98fb-63cd509ac071">
+							<ptr target="A aduce"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-96dfc711-0552-48c3-98fb-63cd509ac071">
+							<ptr target="a da"/>
+						</xr>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abulește </hi>suta-ncoace.</quote>
+							<bibl type="unknown">
+								<ptr target="Bul. Filol., IV |  |  | Bul. Filol. | IV | BUL. FIL. IV"/>
+								<date>1937</date>
+								<citedRange>105</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-33840433-0176-a40e-993f-261232b6380d">D.
+									arg</ptr>
+								<date>1998</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e25c7611-03cb-1c18-3b34-e4211bc42d31">inter</ptr>
+								<date>2009</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-447421f7-5c03-4af9-bd74-1ccb0188a95a" n="">
+						<def xml:id="uuid-68809ef8-2a20-42ef-bf45-df3b4ae26928"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abulesc</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abouler</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

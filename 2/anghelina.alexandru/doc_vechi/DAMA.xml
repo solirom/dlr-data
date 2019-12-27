@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DAMA" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2018-03-27T10:47:49+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">DAMĂ</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DÁMĂ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-e0c0992b-8ce6-4d29-b9d0-dbdfe35876d0" n="I.">
+                        <sense xml:id="uuid-486373b1-d174-43d9-81cb-02957d23dca1" n="1.">
+                            <sense xml:id="uuid-83bd2078-3e5e-4b09-be56-7cd7aa30b3b6" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="hint" rend="usg">cu sens curent</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
+                                    <term>De damă</term>
+                                </form>
+                                <def xml:id="uuid-39dda9d4-a345-4994-8737-df4169604798">pentru
+                                    femei</def>
+                                <def xml:id="uuid-9450fb34-c7e3-41d7-8b83-689f05f2041f">femeiesc</def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f"/>
+                                        <date>1857</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>O pălărie de damă se plăteşte cu o chilă de grâu sau şi
+                                        cu trei.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-fbb7b3ab-a12d-3a95-09f0-6912dcfc03d4"/>
+                                        <date>1881</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <usg>
+                            <seg type="time" rend="usg">astăzi rar</seg>
+                            </usg>
+                            <def xml:id="uuid-64d2f287-af0f-493e-978e-01d2486ebafe">Femeie</def>
+                            <def xml:id="uuid-e9211adc-f839-4157-a861-cd796e64ddbc">doamnă</def>
+                            <cit type="unknown">
+                                <quote>Un cap coronat, pren mijlocul unii dame, face a înţeleage
+                                    părerile sale.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-d5363aba-4360-98d5-4d69-90c9a2ef59ff"/>
+                                    <date>1702</date>
+                                    <citedRange>85</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Damele ... poartă nişte bani fără chipuri.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="IA I IST. AM. | GHERASIM, Ist. Amer. , I"/>
+                                    <date>1800</date>
+                                    <citedRange>69<hi rend="superscript">r</hi>/7</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a88be55a-41e3-4f5c-b418-6cd67b13c7a8" n="2.">
+                            <def xml:id="uuid-cfe29e22-0959-4772-8015-3094ae123507">Soție</def>
+                            <usg corresp="#uuid-cfe29e22-0959-4772-8015-3094ae123507">
+                                <seg type="sem" rend="usg">spec.</seg>; <seg type="time" rend="usg">înv.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>În grădina hotelului ... se strâng seara ... militari cu
+                                    damele şi cu progeniturile dumnealor, mari şi mici.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="GHICA, C. E. I | GHICA, Conv. Ec., I"/>
+                                    <date>1864</date>
+                                    <citedRange>352</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Te îmbrăţişez din tot sufletul, alăturând, pentru dama ta,
+                                    respectele mele.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-060064e1-76be-4d04-57f8-c274761d62ec"/>
+                                    <date>1889</date>
+                                    <citedRange>599</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-f4333a4b-a686-4499-8991-a9ad8beb085b" n="3.">
+                            <sense xml:id="uuid-36ee4718-34a9-4858-bbb8-fb4b8c74a6ec" n="◊">
+                                <sense xml:id="uuid-134377b9-db69-44f1-92fb-6d36aa8c9524" n="">
+                                    <def xml:id="uuid-b0a1ff0b-1551-46d5-9dff-7f8357b25832"/>
+                                    <usg corresp="#uuid-b0a1ff0b-1551-46d5-9dff-7f8357b25832">
+                                        <seg type="hint" rend="usg">eliptic</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Împrejuru-i are dame Şi curteni din neamul
+                                            Cerb.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-3a6bd1dd-08a6-026e-3def-ce2262e21478"/>
+                                            <date>1866</date>
+                                            <citedRange>100</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de onoare</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de onor</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                        <seg type="plev" rend="usg">rar</seg>
+                                    </usg>,
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                        <seg type="plev" rend="usg">rar</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de palat</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                        <seg type="plev" rend="usg">rar</seg>
+                                    </usg>,
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                        <seg type="plev" rend="usg">rar</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de cinste</term>
+                                </form>
+                                <def xml:id="uuid-b49c63da-2ec2-4000-8a68-ff9e6957944d"/>
+                                <xr type="trimitere" corresp="#uuid-b49c63da-2ec2-4000-8a68-ff9e6957944d">
+                                    <ptr target="damă (3)"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote>S-au primit de cătră crăiasca familie, de dregătorii
+                                        statului şi de damele palatului</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <date>1829</date>
+                                        <citedRange>30/46</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Ieste o damă de la curte care mă aşteaptă.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-f7eaea37-3acf-60b8-7be9-60076cef4995"/>
+                                        <date>1840</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-ccdf1389-7e4d-4106-8377-133222bd02c2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de companie</term>
+                                </form>
+                                <def xml:id="uuid-38a3e686-719a-4dde-9e63-7922731cc970">femeie
+                                    angajată cu scopul de a însoţi, de a se ocupa şi mai ales de a
+                                    distra o persoană în vârstă</def>
+                                <cit type="unknown">
+                                    <quote>Acum nu mai cad, pentru că merg totdeauna întovărăşită de
+                                        dama mea de companie.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CAMIL PETRESCU, T. III | CAMIL PETRESCU, Diana"/>
+                                        <date>1931</date>
+                                        <citedRange>196</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-4a04c379-41c0-47e7-411d-8ab8f7ac64fe"/>
+                                        <date>1934</date>
+                                        <citedRange>139</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-81cf6d19-c4b9-4954-b0be-ed36300632e9">Femeie (din
+                                aristocrație) care se află în serviciul unei prințese, al unei
+                                regine etc.</def>
+                            <cit type="unknown">
+                                <quote>Împărăteasa sculându-se, se găti, Şi luând câteva dame şi pe
+                                    fiica-ş, Areti, Se duseră împreună.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-a00b3331-90f4-1271-4c32-8a8bc47063bc"/>
+                                    <date>1785</date>
+                                    <citedRange>83/17</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a0334eca-cf3d-460b-b1e7-3869e4971fd9" n="4.">
+                            <def xml:id="uuid-eec56fb8-48b2-42e7-993c-8f06696e3a3d">Iubită</def>
+                            <usg corresp="#uuid-eec56fb8-48b2-42e7-993c-8f06696e3a3d">
+                                <seg type="time" rend="usg">înv.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>[Cavaleria] se luptă pentru frumuseţea damelor.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-8a597850-72bb-72fb-11ad-29c2fb278780"/>
+                                    <date>1844</date>
+                                    <citedRange>60/26</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Aceia se luptau ca să capete o ochire de la dama inimei lor,
+                                    şi aceştia aleargă ca să câştige 1500 de ruble.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-1bd871af-2c54-12f8-9e3b-bf218c03a45b"/>
+                                    <date>1863</date>
+                                    <citedRange>36</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-f7305b39-8116-462e-8ce8-97525686733d" n="5.">
+                            <sense xml:id="uuid-a9cc90da-88ba-4121-961c-141e298add3f" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="time" rend="usg">ieșit din uz</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă publică</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Damă de consumație</term>
+                                </form>
+                                <def xml:id="uuid-f2da21e9-a251-4118-9152-05554f98fe0a"/>
+                                <xr type="trimitere" corresp="#uuid-f2da21e9-a251-4118-9152-05554f98fe0a">
+                                    <ptr target="damă (4)"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                                        <date>1862</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="LM | LMD I"/>
+                                        <date>1873</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0"/>
+                                        <date>1893</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-be96376c-4b86-43c3-9985-d43c038739bd">Femeie de
+                                moravuri uşoare, femeie care practică prostituţia (1)</def>
+                            <usg corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <seg type="time" rend="usg">ieșit din uz</seg>
+                            </usg>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="cocotă"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="femeie de stradă"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="madamă (5)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="prostituată (1)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tearfă (2)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tărcoace (2)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tărcoață (2)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tărfoadă"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tărfostină"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="curvă"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="tărfă ^1^ (2)"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-be96376c-4b86-43c3-9985-d43c038739bd">
+                                <ptr target="dameză"/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote>Flăcăii ... s-au dat în dragoste cu damele cele de la casele
+                                    publice.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="FILIMON, O. II | FILIMON, Escurs."/>
+                                    <date>1859</date>
+                                    <citedRange>337</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Scandalizează pe ceilalţi chiriaşi aducând dame în casă, ...
+                                    şi pune noaptea să-i cânte gramofonul.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="REBREANU, N. REBREANU, NUV. REBREANU, O. II | REBREANU, Nuv. , I"/>
+                                    <date>1909</date>
+                                    <citedRange>58</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-8f7dd3c3-8adc-42da-8fed-3ccc534db79d"/>
+                        <usg corresp="#uuid-8f7dd3c3-8adc-42da-8fed-3ccc534db79d">
+                            <seg type="geo" rend="usg">mai ales în Ban.</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-ddd15d96-1efe-4193-bccf-efac7959f34a" n="II.">
+                        <sense xml:id="uuid-7e2e5c2c-1529-4cb1-bc4c-2ed3b12881e2" n="1.">
+                            <def xml:id="uuid-f204da2d-b2f9-4049-8ddf-f4505aa4613f">Fiecare dintre
+                                cele patru cărți pe care este înfățișată figura unei femei</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f"/>
+                                    <date>1851</date>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="COSTINESCU | COSTINESCU, Vocab. , I"/>
+                                    <date>1870</date>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Noaptea zi o faci ... asul, popa, fante, damă, stos, maca ...
+                                    atâta ştii.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-fbb7b3ab-a12d-3a95-09f0-6912dcfc03d4"/>
+                                    <date>1881</date>
+                                    <citedRange>26</citedRange>
+                                </bibl>
+                            </cit>
+                            <sense xml:id="uuid-aca10b96-63a5-4d63-8fd1-167ae7b24611" n="2.">
+                                <def xml:id="uuid-040d4f08-9f2b-4dfb-be8e-146dc92a0dac">Piesă
+                                    principală la jocul de şah, care poate fi mutată în orice
+                                    direcţie, atât în linie dreaptă, cât şi în diagonală</def>
+                                <xr type="syn" corresp="#uuid-040d4f08-9f2b-4dfb-be8e-146dc92a0dac">
+                                    <ptr target="regină (3)"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="DDRF (DA) FRÉDÉRIC DAMÉ | DDRF I"/>
+                                        <date>1893</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="CADE | CADE I"/>
+                                        <date>1926</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                        </sense>
+                        <sense xml:id="uuid-040cc9c2-9339-4571-b9ac-2cc08fac6c7a" n="3.">
+                            <sense xml:id="uuid-cadcba0f-5489-4937-988f-cebd05496bf2" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                    </usg>
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Joc de dame</term>
+                                </form>
+                                <def xml:id="uuid-74cab4f6-082b-4508-9cf3-9f77d1869441"/>
+                                <xr type="trimitere" corresp="#uuid-74cab4f6-082b-4508-9cf3-9f77d1869441">
+                                    <ptr target="damă (3)"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f"/>
+                                        <date>1857</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="COSTINESCU | COSTINESCU, V. I"/>
+                                        <date>1870</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409"/>
+                                        <date>1900</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-4f14a854-5a6d-4228-98f6-77e4a966628f" n="♦">
+                                <def xml:id="uuid-f17e3262-837e-40f5-9c00-fd2aa4f9a6b5">Model în
+                                    ţesătura unui covor care constă într-un desen geometric,
+                                    realizat în două culori, asemănător tablei de şah</def>
+                                <usg corresp="#uuid-f17e3262-837e-40f5-9c00-fd2aa4f9a6b5">
+                                    <seg type="sem" rend="usg">p. anal.</seg>; <seg type="geo" rend="usg">prin Bucov.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-7ffe1e6d-17eb-0d32-2112-01876d3d1e39"/>
+                                        <date>1910</date>
+                                        <citedRange>304</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Covor „în dame” al Aglaiei Mitocariu.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-7ffe1e6d-17eb-0d32-2112-01876d3d1e39"/>
+                                        <date>1910</date>
+                                        <citedRange>304</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-ff539fa7-482e-4535-a483-5ebe957e11ae">Joc alcătuit din
+                                puluri albe şi negre care se mută după anumite reguli pe o tablă
+                                asemănătoare cu cea de şah</def>
+                            <usg corresp="#uuid-ff539fa7-482e-4535-a483-5ebe957e11ae">
+                                <seg type="plev" rend="usg">de obicei la pl.</seg>
+                            </usg>
+                            <def xml:id="uuid-f67a78ea-dc2d-426b-83d6-92f93736a665">pul</def>
+                            <usg corresp="#uuid-f67a78ea-dc2d-426b-83d6-92f93736a665">
+                                <seg type="sem" rend="usg">p. restr.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Am învăţat în scurtă vreme de a giuca în dame.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                    <date>1829</date>
+                                    <citedRange>129<hi rend="superscript">1</hi>/41</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-8ef22877-7368-6b16-73e6-2730c894a002"/>
+                                    <date>1840</date>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-5f91181f-fa3c-48f8-981b-36d5f80fff88"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-18c605e3-acfa-4363-b5a7-174129e496e4" n="">
+                        <def xml:id="uuid-b7259715-f890-478e-bcb3-f651204160cc"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="accentuation-variant">
+                    <stress xml:lang="ro-x-accent-lowcase-vowels"/>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>dame</number>
+                    </form>
+                </form>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">dame</term>
+                </etym>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="it" type="unknown" subtype="unknown">dama</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

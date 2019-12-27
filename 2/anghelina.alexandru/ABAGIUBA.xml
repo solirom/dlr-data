@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5ffd5e81-ae8d-4d25-aff8-10257c9ba0ce" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-10T13:55:23+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abagiubă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGIÚBĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-59d980b9-89be-46c8-be4b-92cb6bfca158" n="">
+						<def xml:id="uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">Arbust din familia
+								<hi rend="italic">Oleaceae</hi>, cu frunze alterne sau opuse, cu
+							flori albe dispuse în raceme, cu corolele în formă de pâlnie și cu
+							fructe bace, cultivat adesea pentru gardurile vii; </def>
+						<usg corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
+							<seg type="dom" rend="usg">BOT.</seg>
+							<seg type="time" rend="usg">Înv. </seg>
+						</usg>
+						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">Ligustrum
+							vulgare</term>
+						<xr type="syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
+							<ptr target="măliniță"/>
+							<usg>(<seg type="geo" rend="usg">Bucov.</seg>, <seg type="geo" rend="usg">Mold.</seg>) </usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
+							<ptr target="lemn-câinesc"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-fd76819a-353a-42e1-9072-51363b2bbf76" n="">
+						<def xml:id="uuid-f5999e78-fc9f-4fba-8d12-0e7afe88a0a8"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagiube</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-5c4cadd3-0c73-0abe-1583-aa28d5178cf2">enc. rom</ptr>
+						<date>1904</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-743bf539-5272-a65b-0b66-e9e2aae815eb">etnobot</ptr>
+						<date>1979</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

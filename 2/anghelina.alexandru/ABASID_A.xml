@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-056fe5b1-3390-405f-b87e-b7d5d73638fb" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T16:08:54+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abasid</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABASÍD</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c557c13a-654a-425a-a589-1ec3393c2f0b" n="1.">
+						<def xml:id="uuid-b6e9ca55-58a1-4ee3-9603-c0c9732cf4ef">Persoană care făcea
+							parte din dinastia de califi arabi (750–1258) care s-au stabilit la
+							Bagdad, după înlăturarea omeiazilor și care au întemeiat un vast imperiu
+							musulman cu o civilizație strălucită.</def>
+						<cit type="unknown">
+							<quote>Abderaman cel Mare transplanta în Cordova săminţele cele mai
+								delicate a culturei Orientului şi, rival a <hi rend="bold">abasizilor</hi>, dedu impuls tutulor elementelor civilizaţiei
+								şi, prin urmare, poeziei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-060ba60b-5ed1-5e3c-0954-1dd2f07149b6">kogălni</ptr>
+								<date>1846</date>
+								<citedRange>515</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Coranul cere că şeful musulmanilor trebuie să se tragă din
+								seminţia lui Mahomed, din Koreişiţi, din care se coboară omeiazii şi
+									<hi rend="bold">abasizii. </hi></quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0b59d0d3-3198-3d0f-00f3-8e8e12eb6b6d">ralet</ptr>
+								<date>1858</date>
+								<citedRange>163</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Declararea autonomiei califatului de Cordoba la 765, împotriva
+								dinastiei <hi rend="bold">abbasizilor</hi>, care domneau la Bagdad,
+								a salvat Occidentul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">eliade</ptr>
+								<date>1944</date>
+								<citedRange>53</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vibraţia patetică a durerii atinge o notă de intensitate pe care
+								n-am întâlnit-o în asemenea împrejurări decât la poeţii arabi, în
+								epoca preislamică la o Al-Khansa şi, mai târziu, în vremea <hi rend="bold">abasizilor</hi>, la un Ibn-Ar-Rumi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b85328f1-8046-87b6-42e7-f109337ea058">papu</ptr>
+								<date>1977</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Principalele dinastiii de califi au fost: umeiazii (omeiazii),
+									<hi rend="bold">abasizii</hi> – suniţi şi Fatimizii –
+								şiiţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-94285feb-3169-1ac8-3418-f2a338e31e09">term.
+									istor</ptr>
+								<date>1999</date>
+								<citedRange>47</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-26f3d577-c773-495a-aef4-1abd98cdc781" n="2.">
+						<def xml:id="id">Care se referă la abasizi (<hi rend="bold">1</hi>), care
+							aparține abasizilor.</def>
+						<cit type="unknown">
+							<quote>Sub ocrotirea califilor <hi rend="bold">abbasizi</hi>, sirienii
+								continuă să propage cultura greacă. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-58be1499-0dbf-0ced-4d8d-2959f9853ead">bărnu</ptr>
+								<date>1863</date>
+								<citedRange>202</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Califii</hi> abbasizi au făcut apel la sirieni,
+								începând din anul 750 e.n., pentru a traduce în arabă principalele
+								scrieri greceşti de filozofie. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">ist.
+									log</ptr>
+								<date>1975 (1969)</date>
+								<citedRange>310</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Turcii, după ce în 1258 puseseră capăt califatului <hi rend="bold">abasid</hi> din Bagdad... ocupau aproape tot
+								teritoriul fost bizantin din Asia Mică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+								<date>1994</date>
+								<citedRange>36</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e0991beb-4f04-48ee-8ded-359d745f9398" n="">
+						<def xml:id="uuid-4c97f03f-d730-41a1-9eb5-efdc8d9daa2d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abbasid</oVar>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abasizi, -de</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">Abbaside</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăineanu</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

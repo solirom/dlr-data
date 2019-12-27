@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2a7a24c1-fe91-4dea-bc7c-3ae5a76c4fe8" version="3.3.0" source="0.20">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>victor.celac</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Linguistic Institute of the Romanian Academy</publisher>
+				<idno type="dictionary">DLR</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-11-13T13:38:50+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aboli</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABOLÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+					<subc value="tranz."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-199acde9-6140-4056-b09b-d613fdffc853" n="1.">
+						<sense xml:id="uuid-731fe29b-4cf0-404f-b515-40c7df331e52" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="refl. pas."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Fireşte că cu cât se ţine o instituţiune rea, cu atât mai
+									anevoie se simte deşertul ce ar lăsa <hi rend="bold">abolindu-se</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cf3f6bb8-93a0-11bb-03ca-f0e98bd23bfd">codru</ptr>
+									<date>1840</date>
+									<citedRange>105</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dările bisericaşilor la scaunile eparhiale <hi rend="bold">se
+										abolează</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0967fa53-47bb-6f06-8172-099f110f990d">melch</ptr>
+									<date>1869</date>
+									<citedRange>452</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În privinţa socială s-a întâmplat la noi cu Constituţiunea de
+									la 1866 ce nu s-a întâmplat cu nicio altă Constituţiune
+									monarhică; nu numai că <hi rend="bold">s-au abolit</hi>
+									privilegiile de castă, dar s-au abolit chiar şi titlurile de
+									nobleţe cari continuă a exista şi în Anglia și în Italia şi în
+									Germania şi chiar în republicana Franţă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a72188c1-4aa4-58d7-0927-897232441602">maiorescu</ptr>
+									<date>1908</date>
+									<citedRange>957</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-b380df21-6556-4891-816e-335770aa279d">A scoate din
+							uz</def>
+						<usg corresp="#uuid-b380df21-6556-4891-816e-335770aa279d">(<seg type="gram" rend="usg">Complementul indică obiceiuri, privilegii, instituţii
+								etc</seg>., <seg type="plev" rend="usg">rar</seg>)</usg>
+						<xr type="syn" corresp="#uuid-b380df21-6556-4891-816e-335770aa279d">
+							<ptr target="a desfiinţa"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b380df21-6556-4891-816e-335770aa279d">
+							<ptr target="a suprima (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Francii... agiunseseră a <hi rend="bold">aboli</hi> toate
+								titulaturile şi rangurile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cf3f6bb8-93a0-11bb-03ca-f0e98bd23bfd">codru</ptr>
+								<date>1843</date>
+								<citedRange>221</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Crist <hi rend="bold">a abolit</hi> castele şi
+								privilegele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f3a8b56c-680c-7b89-0fa6-98155d7c453b">helia</ptr>
+								<date>1858</date>
+								<citedRange>189</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Metodele noi abolesc pe cele vechi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d0ef16d7-6b72-85ca-3dd7-78fd1a0688f9">canell</ptr>
+								<date>1867</date>
+								<citedRange>4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Guvernul rus, recunoscând însuşi că s-a împlinit termenul
+								statutelor, le-a desfiinţat în luna lui iuliu 1871; şi noi, contra
+								Constituţiunii, care aboleşte toate privilegiile, care zice că toţi
+								locuitorii României sunt egali înaintea drepturilor şi datorielor,
+								noi să manţinem starea actuale! </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4bbb0c99-2911-9283-6c72-643f06354004">kog</ptr>
+								<date>1873</date>
+								<citedRange>225</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ministrul [M. Kogălniceanu] ... <hi rend="bold">a abolit</hi>
+								claca în România.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">emines</ptr>
+								<date>1880</date>
+								<citedRange>139</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu voieşte <hi rend="bold">să aboleze</hi> instituţiunile
+								fundamentale ale ordinei sociale actuale, precum: proprietatea,
+								moştenirea, salariul etc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8dd23718-167c-4bed-899c-4593f49a787b">trans</ptr>
+								<date>1899</date>
+								<citedRange>65, 3/2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Manifestul făgăduia egalitatea drepturilor politice şi o adunanţă
+								generală compusă de reprezentanţi ai tuturor stărilor societăţii,
+									<hi rend="bold">abolind</hi> totdeodată nobleţa, adică schimba
+								într-o noapte o ţară cu clase istorice într-o democraţie
+								parlamentară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c2ff4c3-296d-87c0-9a50-cc318fbd0a1a">opera
+									em</ptr>
+								<date>1947 (1936)</date>
+								<citedRange>195</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Când poetul, vorbind despre tineri, declară că „numai banul îi
+								vânează şi câştigul fără muncă”, Gherea găseşte ironia „tare ca
+								oţelul”, „nimicitoare”, fiindcă, desigur, în societatea socialistă
+								toţi muncesc şi avutul personal <hi rend="bold">e
+								abolit</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">ist. lit.
+									rom</ptr>
+								<date>1941</date>
+								<citedRange>486</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sir Thomas Dale (între 1611 şi 1616) a statornicit posesiunea
+								individuală a bunurilor şi a pământului, abolind sistemul
+								depozitelor în comun. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7737fbf7-0e95-165d-6183-ccccf761370f">comar</ptr>
+								<date>1947</date>
+								<citedRange>273</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu putem fi de acord cu regimul castelor, a căror existenţă este
+								atât de adânc ancorată în mentalitatea indiană, încât chiar un
+								reformator atât de înaintat ca Jawaharlal Nehru socoteşte că nu pot
+								fi <hi rend="bold">abolite</hi> decât mai târziu, cu mari griji
+								pentru respectarea tradiţiilor poporului său.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-46504891-44a7-7f3c-4471-50fa00958e46">vianu</ptr>
+								<date>1957</date>
+								<citedRange>380</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Berdiaev... anticipa a Treia Epocă, anunţată de Gioacchino da
+								Fiore: cea a libertăţii spirituale, dominată de Duhul Sfânt, când
+								oamenii vor fi între ei fraţi şi surori, adică relaţiile sexuale <hi rend="bold">vor fi abolite</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-58ae8ee0-11e9-0960-8e3b-954e60f452ee">eliade</ptr>
+								<date>1974</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Coranul <hi rend="bold">aboleşte</hi> vechea cutumă a
+								leviratului: bărbatul nu este obligat, ca la evrei, să ia de soţie
+								pe văduva fratelui său.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">o.
+									drim</ptr>
+								<date>1987</date>
+								<citedRange>278</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Atunci când caută să <hi rend="bold">abolească</hi> tradiţia
+								existentă, stânga se înşală, deoarece acţiunea în interiorul unei
+								tradiţii este singurul mod rezonabil de a acţiona. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a">patap</ptr>
+								<date>2001</date>
+								<citedRange>197</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prozelitismul – mai ales prin constrângere – al oricărei Biserici
+									<hi rend="bold">este abolit</hi> încă din 1782 de Iosif al
+								II-lea. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+								<date>2005 (†)</date>
+								<citedRange>164</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sclavia a fost abolită de foarte mult timp.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6b5944d-2886-5cc0-a498-c34639ff4a57">dgs</ptr>
+								<date>2013</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-caa342aa-c4a8-443a-b3c8-8ae4cd725417" n="2.">
+						<usg corresp="#uuid-caa342aa-c4a8-443a-b3c8-8ae4cd725417"><seg type="dom" rend="usg">JUR.</seg> (<seg type="gram" rend="usg">Complementul
+								indică prevederi legale, acte normative etc.</seg>)</usg>
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="A desfiinţa"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a abroga (1)"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a anula"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Nu m-ai născut, o, mamă, spre <hi rend="bold">a aboli</hi> legea,
+								ci spre a o împlini, a o perfecţiona. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f3a8b56c-680c-7b89-0fa6-98155d7c453b">biblic</ptr>
+								<date>1858</date>
+								<citedRange>191</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Moravurile s-au îmblânzit şi nu sufer nici execuţiuni, nici
+								carnefici. Pedeapsa cu moartea dar <hi rend="bold">este</hi> în
+								faptă <hi rend="bold">abolită</hi> de douăzeci şi opt de
+								ani.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dc59d30b-33c9-7cdc-5ab6-9572849ea6dd">echili</ptr>
+								<date>&lt;1859–1869&gt;</date>
+								<citedRange>714</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dl Odobescu crede că ar fi mult mai nimerit pentru Societate [=
+								Societatea Academică Română] a renunţa la uniformitatea proiectului
+								de dicţionar ce o prescrie regulamentul, <hi rend="bold">a
+									aboli</hi> toate regulele restrictive stabilite în acesta şi a
+								tipări pe viitor şi cu grăbire diferitele lucrări ce s-au adunat şi
+								se vor mai aduna. </quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-c0949bca-0611-5b3e-8763-c0b3bfd96c7b">tipăr</ptr>
+								<date>1871</date>
+								<citedRange>322</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tractatul de la Berlin nu a primit acest vot, din contră, a zis:
+								să vi se ia Basarabia şi să vi se dea Dobrogea, şi <hi rend="bold">să aboliţi </hi>şi art. 7 din Constituţiunea voastră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-acb2341f-3b98-3f4a-11bb-ff063b1005cb">discur</ptr>
+								<date>1878</date>
+								<citedRange>490</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aceste două condițiuni <hi rend="bold">au fost abolite</hi>
+								atunci când legitimarea prin căsătorie subsecventă s-a transformat
+								dintr-o permisiune temporară într-o instituțiune permanentă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">haman</ptr>
+								<date>1930</date>
+								<citedRange>253</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Senatorul din California, Cheridan Dawney, democrat, este, de
+								asemenea, un progresist, susținând cauza muncitorimii... și
+								opunându-se legislației muncitorești propuse la un moment dat de
+								către Președintele Truman, când <hi rend="bold">a abolit</hi> prin
+								veto legea Case. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7737fbf7-0e95-165d-6183-ccccf761370f">comar</ptr>
+								<date>1947</date>
+								<citedRange>528</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regulile ortografice stabilite și acceptate de Academie în 1904
+								(și sancționate drept oficiale de autoritatea de stat) <hi rend="bold">abolesc</hi> principiul etimologic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f5467125-4476-0fbe-6e74-ad871f9a54a3">b.
+									dia</ptr>
+								<date>1975</date>
+								<citedRange>555</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Parlamentul scoțian <hi rend="bold">abolește</hi> legislația
+								papală, interzice liturghia catolică. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">o.
+									dri</ptr>
+								<date>1994</date>
+								<citedRange>301</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-0e77e344-0c0b-4f75-af1e-f29f1bfe4d64" n="3.">
+						<sense xml:id="uuid-13dedc22-3eb4-4a42-9127-e92daf208799" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="refl. pas."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Lumii transcrise pe peliculă i <hi rend="bold">se
+										abolește</hi> relieful și uneori culoarea. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2be2f94b-8190-0956-3f17-b67f949f1c79">cornea</ptr>
+									<date>1988</date>
+									<citedRange>IX</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<usg corresp="#uuid-0e77e344-0c0b-4f75-af1e-f29f1bfe4d64">(<seg type="gram" rend="usg">Complementul indică noțiuni, doctrine, opinii
+							etc.</seg>)</usg>
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="A desființa"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a renunța la..."/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a abandona (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Vedem că interesul particular operă cu ardoare la aboliția
+								memoriei unor fapte rușinoase, dar timpul singur vine să <hi rend="bold">abolească</hi> tot, și glorie, și desonoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d0ef16d7-6b72-85ca-3dd7-78fd1a0688f9">canell</ptr>
+								<date>1867</date>
+								<citedRange>4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată unde am ajuns. Critica, judecata literară sunt deodată
+								suprimate. <hi rend="bold">E abolit</hi> criteriul artistic din care
+								o piesă poate fi înțeleasă, aplaudată sau contestată. Răcniți,
+								domnilor, ce să mai umblăm după scrupule și să ne poticnim în
+								procedee!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">cortin</ptr>
+								<date>1913</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Astfel de aprecieri <hi rend="bold">abolesc</hi> sensul propriu
+								al cuvintelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a27a839a-0ff5-972f-45cd-8a0efc8b5c0e">lovinesc</ptr>
+								<date>1926</date>
+								<citedRange>170</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Concertul are loc în fostul refectoriu. Nimic din tot ce am
+								ascultat n-a putut <hi rend="bold">aboli</hi> emoția de la
+								început.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">eliad</ptr>
+								<date>1949</date>
+								<citedRange>151</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se admite că sensul de neutru a început să se întunece în latina
+								populară prin confuzie cu masculinul și chiar cu femininul și se
+								consideră această confuzie ca efectul dispariției consoanelor finale
+								„s” și „m”, care <hi rend="bold">a abolit</hi> distincția dintre
+								masculin și neutru.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">scl</ptr>
+								<date>1957</date>
+								<citedRange>nr. VIII, 301</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întunericul <hi rend="bold">abolise</hi> timpul și i se părea că
+								nicicând nu se despărțise de mama lui. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunate</ptr>
+								<date>1964 (†)</date>
+								<citedRange>384</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poet, în înțelesul modern al lirismului, nu este Alexandrescu
+								decât prin versurile în care sensibilitatea lui se transmite
+								filtrată, <hi rend="bold">abolind</hi> contingentul și făcând să
+								răsune pe aria poeziei românești tonul său unic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-725668dc-7afb-81ef-4563-55b2e84a8483">negoi</ptr>
+								<date>1966</date>
+								<citedRange>60</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Și acest timp cosmic, după câte mi-a spus, <hi rend="bold">va
+									fi</hi> într-o bună zi, pentru el, <hi rend="bold">abolit</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e18efc7f-3d37-138e-08f3-3559a53f1e7f">sânz</ptr>
+								<date>1971</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Știi bine că o revoluție îi poate nimici chiar pe toți cei care
+								au fost în fruntea ei, cu atât mai mult pe cei care nu-și păstrează
+								gândirea logică numai pentru ei înșiși, în clipe când logica însăși
+									<hi rend="bold">e abolită</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8c7e9d9-777c-20a0-78e7-0bbf7eaf4d00">cel
+									iub</ptr>
+								<date>1980</date>
+								<citedRange>888</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Exploziile astea hormonale vin parcă să dărâme, să <hi rend="bold">abolească</hi> tot eșafodajul migălos al
+								moralității. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f83c5f6b-17b3-7929-10ef-a1faac0d978b">vulpesc</ptr>
+								<date>1980</date>
+								<citedRange>474</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ideea centrală a modernității este autonomia radicală a
+								individului, sustras atât legilor divine, care sunt denunțate ca
+								superstiții, cât și regulilor tradiției, care sunt denunțate ca
+								prejudecăți. În acest mod viitorul și trecutul <hi rend="bold">sunt</hi> simultan <hi rend="bold">abolite</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a">patap</ptr>
+								<date>2001</date>
+								<citedRange>406</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Legile perspectivei erau abolite și sabia nu se mărea pe măsură
+								ce se-apropia de ochii lui, nici nu arunca umbră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbit</ptr>
+								<date>2002</date>
+								<citedRange>88</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prezența în lanț a unui determinant lexical antepus <hi rend="bold">abolește</hi> posibilitatea coocurenței cu articolul
+								definit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-40ef8c33-41ce-68b4-6333-2cf7a0c25d09">galr</ptr>
+								<date>2005</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-2b1c626c-a584-45a9-a453-3c32440a5aca" n="4.">
+						<def xml:id="id">A bate foarte tare;</def>
+						<def xml:id="uuid-e138c840-a3c4-43f0-88bf-7f2148efa3d3">a da o lovitură
+							mortală</def>
+						<usg corresp="#id">
+							<seg type="register style" rend="usg"><hi rend="italic">ARG</hi>.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-e138c840-a3c4-43f0-88bf-7f2148efa3d3">
+							<ptr target="a ucide"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-33840433-0176-a40e-993f-261232b6380d">arg</ptr>
+								<date>1998</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e25c7611-03cb-1c18-3b34-e4211bc42d31">arg</ptr>
+								<date>2009</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-cb05f291-4366-4dc8-995a-515f38eb79e4" n="">
+						<def xml:id="uuid-6d194d71-f083-418e-a369-cdde3693c722"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abolesc</form>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abolá</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="I"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+							<mood value="ind."/>
+							<tns value="prez."/>
+							<per value="pers. 1"/>
+							<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abolez</form>
+						</form>
+					</form>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abolir</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="la" type="unknown" subtype="unknown">abolere</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negu</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stama</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontb</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protop</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">ȘĂINEANU</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9d889afd-968e-42a6-73a4-328c61a67475">ursu</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

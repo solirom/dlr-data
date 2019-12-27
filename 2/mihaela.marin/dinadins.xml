@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="dinadins" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2018-04-26T13:45:42+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DINADINS</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DINÁDINS</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="adv."/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-c10ef9e7-c39b-4b00-9bb0-c5871700afc5" n="">
+                        <sense xml:id="uuid-eada36e5-c7d2-427f-8ee1-3ae1e6329c84" n="◊">
+                            <sense xml:id="uuid-7bff0210-7ade-4c60-b435-c4bf04b372c6" n="a)">
+                                <gramGrp>
+                                    <pos value="loc."/>
+                                    <subc value="adv."/>
+                                </gramGrp>
+                                <def xml:id="uuid-cacd38f6-a3cf-4961-b630-324a0d069af4">în mod expres</def>
+                                <xr type="syn" corresp="#uuid-cacd38f6-a3cf-4961-b630-324a0d069af4"><ptr target="în special"/></xr>
+                                <cit type="unknown">
+                                    <quote>Shoalile şi spitalurile sunt îmbunătăţirile ... în care
+                                        cu dinadinsul razemă binele omenirii.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="HURMUZAKI, XV | Doc. Ist. Rom. XV2"/>
+                                        <date>1848</date>
+                                        <citedRange>557</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-9a1f1540-7f1a-4c76-ba3b-4d9c76b5274f" n="b)">
+                                <gramGrp>
+                                    <pos value="loc."/>
+                                    <subc value="adv."/>
+                                </gramGrp>
+                                <def xml:id="uuid-21941afc-b298-4d20-8aa9-ed539a7eebc5">în mod intenţionat</def>
+                                <def xml:id="uuid-65a3be08-b355-4ea5-ad2c-3a754f377d7a">anume</def>
+                                <cit type="unknown">
+                                    <quote>Şi a acelor fugiţi, cu dinadinsul au făcut
+                                        cercetare</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="DOC. EC. | Doc. Ec. I"/>
+                                        <date>1819</date>
+                                        <citedRange>196</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-e6860001-1d58-4147-a52a-41c75026a07b" n="c)">
+                                <def xml:id="uuid-f4d8e86c-9977-45b1-9e23-81dd74e5c438">cu minuţiozitate</def>
+                                <cit type="unknown">
+                                    <quote>Şi aşa să-l întrebe cu dinadinsul ... şi să-i îngăduiască
+                                        până ce-i va răspunde [duhovnicului].</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <date>1710</date>
+                                        <citedRange>234</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>S-au orânduit la 9 ceasuri dimineaţa spre a face în tărie
+                                        o cercetare cu dinadinsul.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <date>1829</date>
+                                        <citedRange>27<hi rend="superscript">2</hi>/8</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-f6ecd5c0-6b00-4eba-b859-4faea1943e6e" n="d)">
+                                <def xml:id="uuid-bc2ffcf2-8ae6-4ed2-b8b1-c34aceab59a1">cu stăruinţă</def>
+                                <def xml:id="uuid-a4d139e5-c9c8-4b70-9635-638103a01891">bine</def>
+                                <cit type="unknown">
+                                    <quote>O , prea iubitul mieu fiu, ia seama cu dinadânsul întru
+                                        toată curgerea vieţii tale!</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-7b07048b-29b6-842d-a4cb-4e32104940f6"/>
+                                        <date>1843</date>
+                                        <citedRange>I, 25</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="în">
+                                        <ptr target="DA | DA I1"/>
+                                        <date>1910</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Să se îndemne cu dinadinsul lăcuitorii a veni să cumpere
+                                        sămânţă de la locul unde să arată. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="DOC. EC. | Doc. Ec. I"/>
+                                        <date>1832</date>
+                                        <citedRange>504</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Se hotărî se se ţină după dânsele cu dinadinsul.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-df5e535f-8f10-80c4-a53f-600cdc0d90f0"/>
+                                        <date>1896</date>
+                                        <citedRange>236</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Cu dinadinsul</term>
+                            </form>
+                            <def xml:id="uuid-729df483-ac01-45ab-ab77-d352bff9b67a"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-bcc72fef-56ee-4204-8509-01d5ccb9b975" n="◊">
+                            <sense xml:id="uuid-0d6dca80-c8b5-4db8-bd52-24895f1914da" n="a)">
+                                <def xml:id="uuid-593630d2-d333-4d02-b4f6-773bbe4673ab">cu toată stăruinţa</def>
+                                <def xml:id="uuid-81bc1201-377a-4ddc-b783-c04f80ee9de7">cu orice
+                                    preţ</def>
+                                <cit type="unknown">
+                                    <quote>Iată că vi-l spui cu tot dinadinsul [adevărul]. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-dcd5c71e-5800-3a08-5c52-b7845f491f80"/>
+                                        <date>1820</date>
+                                        <citedRange>7/5</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Este de neapărat a se lua mesuri din nou şi mai de
+                                        aproape pentru lucrarea drumurilor obşteşti, pe care
+                                        interesurile plugarilor ... le cer cu tot
+                                        dinadinsul.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="HURMUZAKI, XV | Doc. Ist. Rom. XV1"/>
+                                        <date>1840</date>
+                                        <citedRange>183</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Văzându-l gata să plece cu tot dinadinsul ... nu pierdu
+                                        prilejul a-şi arăta răutatea.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="VLAHUŢĂ, O. A. VLAHUŢĂ, O. A. I VLAHUŢĂ, O. A.II VLAHUŢĂ, P. VLAHUŢĂ, S. A. II | VLAHUŢĂ, Nuv. Schiţe"/>
+                                        <date>1890</date>
+                                        <citedRange>91</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="TDRG (DA) TDRG | TDRG I"/>
+                                        <date>1903</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-eed85957-35ff-4f85-8b80-fd8fa907fcfd" n="b)">
+                                <def xml:id="uuid-bd34a7a9-20a6-4811-8e05-2a8d5d9d867f">cu adevărat</def>
+                                <def xml:id="uuid-c9c31c3d-233e-4349-ab28-a67d8715cabf">în
+                                    adevăr</def>
+                                <cit type="unknown">
+                                    <quote>Fiindcă ei nu făcea pacea niciodată cu tot denadinsul ţi
+                                        nu avea alt cuget decât numai să apuce, negoţiaţiille lor nu
+                                        era decât o curmare de războiu.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-75064a65-0cbe-1ec6-030f-4c356cb33f9d"/>
+                                        <date>1820</date>
+                                        <citedRange>59/25</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Supăratu-s-a oare cineva cu tot dinadinsul pe Coco al
+                                        nostru de la Paris?</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-4f6d9e02-1824-9700-1519-bb1e039b5f40"/>
+                                        <date>1930</date>
+                                        <citedRange>29</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="DL | DL I"/>
+                                        <date>1955</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="dm"/>
+                                        <date>1958</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-9d78c21b-520a-4908-aabe-2adb150dbb63" n="c)">
+                                <def xml:id="uuid-565451d5-1ccd-42c8-9495-4deb7a2cf623">cu toată seriozitatea</def>
+                                <def xml:id="uuid-62efe8de-e0e7-49f7-b236-c69f163aeb9a">serios</def>
+                                <cit type="unknown">
+                                    <quote>Luând seama cu tot denadinsul sfârşitul acestui lucru,
+                                        foarte mă întristez.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <date>1710</date>
+                                        <citedRange>40</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-a7b933f9-5f7c-4104-a2b9-3943366730e8" n="d)">
+                                <def xml:id="uuid-98567e17-5b9f-4613-9399-a0af61931bc1">cu toată silinţa</def>
+                                <cit type="unknown">
+                                    <quote>Băgând capul într-un sac ... şi legându-l cu tot
+                                        dinadinsul, îl aruncară în mijlocul mării.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="minei"/>
+                                        <date>1776</date>
+                                        <citedRange>147<hi rend="superscript">r1</hi>/5</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Cu tot dinadinsul</term>
+                            </form>
+                            <def xml:id="uuid-d24fecf7-b9ab-40b5-ac24-005460a11abd"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-f7d4474a-824d-4113-a5a8-fd947690100b" n="◊">
+                            <sense xml:id="uuid-0a80ed49-d0c6-49d5-b1cd-2c0f86b48b35" n="a)">
+                                <def xml:id="uuid-71eca808-3b0c-4eec-bb5e-fc2f3f4d99aa">înainte de toate</def>
+                                <cit type="unknown">
+                                    <quote>Se pricepea ... el să frigă .., dacă ar fi avut frigare,
+                                        sare ... iar mai cu dinadinsul foc măcar?</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="DRĂGHICI, R. | DRĂGHICI, Robinson – T. I"/>
+                                        <date>1834</date>
+                                        <citedRange>66</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="CADE | CADE I"/>
+                                        <date>1926</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300"/>
+                                        <date>1939</date>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-38e97edb-52cd-4b0c-8c64-71c20572817f" n="b)">
+                                <def xml:id="uuid-9e48e717-6177-4bc1-b1d5-5336825f38b7">în special</def>
+                                <def xml:id="uuid-563b6eea-9a6f-4c3a-8da7-9051e3b3e8cb">mai
+                                    ales</def>
+                                <cit type="unknown">
+                                    <quote>Boiarii înţelegându acestu cuvântu şi mai cu denadinsul
+                                        Roxanda ... l-au otrăvit şi au murit.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="URECHE, L. URECHE, L.2 LET. I LET.2 I | URECHE, Let."/>
+                                        <date>1643</date>
+                                        <citedRange>181</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Se aşază mai cu denadinsul la anumite două
+                                        ponturi.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <date>1829</date>
+                                        <citedRange>138<hi rend="superscript">1</hi>/26</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Mai cu dinadinsul</term>
+                            </form>
+                            <def xml:id="uuid-dee8aeb6-bf69-4b25-83be-a31beadba007"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-812e101d-5ade-4a5e-969d-08c69b2d70a3" n="◊">
+                            <sense xml:id="uuid-c5f3f11f-1ddb-41b9-8b5d-4702f02f8228" n="">
+                                <def xml:id="uuid-0e04bd73-1d90-4585-9760-5748af5b1b04">în mod conştient</def>
+                                <def xml:id="uuid-4e73901b-142b-4129-936f-14eaac55bfb2">intenţionat</def>
+                                <cit type="unknown">
+                                    <quote>Aprinderea copaciului era prin dinadins iconomia lui
+                                        Dumnezeu, pentru ca să-l facă să aibă de acum înainte
+                                        foc.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="DRĂGHICI, R. | DRĂGHICI, Robinson – T. I"/>
+                                        <date/>
+                                        <citedRange>74/27</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <term>Prin dinadins</term>
+                            </form>
+                            <def xml:id="uuid-d879b88e-dd0a-4bd9-85fd-e5320f4d71df"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-728e0598-fb18-4dfb-b4ab-eb48282835d9" n="◊">
+                            <def xml:id="uuid-a65093a9-c5b6-4686-bf96-ac92766666ca"/>
+                            <usg corresp="#uuid-a65093a9-c5b6-4686-bf96-ac92766666ca"><seg type="gram" rend="usg">adjectival</seg></usg>
+                            <cit type="unknown">
+                                <quote>Neascultarea dinadins a pruncilor totdeauna să se
+                                    pedepsească.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-92c986b1-5fe9-2831-9e42-342e1b5e395f"/>
+                                    <date>1835</date>
+                                    <citedRange>49/3</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-5ddf7e9d-59da-4053-9054-e9b4e9c47267">Cu un anumit
+                            scop</def>
+                        <def xml:id="uuid-fb153cc5-0bb7-4637-ab23-8609c5729416">în mod
+                            conştient</def>
+                        <xr type="syn" corresp="#uuid-fb153cc5-0bb7-4637-ab23-8609c5729416"><ptr target="intenţionat"/></xr>
+                        <xr type="syn" corresp="#uuid-fb153cc5-0bb7-4637-ab23-8609c5729416"><ptr target="înadins"/></xr>
+                        <cit type="unknown">
+                            <quote>Lucrurile, denadins care să fac, nădăjduiesc binele unii
+                                ţără.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-d5363aba-4360-98d5-4d69-90c9a2ef59ff"/>
+                                <date>1703</date>
+                                <citedRange>146</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Ca să aibă marea cu ce face clăbuci.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-93d45a85-8ab3-3547-8a89-03dc59398c70"/>
+                                <date>1970</date>
+                                <citedRange>63</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831"/>
+                                <date>1975</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8"/>
+                                <date>1975</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-b20bc80f-addc-41f6-be0b-dd58ab7f0419" n="">
+                        <def xml:id="uuid-a48fafa9-0d22-4ef3-a187-e0c70869ca39"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <def xml:id="uuid-60351929-8bdc-4a3f-8158-66fe083bfc57">dinadấns</def>
+                    <gramGrp>
+                        <pos value="adv."/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <def xml:id="uuid-5254fd6a-af44-4842-b79a-df25d4e00b3d">denadí́ns</def>
+                    <gramGrp>
+                        <pos value="adv."/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <def xml:id="uuid-93b737ca-3d57-4e7e-9a8b-9da1a9bb2bb9">dânadí́ns</def>
+                    <gramGrp>
+                        <pos value="adv."/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/>
+                    <ptr targetLang="" type="component-element" subtype="unknown" target="de"/>
+                    <ptr targetLang="" type="component-element" subtype="unknown" target="în"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="adins"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

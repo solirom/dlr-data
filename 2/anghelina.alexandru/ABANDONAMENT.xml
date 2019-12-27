@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ee4c892-a53e-4565-95b2-6aafb220ca88" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-13T12:31:29+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abandonament</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABANDONAMÉNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0d8cc031-2b4b-4a37-ab5f-72a6aa0e63b2" n="">
+						<def xml:id="uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"/>
+						<usg corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
+							<ptr target="Părăsire"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
+							<ptr target="Renunțare"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Știi d-ta ce simț io și trebuie să simtă oricine care cât de
+								puțin ș-au studiat limba istoricește? Greață! <hi rend="bold">abandonament</hi>! abandonare! etc. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
+									contem</ptr>
+								<date>1847</date>
+								<citedRange>271</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-df044fcb-cde8-4a14-805d-57bb9acb4873" n="">
+						<def xml:id="uuid-4d87653f-7920-44cc-a3f2-7b84711a89f4"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abandona"/><term xml:lang="" type="sufix" subtype="unknown">ment</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

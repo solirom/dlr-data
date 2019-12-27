@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-28287bb8-d16b-4485-97e3-6e98b92f659b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-11T09:45:19+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">aba</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f656aab8-8526-4db1-b768-93d8fdaf5dd5" n="">
+						<def xml:id="uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">În grabă,
+							repede.</def>
+						<usg corresp="#uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">
+							<seg type="geo" rend="usg">prin nord-estul Olt.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Mă silesc <hi rend="bold">aba</hi> să gat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<date>1960</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-23e7c3ea-5b8a-4dd6-ac9c-9d19d2ee0b46" n="">
+						<def xml:id="uuid-fc243b90-4d96-4711-bb41-16e50b8d8af3"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

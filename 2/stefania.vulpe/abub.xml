@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d0ad477c-6f60-42f7-bdb6-7f58a6eaa249" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-13T11:14:47+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abub</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÚB</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b16a0eb0-e505-4320-80bc-2a346cbcd77c" n="">
+						<def xml:id="uuid-4c532b64-6266-41d3-b347-89dfba546a64">Intrument muzical de
+							suflat de lemn cu ancie dublă, folosit de vechii evrei.</def>
+						<usg corresp="#uuid-4c532b64-6266-41d3-b347-89dfba546a64">
+							<seg type="dom" rend="usg">MUZ.</seg>
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8cf0fcd0-a452-015d-00ff-b9470175a5f1">muz.
+									voci</ptr>
+								<date>1898</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+									rom</ptr>
+								<date>1898</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-05ef1545-5810-0819-16fd-f012af5a8f79">D.
+									muzi</ptr>
+								<date>1927</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d093be0-363c-736d-89cc-77fa7c7e2bdb">instr</ptr>
+								<date>1999</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c69c38e4-ee26-4e52-bd00-9a018090e8a2" n="">
+						<def xml:id="uuid-3cf5e5af-60a4-4e33-ba8a-a315c049181b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def>abúd</def>
+					<bibl type="unknown">
+						<ptr target="D. Muz. Voci, I |  |  | D. Muz. Voci | I | CERNE, D. M."/>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="Enc. Rom., I |  |  | Enc. Rom. | I | ENC. ROM. | (DA) ENCICL. R. I"/>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="cuvânt.internațional"/><term xml:lang="" type="Cuv. ebr." subtype="unknown"/>
+					<note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
+						<usg/>
+						<term xml:lang="fr" type="unknown" subtype="unknown">abub</term>
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+					</note>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abud</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

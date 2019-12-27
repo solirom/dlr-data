@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bd13c2ad-20a7-4bc8-9f3e-024ca27e6f8a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T16:31:26+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abataj</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATÁJ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5d474ba5-0f1b-4206-8c20-548f9d61f9dd" n="1.">
+						<def xml:id="uuid-61497ed4-3c1d-4a59-a3d9-16937f59dd75">Operaţia de doborâre
+							a arborilor în exploatările forestiere. </def>
+						<cit type="unknown">
+							<bibl type="author-reference">
+								<author target=""/>
+							</bibl>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>România Lib. (Z.), nr. 12 826: Pe de altă parte, colectivul minei
+								a precizat că prin folosirea mai eficientă a dotării tehnice și a
+								forței de muncă se obține creșterea vitezelor de avansare în <hi rend="bold">abatajele</hi> forestiere. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-460c6cfc-5f91-5d7b-0cf6-fd580d323c17">românia</ptr>
+								<date>1968</date>
+								<citedRange>nr. 12 826</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f5eaf29b-0964-438b-8a6e-057f53b36603" n="2.">
+						<sense xml:id="uuid-bad85524-ef4d-4102-a861-fec8ffe8991b" n="">
+							<def xml:id="id">Ansamblu de operaţii făcute în abator de la
+								introducerea animalelor în sala de tăiere până la tranşarea cărnii. </def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d.
+										enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Sacrificare a vitelor la abator. </def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Programa concursului este următoarea:… Tăierea animalelor mari
+									(<hi rend="bold">abatagiul</hi>). </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+								<date>1888</date>
+								<citedRange>604</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-33c5c79f-2586-4972-8fc3-4514d9befe16" n="3.">
+						<def xml:id="id">Operaţia de înclinare a unei nave mici în vederea
+							carenării, reparării, curăţării etc.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">MAR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-197a02fc-48a2-46b1-ae4c-f764b11eeacb" n="4.">
+						<sense xml:id="uuid-cf13cc02-e9d6-400c-8b53-10a60955156f" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abataj frontal</term>
+							</form>
+							<def xml:id="id">abataj făcut pe un front foarte lung, în direcția
+								filonului. </def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-4d84c622-12ba-6c51-3595-2073843740d5">dl</ptr>
+									<date>1956</date>
+									<citedRange>s. v. <hi rend="italic">frontal</hi>. </citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-46885b91-de92-493c-919b-34dcef138000" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abataj hidraulic</term>
+							</form>
+							<def xml:id="id">abataj realizat cu jet de apă sub presiune. </def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">d.
+										ter</ptr>
+									<date>1972</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-940050a4-8088-4a50-b0fd-e64a528bc445" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Ciocan pneumatic de abataj</term>
+							</form>
+							<def xml:id="id"/>
+							<ptr type="trimitere" target="ciocan"/>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f4edc441-1c21-46d1-a24d-bbfcb00f8512" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Șantier de abataj</term>
+							</form>
+							<def xml:id="id"/>
+							<ptr type="trimitere" target="șantier"/>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Operaţia de tăiere sau de extragere a unui minereu sau a
+							unei roci dintr-un zăcământ;</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">MIN.</seg>
+						</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="ort2"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Când a introdus în <hi rend="bold">abataje</hi> mijloace
+								mecanizate și tot felul de mașini, în scurt timp s-a convins că nu
+								merge tocmai neted. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9e5b92b0-6115-9cab-5fe6-f0ae47593161">birou</ptr>
+								<date>1939</date>
+								<citedRange>168</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Este suficient să arătăm că 938 din totalul de 1 720 mine dispun
+								de mașini de <hi rend="bold">abataj</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scânteia</ptr>
+								<date>1947</date>
+								<citedRange>nr. 751</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Noua combină rezolvă problema mecanizării <hi rend="bold">abatajului</hi> și a încărcării cărbunelui în cele mai grele
+								condiții naturale de lucru. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d7a2e95-7d62-8e79-96c8-bbfd822059f7">st.
+									buc</ptr>
+								<date>1951</date>
+								<citedRange>IV, nr. 4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe Ioachim îl ştiţi şi voi, din sat e, La <hi rend="bold">abataje</hi> meşter încercat. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+									rom</ptr>
+								<date>1956</date>
+								<citedRange>septembrie, nr. 9, 21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În bazinul Jilț a fost pus în funcțiune primul <hi rend="bold">abataj</hi> conjugat. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-460c6cfc-5f91-5d7b-0cf6-fd580d323c17">românia
+									lib</ptr>
+								<date>1986</date>
+								<citedRange>nr. 12 853</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5da391cc-c80a-4790-a4cc-0fb203231f91" n="5.">
+						<sense xml:id="uuid-9bf81ba2-4c94-40df-b550-34e0369af592" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="sem" rend="usg">Fig.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Sunt la al doilea <hi rend="bold">abataj</hi> de sarmale.
+									După asta să-mi faceți coliva. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e2a14ef2-357e-1b66-783d-f75fecca450f">medeleni</ptr>
+									<date>1925</date>
+									<citedRange>197</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Alice, ce ai de spus? Fiică-ta vrea abatajuri <hi rend="bold">alcoolice</hi>? </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e2a14ef2-357e-1b66-783d-f75fecca450f">medeleni</ptr>
+									<date>1925</date>
+									<citedRange>265</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Secvență de cărți la bacara, unde cifrele însumate fac
+							nouă.</def>
+						<usg corresp="#id">(<seg type="hint" rend="usg">La jocul de
+							cărți</seg>)</usg>
+						<cit type="unknown">
+							<quote>Ai făcut <hi rend="bold">abatajul</hi> cel mare! Nouă, Iorgule,
+								strigă el cu ochii de vizionar ai jucătorilor de chemin-de-fer. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e2a14ef2-357e-1b66-783d-f75fecca450f">medeleni</ptr>
+								<date>1925</date>
+								<citedRange>192</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-296f2a85-514d-420c-9d83-66003df04fdc" n="">
+						<def xml:id="uuid-eb5fdfe9-1a6b-4911-85a5-4b48dc68d747"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abataje</number>
+					</form><form type="grammatical-information-for-plural" corresp="5">
+						<number>abatajuri</number>
+						<usg><seg type="plev" rend="usg">rar</seg></usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>abatágiu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abattage</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-936bde71-48da-15c5-8112-1320f5f07e73">marin</ptr>
+						<date>&lt;1942–1943&gt;</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown"/>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc. agr</ptr>
+						<date>1937</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72cda99f-049f-793d-922a-50c230573f13">d. tehn</ptr>
+						<date>1950</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-64d20768-8a98-34d3-08ca-3e56937c485a">d. tehn</ptr>
+						<date>1953</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">term. tehn</ptr>
+						<date>1972</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-44d323b6-7a9e-40ea-2d32-f8ded7415f28">d. marin</ptr>
+						<date>1982</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">d. enc. mar</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e2884c80-8aef-4c91-8062-754db67e1e42" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>anghelina.alexandru</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-20T09:16:59+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abager</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGÉR </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-29988005-908b-4b55-acc5-3dd665d07f2b" n="">
+						<def xml:id="uuid-5d507fdc-0cfa-4a83-a733-90047cc91884"/>
+						<usg corresp="#uuid-5d507fdc-0cfa-4a83-a733-90047cc91884">
+							<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi></seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-5d507fdc-0cfa-4a83-a733-90047cc91884">
+							<ptr target="Abagiu"/>
+						</xr>
+						<cit type="unknown">
+							<quote>[Pomelnic] Vasilie tij brat, Stan sărariul... Gligorii abăgiar...
+								Gheorghie <hi rend="bold">abăgiul</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavlescu</ptr>
+								<date>1673</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Datoria ce s-a aflat... 22 lei Mihalcii <hi rend="bold">abageriu</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2e08f22a-82d3-7adb-6043-5bac14945cb7">st.
+									doc</ptr>
+								<date>1686</date>
+								<citedRange>184</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toader <hi rend="bold">abăgeriul</hi> de Iași.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-781d7292-6fcc-054f-3162-a19d172768f0">st.
+									doc</ptr>
+								<date>1704</date>
+								<citedRange>208</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să rămâe moția de istov a <hi rend="bold">abăgerilor</hi>, să o
+								vânză, să-și scoată banii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be67a745-770f-1341-7818-7b9d999613d8">mavr</ptr>
+								<date>1742</date>
+								<citedRange>195</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Abăgerii</hi>... să nu fie volnici a vinde.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-27e15234-3edb-7949-027e-7e7bc6968e30">uricariul</ptr>
+								<date>1783</date>
+								<citedRange>41/20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fientul <hi rend="bold">abăgerilor</hi> [Titlu].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fef5c197-3783-7244-825e-b22ba6810615">uricariu</ptr>
+								<date>1792</date>
+								<citedRange>135/27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>S-au găsât breasla negustorilor <hi rend="bold">abăgeri</hi> pe
+								cari i-am primit alăturați cititori ca însăși noi, dându-le toată
+								voia și putere ca să facă această sfântă biserică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87cfd2be-a48d-2108-90dc-29385a738b83">doc.
+									bâ</ptr>
+								<date>1810</date>
+								<citedRange>192</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Supt această piatră să odihnește... soția lui Țanovici <hi rend="bold">abager</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ea099379-6c12-6e7c-6f35-78b2a4437be7">st.
+									doc</ptr>
+								<date>1843</date>
+								<citedRange>197</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>
+								<hi rend="bold">Abagerii</hi> îşi aveau isnaful la Craiova pe la
+								1800.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-69aa2bd6-3577-12e8-1f1f-f7d3eb6001c9">ist.
+									ind</ptr>
+								<date>1927</date>
+								<citedRange>128</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cea mai veche rânduială de breaslă care ni s-a păstrat în Moldova
+								este aceea a blănarilor, croitorilor, bărbiiarilor, <hi rend="bold">abăgearilor</hi> şi cojocarilor din Roman, reînnoită la 28
+								decembrie 1724.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavlescu</ptr>
+								<date>1939</date>
+								<citedRange>255</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În a doua treime a secolului al XVII-lea se diferenţiază <hi rend="bold">abagerii</hi> (abagii). Ei se întâlnesc în oraşele
+								ambelor ţări [Moldova şi Ţara Românească] şi confecţionau
+								abaua.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
+								<date>1969</date>
+								<citedRange>178</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold"/><hi rend="bold">Abager</hi>... sinonimnul
+								moldovenesc al lui abagiu... </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c0ee5868-42d2-0c4f-88dd-2225a071701e">șio</ptr>
+								<date>1900</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote><hi rend="bold">Abageriu</hi>, negustor de sumani şi de alte
+								stofe de natura abalei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b76cdbdf-889b-3c05-9dfb-a44a330a9aa5">șez</ptr>
+								<date>1893</date>
+								<citedRange>125</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5913be44-79f2-6fca-312b-6abb2b1487a5">gl.
+									ol</ptr>
+								<date>1967</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a3034cd4-2ecf-457a-84fc-cac340a4adb8" n="">
+						<def xml:id="uuid-62bf22b3-07f2-4af6-b9ff-b7222de9db18"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abageri</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<def>abăgeár</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<def>abăgér</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abagériu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<def>abăgériu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/>
+                    <term xml:lang="" type="sufix" subtype="unknown">er</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c0ee5868-42d2-0c4f-88dd-2225a071701e">șio</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">ciorănescu</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

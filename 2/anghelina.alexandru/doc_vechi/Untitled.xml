@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b1f7e548-563c-4a96-aaeb-64bb572efd4d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			<idno type="project">dlr2</idno>
+            </publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2018-10-01T12:33:38+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+					
+					
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value=""/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-29eb71d9-1eef-4ab2-87c4-2d86db7023e8" n="">
+						<sense xml:id="uuid-f3efbb13-47d6-42ca-a531-591fa5761929" n="">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>sxZFCdasfgsdsd</term>
+							</form>
+							<def xml:id="uuid-ba47708b-0115-434d-acf8-fcd34cdb7e5d"/>
+							<xr type="trimitere" corresp="">
+                                <ptr target="ascfsdsdf"/>
+                            </xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-28a2bc4a-731b-44b4-9282-d1fadddad8a1">sesns 1</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<re type="lexical-variant-section">
+							<def>var sensw 1</def>
+							<gramGrp>
+								<pos value=""/>
+							</gramGrp>
+						</re>
+					</sense>
+					<sense xml:id="uuid-a8cb12d0-de48-4875-94e5-c1296d82e1c6" n="2.">
+						<def xml:id="uuid-d8f82860-b6eb-44b4-aeca-3bd3a59ba4bc">Slujbă, funcţie, demnitate, privilegiu (acordat de un
+							suzeran ori de un înalt demnitar inferiorului său, de stăpîn slugii
+							sale).</def>
+						<cit type="unknown">
+							<quote>Aceastea grăi Tiberie de boiari: să fie in vreame multă pre
+								mesereare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-28f3d7c2-23bc-0834-5235-cdb5cfd6994a"/>
+								<date>1620</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<etym cert="high">
+							<idno type="unul.sau.mai.multe.sensuri-explicarea.sensului-cf..izvor"/>
+							<ptr targetLang="" type="unknown" subtype="unknown" target="2"/>
+							<bibl type="cf.">
+								<ptr target="#uuid-f419002b-3d97-5fc9-2997-472da5152c42"/>
+								<date>1911</date>
+								<citedRange/>
+							</bibl>
+						</etym>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6f3bcda7-bd28-4991-9a7f-594682fccda5" n="">
+						<def xml:id="uuid-4495de2b-5c66-4de8-b264-cc4f6935791f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">asd</pron>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="ro" type="unknown" subtype="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

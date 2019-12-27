@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="acesta" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2018-04-25T12:46:44+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DIMINUA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DIMINUÁ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="vb."/>
+                    <iType value="I"/>
+                    <subc value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-da50b47c-a0c5-4405-9c54-2224f6c5ae1a" n="1.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value=""/>
+                            <subc value="tranz. refl."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-5f53c952-7904-440a-a72f-412e82d698cd">A face să devină sau
+							a face să devină mai mic (<hi rend="bold">I 1</hi>)</def>
+                        <usg corresp="#uuid-5f53c952-7904-440a-a72f-412e82d698cd">
+                            <seg type="hint" rend="usg">cu sens dimensional</seg>
+                        </usg>
+                        <def xml:id="uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">a(-şi) reduce
+							proporţiile, dimensiunile</def>
+                        <xr type="syn" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                            <ptr target="a (se) mici^1^ (**1**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                            <ptr target="a (se) reduce (**II 1**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                            <ptr target="a se micşora (**I**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                            <ptr target="a (se) reduce"/>
+                        </xr>
+                        <xr type="analog" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                            <ptr target="scădea (**1**)"/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="PROT. – POP., N. D. | PROTOPOPESCU – POPESCU, N. D. I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Dumnezeu îşi diminua proporţiile, luând înfăţişarea unui om. </quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-bd05c512-8e79-951a-3bfc-6fc04cb21241"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="CADE | CADE I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-ee793814-5206-4120-bc4b-7fcb0caf8be6" n="2.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value=""/>
+                            <subc value="tranz. refl."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-a527306f-57d8-4dce-b42e-d4dbdfe3dca8">A face să devină mai mic (<hi rend="bold">IV</hi>)</def>
+                        <usg corresp="#uuid-a527306f-57d8-4dce-b42e-d4dbdfe3dca8">
+                            <seg type="hint" rend="usg">cu sens cantitativ</seg>
+                        </usg>
+                        <def xml:id="uuid-ac2e8dab-787b-4009-9484-8c0955d9d910">a (se) mici<hi rend="superscript">1</hi>
+							(), a se
+							împuţina.<hi rend="bold">3), a se reduc e (II 1), a se micşora (III</hi>
+                        </def>
+                        <xr type="analog" corresp="#uuid-ac2e8dab-787b-4009-9484-8c0955d9d910">
+                            <ptr target="scădea (**2**)"/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="PROT. – POP., N. D. | PROTOPOPESCU – POPESCU, N. D. I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Întreaga energie cuprinsă în sistemul nostru solar este o sumă
+								constantă, incapabilă de-a fi diminuată sau sporită, pururea
+								aceeaşi. </quote>
+                            <bibl type="unknown">
+                                <ptr target="EMINESCU, O. XIV | EMINESCU, Trad."/>
+                                <date/>
+                                <citedRange>32</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="ŞĂINEANU2 | ŞĂINEANU, D.2"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="TDRG (DA) TDRG | TDRG I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Fără să-ţi mai ţie socoteală că prin aceasta diminuează preţul
+								oferit de anticar. </quote>
+                            <bibl type="unknown">
+                                <ptr target="TEODOREANU, M. II (DA) I. TEODOREANU, M. II | TEODOREANU, La Medeleni II"/>
+                                <date/>
+                                <citedRange>512</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-3f49d9f0-45a9-46e6-9398-5b60b184bdf9" n="3.">
+                        <sense xml:id="uuid-331ee2b8-b6f3-4f71-a5ea-e8a3014124a9" n="◊">
+                            <def xml:id="uuid-b935859e-cc94-492f-b7db-ddffef0e2c82"/>
+                            <usg corresp="#uuid-b935859e-cc94-492f-b7db-ddffef0e2c82">
+                                <seg type="sem" rend="usg">fig.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Unde imperialismul diminuează şi formele se solidifică, viaţa
+									încetează.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-716d9123-7ae4-8fce-0340-b3fe90e472af"/>
+                                    <date/>
+                                    <citedRange>55</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Literatura şi filosofia diminuează şi toceşte acuitatea
+									oricărei suferinţe.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="ione"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value=""/>
+                            <subc value="intranz. tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-ab800592-9fd2-4572-8233-edd7c91548a6">A deveni sau a face să devină puţin intens, mai slab
+							(<hi rend="bold">10), mai scăzut (3</hi>)</def>
+                        <xr type="syn" corresp="#uuid-ab800592-9fd2-4572-8233-edd7c91548a6">
+                            <ptr target="a se mici^1^ (**4**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-ab800592-9fd2-4572-8233-edd7c91548a6">
+                            <ptr target="a se micşora (**IV**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-ab800592-9fd2-4572-8233-edd7c91548a6">
+                            <ptr target="a scădea (**5**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-ab800592-9fd2-4572-8233-edd7c91548a6">
+                            <ptr target="a slăbi (**3**)"/>
+                        </xr>
+                        <xr type="syn" corresp="#uuid-ab800592-9fd2-4572-8233-edd7c91548a6">
+                            <ptr target="a scurta (**IV**)"/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="PROT. – POP., N. D. | PROTOPOPESCU – POPESCU, N. D. I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Complicaţiunile ... au diminuat?</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-242183fe-6eb9-9889-1b36-b3ae16e522c6"/>
+                                <date/>
+                                <citedRange>554</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-e8cdc224-e29f-408f-82ae-d7accda888d4" n="4.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value=""/>
+                            <subc value="fact. tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-7fa5ceb3-d177-42b7-a55c-76a23b9c9e74">A face să devină mai puţin util, mai puţin însemnat, mai
+							puţin valoros, mai puţin necesar ori cu prestigiul ştirbit</def>
+                        <def xml:id="uuid-b381b4c0-441d-4d0b-a223-72ff3a8ece50">a face să decadă ca
+							importanţă, ca valoare etc.;</def>
+                        <def xml:id="uuid-e681cb33-300a-4315-a0da-0c8b4b76654b">a scădea
+							(<hi rend="bold">6</hi>)</def>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="PROT. – POP., N. D. | PROTOPOPESCU – POPESCU, N. D. I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote>Fără a diminua importanţa sau a tulbura fundamentul proprietăţii
+								.... protecţiunea acestui act [agrar] n-a fost suficientă fie în
+								Ulster, fie în altă provincie.</quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-e9f4b0b0-7603-71c7-482b-98afa5337d20"/>
+                                <date/>
+                                <citedRange>508</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-d0d6d95f-c8b8-488f-8f61-46bbc405c032" n="">
+                        <def xml:id="uuid-b9d66baa-21e9-4e28-a62a-2da90701ec50"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="">
+                    <pron xml:lang="ro-x-accent-lowcase-vowels">-nu-a</pron>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">diminuez</form>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <def xml:id="uuid-25f6d3f8-86b1-4ecd-8f32-1aa1d4f1e662">diminuí</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="IV"/>
+                        <subc value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <def xml:id="uuid-cd14d9aa-bae4-4223-832c-1f7b4ebb6c14">deminuí</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="IV"/>
+                        <subc value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">diminuer</term>
+                </etym>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">diminuere</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

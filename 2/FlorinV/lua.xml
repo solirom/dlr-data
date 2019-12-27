@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-938b2edc-d50b-471e-9f00-3d1ba4a42ed8" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>FlorinV</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-09-25T13:34:28+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">lua</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">lua</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="vb."/>
+                    <iType value="I"/>
+                    <subc value="tranz."/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-e6f22adb-5c8c-4121-a47b-bfc3709abe26" n="I.">
+                        <sense xml:id="uuid-0885915a-099a-423b-b2aa-5cdb99d34c66" n="1.">
+                            <def xml:id="uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">A apuca (cu mâna) pentru a ţine sau a folosi, pentru a duce cu
+                                sine sau a muta în altă parte. </def>
+                            <xr type="analog" corresp="#uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">
+                                <ptr target=" p r i n d e  (1 1)"/>
+                            </xr>
+                            <dictScrap corresp="#uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">complementul indică un obiect</dictScrap>
+                            <cit type="unknown">
+                                <quote>Luo brâul lui Pavelu şi-ş legă picioarele sale. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="COD. VOR. COD. VOR.2 | Cod. Vor. – T."/>
+                                    <date/>
+                                    <citedRange>14r/3.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-8dbe764a-21f3-4c9a-8ad8-4381d56287ea" n="◊">
+                            <def xml:id="uuid-6910d861-2777-41a1-b7d3-34d49849b685"/>
+                            <usg corresp="#uuid-6910d861-2777-41a1-b7d3-34d49849b685">
+                                <seg type="gram" rend="usg">absol.</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Nu lua! Cartea este înveninată!</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-aacc3540-a75d-8bbb-6487-6f934a44789b"/>
+                                    <date/>
+                                    <citedRange>134. </citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-72682106-1b6a-4090-b0fb-447e268894db" n="◊">
+                            <def xml:id="uuid-e0096f34-79df-4585-8ce3-546ebb2161fc"/>
+                            <usg corresp="#uuid-e0096f34-79df-4585-8ce3-546ebb2161fc">
+                                <seg type="coloc" rend="usg">cu determinări „în mână” , „în mâini” , învechit, „a mână”</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Luând în mână strugurii, storşuiu în păhar.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PALIA (1581) PO | Palia Orăştie – T."/>
+                                    <date/>
+                                    <citedRange>137/26.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-ac6ca981-00be-4341-a20c-0aa39bf46fa4" n="◊">
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term> A lua armele (în mână)</term>
+                            </form>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term> A lua armele (în mâini)</term>
+                            </form>
+                            <form type="unitate-semantică-subsumată">
+                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <term>a lua arme (asupra cuiva)</term>
+                            </form>
+                            <def xml:id="uuid-5c5f417b-bd16-44ff-8393-a2dbeecee9af">a se înarma, a se pregăti de luptă (contra cuiva). </def>
+                            <cit type="unknown">
+                                <quote>Unii dintră săcui au luat arme asupra prinţipului
+                                    Sighismundus.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-ed146fd3-0db5-45d0-829d-34456e825a4a"/>
+                                    <date/>
+                                    <citedRange>106/16.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-fef33d1e-da55-406f-b143-90b790efcb81"/>
+                        <usg corresp="#uuid-fef33d1e-da55-406f-b143-90b790efcb81">
+                            <seg type="hint" rend="usg">Predomină ideea de apucare, de ridicare, de manipulare</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-5d1386d8-9a11-4c38-8c3f-99245f22c737" n="II.">
+                        <sense xml:id="uuid-a53eaef1-30f1-4244-a932-f50894c43b98" n="1.">
+                            <def xml:id="uuid-9c54c8fd-7fa5-420c-8658-702fc4d88041">A da (ceva) la o parte, a îndepărta (de pe...); </def>
+                            <xr type="syn" corresp="#uuid-9c54c8fd-7fa5-420c-8658-702fc4d88041">
+                                <ptr target="a î n l ă t u r a "/>
+                            </xr>
+                            <def xml:id="uuid-065d8b94-ece5-4109-a7b9-d2805a29f43a">a da jos;</def>
+                            <xr type="syn" corresp="#uuid-065d8b94-ece5-4109-a7b9-d2805a29f43a">
+                                <ptr target="a coborî"/>
+                            </xr>
+                            <def xml:id="uuid-ee33f25a-30e2-4bd7-8e91-bc7d35084a17">a trage înapoi.</def>
+                            <xr type="syn" corresp="#uuid-ee33f25a-30e2-4bd7-8e91-bc7d35084a17">
+                                <ptr target="a retrage (1)."/>
+                            </xr>
+                            <usg corresp="#uuid-ee33f25a-30e2-4bd7-8e91-bc7d35084a17">
+                                <seg type="sem" rend="usg">p. ext.</seg>
+                                <seg type="plev" rend="usg">adesea</seg>
+                                <seg type="coloc" rend="usg">cu determinări care indică unde sau la cine s-a aflat iniţial obiectul</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Era peştere şi piatra zăcea spr-însa. Grăi Isus: „Luaţi
+                                    piatra! ” </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-6999b371-00a3-0906-57b2-418e3ed3771c"/>
+                                    <date/>
+                                    <citedRange>96</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-7243228e-550e-4856-b379-844d4691c55e"/>
+                        <usg corresp="#uuid-7243228e-550e-4856-b379-844d4691c55e">
+                            <seg type="hint" rend="usg">Predomină ideea de înlăturare, de scoatere</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-bddda63a-f787-44a2-aeea-9b59d2318764" n="III.">
+                        <sense xml:id="uuid-ed5afdb2-1f95-45f8-8dee-4ceef0c3f7d0" n="1.">
+                            <sense xml:id="uuid-5a4fd6d0-a6ec-4d8d-bfb0-0e48d50e21d1" n="◊">
+                                <def xml:id="uuid-a1e8e1b9-f253-4c43-a1e5-d1a6d9387dea"/>
+                                <usg corresp="#uuid-a1e8e1b9-f253-4c43-a1e5-d1a6d9387dea">
+                                    <seg type="gram" rend="usg">absol.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Mai ferice iaste mai vârtos a da decâtu a lua. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="COD. VOR. COD. VOR.2 | Cod. Vor. – T."/>
+                                        <date/>
+                                        <citedRange>12r/10. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-920ce696-b835-4a61-92bc-c1202c3ddc73" n="◊">
+                                <def xml:id="uuid-f88eb0c4-a414-472e-bbce-338b76cb63b0"/>
+                                <usg corresp="#uuid-f88eb0c4-a414-472e-bbce-338b76cb63b0">
+                                    <seg type="gram" rend="usg">refl. pas.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Carele n-are, şi ce are lua-să-va de la el. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="N. TEST. (1648) N. TEST. (1648)2 | N. Test. – T."/>
+                                        <date>1648</date>
+                                        <citedRange>45v/10. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-fae72a67-50c0-4120-af6c-13f0dc23afce" n="◊">
+                                <def xml:id="uuid-fcefdb95-0928-4948-b4fd-250fbdac3b1a"/>
+                                <dictScrap corresp="#uuid-fcefdb95-0928-4948-b4fd-250fbdac3b1a">complementul indică abstracte</dictScrap>
+                                <cit type="unknown">
+                                    <quote>Au luat darure şi bunătate de la Dumnezeu. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CORESI, EV. (DA) CORESI, E. (Cf. CORESI, EV.) | CORESI, Ev. – T."/>
+                                        <date/>
+                                        <citedRange>93</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-2860cc2c-33bd-414d-874d-085c2d95fecf" n="◊">
+                                <sense xml:id="uuid-9f0a41bb-bc29-475e-8ede-8e77b1320e59" n="a)">
+                                    <def xml:id="uuid-51e67070-9064-46b4-af1a-f093a2c27742">a deveni proprietar; a se face stăpân. </def>
+                                    <xr type="analog" corresp="#uuid-51e67070-9064-46b4-af1a-f093a2c27742">
+                                        <ptr target="stăpânire (*1*)."/>
+                                    </xr>
+                                    <cit type="unknown">
+                                        <quote>După mutarea soţii[i] meii din viiaţă, îndată va lua
+                                            şi moara în vecinica stăpâniri. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-0b483d7e-1a2c-05a9-2e6d-35c0408f2887"/>
+                                            <date>1835</date>
+                                            <citedRange>463</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-036099b5-abba-40d5-89aa-04629e4be8f4" n="b)">
+                                    <def xml:id="uuid-b4ec9900-e84b-4ada-bd6c-021505d4c7ce">a pune stăpânire pe cineva; a cuprinde, a
+                                        copleşi.</def>
+                                    <xr type="syn" corresp="#uuid-b4ec9900-e84b-4ada-bd6c-021505d4c7ce">
+                                        <ptr target="a cuprinde"/>
+                                    </xr>
+                                    <xr type="syn" corresp="#uuid-b4ec9900-e84b-4ada-bd6c-021505d4c7ce">
+                                        <ptr target="a copleşi"/>
+                                    </xr>
+                                    <dictScrap corresp="#uuid-b4ec9900-e84b-4ada-bd6c-021505d4c7ce">subiectul indică sentimente, senzaţii</dictScrap>
+                                    <cit type="unknown">
+                                        <quote>Un simţământ de neagră înstrăinare mă lua în
+                                            stăpânire.</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="BLAGA, H. BLAGA, HR. BLAGA, O. VI | BLAGA, Hron."/>
+                                            <date/>
+                                            <citedRange>73</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-d8847cd7-5695-475b-8da0-e0815c6df4a6" n="c)">
+                                    <def xml:id="uuid-37b4cc6c-6f76-47ba-8c76-4999f28ce728">a deveni dominant. </def>
+                                    <usg corresp="#uuid-37b4cc6c-6f76-47ba-8c76-4999f28ce728">
+                                        <seg type="time" rend="usg">înv.</seg> și <seg type="coloc" rend="usg">în forma a lua posesiune de ...</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Acesta e noul dogm care a luat posesiune de
+                                            societăţile regenerate. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CONV. LIT.II | Conv. Lit."/>
+                                            <date/>
+                                            <citedRange>41</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>a lua în stăpânire (ceva sau pe cineva)</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>a lua în posesiune (ceva sau pe cineva)</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>a lua întru stăpânire (ceva sau pe cineva)</term>
+                                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>a lua întru posesiune (ceva sau pe cineva)</term>
+                                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                </form>
+                                <def xml:id="uuid-635f6037-fa2a-4833-b304-fdbf5e1237f0"/>
+                                <cit type="unknown">
+                                    <quote>După mutarea soţii[i] meii din viiaţă, îndată va lua şi
+                                        moara în vecinica stăpâniri. C. giu r esc u , P. O.
+                                        463.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="c.giurescu?"/>
+                                        <date>1835</date>
+                                        <citedRange>463</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-31f193af-d71a-4c84-a4aa-06c230f39fd3" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term> A lua cu o mână şi a da cu alta </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term> A lua cu o mână şi a da cu zece</term>
+                                </form>
+                                <def xml:id="uuid-e9054de2-bb6d-494e-9143-017fcaf81add"/>
+                                <usg corresp="#uuid-e9054de2-bb6d-494e-9143-017fcaf81add">
+                                    <seg type="gram" rend="usg">absol.</seg>
+                                </usg>
+                                <xr type="trimitere" corresp="#uuid-e9054de2-bb6d-494e-9143-017fcaf81add">
+                                    <ptr target=" m â n ă 1 (1). "/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-becc7ae9-9b51-4ad2-abad-1c2c9edafe9f" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term> A lua (ceva) înapoi </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A lua (ceva) îndărăt </term>
+                                </form>
+                                <def xml:id="uuid-b1ed1fde-5a77-4443-81a4-f573e9f720a9">a retrage ceva dat, oferit, dăruit etc. </def>
+                                <cit type="unknown">
+                                    <quote>Să-i ia toată avearea înapoi, prav. 190. Mi-am luat şi eu
+                                        moşiile înapoi</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="NECULCE, L. (DA) NECULCE, CR. LET. II LET.2 II | NECULCE, Let."/>
+                                        <date/>
+                                        <citedRange>273</citedRange>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="I. GOLESCU, C. | I. GOLESCU, Cond. "/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-a036b378-1a77-44d6-9cde-87e8bdf8d9e7" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A lua caimacul</term>
+                                </form>
+                                <def xml:id="uuid-f3e48426-ce8e-4189-bcd0-1146a054e80a"/>
+                                <xr type="trimitere" corresp="#uuid-f3e48426-ce8e-4189-bcd0-1146a054e80a">
+                                    <ptr target="caimac"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-70759ee7-c2a2-4f03-bd8f-84bb81119fbe" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term> A um bla să ia două piei de pe (o) oaie </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>a lua două piei de pe o oaie</term>
+                                </form>
+                                <def xml:id="uuid-cca2a23b-5c55-46c1-b374-8838e9053796">a urmări sau a obţine un câştig exagerat. </def>
+                                <xr type="analog" corresp="#uuid-cca2a23b-5c55-46c1-b374-8838e9053796">
+                                    <ptr target="o a i e (1). "/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote>Dorinţa de a lua două piei după o oaie.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="FILIMON, O. II | FILIMON, Pub."/>
+                                        <date/>
+                                        <citedRange>7</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-cc57fdbd-6649-406a-9321-8d272aeb6d59" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A um bla după cai morţi să le ieie potcoavele </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term> A porni după cai morţi să le ieie potcoavele </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term>A căuta cai morţi să le ieie potcoavele</term>
+                                </form>
+                                <def xml:id="uuid-c24c40d6-0636-436d-9acf-8ed19900fec6">a-şi pierde vremea cu lucruri fară rost, fară importanţă
+                                    sau imposibil de găsit. </def>
+                                <xr type="analog" corresp="#uuid-c24c40d6-0636-436d-9acf-8ed19900fec6">
+                                    <ptr target="p o t c o a v ă (1). "/>
+                                </xr>
+                                <cit type="unknown">
+                                    <bibl type="author-reference">
+                                        <author/>
+                                    </bibl>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-1a3e766a-1283-4ae5-b0f4-72a3028de602" n="♦">
+                                <def xml:id="uuid-6bf6ca5c-cd64-4999-ae72-ccbc45cef322">A ajunge în mâna destinatarului; </def>
+                                <xr type="syn" corresp="#uuid-6bf6ca5c-cd64-4999-ae72-ccbc45cef322">
+                                    <ptr target="a primi (I I ) . "/>
+                                </xr>
+                                <usg corresp="#uuid-6bf6ca5c-cd64-4999-ae72-ccbc45cef322">
+                                    <seg type="sem" rend="usg">spec.</seg>
+                                    <seg type="time" rend="usg">înv.</seg>; complementul indică scrisori</usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-390479e4-20b5-424e-a534-cb3bc53285c7">A intra în posesia sau în folosinţa sa..., a obţine (în
+                                stăpânire, în folosinţă); </def>
+                            <xr type="syn" corresp="#uuid-390479e4-20b5-424e-a534-cb3bc53285c7">
+                                <ptr target="a căpăta"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-390479e4-20b5-424e-a534-cb3bc53285c7">
+                                <ptr target="a primi (I 1)."/>
+                            </xr>
+                            <def xml:id="uuid-cf7ea691-d93e-4e43-b6c6-1ab5ace8af26">a accepta să intre în posesia... ori să folosească</def>
+                            <usg corresp="#uuid-cf7ea691-d93e-4e43-b6c6-1ab5ace8af26">
+                                <seg type="sem" rend="usg">p. ext.</seg> complementul indică ceea ce îi aparţine sau i se cuvine subiectului ori care îi este dăruit, oferit, trimis etc.</usg>
+                            <cit type="unknown">
+                                <quote>Caută la mine ce iaste al tău şi-l ia.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PALIA (1581) PO | Palia Orăştie – T."/>
+                                    <date/>
+                                    <citedRange>107/12.</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>De să vor da banii păn’ la anul..., s[ă] aibă aş lua locul. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-52716dbc-2c6c-7ce4-52d1-e548e1f75613"/>
+                                    <date>1611</date>
+                                    <citedRange>1</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d43befdc-0d54-49e8-8769-65470dc1672d" n="2.">
+                            <sense xml:id="uuid-2c4fc7cb-6a64-48af-82a4-db705534c860" n="◊">
+                                <def xml:id="uuid-5a69b3db-52c8-4caa-aad1-e613c3c1575f"/>
+                                <dictScrap corresp="#uuid-5a69b3db-52c8-4caa-aad1-e613c3c1575f">complementul indică abstracte</dictScrap>
+                                <cit type="unknown">
+                                    <quote> Luă prilej.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="NEGRUZZI, B. NEGRUZZI, O. II NEGRUZZI, S. II | NEGRUZZI, Balade – T."/>
+                                        <date/>
+                                        <citedRange>155</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-ee4bd400-a742-4aa0-8884-74379c7172cb" n="◊">
+                                <def xml:id="uuid-bac78973-6fd8-4986-8a97-d9697d8aeb1e"/>
+                                <usg corresp="#uuid-bac78973-6fd8-4986-8a97-d9697d8aeb1e">
+                                    <seg type="gram" rend="usg">refl. pas.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Nu sunt lucruri ce se produc unde vroieşte cineva, ci ele
+                                        se ieu de unde s-au produs. CONV. lit . vi, 70. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="CONV. LIT.VII | Conv. Lit."/>
+                                        <date/>
+                                        <citedRange>70</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-19e0e9ea-5ba2-4761-9c46-39f7ff748ba8" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term> A nu şti de unde să iei pe (cineva) </term>
+                                </form>
+                                <def xml:id="uuid-9d7972f3-6a0e-475f-aa09-5086558f8351">a nu-şi aduce aminte în ce împrejurări ai cunoscut pe
+                                    cineva. </def>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="DL | DL III"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5d77fd50-ee54-40f2-878c-591efbf0a808" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term> Ia, dacă ai de unde </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term> ia(-l) de unde nu e (ori nu-i)</term>
+                                </form>
+                                <def xml:id="uuid-890649a4-454e-47d8-81a5-b161f551700a">se spune despre cineva (sau despre ceva) care nu se mai
+                                    găseşte acolo unde era mai înainte, care este de negăsit. </def>
+                                <xr type="analog" corresp="#uuid-890649a4-454e-47d8-81a5-b161f551700a">
+                                    <ptr target=" un d e ( I 1 ) ."/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="cf.">
+                                        <ptr target="TDRG (DA) TDRG | TDRG II"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-0d49c00f-7068-436a-bbcc-8883d4ae36eb" n="◊">
+                                <usg corresp="#uuid-0d49c00f-7068-436a-bbcc-8883d4ae36eb">
+                                    <seg type="gram" rend="usg">refl. pas.</seg>
+                                </usg>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term> Nici asta nu se ia din drum </term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <term> Asta nu se ia din drum </term>
+                                </form>
+                                <def xml:id="uuid-8182b386-f20c-46fa-85c0-052e7effc375"/>
+                                <xr type="trimitere" corresp="#uuid-8182b386-f20c-46fa-85c0-052e7effc375">
+                                    <ptr target="drum"/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-8b204ebb-8fd6-41ed-b54b-1c8c1f6742d1"> A-şi face rost de ceva, a-şi procura (ceva); a găsi (pe
+                                cineva sau ceva). </def>
+                            <cit type="unknown">
+                                <quote>De unde erai să le iei tu toate aceste, să f i fost în locul
+                                    lui Robinson? </quote>
+                                <bibl type="unknown">
+                                    <ptr target="DRĂGHICI, R. | DRĂGHICI, Robinson – T. I"/>
+                                    <date/>
+                                    <citedRange>45/9.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-4239f5a4-0b02-4803-a2c6-31c8a3241922" n="3.">
+                            <sense xml:id="uuid-a4201783-7a36-4d3a-8560-32b2ac7ed238" n="◊">
+                                <def xml:id="uuid-a93847d6-20e6-4363-afd6-9bbaa35ce47d"/>
+                                <usg corresp="#uuid-a93847d6-20e6-4363-afd6-9bbaa35ce47d">
+                                    <seg type="gram" rend="usg">absol.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-da8d7da7-17eb-4b90-b9ec-8657620e531f" n="♦">
+                                <def xml:id="uuid-661c554c-c12b-4786-b7e7-2fbcd9f90566"> A obţine de la cineva (un bun) fară despăgubire, pe
+                                    temeiul unei hotă râri judecătoreşti sau în urma dispoziţiei
+                                    unei autorităţi; </def>
+                                <xr type="syn" corresp="#uuid-661c554c-c12b-4786-b7e7-2fbcd9f90566">
+                                    <ptr target="a confisca"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-661c554c-c12b-4786-b7e7-2fbcd9f90566">
+                                    <ptr target="a rechiziţiona"/>
+                                </xr>
+                                <def xml:id="uuid-b7a67a5e-65f3-4c37-8db5-6a01bdcb9168">a pune sub sechestru;</def>
+                                <xr type="syn" corresp="#uuid-b7a67a5e-65f3-4c37-8db5-6a01bdcb9168">
+                                    <ptr target="a sechestra"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-b7a67a5e-65f3-4c37-8db5-6a01bdcb9168">
+                                    <ptr target="a popri (1)"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-b7a67a5e-65f3-4c37-8db5-6a01bdcb9168">
+                                    <ptr target="a zeberli"/>
+                                </xr>
+                                <def xml:id="uuid-2954d12e-d76c-4bdd-92db-91fe286999f7">a trece din proprietatea particulară în proprietatea
+                                    statului.</def>
+                                <xr type="syn" corresp="#uuid-2954d12e-d76c-4bdd-92db-91fe286999f7">
+                                    <ptr target="a etatiza"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-2954d12e-d76c-4bdd-92db-91fe286999f7">
+                                    <ptr target="a naţionaliza (2)."/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-2125b4dd-446c-45a7-8981-dce0c8836f72">A intra în posesia unui lucru plătind contravaloarea lui în
+                                bani </def>
+                            <xr type="syn" corresp="#uuid-2125b4dd-446c-45a7-8981-dce0c8836f72">
+                                <ptr target="a cumpăra"/>
+                            </xr>
+                            <xr type="analog" corresp="#uuid-2125b4dd-446c-45a7-8981-dce0c8836f72">
+                                <ptr target="târgui (2)."/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-b5a81e87-ce57-4a76-882c-0055c2db207d"/>
+                        <usg corresp="#uuid-b5a81e87-ce57-4a76-882c-0055c2db207d">
+                            <seg type="hint" rend="usg">Predomină ideea dobândirii prin bună înţelegere</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-c483c710-965a-48e4-837b-32b749eaf363" n="">
+                        <def xml:id="uuid-e1dc850f-9ec7-4ec1-94ca-6dbd7639b134"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-b8f3febb-cdad-4032-a495-614d8ee9577d" n="">
+                        <def xml:id="uuid-19a4327e-bf07-4b71-8293-b742660eb055"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="bisyllabic">
+                    <pRef xml:lang="ro-x-accent-lowcase-vowels"> lu-a</pRef>
+                    <pRef xml:lang="ro-x-accent-lowcase-vowels">lua</pRef>
+                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                </form>
+                <form type="writing">
+                    <oVar>luoa</oVar>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> iau </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ieu</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> iei </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">iai</form>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> ia </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ie</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> luăm </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luom</form>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 5"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> luaţi</form>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> iau </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 6"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ieu</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> luai</form>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luă </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="perf. s."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luo</form>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luasem</form>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luaseşi </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="m. m. perf."/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luasei</form>
+                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> să iau </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ieu</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> să iei </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value=""/>
+                        <tns value=""/>
+                        <per value=""/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să iai</form>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> să ia </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să iaie</form>
+                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ieie</form>
+                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ie</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să luăm</form>
+                    </form>
+                    <form type="grammatical-information-for-verb">
+                        <mood value="conjunct."/>
+                        <tns value=""/>
+                        <per value="pers. 4"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să luom</form>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="imper."/>
+                        <tns value=""/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> ia </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="imper."/>
+                        <tns value=""/>
+                        <per value="pers. 2"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ie</form>
+                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="part."/>
+                        <tns value=""/>
+                        <per value=""/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luat</form>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ger."/>
+                        <tns value=""/>
+                        <per value=""/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> luând </form>
+                    </form>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ger."/>
+                        <tns value=""/>
+                        <per value=""/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luund</form>
+                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-2e857ba4-c754-498e-a784-1fadf19363b0"> loá</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="I"/>
+                        <subc value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    <form type="grammatical-information">
+                        <idno type="grammatical-information-type-for-vb"/>
+                        <form type="grammatical-information-for-verb" corresp="">
+                            <mood value="ind."/>
+                            <tns value="prez."/>
+                            <per value="pers. 4"/>
+                            <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">lom</form>
+                        </form>
+                        <form type="grammatical-information-for-verb" corresp="">
+                            <mood value="part."/>
+                            <tns value=""/>
+                            <per value=""/>
+                            <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"> lot </form>
+                            <bibl type="unknown">
+                                <ptr target="LM"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                            <bibl type="unknown">
+                                <ptr target="VICIU, GL."/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </form>
+                    </form>
+                    <bibl type="unknown">
+                        <ptr target="ALR II "/>
+                        <date/>
+                        <citedRange>4 220/762</citedRange>
+                    </bibl>
+                </re>
+                <etym cert="high">
+                    <idno type="element.moştenit-etimon.atestat"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">levare</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

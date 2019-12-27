@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8a78b11d-6723-4334-9862-2fde730826fc" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-13T15:33:43+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abandonat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABANDONÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3d8495bc-09d0-400d-8848-c1e99883c9bf" n="">
+						<sense xml:id="uuid-79172d68-7eb8-48bf-9e02-9b28dc7bf3c6" n="✦">
+							<def xml:id="id">Care a fost părăsit de cel care avea obligația de
+								întreținere</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">JUR.</seg> (<seg type="hint" rend="usg">Despre copii, familie, persoane
+									asistate</seg>)</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="lepădat2 (4)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Sau, în alte cazuri... [femeile] se consacră operelor de
+									binefacere întemeiând leagăne și orfelinate, pentru copiii <hi rend="bold">abandonați</hi> sau rămași fără părinți.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">geneza</ptr>
+									<date>1934</date>
+									<citedRange>81</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fosta copilă <hi rend="bold">abandonată</hi> are un martor
+									preţios.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d10a0f39-8305-9743-2116-61ab2dcc4e0c">tablete</ptr>
+									<date>1947</date>
+									<citedRange>337</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Apoi începu să geamă, asemenea unui copil <hi rend="bold">abandonat</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+										rom</ptr>
+									<date>1950</date>
+									<citedRange>aprilie, nr. 4, 192</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dar cum mai departe nu va mai scoate niciun cuvânt, se va
+									crede că este un copil <hi rend="bold">abandonat</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23">adame</ptr>
+									<date>1997 (1983)</date>
+									<citedRange>124</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Căminele deveniră lagăre de concentrare ale copiilor <hi rend="bold">abandonaţi</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">orbitor</ptr>
+									<date>2007</date>
+									<citedRange>283</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-c30c816d-1ed3-4595-87f7-018fa262441b" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Într-o asemenea împrejurare viața este o pedeapsă nesuferită
+									și <hi rend="bold">abandonatul</hi> numai în moarte vede
+									scăparea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8859d686-02d9-1af6-a435-e697172364ea">vlăsia</ptr>
+									<date>1887</date>
+									<citedRange>342</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Treci dintr-odată de la veghea autoprotectoare, de la
+									(relativul) „control” al situaţiei, la o condiţie de <hi rend="bold">abandonat</hi>, de obiect inconştient.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">îngeri</ptr>
+									<date>2003</date>
+									<citedRange>95</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-5a4cf4aa-21f4-402b-8e54-a735a584081c">Care a fost părăsit,
+							lăsat deoparte;</def>
+						<def xml:id="uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">la care s-a
+							renunțat;</def>
+						<xr type="syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
+							<ptr target="lepădat2 (I)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acele mătăsuri și catifele <hi rend="bold">abandonate</hi>... el
+								[Rembrandt] le-a fixat ades într-o strălucire de veșnicie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-46684159-91f0-24df-285e-15a3de7b0c95">olanda</ptr>
+								<date>1928</date>
+								<citedRange>233</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am pierdut substanțialitatea, acel ireductibil care-mi dădea
+								proeminență și contur, care mă făcea să mă cutremur în fața lumii,
+								simțindu-mă <hi rend="bold">abandonat</hi> și părăsit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-75a42ba7-3198-6544-1c67-1adb315a9cfa">amăgiri</ptr>
+								<date>1936</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ajungi... pe drumuri râpoase și cu podurile abandonate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f2f9ee56-5823-006b-3b81-e5fc3657080e">sadoveanu</ptr>
+								<date>1939</date>
+								<citedRange>307</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>M-am obișnuit cu starea fizică a lor, cu pielea lor rece și
+								vânătă,... cu membrele <hi rend="bold">abandonate</hi>: parcă nu le
+								era rușine că sunt morți.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7931e50-6ea7-68c9-5d26-1a13d7309c95">regală</ptr>
+								<date>1973</date>
+								<citedRange>194</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În Germania, pământurile <hi rend="bold">abandonate</hi> erau
+								acum recuperate şi destinate păşunatului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+								<date>1994</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A[buz] de d[rept] p[rocesual] prezintă două laturi şi anume: una
+								de natură su¬biectivă constând in exercitarea dreptului cu
+								rea-credinţă fie în scopul de a-l şicana pe adversar, fie deliberat
+								în vederea constrângerii acestuia la anumite concesii sau chiar la
+									<hi rend="bold">abandonarea</hi> dreptului său.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr.
+									priv</ptr>
+								<date>1997</date>
+								<citedRange>2</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-50dd094b-6bac-4491-b389-3c5e547e34e6" n="">
+						<def xml:id="uuid-c00ab79c-c138-4e30-87cc-a6c075e36100"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abandonaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7d405e33-f7ce-4520-9e23-0de3c1ed4af4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-11T14:48:36+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abalienațiune</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABALIENAȚIÚNE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-38c913f4-7354-4c7e-95d7-9de7feb700cb" n="">
+						<def xml:id="uuid-b99e4db5-47e6-4461-9bad-3cecf7a5addb">Înstrăinare</def>
+						<usg corresp="#uuid-b99e4db5-47e6-4461-9bad-3cecf7a5addb">
+							<seg type="dom" rend="usg">JUR.</seg>
+							<seg type="time" rend="usg">Ieșit din uz</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+								<date>1939</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-281e34b6-a8fb-48df-94a7-261a2eaeaa17" n="">
+						<def xml:id="uuid-97ce4c81-2441-4f71-b740-206d2a2d214b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abalienatio, -onis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange>s. v. <hi rend="italic">aliena</hi>. </citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

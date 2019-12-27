@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c08a1b8c-e1dd-4754-ade7-452273c21f34" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Maria.Stefanescu</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-08-22T21:54:22+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">FALACIÓS, -OÁSĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e8ac8c5b-7217-4c59-aad0-3388e0e29c34" n="">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="adv."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-e43578e5-9c75-4ca8-8cd6-01007f17a4bf">Înșelător,
+							amăgitor.</def>
+						<usg corresp="#uuid-e43578e5-9c75-4ca8-8cd6-01007f17a4bf"><seg type="register style" rend="usg"/>Livresc</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="cf.">
+								<ptr target="#uuid-75be852d-6861-786f-67aa-0b89598b3bb0">DA</ptr>
+								<date>1940</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Determinați de o natură falacioasă, unii îl urau.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">ARGHEZI</ptr>
+								<date>1942</date>
+								<citedRange>165</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Imagini instabile, falacioase, multiplicate la infinit,
+								reflectate una în alta.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6e41edf3-611a-6559-7053-a43b025f0a76">MARINO</ptr>
+								<date>1973</date>
+								<citedRange>229</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Argumentul… că cititorii își smulg cărțile lui din mână… este
+								falacios şi se bazează pe confuzia valorii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">ROMÂNIA
+									LITERARĂ</ptr>
+								<date>1983</date>
+								<citedRange>nr. 33, 9/3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Al treilea mod de lectură, care îi va apărea aristotelicului ca
+								falacios și contraproductiv cultural,… îl va încânta și pe neofit,
+								și pe savant.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">SCL</ptr>
+								<date>2000</date>
+								<citedRange>313</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="cf.">
+								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">MDN</ptr>
+								<date>2002</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-cbb22928-7d33-45c5-87f8-60798d0da329" n="">
+						<def xml:id="uuid-b72185c7-491c-4061-8f32-d74195f808f0"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels"> -ci-os.</pron>
+				</form>
+				<etym cert="high">
+					<idno type="Din fr. fallacieux."/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

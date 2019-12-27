@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-97ba2128-d6bc-4060-921a-ea282a56b093" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T11:00:23+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absurdist</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSURDÍST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8477d69d-4949-4903-9a39-e3458afd0803" n="1.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-9f320d87-946d-4518-b3d4-bc65615ee97b">Care privește
+							caracterul absurd al unei concepții, teorii etc.;</def>
+						<def xml:id="uuid-7d67b0ca-4171-4126-ac49-5bc0fe4573df">care aparține unei
+							astfel de concepții, teorii etc.</def>
+						<cit type="unknown">
+							<quote>Ne-am oprit mai mult la teoria „<hi rend="bold">absurdistă</hi>”
+								a lui Camus nu pentru originalitatea ei paradoxală, ci dimpotrivă
+								pentru caracterul ei tipic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc1915c-3c10-2376-67dc-daa484c971c8"/>
+								<date>1960 (†) </date>
+								<citedRange>271</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru că în mod curent scriitorul român are rareori darul
+								viziunilor mai teoretice, încercările de esenţializare, de enigmă,
+								de simbol şi cod, deseori pe calea manierelor <hi rend="bold">absurdiste</hi> moderne, sună încă foarte fals. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1969</date>
+								<citedRange>noiembrie, 98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acest tip de atmosferă fantastică se învecinează atât de bine cu
+								literatura <hi rend="bold">absurdistă</hi> încât nu mai suntem prea
+								siguri de identitatea ei. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1970</date>
+								<citedRange>februarie, 102</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-6f8e588f-506c-4760-a35a-f931916e0d46" n="2.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-e8b6568f-2972-4897-917f-366dfb8266cb">Adept al filosofiei
+							sau al literaturii absurdului. </def>
+						<cit type="unknown">
+							<quote>Până și pesimiștii – Shopenhauer, Nirvana budhistă – și <hi rend="bold">absurdiștii</hi> – Sartre, Camus – au ajuns să
+								schițeze o concepție filozofică, prin care să se liniștească. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c18dd4f6-8d4d-2285-7f39-8702f0474882"/>
+								<date>1974</date>
+								<citedRange>131</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6f4c2b82-8bc7-4329-a831-bcf3b2e9bf30" n="">
+						<def xml:id="uuid-6b32802d-ee6b-40e2-a8b8-2609d6eff720"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absurdiști, -ste</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absurdiste</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

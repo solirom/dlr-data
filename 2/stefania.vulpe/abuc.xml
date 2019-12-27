@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a19c8d59-8c14-4be5-9ebd-3f59853aa357" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T11:40:06+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuc</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÚC </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-fcd569f2-ffe7-4d0c-a6da-7880f1ffd168" n="">
+						<def xml:id="uuid-982fd587-0424-4a26-b5be-7cb07e178701"/>
+						<usg corresp="#uuid-982fd587-0424-4a26-b5be-7cb07e178701">
+							<seg type="geo" rend="usg">Ban.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-982fd587-0424-4a26-b5be-7cb07e178701">
+							<ptr target="moale"/>
+						</xr>
+						<def xml:id="uuid-2c954152-d9de-4ca1-8ad2-c913563e5cf2"/>
+						<xr type="syn" corresp="#uuid-2c954152-d9de-4ca1-8ad2-c913563e5cf2">
+							<ptr target="înfoiat"/>
+						</xr>
+						<def xml:id="uuid-2e0e64f9-0810-4305-9aa7-dec6be9c59ad"/>
+						<xr type="syn" corresp="#uuid-2e0e64f9-0810-4305-9aa7-dec6be9c59ad">
+							<ptr target="umflat"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5bfe12de-4adc-58fc-2a56-cbac68630e47"/>
+								<date>1924</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>E prea <hi rend="bold">abuc </hi>deasupra.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ad53b0b2-88f1-811e-5fe7-8de469b28c13"/>
+								<date>1926</date>
+								<citedRange>54</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-3f3dcf1c-8fae-456f-888a-294c0342f661" n="">
+						<def xml:id="uuid-0112cd4d-265d-42ef-af49-7c2093f0e0d0"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

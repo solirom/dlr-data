@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e663464a-5d75-4240-982c-d34eba09b714" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-11T14:18:44+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absurd</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSÚRD</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1a034bf8-35d0-4ce7-93e4-cf636e716e2f" n="1.">
+						<sense xml:id="uuid-ee28bea3-be3c-482d-b76c-2950c8b97df2" n="◊">
+							<def xml:id="uuid-c6d3ef78-5b12-4307-a14b-45f3bacb379b"/>
+							<usg corresp="#uuid-c6d3ef78-5b12-4307-a14b-45f3bacb379b"> (<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+							<cit type="unknown">
+								<quote>Este <hi rend="bold">absurd</hi> să socotească cineva că un
+									organ sănătos ar avea facultatea a se bolnăvi. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081"/>
+									<date>1852</date>
+									<citedRange>17/6</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această narațiune încă sună nu numai fabulos, dar și <hi rend="bold">absurd</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e"/>
+									<date>1873</date>
+									<citedRange>134</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În adevăr, ar fi <hi rend="bold">absurd </hi>de a admite că
+									în sufletul nostru se găseşte facultatea de a „conserva” prin
+									„un organ material” … impresiile primite chiar numai odată de
+									acest organ.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">fatal</ptr>
+									<date>&lt;1875–1876&gt;</date>
+									<citedRange>52</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Românii din Ungaria …ar fi rămas de-o parte, meniți – nu de a
+									fi absorbiți, căci e de-a dreptul <hi rend="bold">absurd</hi> de
+									a crede în puterea asimilătoare a neamului fino-tartaric din
+									mijlocul Europei. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37"/>
+									<date>1876</date>
+									<citedRange>251</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>A fugi de influenţa lui Eminescu în acest sens ar fi tot aşa
+									de <hi rend="bold">absurd</hi> ca a fugi de limba românească. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-deb6a4cd-354c-38b5-69e5-77e7a13d9b1d"/>
+									<date>1890</date>
+									<citedRange>149</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ar fi <hi rend="bold">absurd </hi>să dea pentru teatru doi
+									franci la birjă!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0f8d87ce-0ebb-9df5-4927-8bd1304d58a8">caragiale</ptr>
+									<date>1898</date>
+									<citedRange>849</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eu cred că aş începe să număr, să tot număr în chip <hi rend="bold">absurd</hi>, cum fac noaptea ca să-mi vie
+									somnul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9bd2aa1d-5a70-6568-5680-64e7ecf12ba1"/>
+									<date>1925</date>
+									<citedRange>223</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sentimentul plecării copleșea <hi rend="bold">absurd</hi> pe
+									cel al sosirii. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-97236ad0-8dec-2f03-0ef7-e01e03cf4b59"/>
+									<date>1927</date>
+									<citedRange>81</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ce <hi rend="bold">absurd</hi> ar fi însă ca șahiștii să lege
+									mersul planetelor sau euforia cosmică de o mișcare a pionilor
+									sau chiar a reginei!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd"/>
+									<date>1933</date>
+									<citedRange>60</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mai ales pentru expunere de doctrină, această procedare
+									catehismatică [din dialogurile platonice] formează o diversiune
+									de tot copilăroasă care plictisește <hi rend="bold">absurd</hi>
+									atenția.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee"/>
+									<date>1934</date>
+									<citedRange>345</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>E <hi rend="bold">absurd</hi> să izolezi spiritul de materie,
+									închizându-l într-o celulă dinlăuntrul, cum face protestantismul
+									cu sectele lui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f0d968d0-563c-3021-a42f-3768d94e3a4a"/>
+									<date>1939</date>
+									<citedRange>138</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Totul era dat peste cap în mod <hi rend="bold">absurd</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+									<date>1958</date>
+									<citedRange>septembrie, 16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Și el se mișca <hi rend="bold">absurd</hi> … vorbele sale
+									sunt țepene, goale de sensuri, sensurile le-au fost răpite
+									într-o bătălie fantastică. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1f71a4a5-3282-14ca-269e-a4225eea48d5"/>
+									<date>1967</date>
+									<citedRange>36</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ce mult a putut să-l iubească [ea], dacă și-acum, după
+									cincizeci de ani de când a murit, încă mai speră, nedeslușit și
+										<hi rend="bold">absurd</hi>, că el ar putea să se
+									întoarcă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23"/>
+									<date>1997 (1983) </date>
+									<citedRange>64</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În acest moment cultura este minimalizată, nedreptăţită sau
+									chiar sacrificată <hi rend="bold">absurd</hi> pe altarul unor
+									interese trecătoare, politice în mod deosebit. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-83876daa-9c3a-8bba-7d15-045839494cde"/>
+									<date>1998</date>
+									<citedRange>29</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Înaintau fără să ştie spre ce, <hi rend="bold">absurd</hi>,
+									ca un animal care-ar avea toate organele de simţ în partea
+									dinapoi şi şi-ar privi la nesfârşit dâra de bale lăsată în urmă. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7"/>
+									<date>2007</date>
+									<citedRange>10</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-e9671d1b-2657-4282-ac0a-2ba355fe63ff" n="✦">
+							<def xml:id="id">Care este lipsit de judecată, de pricepere, care
+								acționează contrar uzanțelor, normelor considerate raționale.</def>
+							<usg corresp="#id"><seg type="sem" rend="usg">P. ext.</seg> (<seg type="hint" rend="usg">Despre oameni</seg>)</usg>
+							<cit type="unknown">
+								<quote>Şi, ca să vezi că nu-s nici pornit şi nici <hi rend="bold">absurd</hi>, îţi voi adăoga că Miron Iuga e mai de treabă
+									decât cei mai mulţi alţii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">răsc</ptr>
+									<date>1932</date>
+									<citedRange>94</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-b53b1c2f-385c-4a29-8850-03238f73a170">Care contrazice
+							logica, rațiunea;</def>
+						<def xml:id="uuid-e4715ddc-1628-4907-b4b3-fda3484ae02d">care nesocotește
+							legile naturii și ale societății, contrar bunului-simț;</def>
+						<xr type="syn" corresp="#uuid-b53b1c2f-385c-4a29-8850-03238f73a170">
+							<ptr target="irațional"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b53b1c2f-385c-4a29-8850-03238f73a170">
+							<ptr target="aberant"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b53b1c2f-385c-4a29-8850-03238f73a170">
+							<ptr target="stupid (2)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b53b1c2f-385c-4a29-8850-03238f73a170">
+							<ptr target="ilogic"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b53b1c2f-385c-4a29-8850-03238f73a170">
+							<ptr target="netrebnic (1)"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>De va fi de la altul făcut, atunci D[u]mnezeu e lucru făcut, nu e
+								D[u]mnezeu, iară de s-au făcut el pre sine atunci deodată au fost și
+								n-au fost. Au fost ca de n-ar fi fost nu s-ar fi putut face pre
+								sine, n-au fost că s-au făcut și înainte de ce s-a făcut cum au
+								putut să fie. Amândoao aceastea sânt <hi rend="bold">absurde</hi>,
+								cu neputință. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc53d2b8-05e5-0287-4ddd-e7fdc2d30b7f"/>
+								<date>1799</date>
+								<citedRange>153/9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Unii... în cap le-au înrădăcinat, măcar de-ar fi... pline de
+								cuvinte protivnice, şi, pre scurt să zicem, <hi rend="bold">absurde</hi> (netreabnice).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e29b5ac6-1164-7fd7-4e0e-4278e1375bed"/>
+								<date>1814</date>
+								<citedRange>114</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trei cronicari ... adoptară o fabulă <hi rend="bold">absurdă</hi>, cum că coloniștii din aceste țări ar fi fost tâlhari
+								scoși din temnițele Romei. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd4fa00e-a624-5970-8c5f-3673e1be2c56"/>
+								<date>1847</date>
+								<citedRange>185</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>S-au scos mai multe copii … destinate să servească drept bază la
+								unele interpretări <hi rend="bold">absurde</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2b890810-115d-5a0d-159e-f9f3733c9b85"/>
+								<date>1850</date>
+								<citedRange>165</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Legile lui Solon despre muieri sunt foarte <hi rend="bold">absurde</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419"/>
+								<date>1857</date>
+								<citedRange>232/17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Zenone se adoperă ca să combată argumentele realismului în contra
+								sistemei eleatice, precum se desvoltase aceasta specialmente de
+								Parmenide, arătând că acele duc la consecuțiuni <hi rend="bold">absurde</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870"/>
+								<date>c. 1863</date>
+								<citedRange>102</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În locul acestui mechanism <hi rend="bold">absurd</hi> am arătat
+								... prin simpla reflecțiune, pentru ce d. e. la figura I nu pot fi
+								valabile decât cele 4 moduri arătate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b6db8041-784b-a5c7-3bb4-2678667c948b"/>
+								<date>1876 (1898) </date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ei nu înșir decât fraze goale, sforăitoare, banale … ce face ca
+								vorbele să nu fie decât zise. Aceasta nu mai e decât o elocvență
+								confuză și <hi rend="bold">absurdă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1f749326-1575-9c1d-40af-2e7304de6e1b"/>
+								<date>1899</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Exemplul d-lui Panu a fost luat ... ca să dovedească că pripa în
+								adaptațiune este imposibilă și <hi rend="bold">absurdă</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bf779331-7a1f-491d-1ee3-ed783e022073"/>
+								<date>1900</date>
+								<citedRange>523</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cele mai naive legende serveau ca material pentru susținerea
+								celor mai <hi rend="bold">absurde</hi> teorii. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-40ed1acb-573e-1f08-15db-6f9db7bf44f4"/>
+								<date>1904</date>
+								<citedRange>32</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sub ochiul ei batjocoritor și cu memoria prodigioasă întotdeauna
+								trează, surprindeam <hi rend="bold">absurde</hi>, mediocre sau false
+								aprecieri semnate de competenți iluștri. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-62e51d67-407a-1672-9361-1ed7dccc1945"/>
+								<date>1930</date>
+								<citedRange>96</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru a parveni nu ți se cere decât dorința puternică de a
+								parveni. Ți se cere să fii stăpânit de o pasiune <hi rend="bold">absurdă</hi>, ridiculă și integrală pentru ceea ce este
+								exterior, inesențial.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd"/>
+								<date>1935</date>
+								<citedRange>9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vorbind despre <hi rend="bold">absurda</hi> idee a superiorităţii
+								unei rase asupra celorlalte, marele scriitor [Gorki] arată esenţa
+								retrogradă a fascismului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1952</date>
+								<citedRange>iulie, 241</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată în ce atmosferă <hi rend="bold">absurdă</hi> apare femeia
+								bacoviană. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-725668dc-7afb-81ef-4563-55b2e84a8483"/>
+								<date>1966</date>
+								<citedRange>145</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Oricare ar fi fost cauza supărării, era <hi rend="bold">absurdă</hi> și de altfel știa instinctiv că bătrâna … nici nu
+								i-ar fi mărturisit-o lămurit. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65"/>
+								<date>1970</date>
+								<citedRange>80</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Firește, din punctul de vedere al autismului, perspectiva morții
+								este insuportabilă și <hi rend="bold">absurdă</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2"/>
+								<date>1978</date>
+								<citedRange>118</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din Antichitate s-a observat că elementul incomprehensibil, <hi rend="bold">absurd</hi>, chiar scandalos, din mit îi cuprinde
+								semnificația cea mai adâncă. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99"/>
+								<date>1984 (†) </date>
+								<citedRange>142</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lacrima lor e amestecată cu râsul, veselia lor fiind o formă a
+								sentimentului <hi rend="bold">absurd</hi> și tragic al
+								existenței.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82"/>
+								<date>1992</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Spiritul contemporan s-a pomenit totodată în stare să accepte o
+								seamă de idei <hi rend="bold">absurde</hi> faţă de care a fost multă
+								vreme refractar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a"/>
+								<date>2001</date>
+								<citedRange>277</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5ffa3372-78a5-41a7-9f69-56f8fb277393" n="2. ">
+						<sense xml:id="uuid-f6730fca-d91c-4a75-9368-07f3bda59b12" n="◊">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">LOG.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Reducere la absurd</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">LOG.</seg>
+									<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Ducere la absurd</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">LOG.</seg>
+									<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Deducere la absurd</term>
+							</form>
+							<def xml:id="uuid-2d51eb9d-7603-42cc-9aba-96c22f31274b">metodă de
+								demonstrare a unui adevăr, arătând că punctul de vedere contrar este
+								fals.</def>
+							<cit type="unknown">
+								<quote>Lăturalnică sau indirectă demonstrație este care din
+									falsitatea propoziției celei din împotrivă deduce adevărul
+									propoziției celei de arătat, de unde se și numește apagogică sau
+										<hi rend="bold">deducere la absurd</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-58015acd-5c8d-4944-396c-aa4131e8767a"/>
+									<date>&lt;1834-1835&gt; </date>
+									<citedRange>54/12</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>E cu totul altul lucrul pe care l-a combătut Maiorescu: e
+									exagerarea meritelor şi <hi rend="bold">ducerea la absurd</hi> a
+									principiilor altfel sănătoase ale Şcolii de la Blaj. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9d21d995-4c0a-1b9e-30eb-1c0322a5691d"/>
+									<date>1886</date>
+									<citedRange>268</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Demonstraţia prin <hi rend="bold">reducere la absurd</hi> a
+									lui Caragiale, a arătat clar … că fără protecţie nu poţi obţine
+									nimic în regimul burghezo-moşieresc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+									<date>1952</date>
+									<citedRange>ianuarie, 269</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Metoda lui Zenon constă în a considera … teza adversă drept
+									valabilă și de a arăta apoi, prin argumentare, că ea conduce la
+									contradicții. Este ceea ce se numește metoda <hi rend="bold">reducerii la absurd</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f"/>
+									<date>1969</date>
+									<citedRange>81</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Logicienii consideră dicotomia o metodă perfect logică care
+									divide conceptele prin <hi rend="bold">reducerea la absurd</hi>
+									– la două situaţii contrastante, capabile să-şi anuleze
+									semnificaţiile reciproce în procesul gândirii normale. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c757b125-428d-3f7a-3722-ea6e585e894d"/>
+									<date>1985</date>
+									<citedRange>232</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se poate uşor recunoaşte că <hi rend="bold">reducerea la
+										absurd</hi> operată de argumentul lui Oakeshott împotriva
+									suveranităţii tehnice merge perfect în sensul modului în care a
+									evoluat modernitatea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a"/>
+									<date>2001</date>
+									<citedRange>35</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5b270cb5-9859-4719-a123-a9eb708b27d3" n="◊">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Filozofia absurdului </term>
+							</form>
+							<def xml:id="uuid-fe122f6a-8115-47ef-ba5b-c7e6c185f638">concepție,
+								teoretizată îndeosebi de existențialiști, prin care se încearcă
+								descoperirea căilor directe ale adevărului, negând metoda clasică a
+								rațiunii.</def>
+							<usg corresp="#uuid-fe122f6a-8115-47ef-ba5b-c7e6c185f638">
+								<seg type="dom" rend="usg">FILOS.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Înainte de Camus, „<hi rend="bold">filozofia absurdului</hi>”
+									a fost viguros susţinută de originalul gânditor italian Giuseppe
+									Rensi, în mai toate operele sale, dar îndeosebi în „La filosofia
+									dell'Assurdo”, 1937, în care repetă „că această lume este
+									absurdă, ireparabil în prada absurdului şi răului”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5fc1915c-3c10-2376-67dc-daa484c971c8"/>
+									<date>1960 (†) </date>
+									<citedRange>271</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se fac uneori asemenea apropieri, în realitate izvorâte din
+									confuzia dintre situații absurde și <hi rend="bold">filozofia
+										absurdului</hi>, căreia Mazilu nu-i e cu nimic tributar. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a"/>
+									<date>1969</date>
+									<citedRange>nr. 4, 524</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această nevoie vitală de acţiune îl pune pe om în dezacord cu
+										<hi rend="bold">filozofia absurdulu</hi>i; prin activitatea
+									sa, omul de azi e prometeic şi el nici nu poate renunţa … la
+									acest mit ca simbol al activităţii creatoare. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+									<date>1971</date>
+									<citedRange>august, 91</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2f58da1c-4d30-4340-9818-d0ed654c418a" n="◊">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">LIT. </seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Literatura absurdului </term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">LIT. </seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Teatrul absurdului</term>
+							</form>
+							<def xml:id="uuid-46bc3d80-05b5-4a00-90a3-9e4587e61d6f">direcţie
+								estetică din literatură în sec. al XX-lea, inspirată de filozofia
+								absurdului.</def>
+							<cit type="unknown">
+								<quote>Ruptura de <hi rend="bold">teatrul absurdului</hi> s-a
+									însoţit la Adamov de o apreciere lucid critică a formulei
+									artistice de care s-a desprins şi a propriei sale activităţi
+									trecute. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+									<date>1964</date>
+									<citedRange>decembrie, 128</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Absurdul are aici o morală ascunsă în spatele vorbelor. Ea
+									devine şi mai transparentă în „Despre mânie sau Napoleon şi
+									Fouché”, compusă în stilul teatrului moralist din secolul al
+									XVIII-lea cu oarecare elemente din <hi rend="bold">literatura
+										absurdului</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fe8fec15-155b-8782-8d7b-4d520c5893db"/>
+									<date>1976</date>
+									<citedRange>259</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Piesele pe care le scriu sunt în prelungirea <hi rend="bold">teatrului absurdului</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eecca819-8a6f-2a98-75e7-89e3a7b87988"/>
+									<date>1978</date>
+									<citedRange>190</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pe autorul american al piesei „Doi pe un balansoar”, preţuit
+									şi de publicul nostru, William Gibson, [Valeriu Râpeanu] l-a
+									vizitat la Stockbridge, la o distanţă de 240 km de New York.
+									Ambii au fost de acord în privinţa perimării <hi rend="bold">teatrului absurdului</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1eb58dd2-2561-77dd-0934-4411a5055ac8"/>
+									<date>1984</date>
+									<citedRange>446</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ar trebui să contestăm caracterul de „text” oricărei
+									producții „dadaiste”, ... pentru a ne apropia de epoca noastră,
+									de întreaga <hi rend="bold">literatură a
+									„absurdului”</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-83d56de7-7edb-9bba-0017-d7a5a6b59c45"/>
+									<date>1990</date>
+									<citedRange>129</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Paul Everac scria un perfect <hi rend="bold">teatru al
+										absurdului</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c733e7c9-58c0-44a6-3ffb-b4c329fb6233"/>
+									<date>2003</date>
+									<citedRange>357</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-aa3e6b1f-d929-418c-88d3-1ee9b8b6f712" n="◊">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>Prin absurd</term>
+							</form>
+							<def xml:id="uuid-abc0d4cf-4e5f-4f7f-afe5-5cefb063c212">admiţând un
+								raţionament fals, o situaţie (aproape) imposibilă.</def>
+							<cit type="unknown">
+								<quote>Aşa s-ar părea natural şi numai <hi rend="bold">prin
+										absurd</hi> s-ar putea primi ideea căderii
+									guvernului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e211b891-21d9-8cae-9ff3-7c58d59b4be6"/>
+									<date>1913</date>
+									<citedRange>257</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dacă <hi rend="bold">prin absurd</hi> nu se întâmplă nimic,
+									şi dacă merg întins, aşa ca un cadavru ambulant … fără să mă
+									opresc o clipă, orice s-ar întâmpla, sfertul de ceas trebue să
+									treacă. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7fe23813-271d-28b7-02cb-2aea7a6875bb"/>
+									<date>1930</date>
+									<citedRange>403</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dacă totuşi, <hi rend="bold">prin absurd</hi>, ai să
+									te-nsori... aş fi mândră, deosebit de mândră, să iei o fată...
+									care să-mi semene puţin... cât de puţin. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+									<date>1959</date>
+									<citedRange>iulie, 75</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să presupunem, <hi rend="bold">prin absurd</hi>, că nu plătim
+									datoria și că pierdem via. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393"/>
+									<date>1964 (†) </date>
+									<citedRange>468</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dacă <hi rend="bold">prin absurd</hi>, am reuşi s-o facem [a
+									ne opri din drum], prima dorinţă frenetică ne-ar fi aceea de a
+									ne continua drumul căutând mereu imponderabila clipă în care
+									creaţia este posibilă. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d9d95fde-74ee-4c94-4986-bc2019ba75da"/>
+									<date>1970</date>
+									<citedRange>108</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cum mi-ar fi mie să ştiu, admiţând <hi rend="bold">prin
+										absurd</hi>, să ştiu că am undeva un copil? </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f83c5f6b-17b3-7929-10ef-a1faac0d978b"/>
+									<date>1980</date>
+									<citedRange>125</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dacă, <hi rend="bold">prin absurd</hi>, domnul Ion
+									șeful-de-scară ar fi organizat o şedinţă şi ar fi supus la vot,
+									majoritatea celor prezenţi s-ar fi pronunțat împotriva unor
+									măsuri severe.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ba97f876-34ca-390e-7925-cab91fe94705"/>
+									<date>2001</date>
+									<citedRange>87</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-15e18a71-9dc6-4db2-8681-bed4d790fdc4">Ceea ce este absurd
+								(<hi rend="bold">1</hi>), fără logică;</def>
+						<xr type="syn" corresp="#uuid-15e18a71-9dc6-4db2-8681-bed4d790fdc4">
+							<ptr target=" stupid (2)"/>
+						</xr>
+						<def xml:id="uuid-11724cfa-5f21-4c2c-84c0-9d5ca7737a80">ceea ce este
+							irațional;</def>
+						<xr type="syn" corresp="#uuid-11724cfa-5f21-4c2c-84c0-9d5ca7737a80">
+							<ptr target="nonsens"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Iară când iai vreo spunere neadevărată ca prin asemănare și prin
+								cuvântare să arăți ceva ce nu se cuvine arătării, sau ce nu poate să
+								fie, arătarea să zice încurmezișe, sau încungiurătoare, grecii o zic
+								apogogica, latinii indireacta. Iară necuviința, sau ceaia ce nu
+								poate să fie, să zice latineaște <hi rend="bold">absurd</hi> sau cu
+								neputință. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc53d2b8-05e5-0287-4ddd-e7fdc2d30b7f"/>
+								<date>1799</date>
+								<citedRange>152/6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă i-am refuza chiar această influință, am cădea în <hi rend="bold">absurd</hi>, am desființa chiar ființa
+								inteligentă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1cb431e5-3b6b-624b-0243-86b49944684d"/>
+								<date>1863</date>
+								<citedRange>292</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poetul singur a rămas cu sufletul agăţat în <hi rend="bold">absurd</hi>, în vis şi în eternă primăvară!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-916b107c-6531-474f-13f4-563739646dd3"/>
+								<date>1914</date>
+								<citedRange>199</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>D. Sorbul … nu se mulțumește a-și alege materialul omenesc din
+								selectarea colecției destul de bogate a semenilor săi și se amuzează
+								a-și crea tipurile după o fantezie înrudită când cu patologia, când
+								cu <hi rend="bold">absurdul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-30e82483-8945-3aaf-a60f-608fa2262116"/>
+								<date>1920</date>
+								<citedRange>196</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Raţiunea şi întâmplarea stupidă, rezonabilul şi <hi rend="bold">absurdul</hi> ne vor apărea ca fiind deopotrivă închise în
+								substanţa primă a existenței. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7ba48a5b-8287-a3aa-410f-8b1647d8073a"/>
+								<date>1934</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După o rătăcire în <hi rend="bold">absurd</hi>, limba literară
+								română a devenit din nou ceea ce trebuie să fie. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516"/>
+								<date>1954</date>
+								<citedRange>58</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Farsa e dusă adesea până departe, până la graniţa cu <hi rend="bold">absurdul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1964</date>
+								<citedRange>septembrie, 70</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru mine, ea [viața] este o sumă de momente printre care
+								circulă cum vor neprevăzutul, <hi rend="bold">absurdul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-54a2e0a9-2cfc-156a-6106-7a98cf0523ad"/>
+								<date>1977</date>
+								<citedRange>396</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A pune o ipoteză ca cea de mai sus, ar însemna să împingem
+								raţionamentul până la limitele <hi rend="bold">absurdului</hi>, în
+								tendinţa de a găsi cu orice preţ o justificare plauzibilă pentru
+								informaţia eronată dată de biografia apocrifă a lui Homer.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9f48c709-8029-71b7-90f9-37f0df7c9181"/>
+								<date>1980 (†) </date>
+								<citedRange>296</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poporul nostru se recunoaște a fi puternic înclinat către
+								cultivarea <hi rend="bold">absurdului</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3670659f-4250-7d4c-2473-7399f644904d"/>
+								<date>1983</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Anahoretul] poate valoriza, de exemplu, nonsensul, paradoxul,
+									<hi rend="bold">absurdul</hi> şi invită, mereu, la schimbarea
+								unghiurilor, la experienţa alterităţii înnoitoare. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285"/>
+								<date>2003</date>
+								<citedRange>132</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-5ac11cb5-134c-4fc3-8b5e-becf8d3393d1" n="">
+						<def xml:id="uuid-4011e083-7e41-45ba-89ad-27285837db73"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+						<term>-Ă </term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>absurzi, -de</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">absurde</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">absurdus, -a, -um</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">popovici</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">steinberg</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">DDRF</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">popovici</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">TDRG</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">d. etim.</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">CADE</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6f1029da-9975-548f-0c48-34763e3f66fa">D. fil</ptr>
+						<date>1945</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<date>1965</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c3739564-1aa5-73ee-9946-2ea5a90b94ab">etnol</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">D. Enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">DEN</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

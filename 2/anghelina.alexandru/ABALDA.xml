@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-45ebeef3-4dbd-4e1a-a945-c9a328012b84" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-11T14:08:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abaldă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁLDĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0961d59e-820e-49c7-900e-72d56dab8470" n="">
+						<def xml:id="uuid-5f7f019e-0b5f-47ef-b03f-8659e68e678d">Magazie, loc unde se
+							depozitau mărfurile.</def>
+						<usg corresp="#uuid-5f7f019e-0b5f-47ef-b03f-8659e68e678d"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+								<date>&lt;1780–1801&gt;</date>
+								<citedRange>190</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e5b734e3-dad4-450f-bbca-95e2164d964a" n="">
+						<def xml:id="uuid-7ccb45eb-51d6-4881-8444-22cabba93171"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abalde</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Ablade[raum]</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<date>1850</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
+						<date>1870</date>
+						<citedRange>s. v. <hi rend="italic">pace</hi></citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f2c6c82b-5ef1-158b-4529-dadec7e660ff">philippide</ptr>
+						<date>&lt;1897–1905&gt;</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc. agr</ptr>
+						<date>1937</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-425ec52b-0345-750d-4dbe-ba0db004a2b2">arhais</ptr>
+						<date>2005</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

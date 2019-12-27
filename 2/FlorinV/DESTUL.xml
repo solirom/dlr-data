@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e968aea2-725d-42ef-81c5-241acf31dbe5" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>tests</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2018-05-07T09:49:56+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DESTUL</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DESTÚL</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="adj."/>
+                    <subc value=""/>
+                    <number value=""/>
+                </gramGrp>
+                <gramGrp>
+                    <pos value="adv."/>
+                    <subc value=""/>
+                </gramGrp>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="n."/>
+                    <number value=""/>
+                    <case value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-e8a62652-9dfb-4a21-8012-18cce4b6295a" n="I.">
+                        <sense xml:id="uuid-c10f1c6d-124a-4922-997e-1e3653813245" n="1.">
+                            <sense xml:id="uuid-66a44e9d-7156-42a0-bc24-9ff36b733000" n="◊">
+                                <def xml:id="uuid-93dae2be-f126-4c3a-9048-b6da01ee8c14"/>
+                                <usg corresp="#uuid-93dae2be-f126-4c3a-9048-b6da01ee8c14">
+                                    <seg type="sem" rend="usg">fig.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Au doară mâna D[oJmnului nu va fi destulă? </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="BIBLIA (1688)3 | Biblia (1688) – T."/>
+                                        <date/>
+                                        <citedRange> 104<hi rend="superscript">1</hi>/4.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7da964af-5e69-4721-a98e-e18633dd712f" n="◊">
+                                <def xml:id="uuid-5693b761-d4fe-43dd-a225-48a3734b17f9"/>
+                                <usg corresp="#uuid-5693b761-d4fe-43dd-a225-48a3734b17f9">
+                                    <seg type="gram" rend="usg">substantivat</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Iaca doao arme acicea: iară El zise lor: Destule-s. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="N. TEST. (1648) N. TEST. (1648)2 | N. Test. – T."/>
+                                        <date/>
+                                        <citedRange>N. TEST. (1648), 100<hi rend="superscript">1</hi>/4. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="adj."/>
+                                <subc value=""/>
+                                <number value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">Care se află sau trebuie să fie în cantitate sau în
+                                număr îndestulător; </def>
+                            <xr type="syn" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
+                                <ptr target="îndestulător, "/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
+                                <ptr target="satisfăcător (1),"/>
+                            </xr>
+                            <xr type="syn" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
+                                <ptr target="suficient (1)."/>
+                            </xr>
+                            <xr type="analog" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
+                                <ptr target=" î n de a j uns , "/>
+                            </xr>
+                            <xr type="analog" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
+                                <ptr target="bungăd. "/>
+                            </xr>
+                            <def xml:id="uuid-f4735aae-d6cf-40ef-8d67-b3e45c7e5696">atât cât este
+                                necesar, cât se cuvine pentru a corespunde sau a satisface o
+                                cerinţă, anumite norme etc.</def>
+                            <cit type="unknown">
+                                <quote>Sădesc vii, carele rodesc rod destul.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PSALT. (1651) PSALT. (1651)2 | Psalt. Alba Iulia – T."/>
+                                    <date/>
+                                    <citedRange> 209<hi rend="superscript">r</hi>/12. </citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-b95ec992-edc5-4d6c-a05d-4612dd2e40db" n="2.">
+                            <def xml:id="uuid-4f7738ec-3d28-4a33-9abb-8086541d543c"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-acfb7f24-de50-4592-a253-c658f92ac18a" n="3.">
+                            <def xml:id="uuid-5a54071b-b3af-4341-8376-f0ad467e00e0"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-a5ea42a3-bba4-4518-a4e7-2a1eb4b609bf" n="4.">
+                            <def xml:id="uuid-65bcf723-2931-44c5-9feb-899f8b9679e5"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-a4d7077e-56c3-4237-b70d-617117b647d8"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-6663961b-f512-49dc-b279-5126ee9cd9e0" n="II.">
+                        <gramGrp>
+                            <pos value="adv."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-2bd9cba2-01e2-4e7e-b190-bb37ebffb8dd">Aproape cât este necesar pentru a corespunde unor nevoi,
+                            unor cerinţe, unor norme etc. </def>
+                        <usg corresp="#uuid-2bd9cba2-01e2-4e7e-b190-bb37ebffb8dd">
+                            <seg type="hint" rend="usg">Ca determinant al unui adjectiv sau adverb de care se leagă adesea prin prep. „de”</seg>; <seg type="coloc" rend="usg">indică aproximaţia, diminuarea calităţii exprimate de adjectivul sau de adverbul respectiv</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote>însuşi Leo 9 destul de chiar mărturiseaşte în cărţile ceale cătră
+                                Cherularie. </quote>
+                            <bibl type="unknown">
+                                <ptr target="MAIOR, I. B. MAIOR, S. I-II | MAIOR, Ist. Besearicei"/>
+                                <date/>
+                                <citedRange> 47/18. </citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-3c7d73d0-42df-430d-b978-98ad3c4575cf" n="III.">
+                        <sense xml:id="uuid-9c5303b7-e36b-43a3-9dc6-791ae4acb566" n="1.">
+                            <gramGrp>
+                                <pos value="adj."/>
+                                <subc value=""/>
+                                <number value=""/>
+                            </gramGrp>
+                            <gramGrp>
+                                <pos value="adv."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-442b8728-ed91-4317-b8a6-54472f96bc52">(Care este) în cantitate mare. </def>
+                            <usg corresp="#uuid-442b8728-ed91-4317-b8a6-54472f96bc52">
+                                 și <seg type="time" rend="usg">înv.</seg>, <seg type="hint" rend="usg">în construcțiile de, din, cu destul</seg>
+                            </usg>
+                            <xr type="analog" corresp="#uuid-442b8728-ed91-4317-b8a6-54472f96bc52">
+                                <ptr target="V. mullt (2)."/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote>Dumnezeu lui de destul bunătate dărui-i-va. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="CORESI, EV. (DA) CORESI, E. (Cf. CORESI, EV.) | CORESI, Ev. – T."/>
+                                    <date/>
+                                    <citedRange>29.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-d87a4ef4-6d85-48a9-9776-fa894f332172" n="2.">
+                            <sense xml:id="uuid-84bb65e1-e4b7-42c0-a936-8fa223636d1a" n="◊">
+                                <def xml:id="uuid-c13a6b10-6950-4b32-b73d-ff0c75e6b0f7"/>
+                                <usg corresp="#uuid-c13a6b10-6950-4b32-b73d-ff0c75e6b0f7">
+                                    <seg type="sem" rend="usg">fig.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>De la gând până la practică este destulă cale. MIHĂESCU,
+                                        D. A. 181.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-fa6fa47d-6758-0aa8-35c0-01b3fa9d8226"/>
+                                        <date/>
+                                        <citedRange> 181.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="adj."/>
+                                <subc value=""/>
+                                <number value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-e1fa7d0d-e30d-469a-b969-2153ace66f3b">Care are o lungime mare; care se întinde pe o lungime
+                                mare, care se parcurge în mult timp. </def>
+                            <usg corresp="#uuid-e1fa7d0d-e30d-469a-b969-2153ace66f3b">
+                                <seg type="hint" rend="usg">despre distanţe</seg>
+                            </usg>
+                            <xr type="analog" corresp="#uuid-e1fa7d0d-e30d-469a-b969-2153ace66f3b">
+                                <ptr target="lung"/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote>Şi-ipărea rău că seara nu mai dăduse o fugă pe la ei, deşi,
+                                    mai cu seamă până la Haidar-paşa, era drum destul </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-02ca253b-17c1-4665-28dc-d528f63a2425"/>
+                                    <date/>
+                                    <citedRange> 230.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-0483ffc9-db8e-49db-a256-188cd0cda806" n="3.">
+                            <sense xml:id="uuid-2928b6b0-30a7-4f6d-9b26-2081a64f5e8c" n="♦">
+                                <def xml:id="uuid-0fe6396c-8aa2-49ab-85a8-002c6205ee43">Mulţumire (3).</def>
+                                <cit type="unknown">
+                                    <quote>Eu dziş în desătulul mieu. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-0e43f9dd-a510-468a-a063-d1ce373a40cf"/>
+                                        <date/>
+                                        <citedRange> 50/7. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-a396631e-dc81-447f-b745-c630e2e3595d">belşug</def>
+                            <usg corresp="#uuid-a396631e-dc81-447f-b745-c630e2e3595d">
+                                <seg type="time" rend="usg">înv.</seg>
+                            </usg>
+                            <def xml:id="uuid-bbd103bb-d4e1-4985-8fb1-567078e39ce2">bogăţie</def>
+                            <cit type="unknown">
+                                <quote>Fie pace în putearea ta şi destul în stâlpul păreţilor
+                                    tăi.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-78f96293-38fd-9526-1e8a-a752038a4b37"/>
+                                    <date/>
+                                    <citedRange> 110<hi rend="superscript">v</hi>/13.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-136b1617-29ea-4395-aa97-90e2081def05" n="4.">
+                            <sense xml:id="uuid-e64e67ad-9552-4492-a9df-6fe2d77f04c3" n="◊">
+                                <def xml:id="uuid-74f28652-22af-4382-9e21-0e48afa5078a"/>
+                                <usg corresp="#uuid-74f28652-22af-4382-9e21-0e48afa5078a">
+                                    <seg type="coloc" rend="usg">determină substantive la sg. cu valoare colectivă</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Tânăr încă era svântul când muri tată-său şi îmă-sa, şi-
+                                        avuţie destulă rămase în mâna lui. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <date/>
+                                        <citedRange> 387.</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-279e48c2-f73d-431f-8930-cab965d652e9" n="◊">
+                                <def xml:id="uuid-a66c4397-219c-43fd-93ff-86857e03eff3"/>
+                                <usg corresp="#uuid-a66c4397-219c-43fd-93ff-86857e03eff3">
+                                    <seg type="gram" rend="usg">substantivat</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Destui de ceia ce făcea farrmăce.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="COD. VOR. COD. VOR.2 | Cod. Vor. – T."/>
+                                        <date/>
+                                        <citedRange>234. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5ace3a7d-a8d9-44c0-a2df-07befd72f3bb" n="♦">
+                                <def xml:id="uuid-6ec02238-386d-486f-abad-d3b300de7be5">Adesea. </def>
+                                <usg corresp="#uuid-6ec02238-386d-486f-abad-d3b300de7be5">
+                                    <seg type="gram" rend="usg">adverbial</seg>; <seg type="time" rend="usg">înv.</seg> și <seg type="geo" rend="usg">regional</seg>; <seg type="hint" rend="usg">în construcția destule ori</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Sigismund încă destule ori au trimis pe Şpanul de
+                                        Cămară...la dânşii ca să se plece. </quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ŞINCAI, HR. II ŞINCAI, HR. în CALENDAR (18..) ŞINCAI, O. II | ŞINCAI, Hron. II "/>
+                                        <date/>
+                                        <citedRange>292/16. </citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="adj."/>
+                                <subc value=""/>
+                                <number value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-db914271-e57f-4f92-9e58-e8cf95a99354">Mult (1), numeros.</def>
+                            <cit type="unknown">
+                                <quote>Iară să văm vedea şi destui oameni răi
+                                    îmbogăţindu-se.</quote>
+                                <bibl type="unknown">
+                                    <ptr target="CORESI, EV. (DA) CORESI, E. (Cf. CORESI, EV.) | CORESI, Ev. – T."/>
+                                    <date/>
+                                    <citedRange> 149.</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-b539feb5-eb7b-4a07-af0d-6f679aca8971" n="5.">
+                            <sense xml:id="uuid-7cfd488b-87f6-471c-8b66-a0e276f639e0" n="♦">
+                                <def xml:id="uuid-d9de831f-a12a-4cab-a97d-ea1fb59dc560">(De) multă vreme. </def>
+                                <usg corresp="#uuid-d9de831f-a12a-4cab-a97d-ea1fb59dc560">
+                                    <seg type="gram" rend="usg">adverbial</seg>
+                                </usg>
+                                <xr type="analog" corresp="#uuid-d9de831f-a12a-4cab-a97d-ea1fb59dc560">
+                                    <ptr target="m u 1t (2). "/>
+                                </xr>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <gramGrp>
+                                <pos value="adj."/>
+                                <subc value=""/>
+                                <number value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-3030849f-e2ae-4e77-9b4a-c482e75ed6e0">Care ţine (relativ) mult, de durată (relativ)
+                                îndelungată. </def>
+                            <usg corresp="#uuid-3030849f-e2ae-4e77-9b4a-c482e75ed6e0">
+                                <seg type="hint" rend="usg">despre timp sau alte noţiuni temporale</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Ca să adune cineva lucruri antice şi alte lucruri care sânt
+                                    rare... trebuie să aibă destulă vreme. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-87666ce7-4954-328c-9f07-c713492829cd"/>
+                                    <date/>
+                                    <citedRange> 64/16. </citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-29930311-7e16-4730-bab4-7a45b4250df5" n="6.">
+                            <def xml:id="uuid-ab05912e-95bd-4d5d-a4e1-0d08f75cac02"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-f76f51d0-2a4a-434c-a58f-150dbe70e303" n="7.">
+                            <def xml:id="uuid-a5231023-fcfb-4403-aa3b-7cfd5f36022a">în grad înalt;</def>
+                            <usg corresp="#uuid-a5231023-fcfb-4403-aa3b-7cfd5f36022a">
+                                 și <seg type="time" rend="usg">înv</seg>, <seg type="hint" rend="usg">în construcția din destul</seg>
+                            </usg>
+                            <def xml:id="uuid-23c682de-bf7d-49fa-b712-6d0a2203bb65">în mod
+                                intens;</def>
+                            <def xml:id="uuid-d587c8bc-3d62-41c8-8a6a-139dd31b6c03">în mare măsură; </def>
+                            <def xml:id="uuid-3ce16dfa-b9ae-472b-be01-d478d5de2d22">în mod
+                                stăruitor. </def>
+                            <xr type="analog" corresp="#uuid-3ce16dfa-b9ae-472b-be01-d478d5de2d22">
+                                <ptr target=" mul t (2). "/>
+                            </xr>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-92a9468b-77ee-41fc-ac56-598cadb9180d"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-83c41475-e10d-454b-9890-b037a65c2e14" n="IV.">
+                        <gramGrp>
+                            <pos value="adj."/>
+                            <subc value=""/>
+                            <number value=""/>
+                        </gramGrp>
+                        <gramGrp>
+                            <pos value="adv."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-bcac3a5b-bf7b-48a0-afd2-5ac6e280b726">(Care este) mai mult decât trebuie, prea mult. </def>
+                        <xr type="analog" corresp="#uuid-bcac3a5b-bf7b-48a0-afd2-5ac6e280b726">
+                            <ptr target="excesiv."/>
+                        </xr>
+                        <cit type="unknown">
+                            <quote>Destulu-ţi iaste cât ai petrecut în răutăţi. </quote>
+                            <bibl type="unknown">
+                                <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                <date/>
+                                <citedRange> 19. </citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-a3dbad88-c4f0-4dd4-af97-b4f38b3b2a4b" n="">
+                        <def n="" xml:id="uuid-914fa167-2b90-4b0a-9b0e-2121a9e19236"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>destui, -le</number>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+                        <term>-Ă</term>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>și
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>
+                    <def xml:id="uuid-7011e201-debe-42d8-938a-cbbade0f9b7f">dăstúl,</def>
+                    <gramGrp>
+                        <pos value="adj."/>
+                        <subc value=""/>
+                        <number value=""/>
+                    </gramGrp>
+                </re>
+                <re type="lexical-variant-section">
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>și
+                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+                    <def xml:id="uuid-02b022d7-c8b0-46c2-814f-3f8942b56f43">desătúl</def>
+                    <gramGrp>
+                        <pos value="adj."/>
+                        <subc value=""/>
+                        <number value=""/>
+                    </gramGrp>
+                </re>
+                <etym cert="high">
+                    <idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="de^1^"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="sătul"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

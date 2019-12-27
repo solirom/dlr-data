@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1d34f20d-5883-4fbd-bb80-4ecd57ac4c1d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T12:41:37+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abștec</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABȘTÉC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-03907d7b-1879-44b4-8ab8-adb858ab527f" n="1.">
+						<def xml:id="uuid-a419def7-28b0-4266-b500-73fe4b6c2e6d">Cuțit de strung
+							pentru suprafață.</def>
+						<usg corresp="#uuid-a419def7-28b0-4266-b500-73fe4b6c2e6d">
+							<seg type="dom" rend="usg">TEHN.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Ia puțin din piesă cu <hi rend="bold">abștecul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3d4d0ab7-784c-8ccb-9e36-4d3e91fb682b"/>
+								<date>1951</date>
+								<citedRange>nr. 5, 24</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-21f95e1a-1745-4fc9-9dd1-19c2b4151a2f" n="2.">
+						<def xml:id="uuid-ee8d6a6e-e058-46ed-8348-7fe0f6ddd6ca">Dispozitiv folosit
+							la trasarea asizelor la zidăria unei construcții.</def>
+						<usg corresp="#uuid-ee8d6a6e-e058-46ed-8348-7fe0f6ddd6ca">
+							<seg type="dom" rend="usg">CONSTR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Unul dintre capetele scoabei, ascuțit şi îndoit, e introdus în
+								rosturile zidăriei, iar celălalt, echipat cu un cârlig, e prins de
+								un inel fixat pe <hi rend="bold">abştec</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="LTR2, I |  |  | LTR2 | I | LTR2 I"/>
+								<date>1957</date>
+								<citedRange>23</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb"/>
+								<date>1972</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-942c78b0-5d86-4134-86c5-81404812a773" n="">
+						<def xml:id="uuid-de4160f8-524f-41f7-9e3c-6f6508183813"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abștecuri</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstecken </term>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+						<term xml:lang="" type="unknown" subtype="unknown">„a trasa, a marca, a
+							desface, a desprinde” </term>
+					</note></etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstechen </term>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+						<term xml:lang="" type="unknown" subtype="unknown">„a tăia, a scoate dintr-o
+							suprafață”</term>
+					</note></etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9bc30ead-ad71-4663-a960-a72ebf42ae17" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Catamara</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno></publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-06-22T18:09:42+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">ACOMERCIAL, -Ă</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">ACOMERCIÁL, -Ă</stress>
+                    <syll/>
+                    <pron/>
+                    
+                </form>
+                <gramGrp>
+                    <pos value="adj."/>
+                    <subc value=""/>
+                    <number value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-9c900f56-0f0f-47cc-86a5-922b61df143f" n="">
+                        <def xml:id="uuid-e43008c1-f7f8-44d1-b0d9-ad80385e2df7">Care este lipsit de spirit comercial.</def>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-fbd1c631-cf11-42ea-9ba3-0f4f6ffca2d6" n="">
+                        <def xml:id="uuid-4e616e0d-2856-46ce-b0ff-32912802b3bc"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="pronunciation" value="">
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">-ci-al</syll>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-gender"/>
+                    <form type="grammatical-information-for-gender">
+                        <gen value="" target="f">, Ă </gen>
+                    </form>
+                </form>
+                <etym cert="high">
+                    <idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/>
+                    <ptr targetLang="" type="component-element" subtype="unknown" target="unknown"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="unknown"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

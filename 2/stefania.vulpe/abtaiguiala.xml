@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ab7d4bd2-26e4-4698-9a47-1b8431cc1a35" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T14:59:08+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abțaiguială</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABȚAIGUIÁLĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e589c65e-0f1a-4ed1-9c4f-a4403ffa3fb9" n="">
+						<def xml:id="uuid-94e699c6-5c34-43ca-ad0e-179d3a98e07f">Faptul de <hi rend="spaced">a se abțaigui;</hi>
+						</def>
+						<usg corresp="#uuid-94e699c6-5c34-43ca-ad0e-179d3a98e07f">
+							<seg type="geo" rend="usg">Prin Bucov.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-94e699c6-5c34-43ca-ad0e-179d3a98e07f">
+							<ptr target="morală"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-94e699c6-5c34-43ca-ad0e-179d3a98e07f">
+							<ptr target="ceartă"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="Lexic Reg., I |  |  | Lexic Reg. | I | LEXIC REG."/>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e647f6fc-d864-410f-874f-5f8e0c4015ce" n="">
+						<def xml:id="uuid-f930a5aa-3ad2-460f-a323-a0a55a570767"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abțaiguieli</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="abțaigui"/>
+                    <term xml:lang="" type="sufix" subtype="unknown">-ială</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

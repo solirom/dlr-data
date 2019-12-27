@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-905a271e-34da-43fd-97f5-41ca883e7124" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T14:43:25+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abțaig</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABȚÁIG</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5d5603da-ae02-48b1-9e2a-1f961148b602" n="">
+						<sense xml:id="uuid-f86de590-d2d4-4e21-b234-32f68f140923" n="♦">
+							<def xml:id="uuid-2ecd032d-9656-4c9c-8c00-b40581a00c49">Acte fără mare
+								valoare cu care cineva încearcă să câștige o cauză.</def>
+							<usg corresp="#uuid-2ecd032d-9656-4c9c-8c00-b40581a00c49">
+								<seg type="plev" rend="usg"> (Mai ales la pl.)</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Nu mai umbla cu <hi rend="bold">abțaiguri</hi> de
+									acestea.</quote>
+								<bibl type="unknown">
+									<ptr target="Lexic Reg., I |  |  | Lexic Reg. | I | LEXIC REG."/>
+									<date>1960</date>
+									<citedRange>97</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-0d111132-2013-4cd3-ad34-5a3e140b5f21">Lucru de puțin
+							folos.</def>
+						<usg corresp="#uuid-0d111132-2013-4cd3-ad34-5a3e140b5f21">
+							<seg type="geo" rend="usg"> Prin Bucov.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="Lexic Reg., I |  |  | Lexic Reg. | I | LEXIC REG."/>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a159b5d2-b66c-470c-a8b8-ba3c85dbacbe" n="">
+						<def xml:id="uuid-76621eaa-be09-45c4-ae7e-8f5c8c707dff"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abțaiguri</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

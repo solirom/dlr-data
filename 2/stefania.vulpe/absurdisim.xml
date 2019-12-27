@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-cd361d6f-7cf0-4c6a-9cc7-65e09fe71425" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T10:50:24+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absurdisim</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSURDÍSIM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9fbaf215-a44d-47ca-8f51-dab311e19175" n="">
+						<def xml:id="uuid-ba5912b1-d376-45d4-a1d5-2f99b4d0c2cd">Care este absurd
+							într-un mod exagerat.</def>
+						<cit type="unknown">
+							<quote>Admiterea că pot să existe cunoştinţe „a priori” absolutamente
+								independente de simţuri, acest lucru <hi rend="bold">absurdisim</hi> e făcut şi de
+								Kant, marele preot al apriorismului. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2557a9f1-0f24-7a2c-1189-d79c67702941"/>
+								<date>1890</date>
+								<citedRange>270</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Kant e numit de d. Gherea „<hi rend="bold">absurdisim</hi>” pentru că admite
+								„cunoştinţe a priori”, absolutamente independente de
+								simţuri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+								<date>1893</date>
+								<citedRange>XXVII, 262</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>„De ce mărg zilnic la doamna poștameșteriță”? Ce <hi rend="bold">absurdisimă</hi>
+								întrebare, mă rog. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9"/>
+								<date>1931</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-66842449-715c-4780-b197-4bfc7e5575c7" n="">
+						<def xml:id="uuid-88479c35-9b69-427f-a2ff-979b3d202710"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absurdisimi, -e</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă </term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absurdissimo</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="it" type="unknown" subtype="unknown">assurdissimo</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

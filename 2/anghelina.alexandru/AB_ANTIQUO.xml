@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-dd8e7971-cd2b-4762-b3fe-fdedb8efab06" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-17T11:59:55+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ab antiquo</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">AB ANTÍQUO</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adv."/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adj."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-220f7aa2-a359-4a1d-9808-2eeaeb868ef6" n="">
+						<def xml:id="uuid-961287ce-a728-4f99-b2f3-30fbb9e1acc1">(Care este, care
+							există) din vechime, de demult.</def>
+						<usg corresp="#uuid-961287ce-a728-4f99-b2f3-30fbb9e1acc1">
+							<seg type="register style" rend="usg">Livr.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Acel [calendar] al d-lui Ekhard din Cernăuţi îşi păstrează forma
+									<hi rend="bold">ab antiquo</hi> şi cuprinde tarifa timbrului,
+								rânduială poştelor, lista iarmaroacelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8cf43dc5-a09d-5157-85d7-149b275d98c5">kogălnicea</ptr>
+								<date>1855</date>
+								<citedRange>332</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dreptul de alegere al mitropoliţilor şi episcopilor ortodocşi în
+								Ardeal a fost, <hi rend="bold">ab antiquo</hi>, numai în mâna
+								clerului, din care se aduna toţi protopopii şi câte 2 preoţi din
+								fiecare protopopiat.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-329b7f36-9f5f-393c-47b5-b72f011d4aea">b.
+									contem</ptr>
+								<date>1859</date>
+								<citedRange>139</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Astă familie deși <hi rend="bold">ab antiquo</hi> indigenată și
+								perfect românizată, nu încape îndoință că se trage din seminția lui
+								Ginghis Han și Timur-Lenk.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b168ac8b-91b3-a12b-9c73-b69dd6ac05cf">codru</ptr>
+								<date>1870</date>
+								<citedRange>292</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Scopul lui Tudor era... să gonească singur pe greci din România
+								după cum promisese turcilor, sperând ca prin acest act Poarta va
+								acorda desigur Românilor drepturile <hi rend="bold">ab antiquo</hi>
+								ce reclamaseră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a99f8ed9-8ca3-3c33-0584-6da74da34a62">aricescu</ptr>
+								<date>1874</date>
+								<citedRange>280</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nimeni nu va îndrăzni a tăgădui românului un drept de care se
+								bucură deja şi grecii, şi bulgarii, şi sârbii, şi de care românii
+								s-au bucurat <hi rend="bold">ab antiquo</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">eminescu</ptr>
+								<date>1867</date>
+								<citedRange>266</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prin această modificare se atacă nu numai drepturile <hi rend="bold">ab-antiquo</hi> ale ţărei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe">ghica</ptr>
+								<date>1880</date>
+								<citedRange>429</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prepoziţiunea „ab”, prin rolul său în „<hi rend="bold">ab
+									antiquo</hi>”, „ab ovo”, „ab initio” mai ales în „abavus”,
+								„abnepos”, „abmatertera”, „ab patruus etc., îşi dobândise nuanţa de
+								lungă durată. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a92bea58-83e5-75ea-78a1-be6d3e9b18f1">hem</ptr>
+								<date>1893</date>
+								<citedRange>168</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Țările Române erau supuse cu desăvârşire autorităţei turceşti,
+								călcându-se toate privilegiile de cari ele se bucuraseră ab
+								antiquo.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e0e9943f-1e40-75db-17c1-77ebbe1436bd">xenopol</ptr>
+								<date>1896</date>
+								<citedRange>198</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ladislau al V. iusa în a. 1453, în ziua Sfântului Marc, a întărit
+								drepturile şi privilegiile Abrudului avute <hi rend="bold">«ab-antiquo»</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+									rom</ptr>
+								<date>1898</date>
+								<citedRange>10</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dar neamul cel ingrat și rău și care, Descins din Fiestole-<hi rend="bold">ab antiquo</hi> ține Și-acum tot firea ce din munți
+								o are.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c766c9c5-05b1-51ed-5a24-38d108a1741c">div.
+									comed</ptr>
+								<date>&lt;1899–1913&gt;</date>
+								<citedRange>122</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi de când oare se bizuiesc... a fi cetăţeni români? a avea la
+								noi niște drepturi mai mari decât ceilalți străini? a se bucura de
+								un privilegiu <hi rend="bold">ab antiquo?</hi></quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c9d67e6d-1630-9772-3e3c-4d487c1a10fb">hasdeu</ptr>
+								<date>1903</date>
+								<citedRange>329</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Înainte,... se mai fãceau nobili prin acordarea de boierii
+								efective, ai cãror urmași cu timpul, luau rang în cadrele
+									boierimii<hi rend="bold"> ab antiquo. </hi></quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">orig.
+									dem</ptr>
+								<date>1922</date>
+								<citedRange>157</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fie <hi rend="bold">ab-antiquo,</hi> fie izvorâtă din danie
+								domnească, proprietatea particulară a solului n-are în trecutul
+								nostru caracter feodal.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-107c7352-5c9d-1f74-8547-0184a6c13eeb">filitti</ptr>
+								<date>1925</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu putem avea o încredere fără control în genealogiile <hi rend="bold">ab antiquo</hi> date de un om care spunea că în tot
+								cuprinsul Moldovei nu era, prin 1850, nicio familie mai mare şi mai
+								veche decât a Sioneştilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e4c8f368-6f6e-2b5b-836b-3779e916984a">trec.
+									vie</ptr>
+								<date>1935</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Chiar şi documentele cancelariei Transilvaniei spun că aceste
+								mişcări ale păstorilor ardeleni se fac <hi rend="bold">ab
+									antiquo</hi>, iar primele documente ce ne-au rămas de la domnii
+								Principatelor Române.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-45911713-0133-4fad-22b5-d4e1f280375f">păstorit</ptr>
+								<date>1963 (†)</date>
+								<citedRange>157</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tăiatul lemnelor pentru cohuri îl fac pe plată, de 30 şi 15
+								creiţari, stabilită <hi rend="bold">ab antiquo</hi>, şi aceasta a
+								ajuns până acum pentru subzistenţa tăietorilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4d6a9d4-29a1-8346-a10d-8c9df849744a">horea</ptr>
+								<date>1984 (1979)</date>
+								<citedRange>136</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">inst.
+									feud</ptr>
+								<date>1988</date>
+								<citedRange>460</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0fe9e3df-a393-4227-ba37-2a51d78671dc" n="">
+						<def xml:id="uuid-e5d70e4b-2204-4e01-9caf-9853dabc4ea8"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>ab-antiquo</oVar>
+				</form>
+				<etym cert="high">
+					<idno type="loc.lat."/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>2000</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

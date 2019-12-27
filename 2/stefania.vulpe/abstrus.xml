@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d69d40cb-f3ab-4c83-9510-2a937e1467f4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-10T16:15:33+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstrus</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRÚS</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4beb04b6-c624-4635-811b-f817c2cbafe5" n="">
+						<sense xml:id="uuid-98aca3bd-ea9f-415a-99bf-4b2ba198b16f" n="◊">
+							<def xml:id="uuid-96f0055a-3ee5-4689-919f-250c7a4bdf8a"/>
+							<usg corresp="#uuid-96f0055a-3ee5-4689-919f-250c7a4bdf8a">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Distingea, în spatele lui, licărul unei arhitecturi abstruse,
+									de parcă tot peretele din spate al garsonierei ar fi fost
+									transparent şi prin el s-ar fi zărit construcţii din altă lume,
+									împovărate de amurg şi statui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7"/>
+									<date>2007</date>
+									<citedRange>204</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-3b266288-bc3b-4ba9-a253-c958ca8b94dd">Dificil de
+							înțeles;</def>
+						<usg corresp="#uuid-3b266288-bc3b-4ba9-a253-c958ca8b94dd">
+							<seg type="register style" rend="usg">Livr.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-3b266288-bc3b-4ba9-a253-c958ca8b94dd">
+							<ptr target="abscons"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2"/>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Această prețioasă carte de critică și statistică, în care multe
+								... se dau într-o formă greoaie și obscură, de un clasicism <hi rend="bold">abstrus</hi> … n-a ieșit niciodată în întregime. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f487388a-400e-051f-526b-75354b7f612a"/>
+								<date>1901</date>
+								<citedRange>107</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un seraf face magului o teorie <hi rend="bold">abstrusă</hi>
+								asupra originii îngerești a sufletelor, ce-și au originea în câte o
+								stea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb"/>
+								<date>1941</date>
+								<citedRange>389</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Discipolii lui au fost uimiţi să citească, într-o zi, ieşite din
+								pana lui cam artificială, pierdută în asociaţii <hi rend="bold">abstruse</hi>, în alegorii, în întrebări fără răspuns,
+								versurile din „Alion Ciobanul”. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3b4c65e3-11ce-15c5-76ff-904421ab46ed"/>
+								<date>1945</date>
+								<citedRange>221</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Foarte probabil că un intelectual european, pasionat de cele mai
+									<hi rend="bold">abstruse</hi> pagini ale lui Heidegger, ar
+								începe să caște după zece-cincisprezece minute. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5"/>
+								<date>1947</date>
+								<citedRange>105</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întreaga filozofie … poate fi considerată ca o sforţare tot mai
+								complicată şi subtilă, tot mai puţin naivă, tot mai <hi rend="bold">abstrusă</hi>, neobosită, de a căuta căi noi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd0207c5-9477-4758-4904-c1c4744c8e4a"/>
+								<date>1960 (†) </date>
+								<citedRange>225</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Uneori absurdul devine exponenţial, dobândind în final un sens
+								(şi el <hi rend="bold">abstrus</hi>), ceea ce ne prăbuşeşte în
+								labirintul paralel al psihozei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<date>1974</date>
+								<citedRange>octombrie, 62</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-78b82213-46bf-413d-aa69-1e92fc036f00" n="">
+						<def xml:id="uuid-490bb5db-7ed6-4007-a6eb-c9e589f3aaff"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abstruși, -se</number>
+					</form>
+				</form>
+				<etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abstrus</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abstrusus, -a, -um</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2000</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

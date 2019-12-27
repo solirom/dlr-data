@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1bab2565-fd1e-43e7-87f0-afdb574fabc9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-12T11:23:16+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absurdizare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSURDIZÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-314dec82-5d6d-412c-8395-ed70f5655e65" n="">
+						<def xml:id="uuid-f296f64f-9f6c-41b1-9d4b-b0807d2e09b9">Faptul de a
+							considera ceva ca fiind absurd.</def>
+						<cit type="unknown">
+							<quote>În aceeași ecuație de cuvinte unul e mai simpatic decât altul, nu
+								prin noutatea puterilor lui de sinteză, dar prin alambicarea
+								facultăților de <hi rend="bold">absurdizare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a"/>
+								<date>1925</date>
+								<citedRange>198</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-24bf441e-6e1e-4388-a67d-a91ad1794658" n="">
+						<def xml:id="uuid-abfcc6d4-555d-4c32-b4f8-25112104724e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="absurd"/><term xml:lang="" type="sufix" subtype="unknown">-izare</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4a7a596a-696b-449a-a2da-fc44828e1151" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>mihaela.marin</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-10-04T11:19:09+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">LUME</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LÚME</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="f."/>
+                    <number value="sg."/>
+                    <case value="gen.-dat. pl. și"/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-05e44a90-e415-414c-92ca-049039966dde" n="A.">
+                        <sense xml:id="uuid-6dc1a3c0-ce38-4675-897e-32dc0e11be52" n="1.">
+                            <sense xml:id="uuid-d0c6243b-b37f-48a6-a6b7-896ddd3b6891" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A ieși la lume/a ieși la lumea de sus</term>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A ieşi în lume/A ieşi în lumea de sus</term>
+                                    <usg><seg type="plev" rend="usg">rar</seg></usg>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <term>A ieşi pe lume/A ieşi pe lumea de sus</term>
+                                    <usg><seg type="register style" rend="usg">popular</seg></usg>
+                                </form>
+                                <def xml:id="uuid-3f507a62-7f8b-4f8d-a7d3-38367696b6d2">a ajunge la loc larg, deschis, luminos</def>
+                                <def xml:id="uuid-a96ad8df-d0cd-483c-a6d1-bcf7d24b1429">a vedea lumina zilei</def>
+                                <usg corresp="#uuid-a96ad8df-d0cd-483c-a6d1-bcf7d24b1429">
+                                    <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Au dat laudă lui Dumnedzău că au scăpat ş-au ieşit la
+                                        lume</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="URECHE, L. URECHE, L.2 LET. I LET.2 I | URECHE, Let."/>
+                                        <date/>
+                                        <citedRange>92</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-81843850-034a-4226-a7d4-88421f2f2c68" n="◊">
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Lumea ochiului</term>
+                                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                                </form>
+                                <form type="unitate-semantică-subsumată">
+                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <term>Lumina ochilor</term>
+                                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
+                                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                                </form>
+                                <def xml:id="uuid-2436d5b9-82bc-4b0a-a5ec-6d0005a090c0">pupilă, lumina ochiului</def>
+                                <usg corresp="#uuid-2436d5b9-82bc-4b0a-a5ec-6d0005a090c0">
+                                    <seg type="plev" rend="usg">mai ales ca termen de comparaţie pentru ceva de foarte mare preţ</seg>
+                                </usg>
+                                <def xml:id="uuid-b62e7334-f4f0-491e-a1b4-8ef21bcc616a">vedere, văz;</def>
+                                <usg corresp="#uuid-b62e7334-f4f0-491e-a1b4-8ef21bcc616a">
+                                    <seg type="sem" rend="usg">p. ext.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-50e5beca-1fce-4de1-b492-d262f6020488" n="">
+                                <sense xml:id="uuid-da4b90ec-a940-4cc7-a97d-d067023cc496" n=" ">
+                                    <sense xml:id="uuid-dba28f4d-a4d6-4105-abe4-7a11552a5c86" n="a)">
+                                        <def xml:id="uuid-64f091f8-207c-4ab8-b312-1bcbc0e1df43">a duce pe cineva la loc larg, deschis</def>
+                                        <cit type="unknown">
+                                            <quote>Fata... începu a orbecăi prin bugetul cela de
+                                                pădure, ca doar d-o găsi vro potecă, care să o
+                                                scoaţă la lume.</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="#uuid-df5e535f-8f10-80c4-a53f-600cdc0d90f0"/>
+                                                <date/>
+                                                <citedRange>396</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <sense xml:id="uuid-31eb0c68-9af4-45de-8edc-d819e08a1519" n="b)">
+                                        <def xml:id="uuid-5fd1c3f4-4e28-4739-af01-cb8733f7174d">a crea</def>
+                                        <cit type="unknown">
+                                            <quote>Melodiile pe care le-a scos la lume marele
+                                                compozitor Grieg. </quote>
+                                            <bibl type="unknown">
+                                                <ptr target="SADOVEANU, E. SADOVEANU, O. XX | SADOVEANU, Pub. II"/>
+                                                <date/>
+                                                <citedRange>481</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A scoate pe cineva la lume/A scoate ceva la
+                                            lume</term>
+                                    </form>
+                                    <def xml:id="uuid-e9d1758d-7fcd-42dc-9fb8-7c809a4ae11e"/>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target=""/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-0c46bf14-f5f7-4d30-a51d-04d0b3c3b9ea" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A vedea lumea</term>
+                                    </form>
+                                    <def xml:id="uuid-391a8620-9832-4518-ae96-13464fe91cc9">a fi eliberat din temniţă</def>
+                                    <def xml:id="uuid-9938e926-d267-49b1-87e2-8b0fc950597a">a vedea lumina zilei</def>
+                                    <cit type="unknown">
+                                        <quote>L-au închis în Edicula cu mare urgie, care nime nu
+                                            mai dzice c-a videa lumea</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="NECULCE, L. (DA) NECULCE, CR. LET. II LET.2 II | NECULCE, Let."/>
+                                            <date/>
+                                            <citedRange>191</citedRange>
+                                        </bibl>
+                                    </cit>
+                                    <sense xml:id="uuid-537b9ef7-c747-4d14-8616-fc99846b224b" n="◊">
+                                        <def xml:id="uuid-4e1f1a97-d1bb-421b-b81a-5ceaac9ee65a">(Ca termen de adresare pentru cineva drag)</def>
+                                        <usg corresp="#uuid-4e1f1a97-d1bb-421b-b81a-5ceaac9ee65a">
+                                            <seg type="sem" rend="usg">fig.</seg>
+                                        </usg>
+                                        <cit type="unknown">
+                                            <quote>Stoienică, lumea mea, ... Să nu mergi la
+                                                Cladova.</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="I. CR. I ş. u. (DA) ION CR. I ... | I. Cr. "/>
+                                                <date/>
+                                                <citedRange>IV, 391</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <sense xml:id="uuid-4135471e-6cc3-4799-91ef-f3e29ea01240" n="◊">
+                                        <form type="unitate-semantică-subsumată">
+                                            <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                            <term>A întuneca lumea</term>
+                                            <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                        </form>
+                                        <def xml:id="uuid-73dfb15b-606b-46dc-9b56-0e37f16af07e">a acoperi lumina zilei</def>
+                                        <cit type="unknown">
+                                            <quote>Şi au început a să bate pre vrăjmaş, cât
+                                                întunecasă lumea, de nu să vedea om cu om şi să
+                                                vedea numai para cum ieşea din puşci</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="NECULCE, L. (DA) NECULCE, CR. LET. II LET.2 II | NECULCE, Let."/>
+                                                <date/>
+                                                <citedRange>243</citedRange>
+                                            </bibl>
+                                        </cit>
+                                        <sense xml:id="uuid-f4ceae4a-add4-4eac-b386-94b120c6e463" n="b)">
+                                            <def xml:id="uuid-72830396-01ec-4b3d-b20d-dd50a4e35ab1">a fi foarte supărat, mâhnit</def>
+                                            <cit type="unknown">
+                                                <quote>Una-i una şi două-s mai multe; lasă-mă în
+                                                  pace, că nu-mi văd lumea înaintea ochilor la
+                                                  necaz</quote>
+                                                <bibl type="unknown">
+                                                    <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                                    <date/>
+                                                    <citedRange>190</citedRange>
+                                                </bibl>
+                                            </cit>
+                                            <cit type="unknown">
+                                                <quote/>
+                                                <bibl type="cf.">
+                                                    <ptr target="#uuid-f75b293f-1b8a-4e1a-227d-8308eaa72da8"/>
+                                                    <date/>
+                                                    <citedRange>73</citedRange>
+                                                </bibl>
+                                            </cit>
+                                            <cit type="unknown">
+                                                <quote/>
+                                                <bibl type="unknown">
+                                                    <ptr target="CDDE CDDE² | CDDE I"/>
+                                                    <date/>
+                                                    <citedRange/>
+                                                </bibl>
+                                            </cit>
+                                        </sense>
+                                    </sense>
+                                    <sense xml:id="uuid-6fa1f531-1518-4f48-b0be-5d91354595ff" n="◊">
+                                        <def xml:id="uuid-cbdc8031-9fd6-4542-ad42-a4abb8f8ae10">(Fiind vorba despre divinitate)</def>
+                                        <cit type="unknown">
+                                            <quote>Fericaţi oameri ce ştiu strigare, Doamne, între
+                                                lumea (lumina CC2D) feaţei tale îmbla-vor</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="PSALT. PSALT. SCH. (DA) PSAL. SCH. (DA) CANDREA, PS. (cf. PSAL.) (DA) PSALT. (VOR., SCH., HUR., COR., COR.2, DOS.) | Psalt. Sch. – T. I"/>
+                                                <date/>
+                                                <citedRange>183</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                </sense>
+                                <sense xml:id="uuid-4c68c74c-1221-434d-aa58-b442ac4899f9" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A ise întuneca (cuiva) lumea ochilor</term>
+                                    </form>
+                                    <def xml:id="uuid-7769fa87-5e26-4c70-b80e-347127edd985">a fi foarte mânios</def>
+                                    <def xml:id="uuid-fce6e3be-b45a-482a-90ab-9de1e8450baf">a fierbe de mânie</def>
+                                    <cit type="unknown">
+                                        <quote>Când dă iar de Ivan, i se întunecă lumea înaintea
+                                            ochilor</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                            <date/>
+                                            <citedRange>317</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-77018a0d-2ebf-4d2e-903b-fab9b4504363" n="◊">
+                                    <sense xml:id="uuid-49b7626c-5049-4b15-8ddb-8acf50ee8de0" n="a)">
+                                        <def xml:id="uuid-d9031ed3-7109-4c7f-bf01-912bc676d595">a fi slăbit, vlăguit, epuizat</def>
+                                        <cit type="unknown">
+                                            <quote>Nu vedeam lumea înaintea ochilor, de flămând ce
+                                                eram.</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="#uuid-d175e1a8-62fe-24ca-4e45-450296204dda"/>
+                                                <date/>
+                                                <citedRange>144</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term>A nu(-şi) vedea lumea înaintea ochilor</term>
+                                    </form>
+                                    <def xml:id="uuid-fc8587f2-476e-40e1-8f67-b9c24a3ac49e"/>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-3468cd84-b433-4294-a6d0-c0234cae755d" n="2.">
+                                    <def xml:id="uuid-aad4b69c-e030-485f-971b-be9c9fe7380d">Piatră preţioasă, sclipitoare (mai ales diamant)
+                                        fixată într-un inel sau într-un ac</def>
+                                    <def xml:id="uuid-c3f6bf96-89e0-4eb8-9dbc-b8ba8c9a3f7e">lumină</def>
+                                    <cit type="unknown">
+                                        <quote>I-am mai dat o păreche paftale de argint... şi un
+                                            inel de aur cu lume</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-52716dbc-2c6c-7ce4-52d1-e548e1f75613"/>
+                                            <date>1785</date>
+                                            <citedRange>159</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-0d1b37ce-775e-4fe0-a9d3-029f075ddff9" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A se afla la lume</term>
+                                    </form>
+                                    <def xml:id="uuid-1d0debdf-23f7-4829-bec2-d12031e351b6">a fi cunoscut</def>
+                                    <def xml:id="uuid-095f62d1-6b9b-482b-93f0-bc6861927ab6">a ieşi la iveală</def>
+                                    <cit type="unknown">
+                                        <quote>[S-au întâlnit] într-un loc pustiu şi tainic de
+                                            curând aflat la lume, Unde spre tămăduire pătimaşii merg
+                                            anume. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CONACHI, P. (DA) KONAKI, P. | CONACHI, Vers."/>
+                                            <date/>
+                                            <citedRange>85</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-2c0f1312-3208-4c8b-86d9-7cc78a5d16d9"/>
+                                <cit type="unknown">
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-c01e29fb-b270-472a-a8fa-a4d1f221e890">Radiaţie a unor corpuri incandescente care impresionează
+                                ochiul omenesc; </def>
+                            <def xml:id="uuid-f49f8275-7b61-47a1-a2a7-6d7be89ab519">efectul acestei radiaţii</def>
+                            <def xml:id="uuid-d0a16348-c422-498e-8982-5c1da3d912ce">lumină (A I).</def>
+                            <usg corresp="#uuid-d0a16348-c422-498e-8982-5c1da3d912ce">
+                                <seg type="hint" rend="usg">în opoziție cu întuneric</seg>
+                            </usg>
+                            <cit type="unknown">
+                                <quote>Şi el face şi scoate ca lumea dereptatea ta şi judeţul tău ca
+                                    amiazăzi de zi. </quote>
+                                <bibl type="unknown">
+                                    <ptr target="#uuid-6999b371-00a3-0906-57b2-418e3ed3771c"/>
+                                    <date/>
+                                    <citedRange>93</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote>Intră pără la gintu părinţilor săi, şi pără în veacu nu veade
+                                    lumea (lumina C2)</quote>
+                                <bibl type="unknown">
+                                    <ptr target="PSALT. PSALT. SCH. (DA) PSAL. SCH. (DA) CANDREA, PS. (cf. PSAL.) (DA) PSALT. (VOR., SCH., HUR., COR., COR.2, DOS.) | Psalt. Sch. – T. I"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-39d10b96-9032-4b08-a736-b5be3b2a7520"/>
+                        <usg corresp="#uuid-39d10b96-9032-4b08-a736-b5be3b2a7520">
+                            <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular</seg>
+                        </usg>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-d4fbbffc-aa3a-4dd3-8737-0f839f3bbb9c" n="B.">
+                        <sense xml:id="uuid-a70bd33b-0b8d-43ea-801c-464c36e053e2" n="I.">
+                            <sense xml:id="uuid-e6604d9b-f98d-4b61-aeb2-616a0eae8af9" n="1.">
+                                <sense xml:id="uuid-54b95cd4-89d7-4764-b744-4a93341248bf" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term/>
+                                    </form>
+                                    <def xml:id="uuid-d910c1ba-2123-4826-8dec-2444fed7044f"/>
+                                    <usg corresp="#uuid-d910c1ba-2123-4826-8dec-2444fed7044f">
+                                        <seg type="coloc" rend="usg">determinat prin (Determinat prin „întreagă” sau „toată”)</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>A sa fiinţă pătrunde pământ, cer şi lumea toată, Le
+                                            umple, le sprijineşte, le ţine în starea dată. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-6c781bb6-0138-5f36-057b-fbc1d3526269"/>
+                                            <date/>
+                                            <citedRange>272</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-16ac0261-4426-44e3-89ca-3988d031d626" n="◊">
+                                    <def xml:id="uuid-4e4bcfac-6068-4742-8298-92f8a36fd4cf">(Figurat şi în contexte figurate) </def>
+                                    <cit type="unknown">
+                                        <quote>D[oa]mne s[fi]nte, cu lumina cea de trei sori ce
+                                            străluminează lumea </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CCR"/>
+                                            <date>1679-1680</date>
+                                            <citedRange> 227/31</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-25e2bc5d-a433-4a74-b704-592f098c3c6d" n="◊">
+                                    <def xml:id="uuid-2a509a82-c039-4272-8fd2-fde487611d33">(în contexte care se referă la o viziune asupra
+                                        universului, a cosmosului, a omenirii, a societăţii, a
+                                        situării omului în acest ansamblu) </def>
+                                    <cit type="unknown">
+                                        <quote>Privirea teologică, ştiinţifică şi poetică a lumei </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                            <date/>
+                                            <citedRange>IV, 123</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-9cec9b3c-d294-49b5-803f-7e0878d8cd88" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Lumea siderală </term>
+                                    </form>
+                                    <def xml:id="uuid-01bd1e9d-1062-4952-9d36-c4b2612d8e98">sistem de aştri sau de galaxii; ansamblul stelelor </def>
+                                    <cit type="unknown">
+                                        <quote>Dacă privim regularitatea fenomenelor lumii siderale
+                                            şi o comparăm cu nestatornicia sorţii omeneşti, am putea
+                                            crede că alt­ ceva se petrece în ceruri, altceva pe
+                                            pământ </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="EMINESCU, I. V. EMINESCU, N. EMINESCU, O. XII EMINESCU, S. P. (DA) EMINESCU, S. P. I | EMINESCU, Pub. IV"/>
+                                            <date/>
+                                            <citedRange>250</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-491cd363-27e2-4a4d-94c9-1e6d33f633a1" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Concepţie despre lume </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Concepţie despre viaţă</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Concept despre lume</term>
+                                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Concept despre viaţă</term>
+                                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                    </form>
+                                    <def xml:id="uuid-1535c9a4-2ee9-4809-bd65-bef4f1e39fb0">viziune de ansamblu (reprezentare şi teorie) asupra
+                                        mediului înconjurător, asupra existenţei umane, scop
+                                        fundamental al cunoaşterii şi filosofiei </def>
+                                    <def xml:id="uuid-bf398d73-36d8-4887-bf66-6ee44cc41bb3">fel de a gândi</def>
+                                    <usg corresp="#uuid-bf398d73-36d8-4887-bf66-6ee44cc41bb3">
+                                        <seg type="sem" rend="usg">p. ext.</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Şi tocmai cum religia getică e diferită de cea
+                                            tracică, tot aşa şi viaţa lor familiară şi concepţia lor
+                                            despre lume şi viaţă. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-f97dc69c-2c45-048b-01ad-cd68fa601af9"/>
+                                            <date/>
+                                            <citedRange>147</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-49e16313-e7ec-4e26-b7c0-335820fad17e" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <term>Boierul lumii</term>
+                                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                                    </form>
+                                    <def xml:id="uuid-89cb53b9-c1bc-4758-8552-b1e56551c7f6">diavolul</def>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="cf.">
+                                            <ptr target="DDRF (DA) FRÉDÉRIC DAMÉ | DDRF I"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="ZANNE, P. IV ZANNE, P.2 IV (DA) ZANNE, P. IV | ZANNE, Prov. IV"/>
+                                            <date/>
+                                            <citedRange>283</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-06754e7f-a2ab-40e9-a198-326ce33e1ce9" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când lumea </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când lumea şi pământul </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când e lumea </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când e lumea şi pământul </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când cu lumea </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când cu lumea şi pământul </term>
+                                    </form>
+                                    <def xml:id="uuid-f030538b-ebb6-4559-93fa-d2e4daae7a5d">de foarte multă vreme</def>
+                                    <def xml:id="uuid-75b17612-6eab-46c4-ae49-e886c9431f88">de totdeauna, dintotdeauna</def>
+                                    <def xml:id="uuid-07d2444c-e31a-42a9-8fe4-00de199e683e">vreodată</def>
+                                    <def xml:id="uuid-2567340b-5d28-44dc-a10e-0aa2ae06efa3">niciodată</def>
+                                    <usg corresp="#uuid-2567340b-5d28-44dc-a10e-0aa2ae06efa3">
+                                        <seg type="coloc" rend="usg">în construcții negative</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Asemenea nu au fost nicio împărăţie de când ieste
+                                            lumea. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="M. COSTIN, O. | M. COSTIN, D. N. Mold."/>
+                                            <date/>
+                                            <citedRange>249</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-d235a4b2-990e-45a7-bee5-a4d59499ca30" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când e lumea lume</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când a fost lumea lume </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>De când lumea e lume </term>
+                                    </form>
+                                    <def xml:id="uuid-31ad90db-cd4c-4289-a29f-e3e27c9871aa">dintotdeauna</def>
+                                    <def xml:id="uuid-5e380331-a8ab-4fb6-914f-c9386521207a">niciodată</def>
+                                    <usg corresp="#uuid-5e380331-a8ab-4fb6-914f-c9386521207a">
+                                        <seg type="coloc" rend="usg">în construcții negative</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>De când lumea e lume, ce carte omenească Putu de
+                                            fapte rele pe oameni să oprească </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-20a51cdc-261f-48b0-2c5d-8cec15421b73"/>
+                                            <date/>
+                                            <citedRange>181</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-8915f283-b51d-40d0-be0d-0765c773c244" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>Cât lumea şi pământul</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>Cât e lumea şi pământul</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>Cât va fi lumea şi pământul</term>
+                                    </form>
+                                    <def xml:id="uuid-f3527a9f-6fe4-4aa3-bc13-ebf655128f88">fără limită, fără sfârşit (în spaţiu şi timp)</def>
+                                    <def xml:id="uuid-9e57bc42-a735-45bf-8f7a-f2a0a0cab065">din belşug</def>
+                                    <def xml:id="uuid-eaa797d8-d6f2-4f24-b7c6-e02e48a23096">niciodată</def>
+                                    <def xml:id="uuid-74e31145-1b1d-421a-bd6e-529991fca894">nicăieri</def>
+                                    <usg corresp="#uuid-74e31145-1b1d-421a-bd6e-529991fca894">
+                                        <seg type="coloc" rend="usg">în construcții negative</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Cât e lumea nu-i mai vezi</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="NEGRUZZI, B. NEGRUZZI, O. II NEGRUZZI, S. II | NEGRUZZI, Balade – T."/>
+                                            <date/>
+                                            <citedRange>58</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-14f3aeaf-8d7c-44f6-a92b-22a9208f3a17" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>Până-i lumea lume ori până-i lumea şi pământul, până-i
+                                            lume </term>
+                                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term>Până-i lumea şi pământul </term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                        <term> Până-i lume</term>
+                                    </form>
+                                    <def xml:id="uuid-c2f8b85e-1781-4b51-9771-8b25f881e16c">veşnic</def>
+                                    <def xml:id="uuid-644dd5de-831e-4be2-8ad0-eb8da028b634">foarte mult</def>
+                                    <def xml:id="uuid-771908bf-d193-47a6-abcc-778106cf769c">niciodată</def>
+                                    <usg corresp="#uuid-771908bf-d193-47a6-abcc-778106cf769c">
+                                        <seg type="coloc" rend="usg">în construcții negative</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Unul ca acela a se pocăi!... Până-i lumea!</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-e29b5ac6-1164-7fd7-4e0e-4278e1375bed"/>
+                                            <date/>
+                                            <citedRange>318/22</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-3dcff8af-9cfd-4aed-80a1-8ade82842351" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A fi bătrân ca lumea</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A fi bătrân cât lumea</term>
+                                    </form>
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>A fi bătrân de când lumea</term>
+                                    </form>
+                                    <def xml:id="uuid-039c159a-e29e-47f9-a29a-24608af31437">(a fi) foarte bătrân</def>
+                                    <cit type="unknown">
+                                        <quote>Cărarea... era umbrită pe amândouă laturile de brazi
+                                            înalţi şi stufoşi, bătrâni de când lumea </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="GANE, N. I–III GANE, S. | GANE, Nuv. I"/>
+                                            <date/>
+                                            <citedRange>87</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-1648d2fb-1210-4fb2-9efa-1a2a07f6a417" n="◊">
+                                    <form type="unitate-semantică-subsumată">
+                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <term>Câte-s în lume, toate</term>
+                                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                                    </form>
+                                    <def xml:id="uuid-9b9793b1-1fc2-436b-ba47-77e659c18740">tot ce există, tot ce se poate închipui</def>
+                                    <cit type="unknown">
+                                        <quote>Îmi imputa câte-s în lume, toate</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="PAMFILE, J. II (DA) PAMFILE, J. (DA) PAMFILE, J. II | PAMFILE, Jocuri II"/>
+                                            <date/>
+                                            <citedRange>152</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-f8306576-6094-40d2-b2e3-ff4bade1bce8">Totalitatea celor existente în spaţiu şi în timp</def>
+                                <def xml:id="uuid-defdd53a-9b4c-4b24-be67-7d71b3b86e32">tot ce se poate percepe cu ajutorul simţurilor,</def>
+                                <def xml:id="uuid-d00c427d-ae7a-4cb6-a4aa-bbbf1a1810ef">ansamblul celor cunoscute omului ori logic posibile</def>
+                                <def xml:id="uuid-08a722eb-e7fb-4ad3-b612-8b7d36c878ed">întregul sistem al universului socotit ca o creaţie a lui
+                                    Dumnezeu sau a altei divinităţi</def>
+                                <xr type="syn" corresp="#uuid-08a722eb-e7fb-4ad3-b612-8b7d36c878ed">
+                                    <ptr target="cosmos"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-08a722eb-e7fb-4ad3-b612-8b7d36c878ed">
+                                    <ptr target="macrocosm"/>
+                                </xr>
+                                <xr type="syn" corresp="#uuid-08a722eb-e7fb-4ad3-b612-8b7d36c878ed">
+                                    <ptr target="univers"/>
+                                </xr>
+                                <def xml:id="uuid-ac8d97c6-3e31-44ae-9f4e-ae94590f5339">sistemul de elemente ale realităţii legate între ele prin
+                                    raporturi universale</def>
+                                <usg corresp="#uuid-ac8d97c6-3e31-44ae-9f4e-ae94590f5339">
+                                    <seg type="sem" rend="usg">spec.</seg>
+                                    <seg type="hint" rend="usg">în</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Înţeleasa amu ainte de tocmeala lumiei.</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="COD. VOR. COD. VOR.2 | Cod. Vor. – T."/>
+                                        <date/>
+                                        <citedRange>72r/4</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-7cb861da-a176-45eb-b58b-977151d55a91" n="2.">
+                                <def xml:id="uuid-21208d6a-2d0d-45b1-96d5-acf40f1c18e2">Sistem solar</def>
+                                <def xml:id="uuid-aec66f8f-4714-4178-afef-0627b4f4f90e">sistem planetar</def>
+                                <def xml:id="uuid-48c3c8ef-fc74-4b30-a972-cded019ac873">ansamblu de corpuri cereşti format din pământ (2) şi
+                                    aştrii vizibili, constituind un sistem unitar</def>
+                                <usg corresp="#uuid-48c3c8ef-fc74-4b30-a972-cded019ac873">
+                                    <seg type="sem" rend="usg">spec.</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Mai multe lumi decât aceasta ce lăcuim poate să
+                                        zidească</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <date/>
+                                        <citedRange>19</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-fe72c27c-088a-4ccc-a18c-f6ece99d7617" n="3.">
+                                <def xml:id="uuid-d10447fb-f75c-416e-8875-bfc7a6c7bef0">Totalitatea lucrurilor, elementelor sau conceptelor de
+                                    acelaşi fel considerate ca un aspect al universului din punct de
+                                    vedere material, moral, spiritual etc.</def>
+                                <usg corresp="#uuid-d10447fb-f75c-416e-8875-bfc7a6c7bef0">
+                                    <seg type="plev" rend="usg">mai ales</seg>
+                                    <seg type="coloc" rend="usg">urmat de determinări care arată aspectul, partea universului la care se referă</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Într-acest chip au gândit ... că au stins cu totul
+                                        ateismul ... zicând că ipotesul de lumea simţită este
+                                        înşălăciune</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-d760d380-040b-714c-23d7-6b74f74c0f11"/>
+                                        <date/>
+                                        <citedRange>64/19</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-bd1a701d-04df-4992-9150-adef7563437e" n="4.">
+                                <sense xml:id="uuid-65bdd7ab-128d-4f4c-a1b0-ced62783803d" n="♦">
+                                    <def xml:id="uuid-00134c07-70c5-40d8-80b6-f258e19c99e3">Ansamblu de elemente materiale care constituie un
+                                        domeniu organizat</def>
+                                    <cit type="unknown">
+                                        <quote>Această lume de urme trebuie reînviată</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                            <date/>
+                                            <citedRange>IV, 41</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-ca982ae4-887f-4462-9729-ba4a4a9ac4c1" n="♦">
+                                    <sense xml:id="uuid-a3046865-c62d-44a8-97fa-877227b11ec5" n="◊">
+                                        <def xml:id="uuid-2c92f654-efde-4827-9bb9-10bbeb1861b1">Întărit prin adjective posesive sau prin pronume
+                                            personale neaccentuate în dativ cu valoare
+                                            posesivă</def>
+                                        <cit type="unknown">
+                                            <quote>În va mai caut lumea în obositu-mi creier</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="#uuid-3a6bd1dd-08a6-026e-3def-ce2262e21478"/>
+                                                <date/>
+                                                <citedRange>79</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <sense xml:id="uuid-aadc06a6-9e00-4f36-8ac1-4dfcbb304482" n="◊">
+                                        <def xml:id="uuid-b99806e0-7e68-4712-b87f-039625565d59">Determinat prin „de gânduri", „gândurilor"</def>
+                                        <cit type="unknown">
+                                            <quote>Vino în lumea gândurilor mele</quote>
+                                            <bibl type="unknown">
+                                                <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                                <date/>
+                                                <citedRange>IV, 17</citedRange>
+                                            </bibl>
+                                        </cit>
+                                    </sense>
+                                    <def xml:id="uuid-59310fba-4d5a-4e0b-b05e-0240c8601040">Alcătuire spirituală bazată pe un anumit sistem de
+                                        gândire şi pe un mod de exsitenţă, prin care se
+                                        particularizează ansamblul vieţii interioare a cuiva</def>
+                                    <def xml:id="uuid-04ad80b0-1b96-4298-939e-f62bc2fc123d">specificitatea conştiinţei, a gândirii, a simţirii, a
+                                        vieţii sufleteşti sau a creaţiilor artistice</def>
+                                    <usg corresp="#uuid-04ad80b0-1b96-4298-939e-f62bc2fc123d">
+                                        <seg type="sem" rend="usg">fig.</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Toţi alţii ziditori de lumi vin la o nimică
+                                            filosofască cărora lipseşte de a fi în putere</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-073857c9-6a6a-a56a-988f-4782518a59c0"/>
+                                            <date/>
+                                            <citedRange>20v/5</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-33b4c327-8015-4c2a-90a8-ac766c2b0ddd">Ansamblu de elemente considerate ca formând un univers
+                                    spiritual individual sau al unei colectivităţi</def>
+                                <usg corresp="#uuid-33b4c327-8015-4c2a-90a8-ac766c2b0ddd">
+                                    <seg type="plev" rend="usg">mai ales</seg>
+                                    <seg type="coloc" rend="usg">urmat de determinări care arată domeniul, felul, elementele componente</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Poporul cată a cuprinde în puţine cuvinte o lume de
+                                        idei</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-f737f9a4-9941-2903-82f2-a79903c73303"/>
+                                        <date/>
+                                        <citedRange>187</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-5c0634ce-521d-44a5-9804-2b9201e6f510" n="5.">
+                                <def xml:id="uuid-84d534e9-a0cc-4a19-8572-fb99a8866c27">Ansamblu complex şi important.</def>
+                                <usg corresp="#uuid-84d534e9-a0cc-4a19-8572-fb99a8866c27">
+                                    <seg type="sem" rend="usg">fig.</seg>
+                                    <seg type="coloc" rend="usg">precedat de articolul nehotărât „o"</seg> și <seg type="coloc" rend="usg">întărit prin „întreagă"</seg>
+                                </usg>
+                                <cit type="unknown">
+                                    <quote>Parisul e o lume mică</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="LM | LMD I"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <cit type="unknown">
+                                    <quote>Casa părintească era o lume pentru mine</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="MAIORESCU, CR. I MAIORESCU, CRITICE MAIORESCU, O. I | MAIORESCU, Crit. I"/>
+                                        <date/>
+                                        <citedRange>61</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-ba312bf9-843a-43fc-9381-e5a3831724a4">(Predomină ideea universului considerat în totalitatea sa ori
+                                în părţile sale)</def>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-aae5b677-6b16-42c4-aab7-0daa698b2fcf" n="II.">
+                            <sense xml:id="uuid-f57322e5-565f-4403-add3-40703d8b7a3e" n="1.">
+                                <sense xml:id="uuid-4e29a9c4-9642-4f7f-9ec5-884637c9c833" n="◊">
+                                    <def xml:id="uuid-029a6058-7941-4589-a15d-a63b5a5f3ea4">Întărit prin „toată", „întreagă"</def>
+                                    <cit type="unknown">
+                                        <quote>Răsăritul şi apusul însămneadză toată lumea</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                            <date/>
+                                            <citedRange>170</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-27e35a6e-27a7-4ac8-9745-c0a18e3c3ce8" n="◊">
+                                    <def xml:id="uuid-6e5d7c16-40d5-47a9-903e-3f2e0438396c">Cu referire la cele patru puncte cardinale şi la
+                                        spaţiul cuprins între ele</def>
+                                    <cit type="unknown">
+                                        <quote>Domnul Hristos cu crucea patru margini a lumiei
+                                            ţine</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                            <date/>
+                                            <citedRange>80</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-3f365801-c628-4188-a03c-12ca48879172" n="◊">
+                                    <def xml:id="uuid-f189b13b-5bea-42b3-916f-4f186f33952f">(La genitiv; exprimă în gradul cel mai înalt calităţi
+                                        sau defecte sau o cantitate, un număr foarte mare</def>
+                                    <cit type="unknown">
+                                        <quote>Voi ştiţi că domnii lumiei domnesc şi marii au
+                                            puterea</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CORESI, EV. (DA) CORESI, E. (Cf. CORESI, EV.) | CORESI, Ev. – T."/>
+                                            <date/>
+                                            <citedRange>86</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-aa6f0752-a15b-4d3a-8b87-65472b35c1bc" n="◊">
+                                    <def xml:id="uuid-e79cb425-ff23-4ea7-9f95-57196a4a3ad6">Exprimă sau întăreşte ideea de superlativ ori
+                                        absolutizează în negativ sensul cuvântului determinat</def>
+                                    <usg corresp="#uuid-e79cb425-ff23-4ea7-9f95-57196a4a3ad6">
+                                        <seg type="coloc" rend="usg">în construcții cu cu prep. „în”, „pe” , „din” , „de pe”</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Tu eşti întâi în lume sătul fară saţiu şi pre cât
+                                            agoniseşti ce n-ai, pre atâta să mai aibi râvneşti. </quote>
+                                        <bibl type="unknown">
+                                            <ptr target="M. COSTIN, O. | M. COSTIN, D. N. Mold."/>
+                                            <date/>
+                                            <citedRange>316</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-9842242a-b8f8-4837-879d-102c0b6c52d2" n="◊">
+                                    <def xml:id="uuid-f8d771d7-c6c3-491f-be4e-ec8c1b5ba334"/>
+                                    <usg corresp="#uuid-f8d771d7-c6c3-491f-be4e-ec8c1b5ba334">
+                                        <seg type="hint" rend="usg">precedat de prep. „în” , „pe” , „de pe”</seg>
+                                        <seg type="coloc" rend="usg">determină cuvinte cu sens negativ, absolutizându-le sensul</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote>Nimeni nici s-au aflat în lume asemenea lor</quote>
+                                        <bibl type="unknown">
+                                            <ptr target="CM I | C. CANTACUZINO STOLNICUL, Ist. Ţ. R."/>
+                                            <date/>
+                                            <citedRange>I, 47</citedRange>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <sense xml:id="uuid-4ed320f2-ad67-4b41-a949-895f3cf41e9a" n="◊">
+                                    <def xml:id="uuid-29f0fb1f-5c8f-4baa-8d20-73bd231d3b2c"/>
+                                    <usg corresp="#uuid-29f0fb1f-5c8f-4baa-8d20-73bd231d3b2c">
+                                        <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular sugerează avuţie, bogăţie pământească, bunuri pământeşti</seg>; <seg type="sem" rend="usg">p. ext. stăpânire a luii</seg>
+                                    </usg>
+                                    <cit type="unknown">
+                                        <quote/>
+                                        <bibl type="unknown">
+                                            <ptr target="unknown"/>
+                                            <date/>
+                                            <citedRange/>
+                                        </bibl>
+                                    </cit>
+                                </sense>
+                                <def xml:id="uuid-206565b9-29b3-4484-8020-9d0476a1d4f5">Globul pământesc cu întreaga sa viaţă animală şi
+                                    vegetală</def>
+                                <def xml:id="uuid-15cbbb2c-554c-4fba-b1e2-e4c58c8199ad">pământul locuit de oameni</def>
+                                <cit type="unknown">
+                                    <quote>Împlu lumea de fala izbândelor sale şi pe păgâni de
+                                        teroare</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="#uuid-240f6506-59fc-9196-16b9-e3e746cd7083"/>
+                                        <date/>
+                                        <citedRange>208</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-532c524a-e8fa-4282-94cc-f78e3638dc38"/>
+                            <cit type="unknown">
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-cfcefe7d-2db4-45bc-8954-63a2303826fc"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-28b75079-277e-4308-a386-c64a18c8979e" n="">
+                        <def xml:id="uuid-71b70976-4654-4c6c-997e-15d76b0e9d4e"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>lumi</number>
+                    </form>
+                    <form type="grammatical-information-for-plural" corresp="">
+                        <number>lume</number>
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>și
+                        <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
+                        <case value="gen.-dat.">lumei, lumiei</case>
+                    </form>
+                </form>
+                <etym cert="high">
+                    <idno type="element.moştenit-etimon.atestat"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">lumen „lumină“</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

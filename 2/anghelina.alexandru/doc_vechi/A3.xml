@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-da9504ac-90da-4973-8d84-de87c60b42b6" version="3.3.0" source="0.21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Romanian Academy, Philology and Literature Section</publisher>
+            <idno type="project">dlr2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-04-20T15:26:17+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="3">A</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">A</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="prep."/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-1c4574b3-92b3-466f-9a59-ef3125c6bc58" n="">
+                        <def xml:id="uuid-848c97ab-f5bd-4831-b36f-a923a6337d55"/>
+                        <cit type="unknown">
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-45a3657e-d159-4300-9056-0f1e16c56d3f" n="1.">
+                        <def xml:id="uuid-118c258c-3557-4f69-b22e-af82d26e25a6"/>
+                        <usg corresp="#uuid-118c258c-3557-4f69-b22e-af82d26e25a6">
+                            <seg type="coloc" rend="usg">precedă infinitivul scurt ca formă-tip a verbului</seg>
+                        </usg>
+                        <cit>
+                            <quote>A lucra</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-d365d6b3-a9af-4366-9396-85d197d61156" n="2.">
+                        <sense xml:id="uuid-8dafd40c-8df6-4328-9387-57d2d5d3f0ad" n="♦">
+                            <def xml:id="uuid-9bed2c95-5d24-4415-9c17-cfd0b47bf56a">În semn de... </def>
+                            <cit>
+                                <quote>Fluieră a pagubă</quote>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-8d8fe11c-1a1f-46e0-b717-098b6f4a1d57"/>
+                        <usg corresp="#uuid-8d8fe11c-1a1f-46e0-b717-098b6f4a1d57">
+                            <seg type="hint" rend="usg">Exprimă un raport de comparaţie sau de asemănare</seg>
+                        </usg>
+                        <cit>
+                            <quote>Miroase a pământ</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-c7c08e2a-c113-4f38-934c-5a31ce614ed0" n="3.">
+                        <def xml:id="uuid-5f15db39-ea9c-46ca-852f-8e244bb79406"/>
+                        <cit>
+                            <quote>De-a dreapta, atoatevăzător, atotputernic</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-3e8bd8b5-1a21-477c-a5d8-d8ff20021618" n="4.">
+                        <def xml:id="uuid-28499983-603c-47a7-8811-d778592edc0e"/>
+                        <cit>
+                            <quote>De-a baba oarba</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-00d8f219-8dc1-44a0-802a-05a80ceff23b" n="5.">
+                        <def xml:id="uuid-3f17d34b-37c8-4dab-bbbd-1b3c9609088f"/>
+                        <cit>
+                            <quote>Premiile a trei copii</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>Sensul a ceva</quote>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">ad</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

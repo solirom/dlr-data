@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-51fd860e-5749-42b0-ac46-aedad4b8c249" version="3.3.0" source="0.20">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>anghelina.alexandru</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Linguistic Institute of the Romanian Academy</publisher>
+				<idno type="dictionary">DLR</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-11-29T13:33:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="2">a</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">A</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="interj."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7e18df77-b197-432d-b7bc-2f6b80e72915" n="">
+						<sense xml:id="uuid-3b0cf960-1608-441f-bdde-4a14d3759b7c" n="a)">
+							<def xml:id="id">indignare.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>, orbilor, carele mai marele iaste, aur
+									au beseareca ce svințeaște aur?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7bf9d8ec-5861-5659-655e-772bf4a700d3">ev.
+										sl</ptr>
+									<date>&lt;1551–1553&gt; </date>
+									<citedRange>90<hi rend="superscript">r</hi>/16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>N-apucă să sfârşească, căci buzduganul armaşului lovindu-l
+									drept în frunte, îl oborî la pământ. – <hi rend="bold">A</hi>!
+									voi ocăriţi pre domnul vostru! strigă acesta.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1d7f90a7-4d1f-618c-3e4d-e1bc6aae4601">negruzzi</ptr>
+									<date>1840</date>
+									<citedRange>87</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! tălhariule, vii sus de stinghireşti
+									fata de la gherghef? Na, na, spurcatule!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2d6d847e-366c-14e2-1162-0570aedb8d3c">drumul</ptr>
+									<date>1869</date>
+									<citedRange>800</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! te sperie cuvântul „fenomen”,
+									tâlharule!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-84b6cbac-a18d-2776-6e2e-c409fee775ff">c.
+										juc</ptr>
+									<date>1928</date>
+									<citedRange>180</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>! – izbucni episcopul cu răgetul de
+									leu. Şantaj?... Şi tu te potriveşti, scârnăvie?... Crezi că
+									nu-ţi cunosc ticăloşiile? Afară, blăstămatule!...</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-738807ad-8c83-35b7-24e6-65be8efc2a80">revol</ptr>
+									<date>1935</date>
+									<citedRange>378</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>!... Păi dumneavoastră, sunteţi
+									escroci în regulă. Nu altceva!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-db52f9d8-9b95-3fb3-2c34-24b8390072dd">minulescu</ptr>
+									<date>1939</date>
+									<citedRange>103</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Oricum, observă el fără milă, hatmanul ce fu înghesuit de
+									nepotul lui Bergson şi răbdă la ananghie pragmatică bușnea acum
+									spectaculos. – <hi rend="bold">Aaah</hi>, veniţi dă dăschideţi
+									ferestrele să iasă mirosul dă mitocan.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f9627b29-a3be-0c5c-26f8-6952f0ce9d95">solsti</ptr>
+									<date>1982</date>
+									<citedRange>34</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi> voi vi-s ăia de la Canal... Ați
+									venit în Dobrogea să ne stricați pământurile cu Canalul
+									vostru?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6395f9eb-9ee3-4b24-04fc-a8858fc59dc9">rădulescu</ptr>
+									<date>1998</date>
+									<citedRange>235</citedRange>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote><hi rend="bold">Aaaa</hi>, ticălosule, aşa batjocoreşti tu o
+									faţă preoţească?!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9040dad7-3ba4-7c2c-53b0-2f3bdefca0bd">timoc</ptr>
+									<date>1945</date>
+									<citedRange>312</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1f3db078-e55e-42bb-9a58-93cb5dc97732" n="b)">
+							<def xml:id="id">surprindere, mirare, uimire.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>, vis oare este, nălucire ori adevăr? </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3e35d008-07a9-61d6-06d0-ed4be4380de5">yung</ptr>
+									<date>1831</date>
+									<citedRange>32/20</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! tot aici ești?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-90f2a8db-7e2e-951b-6e05-676b2ede28a3">paraclis</ptr>
+									<date>1866</date>
+									<citedRange>774</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Ha</hi>!... ce este?... am visat că s-o
+									spânzurat Pepelea-n cui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-050d6405-a7a2-0e5a-8aab-be336c1f8e87">arvinte</ptr>
+									<date>1869</date>
+									<citedRange>713</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aa</hi>! exclamă el ca speriat din somn. Dar
+									tu cum ai ajuns aici!?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-699f5485-0595-8694-6cc2-01d6b01815e0">slavici</ptr>
+									<date>1905</date>
+									<citedRange>144</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dumneata ești, domnule Ghiță? Aici îs eu, arendașul... – <hi rend="bold">Aaa</hi>!... îmi pare bine!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2e144806-3164-1fb7-17f1-68e7d0984b7b">sp.
+										pop</ptr>
+									<date>1909</date>
+									<citedRange>224</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ghici unde a descins Mika-Le în faimoasa seară când a plecat
+									gonită de la moşie? Nu-ţi dă în minte şi e, totuşi, de o
+									consecvenţă admirabilă!... La Notre-Dame! – <hi rend="bold">Aaa</hi>! se miră Mini.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c51e9263-0fbd-92c1-23a7-db60a1da5d99">papadat</ptr>
+									<date>1926</date>
+									<citedRange>66</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>! – exclamă el aflând „cu cine are
+									onoarea”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0b5af3fb-7f65-817b-3804-2bc90a85877c">stere</ptr>
+									<date>1934</date>
+									<citedRange>330</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu ştiu. Vedem noi pe „evidenţă”. O să-ţi spună dl. dr.
+									Gânju... <hi rend="bold">Aaa</hi>! Dlui e dă servici
+									azi?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-12378f9f-4d6e-157a-6a95-38035abc4644">mușatescu</ptr>
+									<date>1945</date>
+									<citedRange>262</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eu sunt cumnatul domnului Sabin... – <hi rend="bold">A</hi>,
+									vai, da! Tata lu domnişoru Dan?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a7eaa8b2-5152-8145-500c-3b9cee414f6b">setea</ptr>
+									<date>1958</date>
+									<citedRange>78</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Când îl văzu pe Iancu, llie înlemni de uimire: – <hi rend="bold">A</hi>! Aşa! exclamă el lung.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e27a4821-5ce3-59e1-0685-c4e76e8962e5">preda</ptr>
+									<date>1966</date>
+									<citedRange>419</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>, Nae! Ce mai faci?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-105c9f65-637b-1daf-3b57-90b9bdd25127">nedelciu</ptr>
+									<date>1979</date>
+									<citedRange>161</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îi spuse lăutarului care se scărpina în barba sa nespălată şi
+									roşie că Iosua trimisese două iscoade să cerceteze Ierihonul. –
+										<hi rend="bold">Aaa</hi>! căscă gura Pâine Coaptă, ca la
+									spiţer. Ei erau cei doi trimişi?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-33acaabf-006a-8907-0041-5309274aa0bb">orașul</ptr>
+									<date>1985</date>
+									<citedRange>426</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold"/>Doar ţi-am spus că nu mai pleca şi nu mai
+									pleca... – Cristidoaia? – Dar cine? – <hi rend="bold">Aaa</hi>,
+									şi i-ai zis aşa...</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23">adameș</ptr>
+									<date>1997 (1983)</date>
+									<citedRange>337</citedRange>
+								</bibl>
+							</cit>
+							<cit type="▭">
+								<quote><hi rend="bold">A</hi>! <hi rend="bold">a</hi>! nu ți-am spus
+									eu să te ferești. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1887</date>
+									<citedRange>77</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-71364ce7-6c58-468d-9ee5-03fe7c22a363" n="c)">
+							<def xml:id="id">necaz, supărare;</def>
+							<def xml:id="uuid-b01b05cb-6f79-41ee-b277-b28738e5d59f">regret.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! cât de mult amară Viața o să-mi pară. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-20a51cdc-261f-48b0-2c5d-8cec15421b73">alexandrescu</ptr>
+									<date>1838</date>
+									<citedRange>165</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să mă-ntorc? Mai degrabă-şi va întoarce Dunărea cursul
+									îndărăpt. <hi rend="bold">A</hi>! Nu mă vrea ţara? Nu mă vreţi
+									voi, cum înţăleg?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1d7f90a7-4d1f-618c-3e4d-e1bc6aae4601">fragm</ptr>
+									<date>1840</date>
+									<citedRange>79</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>, cât de pustie-i lumea și viața fără
+									tine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-55df6bd0-3c5d-7868-4c5d-3ac15cd97772">vlahuț</ptr>
+									<date>1884</date>
+									<citedRange>9</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! ce nenorocire!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b34f13d5-07d1-4184-1e21-54d9514178a2">scris.
+										p</ptr>
+									<date>1885</date>
+									<citedRange>117</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold"/>Bătrânul îşi trecu încet mâna prin părul lui
+									alb, în care vântul se juca nebunatic. <hi rend="bold">A</hi>!... ce cunoştinţă veche îi era vântul acesta.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5c066d0d-409c-4908-3d8f-ca6f1d4f10d1">bart</ptr>
+									<date>1898</date>
+									<citedRange>55</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>A căzut proectul? – S-a respins aproape cu unanimitate... –
+										<hi rend="bold">Aaaa</hi>...</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8f735df7-2423-5d8d-3234-dfbed822a396">sybar</ptr>
+									<date>1902</date>
+									<citedRange>303</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mişcă-te mai repede, băiete! îl sileşte Pitache, <hi rend="bold">aaa</hi>! mişcă-te, băieţaş. Și nu-l slăbește
+									deloc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ac917b3d-2ed8-6721-8a9e-00d40edd81c5">ÎNTUNERIC</ptr>
+									<date>1908</date>
+									<citedRange>148</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>, mi s-a stins ţigareta ascultând la
+									tine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-81aa44c7-8235-4480-1d3d-8e62aeee1092">delavrancea</ptr>
+									<date>1916</date>
+									<citedRange>294</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>, omul... da, da, ce e omul... ai
+									dreptate, nimica toată... Săracul de el!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-be2a39ca-1c9d-648e-8b3e-d3286e4b1bf5">scos</ptr>
+									<date>1924</date>
+									<citedRange>331</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dar ce e, dragă, ce s-a întâmplat ? ... – <hi rend="bold">Aaa</hi>... <hi rend="bold">Aaa</hi>... Pe mine să nu mă
+									scoată cineva din sărite... C-oi fi eu bună... Da ştii, vorba
+									aia, să nu mă calci pe picioare mult, că te plesnesc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-46ce51bf-3155-639f-35ef-6b29672a38b1">procust</ptr>
+									<date>1933</date>
+									<citedRange>215</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Vai de mine! Scrisorile mele... <hi rend="bold">Aaaa</hi>!
+										<hi rend="bold">Aaaa</hi>!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-79780f18-7cf5-3b53-89c4-70dd3df45d79">sebastian</ptr>
+									<date>1938</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>!... <hi rend="bold">Aaaa</hi>!... a
+									exclamat scandalizată majoritatea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-228ac4d3-7bcb-6a44-9ae2-fbfe3d8263a0">cocea</ptr>
+									<date>1949 (†)</date>
+									<citedRange>303</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Şi câte iram pătimit cu ea. <hi rend="bold">Aaaa</hi>, numai
+									eu ştiu, eu şi săraca Sofiţa, nevastă-mea, fie-i ţărâna
+									uşoară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f9627b29-a3be-0c5c-26f8-6952f0ce9d95">solsti</ptr>
+									<date>1982</date>
+									<citedRange>36</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>! urlă iarăşi Dobre, întorcându-se
+									sălbatic spre sublocotenent. Revolverul lui Belmega
+									fumega.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-32478d77-4195-324c-4dca-461c401417cd">tiron</ptr>
+									<date>1980</date>
+									<citedRange>178</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>ADAMEȘTEANU, Dim., 61: Albumul; se rostogoleşte, ea dă să-l
+									prindă, dar, de nervoasă ce e, îi tremură mâinile şi i se
+									rostogoleşte printre degete. <hi rend="bold">Aaaa</hi>, acum au
+									să se desprindă fotografiile şi au să umple casa!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23">adame</ptr>
+									<date>1997 (1983)</date>
+									<citedRange>61</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-4ccbb9da-aa06-465b-bf57-a53f68661dde" n="d)">
+							<def xml:id="id">uimire provocată de amintirea (bruscă) a unui lucru
+								(omis).</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>! uitasem că s-a dus.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-08da663c-1f64-9714-3747-433caacb93db">negruzzi</ptr>
+									<date>1840</date>
+									<citedRange>44</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Simt o gâdilătură în furca pieptului şi un nod care se ridică
+									înfigându se în gâtlej, făcându-mă să înghit în sec... <hi rend="bold">a</hi>!... cunosc: e începutul răului de
+									mare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4433a29b-3da6-6980-4c5f-5a2a13b029c1">bart</ptr>
+									<date>1901</date>
+									<citedRange>7</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>... staţi că mi-am adus aminte; am
+									dat cu el Civilul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aba1dabe-3c3e-1147-6d1c-e39c6f2221c3">zilele</ptr>
+									<date>1934</date>
+									<citedRange>263</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu vă supăraţi, unde stă unu Marian care-i învăţător? –
+									Marian petagogu, unde stă? – <hi rend="bold">Aaa</hi>, dom’
+									Marian, dom’ profesor?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-105c9f65-637b-1daf-3b57-90b9bdd25127">nedelciu</ptr>
+									<date>1979</date>
+									<citedRange>187</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1b7417ec-7f78-4ea4-9244-da1d2a303710" n="e)">
+							<def xml:id="id">admirație, entuziasm;</def>
+							<def xml:id="uuid-f11b7b13-0a3e-4454-b5b9-d8ab8683e618">plăcere,
+								satisfacție</def>
+							<cit type="unknown">
+								<quote>PEPELEA: Să ciocnim, giupâne! Noroc şi într-un ceas bun.
+									ARVINTE : Amin! „(Bea.)” <hi rend="bold">A</hi>!... bun
+									îi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-050d6405-a7a2-0e5a-8aab-be336c1f8e87">arvinte</ptr>
+									<date>1869</date>
+									<citedRange>717</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aha</hi>! acum i-am gasit leacul, zise ea în
+									gândul său.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9">creangă</ptr>
+									<date>1875</date>
+									<citedRange>18</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mă rog, cine vorbeşte? – Domnu Peruianu! – A... Eram
+									sigur.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4b1bd95d-a304-80bd-8429-c0dff8e428c6">dan</ptr>
+									<date>1894</date>
+									<citedRange>201</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Grupul scoate un <hi rend="bold">aaa</hi>... prelung de
+									admiraţie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8f735df7-2423-5d8d-3234-dfbed822a396">sybar</ptr>
+									<date>1902</date>
+									<citedRange>75</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaaa</hi>! ce frumos! ce frumos!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ac917b3d-2ed8-6721-8a9e-00d40edd81c5">întuneric</ptr>
+									<date>1907</date>
+									<citedRange>132</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am așteptat cât am așteptat, înghesuit în fund, și-n sfârșit
+									am auzit: „<hi rend="bold">A</hi>!<hi rend="bold"> a</hi>!” și
+									bătăi în palme din toate părţile.Se arătase sus pe movilă
+									vestitul cântăreţ.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7998a7a5-063f-06a7-2092-275ccc6a4670">caragiale</ptr>
+									<date>1910</date>
+									<citedRange>628</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>, foarte bine! Atunci ai început şi
+									dresajul ? întrebă generalul satisfăcut.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-be2a39ca-1c9d-648e-8b3e-d3286e4b1bf5">scos</ptr>
+									<date>1926</date>
+									<citedRange>304</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>! <hi rend="bold">Aaa</hi>!... Dar
+									asta e o adevărată surpriză.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ad52fdbe-64e4-7fe1-0669-e526ce461359">camil</ptr>
+									<date>1928</date>
+									<citedRange>481</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>! Băiatul lui Darie ?! Ce om
+									cumsecade.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-88a2722f-78df-5654-2659-373c38085025">ghioc</ptr>
+									<date>1934</date>
+									<citedRange>23</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaaa</hi>! Am onoarea, dom’ profesor. Lume
+									nouă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b5ab6e81-2b28-74d0-3ef0-a7ccc4aa1ccb">steaua</ptr>
+									<date>1944</date>
+									<citedRange>128</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aaa</hi>!... Ce plăcere!... Lume nouă... Lume
+									nouă!... Nu te-am mai văzut de zece zile, doctore. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-12378f9f-4d6e-157a-6a95-38035abc4644">mușatescu</ptr>
+									<date>1945</date>
+									<citedRange>295</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mi-ai văzut copiii?... Nu?... <hi rend="bold">Aaa</hi>, am,
+									părinte, nişte copii... He hee, am nişte copii...</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d364b05c-4b80-2c79-46b6-2f3d48939602">rotonda</ptr>
+									<date>1983</date>
+									<citedRange>235</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dă-mi şi mie, zise Valeria şi întinse mâna după sticlă... –
+										<hi rend="bold">Aaa</hi>! se bucură el, râzând.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-33acaabf-006a-8907-0041-5309274aa0bb">orașul</ptr>
+									<date>1985</date>
+									<citedRange>372</citedRange>
+								</bibl>
+							</cit>
+							<cit type="▭">
+								<quote><hi rend="bold"/><hi rend="bold">Aaaa</hi>, uite barca, uite
+									barca!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9040dad7-3ba4-7c2c-53b0-2f3bdefca0bd">sandu</ptr>
+									<date>1957</date>
+									<citedRange>17</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1640dbd8-d3e2-4bf3-89b0-3dad8ceb1524" n="f)">
+							<def xml:id="id">durere fizică</def>
+							<cit type="unknown">
+								<quote>Vai de mine şi de mine !... Oare ce-i?... <hi rend="bold">Aaa</hi>... I se părea că nu i-e bine, dar nu-şi putea da
+									seama ce o doare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b93c9be3-a1f9-4189-3866-9ac3ed151733">rebreanu</ptr>
+									<date>1910</date>
+									<citedRange>55</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ca2f4cc7-f07f-434b-a7d8-6eb83868855a" n="g)">
+							<def xml:id="id">acordul cu interlocutorul</def>
+							<cit type="unknown">
+								<quote>Așa-i, așa-i, dar fără dânsa nu mai scap de sărăcie... <hi rend="bold">Aaa</hi>!... Așa da, adevărat! </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2cc96c4e-87f7-2304-8b70-824fe04a8e63">Ion</ptr>
+									<date>1920</date>
+									<citedRange>130</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>, da, da, bolborosi obosit
+									colonistul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5c91d0ab-0638-3dc5-6518-df1fb16e8ec5">mioarei</ptr>
+									<date>1961</date>
+									<citedRange>414</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-c45ad870-6ec8-4286-a82a-006a081394a0" n="h)">
+							<def xml:id="id">ezitare în oferirea unui răspuns.</def>
+							<cit type="unknown">
+								<quote>Să-i dăm puțin eter. Dar de unde să-l iau? <hi rend="bold">A</hi>... de sus, din dormitor. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-34715dae-358a-7d39-45b6-64333e70674a">taifun</ptr>
+									<date>1933</date>
+									<citedRange>355</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-473742a7-f450-48aa-b393-3d0c79e80800">Exclamație care
+							exprimă:</def>
+						<usg corresp="#uuid-473742a7-f450-48aa-b393-3d0c79e80800">(<seg type="hint" rend="usg">De obicei repetat sau prelungit</seg>) </usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-59343ac1-e410-4d95-9a19-15749808c124" n="">
+						<def xml:id="uuid-8252f6d0-e428-470c-90d2-2e36f7e922c9"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg>) </usg>
+					<def>ahá</def>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg>) </usg>
+					<def>ha</def>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-onomatopee"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

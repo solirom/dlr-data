@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-57013220-1fee-426e-9ca9-e113fdbccc31" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>stefania.vulpe</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-06-18T15:04:18+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abunamicioara</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUNĂMICIOARĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-caef701b-f4d0-4126-9bec-d3d8792bafd9" n="">
+						<def xml:id="uuid-a3c99e68-a19b-4c1f-b76a-31f1f4a4d642">De exemplu;</def>
+						<usg corresp="#uuid-a3c99e68-a19b-4c1f-b76a-31f1f4a4d642">
+							<seg type="geo" rend="usg"> Reg. </seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-a3c99e68-a19b-4c1f-b76a-31f1f4a4d642">
+							<ptr target="bunăoară"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Ca <hi rend="bold">abùnămić ṷǻră </hi>no.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
+								<date/>
+								<citedRange>291</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e7ba8c1a-f811-4ba0-80fb-15823f0e03b7" n="">
+						<def xml:id="uuid-895cfbe0-d166-4f3a-8bc2-7deed07fde57"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="bunăoară"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>
