@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-46dec67a-22fe-4bee-989e-947e164191fd" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -47,8 +46,8 @@
 						<xr type="syn" corresp="#uuid-a7402455-dc9d-4cbc-852a-65a60a43b4e3">
 							<ptr target="iute"/>
 						</xr>
-						<def xml:id="uuid-a1acc2e4-c874-4a53-a0b3-a7ad1bbfe7a7">în sfârșit, o
-							dată</def>
+						<def xml:id="uuid-a1acc2e4-c874-4a53-a0b3-a7ad1bbfe7a7">în sfârșit,
+							odată</def>
 						<cit type="unknown">
 							<quote>Vină (sau vino) <hi rend="bold">abade</hi>. Mai <hi rend="bold">abade</hi> te întoarce.</quote>
 							<bibl type="unknown">

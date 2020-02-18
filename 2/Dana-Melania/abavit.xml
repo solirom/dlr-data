@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-efaf0271-8d09-459b-b9fc-8ad3e06c5ee6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-29T10:26:51+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abavit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAVIT </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-cd5b4838-6c6a-4d61-843c-be1d31306df6" n="">
+						<def xml:id="uuid-7cee4e03-7e6d-49d6-931b-c9a1cfc54468">Preparat fungicid cu
+							bază de mercur, întrebuinţat contra mălurii.</def>
+						<usg corresp="#uuid-7cee4e03-7e6d-49d6-931b-c9a1cfc54468">
+							<seg type="dom" rend="usg">CHIM.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<date>1949</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0181a898-bc8a-49c4-83e5-37d35aa866f1" n="">
+						<def xml:id="uuid-a1862db8-bc8c-4e25-879f-f0fc29839a98"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abavit</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

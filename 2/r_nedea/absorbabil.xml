@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-edd6b946-0b11-488c-897d-e4701a1784d6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-15T12:10:39+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbabil</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÁBIL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7d1f4ad0-cf13-4ebf-88c4-3fa5e6198de5" n="">
+						<def xml:id="uuid-682ae8f5-43e5-4e0a-9aa1-ccbe3d24bae0">Care poate fi
+							absorbit.</def>
+						<usg corresp="#uuid-682ae8f5-43e5-4e0a-9aa1-ccbe3d24bae0">
+							<seg type="hint" rend="usg">Despre substanțe, radiații etc.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Lichid <hi rend="bold">absorbabil</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">Negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În intestine, ai substanțe asimilabile și <hi rend="bold">absorbabile</hi>, căpătate prin procesuri chimice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d6773f88-2ad6-0475-85ad-c29d595422c3">Arh.</ptr>
+								<date>1908</date>
+								<citedRange>XX, 488</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rolul digestiunii este de a reduce aceste principii alimentare în
+								substanțe solubile și <hi rend="bold">absorbabile</hi>, adecă în
+								peptone. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd65e323-8f5b-6694-33de-8d79087229c1">Viața</ptr>
+								<date>1908</date>
+								<citedRange>IX, nr. 6, 446</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sucul gastric … transformă materiile albuminoide (carne, ouă,
+								peşte) în un lichid <hi rend="bold">absorbabil</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">Bianu</ptr>
+								<date>1910</date>
+								<citedRange>242</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Razele α] care sunt puțin deviate formează ceea ce se numește
+								radiațiunea ușor <hi rend="bold">absorbabilă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd65e323-8f5b-6694-33de-8d79087229c1">Viața</ptr>
+								<date>1914</date>
+								<citedRange>IX, nr. 10–12, XXXV, 287</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Acidul cianhidric este o] otravă foarte puternică, ușor <hi rend="bold">absorbabilă</hi> prin piele și mucoase.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-72dd243b-8d0a-3be2-6921-89875826a61d">Enc.</ptr>
+								<date>1938</date>
+								<citedRange>61</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Steatoreea (malabsorbţia grăsimilor ca urmare a unor afecţiuni
+								pancreatice, mai ales pancreatite cronice) … împiedică formarea de
+								oxalaţi de calciu, favorizând astfel menţinerea acidului oxalic în
+								formă solubilă, uşor <hi rend="bold">absorbabilă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9aa5c5aa-901f-07e4-7ad6-d1e6e3b35754">Vlad</ptr>
+								<date>2000</date>
+								<citedRange>145</citedRange>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Alimentele cu un conținut ridicat de fier sau de cupru <hi rend="bold">absorbabil</hi> favorizează producerea de radicali
+								liberi.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-306a520f-9519-4273-b6e1-a97464263d5e" n="">
+						<def xml:id="uuid-d1fb1f54-9260-4f11-bf84-d57795caaf8a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbabili, -e</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorbable</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">Bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">Protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">Costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-568c0e24-174e-7a6b-63ac-bf2bdd5a1fe1">Ursu</ptr>
+						<date>1962</date>
+						<citedRange>139</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">NDU</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

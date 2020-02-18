@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-acb30d68-a362-40b1-83be-927e6ae5c771" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-13T10:00:03+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abderitan</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDERITÁN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1ec16296-7688-4801-83d4-07b9afd79864" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-8416807c-cc9f-44b9-9a92-716cc0132682">Persoană care făcea
+							parte din populația de bază a Abdirei ori a Avderei, oraș vechi din
+							Tracia, sau care era originară de acolo;</def>
+						<def xml:id="uuid-ced62b50-e245-4e12-89a2-241718af8ec4">(la pl.) locuitorii
+							Abdirei ori a Avderei;</def>
+						<usg corresp="#uuid-ced62b50-e245-4e12-89a2-241718af8ec4">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-ced62b50-e245-4e12-89a2-241718af8ec4">
+							<ptr target="abderit"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<usg corresp="#uuid-8416807c-cc9f-44b9-9a92-716cc0132682">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Pentru că, la întors, [Xerxes] au dăruit pre <hi rend="bold">avdiriiani</hi> cu sabie de aur şi cu cătargă aşternută cu
+								siraser. Şi zicu iarăşi avdireanii cum de la Athina, purcegând de
+								frică acolo, s-au deşcins, văzindu-să slobod, atâta s-au
+								spăimântat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7a3be8ce-1187-a2d4-329b-fd53e52f00db">istorii</ptr>
+								<date>&lt;1664–1668&gt;</date>
+								<citedRange>427</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După Cicero, acestea sunt ideile <hi rend="bold">abderitanilor</hi>, nu ale lui Democrit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870">bărnu</ptr>
+								<date>c. 1863</date>
+								<citedRange>222</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-82be8fb6-1306-4f63-af26-89ae73d4e437" n="2.">
+						<def xml:id="id">Care aparține Abderei sau abderitanilor, care se referă la
+							Abdera sau la abderitani;</def>
+						<xr type="syn" corresp="#id">
+							<ptr target="abderitic"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Un om <hi rend="bold">avdiretean</hi> zisă un cuvânt înţălept:
+								cum să să roage cu copii cu tot bozilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7a3be8ce-1187-a2d4-329b-fd53e52f00db">istorii</ptr>
+								<date>&lt;1664–1668&gt;</date>
+								<citedRange>368</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s.v. abderitanus.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După ce obosiră toţi, se învoiră abia ca puţin ... să se facă o
+								alegere separată... Adevărată procedură <hi rend="bold">abderitană</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-caf9600c-1779-a069-4d08-2cddf17c9272">barițiu</ptr>
+								<date>1891</date>
+								<citedRange>199</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-7d28bfb4-c8bc-4563-9be7-16b498b2a044" n="">
+						<def xml:id="uuid-65349768-40b2-486a-bcc9-96f535724db0"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abderitani, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					</usg>
+					<def>avdireteán, -ă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>avdireáni</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value="pl."/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>avdiriiáni</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value="pl."/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abderitanus, -a, -um</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

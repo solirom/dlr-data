@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-91632ba4-beb7-4256-8e38-e7d7f9b905d4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-22T13:13:44+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abatiză</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATÍZĂ </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-113ee56f-696b-4f1d-a017-239b7b18fe18" n="">
+						<gramGrp>
+							<pos value=""/>
+						</gramGrp>
+						<def xml:id="uuid-afd7a17f-da54-4d85-b429-cdd1595473c2">Dispozitiv de
+							apărare format din crengi înfipte în pământ sau din copaci tăiaţi şi
+							culcaţi la pământ.</def>
+						<usg corresp="#uuid-afd7a17f-da54-4d85-b429-cdd1595473c2">
+							<seg type="dom" rend="usg">MIL.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<date>1949</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată exemplele de plurale cu -e: „abace”, „<hi rend="bold">abatize</hi>”.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date>1968</date>
+								<citedRange>119</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-32b88b9f-8501-2cb2-769a-7005d1608887">mil</ptr>
+								<date>1980</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e40c5d55-e6c8-4b9d-a288-aaa5b422d861" n="">
+						<def xml:id="uuid-6246a27d-0d47-45ce-a8ff-02a2e430963b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abatize</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abattis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

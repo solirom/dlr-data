@@ -1,0 +1,789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c69c6cf6-4ccc-4cf8-8587-c6a95a433d0c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-06T12:11:53+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abces</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABCÉS </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b47ae5fa-8ec1-43e4-bc40-0663b46fca9a" n="">
+						<sense xml:id="uuid-9e5367f1-85c4-4131-89d5-8048754039d8" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="hint" rend="usg">Ca termen de
+									comparaţie</seg>)</usg>
+							<cit type="unknown">
+								<quote>Serviciul infect al lui Şoifer începu să-l doară ca un <hi rend="bold">abces</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ff3d0c55-3559-1024-5801-1c6bb8342691">peltz</ptr>
+									<date>1933</date>
+									<citedRange>149</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>El nu mâncase de o săptămână, fără gust la nimic, afară de
+									glomotocul de tutun, trecut prin gură, de supt un obraz
+									într-altul, ca un <hi rend="bold">abces</hi> negru al
+									gingiei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">lina</ptr>
+									<date>1942</date>
+									<citedRange>255</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Anonimul meu vecin ... sugerase o eventuală asasinare a Lorei
+									Cretinescu, pe care toţi admiratorii ei o asemănau cu un <hi rend="bold">abces</hi> veninos.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-855b117d-53ea-60b6-566a-3747e013698c">schițe</ptr>
+									<date>1943</date>
+									<citedRange>210</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toată durerea, neliniştea şi umilinţa din ultimele zile se
+									sparseră în el, ca un <hi rend="bold">abces</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-83610f5b-4b99-3d0a-2333-d8d572af17d8">străinul</ptr>
+									<date>1955</date>
+									<citedRange>67</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Vieţi fariseice, al căror cameleonism ... pulsează dureros la
+									lectură ca un <hi rend="bold">abces</hi> de care nu te scapă
+									decât incizia.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c733e7c9-58c0-44a6-3ffb-b4c329fb6233">postceau</ptr>
+									<date>&lt;1993–1994&gt;</date>
+									<citedRange>318</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-8377060c-0b72-451d-9fa5-b4a634af5cbc" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Preferinţa lui adevărată nu e muntele reumatic, încolăcit de
+									ceaţă şi plouat cu plictis mărunţel; pasiunea bivolului este
+									şesul fierbinte cu <hi rend="bold">abcese</hi> adânci, cu
+									furuncule imense, în puroiul cărora gras făptura lui dogorită
+									poate să alunece şi să dispară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a10b0064-8d43-3eac-2e58-272fee5f2f42">răsp</ptr>
+									<date>1926</date>
+									<citedRange>50</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Asfinţitul vărsa o lumină sanghinolentă de <hi rend="bold">abces</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3fa664e3-998d-598c-2737-d0dab6f6a751">întunec</ptr>
+									<date>1927</date>
+									<citedRange>249</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ca şi când s-ar fi strâns tot dorul de ea în mine, ca răul
+									tot dintr-un <hi rend="bold">abces</hi>, simţeam neapărat nevoia
+									s-o văd.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7fe23813-271d-28b7-02cb-2aea7a6875bb">noapte</ptr>
+									<date>1930</date>
+									<citedRange>145</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Spiritul e impur în lume, dar orice substanţă umană impură
+									are o puritate în ea. Răul şi binele sunt învălmăşite. E poate
+										<hi rend="bold">abcesul</hi> care se sparge.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+									<date>1936</date>
+									<citedRange>239</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De ce n-a mai scris Housman atâta vreme? … Se rezolvise
+									într-însul toate <hi rend="bold">abcesele</hi> vieţei?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">fenom</ptr>
+									<date>1936</date>
+									<citedRange>393</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>: <hi rend="bold">Abcesul</hi> trebuie să crape, şi probabil
+									că va crăpa azi sau mâine, căci Senatul nu va vota deplinele
+									puteri cerute de Guvem şi votate de Cameră.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-16bb2635-76a8-815f-85c3-f82b9d9c2ae1">argetoian</ptr>
+									<date>1938</date>
+									<citedRange>220</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Martirii sunt <hi rend="bold">abcese</hi> de fixaţie care
+									salvează organismul. Mă rog lui Dumnezeu să nu mă mai
+									aleagă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+									<date>1958</date>
+									<citedRange>811</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Casa părăsită şi bântuită de duhuri rele îşi avea rostul ei.
+									Servea de <hi rend="bold">abces</hi> de fixaţie pentru
+									draci.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">interpret</ptr>
+									<date>1984 (†)</date>
+									<citedRange>28</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cum ar fi spus Noica, la români firescul este un exces în
+									lipsă. Golul dovedeşte prezenţa pentru că plinul însuşi este un
+										<hi rend="bold">abces</hi> al absenţei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">cerul</ptr>
+									<date>1995; (&lt;1992–1994&gt;)</date>
+									<citedRange>118</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Loviturile și rănile morale nu s-au închis nici până azi. Dar
+									bisturiul trebuie bine înfipt şi fără milă în acest <hi rend="bold">abces</hi> purulent.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-59b3155f-861c-468d-6b34-fe1d11bb87d8">viața</ptr>
+									<date>1999</date>
+									<citedRange>46</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-e6c4486d-80e5-410d-97b4-7c369b22ec1b" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces cald</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>Abces acut</term>
+							</form>
+							<def xml:id="id">abces însoţit de durere cu caracter pulsatil, căldură
+								locală, congestie, febră.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abcesele</hi>
+									<hi rend="bold">calde</hi> sau <hi rend="bold">acute</hi> – vin
+									întotdeauna în urma frigului, a loviturilor, a
+									înţepăturilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima</ptr>
+									<date>1896</date>
+									<citedRange>139</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ec0c8f72-2292-4344-83f0-682de2b32dd5" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>Abces rece</term>
+							</form>
+							<def xml:id="id">abces, de obicei tuberculos, cu evoluţie lentă,
+								caracterizat de absenţa inflamaţiei.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abcesele reci</hi> – Se arată mai des la
+									oamenii debili, scrufuloşi, tuberculoşi şi la aceia care
+									locuiesc în bordeie sau case umede şi mănâncă rău.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima</ptr>
+									<date>1896</date>
+									<citedRange>139</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ae7bfba9-93f0-46a1-8f02-241943374f46" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces de lapte </term>
+							</form>
+							<def xml:id="id">abces care complică o infecţie a glandei mamare.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abcesele</hi><hi rend="bold"> de lapte</hi>.
+									Aceste sunt întotdeauna rezultatul unei inflamaţii a
+									ţâţelor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima</ptr>
+									<date>1896</date>
+									<citedRange>139</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-68a4685b-489a-40d5-8b19-236ff2251fe4" n="✧"><form type="unitate-semantică-subsumată">
+								<usg>MED.</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces dentar</term>
+							</form><def xml:id="id">colecţie purulentă cu punct de plecare dentar,
+								dezvoltată în părţile moi perimaxilare cu evoluţie submucoasă sau
+								cutanată.</def><cit type="unknown">
+								<quote>: Mi se întâmpla uneori, având o stare febrilă sau subfebrilă
+									– a<hi rend="bold">bces dentar</hi>, gripă etc. – să intru seara
+									într-o cameră cu lumina stinsă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-54143e87-298d-7e36-4838-c1adf38b00b2">parhon</ptr>
+									<date>1927</date>
+								</bibl>
+							</cit><cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>60</sense>
+						<sense xml:id="uuid-1c505bd2-b916-4787-9d9a-ae4d9b20d1b2" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces alveolar</term>
+							</form>
+							<def xml:id="id">abces situat într-o alveolă dentară. </def>
+							<cit type="unknown">
+								<quote>Abubă. (<hi rend="bold">Abces alveolar</hi>) Umflarea
+									gingiilor și a obrazului din pricina unui dinte stricat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-187b9735-57d6-7f02-3b86-130d27107cd9">boli</ptr>
+									<date>1936</date>
+									<citedRange>26</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5f662fb4-d153-4452-9cc7-bd9a5a2ce738" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces cerebral </term>
+							</form>
+							<def xml:id="id">colecţie purulentă bine determinată, situată la nivelul
+								parenchimului cerebral, cu etiologie bacteriană, micotică sau
+								parazitară.</def>
+							<cit type="unknown">
+								<quote>Rănile care interesează părţile moi, … sunt cele mai grave,
+									prin leziunile pe care le produc şi mai ales prin complicaţiile
+									infecţioase imediate, ca meningita şi encefalita sau prin
+									complicaţiile infecţioase îndepărtate ca <hi rend="bold">abcesul
+										cerebral</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db">belea</ptr>
+									<date>1959</date>
+									<citedRange>127</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">psihiatr</ptr>
+									<date>1987</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-8099e48f-ad0c-4966-afd0-9d3a10e42e47" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces pulmonar</term>
+							</form>
+							<def xml:id="id">proces supurativ provocat de germeni piogeni aerobi,
+								anaerobi şi protozoare, care distruge parenchimul pulmonar sau se
+								dezvoltă într-o cavitate preformată.</def>
+							<cit type="unknown">
+								<quote>Alveolele ... se pot infecta cu alţi microbi, care pot forma
+									un <hi rend="bold">abces pulmonar</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db">belea</ptr>
+									<date>1957</date>
+									<citedRange>377</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Există şi o spută formată numai din puroi, aşa cum apare în
+									cursul evacuărilor unui <hi rend="bold">abces
+									pulmonar</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">abc</ptr>
+									<date>1964</date>
+									<citedRange>342</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-8f5d189d-9c12-4ad4-a2fc-499026a73994" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces amigdalian</term>
+							</form>
+							<def xml:id="id">colecţie purulentă dezvoltată în criptele amigdaliene
+								profunde.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-9a44aaea-eaf9-42bd-a313-e398c092bb22" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces urinos</term>
+							</form>
+							<def xml:id="id">abces produs prin infiltraţia urinei în ţesutul
+								celular.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-6dc826c4-8ea9-4f4c-bf57-45d11f4b5bee" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abces steril</term>
+							</form>
+							<def xml:id="id">abces al cărui conţinut, după cultură, nu duce la
+								constatarea prezenţei microorganismelor.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-91186637-44f4-419e-b2c0-8e5ec281122a">Acumulare de puroi
+							bine delimitată, apărută în urma dezintegrării ţesuturilor, de cele mai
+							multe ori sub acţiunea unor agenţi microbieni sau parazitari.</def>
+						<usg corresp="#uuid-91186637-44f4-419e-b2c0-8e5ec281122a">
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vibrionii nu pot pătrunde în <hi rend="bold">abscesuri</hi> prin
+								sistemele limfatic şi sanguin.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-59acd60d-9937-05fa-27ff-d3090fc97364">conta</ptr>
+								<date>&lt;1876–1877&gt;</date>
+								<citedRange>210</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La unul dintre aceştia [dintre doi iepuri] s-a format la locul de
+								inoculare un <hi rend="bold">abces</hi> gangrenos.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e00778d4-2539-91d9-867f-891fe8480062">babeș</ptr>
+								<date>1889</date>
+								<citedRange>85</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bine-ai făcut c-ai venit! Aveai un <hi rend="bold">abces</hi>
+								care se putea sui la ochi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7998a7a5-063f-06a7-2092-275ccc6a4670">carag</ptr>
+								<date>&lt;1897–1898&gt;</date>
+								<citedRange>219</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fiul lui îmi spune că s-a deschis bolnavului un <hi rend="bold">abces</hi> la prostată, dar rinichii sunt foarte buni.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-10e5c181-2d46-0260-3846-03a7cbc24b34">iorga</ptr>
+								<date>1929</date>
+								<citedRange>362</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Temperatura unui bolnav, normală până-n ajun, creşte brusc din
+								pricina unui <hi rend="bold">abces</hi> de peste noapte</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-05650ca6-6776-5040-645c-1ad7371809a3">poarta</ptr>
+								<date>1930</date>
+								<citedRange>154</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Suferă acum de un nou <hi rend="bold">abces</hi>, care trebuie
+								spart sau lăsat să se spargă singur.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">sebastian</ptr>
+								<date>1937</date>
+								<citedRange>114</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Este totuşi o deosebire reală între durerea provocată de
+								înţepătura unei epiderme normale – o durere de o clipă – şi durerea
+								produsă de inflamaţia unui nerv al dinţilor sau de durerea
+								pricinuită de un <hi rend="bold">abces</hi> şi în genere de o
+								boală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd0207c5-9477-4758-4904-c1c4744c8e4a">reces</ptr>
+								<date>1960 (†)</date>
+								<citedRange>145</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sucul de spanac este folositor în ... <hi rend="bold">abcese</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-63885902-5980-6d32-9731-b6045d6c450d">magazin</ptr>
+								<date>1980</date>
+								<citedRange>nr. 1 200, 5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sunt singura care nu mă duc la manifestaţie, <hi rend="bold">abcesul</hi> la dinte, care-mi umflă faţa, n-a cedat şi mi-e
+								destul de rău.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b7abe30f-53f0-33f3-334f-0e156ffc1e45">lovinescu</ptr>
+								<date>1981</date>
+								<citedRange>44</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-1d47c196-3a99-4bba-bbb0-dc01ecd13353" n="">
+						<def xml:id="id"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-7ca320a1-48cc-4bbe-84b6-ad2a13711ca4" n="">
+						<def xml:id="uuid-44b39441-344e-457e-b223-77da66f7d423"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abcese</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					</usg>
+					<def>abscés</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+							<number>abscesuri</number>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<def>absțés</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="de" type="unknown" subtype="unknown">Abszess</term>
+					</etym>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abcès</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abscessus</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">abc</ptr>
+						<date>1964</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">dn</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zooteh</ptr>
+						<date>1969</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

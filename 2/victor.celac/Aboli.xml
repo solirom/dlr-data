@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2a7a24c1-fe91-4dea-bc7c-3ae5a76c4fe8" version="3.3.0" source="0.20">
 	<teiHeader>
 		<fileDesc>
@@ -508,9 +507,9 @@
 					<sense xml:id="uuid-2b1c626c-a584-45a9-a453-3c32440a5aca" n="4.">
 						<def xml:id="id">A bate foarte tare;</def>
 						<def xml:id="uuid-e138c840-a3c4-43f0-88bf-7f2148efa3d3">a da o lovitură
-							mortală</def>
+							mortală,</def>
 						<usg corresp="#id">
-							<seg type="register style" rend="usg"><hi rend="italic">ARG</hi>.</seg>
+							<seg type="register style" rend="usg"><hi rend="italic">Arg</hi>.</seg>
 						</usg>
 						<xr type="syn" corresp="#uuid-e138c840-a3c4-43f0-88bf-7f2148efa3d3">
 							<ptr target="a ucide"/>

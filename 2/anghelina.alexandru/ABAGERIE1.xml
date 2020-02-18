@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2f9471ef-837c-4c5d-80f2-462b38eaab52" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -75,6 +74,26 @@
 									<citedRange>242</citedRange>
 								</bibl>
 							</cit>
+							<cit type="unknown">
+								<quote>Să aibă a scuti de vamă un car de marfă de <hi rend="bold">abagerie</hi>, din câte aduce de peste Dunăre.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-235efa89-67b2-7d6a-3a88-44fd08d79ff2">urechia</ptr>
+									<date>1813</date>
+									<citedRange>236</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Iată, domnilor, taxele ce ni se propun să încuviinţăm:... 30
+									bani de la fiecare car cu orice fel de marfă de marchitănie,
+									braşovenie, manufactură, lipscănie, hăinărie, cojocărie,
+									cizmărie, pielărie, <hi rend="bold">abagerie</hi>, sticlărie,
+									porţelane.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-50127c23-25b6-109c-7019-30f64b068e9f">orat.</ptr>
+									<date>1890</date>
+									<citedRange>204</citedRange>
+								</bibl>
+							</cit>
 						</sense>
 						<def xml:id="uuid-0a42e76f-dd8e-42ab-ab19-58cc31c032d4">Atelier sau fabrică
 							unde se produceau haine de aba3; prăvălie unde se vindeau haine de
@@ -86,16 +105,8 @@
 							<quote>Duca-Vodă... au fost la dugheană, la <hi rend="bold">abăgerie</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-881ef2a8-57f5-035e-2c8d-7c3b44fa22f7">racov</ptr>
-								<date>&lt;1705–1732&gt;</date>
+								<date>&lt;1705-1732&gt;</date>
 								<citedRange>19</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>Să aibă a scuti de vamă un car de marfă de <hi rend="bold">abagerie</hi>, din câte aduce de peste Dunăre.</quote>
-							<bibl type="ap.">
-								<ptr target="#uuid-235efa89-67b2-7d6a-3a88-44fd08d79ff2">urechia</ptr>
-								<date>1813</date>
-								<citedRange>236</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -107,16 +118,6 @@
 									li</ptr>
 								<date>1886</date>
 								<citedRange>nr. 2 658, 1</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>Iată, domnilor, taxele ce ni se propun să încuviinţăm:... 30 bani
-								de la fiecare car cu orice fel de marfă de marchitănie, braşovenie,
-								manufactură, lipscănie, hăinărie, cojocărie, cizmărie, pielărie, <hi rend="bold">abagerie</hi>, sticlărie, porţelane.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-50127c23-25b6-109c-7019-30f64b068e9f">kogălnice</ptr>
-								<date>1890</date>
-								<citedRange>204</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">

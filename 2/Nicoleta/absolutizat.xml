@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e363013f-5ec7-4396-bbea-26c50944624c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-03T11:12:40+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutizat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTIZÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6115a75a-6d72-4f74-94ee-f50c787e0953" n="">
+						<def xml:id="uuid-4dacaac8-e5fa-481a-abd9-7c8caed6e49a">Căruia i s-a
+							atribuit o valoare absolută.</def>
+						<usg corresp="#uuid-4dacaac8-e5fa-481a-abd9-7c8caed6e49a">(<seg type="hint" rend="usg">Despre laturi sau însuşiri ale unui lucru</seg>)</usg>
+						<cit type="unknown">
+							<quote>Circuitul închis al literaturii ţine ... de cauze multiple şi
+								profunde ale civilizaţiei noastre, dar el trebuie <hi rend="bold">absolutizat</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+								<date>1984</date>
+								<citedRange>nr. 47, 4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fictivă este, mai degrabă, singularitatea <hi rend="bold">absolutizată</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-58a0859c-046d-6832-04d5-ed80c7aa7495">d.
+									enc.</ptr>
+								<date>1988</date>
+								<citedRange>255</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Analiza distribuţională, <hi rend="bold">absolutizată</hi>, la un
+								moment dat, ca reprezentând obiectivul suprem şi unic al oricărei
+								descrieri lingvistice, îşi păstrează astăzi valabilitatea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+								<date>2001</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-f8ddc3b4-1519-44b7-a140-11da492e5b01" n="">
+						<def xml:id="uuid-5f714890-b2e1-449b-8242-cc1d99a0683d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absolutizaţi, -te</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat.postverbal"/><ptr targetLang="" type="unknown" subtype="unknown" target="absolutiza"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

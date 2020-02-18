@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bd13c2ad-20a7-4bc8-9f3e-024ca27e6f8a" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -113,6 +112,67 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-197a02fc-48a2-46b1-ae4c-f764b11eeacb" n="4.">
+						<sense xml:id="uuid-c7bd1a30-d576-459e-82e7-c305fe2e4f7e" n="✦">
+							<def xml:id="id">Loc unde se execută această operație.</def>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Am fugit din <hi rend="bold">abataj</hi> și am dat alarma
+									pentru închiderea galeriilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9e5b92b0-6115-9cab-5fe6-f0ae47593161">birou</ptr>
+									<date>1939</date>
+									<citedRange>164</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Din sideful negru al cărbunelui ce-l smulg în adânc de <hi rend="bold">abataj</hi>, din soarele furnalului, ce-asvârle
+									foraj după foraj, din nemaicunoscutul fior, sfredel de zări,
+									când, pe tractor, Ileana a rostogolit prima brazdă?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+										rom</ptr>
+									<date>1949</date>
+									<citedRange>iulie-august, nr. 7-8, 250</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ei nu se duc până la gura minei ca apoi să cânte eroismul
+									minerilor din cel mai adânc <hi rend="bold">abataj</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c7081b8d-a37d-5667-7918-f88ccae00d07">beniuc</ptr>
+									<date>&lt;1949-1953&gt; </date>
+									<citedRange>102</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pacul de hârtie prinde mucezeală în <hi rend="bold">abataj</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+										rom</ptr>
+									<date>1964</date>
+									<citedRange>februarie, nr. 2, 23</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mă simțeam în fundul unui <hi rend="bold">abataj</hi>
+									surpat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">adio</ptr>
+									<date>1980</date>
+									<citedRange>142</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să ne întoarcem, se adresă el lui Sever. Veţi intra în <hi rend="bold">abataj</hi> cu alt prilej.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa9e4478-a591-7f8a-4bd4-2565e8036663">gheție</ptr>
+									<date>2002</date>
+									<citedRange>303</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<sense xml:id="uuid-cf13cc02-e9d6-400c-8b53-10a60955156f" n="✧">
 							<form type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>

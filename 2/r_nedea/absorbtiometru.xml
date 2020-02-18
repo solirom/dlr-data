@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4ed6e4f4-7085-47c5-8f2f-fd0e7a01d273" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T11:30:13+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbțiometru</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBŢIOMÉTRU</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8285a19a-c6fa-439b-a6ea-8f0a6768cecc" n="">
+						<def xml:id="uuid-8adb0f73-aecf-4558-834c-46778c0cb45c">Aparat pentru
+							măsurarea gradului sau a ratei de absorbţie a gazelor sau a vaporilor
+							încorporați de către substanțe solide.</def>
+						<usg corresp="#uuid-8adb0f73-aecf-4558-834c-46778c0cb45c">
+							<seg type="dom" rend="usg">CHIM.</seg>
+							<seg type="dom" rend="usg">FIZ.</seg>
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Absorbțiometrul</hi> lui Bunsen [pentru măsurarea
+								absorbțiunei gazelor].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.</ptr>
+								<date>1937</date>
+								<citedRange>20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<date>1949</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+								<date>1957</date>
+								<citedRange>22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">chim</ptr>
+								<date>1964</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+								<date>1969</date>
+								<citedRange>18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Pentru a determina indicele de obezitate exactă sunt necesare
+								echipamente foarte scumpe, cum ar fi <hi rend="bold">absorbțiometrul</hi> cu raze X cu energie duală.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-660e2d7b-f261-4333-8bc9-a424f02ddb0d" n="">
+						<def xml:id="uuid-37595294-642b-41f0-860b-cc2e296052c9"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbţiometre</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">ieşit din uz</seg></usg>
+					<def>absorpţiométru</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<date>1949</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def>absorţiométru</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorptiomètre</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">absorptiometer</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

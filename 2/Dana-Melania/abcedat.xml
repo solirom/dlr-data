@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8df0e69b-ce30-4ba5-ae4d-e2d0736172b9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-06T11:47:24+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abcedat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABCEDÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-370b3ff8-c0f6-4835-8354-813f65412338" n="">
+						<def xml:id="uuid-cff019ab-da08-4d2b-a675-e87889849244">Care s-a transformat
+							în abces, care a dat naştere unui abces.</def>
+						<usg corresp="#uuid-cff019ab-da08-4d2b-a675-e87889849244"><seg type="dom" rend="usg">MED.</seg> (<seg type="hint" rend="usg">Despre ţesuturi,
+								organe etc.</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Tumoră abcedată.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b22d8739-1eb4-4f33-aacf-665049ba9b7b" n="">
+						<def xml:id="uuid-23bc1db2-ab5f-4c4e-b90c-d833e1adfd43"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abcedaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abceda"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

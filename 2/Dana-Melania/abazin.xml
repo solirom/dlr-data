@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c72d33b1-1d95-44f3-ae91-8c587b8d7b77" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-29T12:39:57+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abazin</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAZÍN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5fd2796a-a041-498b-9076-e9ff00178e94" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-92c494b1-52a8-430c-957a-8a3fd44db22a">Persoană care făcea
+							parte dintr-o populație din zona Caucazului.</def>
+						<usg corresp="#uuid-92c494b1-52a8-430c-957a-8a3fd44db22a"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Seminţiile ... cunoscute în Cercazia sunt: a) ceceini, ce sunt şi
+								mai viteji; b) lesghinei păgâni; c) <hi rend="bold">abazinei</hi>;
+								d) cercajii; e) cabardinii şi e) truhmanii.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">contemp</ptr>
+								<date>1844</date>
+								<citedRange>65</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7a15d84e-c1df-4815-9d4b-850a8854844d" n="2.">
+						<sense xml:id="uuid-818a6589-3239-4afd-9420-69647eca5c45" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>Limba abazină </term>
+							</form>
+							<def xml:id="id">limbă din familia caucaziană înrudită cu abhaza.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d019c87c-26f3-8ba9-77e8-eefb276779c3">lumii</ptr>
+									<date>1981</date>
+									<citedRange>15</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Care aparține abazinilor (1), care se referă la
+							abazini.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b3f84b15-b3d2-40bf-bc03-544df27bd06d" n="">
+						<def xml:id="uuid-9f4dd69b-5f14-42ab-be89-f74c19608b25"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abazini, -e</number>
+					</form><form type="grammatical-information-for-plural" corresp="">
+						<number>abazínei</number>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abasinen</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">Abazines</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

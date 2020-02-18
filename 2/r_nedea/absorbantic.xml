@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4b4904d5-d704-48c4-888d-faf99f3020b6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T11:21:21+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbantic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÁNTIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5f2030ff-4831-49c8-aec6-5f96d28faf70" n="">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+								<seg type="plev" rend="usg">rar</seg>
+							</usg>
+						</gramGrp>
+						<def xml:id="uuid-1af7525c-d9f7-4b17-a6ec-a9ab923a4ec0">Care absoarbe.</def>
+						<cit type="unknown">
+							<quote>S-a dispus plantarea acestor localităţi cu arbori ce au
+								proprietate <hi rend="bold">absorbantică</hi>, răchiţii etc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+								<date>1888</date>
+								<citedRange>2310</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-603b1c21-1e75-42dc-b6ba-431e669fed03" n="">
+						<def xml:id="uuid-6730e007-5f62-4f61-b2a7-e6a4e2960c6a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbantici, -ce</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="absorbant"/><term xml:lang="" type="sufix" subtype="unknown">-ic</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

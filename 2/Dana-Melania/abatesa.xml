@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9ac8ac25-8d5d-4b69-ae6a-3837df9fdb16" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-22T11:58:54+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abatesă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATÉSĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2a7bd5cb-ab42-40e7-87bd-5dbf3d967f90" n="">
+						<def xml:id="uuid-6d217d22-0b33-473d-bca5-4f300cd423e2">Maica superioară a
+							unei abaţii.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s. v. abbatissa.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mătuşa mea se află <hi rend="bold">abatesă</hi> [la
+								mănăstire].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<date>1844–1847</date>
+								<citedRange>2891/6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Papa Ioan XXIII... avusese împreunare trupească cu mai bine de
+								trei sute călugăriţe, pe care apoi le remunerase făcându-le egumene,
+								priorie, <hi rend="bold">abatise</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">barițiu</ptr>
+								<date>1872</date>
+								<citedRange>34</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Maria Teresia avusese 10 prunci, patru fii... si 6 fiice; dintre
+								acelea cea mai mare s-a făcut <hi rend="bold">abatisa</hi> la
+								monastirea de la Praga.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>465</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Antoinette ... cu figura uscăţivă şi lunguiaţă, cu nasul subţire
+								şi ochii severi, avea înfăţişarea unei <hi rend="bold">abatise</hi>
+								înăcrite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-33e2ccbe-1021-1095-65ff-e0f761aa0da8">adam</ptr>
+								<date>1925</date>
+								<citedRange>229</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La începutul secolului al XII-lea a luat fiinţă la Fontevrault
+								... o abaţie condusă de o <hi rend="bold">abadesă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">drimba</ptr>
+								<date>1987</date>
+								<citedRange>403</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-111ed1a5-73e2-4ec7-a1da-c3cbe5137bec" n="">
+						<def xml:id="uuid-47499ddf-8a25-4e53-b4d9-e626b0f8119d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abatessă</oVar>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+				</form>
+				<form type="writing">
+					<oVar>abbatessă</oVar>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abatese</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abadésă</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>abatísă</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>abatissa</oVar>
+						<bibl type="unknown">
+							<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+							<date>1822</date>
+							<citedRange/>
+						</bibl>
+					</form>
+					<form type="writing">
+						<oVar>abbatissă</oVar>
+						<bibl type="unknown">
+							<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+							<date>1822</date>
+							<citedRange/>
+						</bibl>
+						<bibl type="unknown">
+							<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+							<date>1847</date>
+							<citedRange/>
+						</bibl>
+						<bibl type="unknown">
+							<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+							<date>1871</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<def>abateásă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1906</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abatéţă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def>abatíţă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown">abbadessa</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abbatissa</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+						<date>1847</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-eed9b1c1-0bc1-559e-89e6-7b35b4e64ef2">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange>2</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-158d1eed-482e-2876-112a-e32820732dee">rare</ptr>
+						<date>2012</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-30ae01c4-c20e-4059-a8a1-953135962b6b" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -181,7 +180,7 @@
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">alr</ptr>
-								<date>&lt;1930–1937&gt;</date>
+								<date>&lt;1930-1937&gt;</date>
 								<citedRange>MN 3 911/182, 405, 666, 987</citedRange>
 							</bibl>
 						</cit>

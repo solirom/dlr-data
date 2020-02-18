@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-13001838-971b-4843-8ee7-b029e618d091" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -45,7 +44,9 @@
 							<seg type="dom" rend="usg">MED.</seg>
 							<seg type="register style" rend="usg">Pop. </seg>
 						</usg>
-						<ptr type="trimitere" target="abces"/>
+						<xr type="analog" corresp="#uuid-424225f3-e468-4bda-b160-d8237d246885">
+							<ptr target="abces"/>
+						</xr>
 						<cit type="unknown">
 							<quote>Coacerea <hi rend="bold">abubei</hi> să poate grăbi punând des
 								cataplazme de făină de in, cât se poate de calde şi făcând des
@@ -172,6 +173,9 @@
 				</form>
 				<etym cert="high">
 					<idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/><ptr targetLang="" type="component-element" subtype="unknown" target="Pron. a"/><ptr targetLang="" type="base-word" subtype="unknown" target="bubă"/>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="" type="unknown" subtype="unknown"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

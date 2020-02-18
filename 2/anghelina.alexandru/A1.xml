@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-fcf58029-65dc-4b27-ab7b-626557e68301" version="3.3.0" source="0.20">
 	<teiHeader>
 		<fileDesc>
@@ -43,10 +42,10 @@
 						<sense xml:id="uuid-02cd0b57-21d1-4055-89f6-bc94959203d0" n="✧">
 							<form type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
-								<term>De la a (până) la z</term>
+								<term>De la a până la z</term>
 							</form>
 							<def xml:id="id">de la început până la sfârşit; totul, în
-								întregime</def>
+								întregime.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
@@ -81,7 +80,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">A</hi>... cea dântâiu slovă din slovele limbii
+							<quote>
+								<hi rend="bold">A</hi>... cea dântâiu slovă din slovele limbii
 								rumânești.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
@@ -95,21 +95,20 @@
 							<def xml:id="id">Primul element dintr-o enumerare, dintr-o serie
 								etc.</def>
 							<cit type="unknown">
-								<quote>Să presupunem că fiecare dn imaginile „<hi rend="bold">a</hi>”, „b”, „c”, produce emoţiunea „<hi rend="bold">A</hi>”.
-									În acest caz e natural ca această emoţiune fiind odată
-									deşteptată, de către „<hi rend="bold">a</hi>”, să deştepte şi ea
-									la rândul său pe celelalte corelative ale sale, adică pe
+								<quote>Să presupunem că fiecare din imaginile „<hi rend="bold">a</hi>”, „b”, „c”, produce emoţiunea „<hi rend="bold">A</hi>”. În acest caz e natural ca această emoţiune fiind
+									odată deşteptată, de către „<hi rend="bold">a</hi>”, să deştepte
+									şi ea la rândul său pe celelalte corelative ale sale, adică pe
 									imaginea „b” sau „c”.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
-									<date>&lt;1875–1876&gt;</date>
+									<date>&lt;1875-1876&gt;</date>
 									<citedRange>90</citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-9d578fdf-5ac2-4882-a627-e04dfce75fb7" n="b)">
-							<def xml:id="id">A șasea notă din scara diatonică corespunzând sunetului
-								la în notația literală anglo germanică</def>
+							<def xml:id="id">A șasea notă din scara diatonică în notația literală
+								anglo germanică corespunzând sunetului <hi rend="italic">la</hi>.</def>
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">MUZ.</seg>
 							</usg>
@@ -140,6 +139,19 @@
 									<citedRange/>
 								</bibl>
 							</cit>
+							<cit type="unknown">
+								<quote>A [=] numele primului sunet al gamei în nomenclatura
+									alfabetică provenită de la latini prin intermediul
+									teoreticienilor din ev. mediu. În teoriile muzicale anglo-germ.
+									actuale, <hi rend="bold">a</hi> este echivalentul lui <hi rend="bold">la</hi>. La popoarele romanice litrele au fost
+									înlocuite în solomizare prin silabe (A= la).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bb9d2336-112f-644b-7d25-586ea2a0a6f4">term.
+										muz</ptr>
+									<date>2008</date>
+									<citedRange/>
+								</bibl>
+							</cit>
 						</sense>
 						<sense xml:id="uuid-50b8c8e4-1b2e-4c1f-a565-61fe689ebcab" n="c)">
 							<def xml:id="id">Amper</def>
@@ -155,19 +167,21 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote/>
+								<quote>Amperul (<hi rend="bold">A</hi>) — intensitatea unui curent
+									electric constant.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
 										fiz</ptr>
 									<date>1972</date>
 									<citedRange>s. v. <hi rend="italic">sistem de
-										unități</hi>.</citedRange>
+										unități</hi></citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-249c9175-622b-4fd7-9407-41956c1e1b2d" n="d)">
 							<def xml:id="id">Angström</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">FIZ.</seg> (<seg type="plev" rend="usg">Notat Å</seg>)</usg>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">FIZ.</seg> (<seg type="plev" rend="usg">Notat cu Å</seg>)</usg>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
@@ -187,7 +201,7 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-44ebe164-fea9-4847-b202-2325ffec183b" n="e)">
-							<def xml:id="id">Arie<hi rend="spaced"><hi rend="superscript">2</hi></hi>.</def>
+							<def xml:id="id">Arie<hi rend="superscript">2</hi>.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
@@ -203,7 +217,7 @@
 										fiz</ptr>
 									<date>1972</date>
 									<citedRange>s.v. <hi rend="italic">densitate de
-										curent</hi>.</citedRange>
+										curent</hi></citedRange>
 								</bibl>
 							</cit>
 							<cit type="unknown">
@@ -228,32 +242,34 @@
 										chim</ptr>
 									<date>1964</date>
 									<citedRange>s.v. <hi rend="italic">densitate de
-										curent</hi>.</citedRange>
+										curent</hi></citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-a8f6bb47-91d5-452f-aea1-24d2a4b0c957" n="g)">
-							<def xml:id="id">Judecată universal-afirmativă</def>
+							<def xml:id="id">Propoziție universal-afirmativă.</def>
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">LOG.</seg>
 							</usg>
 							<cit type="unknown">
-								<quote/>
+								<quote>Totodată logicii obicinuesc a numi judecățile în prescurtare
+									prin cele dintâi patru vocale, și anume: judecata universal
+									afirmativă A, cea universal negativă, E, cea particular
+									afirmativă I și cea particular negativă O.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d.
-										enc</ptr>
-									<date>1993</date>
-									<citedRange/>
+									<ptr target="#uuid-b6db8041-784b-a5c7-3bb4-2678667c948b">maiorescu</ptr>
+									<date>1894</date>
+									<citedRange>44</citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-7518e787-0369-4353-a50b-5d7742ff59ec" n="h)">
-							<def xml:id="id">Una dintre grupele sangvine din sistemul ABO</def>
+							<def xml:id="id">Una dintre grupele sangvine din sistemul AB0</def>
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">MED.</seg>
 							</usg>
 							<cit type="unknown">
-								<quote>Sistemul clasic... este sistemul ABO, cuprinzând patru grupe
+								<quote>Sistemul clasic... este sistemul AB0, cuprinzând patru grupe
 									sanguine: <hi rend="bold">A</hi> (prezenţa aglutinogenului <hi rend="bold">A</hi>), B (prezenţa aglutinogenului B), AB
 									(prezenţa celor două aglutinogene, <hi rend="bold">A</hi> şi B),
 									0 (absenţa aglutinogenelor).</quote>
@@ -269,9 +285,19 @@
 							<def xml:id="id">Autostradă</def>
 							<usg corresp="#id">(<seg type="coloc" rend="usg">Urmat de un numeral
 									cardinal</seg>)</usg>
-							<cit type="▭">
+							<cit type="unknown">
 								<quote>Autostrada <hi rend="bold">A</hi>2 va fi închisă în
 									următoarele trei zile.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De asemenea, în condiții de ceață, cu vizibilitate redusă, pe
+									alocuri, sub 100 de metri, se circulă și pe autostrada A1 Sibiu
+									– Deva.</quote>
 								<bibl type="unknown">
 									<ptr target="unknown"/>
 									<date/>
@@ -296,7 +322,8 @@
 						</sense>
 						<sense xml:id="uuid-bbe6c6f4-9358-4eab-84f9-e2a6500605bc" n="k)">
 							<def xml:id="id">Cea mai mare notă acordată elevilor și studenților în
-								unele sisteme de evaluare</def>
+								unele sisteme de evaluare sau cel mai mare dintre calificative
+								într-o anumită evaluare.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
@@ -331,18 +358,23 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>a</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">A</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">A</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-49be1a3c-53a4-5137-2e8a-1b6ce5fe2583">clemens</ptr>
 						<date>1823</date>
-						<citedRange><hi rend="superscript"/></citedRange>
+						<citedRange>
+                            <hi rend="superscript"/>
+                        </citedRange>
 					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>

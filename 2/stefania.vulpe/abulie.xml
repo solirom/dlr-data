@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-37442c40-8f19-4de0-8cb1-00cf6bcfcebb" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -51,7 +50,7 @@
 							<xr type="syn" corresp="#uuid-dfacd458-72ab-4988-9cc7-3e9c228eb34b">
 								<ptr target="inerție"/>
 							</xr>
-							<xr type="syn" corresp="#uuid-dfacd458-72ab-4988-9cc7-3e9c228eb34b">
+							<xr type="remote-syn" corresp="#uuid-dfacd458-72ab-4988-9cc7-3e9c228eb34b">
 								<ptr target="placiditate"/>
 							</xr>
 							<cit type="unknown">

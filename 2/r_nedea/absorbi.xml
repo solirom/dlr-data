@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b6e1a6cf-2221-4aad-9232-26fb7556a423" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T11:23:20+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbi</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7e3f430a-fee8-4d3c-821e-efb0995f9f06" n="1.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="IV"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-63433fc8-7463-4209-87a8-c729816c3553">A face să dispară
+							temporar.</def>
+						<usg corresp="#uuid-63433fc8-7463-4209-87a8-c729816c3553">
+							<seg type="time" rend="usg">Înv.</seg>
+							<seg type="plev" rend="usg">rar </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Oceanul ... Ştie el puterea stelei ce în sânu i năvălind <hi rend="bold">Absorbindu</hi> l îl răpeşte, Peste ţărm îl
+								răspândeşte.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3f24a8e4-42a1-7a98-58a4-5e7d74999617">heliade</ptr>
+								<date>1830</date>
+								<citedRange>31</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-baeeac02-c0c8-4a80-95c3-fc96c18b705e" n="2.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="IV"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A face să pătrundă, a reține un lichid, un gaz etc. în
+							interiorul său</def>
+						<xr type="syn" corresp="#id">
+							<ptr target="a prelua (2)"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a încorpora"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a înghiţi"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a sorbi (4)"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a suge (7)"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a trage (II 8)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Cărbunele curat <hi rend="bold">ar asorbi</hi> ... gazele, dar
+								prin el însuși n ar transforma nimic în gunoi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a78a80f7-0e0b-1069-5d6a-ff6b5370371a">brezoi</ptr>
+								<date>1850</date>
+								<citedRange>46/4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Apa … <hi rend="bold">ar fi</hi> și mai iute <hi rend="bold">absorbită</hi> de vestmintele noastre decât de epidermul
+								nostru.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brezoia</ptr>
+								<date>1852</date>
+								<citedRange>131/16</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Este probabil ca corpii <hi rend="bold">absorbați</hi> de cărbune
+								contractă cu dânsul un fel de unire.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0004de07-6d28-5356-a2b8-82b865288fe8">marin</ptr>
+								<date>1852</date>
+								<citedRange>49/9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Doctoriile] <hi rend="bold">absorbează</hi> gazul din
+								organism.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9bf004f8-4cbc-1ca1-9529-5192423b219f">lucaci</ptr>
+								<date>1855</date>
+								<citedRange>111/21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Buretele <hi rend="bold">absoarbe</hi> apa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ghiaţa, pentru a se topi, <hi rend="bold">a absorbit</hi>
+								cantitatea de căldură conţinută de apă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-59acd60d-9937-05fa-27ff-d3090fc97364">conta</ptr>
+								<date>&lt;1876–1877&gt;</date>
+								<citedRange>159</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Corpurile solide <hi rend="bold">absorb</hi> gazuri pe suprafața
+								lor … în măsură mai mare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.</ptr>
+								<date>1898</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O hârtie prea mult încleită, conţinând o cantitate prea mare de
+								pământ gras, <hi rend="bold">absoarbe</hi> prea multă
+								cerneală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20">ionescu</ptr>
+								<date>1906</date>
+								<citedRange>368</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sarea <hi rend="bold">absoarbe</hi> umezeala din aer.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+								<date>1931</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Humusul <hi rend="bold">absoarbe</hi> și reține cea mai mare
+								cantitate de apă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.</ptr>
+								<date>1937</date>
+								<citedRange>625</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nisipul <hi rend="bold">absoarbe</hi> apa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+								<date>1939</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La tavă rostbiful se aşează cu grăsimea în jos. În timpul
+								frigerii, grăsimea este <hi rend="bold">absorbită</hi> complet de
+								carne.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b3d62348-6a68-1b82-7568-eea975ee0c24">sevastos</ptr>
+								<date>1939</date>
+								<citedRange>209</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ventilatorul ... <hi rend="bold">absoarbe</hi> și elimină
+								praful.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-51aac52c-070e-6afa-4ac8-962fc9676ea6">muscel</ptr>
+								<date>1947</date>
+								<citedRange>18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Izolarea heliului din amestecul său cu alte gaze se bazează pe
+								însuşirea sa de <hi rend="bold">a nu fi absorbit</hi> de cărbunele
+								activ răcit cu aer lichid.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8bcc968f-02a8-a125-5134-bec8b75f46bc">ing.</ptr>
+								<date>1951</date>
+								<citedRange>23</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Hemoglobina <hi rend="bold">absoarbe</hi> oxigenul, deoarece are
+								mare afinitate pentru acest gaz.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be377332-92c6-0b48-6c48-86d72f683879">man.</ptr>
+								<date>1962</date>
+								<citedRange>62</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iarba barbară și murdară <hi rend="bold">absorbi</hi> o parte din
+								apă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiu</ptr>
+								<date>1970</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Crizantemele din grădină, de un roşcat de culoarea ruginei, <hi rend="bold">absorbiseră</hi> fără să reţină ninsoarea apoasă şi,
+								îngreunate de apă, se aplecaseră spre pământ.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1f57c20c-5dba-1037-82ff-1fe5dee14a36">titel</ptr>
+								<date>1974</date>
+								<citedRange>58</citedRange>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Asfaltul care <hi rend="bold">absoarbe</hi> apa, noua invenție
+								revoluționară.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ebf505ca-55ae-4dec-bb18-f554ac62f9a3" n="">
+						<def xml:id="uuid-62779db2-5799-4e98-85ab-43eda80dcb7a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorber</term>
+					<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">sorbi</term>
+					</note></etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absorbere</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">absorbieren</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

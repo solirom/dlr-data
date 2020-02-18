@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e3a9f29c-41b2-44ea-91f8-b059a570792c" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -33,10 +32,16 @@
 					
 				</form>
 				<gramGrp>
-					<pos value="vb."/>
-					<iType value="I"/>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
 					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
 					<subc value=""/>
+					<number value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-bd1320fe-b5ff-47f4-848a-2c6d4754f8de" n="1.">

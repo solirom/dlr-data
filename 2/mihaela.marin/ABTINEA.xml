@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a537ccc6-4974-4a81-aadc-614697babca3" version="3.3.0" source="0.1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-28T14:00:23+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="dlr-variant">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţinea</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢINEÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="II"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<ptr type="trimitere" target="abţine"/>
+			</entry>
+		</body>
+	</text>
+</TEI>

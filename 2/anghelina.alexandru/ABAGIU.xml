@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-befebe88-38f5-4237-abf6-cb4d520057c4" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -75,7 +74,7 @@
 								și... Vasilei <hi rend="bold">abagiul</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-5f1cae97-889e-546a-5780-bad36401128b">drh b</ptr>
-								<date>&lt;1651–1652&gt;</date>
+								<date>&lt;1651-1652&gt;</date>
 								<citedRange>201</citedRange>
 							</bibl>
 						</cit>
@@ -178,7 +177,7 @@
 								găitănari.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-bf4db234-9d9b-a0eb-0648-6212a6058030">ciocoii</ptr>
-								<date>&lt;1862–1863&gt;</date>
+								<date>&lt;1862-1863&gt;</date>
 								<citedRange>64</citedRange>
 							</bibl>
 						</cit>

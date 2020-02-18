@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-726626bc-d70f-44da-8c3a-b650b31402ab" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -60,7 +59,7 @@
 								frig, și tu stai și cânți din fluier!</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-4e860496-a39a-62e5-03f3-6d114e8e7cad">vlahu</ptr>
-								<date>1901 (1908) </date>
+								<date>1901</date>
 								<citedRange>65</citedRange>
 							</bibl>
 						</cit>
@@ -70,7 +69,7 @@
 								tot.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-aee8bbd5-89fb-5a0b-02b8-af29ebc849a3">stancu</ptr>
-								<date>1948 (1952)</date>
+								<date>1948</date>
 								<citedRange>19</citedRange>
 							</bibl>
 						</cit>
@@ -100,7 +99,7 @@
 								luleaua?</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-76a60fc3-4434-8f04-99e2-ac9ae7ff06a3">codin</ptr>
-								<date>&lt;1896–1913&gt;</date>
+								<date>&lt;1896-1913&gt;</date>
 								<citedRange>453</citedRange>
 							</bibl>
 						</cit>

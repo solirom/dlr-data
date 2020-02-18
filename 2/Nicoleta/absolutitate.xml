@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-56e801a8-638b-4405-bd56-9fcfb99f3c78" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-30T13:00:34+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutitate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTITÁTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b881f2c8-3e74-4a38-aeef-8818b2a0df9c" n="">
+						<def xml:id="uuid-b79a9f32-64f3-4cad-b992-ba10add3b6b7">Caracter
+							absolut.</def>
+						<usg corresp="#uuid-b79a9f32-64f3-4cad-b992-ba10add3b6b7"><seg type="register style" rend="usg">Livr.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote>Pot elementele să-şi păstreze <hi rend="bold">absolutitatea</hi>
+								(recele, caldul), minunea organizării lor, prin descriere, e cu atât
+								mai caracteristică pentru poet.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5d868578-03f2-42f7-4a16-d0a443031140">negoițescu</ptr>
+								<date>1970</date>
+								<citedRange>152</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-9f021cbd-ba3f-4c86-9b89-c945bc5411e8" n="">
+						<def xml:id="uuid-86411e28-2b4f-47ba-89ee-844570b9b4de"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absolut"/><term xml:lang="" type="sufix" subtype="unknown">-itate</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

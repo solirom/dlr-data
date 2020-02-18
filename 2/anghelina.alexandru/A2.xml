@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-51fd860e-5749-42b0-ac46-aedad4b8c249" version="3.3.0" source="0.20">
 	<teiHeader>
 		<fileDesc>
@@ -44,7 +43,7 @@
 								<bibl type="unknown">
 									<ptr target="#uuid-7bf9d8ec-5861-5659-655e-772bf4a700d3">ev.
 										sl</ptr>
-									<date>&lt;1551–1553&gt; </date>
+									<date>&lt;1551-1553&gt; </date>
 									<citedRange>90<hi rend="superscript">r</hi>/16</citedRange>
 								</bibl>
 							</cit>
@@ -211,7 +210,7 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote>Când îl văzu pe Iancu, llie înlemni de uimire: – <hi rend="bold">A</hi>! Aşa! exclamă el lung.</quote>
+								<quote>Când îl văzu pe Iancu, Ilie înlemni de uimire: – <hi rend="bold">A</hi>! Aşa! exclamă el lung.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-e27a4821-5ce3-59e1-0685-c4e76e8962e5">preda</ptr>
 									<date>1966</date>
@@ -370,8 +369,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote>Şi câte iram pătimit cu ea. <hi rend="bold">Aaaa</hi>, numai
-									eu ştiu, eu şi săraca Sofiţa, nevastă-mea, fie-i ţărâna
+								<quote>Şi câte am pătimit cu ea. <hi rend="bold">Aaaa</hi>, numai eu
+									ştiu, eu şi săraca Sofiţa, nevastă-mea, fie-i ţărâna
 									uşoară.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-f9627b29-a3be-0c5c-26f8-6952f0ce9d95">solsti</ptr>
@@ -447,9 +446,8 @@
 							<def xml:id="uuid-f11b7b13-0a3e-4454-b5b9-d8ab8683e618">plăcere,
 								satisfacție</def>
 							<cit type="unknown">
-								<quote>PEPELEA: Să ciocnim, giupâne! Noroc şi într-un ceas bun.
-									ARVINTE : Amin! „(Bea.)” <hi rend="bold">A</hi>!... bun
-									îi.</quote>
+								<quote>[Pepelea]: Să ciocnim, giupâne! Noroc şi într-un ceas bun.
+									[Arvinte] : Amin! „(Bea.)” A!... bun îi.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-050d6405-a7a2-0e5a-8aab-be336c1f8e87">arvinte</ptr>
 									<date>1869</date>
@@ -457,7 +455,7 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Aha</hi>! acum i-am gasit leacul, zise ea în
+								<quote><hi rend="bold">Aha</hi>! acum i-am găsit leacul, zise ea în
 									gândul său.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9">creangă</ptr>
@@ -549,7 +547,7 @@
 							</cit>
 							<cit type="unknown">
 								<quote>Mi-ai văzut copiii?... Nu?... <hi rend="bold">Aaa</hi>, am,
-									părinte, nişte copii... He hee, am nişte copii...</quote>
+									părinte, nişte copii... He-hee, am nişte copii...</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-d364b05c-4b80-2c79-46b6-2f3d48939602">rotonda</ptr>
 									<date>1983</date>
@@ -565,7 +563,7 @@
 									<citedRange>372</citedRange>
 								</bibl>
 							</cit>
-							<cit type="▭">
+							<cit type="✧ POP.">
 								<quote><hi rend="bold"/><hi rend="bold">Aaaa</hi>, uite barca, uite
 									barca!</quote>
 								<bibl type="unknown">

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e6207142-7a26-4d4f-8c05-defa254b37c8" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T13:44:08+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutisime</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTÍSIME</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ab7120fa-36e8-402f-8f03-4b040d0c5fe1" n="">
+						<def xml:id="uuid-ffbd38de-3d0a-4e40-a584-179a8c3ac5e2">În mod
+							absolut.</def>
+						<usg corresp="#uuid-ffbd38de-3d0a-4e40-a584-179a8c3ac5e2">
+							<seg type="plev" rend="usg">Rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Membrii ajutători, adecă ţărani, durere n-avem niciunul, fiindcă
+									<hi rend="bold">absolutisime</hi> nu s-a făcut nicio propagandă
+								între popor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+								<date>1931</date>
+								<citedRange>158</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d9975639-1e8c-41e2-8012-8be8d3c1a703" n="">
+						<def xml:id="uuid-c7b8b4d4-50ea-41cf-a391-2f404be3cbfe"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absolutissime</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

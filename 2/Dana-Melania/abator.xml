@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-37811105-8e97-49f5-b06a-938f994ba7a1" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-22T13:42:46+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abator</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATÓR </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1ca88848-0a3c-45cf-a2d9-7f76fcaf792e" n="">
+						<sense xml:id="uuid-ee47bf4e-2a3d-4f7e-ac60-3596a5a9ef62" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="hint" rend="usg">(Ca termen de comparație)</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Privesc biserica cu lilieci şi frunze. Şi aşa, zilele trec
+									mai departe, ca vitele spre <hi rend="bold">abator</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-93548096-76dd-2192-36ee-6fba50769065">restr</ptr>
+									<date>1923</date>
+									<citedRange>85</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fiecare solz e şi o capcană sigură. E ca un tăinuit <hi rend="bold">abator</hi> pentru lumea celor mici.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc">flora</ptr>
+									<date>1939</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O văzurăm şi p-asta... Oameni omorâţi pe străzi ... fugăriţi
+									ca fiarele sălbatece, înjunghiaţi şi îmbucăţiţi ca la <hi rend="bold">abator</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cf506864-2ec8-8e0a-0658-655a7ae997c2">sânzi</ptr>
+									<date>1971</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Şediam şi aşteptam aşa, ca vitele la <hi rend="bold">abator</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c559c071-396a-6225-9653-ab8625b918c3">siberia</ptr>
+									<date>1986 (†) </date>
+									<citedRange>61</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Oricum, au murit ca nişte vite duse la <hi rend="bold">abator</hi> soldaţii ruşi, neinstruiţi, băgaţi în foc,
+									pentru a umple „gaura”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3e794073-96ce-a5a2-171d-466688455f7c">goma</ptr>
+									<date>2000</date>
+									<citedRange>351</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7c32aba8-d75b-4d49-a702-7cb1fb3095b8" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Aştept anul unu. Anul păcii între popoare. Ale istoriei mari
+										<hi rend="bold">abatoare</hi> Vor fi dărâmate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8aa543c4-0e15-0647-4707-af3feee08d09">isanos</ptr>
+									<date>1944 (†)</date>
+									<citedRange>103</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O, cazurile de justiţie când nimeni nu mişcă <hi rend="bold">abatoarele</hi> capricioase ale tribunalelor!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1f71a4a5-3282-14ca-269e-a4225eea48d5">fugii</ptr>
+									<date>1969</date>
+									<citedRange>72</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-69945285-151a-4295-a3a0-75829708b271" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+								<term>A intra la abator</term>
+							</form>
+							<def xml:id="id">a-i veni rândul la examinarea orală.</def>
+							<usg corresp="#id">
+								<seg type="register style" rend="usg">(Glumeţ)</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-4a04c379-41c0-47e7-411d-8ab8f7ac64fe">bul.</ptr>
+									<date>1937</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">Ansamblu alcătuit
+							din instalaţiile și clădirile unde se sacrifică animale destinate
+							consumului, sub control sanitar-veterinar;</def>
+						<xr type="syn" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+							<ptr target="scaun (II. 1)"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+							<ptr target="zalhana (1)"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<xr type="analog" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+							<ptr target="meserniţă (1)"/>
+						</xr>
+						<xr type="analog" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+							<ptr target="măcelărie (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie să venim în ajutorul comunei Bucureştii … atunci să-i
+								luăm partea nefolositoare … şi să-i lăsăm cellalte, cum sunt halele,
+									<hi rend="bold">abatoriele</hi> etc., care sunt întreprinderi
+								folositoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c9c5c258-360b-0d3e-06d5-fa63b0f8318f">orat</ptr>
+								<date>1868</date>
+								<citedRange>607</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După cum se scrie din Neapole, acolo sute de dame şi de domni se
+								duc în fiecare dimineaţă la <hi rend="bold">abator</hi>, unde beau
+								sânge proaspăt de animale şi se vindecă de anemie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia
+									l</ptr>
+								<date>1886</date>
+								<citedRange>nr. 2 659, 2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abatoriul</hi> s-a reparat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-89c36ee1-6ea3-1c1a-1a9e-2b2b7bfe7bf0">oastei</ptr>
+								<date>1888</date>
+								<citedRange>594</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe câmp, la <hi rend="bold">abator</hi> s-a înnoptat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6322430b-307e-3c2b-77e4-0e5573e93d03">plumb</ptr>
+								<date>1916</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Uzinele s-au închis, cuptoarele de pâine s-au prăfuit, <hi rend="bold">abatoriile</hi> s au uscat, ogoarele sunt
+								pustiite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cf4d2a33-8d0f-4731-2242-8f16b3bf8504">vinea</ptr>
+								<date>1922</date>
+								<citedRange>316</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un <hi rend="bold">abator</hi> cuprinde: localuri industriale,
+								administrative şi sanitare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc</ptr>
+								<date>1937</date>
+								<citedRange>2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abatoarele</hi> sau „salhanalele” plăteau de zece
+								ori mai mult ca magaziile mari, adică 30 de lei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dc770045-7834-5b1e-9f55-ad037c6f8b7c">giur</ptr>
+								<date>1943 (1937)</date>
+								<citedRange>677</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Oraşul bacovian e al pieţelor pustiite de vântul toamnei, al
+								străzilor umezite de ploi, al <hi rend="bold">abatoarelor</hi>
+								ninse.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">negoițescu</ptr>
+								<date>1945</date>
+								<citedRange>148</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aici nu mai erau <hi rend="bold">abatoare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdfcf838-0c5e-26c6-6734-1a2ab8227866">ciprian</ptr>
+								<date>1958</date>
+								<citedRange>141</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie să se respecte ... regulele de igienă personală ...
+								consumarea cărnii de la <hi rend="bold">abator</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be377332-92c6-0b48-6c48-86d72f683879">zool</ptr>
+								<date>1962</date>
+								<citedRange>35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bacovia inventează şi o bucolică întoarsă, gri, un pastel al <hi rend="bold">abatorului</hi>, al macabrului, gospodar ca
+								Alecsandri, dar care stă închis în casă, ca în sicriu, şi
+								hohoteşte</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856e8768-1ca8-4b62-6ad6-c20fe6945842">pian</ptr>
+								<date>1985</date>
+								<citedRange>814</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vine doamna V. – mama domnişoarei P., femeia frumoasă, căsătorită
+								cu un olandez, reprezentant al unei mari firme americane la <hi rend="bold">Abatoarele</hi> din Timişoara.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-933f34e4-549c-006c-88c2-dfd65fbd4ce0">femeia</ptr>
+								<date>1990</date>
+								<citedRange>32</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ad481e7b-23a6-45d5-960c-2d2616e36e69" n="">
+						<def xml:id="uuid-df44cdb0-e862-4ef0-b603-32f1c6fa0a70"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abatoare</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>abatóriu</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					<def>abătór</def>
+					<bibl type="unknown">
+						<ptr target="unknown">alrr</ptr>
+						<date>&lt;1966–1973&gt;</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					<def>abatúr</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abattoir</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">CADE</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c5dc2876-3f78-671a-720d-2d61256f9bd8">dgds</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">DELR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1d2d2284-ca9d-4497-8de8-a978fe02f5aa" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-30T13:42:38+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutizant</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTIZÁNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f4ee992b-9342-4175-9b8f-30d7e063a25c" n="">
+						<def xml:id="uuid-9ee4d115-260b-4d59-a313-44dc4090c078">Care
+							absolutizează.</def>
+						<cit type="unknown">
+							<quote>Simplificată cu timpul la două formule <hi rend="bold">absolutizante</hi> – „artă pentru artă” și „artă cu tendință” –
+								disputa a degenerat apoi în publicistică vulgarizatoare și
+								agitatorică, întreținută de zelul epigonic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d12d15f1-422c-952d-0ba7-553a8e43218a">ist. lit.
+									rom.</ptr>
+								<date>1973</date>
+								<citedRange>623</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acceptând ideea că avem de-a face cu două domenii autonome
+								[eticul şi esteticul], nu vom merge până la concluzia oarecum <hi rend="bold">absolutizantă</hi> a unui Croce, care ajunge uneori
+								să le rupă cu totul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-93b75bad-a06e-3588-48fb-933f7b493416">pascadi</ptr>
+								<date>1978</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Determinismul] ajunge la explicaţii parţiale, simplificatoare,
+									<hi rend="bold">absolutizante</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c3739564-1aa5-73ee-9946-2ea5a90b94ab">d.
+									etnol</ptr>
+								<date>1979</date>
+								<citedRange>92</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Oricare dintre momentele acestei operaţii de conceptualizare
+								presupune o detaşare faţă de lucrul concret şi faţă de contextul
+								multiplelor sale conexiuni – ceea ce, mai ales în etapele timpurii
+								ale cunoaşterii raţionale, implică în mod inevitabil simplificări
+									<hi rend="bold">absolutizante</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">d.
+									enc.</ptr>
+								<date>1987</date>
+								<citedRange>22</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e008c39f-ff3e-4e1f-9686-bce7b59dc437" n="">
+						<def xml:id="uuid-d386b778-7d26-40b8-a22a-a7b8f10f6b7a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absolutizanţi, -te</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absolutiza"/><term xml:lang="" type="sufix" subtype="unknown">-ant</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

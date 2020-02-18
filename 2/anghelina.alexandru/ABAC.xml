@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-25d8d832-63aa-49e5-8d7f-5b54368fac13" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -50,7 +49,7 @@
 								scrisorile şi cu <hi rend="bold">ambacul</hi> grecescu.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-f44014e6-70b8-7ef5-036b-71c725667ca9">danovici</ptr>
-								<date>&lt;1678–1689&gt; </date>
+								<date>&lt;1678-1689&gt; </date>
 								<citedRange>241</citedRange>
 							</bibl>
 						</cit>

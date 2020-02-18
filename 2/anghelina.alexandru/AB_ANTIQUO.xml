@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-dd8e7971-cd2b-4762-b3fe-fdedb8efab06" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -120,8 +119,7 @@
 						</cit>
 						<cit type="unknown">
 							<quote>Țările Române erau supuse cu desăvârşire autorităţei turceşti,
-								călcându-se toate privilegiile de cari ele se bucuraseră ab
-								antiquo.</quote>
+								călcându-se toate privilegiile de cari ele se bucuraseră <hi rend="bold">ab antiquo.</hi></quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-e0e9943f-1e40-75db-17c1-77ebbe1436bd">xenopol</ptr>
 								<date>1896</date>
@@ -144,7 +142,7 @@
 							<bibl type="unknown">
 								<ptr target="#uuid-c766c9c5-05b1-51ed-5a24-38d108a1741c">div.
 									comed</ptr>
-								<date>&lt;1899–1913&gt;</date>
+								<date>&lt;1899-1913&gt;</date>
 								<citedRange>122</citedRange>
 							</bibl>
 						</cit>
@@ -159,8 +157,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>Înainte,... se mai fãceau nobili prin acordarea de boierii
-								efective, ai cãror urmași cu timpul, luau rang în cadrele
+							<quote>Înainte,... se mai făceau nobili prin acordarea de boierii
+								efective, ai căror urmași cu timpul, luau rang în cadrele
 									boierimii<hi rend="bold"> ab antiquo. </hi></quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">orig.
@@ -242,6 +240,11 @@
 					<idno type="loc.lat."/>
 				</etym>
 				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-a92bea58-83e5-75ea-78a1-be6d3e9b18f1">hem</ptr>
+						<date>1893</date>
+						<citedRange>168</citedRange>
+					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
 						<date>2000</date>

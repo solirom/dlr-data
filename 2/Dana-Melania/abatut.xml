@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-016a957a-77e8-4d2b-9076-16bfc6b8a7a1" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-04T12:52:52+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abătut</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂTÚT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f0c68235-8d98-4b99-bdb0-132006868b98" n="1.">
+						<def xml:id="uuid-3b1659f2-6963-4cb7-8706-085a866c5150"/>
+						<xr type="syn" corresp="#uuid-3b1659f2-6963-4cb7-8706-085a866c5150">
+							<ptr target="Depărtat (1)"/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>A dachilor limbă samănă-ş cu a italilor, însă atâta i de stricată
+								şi <hi rend="bold">abătută</hi>, cât de-abiia poate să înţeleagă
+								italul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02982330-74c8-8dec-63a2-b9d2bf654288">cantem</ptr>
+								<date>&lt;1717–1723&gt;</date>
+								<citedRange>1 013</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prin „<hi rend="bold">abătut</hi>”, înţelegeţi aceea ce franţezul
+								zice prin „écarté”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08da663c-1f64-9714-3747-433caacb93db">negruz</ptr>
+								<date>1857</date>
+								<citedRange>258</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7baa2393-9310-42ac-9023-a6afd5b5ee8e" n="2.">
+						<def xml:id="id">Care este slăbit, istovit de o suferință;</def>
+						<xr type="syn" corresp="#id">
+							<ptr target="descurajat"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="deprimat"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="trist (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>[Cardinalul] ... căută mizloacele de a realţa <hi rend="bold">abătutul</hi> său sufflet.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-72432072-7a24-5049-1ac7-e46c36bb84fb">pâcl</ptr>
+								<date>1852</date>
+								<citedRange>XXXV/13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ilinca ... ajunsese <hi rend="bold">abătută</hi> şi
+								îngândurată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-64e0c349-57c7-0aec-a292-d36250df540e">adam</ptr>
+								<date>1903</date>
+								<citedRange>140</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sălceanu era <hi rend="bold">abătut</hi> şi îngândurat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2b6ee11-0bd0-1e09-6d6f-8bfacc018f38">diplo</ptr>
+								<date>1926</date>
+								<citedRange>194</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mă simţeam <hi rend="bold">abătut</hi> până la
+								deznădejde.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c03df96-0476-8335-8436-3a5736ea7bf4">craii</ptr>
+								<date>1926</date>
+								<citedRange>68</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Chirică e foarte <hi rend="bold">abătut</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb45b94c-323b-8d45-5350-e319dda23890">omul</ptr>
+								<date>1927</date>
+								<citedRange>37</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cât sunt de <hi rend="bold">abătut</hi> şi de sfărâmat!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9cf96db1-0f6a-79ba-5fae-25a24a593c7c">rox</ptr>
+								<date>1930</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întrucât mă priveşte, mă simt atât de <hi rend="bold">abătut</hi>, încât aproape mi e scârbă să o mai scriu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7866769a-160e-a2f5-42a9-ef5c1c0b7dbc">arget</ptr>
+								<date>1937</date>
+								<citedRange>231</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A doua zi eram <hi rend="bold">abătut</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-59f1699b-8514-2a93-985d-cfcd20de0a61">vlasiu</ptr>
+								<date>1947</date>
+								<citedRange>18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arestaţii se privesc <hi rend="bold">abătuţi</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8466ddc5-8848-3a0c-9869-ca1285363765">bălce</ptr>
+								<date>1948</date>
+								<citedRange>79</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Câteva clipe rămase <hi rend="bold">abătut</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ca253b-17c1-4665-28dc-d528f63a2425">pânz</ptr>
+								<date>1954</date>
+								<citedRange>275</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Păşind pe dinaintea odăii l-am văzut Smerit în rugăciune, sfârşit
+								şi <hi rend="bold">abătut</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f809cc1a-8654-3c2f-558c-217ea297716f">arghez</ptr>
+								<date>1955</date>
+								<citedRange>211</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe lângă Goşu călca tot atât de <hi rend="bold">abătut</hi>
+								câinele Rob.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-18c7626f-39b5-304c-4dc4-86e813df96a6">șatr</ptr>
+								<date>1968</date>
+								<citedRange>478</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Bărbatul, <hi rend="bold">abătut</hi> – că o iubea tare mult –
+								sta zi şi noapte la căpătâiul ei, bocindu-se de nenorocirea ce-i
+								căzuse pe cap.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-492449cb-666b-8cfa-9b0a-e77dac077ee2">snoav</ptr>
+								<date>1909</date>
+								<citedRange>78</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5bd26b07-3d2f-43eb-b772-ac3e3738b448" n="3.">
+						<usg corresp="#uuid-5bd26b07-3d2f-43eb-b772-ac3e3738b448">Ban.</usg>
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="Zăpăcit (4)"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="prostănac"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="idiot"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Unul eră mai isteţ... celalalt eră mai mutălău, mai <hi rend="bold">abătut</hi> cu leuca.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f658a78e-241d-60e5-07a2-e574df7d29d4">cătană</ptr>
+								<date>1893</date>
+								<citedRange>130</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-7197881c-3d74-459c-b6b7-e12273b8e6e1" n="">
+						<def xml:id="uuid-c6953d53-c8c2-4448-a4af-65378815a82c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abătuţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abate"/>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abattu</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+						<date>&lt;1780–1801&gt;</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c2f56bf1-9c34-8c26-8f36-95dc60bd0288">tdrg</ptr>
+						<date>1986</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

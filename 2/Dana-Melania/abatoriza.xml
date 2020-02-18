@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8a6265e2-f666-4781-a33f-97e5daf38ba9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-23T12:19:37+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abatoriza</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATORIZÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a436e9ec-2af9-424d-a6fb-a573328b413a" n="">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-1197442a-63ee-4422-85bc-fadb22d19e9d">A sacrifica
+							animalele la abator.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+								<date>2002</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Alte 72 de vaci bolnave din judeţ au fost abatorizate.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<date>2004</date>
+								<citedRange>25</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-7d00fe21-a6a5-42b9-b5ec-8ec1466d2959" n="">
+						<def xml:id="uuid-0abe0b15-e742-4aa7-8fad-40dc2284552f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abatorizez</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abator "/><term xml:lang="" type="sufix" subtype="unknown">iza</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

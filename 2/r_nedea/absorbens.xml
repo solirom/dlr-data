@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f99fd7e3-24fc-4140-b018-8ed4451c1493" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T10:46:48+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbens</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBENS </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-467bb91f-1f68-4839-8b30-83b5c3482bc1" n="">
+						<def xml:id="uuid-8d9c6cb4-1954-44fb-bcbd-f601c4878a74">Formă de cristal
+							care se dezvoltă, în cursul răcirii unui amestec cristalin eterogen, în
+							detrimentul celeilalte forme, pe care o absoarbe.</def>
+						<usg corresp="#uuid-8d9c6cb4-1954-44fb-bcbd-f601c4878a74">
+							<seg type="dom" rend="usg">CHIM.</seg>
+							<seg type="dom" rend="usg">FIZ.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<date>1949</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6a701cf0-d0c3-465c-b23f-7849166544a2" n="">
+						<def xml:id="uuid-d3d568c9-525c-4136-8de5-f783909c6e68"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Absorbens</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absorbens, -entis</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

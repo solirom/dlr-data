@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-765fbc5a-2112-411f-9637-ebb404233a94" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T12:57:34+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţigui</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢIGUÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4db58916-860d-4908-9a96-08882c179929" n="">
+						<sense xml:id="uuid-851fd652-443a-433e-b537-2ba88fa797a1" n="1.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A trage, a pritoci vinul.</def>
+							<usg corresp="#id"><seg type="geo" rend="usg"><hi rend="italic">Înv</hi>.</seg> şi <seg type="geo" rend="usg"><hi rend="italic">reg</hi>.</seg></usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9313638d-785f-71c3-8594-48a30a1899c4">stamati</ptr>
+									<date>1852</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d4eac615-2925-408b-402d-b102eec9a258">bari</ptr>
+									<date>1853</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-009de9ad-3212-16d1-26f5-0408e5b00805">petri</ptr>
+									<date>1861</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote><hi rend="bold">Abţâguiéşti</hi> [vinul]. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f5a04a1b-5b3d-17bd-335f-0c73e9e73f30">ALR </ptr>
+									<date>&lt;1930–1937&gt;</date>
+									<citedRange>h 246/29, 863</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-3c478bc0-a028-4db1-aa45-86beb95ed37d" n="2.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A tăia o scândură cu un fierăstrău special; </def>
+							<def xml:id="uuid-b3746aa3-0bf1-4c74-b79d-7714056c97b9">a trage la
+								gealău.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9313638d-785f-71c3-8594-48a30a1899c4">stamat</ptr>
+									<date>1852</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-17e1120f-e5c0-4d89-8e7b-77ff43d70ffe" n="3.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="tranz. refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A (se) îmbăta uşor, </def>
+							<usg corresp="#id"><seg type="geo" rend="usg"><hi rend="italic">Reg</hi>.</seg> şi <seg type="register style" rend="usg"><hi rend="italic">fam</hi>. </seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="a (se) chercheli."/>
+								<usg><seg type="geo" rend="usg"><hi rend="italic">Reg</hi>.</seg> şi
+										<seg type="register style" rend="usg"><hi rend="italic">fam</hi>.</seg></usg>
+							</xr>
+							<cit type="unknown">
+								<quote>Câţiva, gata <hi rend="bold">abţiguiţi</hi> de ţuica fiartă
+									sau de cinzecile de drojdie băute pe Calea Griviţei, începură să
+									facă glume fără perdea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-08a44497-5e33-2602-4c09-2f7060015b0c">oiu</ptr>
+									<date>1976</date>
+									<citedRange>435</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se</hi> şi <hi rend="bold">abţiguiseră</hi>,
+									picai pe o veselie generală. Dădui pe gât infectul coniac, care
+									în loc să mi se urce la cap îmi răscoli stomacul, unde se
+									instala, fără să mai plece, sub o formă de greaţă persistentă,
+									şi începui să mă uit enervat şi involuntar spre uşă. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e517589e-64d0-546c-791c-015555a8383f">preda</ptr>
+									<date>1980</date>
+									<citedRange>1 312</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ai câştigat la Loto? Nu mai pune că <hi rend="bold">m-abţiguiesc</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dbd85727-4e34-00c7-4aef-416000fe5c85">vi</ptr>
+									<date>1994</date>
+									<citedRange>167</citedRange>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote><hi rend="bold">Te abţiguiseşi </hi>şi tu bine aseară! </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">udresc</ptr>
+									<date>1967</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-83f42a23-f52c-465f-8a1b-a911f28556e3" n="4.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A sustrage, a falsifica date sau cifre pentru a înşela
+								pe cineva.</def>
+							<usg corresp="#id">
+								<seg type="register style" rend="usg"><hi rend="italic">Fam</hi>.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Mi-a făcut socoteala şi mi-<hi rend="bold">a abţiguit</hi>
+									patru poli dintr-un condei. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3d4d0ab7-784c-8ccb-9e36-4d3e91fb682b">Cum
+										Vorbim</ptr>
+									<date>1951</date>
+									<citedRange>III, nr. 12, 37</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dă-mi-o s-o citesc [revista], zise ea întorcându-se către
+									Tudor. Poate mai <hi rend="bold">e</hi> ceva <hi rend="bold">de
+										abţiguit</hi>... şi e târziu. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-242d335c-3149-1be6-6d0d-7291f8f8039d">sorescu</ptr>
+									<date>1977</date>
+									<citedRange>108</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sau dacă totuşi am recunoaşte răspunsul pe care-l dăm şi nu
+									prea ne-ar place cum arată la faţă, l-am justifica, vopsi şi <hi rend="bold">abţigui</hi> în fel şi chip. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f9627b29-a3be-0c5c-26f8-6952f0ce9d95">p.
+										georgescu</ptr>
+									<date>1982</date>
+									<citedRange>106</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown">colectivizare</ptr>
+									<date>2009</date>
+									<citedRange>391</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-3945c573-d55b-452a-b824-ec2188310320" n="5.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="IV"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<usg corresp="#uuid-3945c573-d55b-452a-b824-ec2188310320">
+								<seg type="register style" rend="usg">
+									<hi rend="italic">Fam.</hi>
+								</seg>
+							</usg>
+							<def xml:id="id">A-i da cuiva o bătaie uşoară; </def>
+							<def xml:id="uuid-168b36b2-1e8e-4302-b2d1-e5879b7f08dc">a-i face (cuiva)
+								un rău.</def>
+							<cit type="unknown">
+								<quote>Ca <hi rend="bold">să</hi>-l <hi rend="bold">abţiguiască</hi>, i-a rupt contractul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-afd1254e-f215-486c-abde-423aeb02d517"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-26ed4dca-8839-405a-af48-a8f4059311d3" n="">
+						<def xml:id="uuid-85a847ee-991d-42c3-b6c7-f61be1628eb7"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abţiguiesc</form>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abţígui
+								</form><usg>(<seg type="geo" rend="usg"><hi rend="italic">reg</hi>.</seg>)</usg><bibl type="unknown">
+							<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">udresc</ptr>
+							<date>1967</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="geo" rend="usg"><hi rend="italic">reg</hi>.</seg>)</usg>
+					<def>abţuguí</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="IV"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<bibl type="unknown">
+						<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">udrescu</ptr>
+						<date>1967</date>
+						<citedRange/>
+					</bibl>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abziehen </term><note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">abziehen</term>
+						<term xml:lang="" type="unknown" subtype="unknown">„a scădea; a
+							scoate”</term>
+					</note><note type="uuid-88d2379f-a6f3-3929-98b7-3da0a3d42ac0" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">germ. Abzug „deducere”
+						</term>
+					</note></etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">absägen</term>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">absägen</term>
+						<term xml:lang="" type="unknown" subtype="unknown">„a tăia o scândură cu
+							fierăstrăul”.</term>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-a9260242-53a0-4849-150a-fc8b490e25a0">FD</ptr>
+						<date>1967</date>
+						<citedRange>IV, 63</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b55c8fa2-074e-3915-a0b2-a5dbdfb76067">graur</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63540be5-6f6a-876e-00b0-0a2d4ad99c87">dex</ptr>
+						<date>1988</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5763fba9-0843-44fb-ba04-7d55444acbe2" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -32,17 +31,60 @@
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="vb."/>
+					<iType value="IV"/>
+					<subc value="tranz."/>
+					<subc value=""/>
+					<usg><hi rend="italic"><seg type="geo" rend="usg">Reg.</seg></hi></usg>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-93a91e17-18ff-4298-8769-c43a4c9e46e9" n="">
-						<def xml:id="uuid-61ca4d63-9a13-4670-b7c9-e9da1a96fca4"/>
+						<def xml:id="uuid-61ca4d63-9a13-4670-b7c9-e9da1a96fca4">A deprinde, a
+							exercita.</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
+								<ptr target="#uuid-8a15adaa-1931-9b98-92b3-3bd44d79a3eb">caba</ptr>
+								<date>1918</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7e70b066-0ce8-4dd0-b42b-74fc7a673703" n="">
+						<def xml:id="id">(Complementul indică mai ales copii) A certa, a mustra (2);
+							a pedepsi prin bătaie, reg. a abrictălui (2), a abrictui.</def>
+						<cit type="unknown">
+							<quote>C-amu te dau pe brânca lu’ plutonieru de jândari să te
+								abrictălească o ţâră! Ui’ la el!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cdabddd3-46d9-4f22-29dd-274891555d10">beniuc</ptr>
+								<date>1959</date>
+								<citedRange>404</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ia abrictălește-l o țâră! Nu vezi că nu te-ascultă?!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<date>1960</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie să brictălim puțin copilul ăsta căci altfel nu face
+								nimic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<date>1960</date>
+								<citedRange>281</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De nu taci, te abrictălesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic</ptr>
+								<date>1967</date>
+								<citedRange>97</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -60,9 +102,21 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg><seg type="geo" rend="usg"><hi rend="italic">reg.</hi></seg></usg>
+					<def>brictălí</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="IV"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
-				</etym>
+					<idno type="abrictăli"/>
+					<note type="unknown" n="cf." cert="high">
+						<term>abrictălui</term>
+					</note></etym>
 			</entry>
 		</body>
 	</text>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8955f2ba-0c18-4ca8-a66d-76927d232fb4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-07T10:20:34+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abandonabil</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABANDONÁBIL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4630b6c2-164e-4ffb-9066-c4423e28a993" n="">
+						<def xml:id="uuid-7267bf98-6136-4d43-876c-40c5cf342210">Care poate fi
+							abandonat, părăsit sau la care se poate renunța.</def>
+						<cit type="unknown">
+							<quote>În tot acest dramatism, mântuirea vine prin delegarea alegerii
+								între „colecționabil” și <hi rend="bold">„abandonabil”</hi> către o
+								instanță superioară, căreia nu-i refuzăm obiectivitatea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a5fd78a5-62e8-a723-61e1-407c13ff5437">dilema</ptr>
+								<date>2013</date>
+								<citedRange>511</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Avem încă o confirmare că nimic nu e <hi rend="bold">abandonabil</hi> dintr-o experiență extremă, dură, tristă, dar
+								și instructivă, precum comunismul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter.</ptr>
+								<date>2015</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a5d7b5c8-12b0-435f-a54f-bedd30aba17f" n="">
+						<def xml:id="uuid-fb97e217-24b2-4da2-9238-f0c92b8ccf95"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abandonabil, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abandona"/><term xml:lang="" type="sufix" subtype="unknown">-bil</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

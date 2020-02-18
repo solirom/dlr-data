@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-cb22024e-dedd-4c95-a919-d2638ea5f2f4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-11T14:50:11+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abderit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDERÍT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-afd3d4d7-dca9-4cc1-84f9-8f5ec1a0f5fa" n="">
+						<def xml:id="uuid-f299b4b4-67e5-4e34-b52a-de657cd3bc8b">Persoană care făcea
+							parte din populația de bază a Abdirei, oraș vechi din Tracia, sau care
+							era originară de acolo;</def>
+						<usg corresp="#uuid-f299b4b4-67e5-4e34-b52a-de657cd3bc8b">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="uuid-7025edea-fe39-4786-8f79-6cb3db2ac420">locuitorii
+							Abdirei;</def>
+						<usg corresp="#uuid-7025edea-fe39-4786-8f79-6cb3db2ac420">(<seg type="gram" rend="usg">la pl.</seg>)</usg>
+						<xr type="syn" corresp="#uuid-7025edea-fe39-4786-8f79-6cb3db2ac420">
+							<ptr target="abderitan"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corb</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s.v. <hi rend="italic">abderita, -ae.</hi></citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>E cu neputinţă a se mai suferi uneltirile <hi rend="bold">abderiţilor</hi> şi scurtimea de vedere a acelora ce [li] se
+								dau instrumente oarbe, spre a trage în noroi şi a împroşca cu tină
+								pre toţi.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-8e51aece-810f-423a-6d77-c493cf7973bd">contemp</ptr>
+								<date>1871</date>
+								<citedRange>278</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>V-am spus cu altă ocaziune ce era Abdera şi <hi rend="bold">abderiţii</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b3e5ae9a-1127-6899-4ba4-ff79d401220e">kog</ptr>
+								<date>1882</date>
+								<citedRange>188</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Una din scrierile marelui abderit începea cu vorbele celebre:
+								„Omul e măsura tuturor lucrurilor, a celor ce există, că sunt, a
+								celor ce nu există, că nu sunt”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f0d82f5a-89a6-2a7d-91b4-c4fd36ac58de">sofiș</ptr>
+								<date>1934</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-205b0b8b-2a3a-4c26-b0d5-cf75e3f092b5" n="✦">
+						<def xml:id="id">Nebun (2, 4).</def>
+						<usg corresp="#id">
+							<seg type="sem" rend="usg">Fig.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Tot asemine fabulă e şi aceea că Dem[ocrit] ar fi râs necontenit,
+								carea a putut să se nască de acolo că <hi rend="bold">abderiţii</hi>
+								erau nişte oameni foarte nebuni şi dau materie destulă celor ce
+								voiau să râdă de ei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870">bărn</ptr>
+								<date>c. 1863</date>
+								<citedRange>110</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-28fc9631-bd8a-4947-872a-ac7b01d853e7" n="">
+						<def xml:id="uuid-7551c43e-074b-43a7-a50a-26778214058f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abderiți</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abderit</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db994243-75a0-8ec8-58ea-7ef28e3f725b">barci</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">dn</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

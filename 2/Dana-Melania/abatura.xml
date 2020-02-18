@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7f1fd341-84f3-45d5-9939-5a2281a0b793" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-04T12:28:59+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abătură</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂTÚRĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f2dbc3f4-f591-4cd3-918b-776f109319e4" n="">
+						<def xml:id="uuid-dbec2752-6f57-46f8-89a7-ced4c7a1ee77">Canal mic deviat de
+							la o apă.</def>
+						<usg corresp="#uuid-dbec2752-6f57-46f8-89a7-ced4c7a1ee77">
+							<seg type="geo" rend="usg">Reg.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Pentru „grind”, popular „adausătură”, avem latinul „adauctus”,
+								iar în Ţara Făgăraşului, unde se irigă păşunile cu pomi, prin
+								derivare, „<hi rend="bold">abături</hi>” sau „bătătoare” sunt mici
+								canale abătute, de la latinul „abductum” sau „abitus”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5f851963-5a58-9599-2dbd-4e38358b226e">botz</ptr>
+								<date>2002</date>
+								<citedRange>45</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-45011e6a-0afb-4fcb-8740-a2a47b9e5ba7" n="">
+						<def xml:id="uuid-dcb1d4b7-bddc-4238-987c-5ed5ea6a3a82"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
+						<number>abături</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="Abate"/>
+                    <term xml:lang="" type="sufix" subtype="unknown">ură</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

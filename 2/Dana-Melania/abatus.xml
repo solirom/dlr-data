@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e955ab2e-c458-4063-af83-c278856885ec" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-04T12:37:03+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abătuș</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂTÚŞ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e2a33fae-457c-4ce5-a66f-d75289c7fba5" n="">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-15bdede9-33cb-4ea5-9694-e9e689c552f1">Loc de popas în
+							așteptarea vânatului.</def>
+						<usg corresp="#uuid-15bdede9-33cb-4ea5-9694-e9e689c552f1"><seg type="time" rend="usg">Înv</seg>., <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown">budai</ptr>
+								<date>1818</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-65c34d14-57f6-40b0-a0a4-587f09acc407" n="">
+						<def xml:id="uuid-6d98fac2-f57b-4e0c-9821-ca8ce9f1a519"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abate"/><term xml:lang="" type="sufix" subtype="unknown">uș</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

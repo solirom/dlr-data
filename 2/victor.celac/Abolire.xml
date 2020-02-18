@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-874d10f3-cbc0-4e80-a193-c2ef57a861fa" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>victor.celac</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-03T16:25:41+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abolire</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABOLÍRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-caa67922-8f14-45d5-b802-7d382a0a397d" n="">
+						<sense xml:id="uuid-f1279371-41c5-4619-a0f9-d3c65b2b373c" n="1.">
+							<def xml:id="id">Scoatere din uz, desființare a unor anumite obiceiuri,
+								privilegii, instituții etc.</def>
+							<xr type="analog" corresp="#id">
+								<ptr target="Cf. aboli (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Religia cristiană a conlucrat și ea la aceasta, întroducând
+									în lume o morală mai curată, răspândind în suflete o semință mai
+									vie de dreptate și de frăție; dar ar fi a se mărgini într-un
+									examen superficial dacă s-ar atribua numai cristianismului
+									meritul <hi rend="bold">abolirei</hi> sclăviei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-22d77be6-3c1f-9c25-8a1b-d1ec51d76133">kog</ptr>
+									<date>1855</date>
+									<citedRange>600</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Serbarea Matronalia închinată femeelor pentru <hi rend="bold">abolirea</hi> resbelului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">arist</ptr>
+									<date>1857</date>
+									<citedRange>77/22</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mulți au vrut să ne asuprească că, cu <hi rend="bold">abolirea</hi> titlurilor fără foncțiuni, am abolit boieria.
+									Aboliția boierismului vine de la fanarioți și de la Rusia,
+									făcând să piară boierii și să le ia locul ciocoii, cu cari se
+									pot servi mai bine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dc59d30b-33c9-7cdc-5ab6-9572849ea6dd">helia</ptr>
+									<date>&lt;1859–1869&gt;</date>
+									<citedRange>713</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„<hi rend="bold">Abolire</hi>” și „abrogare” vasăzică
+									desființare, însă cel dântâi termin se ia când e vorba despre
+									costume sau datine, cel de-al doilea, când s-atinge de
+									legi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d0ef16d7-6b72-85ca-3dd7-78fd1a0688f9">canell</ptr>
+									<date>1867</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[În Anglia] 20 000 de petiții au cerut <hi rend="bold">abolirea</hi> sclavajului, tot prin ele s-a făcut reforma
+									Parlamentului, emanciparea catolicilor, abrogarea legii asupra
+									cerealelor și a. m. d.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">emine</ptr>
+									<date>1882</date>
+									<citedRange>49</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Omenirea întreagă se felicită că a scăpat de vremea robiei,
+									aceia care au luptat pentru <hi rend="bold">abolirea</hi> ei își
+									fac mare fală din acțiunea lor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda">bacal</ptr>
+									<date>1892</date>
+									<citedRange>67</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Adevărul e că muscalii cari se pregătea să intre în țeară,
+									cerură <hi rend="bold">abolirea</hi> văcăritului, ca să-și facă
+									nume bun la munteni.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c00cbbe4-4237-7b45-8157-65e5f795988b">urechia</ptr>
+									<date>1895</date>
+									<citedRange>574</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abolirea </hi>prostituției e un titlu de
+									înaltă cinste omenească și un drept netăgăduit la recunoștința
+									întregei omeniri.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1359b719-8fd5-1ea1-31a5-cdc6780e4dad">galac</ptr>
+									<date>1920</date>
+									<citedRange>353</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mama era pentru <hi rend="bold">abolirea</hi> tuturor
+									privilegiilor de castă, pe când tata nici nu voia să audă de
+									astfeli de lucru. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c0804d30-08c9-2601-159e-52c57fb4a5de">rosetti</ptr>
+									<date>1925</date>
+									<citedRange>535</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abolirea </hi>dictaturii și a stărilor
+									excepționale, succesul financiar, asanarea monedei s-au săvârșit
+									în chip firesc prin simpla venire la putere a Partidului
+									Național Țărănesc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cf4d2a33-8d0f-4731-2242-8f16b3bf8504">vinea</ptr>
+									<date>1929</date>
+									<citedRange>112</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pentru a câștiga masele populare, Ipsilanti voise să proclame
+									la Iași <hi rend="bold">abolirea</hi> tuturor privilegiilor de
+									clasă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">Vladimirescu</ptr>
+									<date>1945</date>
+									<citedRange>361</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Programul lui Horia viza... situația nobilimii, cerând pur și
+									simplu <hi rend="bold">abolirea</hi> acestei clase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8a826689-2fef-2da5-7a76-e1ba73023fb0">blaga</ptr>
+									<date>1961 (†)</date>
+									<citedRange>79</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abolirea </hi>breslelor de către
+									Regulamentele Organice a fost urmată de luarea unor măsuri
+									pentru înființarea de corporații.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
+									<date>1969</date>
+									<citedRange>437</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Din aceste trei principii rezultă comunizarea tuturor
+									bunurilor... și, în fine, rezultă <hi rend="bold">abolirea
+									</hi>proprietății private.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">patap</ptr>
+									<date>1995 (&lt;1992–1994&gt;)</date>
+									<citedRange>240</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un alt obiectiv, inclusiv intelectual, este avut de asemenea
+									în vedere: în esență și în final, <hi rend="bold">abolirea</hi>
+									regimului fanariot.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+									<date>2005 (†)</date>
+									<citedRange>89</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În statele democratice s-a legiferat <hi rend="bold">abolirea</hi> inegalității de rasă și de sex.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6b5944d-2886-5cc0-a498-c34639ff4a57">dgs</ptr>
+									<date>2013</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ef6456bb-fe61-460e-81bb-680e3238cb74" n="2.">
+							<def xml:id="id">Abrogare, anulare a unor prevederi legale, acte
+								normative.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">JUR.<seg type="plev" rend="usg">(În
+										opoziție cu <hi rend="spaced">adoptare</hi>)</seg></seg>
+							</usg>
+							<xr type="analog" corresp="#id">
+								<ptr target="Cf. aboli (2)."/>
+							</xr>
+							<cit type="unknown">
+								<quote>[Justiția] șchioapătă numai în privința pedepselor corporali,
+									pentru a căror <hi rend="bold">abolire</hi> n-au venit timpul –
+									după spresiunea boierilor legislatori.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cf3f6bb8-93a0-11bb-03ca-f0e98bd23bfd">codru</ptr>
+									<date>1840</date>
+									<citedRange>105</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toate aceste modificări ar echivala cu o <hi rend="bold">abolire</hi> a legii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd65e323-8f5b-6694-33de-8d79087229c1">rom.</ptr>
+									<date>1912</date>
+									<citedRange>august, 193</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sunt informat că proiectul Decretului pentru <hi rend="bold">abolirea</hi> Constituției este gata și se va promulga în
+									zilele acestea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-16bb2635-76a8-815f-85c3-f82b9d9c2ae1">ARGETOIANU</ptr>
+									<date>1938</date>
+									<citedRange>134</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Încă în 1793 se închiseseră mai bine de 30 școli moldovenești
+									în urma abolirii obligativității învățământului primar în
+									Bucovina.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d4bf4208-2417-4bd2-9218-47d173f68a0c">nistor</ptr>
+									<date>&lt;1942–1950&gt;</date>
+									<citedRange>72</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Campania electorală s-a desfășurat în proporții impresionant
+									de dinamice, Roosevelt susținând... drepturile indivizilor față
+									de corporațiile prea puternice, precum și <hi rend="bold">abolirea</hi> prohibiției.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7737fbf7-0e95-165d-6183-ccccf761370f">COMARNESCU</ptr>
+									<date>1947</date>
+									<citedRange>281</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1793f585-cd60-4bbc-8fa7-a7fa283a41f3" n="3.">
+							<sense xml:id="uuid-dd0549ea-34a5-4cdb-a9fb-7866173f7bec" n="✧">
+								<def xml:id="id">Reducere a funcției unor organe.</def>
+								<usg corresp="#id">
+									<seg type="sem" rend="usg">P. ext.</seg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<cit type="unknown">
+									<quote>Rațiunea acestor fenomene precum și a altora, le găsim
+										într o funcție aproape necunoscută a tiroidei, a cărei <hi rend="bold">abolire</hi> sau perturbare este singura
+										capabilă să ne explice tulburările de care ne
+										ocupăm.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-63ec19cb-8b45-42f2-1f8e-b14a8a282cfa">PARHON</ptr>
+										<date>1904</date>
+										<citedRange>312</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Este de notat însă că în acest caz există o hipertrofie a
+										tiroidei și amenoree, deci <hi rend="bold">abolirea</hi> sau
+										cel puțin diminuarea însemnată a funcțiilor
+										ovariene.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3b2a87b7-1e07-29a7-0018-99b37a0d48fe">PARHON</ptr>
+										<date>1905</date>
+										<citedRange>90</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Dispariție, reducere drastică a importanței acordate
+								unor noțiuni, doctrine, opinii etc.</def>
+							<xr type="analog" corresp="#id">
+								<ptr target="Cf. aboli (3)."/>
+							</xr>
+							<cit type="unknown">
+								<quote>Mă întreb dacă, gândind asupra proceselor yogice de <hi rend="bold">abolire</hi> a timpului, n-am „însuflețit” vreo
+									„imagine” care îmi provoacă euforia și „ieșirea” aceasta din
+									timp neexperimentată până acum.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">ELIADE</ptr>
+									<date>1951</date>
+									<citedRange>196</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>După unii gânditori iluștri, condiția limbii ideale este <hi rend="bold">abolirea</hi> impreciziei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<date>1971</date>
+									<citedRange>nr. 1 286, 8</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dictatura tehnocratică, <hi rend="bold">abolirea</hi> iubirii
+									și a familiei... sunt teme exorcizate în numeroase texte ale
+									sfârșitului de veac.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2798eb81-7368-41e5-5512-3708153da688">HOBANA</ptr>
+									<date>1983</date>
+									<citedRange>186</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fragmentarea discursului liric, autocenzura, răsturnarea
+									sensului, repetițiile simulând automatismul, pauzele, <hi rend="bold">abolirea</hi> punctuației, toate aceste
+									modalități folosite de timpuriu în poemele lui Höllerer... au
+									fost preluate și amplificate de poeții mai tineri.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-87013d2f-5ca0-0619-8762-9dedc2179a1b">SORESCU</ptr>
+									<date>1985</date>
+									<citedRange>1 076</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Lumea valorilor nu supraviețuiește nici <hi rend="bold">abolirii</hi> lumii lui Dumnezeu, nici desființării lumii
+									corporal-vizibile.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1ac6d429-7a9d-8556-9a36-868530522e4a">PATAPIEVICI</ptr>
+									<date>2001</date>
+									<citedRange>65</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Anarhia se caracterizează prin <hi rend="bold">abolirea</hi>
+									centrelor și criteriilor puterii, prin randomizarea și
+									haotizarea vieții în toate zonele ei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-10f60aa4-0617-4377-37e2-223cf9fd201e">CĂRTĂRESCU</ptr>
+									<date>2003</date>
+									<citedRange>166</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aceasta este emoția istorică: <hi rend="bold">abolirea</hi>,
+									timp de o clipă, a eului prezent și retrăirea intensă, în
+									simpatie, a unui moment din trecutul altora.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-57fb8696-3cfb-3fca-4a2e-25ac0eac13c5">djuvar</ptr>
+									<date>2004</date>
+									<citedRange>68</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cele mai multe dintre deictice sunt compatibile și cu
+									utilizarea anaforică ..., în situațiile în care, prin <hi rend="bold">abolirea</hi> referirii directe la situația de
+									comunicare... se precizează referențial prin asocierea cu un alt
+									component coocurent în enunț.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-40ef8c33-41ce-68b4-6333-2cf7a0c25d09">GALR</ptr>
+									<date>2005</date>
+									<citedRange>59</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-d70f0525-653e-41dc-bf5b-c4041ca59f1c">Acțiunea de <hi rend="spaced">a aboli</hi> și rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c4bce5bc-e32e-452b-8d36-6520db2f1fa0" n="">
+						<def xml:id="uuid-184a4b85-f54f-4630-a510-28b7ae7b58eb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

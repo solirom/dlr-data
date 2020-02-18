@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a0db8faa-c3c7-4011-8ab6-08d3ed9677e2" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-09T14:15:56+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ab absurdo</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">AB ABSÚRDO</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adj."/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adv."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a61df6f3-d6ba-4103-88a8-8493336130c9" n="">
+						<def xml:id="uuid-50dac73b-cf4a-4b2f-9a9e-f03bae3b4381">(Care este)
+							demonstrat prin absurd.</def>
+						<cit type="unknown">
+							<quote>După cum vedem, metoda „descinderii infinite” nu conţine scheme
+								de demonstraţie noi faţă de cele cunoscute. Noutatea ei constă în
+								ingeniozitatea cu care combină demonstraţia <hi rend="bold">ab
+									absurdo</hi> cu inducţia completă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-16ddc8be-2d5b-3438-a1c6-0d6725746408">dumitriu</ptr>
+								<date>1971</date>
+								<citedRange>188</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A admite <hi rend="bold">ab absurdo</hi> un raționament
+								fals.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cf06a4e5-7088-4648-a3e2-744f21500d72">d.
+									enc</ptr>
+								<date>1999</date>
+								<citedRange>459</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-f81bf378-e18b-4d96-b633-d98d0a73430c" n="">
+						<def xml:id="uuid-5032c9a5-d42c-4aa7-a1f3-bd3f70e996e1"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="loc.lat."/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

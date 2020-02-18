@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-52e9d9a3-dfc6-4a61-95c5-dbe4c335d570" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -41,8 +40,7 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-11868077-d054-41ba-9218-7aeb60f1e6f9" n="">
 						<def xml:id="uuid-30de9426-6369-4426-882c-e3dd17759968">Acţiunea şi
-							rezultatul de a<hi rend="spaced"> abunda</hi>
-						</def>
+							rezultatul de a<hi rend="spaced"> abunda</hi> şi rezultatul ei</def>
 						<usg corresp="#uuid-30de9426-6369-4426-882c-e3dd17759968">
 							<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 						</usg>

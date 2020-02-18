@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c29bf64c-a00f-4733-a48e-4fd330eb1f40" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-22T14:05:02+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstanță</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTÁNȚĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-aff63439-c57b-41c4-a0ff-3445389496f6" n="">
+						<def xml:id="uuid-005954b6-cb15-4f4b-96fc-cd0f6fb3796e">Îndepărtare;</def>
+						<usg corresp="#uuid-005954b6-cb15-4f4b-96fc-cd0f6fb3796e">
+							<seg type="time" rend="usg">Înv.</seg>
+							<seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-005954b6-cb15-4f4b-96fc-cd0f6fb3796e">
+							<ptr target="distanță"/>
+							<usg>
+								<seg type="sem" rend="usg">p. ext.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+								<date>1859</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ce80dd02-7297-46f0-b190-9608775055e4" n="">
+						<def xml:id="uuid-a4f28c52-e657-4704-b7c1-4639447a31af"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstanțe</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abstantia</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-80b28d43-997e-4a5c-af0f-37e57e40197f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-13T11:46:30+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdest</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDÉST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value=""/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ba27068a-1f6e-4295-b594-67172fd944ca" n="">
+						<def xml:id="uuid-3772637b-369b-4afd-9bf2-f6a50d7b573e"/>
+						<xr type="syn" corresp="#uuid-3772637b-369b-4afd-9bf2-f6a50d7b573e">
+							<ptr target="Abluțiune."/>
+							<usg><seg type="dom" rend="usg">RELIG.</seg>
+								<seg type="time" rend="usg">Înv</seg>; <seg type="plev" rend="usg">rar </seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote>Coprinderea Coranului în perilipsis este aceasta ... A-ş spăla
+								mâinile şi picioarile cu apă înnaintea închinăciunii, care spălare o
+								numescu <hi rend="bold">abdestu</hi> şi cred a fi curăţitoriu dă
+								păcate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-82d30bcb-917a-3c64-19fc-efc9f3380e85">văcăr</ptr>
+								<date>1794</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d456c37c-6144-4fe0-8138-e65e0f3d6a54" n="">
+						<def xml:id="uuid-373069c1-7b0d-4bbf-8d6b-fcf9e42a8719"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					</usg>
+					<def>abdés</def>
+					<bibl type="unknown"><ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr><date/>1847<citedRange/></bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value=""/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="unknown"/>
+					</form>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="tr" type="unknown" subtype="unknown">abdest</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f30e2e8f-3cad-4847-7417-325f22884871">enc</ptr>
+						<date>1935</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4cebded3-a294-97fc-8fe5-0eefae33a162">suciu</ptr>
+						<date>2010</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

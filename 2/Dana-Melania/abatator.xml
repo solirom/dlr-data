@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2d60dcb0-82a9-40ec-8fb5-0a40a516123c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-03T13:50:17+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abătător</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂTĂTÓR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f970b989-182f-4d93-be83-587315f558ab" n="I">
+						<sense xml:id="uuid-ecbad863-a8da-4810-ae3c-81aacf06772a" n="1.">
+							<sense xml:id="uuid-a36526f0-6ce1-4fbe-a374-3b2fbcb3a4d4" n="✦">
+								<def xml:id="id"/>
+								<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg> (<seg type="coloc" rend="usg">În forma abătătoriu</seg>)</usg>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+										<date>&lt;1780–1801&gt;</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Care derivă din ...</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corb</ptr>
+									<date>&lt;1691–1697&gt;</date>
+									<citedRange>s.v. derivatus, -a, -um.</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-bc9e292b-2707-4311-9f8c-b43ebc6a7771" n="2.">
+							<sense xml:id="uuid-4cef2e74-3fd3-443c-8a74-4be4dee57080" n="✦">
+								<def xml:id="id"/>
+								<xr type="syn" corresp="#id">
+									<ptr target="Indirect"/>
+									<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+								</xr>
+								<xr type="syn" corresp="#id">
+									<ptr target="unknown"/>
+									<usg/>
+								</xr>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+										<date>1862</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Care este înclinat spre anumite acţiuni, deprinderi
+								etc.</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Şi firea omului iaste lesne <hi rend="bold">abătătoare</hi>
+									spre ceale desfrânate şi slobode, trupeşti.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-07230e1b-5fe2-826d-772e-d5126fb35f4c">hronog</ptr>
+									<date>1814</date>
+									<citedRange>125</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5c225e5d-57c6-4a19-b70d-4ec24402d86d" n="3.">
+							<def xml:id="id"/>
+							<xr type="syn" corresp="#id">
+								<ptr target="Harnic"/>
+								<usg>
+									<seg type="geo" rend="usg">Reg.</seg>
+								</usg>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="sârguincios"/>
+								<usg>
+									<seg type="geo" rend="usg">Reg.</seg>
+								</usg>
+							</xr>
+							<cit type="unknown">
+								<quote>[Mironica] şi-a lucrat [moşia] ca un bărbat, voinică,
+									harnică, „<hi rend="bold">abătătoare</hi>” – cum se zice prin
+									Bran – de dimineaţa până seara.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușcariu</ptr>
+									<date>1923</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-8d9b51dc-a993-447d-9694-068eb9229455"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-33506a7e-8d87-4540-a41d-e20d3804bbc6" n="II.">
+						<sense xml:id="uuid-15a3a3ed-cab3-4b9a-9c1c-124a429e2bcd" n="1.">
+							<gramGrp>
+								<pos value="s."/>
+								<gen value="f."/>
+								<number value=""/>
+								<case value=""/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">Loc în care se abat drumeții;</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="han"/>
+							</xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+									<date>1825</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f8ecb297-af84-4f0b-bcaa-cd93a20f6b7e" n="2.">
+							<sense xml:id="uuid-4874a75b-35d8-44a8-9bcf-33f7afef95ae" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abătător de fulger</term>
+								</form>
+								<def xml:id="id">paratrăznet</def>
+								<usg corresp="#id">Înv.</usg>
+								<cit type="unknown">
+									<quote>Iată câteva dintre numeroasele sale calcuri [ale lui
+										Teodor Stamati]: <hi rend="bold">abătător</hi> de fulger
+										„paratrăsnet”, aburire „evaporare”.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-568c0e24-174e-7a6b-63ac-bf2bdd5a1fe1">ursu</ptr>
+										<date>1962</date>
+										<citedRange>85</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<gramGrp>
+								<pos value="s."/>
+								<gen value="n."/>
+								<number value=""/>
+								<case value=""/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">Zăgaz, stavilă cu ajutorul căreia se abate apa la
+								moară.</def>
+							<usg corresp="#id">
+								<seg type="geo" rend="usg">Prin Buzău</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value=""/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8c34357b-aa29-492d-abc6-da86751804db" n="">
+						<def xml:id="uuid-9e0eb9c5-9217-4705-a1d6-d19fc83ca166"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>- OÁRE</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abătători, -oare</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abătătóriu, -ie</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abate"/><term xml:lang="" type="sufix" subtype="unknown">ător</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<date>1850</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barc</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM </ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">DDRF</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb"> MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">DELR</ptr>
+						<date>2011</date>
+						<citedRange>s.v. abate</citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

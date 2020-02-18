@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-78c325c5-6474-4679-b508-f138e40c00df" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-13T11:36:12+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abderitic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDERÍTIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b8b6b9af-1751-4cea-9e6e-7711c00625b8" n="">
+						<def xml:id="uuid-05a3134d-c800-4062-8bc6-cb405f76f066">De abderit.</def>
+						<usg corresp="#uuid-05a3134d-c800-4062-8bc6-cb405f76f066">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbe</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s.v. abderiticus, -a, -um.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acea absurditate <hi rend="bold">abderitică</hi>, acel spirit de
+								intoleranţă ajunsese aşa departe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08409e73-4e1b-3471-1700-a9e3fce61bc7">bariț</ptr>
+								<date>1890</date>
+								<citedRange>563</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Gubernul se informase despre o mulţime de fapte în adever <hi rend="bold">abderitice</hi> ale ţiehurilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08409e73-4e1b-3471-1700-a9e3fce61bc7">bariț</ptr>
+								<date>1890</date>
+								<citedRange>682</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-30f59af1-df0a-45cb-a28e-871eb29408ee" n="">
+						<def xml:id="uuid-45651fe9-62b6-4bfd-bf99-065fdce6cb2c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abderitici, -ce</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abderiticus, -a, -um</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

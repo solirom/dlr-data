@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-3ab70b44-5fe2-471c-bfc3-a4f0051d70fa" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-11T13:55:12+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abcesiune</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABCESIÚNE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-21fe5896-0419-4b86-9d39-aeea51e37f94" n="">
+						<def xml:id="uuid-1b26955d-2312-4fc9-bcc3-909f5ebc2f23">Abces.</def>
+						<usg corresp="#uuid-1b26955d-2312-4fc9-bcc3-909f5ebc2f23"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abcesiunea</hi> este o adunătură subcutanată sau
+								submusculară de puroi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brez</ptr>
+								<date>1852</date>
+								<citedRange>200/6</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-495e7e29-69df-499d-bbcd-725df310ee32" n="">
+						<def xml:id="uuid-4413fefe-38f0-4f3d-af94-3bfd7937700f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abcesiuni</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abces"/><term xml:lang="" type="sufix" subtype="unknown">iune</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

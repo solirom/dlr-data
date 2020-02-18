@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d0cd3bb1-84aa-48be-a6ef-b5090ca1feb7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-29T20:06:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţinut</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢINÚT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value="invar."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0ab9eca1-6dcf-42d7-81fc-e10c6b591adf" n="">
+						<sense xml:id="uuid-61fdd1a3-a8ca-4493-b2a7-61cf7f5fd0dd" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id"> (<seg type="gram" rend="usg">Substantivat</seg>) </usg>
+							<cit type="unknown">
+								<quote>Pentru mine, şi zişii albi, şi zişii roşii şi moderaţii, şi
+									votatorii din sesia trecută, şi <hi rend="bold">abţinuţii</hi>,
+									toţi sunt români şi la toţi le-am voit binele, dacă doresc
+									binele comun.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dc59d30b-33c9-7cdc-5ab6-9572849ea6dd">heliade</ptr>
+									<date>&lt;1859–1869&gt; </date>
+									<citedRange>672</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Adunarea procede la vot, şi resultatul scrutinului este cel
+									următor: votanţi 77, majoritate absolută 39, ... <hi rend="bold">abţinuţi</hi> 3. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<date>1878</date>
+									<citedRange>nr. 24, 536</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Domnul Hasdeu] ţine să înlocuiască pe dezertori: a combătut
+									un partid care nu era aci şi care, dacă ar fi intrat în Cameră,
+									negreşit că nu intra ca să facă pace. Ei, onor. domnul Hasdeu
+									ţine să fie urmaşul şi locţiitorul celor <hi rend="bold">abţinuţi</hi>?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cacda226-37b4-870e-7829-e804d79e987a">kogăl</ptr>
+									<date>1884</date>
+									<citedRange>32</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În 21 Mai, ziua onomastică a doamnei, se face o mare serbare
+									şi se proclamă rezultatul votului plebiscitar, cu 683 928 de
+									glasuri pentru şi contra, iar 50 232 <hi rend="bold">abţinuţi</hi>, sau absenţi 2.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ba667498-a2f8-994e-2a46-7105802042c0">xenopol</ptr>
+									<date>1896</date>
+									<citedRange>10</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-807849f9-1248-4dda-887a-a70e839f7766">Care se stăpâneşte,
+							care se înfrânează de la ceva; </def>
+						<def xml:id="uuid-9f7efe73-9391-4a4c-bf26-9ca4b3f2e3df">care nu-şi exprimă
+							părerea sau votul.</def>
+						<usg corresp="#uuid-807849f9-1248-4dda-887a-a70e839f7766">
+							<seg type="time" rend="usg">
+								<hi rend="italic">Înv.</hi>
+							</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<date>1863</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8370c78e-c0e0-4fc3-9a62-e3cabc42c1e6" n="">
+						<def xml:id="uuid-7bc338a3-2453-4246-b097-af260caee560"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abţinuţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
+					<note type="unknown" n="unknown" cert="high">
+						<term/>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

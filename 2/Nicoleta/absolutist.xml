@@ -1,0 +1,717 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4824b6e3-1b4d-430a-980a-ec840dedc850" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T12:20:45+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutist</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTÍST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3198e81b-477d-4684-9a22-155ca3513984" n="1.">
+						<sense xml:id="uuid-46d0990b-0e87-468e-87e9-12b35bf45f2d" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id"> (<seg type="gram" rend="usg">Adjectival</seg>) </usg>
+							<cit type="unknown">
+								<quote>Singurele reforme mai mult sau mai puţin priitoare treptei
+									ţărăneşti le-a făcut un domn <hi rend="bold">absolutist</hi>,
+									Cuza-Vodă, Dumnezeu să-l ierte.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">eminescu</ptr>
+									<date>1879</date>
+									<citedRange>166</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În portretul lui Ludovic al XIV-lea, recunoaştem o serie de
+									trăsături tipice ale unui monarh de tip feudal <hi rend="bold">absolutist</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-76d4cf76-1c37-1195-4368-b0bb357f0db3">ll</ptr>
+									<date>1955</date>
+									<citedRange>I, 38</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am vizitat [muzeul] „Escorial”, opera integrală ca spirit a
+									celui mai <hi rend="bold">absolutist</hi> dintre toţi regii
+									Spaniei: Filip al II-lea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3447b573-2f10-0337-6245-2ca97f974937">iordan</ptr>
+									<date>1977</date>
+									<citedRange>166</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Prin acest ansamblu de măsuri, vechiul drept de patronat şi-a
+									modificat importanţa juridică, devenind un accesoriu al unui
+									drept mai larg de intervenţie, coordonare şi control şi în acest
+									domeniu din partea şefului <hi rend="bold">absolutist</hi>,
+									dominat de concepţia iluministă a monarhiei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d.
+										inst.</ptr>
+									<date>1988</date>
+									<citedRange>176</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-814dfa2f-a47f-4c2b-a495-4c0371da59a0">Adept al
+							absolutismului (1).</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>România întreagă este prea întinsă pentru <hi rend="bold">absolutiştii</hi> noştri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e10e423f-a624-4541-2882-2fe4f9821edd">hasdeu</ptr>
+								<date>1869</date>
+								<citedRange>67</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Fostul domn] n-a făcut decât ceea ce orice <hi rend="bold">absolutist</hi> face, el a lovit în puterile istorice ale
+								ţării.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">eminescu</ptr>
+								<date>1882</date>
+								<citedRange>121</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lupta între <hi rend="bold">absolutişti</hi> şi liberali a curs
+								în vreo doi ani împregiurul monarhului junişor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08409e73-4e1b-3471-1700-a9e3fce61bc7">barițiu</ptr>
+								<date>1890</date>
+								<citedRange>667</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iosif, <hi rend="bold">absolutistul</hi> „filantrop” de mai
+								târziu, căuta să facă bine, dar un „bine” așa cum îl înțelegea
+								el.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a826689-2fef-2da5-7a76-e1ba73023fb0">blaga</ptr>
+								<date>1961 (†)</date>
+								<citedRange>68</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-9639e3ca-31b8-47dc-8f91-b361331447bf" n="2.">
+						<sense xml:id="uuid-c6f580a6-8468-439e-a408-696728ffc343" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Absolutisto-ţarist </term>
+							</form>
+							<def xml:id="id">care este bazat pe absolutismul din Rusia
+								țaristă.</def>
+							<usg corresp="#id"> (<seg type="hint" rend="usg">despre organizări
+									statale</seg>) </usg>
+							<cit type="unknown">
+								<quote>Faţă cu acest fond social superior, această stare reală de
+									fapt atât de schimbată, stă o formă politică, o stare formală de
+									drept <hi rend="bold">absolutisto-ţaristă</hi>,
+									birocrato-asiatică, care nu mai corespunde cu fondul social, o
+									haină veche care nu mai încape pe corpul crescut al
+									Rusiei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ad3fbf9d-2012-2b1c-899e-ceb815dc5fac">dobrogeanu</ptr>
+									<date>1908</date>
+									<citedRange>499</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cc3ac185-a39f-472e-ad05-1678e3c600d6" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Absolutisto-parazitar</term>
+							</form>
+							<def xml:id="id">care are trăsături specifice absolutismului și claselor
+								parazitare.</def>
+							<usg corresp="#id"> (<seg type="hint" rend="usg">despre state</seg>) </usg>
+							<cit type="unknown">
+								<quote>Statul ţărănist ... având în mâna sa o putere aşa de
+									formidabilă cum e marea industrie, ar întrebuinţa o în propriile
+									sale interese, devenind un stat hipertrofiat, <hi rend="bold">absolutisto-parazitar</hi> şi ruinând astfel industria
+									casnică ţărănească nu în folosul dezvoltării industriale a
+									ţării, ci în propriul său folos.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-87a9f17e-a0a0-053b-0a45-209889075f55">gherea</ptr>
+									<date>1910</date>
+									<citedRange>367</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-60661583-a0a0-4ca7-905b-10b82110635a" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="plev" rend="usg">Rar</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Absolutisto-poliţist</term>
+							</form>
+							<def xml:id="id">care are caracteristici absolutiste și
+								polițienești.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-54022602-22ab-0ee7-0c34-fdec82b961d7">st.
+										form.</ptr>
+									<date>1959</date>
+									<citedRange>171</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-11a113b7-6ae0-4af7-9171-964bf7bed536" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg> (<seg type="hint" rend="usg">Despre organizaţii, partide politice</seg>) </usg>
+							<cit type="unknown">
+								<quote>Oratorul zice că în orice partid, fie conservator, <hi rend="bold">absolutist</hi>, oricum ar fi, se pot găsi
+									principii socialiste, dar la liberali, nu</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia</ptr>
+									<date>1889</date>
+									<citedRange>nr. 3 428, 2</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">Care se bazează pe absolutism (1).</def>
+						<usg corresp="#id"> (<seg type="hint" rend="usg">Despre state, regimuri
+								politice</seg>) </usg>
+						<cit type="unknown">
+							<quote>În Rusia <hi rend="bold">absolutistă</hi> ţarul este şi capul
+								Sinodului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-242183fe-6eb9-9889-1b36-b3ae16e522c6">maiorescu</ptr>
+								<date>1871</date>
+								<citedRange>80</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sub regimul <hi rend="bold">absolutist</hi>, la Curţile
+								judecătoreşti superioare se numiseră mai mulţi români, doctori în
+								drept, absolvenţi etc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cacda226-37b4-870e-7829-e804d79e987a">kogălniceanu</ptr>
+								<date>1886</date>
+								<citedRange>348</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prinşi între împărăţiele cele mai straşnice din Europa, <hi rend="bold">absolutiste</hi> şi militare, cari voiau să ne
+								încorporeze fiecare la rândul său, bărbaţii noştri politici au avut
+								totul de creat, o istorie a trecutului, o pază a momentului şi o
+								constituţie a viitorului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfirescu</ptr>
+								<date>1909</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Frederic-Wilhelm al III-lea şi regina Luiza au transformat
+								monarhia feodală <hi rend="bold">absolutistă</hi> a veacului al
+								18-lea într-un stat modern, care-şi trăgea puterea din sentimentul
+								naţional.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8606e86-3b51-8c24-0a17-00b1e9449e88">zamfirescu</ptr>
+								<date>1918</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Idolatrie şi tabu personal constituie o specialitate
+								neoccidentală şi face parte din mentalitatea civilizaţiei asiatice,
+								a paşalâcului pe viaţă şi a imperialismului <hi rend="bold">absolutist</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a6761467-9da2-0359-5a7a-290dcfdb84cd">arghezi</ptr>
+								<date>1929</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ţara Românească ar avea o oarecare şansă de rezistenţă glorioasă
+								... aci la răspântia a trei mari imperii <hi rend="bold">absolutiste</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7fe23813-271d-28b7-02cb-2aea7a6875bb">petrescu</ptr>
+								<date>1930</date>
+								<citedRange>553</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi dacă altădată, sub vechiul regim <hi rend="bold">absolutist</hi>, participarea oamenilor obişnuiţi la această
+								viaţă era excepţională, astăzi ea, nemailovindu-se de nicio piedică,
+								de la generalizarea sistemului constituţional încoace, a devenit
+								curentă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negulescu</ptr>
+								<date>1934</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nestânjeniţi de autoritatea de stat, bucovinenii se gândeau cu
+								compătimire la fraţii lor din Moldova, unde regimul <hi rend="bold">absolutist </hi>al principelui Mihai Sturdza suprimase cu forţa
+								orice încercare de liberă manifestaţie politică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4bf4208-2417-4bd2-9218-47d173f68a0c">nistor</ptr>
+								<date>&lt;1942–1950&gt;</date>
+								<citedRange>95</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Politica economică a statelor occidentale, angajate în regimuri
+									<hi rend="bold">absolutiste</hi>, este animată de principiile
+								mercantilismului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a826689-2fef-2da5-7a76-e1ba73023fb0">blaga</ptr>
+								<date>1961 (†)</date>
+								<citedRange>23</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un episod tipic al conflictului dintre un stat <hi rend="bold">absolutist</hi> şi o clasă dominantă refractară procesului de
+								centralizare s-a desfăşurat în Oltenia în cele două decenii ale
+								stăpânirii austriace.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3110d331-3a24-44b0-95ff-238b2f6a08f4">papacostea</ptr>
+								<date>1971</date>
+								<citedRange>201</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Clasicii economiei politice, de pildă, comparând economia de
+								piaţă cu cea a Evului Mediu şi cu regimurile <hi rend="bold">absolutiste</hi> feudale, o caracterizau in felul următor: …
+								Subiectul vieţii economice este individul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56cf603c-909d-2f31-a464-f544557f3d65">abc</ptr>
+								<date>1991</date>
+								<citedRange>19</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Într-un regim <hi rend="bold">absolutist</hi>, revendicarea
+								libertăţii politice este practic imposibilă. Însă ideea presei
+								libere începe să-şi facă loc, tot mai vizibil, în
+								conştiinţe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+								<date>2005 (†)</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-ecbfb266-7798-43eb-b0f6-e86110e42484" n="3.">
+						<sense xml:id="uuid-ba39f080-ed3a-46ef-ae7c-968203db4619" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id"> (<seg type="gram" rend="usg">Adverbial</seg>) </usg>
+							<cit type="unknown">
+								<quote>În asemenea condiţii, ce caracterizează începuturile oricărei
+									burghezii, se alcătuieşte o forţă centrală, care guvernează în
+									mod <hi rend="bold">absolutist</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-130e5fc2-83a6-8ea6-5b70-2d7b6a6054f5">zeletin</ptr>
+									<date>1925</date>
+									<citedRange>27</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Regele purta titlul de „minos” – care probabil că la început
+									fusese un nume propriu – şi se considera, ca în multe monarhii
+									orientale, fiu al divinităţii supreme. Prin urmare, ca rege era
+									suveran de esenţă şi de drept divin. Guverna <hi rend="bold">absolutist</hi>, asemenea faraonilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">drimba</ptr>
+									<date>1984</date>
+									<citedRange>498</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De obicei, alergia la referințe – semn de orgoliu, desigur,
+									de acută conștiință a propriei unicități – îi caracterizează pe
+									„lebensfilosofi”, pe cei care trăiesc fierbinte și totalitar
+									ceea ce alții gândesc la rece și... <hi rend="bold">absolutist</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa95d40e-57d9-760a-0cf6-8d9bb6bc7f9d">mihăilescu</ptr>
+									<date>1994</date>
+									<citedRange>298</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">Care aparţine absolutismului (1), care se referă la
+							absolutism.</def>
+						<usg corresp="#id"> (<seg type="hint" rend="usg">Despre concepţii, idei
+								etc.</seg>) </usg>
+						<cit type="unknown">
+							<quote>[Românii] să nu aibă a se teme nici de tendinţele <hi rend="bold">absolutiste</hi> dinîntru, nici de speranţele de cotropire
+								dinafară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d33aa916-9e9d-9b3a-2fbd-7cb487c275fe">ghica</ptr>
+								<date>1872</date>
+								<citedRange>165</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Deosebirea ... între epocele trecute şi cea modernă este că
+								odinioară ... ideile <hi rend="bold">absolutiste</hi>, ca idei de
+								stat, erau mai universal răspândite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">eminescu</ptr>
+								<date>1885</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Împăratul Frantz a mers cu aceste vederi până a duşmăni şi
+								învăţământul liberal, pretinzând ca şi acesta să aibă caracter <hi rend="bold">absolutist</hi>, pendent fiind de monarh.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<date>1899</date>
+								<citedRange>272</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mihalache Sturdza ..., cunoscând bine Rusia ... a preferat să
+								trimată pe fiii săi în altă ţară şi a ales în acest scop Berlinul,
+								Prusia fiind atunci, după Rusia, statul din Europa în care domneau
+								principiile cele mai <hi rend="bold">absolutiste</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c0804d30-08c9-2601-159e-52c57fb4a5de">rosetti</ptr>
+								<date>1922</date>
+								<citedRange>442</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cultura poporului nu este acea concepţie învechită a culturii
+								populare ce domnea pe vremuri <hi rend="bold">absolutiste</hi>
+								despre popor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-497ff649-1886-75bb-71cd-73023ce66144">gusti</ptr>
+								<date>1928</date>
+								<citedRange>268</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Greutăţile se adună astfel încât, în mai puţin de două luni, ele
+								vor exclude ... orice fantezii şi capricii „fasciste” sau <hi rend="bold">„absolutiste”</hi> şi vor sili pe rege să renunţe la
+								sprijinul şi sfatul unor personagii de talia lui Blank.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c89d9cfb-3f8c-9eb7-461e-72544c5d5291">gafencu</ptr>
+								<date>1931</date>
+								<citedRange>50</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Spiritul său [al lui Dobrogeanu-Gherea] e utopic, <hi rend="bold">absolutist</hi> şi totuşi cu oroarea ideilor generale, a
+								„metafizicei”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+								<date>1941</date>
+								<citedRange>484</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cum se împacă, însă, această teorie liberală a dreptului
+								popoarelor de a depune şi pedepsi pe suverani, cu concepţia <hi rend="bold">absolutistă</hi> a suveranităţii?</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">negulescu</ptr>
+								<date>1947 (1914)</date>
+								<citedRange>419</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După atâta timp de experienţă <hi rend="bold">absolutistă</hi>,
+								după această lungă întrerupere, şi în Ungaria, şi în Transilvania,
+								sunt convocate iarăşi Dietele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a69bca72-89c8-07c7-3c16-f88b6dad61ea">prodan</ptr>
+								<date>1967 (1948)</date>
+								<citedRange>10</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Politica <hi rend="bold">absolutistă</hi> a regimurilor
+								regulamentare, departe de a reuși să stingă focarele de nemulțumire,
+								le-a ațâțat mai mult, determinând elementele cele mai radicale să
+								adopte forme de luptă insurecționale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+									lit.</ptr>
+								<date>1968</date>
+								<citedRange>232</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Megalomania acestei psihologii tinereşti <hi rend="bold">absolutiste</hi> i a împiedicat [pe legionari] să cântărească
+								disproporţia de forţe în care se găseau faţă de puterile constituite
+								în stat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6ac45012-23a4-6271-35f4-7612b56a1841">crainic</ptr>
+								<date>1972 (†)</date>
+								<citedRange>300</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sub domnia lui David încep să apară clare tendinţe <hi rend="bold">absolutiste</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">drimba</ptr>
+								<date>1984</date>
+								<citedRange>176</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toate [ideile noi] sunt de inspiraţie revoluţionară franceză,
+								radical ostile ordinii <hi rend="bold">absolutiste</hi>
+								feudale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+								<date>2005 (†)</date>
+								<citedRange>134</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-1f9b33b5-c581-4892-aaa5-1a0994ed6cb9" n="4.">
+						<sense xml:id="uuid-9f6222a8-3bce-45f2-a785-ee7744d601f6" n="✧">
+							<gramGrp>
+								<pos value="adj."/>
+								<subc value=""/>
+								<number value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg> (<seg type="hint" rend="usg">Despre atitudini, idei etc.</seg>) </usg>
+							<cit type="unknown">
+								<quote>Printre admiratorii mărturisiţi ai marelui poet Charles
+									Baudelaire, de la noi, Al. T. Stamatiad şi Al. Philippide,
+									primul absorbit în idolatria şi absolută şi <hi rend="bold">absolutistă </hi>de trei decenii a maestrului... au tipărit
+									două cărţi cu însuşirea netăgăduită în primul rând de a face
+									dorit originalul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b89dd907-4520-2b59-5633-80c726cd4dc8">streinu</ptr>
+									<date>&lt;1938–1948&gt;</date>
+									<citedRange>156</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">(Persoană) care acţionează, gândeşte intransigent, care dă
+							dovadă de absolutism (2).</def>
+						<cit type="unknown">
+							<quote>Metoda întrebuinţată de şcoala burgheză este a tuturor <hi rend="bold">absolutiştilor</hi> (în ştiinţă), metoda
+								deductivă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-96397f87-328c-877b-4291-9ac6671c4b6f">gherea</ptr>
+								<date>1884</date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Numai germanii stau cu mâinile în sân „purtând livree de
+								servitori ai stăpânilor <hi rend="bold">absolutişti</hi>…”</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<date>1899</date>
+								<citedRange>300</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eşti un <hi rend="bold">absolutist</hi> feroce, care vrei să
+								încătuşezi libertatea de gândire şi voinţa mea de om modern.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+								<date>1931</date>
+								<citedRange>316</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Unul orb şi celălalt paralitic, cerşeau amândoi, ţinându-se de
+								braţ pe un trotuar, fără să ştie că procesiunea funebră din dreptul
+								mâinilor întinse, glorifica pe proprietarul <hi rend="bold">absolutist</hi> al picturii unchiului lor decedat
+								sărac.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">arghezi</ptr>
+								<date>1946</date>
+								<citedRange>341</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fiecare (dacă n-a fost sceptic ori dacă nu s-a răzbunat făcând pe
+								scepticul şi devenind astfel tot un <hi rend="bold">absolutist</hi>)
+								a crezut că e Columbul Americii realităţii (iar uneori au cerut să
+								li se pună asta ca epitaf).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a49de80-8284-6170-21f5-587ae11296ae">băncilă</ptr>
+								<date>1967</date>
+								<citedRange>109</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-fa68b798-0cc3-4de3-8246-881ad4c0a717" n="">
+						<def xml:id="uuid-3fba1f50-c5aa-4c87-b3ec-fd8f0e24e82f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absolutişti, -ste</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absolutiste</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăineanu</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1906</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeriță</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

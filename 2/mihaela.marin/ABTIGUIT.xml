@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9ddee3fa-4db1-4450-95cb-7b73f2a4b3b4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T12:59:19+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţiguit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢIGUÍT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-47570061-8430-470a-8613-6295a9646a0c" n="1.">
+						<def xml:id="uuid-2bd871f2-0dab-4c79-8ec4-e9b1115ff473">Care este
+							cherchelit, uşor beat.</def>
+						<usg corresp="#uuid-2bd871f2-0dab-4c79-8ec4-e9b1115ff473">
+							<hi rend="italic">
+								<seg type="geo" rend="usg">Prin nord-vestul Munt. </seg>
+							</hi>
+						</usg>
+						<cit type="unknown">
+							<quote>Al meu mi-a venit acasă <hi rend="bold">abţiguit</hi> ţeapăn de
+								la voi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">UDRESCU</ptr>
+								<date>1967</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-bc9d753f-9253-4376-9f09-5f5987babe71" n="2.">
+						<def xml:id="id">Care este modificat, falsificat</def>
+						<usg corresp="#id">
+							<seg type="register style" rend="usg"><hi rend="italic">Fam</hi>.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-63540be5-6f6a-876e-00b0-0a2d4ad99c87">dex</ptr>
+								<date>1988</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-75d24de0-0d81-4d6e-b3dd-b9ab5a57523c" n="3.">
+						<def xml:id="id">Care a primit o bătaie uşoară. </def>
+						<usg corresp="#id">
+							<seg type="register style" rend="usg"><hi rend="italic">Fam</hi>.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-63540be5-6f6a-876e-00b0-0a2d4ad99c87">dex</ptr>
+								<date>1988</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-68a0eb30-24d8-41f7-b5d3-271cce400e26" n="">
+						<def xml:id="uuid-2143ccab-2784-48a5-a91c-fa57dacf34cb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abțiguiţi, -te</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(<seg type="geo" rend="usg">reg.</seg>)</hi></usg>
+					<def>abţuguít, -ă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<bibl type="unknown">
+						<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">udrescu</ptr>
+						<date>1967</date>
+						<citedRange/>
+					</bibl>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţigui"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

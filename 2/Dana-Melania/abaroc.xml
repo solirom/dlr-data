@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f682948c-913c-4367-973c-a7e0c08e894b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-03T13:12:47+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abăroc</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂROC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value=""/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3f7d34b6-3a18-41fb-a319-f19693554008" n="">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value=""/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+							<term/>
+						</form>
+						<def xml:id="uuid-5b5f80f1-4a05-4177-beb8-b124732feea2"/>
+						<usg corresp="#uuid-5b5f80f1-4a05-4177-beb8-b124732feea2"><seg type="geo" rend="usg">Ban.</seg> (<seg type="coloc" rend="usg">În
+							constr.</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-13033f4b-15f1-250e-3cac-29e154204244">costin</ptr>
+								<date>1934</date>
+								<citedRange>34</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-addbeeec-ff20-4d73-9c25-8d9f8a1384a3" n="">
+						<def xml:id="uuid-438d8409-8148-46cf-a652-4b7a5ab1c620"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="unknown"/>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

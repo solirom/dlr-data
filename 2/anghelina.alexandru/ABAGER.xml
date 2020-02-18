@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e2884c80-8aef-4c91-8062-754db67e1e42" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -149,15 +148,6 @@
 								<ptr target="#uuid-347bc34e-1110-9de8-5c6f-c96f29482505">olteanu</ptr>
 								<date>1969</date>
 								<citedRange>178</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote><hi rend="bold"/><hi rend="bold">Abager</hi>... sinonimnul
-								moldovenesc al lui abagiu... </quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-c0ee5868-42d2-0c4f-88dd-2225a071701e">șio</ptr>
-								<date>1900</date>
-								<citedRange>5</citedRange>
 							</bibl>
 						</cit>
 						<cit type="✧ POP.">

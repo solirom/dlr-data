@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-3367e677-23ad-4893-a81d-ab7069a40d45" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -137,7 +136,7 @@
 									<idno type=""/>
 								</etym>
 							</sense>
-							<def xml:id="id">A părăsi, lăsând fără spriin sau ajutor:</def>
+							<def xml:id="id">A părăsi, lăsând fără sprijin sau ajutor:</def>
 							<usg corresp="#id"><seg type="dom" rend="usg">JUR.</seg> (<seg type="gram" rend="usg">Complementul indică copii, familie,
 									persoane asistate</seg>)</usg>
 							<xr type="syn" corresp="#id">
@@ -205,7 +204,7 @@
 								acolo cu mine? </quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
-								<date>&lt;1842–1844&gt;</date>
+								<date>&lt;1842-1844&gt;</date>
 								<citedRange>127<hi rend="superscript">2</hi>/15</citedRange>
 							</bibl>
 						</cit>
@@ -257,6 +256,9 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
+							<bibl type="author-reference">
+								<author target="ALECSANDRI"/>
+							</bibl>
 							<quote>Urmează înainte pe calea artei dramatice, fiind chemat a îmbogăţi
 								repertoriul nostru cu ingenioase comedii de care avem mare lipsă, –
 								însă nu <hi rend="bold">abandona</hi> traducerea lui Horaţiu pe care
@@ -321,7 +323,7 @@
 								ideea unui organ de publicitate.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-d4bf4208-2417-4bd2-9218-47d173f68a0c">nistor</ptr>
-								<date>&lt;1942–1950&gt;</date>
+								<date>&lt;1942-1950&gt;</date>
 								<citedRange>156</citedRange>
 							</bibl>
 						</cit>
@@ -430,7 +432,7 @@
 							<bibl type="unknown">
 								<ptr target="#uuid-66c6a3f7-4cb8-3d5e-1507-6586072557ce">proze.
 									post</ptr>
-								<date>&lt;1868–1869&gt;</date>
+								<date>&lt;1868-1869&gt;</date>
 								<citedRange>200</citedRange>
 							</bibl>
 						</cit>
@@ -448,7 +450,7 @@
 							<quote>Ea nu <hi rend="bold">se abandona</hi> niciodată visării.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-9b63f60a-3cef-2704-5142-8aeec6e1094d">hronicul</ptr>
-								<date>&lt;1945–1946&gt;</date>
+								<date>&lt;1945-1946&gt;</date>
 								<citedRange>31</citedRange>
 							</bibl>
 						</cit>

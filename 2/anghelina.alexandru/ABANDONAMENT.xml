@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ee4c892-a53e-4565-95b2-6aafb220ca88" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -49,9 +48,12 @@
 							<ptr target="Renunțare"/>
 						</xr>
 						<cit type="unknown">
+							<bibl type="author-reference">
+								<author target="CIPARIU"/>
+							</bibl>
 							<quote>Știi d-ta ce simț io și trebuie să simtă oricine care cât de
 								puțin ș-au studiat limba istoricește? Greață! <hi rend="bold">abandonament</hi>! abandonare! etc. </quote>
-							<bibl type="unknown">
+							<bibl type="ap.">
 								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
 									contem</ptr>
 								<date>1847</date>

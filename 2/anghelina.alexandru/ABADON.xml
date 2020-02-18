@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-dc33a4b4-41eb-4382-8d37-21f4f7c733a4" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -72,7 +71,7 @@
 					<idno type="cuvânt.internațional"/><term xml:lang="" type="Cuv. ebr." subtype="unknown"/>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abbadon</term>
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abbaddon</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

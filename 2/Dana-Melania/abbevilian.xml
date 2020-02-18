@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-644be908-d6da-4cf5-b15e-00a00b5f94a8" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-04T14:09:52+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abbevilian</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABBEVILIÁN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-643acaa0-a91f-4b40-ab2a-16d8543a4b4a" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-643acaa0-a91f-4b40-ab2a-16d8543a4b4a">
+							<seg type="dom" rend="usg">GEOL.</seg>
+						</usg>
+						<def xml:id="uuid-fd61bfd8-a692-402e-a97a-dd596c8472aa">Subetaj mijlociu al
+							paleoliticului inferior, caracterizat prin apariţia primelor unelte
+							rudimentare de piatră.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+								<date>1978</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-98f91ba1-887d-42a1-9fea-e711860b06ed" n="2.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">Care aparţine abbevilianului (1);</def>
+						<def xml:id="uuid-a7f11556-b585-49fe-bbd2-89305955798b">care se referă la
+							abbevilian;</def>
+						<def xml:id="uuid-a270ef42-6111-44ac-977a-66cb1cfa92b2">care este specific
+							abbevilianului.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">DN</ptr>
+								<date>2002</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-f31a2c5d-4b80-48ab-b7bb-5e49b25edc3c" n="">
+						<def xml:id="uuid-d1e3cf3e-e1b9-4b77-964a-2d2ff97effeb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-li-an</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abbevilieni, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abvelián</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abbevilien</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

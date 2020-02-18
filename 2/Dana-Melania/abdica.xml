@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-384ed405-6490-4d87-b376-46b71dd11760" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-13T12:22:20+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdica</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDICÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9d12e046-f1b7-46f8-96a0-a6c0fcf6d9d9" n="1.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-8401d12f-a545-4216-8fe1-63c2d6f31471">A renunţa la ceva, a
+							ceda (în faţa greutăţilor), a se retrage dintr-o activitate.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s.v. abdico, -as. „arunc, jos pui, lepăd”.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>V-abonaţi la foaia noastră, Sau pe dată <hi rend="bold">abdicăm</hi>?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-623fd4e5-6b75-97ff-8e83-ecc3a67634d3">orăș</ptr>
+								<date>&lt;1868-1872&gt;</date>
+								<citedRange>115</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">VASICI-UNGUREANU <quote>Atâta mi se rebonifica totdeauna
+								de la consistoriu metropolitan, şi aceasta mă face <hi rend="bold">să abdic </hi>de la onoarea ce mi s-a făcut.</quote><bibl type="ap.">
+								<ptr target="#uuid-54f7f88d-57f0-93a0-1066-f0390861a3dc">contemp</ptr>
+								<date>1878</date>
+								<citedRange>194</citedRange>
+							</bibl></cit>
+						<cit type="unknown">
+							<quote>Când d-sa [dl. Ventura] afirmă că un conferenţiar nu poate decât
+								compila, se înşeală, şi aceasta nu e prea important, dar în acelaşi
+								timp <hi rend="bold">abdică</hi> la personalitate şi aceasta e mai
+								grav.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia
+									l</ptr>
+								<date>1885</date>
+								<citedRange>nr. 2 246, 2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Turcii... nu <hi rend="bold">abdicaseră</hi> la dreptul ce
+								pretendea că au ei de a se amesteca în afacerile ţerilor coroanei
+								ungureşti.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">bariț</ptr>
+								<date>1889</date>
+								<citedRange>313</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La noi în Moldova situaţia e cu atât mai gravă, că nici
+								proprietarii nu-şi mai îndeplinesc rolul lor social, şi <hi rend="bold">abdică</hi> în favoarea streinilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f2e9f3d5-8179-94f0-442e-1312ffac8cba">stere</ptr>
+								<date>1906</date>
+								<citedRange>349</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Îl cumpărase [sanatoriul] pentru prestigiul social pe care-l
+								avea, mult-puţin, şi nu vrea <hi rend="bold">să abdice</hi> de la
+								el.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7179166c-13b1-2f15-4bc8-c7ddfa654fec">bach</ptr>
+								<date>1927</date>
+								<citedRange>60</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe urmă [critica] îţi cere eroismul de <hi rend="bold">a
+									abdica</hi> de la tine însuţi, de la gravitatea ta, pentru
+								futilitate şi inesenţial.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+								<date>1933</date>
+								<citedRange>59</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Când ne vom deprinde ... <hi rend="bold">să abdicăm</hi>,
+								voluntar, atunci abia se va fi dovedit imperialismul omului, forţa
+								lui subjugatoare şi tiranică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6">botta</ptr>
+								<date>1934</date>
+								<citedRange>267</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ne-am grăbit cu toţii <hi rend="bold">să abdicăm</hi> în faţa ei
+								[a istoriei].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3622d023-4de8-83f1-62ea-67c5a73735e4">mathes</ptr>
+								<date>1934</date>
+								<citedRange>25</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cei mai cu stare vor clădi, poate, adevărate fortăreţe – spre <hi rend="bold">a</hi> nu <hi rend="bold">abdica</hi> de la
+								autarhie, ei singuri cu ai lor vor lipi cărămidă lângă cărămidă –
+								întărite cu metereze, vor săpa şanţuri adânci, peste care vor sta
+								ameninţătoare bidoane cu untdelemn clocotind neîncetat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6a3a8d57-34d5-17bd-5412-928f6c10458d">voron</ptr>
+								<date>1935</date>
+								<citedRange>248</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poezia modernă <hi rend="bold">a abdicat </hi>de la
+								tumult.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">fenom</ptr>
+								<date>1936</date>
+								<citedRange>366</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toţi <hi rend="bold">abdică</hi> din ce în ce mai mult de la
+								onoarea umană.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-679b177e-1770-31d4-8c74-3b09ff400889">dumitriu</ptr>
+								<date>1955</date>
+								<citedRange>396</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Impenitenţa într-o tovărăşie îl plictisise demult, şi-ar fi dorit
+								enorm să poată rămâne singur, dar demonul revoltei îl îndemna <hi rend="bold">să</hi> nu <hi rend="bold">abdice</hi>, sperând
+								poate în izbăvirea morţii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1f71a4a5-3282-14ca-269e-a4225eea48d5">fugii</ptr>
+								<date>1971</date>
+								<citedRange>73</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-593d95b0-208f-4f48-9053-edc4da274279" n="2.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A renunţa voluntar sau constrâns la tron ori la puterea
+							supremă de stat.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">POLIT.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Napoleon <hi rend="bold">abdică</hi> pentru a doua oară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2e06563-72b4-90c5-74eb-fdd0c3773329">florian</ptr>
+								<date>1845</date>
+								<citedRange>170/13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi <hi rend="bold">abdicând</hi> la dinastie, cum a şi promis, a
+								reformat statul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">aristi</ptr>
+								<date>1857</date>
+								<citedRange>26/12</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1fa77d6b-5665-4b7b-9fae-b32e58b55f62" n="">
+						<def xml:id="uuid-4d31136e-6c82-46dc-a3f1-dcf2a367a5b6"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

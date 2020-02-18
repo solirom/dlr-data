@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a7c3fc15-e73d-4fe0-980e-097cc5b2470d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-22T12:54:29+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutistic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTÍSTIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a9233921-5e86-4b64-b112-42767d5dc1b0" n="1.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-a9233921-5e86-4b64-b112-42767d5dc1b0">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="uuid-809b8317-cfca-4561-aa22-5c882603ee6b"/>
+						<xr type="syn" corresp="#uuid-809b8317-cfca-4561-aa22-5c882603ee6b">
+							<ptr target="Absolutist (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Am avea păcat dacă nu am mărturisi cum că mulţi din amploiaţii
+								străini sunt şi oneşti şi oameni, altfel, de capacitate. Dar cei
+								răi, în alianţă cu sistema <hi rend="bold">absolutistică</hi>
+								încarnată într-înşii i-au depopularizat şi pe cei buni.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-329b7f36-9f5f-393c-47b5-b72f011d4aea">b.
+									contemp.</ptr>
+								<date>1860</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O putere arbitrară şi discreţionară ... foarte uzitată până în
+								1848 şi nu în alte staturi <hi rend="bold">absolutistice</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>441</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După aceea domnia <hi rend="bold">absolutistică</hi> poată să
+								iasă la lumină.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>81</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pe timpul absolutismului austriac, districtul Făgăraşului a fost
+								împărţit jumătate la Sibiiu şi jumătate la Braşov, în care timp au
+								fost opt (8) funcţionari de ai regimului austriac <hi rend="bold">absolutistic</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">turcu</ptr>
+								<date>1896</date>
+								<citedRange>114</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-e3a7cf2f-05fc-4fa3-9714-37da7eb694f8" n="2.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-e3a7cf2f-05fc-4fa3-9714-37da7eb694f8">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="Absolutist (3)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Ieri am depus jurământul. E loial, îl poate depune fiecare din ai
+								noştri fără de niciuna sfială. Samănă tare cu cel <hi rend="bold">absolutistic</hi>, îi formula cea veche meternichiană.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-585e79bd-1451-9b2d-4b7c-91ca19565c02">b.
+									contemp.</ptr>
+								<date>1861</date>
+								<citedRange>127</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fără revoluţiunea cea de altmintrea foarte tristă din 1784 şi
+								fără măsurile <hi rend="bold">absolutistice</hi> ale împăratului
+								Iosif II, tirania veche era să se continue până la 1848.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">barițiu</ptr>
+								<date>1872</date>
+								<citedRange>306</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să ne reamintim numai stările europene <hi rend="bold">absolutistice</hi>, ce dăinuiau în cele două decenii înainte de
+								1848.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<date>1898</date>
+								<citedRange>238</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f6cf6f6c-e486-4410-87fd-5c46afa3a21a" n="3.">
+						<usg corresp="#uuid-f6cf6f6c-e486-4410-87fd-5c46afa3a21a">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="Absolutist (4)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Sărmana femeie! Orbită de inclinaţiunile sale <hi rend="bold">absolutistice</hi>, ea n-a ținut de ceva serios cele ce aceste
+								zâle se petreceau în Paris.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e7df1e03-8d84-73e0-6bee-95514c7c5efa">familia</ptr>
+								<date>1870</date>
+								<citedRange>nr. 30, 351</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fie spiritul invederat mirean, fie predominarea unei trăsuri
+								fundamentale <hi rend="bold">absolutistice</hi> sau în fine marea
+								schismă ce se-ncepea în Biserica Romano-Catolică, care să fie
+								înrâurit asupra poporului românesc în aşa fel încât să-i fi insuflat
+								înstrăinare şi aversiune, destul că acest popor se întoarse
+								hotărâtor de la Roma spre Constantinopol, neclintindu-se în
+								statornica lui convingere confesională.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6b030d96-5649-1498-66e7-73a6c1cd9bf9">eminescu</ptr>
+								<date>1879</date>
+								<citedRange>169</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O reacţiune <hi rend="bold">absolutistică</hi> fără păreche
+								domnea în acea Dietă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>531</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ceea ce împăratul Iosif făcuse prin edictul său pe cale <hi rend="bold">absolutistică</hi>, Leopold II făcu mai cu
+								prisosinţă prin legislativă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>522</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aşa, înţeleg şi eu activitatea, carea apoi, în urma urmelor, va
+								arăta lumii că 3 milioane de români încătuşaţi în §-ii cei <hi rend="bold">absolutistici</hi> şi retrograzi ai ungurilor, nu se
+								pot nici măcar mişca, necum să poată lupta cu efect.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-54f7f88d-57f0-93a0-1066-f0390861a3dc">b.
+									contemp.</ptr>
+								<date>1890</date>
+								<citedRange>268</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Bazele pe cari e organizată Biserica gr. cat. română nu sunt nici
+								constituţionale, nici <hi rend="bold">absolutistice</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-06b7e6d7-74b6-1b8d-75d4-ea131bcf99c4">ghibu</ptr>
+								<date>1915</date>
+								<citedRange>62</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f49814bf-b054-47cc-a9d5-f12cf28a2149" n="4.">
+						<gramGrp>
+							<pos value="adv."/>
+							<subc value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-f49814bf-b054-47cc-a9d5-f12cf28a2149">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="id"/>
+						<usg corresp="#id">(<seg type="sem" rend="usg">În forma <hi rend="italic">absolutistice</hi></seg>)</usg>
+						<cit type="unknown">
+							<quote>D-tale însă trebuie să-ţi exprim bucuria nespusă că la postul
+								acesta, ca la cel mai însemnat în Transilvania, însemnat pentru
+								organizarea constituţională [a] unui teren până acum parte
+								milităreşte, parte birocratice, în urmare de totul <hi rend="bold">absolutistice</hi> domnit, fu denumit Alexandru, care de
+								gubernie nici că fu propus.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-585e79bd-1451-9b2d-4b7c-91ca19565c02">b.
+									contemp.</ptr>
+								<date>1861</date>
+								<citedRange>136</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>N-au dispărut însă scopul nestrămutat al casei domnitoare de a
+								... guberna ţara <hi rend="bold">absolutistice</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>344</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-74b28781-60a9-4c2d-8e95-841f0c3bd966" n="">
+						<def xml:id="uuid-29ea091f-31a6-450a-b561-51c30923903e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absolutistici, -ce</number>
+						<gramGrp>
+							<pos value=""/>
+						</gramGrp>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>absolutístice</def>
+					<gramGrp>
+						<pos value="adv."/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">absolutistisch</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

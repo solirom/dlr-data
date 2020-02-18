@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-476dc257-b664-46b7-b790-b1dd05b32d6d" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -53,7 +52,7 @@
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="uuid-78639275-960a-4b27-b8d6-d95d04a21722">Etaj al jurasicului
-							caracterizat prin cinci zone cu amoniţi şi lamelibranhiatul <hi rend="italic">Trigonia navis</hi>.</def>
+							mediu, caracterizat prin cinci zone cu amoniţi şi lamelibranhiatul <hi rend="italic">Trigonia navis</hi>.</def>
 						<usg corresp="#uuid-78639275-960a-4b27-b8d6-d95d04a21722">
 							<seg type="dom" rend="usg">Geol.</seg>
 						</usg>
@@ -74,6 +73,9 @@
 						</gramGrp>
 						<def xml:id="uuid-777a59dc-8c41-4b14-929b-72a6d95dc307">Care aparţine
 							aalenianului (1), privitor la aalenian.</def>
+						<usg corresp="#uuid-777a59dc-8c41-4b14-929b-72a6d95dc307">
+							<seg type="dom" rend="usg">GEOL.</seg>
+						</usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">

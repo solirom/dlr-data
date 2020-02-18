@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-caa92351-4eaf-46f9-a7ff-18fa297d10f8" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-15T10:59:18+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absoluitate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUITÁTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-20985d27-8d4a-4de7-89e9-ea570dda64b0" n="">
+						<def xml:id="uuid-ff27f545-9faf-49e2-bcea-b2fc8daef870">Calitatea, însuşirea
+							a ceea ce este absolut.</def>
+						<usg corresp="#uuid-ff27f545-9faf-49e2-bcea-b2fc8daef870">
+							<seg type="register style" rend="usg">Livr. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Luate în <hi rend="bold">absoluitate</hi>, principiile lui
+								estetice [ale lui Titu Maiorescu] se pot discuta, ca instrumente de
+								îndrumare a culturii române ele şi-au atins ţinta.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+								<date>1941</date>
+								<citedRange>358</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Gheorghe respinge relativismul și proclamă <hi rend="bold">absoluitatea </hi>noțiunilor de bine și de rău.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">Ist. Lit.
+									Rom.</ptr>
+								<date>1968</date>
+								<citedRange>154</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întrebare supremă, imaginată în circumstanţele <hi rend="bold">absoluităţii</hi>, spre a i se potenţa gravitatea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">România
+									Liter.</ptr>
+								<date>1983</date>
+								<citedRange>nr. 39, 4</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-96e38484-32a4-44f7-ae13-8ba433d87cc2" n="">
+						<def xml:id="uuid-f8707163-dafd-4b60-bdb9-0e88206abe1b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absoluité</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

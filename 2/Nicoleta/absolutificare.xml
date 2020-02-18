@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6584a47f-1aa5-44d6-851d-dbc2d170b0cd" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T13:39:13+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutificare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTIFICÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f0441a25-edf5-494a-a84c-30bb73d4f4f5" n="">
+						<def xml:id="uuid-27572a9c-d1b6-4388-b477-4b7e3104664b"/>
+						<xr type="syn" corresp="#uuid-27572a9c-d1b6-4388-b477-4b7e3104664b">
+							<ptr target="Absolutizare."/>
+							<usg><seg type="register style" rend="usg">Livr.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote>Epoca noastră caracterizată simultan printr-o relativizare a
+								culturii şi printr-o <hi rend="bold">absolutificare</hi> a
+								mijloacelor, adică o eticizare a tehnicei – înfăţişează
+								perspectivele neoclasicismului, ca una din cele mai în bloc
+								colţuroase perspective. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b30f3dc6-71bc-68cd-2c17-9eaee18727d7">vulcănescu</ptr>
+								<date>1933</date>
+								<citedRange>47</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-59e0f28a-975b-40ce-ba0f-d51557d359f7" n="">
+						<def xml:id="uuid-405378a0-a6b8-4b1f-bda5-21a8b3370418"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absolut"/><term xml:lang="" type="sufix" subtype="unknown">-ificare</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

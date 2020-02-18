@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7c8f9b12-45ca-4bfc-8e14-d37a67c102ec" version="3.3.0" source="0.1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-29T20:22:13+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="dlr-variant">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţuguit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢUGUÍT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<ptr type="trimitere" target="abţiguit"/>
+			</entry>
+		</body>
+	</text>
+</TEI>

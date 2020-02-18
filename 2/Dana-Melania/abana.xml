@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-63fd2bb8-6354-471d-afdd-69764e61f239" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-31T13:48:16+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abănă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ÁBĂNĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-96bef1b0-0e80-4014-8476-beedde7c8e10" n="">
+						<def xml:id="uuid-ed6c5136-dd05-47d8-8914-6b5a637b1b92">Crescut bine;</def>
+						<usg corresp="#uuid-ed6c5136-dd05-47d8-8914-6b5a637b1b92"><seg type="geo" rend="usg">Reg.</seg> (<seg type="hint" rend="usg">Despre
+								pâine</seg>)</usg>
+						<xr type="syn" corresp="#uuid-ed6c5136-dd05-47d8-8914-6b5a637b1b92">
+							<ptr target="afânat"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Frâmântăm pâinea ... Și pe urmă când crește o punem în strachini
+								... Și iese o pâine, măi frate, <hi rend="bold">abănă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">Gl. Munt.</ptr>
+								<date>1999</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c467ea01-6c87-4f7a-8781-b748454947c6" n="">
+						<def xml:id="uuid-d6a95af7-c3eb-4347-b546-71ba84c44ce9"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="afâna"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-c5dc2876-3f78-671a-720d-2d61256f9bd8">dgds</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

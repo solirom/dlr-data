@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5763fba9-0843-44fb-ba04-7d55444acbe2" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>valentinas</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2019-12-19T11:09:08+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abrictăli</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABRICTĂLÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-93a91e17-18ff-4298-8769-c43a4c9e46e9" n="">
+						<def xml:id="uuid-61ca4d63-9a13-4670-b7c9-e9da1a96fca4">A deprinde, a
+							exercita.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a15adaa-1931-9b98-92b3-3bd44d79a3eb">caba</ptr>
+								<date>1918</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7e70b066-0ce8-4dd0-b42b-74fc7a673703" n="">
+						<def xml:id="id">; a pedepsi prin bătaie, reg. a abrictălui (2), a
+							abrictui.</def>
+						<usg corresp="#id">
+							<seg type="gram" rend="usg">(Complementul indică mai ales copii) </seg>
+						</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="A certa"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a mustra (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>C-amu te dau pe brânca lu’ plutonieru de jândari să te
+								abrictălească o ţâră! Ui’ la el!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cdabddd3-46d9-4f22-29dd-274891555d10">beniuc</ptr>
+								<date>1959</date>
+								<citedRange>404</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ia abrictălește-l o țâră! Nu vezi că nu te-ascultă?!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<date>1960</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie să brictălim puțin copilul ăsta căci altfel nu face
+								nimic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<date>1960</date>
+								<citedRange>281</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De nu taci, te abrictălesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic</ptr>
+								<date>1967</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1d0ce3f0-c0ac-424e-8356-5f90bd220b98" n="">
+						<def xml:id="uuid-1e094ad8-46f6-4220-82cf-17f2f9a0639a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/>
+                    <ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="abrictălui"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-86d355d1-22f3-16e6-8bd5-2673b6438d2f">etym</ptr>
+						<date>1966</date>
+						<citedRange>s.v. abrictălui</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">form</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

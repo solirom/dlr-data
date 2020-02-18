@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-19cfe332-9fd5-4e1a-ae70-65c4463b2031" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-05T12:04:36+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abcant</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABCÁNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-54a648b4-37fb-493b-a7bb-41ae950f338a" n="">
+						<def xml:id="uuid-584e0f75-9e48-4521-9dc0-5b7db2267258">Maşină-unealtă
+							specializată în îndoirea foilor de tablă, folosită în industria
+							confecțiilor metalice.</def>
+						<usg corresp="#uuid-584e0f75-9e48-4521-9dc0-5b7db2267258">
+							<seg type="dom" rend="usg">TEHN.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Strung-revolver, <hi rend="bold">abcant</hi>, lung de 1 m se
+								vinde.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c56ef41e-8b7a-04e7-7126-1fd895b63a8e">ms</ptr>
+								<date>˂1949–1952˃</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-3ca65a87-5c27-4ea1-846e-2a2a489b63ca" n="">
+						<def xml:id="uuid-baa91dc9-7587-4542-9b4e-1b33b2da43fb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abcanturi</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abkant[maschine]</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

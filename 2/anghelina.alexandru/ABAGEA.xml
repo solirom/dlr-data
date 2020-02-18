@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-22c81f99-175b-484a-b77a-f9e1233a60c6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-07T09:46:06+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abagea</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGEÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e3b7c8d5-5208-402d-a7b4-72876088e106" n="">
+						<def xml:id="uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">Deschizătură în
+							formă de ferestruică în acoperișul caselor țărănești, al unei șuri etc.,
+							care servește drept horn;</def>
+						<usg corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6"><seg type="time" rend="usg">Înv.</seg> și <hi rend="italic"><seg type="register style" rend="usg">pop.</seg></hi></usg>
+						<xr type="syn" corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">
+							<ptr target="bageac"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Forma lor rondă, acoperișul ascuțit și prins sus într-un inel,
+								poarta de intrare și acele <hi rend="bold">abagele</hi> de deasupra,
+								sunt amănunte care nu numai reproduc imaginea reală a lucrului, dar
+								o și caracterizează ca o construcție neoromană.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">teohari antonescu</ptr>
+								<date>1910</date>
+								<citedRange>20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-08560d92-8a44-368e-8d70-ff47d20f1c04">coman</ptr>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-224bee0c-a38e-971f-3023-489526b49634">anchete</ptr>
+								<date>&lt;1956-1958&gt; </date>
+								<citedRange>28, 33, 35.</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-59e9ff9b-77bd-4022-aeda-4548696ef21f" n="">
+						<def xml:id="uuid-0973086a-1c68-4043-a016-a10e094928d8"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abagele</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="gram" rend="usg">cu schimbare de suf.</seg>)</usg>
+					<def>abagícă</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="bageac"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

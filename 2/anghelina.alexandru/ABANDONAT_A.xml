@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8a78b11d-6723-4334-9862-2fde730826fc" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -121,6 +120,13 @@
 						<xr type="syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
 							<ptr target="lepădat2 (I)"/>
 						</xr>
+						<xr type="remote-syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
+							<ptr target="părăsit (I 1)"/>
+						</xr>
+						<xr type="remote-syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
+							<ptr target="năpustit2"/>
+							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">reg.</hi></seg></usg>
+						</xr>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -173,19 +179,6 @@
 								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
 								<date>1994</date>
 								<citedRange>94</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>A[buz] de d[rept] p[rocesual] prezintă două laturi şi anume: una
-								de natură su¬biectivă constând in exercitarea dreptului cu
-								rea-credinţă fie în scopul de a-l şicana pe adversar, fie deliberat
-								în vederea constrângerii acestuia la anumite concesii sau chiar la
-									<hi rend="bold">abandonarea</hi> dreptului său.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr.
-									priv</ptr>
-								<date>1997</date>
-								<citedRange>2</citedRange>
 							</bibl>
 						</cit>
 					</sense>

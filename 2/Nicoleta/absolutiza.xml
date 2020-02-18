@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6afe1bae-6dc9-47b0-897e-25ad90080ae9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-30T13:06:19+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutiza</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTIZÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+					<subc value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-427221a8-5ce2-4f17-9896-2937ba1d6cef" n="">
+						<sense xml:id="uuid-7711a788-2d2c-4dc7-a01a-aac48efa6690" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value=""/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Singurul lucru de care trebuie să ne ferim este <hi rend="bold">să nu absolutizăm</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-acbfcaf1-a426-0789-995c-92b2fb043159">g.
+										liter.</ptr>
+									<date>1961</date>
+									<citedRange>nr. 11, 6</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d49413ae-f84d-4ad9-be8a-ce4819f6e556" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="refl. pas."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Sentimentul ... <hi rend="bold">se absolutizează</hi>, ca
+									pasiunea pentru un astru.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8cadcc9f-8056-8d1f-1162-ae4beaeb290f">simion</ptr>
+									<date>1964</date>
+									<citedRange>240</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Orice aventură a eului, privindu-l în chip inexorabil, <hi rend="bold">se absolutizează</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">frunzetti</ptr>
+									<date>1985 (†)</date>
+									<citedRange>171</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se absolutizează</hi> ideea de
+									dreptate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-dbc31ad4-bf8b-41be-89be-fcf36edbc460" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="plev" rend="usg">Rar</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Avem momente în viaţă când ne credem unici, când <hi rend="bold">ne absolutizăm</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f83c5f6b-17b3-7929-10ef-a1faac0d978b">vulpescu</ptr>
+									<date>1980</date>
+									<citedRange>333</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-c68f713f-899f-42b5-bb22-276a9ac90c00">A atribui unei
+							laturi sau unei însuşiri a unui lucru o valoare absolută prin ignorarea
+							caracterului relativ, condiţionat, limitat (de celelalte laturi sau
+							însuşiri);</def>
+						<def xml:id="uuid-736c5afc-9adb-4c4a-91ea-85395f337be2">a considera o latură
+							a unui lucru ca o entitate de sine stătătoare, rupând-o de complexul
+							căruia îi aparţine.</def>
+						<cit type="unknown">
+							<quote>A rezolva problema doar în mod abstract ... înseamnă a considera
+								talentul izolat de realitatea vieţii, a-l <hi rend="bold">absolutiza</hi>, a-l idealiza.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+								<date>1948</date>
+								<citedRange>nr. 107, 4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un anumit snobism intelectual tinde ... <hi rend="bold">să
+									absolutizeze</hi> talentul, să-l considere demn de a fi
+								divinizat sub orice formă s-ar manifesta.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scânteia</ptr>
+								<date>1962</date>
+								<citedRange>nr. 5 420, 2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Am absolutizat</hi> această problemă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+								<date>1969</date>
+								<citedRange>ianuarie, 78</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În fonetică rezultatele reconstrucţiei sunt de mai mare siguranţă
+								decât în morfologie şi vocabular – ceea ce a făcut ca în lingvistica
+								epocii această metodă <hi rend="bold">să fie absolutizată</hi> de
+								unii la domeniul fonetic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-878e6952-4ead-26ff-3c0f-75f7688f4707">brâncuș</ptr>
+								<date>1972</date>
+								<citedRange>136</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Societatea sau statul <hi rend="bold">sunt absolutizate</hi> în
+								aşa fel încât personalitatea se dizolvă în structuri economice şi
+								social-politice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-041d132c-9288-1e69-220d-74816e095a5d">gulian</ptr>
+								<date>1975</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ontologia a consimţit separaţiei, silită fiind sau să admită
+								caracterul abstract al fiinţei separate, sau dimpotrivă, să treacă
+								de partea acesteia tot concretul ca separată şi <hi rend="bold">s-o
+									absolutizeze</hi>, într-o concreţiune strivitoare pentru
+								realitate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-905516de-3cb6-8773-6148-8f95e0240632">noica</ptr>
+								<date>c. 1980</date>
+								<citedRange>183</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De aceea, atunci când le capătă [bunurile], în urma unui schimb
+								dezavantajos, le <hi rend="bold">absolutizează</hi> inconvenientele,
+								trecând, astfel, la un alt schimb şi mai dezavantajos.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3670659f-4250-7d4c-2473-7399f644904d">papu</ptr>
+								<date>1983</date>
+								<citedRange>25</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Istoria artei ne oferă … suficiente exemple de mistificare … a
+								unui ideal estetic nemaicorespunzător noii viziuni a lumii,
+								determinată de progresele cunoaşterii veacului, dar convenabil
+								claselor dominante, care-l <hi rend="bold">absolutiza</hi> şi-l
+								oficializa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">frunzetti</ptr>
+								<date>1985 (†)</date>
+								<citedRange>125</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Niciunul din cele două sisteme nu trebuie <hi rend="bold">absolutizat</hi>, deoarece duse la limită, nu pot decât să
+								dăuneze bunei înfăptuiri a justiţiei în pricinile civile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+									dr.</ptr>
+								<date>1997</date>
+								<citedRange>719</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Behaviorismul consideră conştiinţa ca fiind un plan mistic, iar
+								psihanaliza <hi rend="bold">absolutizează</hi>
+								inconştientul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+									logop.</ptr>
+								<date>2011</date>
+								<citedRange>286</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-992da5c1-b152-400a-92da-bcc7de3eba1c" n="">
+						<def xml:id="uuid-f79eab1d-702f-49f4-b9b5-387adc6cdc73"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">absolutizez</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absolut"/><term xml:lang="" type="sufix" subtype="unknown">-iza</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

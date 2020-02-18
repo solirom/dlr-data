@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5fa4d98f-a1ba-44f5-9c5b-6a725dcda881" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -33,24 +32,20 @@
 				</form>
 				<gramGrp>
 					<pos value="s."/>
-					<gen value="m."/>
+					<gen value="n."/>
 					<number value=""/>
 					<case value=""/>
 					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-162fcd28-fcd2-49bf-b930-1f0a0912cc8f" n="">
+					<sense xml:id="uuid-162fcd28-fcd2-49bf-b930-1f0a0912cc8f" n="1.">
 						<gramGrp>
-							<pos value="s."/>
-							<gen value="n."/>
-							<number value=""/>
-							<case value=""/>
-							<subc value=""/>
+							<pos value=""/>
 						</gramGrp>
 						<def xml:id="uuid-3d6d6b33-0040-48c4-8ec5-2c9364d83c9c">Unealtă pentru
 							așchierea, rindeluirea, îndreptarea și degroșarea lemnului, acţionată
 							electric, alcătuită dintr-o suprafaţă orizontală şi un cuţit
-							rotativ</def>
+							rotativ.</def>
 						<usg corresp="#uuid-3d6d6b33-0040-48c4-8ec5-2c9364d83c9c">
 							<seg type="dom" rend="usg">TEHN.</seg>
 						</usg>
@@ -135,7 +130,7 @@
 							</form>
 						</re>
 					</sense>
-					<sense xml:id="uuid-a625953f-1caf-447c-8201-d31d3c51a7ce" n="">
+					<sense xml:id="uuid-a625953f-1caf-447c-8201-d31d3c51a7ce" n="2.">
 						<def xml:id="id">Cuțit rotativ, acționat electric, utilizat la operațiunea
 							de geluire a scândurilor.</def>
 						<usg corresp="#id">
@@ -179,10 +174,9 @@
 					<idno type="unknown"/>
 				</form>
 				<etym cert="high">
-					<idno type="abrict"/>
-					<note type="uuid-691bd716-15c8-3e7f-a65a-3913e069704e" n="unknown" cert="high">
-						<term xml:lang="de" type="unknown" subtype="unknown">
-							Abricht(hobelmaschine).</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abricht(hobelmaschine)</term>
+					<note n="unknown" cert="high" type="">
+						<term xml:lang="" type="unknown" subtype="unknown"/>
 					</note></etym>
 			</entry>
 		</body>

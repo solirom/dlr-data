@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0b930a1b-3155-4324-9789-57200323cc66" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-21T11:24:08+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbență</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÉNȚĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6bce0b31-dc08-4138-b83f-25249b0ec7ab" n="">
+						<sense xml:id="uuid-5f6be813-1dc3-451c-a86f-fe6a6f54a67a" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="gram" rend="usg">La pl.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote><hi rend="bold">Absorbentia</hi> [=] medicamente
+									neutralisatoare, d. e. magnesia, în contra acidului
+									gastric.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.</ptr>
+									<date>1898</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+									<date>1905</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-d045d4f3-b38a-4589-a8fc-dd16b927f032">Metodă de tratare a
+							unor boli constând în eliminarea sucurilor gastrice prin
+							vărsături.</def>
+						<usg corresp="#uuid-d045d4f3-b38a-4589-a8fc-dd16b927f032">
+							<seg type="dom" rend="usg">MED.</seg>
+							<seg type="time" rend="usg">Înv.</seg>
+							<seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-9954b07b-eedc-4f14-ba53-ed7d3b4fae7b" n="">
+						<def xml:id="uuid-a4ff1b9f-2c37-4c64-ae31-20af7078ef4c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbenţii </number>
+						<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+						<bibl type="unknown">
+							<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+							<date>1905</date>
+							<citedRange/>
+						</bibl>
+					</form><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbentia</number>
+						<usg><seg type="hint" rend="usg">formă latinizantă</seg></usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>absorbínță</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absorbentia</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

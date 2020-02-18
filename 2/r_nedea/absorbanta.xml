@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ba561085-ea36-4efb-a7a9-664961dea272" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T12:12:29+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absorbanță</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÁNȚĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-dbbddf2e-ff24-48f2-82d5-d85c10b33be1" n="">
+						<def xml:id="uuid-f0a62d5e-0ec9-417d-a1b1-345061bbed9a">Parametru care
+							caracterizează puterea absorbantă a unui corp.</def>
+						<usg corresp="#uuid-f0a62d5e-0ec9-417d-a1b1-345061bbed9a">
+							<seg type="dom" rend="usg">FIZ.,</seg>
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Raportul dintre densitatea spectrală a fluxului energetic (sau
+								luminos) absorbit … şi cea a fluxului incident … defineşte factorul
+								spectral de absorbţie (sau <hi rend="bold">absorbanța</hi>
+								spectrală).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">Fiz.</ptr>
+								<date>1972</date>
+								<citedRange>180</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">A[bsorbanța]</hi> specifică se determină pentru o
+								soluţie cu concentraţia 1%, cu o grosime de 1 cm şi la o lungime de
+								undă determinată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">Medical</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-fac4664c-4939-43a3-85d8-0498848c22aa" n="">
+						<def xml:id="uuid-b8d0b350-e2f6-4525-93b9-57f2a6e3c305"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorbance</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">absorbance</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

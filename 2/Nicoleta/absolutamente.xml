@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a52f2064-2f83-4f79-b005-62c88cf15c4b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T12:50:50+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">absolutamente</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSOLUTAMÉNTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e150e58f-9ac8-4e9b-a0b2-598b7fee33d9" n="">
+						<def xml:id="uuid-5f689eff-028c-450b-a3e6-e40744d35590">În mod absolut, în
+							totalitate.</def>
+						<cit type="unknown">
+							<quote><hi rend="bold">Asolutamente</hi> mobile e numai acela carea e
+								unul din multe şi nemărginite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870">bărnuțiu</ptr>
+								<date>&lt;1855–1864&gt;</date>
+								<citedRange>96</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">st.
+									form.</ptr>
+								<date>1865</date>
+								<citedRange>189</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În 1868 se achitară în Bucureşti autorii faimoasei caricaturi
+								„Avanti-Carolina”! Era un caz <hi rend="bold">absolutamente</hi>
+								identic cu revolta de la 8 august: o glumă antidinastică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5c985c39-9b50-9920-6603-d30fc7f12c19">hasdeu</ptr>
+								<date>1870</date>
+								<citedRange>135</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trimiterea la congresul de la Berlin a unor oameni lipsiţi cu
+								totul de atare cunoștinţe <hi rend="bold">absolutamente</hi>
+								necesarii în resolvarea osebitelor materii de care avea să se
+								ocupe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a530cee9-4b55-2e78-84b3-eb6d257b0fe3">brezoianu</ptr>
+								<date>1882</date>
+								<citedRange>222</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poliţie-n Constantinopole, ni se respunse, există numai de nume,
+								de fapt <hi rend="bold">absolutamente</hi> nu există.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">rucăreanu</ptr>
+								<date>1886</date>
+								<citedRange>57</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Admiterea că pot să existe cunoştinţe „a priori” <hi rend="bold">absolutamente</hi> independente de simţuri, acest lucru
+								absurdisim e făcut şi de Kant, marele preot al
+								apriorismului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">dobrogeanu</ptr>
+								<date>1891</date>
+								<citedRange>270</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din această <hi rend="bold">absolutamente</hi> inofensivă
+								circumstanţie, contrarul meu Duşan conclude, „derisorio modo”, la
+								oarece „turpis causa”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+								<date>1931</date>
+								<citedRange>95</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Magistratura noastră este compusă din judecători <hi rend="bold">absolutamente</hi> corupţi, chiar dacă nu toţi.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+								<date>2004</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru doamna Rădulescu – о minte <hi rend="bold">absolutamente</hi> deschisă – graniţele nu înseamnă
+								nimic.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+								<date>2009</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-20246053-4cf8-47b2-9820-1fef5e289498" n="">
+						<def xml:id="uuid-e73103de-3c6f-4e72-b222-2b7dc790333e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<def>absolutâmínte</def>
+					<bibl type="în">
+						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">st. form.</ptr>
+						<date>1863</date>
+						<citedRange>194</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def>asolutaménte</def>
+					<gramGrp>
+						<pos value="adv."/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="it" type="unknown" subtype="unknown">assolutamente</term>
+					</etym>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absolut"/><term xml:lang="" type="sufix" subtype="unknown">-(a)mente</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-40ef8c33-41ce-68b4-6333-2cf7a0c25d09">galr</ptr>
+						<date>2005</date>
+						<citedRange>588</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2014</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

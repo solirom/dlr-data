@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b7962873-fd08-4c47-9e29-e46ccc152749" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
@@ -65,6 +64,22 @@
 									<ptr target="#uuid-833217b7-95a7-44e6-514b-08b733b2290d">oprescu</ptr>
 									<date>1946</date>
 									<citedRange>171</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2cf50d12-0c14-439d-98a3-63ef6b8dcd07" n="">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abandon școlar</term>
+							</form>
+							<def xml:id="id">formă de abandon constând încetarea fregventării școlii
+								înainte de încheierea anului de studiu început.</def>
+							<cit type="unknown">
+								<quote>Se iau măsuri pentru stoparea abandonului școlar.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
 								</bibl>
 							</cit>
 						</sense>
@@ -200,8 +215,7 @@
 						</cit>
 						<cit type="unknown">
 							<quote>Repetatele tentative de a începe măcar... romanul cu Adam și Eva
-								au eșuat. Iar dacă trece prea mult timp de la <hi rend="bold">abandon</hi>, imposibilă reluarea; luarea de la
-								început.</quote>
+								au eșuat. Iar dacă trece prea mult timp de la <hi rend="bold">abandon</hi>, imposibilă reluarea.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-435cce9f-36b7-5dcf-51c7-026517ae714f">goma</ptr>
 								<date>1993</date>
@@ -218,20 +232,14 @@
 								<citedRange>81</citedRange>
 							</bibl>
 						</cit>
-						<cit type="unknown">
-							<quote>Bătrânii din Franţa nu au murit în luna august 2003 nici de
-								foame, nici chiar de sete... Ci de singurătate. De <hi rend="bold">abandon</hi>. </quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3">goma</ptr>
-								<date>2003</date>
-								<citedRange>548</citedRange>
-							</bibl>
-						</cit>
 					</sense>
 					<sense xml:id="uuid-e364da60-31ac-4207-b725-49b7cecedf45" n="2.">
 						<def xml:id="id">Uitare de sine;</def>
 						<xr type="syn" corresp="#id">
 							<ptr target="delăsare"/>
+						</xr>
+						<xr type="remote-syn" corresp="#id">
+							<ptr target="nepăsare"/>
 						</xr>
 						<cit type="unknown">
 							<quote/>
@@ -327,16 +335,6 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>Privirea lui Filip, la spital: frumoasă şi tristă, resemnată în
-									<hi rend="bold">abandon</hi> – asemănare terifiantă cu privirea
-								mamei, în lunga ei agonie, la spital, în Bucureşti.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-ab9fc272-3299-622a-5abb-420eca455797">goma</ptr>
-								<date>1978</date>
-								<citedRange>35</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
 							<quote>De obicei somnul la ea era izolare, retragere... Acum era o
 								prelungire a dulcelui <hi rend="bold">abandon</hi> din timpul
 								serii.</quote>
@@ -353,7 +351,7 @@
 								noastre.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">cerul</ptr>
-								<date>1995 (&lt;1992–1994&gt;)</date>
+								<date>1995 (&lt;1992-1994&gt;)</date>
 								<citedRange>314</citedRange>
 							</bibl>
 						</cit>

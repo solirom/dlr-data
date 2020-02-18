@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6b9a133d-7c91-4ff2-bc54-4ac5deba06d0" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-04T11:31:56+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abătătură</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABĂTĂTÚRĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-cdf127e3-a0a7-40f1-823b-0dc77ea4c9e7" n="">
+						<sense xml:id="uuid-e6208794-73af-4552-96cd-227253a939b7" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Împăratul Varahiia... să fie păzit întru credința lu Dumnezeu
+									neclătinat şî ca să afle umblet întru poruncile lu Hristos fără
+									de <hi rend="bold">abătătură</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-25490484-0fa4-760f-2fa0-7ef08b152de3">ioas</ptr>
+									<date>1648</date>
+									<citedRange>302</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-bba7a0ad-36ad-4ff7-b4e1-504e99fdd4d7" n="✦">
+							<def xml:id="id">Intenție lăturalnică, gând ascuns.</def>
+							<usg corresp="#id">Fig.</usg>
+							<cit type="unknown">
+								<quote>Scoposul mieu ... priveşte ... la ajutorul şi folosul
+									neamului, iar nu la vreo netrebnică şi rea <hi rend="bold">abătătură</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b16f6ae9-4550-50dd-0f42-4c9d0dc2572d">epis</ptr>
+									<date>1829</date>
+									<citedRange>48/14 </citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<usg corresp="#uuid-cdf127e3-a0a7-40f1-823b-0dc77ea4c9e7">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="uuid-b648c8ef-c3d9-4e84-b7c7-20fb6205a575">Îndepărtare de la
+							direcţia, poziția iniţială sau normală;</def>
+						<xr type="syn" corresp="#uuid-b648c8ef-c3d9-4e84-b7c7-20fb6205a575">
+							<ptr target="unknown"/>
+						</xr>
+						<def xml:id="uuid-28aeafec-e21e-4285-8f30-e567f84372d3">schimbare,
+							modificare a direcției;</def>
+						<xr type="syn" corresp="#uuid-28aeafec-e21e-4285-8f30-e567f84372d3">
+							<ptr target="abatere (4)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Adecă eu Radul Botean dat-am zapisul mieu la măna dumnealui
+								Costandin Conţescul, precum să să ştie că avănd eu un fund de loc
+								din hotarul Boteanilor şi din <hi rend="bold">abătătura</hi>
+								Dămboviţii, iaste acel fund alăturea cu casa dumnealui pănă în
+								Dămboviţă, cu vad de moară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b82042e-300d-4679-5b04-d8ba230b5995">dâmb</ptr>
+								<date>1721</date>
+								<citedRange>613</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O jumătate de parte, ce vine într-aceste moşii, iaste a copiilor
+								frăţine-mieu Răducan, date de la mine, și iar mai având eu în
+								Măgureni o vie deosebită a mea, pogoane, cum şi o moară iarăş a mea,
+								cu doaoă roate, în <hi rend="bold">abătătura</hi> Prahov[ei], tot în
+								moşiia Măgureni.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe8d53cb-8ffb-2d19-a474-3a5c6bef12db">cantac</ptr>
+								<date>1775</date>
+								<citedRange>216</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arătăm Înnălţimii Tale că obiceiu este, cei ce au mori pe <hi rend="bold">abătături</hi> de gârle ca acestea fiind, când să
+								întâmplă de să strică zăgasul la <hi rend="bold">abătătura</hi>
+								apii, cu toţii câţi au mori să îndemnează şi intră la orice
+								cheltuială şi face zăgasul şi abate iar apa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8bf5f1f-0064-1568-7a0d-731887e651bf">judic</ptr>
+								<date>1777</date>
+								<citedRange>410</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Viindu orânduiţii boeri pe malulu acei <hi rend="bold">abătături</hi> la vale, s-au vezut de faţă stricăciunna şi
+								mâncătura ce au făcută moşiei jăluitorului.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-c00cbbe4-4237-7b45-8157-65e5f795988b">urechi</ptr>
+								<date>1794</date>
+								<citedRange>232</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rugăm pe Măria Ta să se orânduiască Dimitrie Suilgiu şi cu un
+								postelnicel Sterie … să meargă la <hi rend="bold">abătătura</hi>
+								şanţurilor ce se despart de Dâmboviţa cu curgere către
+								Sabar.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-bec92316-0f0c-0502-7a50-ca6c0369a789">urech</ptr>
+								<date>1796</date>
+								<citedRange>687</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Este de folos acel şanţ spre a se isbăvi de înnecăciune;
+								aşijderea şi pentru acea <hi rend="bold">abătătură</hi> Dâmboviţei
+								ce este din dosul monăstirei Radului Vodă.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-6152d671-9b51-151a-386a-ab852636a6bf">urec</ptr>
+								<date>1815</date>
+								<citedRange>729</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-835e47e4-7c2a-421b-be1b-08bebfdfedd3" n="">
+						<def xml:id="uuid-134a294c-5b32-4fed-b1d6-9ac6c7a9d8fb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abătături</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abate"/><term xml:lang="" type="sufix" subtype="unknown">ătură</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

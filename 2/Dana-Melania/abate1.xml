@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e5192558-4c2b-40a6-a554-ad296f0e3cd6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-07T10:19:10+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">abate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8883b364-8aa8-4477-9526-3f0efcdc1e3c" n="1.">
+						<def xml:id="uuid-c7200135-c45f-4e2c-a375-faa81795a454">Titlu dat
+							superiorului unei mânăstiri catolice de bărbați, instituită ca
+							abaţie;</def>
+						<def xml:id="uuid-7bb74bd2-3271-4232-b195-886d2875441d">persoană care are
+							acest titlu.</def>
+						<usg corresp="#uuid-c7200135-c45f-4e2c-a375-faa81795a454">
+							<seg type="dom" rend="usg">BIS.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">dictio</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s. v.<hi rend="italic"> abbas, -atis</hi>.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acista era un <hi rend="bold">abate</hi>. Vârsta lui, ca de 40 di
+								ani.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a223b464-881c-591d-949a-80c3ce4b348d">alexii</ptr>
+								<date>1806</date>
+								<citedRange>22<hi rend="superscript">r</hi>/24</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Învăţătură despre agonisirea viţei de vie şi despre măestriia de
+								a face vin, vinars şi oţet. Întocmită de autorii Şaptal, Rozier,
+								Parmentier şi Dussieux, şi întru acest chip scurtată de<hi rend="bold"> abatul </hi>Ludovicu Mitterpacher.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-37263d52-5c2e-251b-55cf-8c6af90c29b5">maior</ptr>
+								<date>1813</date>
+								<citedRange>[Foaie de titlu]</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adunându-se mai mulţi la un loc sup povăţuirea unui mai virtuos…
+								intitulat <hi rend="bold">abate</hi> (bătrân) … se numiră de pe
+								dânşii monastire.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6befbd90-5c1d-7bf4-9a20-246c0cfa1366">săulescu</ptr>
+								<date>1837</date>
+								<citedRange>117/10</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi eu, de când mă cred oamenii <hi rend="bold">abate</hi>, mă
+								depărtez de Diogene şi mă apropii de Lucullus.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cf3f6bb8-93a0-11bb-03ca-f0e98bd23bfd">peregr</ptr>
+								<date>1839</date>
+								<citedRange>74</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În zilele trecute ceteam cu domnul <hi rend="bold">abat</hi> A.
+								Kovacs un articol asupra şcoalelor din Blaj.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-329b7f36-9f5f-393c-47b5-b72f011d4aea">contemp</ptr>
+								<date>1842</date>
+								<citedRange>27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Monsiniorul <hi rend="bold">abate</hi> împreună cu părintele
+								guardianul şi iconomul, lipsesc din monaster.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-751d3d72-4748-5f4a-33ab-d3ec96c52732">filimon</ptr>
+								<date>1860</date>
+								<citedRange>234</citedRange>
+							</bibl>
+							<quote>Ajutaţi prea bine de mai mulţi magnaţi, episcopi şi <hi rend="bold">abaţi</hi> din Ungaria, ştiu să să înduplece pe
+								aceeaşi Dietă şi la mai multe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+								<date>1889</date>
+								<citedRange>67</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Gobelinus, un <hi rend="bold">abate</hi> foarte renumit al acelei
+								abații [din Făgăraş], avea adeseori mare influinţă chiar şi în
+								afacerile ţării.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">Turcu</ptr>
+								<date>1896</date>
+								<citedRange>90</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Într-adevăr, călugărul acesta nu era numai fratele întru Hristos
+								Paul; ci era domnul <hi rend="bold">abate</hi> de Marenne, dintr-o
+								familie veche franţuzească.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-26aa30c3-0184-3857-9202-d3e7f63d6159">sadoveanu</ptr>
+								<date>1928</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Îmi povesteşte multe, ... între altele o vizită făcută anul
+								trecut... în tovărăşia lui Claudel care a dus-o să vadă un sfânt, pe
+									<hi rend="bold">abatele</hi> Marie, parohul acelui sat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">argetoianu</ptr>
+								<date>1935</date>
+								<citedRange>106</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cincisprezece poezii... patronul le lăsase într-un plic, înmânat
+								pe patul morţii canonicului <hi rend="bold">abate</hi> de Sân
+								Giorz.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-83610f5b-4b99-3d0a-2333-d8d572af17d8">T.
+									Popovici</ptr>
+								<date>1955</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Au rămas şi fragmente dintr-o piesă de teatru (eroi: Van Buck,
+								vechi, deci „ancien”comerciant, Valentin, nepotul său, un <hi rend="bold">abate</hi>, un profesor de danţ).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d12d15f1-422c-952d-0ba7-553a8e43218a">Ist. lit.
+									rom</ptr>
+								<date>1973</date>
+								<citedRange>22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prezenţa <hi rend="bold">abatelui</hi> l-a putut face pe „măria
+								sa” să se abţină de la gestul său de a scăpa de înghiţitura
+								fierbinte</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a0714367-7398-1186-0293-bd151406897b">dumistr</ptr>
+								<date>1997</date>
+								<citedRange>159</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-876fce8c-3474-4c40-ab2f-9b842406a5de" n="2.">
+						<def xml:id="id">Titlu onorific acordat unor preoţi catolici;</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">BIS.</seg>
+						</usg>
+						<def xml:id="uuid-51fc29b7-23a8-4f81-8c9c-6e7d43cdb288">persoană care poartă
+							acest titlu.</def>
+						<cit type="unknown">
+							<quote>Au scris Tassoni italieneşte un poemă … şi, precum înţâlesăi, în
+								ceste zile, un <hi rend="bold">abate</hi> Casti, acum, pe vremile
+								noastre, încă au alcătuit o asemene istorie</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e216d68f-73d6-48ba-12b0-898c5a9045f2">budai</ptr>
+								<date>1812</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abatele</hi> Becattini dă pre larg manifestul
+								Porţei Otomane</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5634939d-2803-020e-752a-546b3edb2d3f">ist.
+									rom</ptr>
+								<date>1892</date>
+								<citedRange>96</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un <hi rend="bold">abate</hi> se plângea de elevii săi unui
+								sfânt.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bf779331-7a1f-491d-1ee3-ed783e022073">delavra</ptr>
+								<date>1895</date>
+								<citedRange>195</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ce vrei să spui prin asta, veneratul meu <hi rend="bold">abate</hi>?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d8cc239b-040a-7f8d-a20b-5820c73f8750">macedonski</ptr>
+								<date>1920 (†) </date>
+								<citedRange>238</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi te rog să mă crezi că nu este ambiţia vinovată a unei
+								îmbogăţite de război care vrea să arate musafirilor că are...
+								preceptor la copii un erudit <hi rend="bold">abate</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9cf96db1-0f6a-79ba-5fae-25a24a593c7c">galaction</ptr>
+								<date>1930</date>
+								<citedRange>43</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dincolo de prozaic şi gest, de vocea cu modulări convenţionale,
+								presupun umbrele ocultului <hi rend="bold">abate</hi> Joseph Turmei
+								şi aventura sutanei sale de aici.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6">botta</ptr>
+								<date>1931</date>
+								<citedRange>225</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Era un <hi rend="bold">abate</hi> răspopit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-412683f1-8ddf-0624-0c28-604868159923">brăescu</ptr>
+								<date>1937</date>
+								<citedRange>117</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cum a fost <hi rend="bold">abatele</hi> Panzani, de felul căruia
+								n-am mai putut afla pe urmă un om învăţat şi înţelept ca să ne
+								folosim întru ceva.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f0d46dd4-9012-45d4-16b2-cc32397ea7a8">p.
+									cornea</ptr>
+								<date>1972</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O întrebare, domnule <hi rend="bold">abate</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">România
+									Liter. (S.)</ptr>
+								<date>1981</date>
+								<citedRange>nr. 4, 21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mi-am adus aminte de tinereţe, când îl descopeream pe Gioacchino
+								... De atunci, de prin 1925–1927, „pasiunea” mea pentru <hi rend="bold">abatele</hi> calabrez nu s a mai stins.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-58ae8ee0-11e9-0960-8e3b-954e60f452ee">eliade</ptr>
+								<date>1979</date>
+								<citedRange>378</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abatele</hi> Mugnière e profund impresionat, când
+								constată în cursul unei conversaţii pe care a avut-o la Paris cu
+								regele Ferdinand că suveranul României cunoaşte limba
+								ebraică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b9791267-1e41-2f67-60cb-3a685b690d7a">diamand</ptr>
+								<date>1935</date>
+								<citedRange>10</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-07727f08-07a8-4ff6-955f-13b67c529d19" n="">
+						<def xml:id="uuid-43255b8c-4742-4b67-b8b9-810e8be8f70c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abați</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar
+						</seg></usg>
+					<def>abát</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar
+						</seg></usg>
+					<def>avát</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+						<date>1825</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown">abbate</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abbas, -atis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">lex.</ptr>
+						<date>1818</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">DRLU</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenaru</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+						<date>1847</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protop</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontb</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcia</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">TDRG</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d. inst</ptr>
+						<date>1987</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94285feb-3169-1ac8-3418-f2a338e31e09">m. d. term</ptr>
+						<date>1999</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">DELR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

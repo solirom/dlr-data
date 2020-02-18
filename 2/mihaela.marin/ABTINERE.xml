@@ -1,0 +1,622 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-08121f48-920a-41e0-b4cd-73a3dd530e28" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>mihaela.marin</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-28T14:01:30+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abţinere</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABŢÍNERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value="invar."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1b1d583a-1a34-44b1-8643-2774534add42" n="">
+						<sense xml:id="uuid-839b3036-49d4-4679-9af8-6e91ebc73f2e" n="1.">
+							<def xml:id="id">Reţinere, privare, înfrânare de la consumarea unor
+								anumite alimente sau băuturi, de la satisfacerea unor plăceri, a
+								unor acte fiziologice sau deprinderi.</def>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abţine (2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Sfânta natură ... au creat pe om şi l-au dotat cu inteligenţă
+									şi facultăţi, ca să împlinească o altă misiune, iar să nu se
+									închiză într-un albastru, jurând că va păzi în toată viaţa o
+									aspră <hi rend="bold">abstinare</hi> despre nişte plăceri pentru
+									care fu creat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-751d3d72-4748-5f4a-33ab-d3ec96c52732">filim</ptr>
+									<date>1858</date>
+									<citedRange>233</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Remezii la aceste vătămări sânt: <hi rend="bold">abţinerea</hi> de lucrare cu ochii prea mult timp
+									necontenit şi, în genere, cine simte că îl începe să-l doară
+									ochii lucrând, să încetează îndată; căci un cuart de oră lucrat
+									cu ochii osteniţi strică mai mult ochilor decât o zi întreagă
+									când nu sunt osteniţi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8464ccf3-0265-5dff-8dc6-5aa8dc3a21c7">isis</ptr>
+									<date>1895</date>
+									<citedRange>nr. 17, 130<hi rend="superscript">2</hi>/27</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Postul este <hi rend="bold">absţinerea</hi> noastră de la
+									mâncăruri îndulcitoare, cari lucrează îmbuibarea trupului şi ne
+									depărtează de la căutarea celor sufleteşti. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-77a2b9a8-5179-77ed-12b9-b065c7b92404">boiu</ptr>
+									<date>1898</date>
+									<citedRange>91</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Ajun] <hi rend="bold">abţinerea</hi> totală de la mâncare,
+									beutură şi chiar de la lucru. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+										rom.</ptr>
+									<date>1898</date>
+									<citedRange>72</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Amauroza poate să dispară atunci când boala (diabetul,
+									albuminuria, anemia profundă etc.) care a produs-o s-a vindecat,
+									sau când otrăvirea prin băuturi alcoolice ori prin tutun a
+									dispărut în urma <hi rend="bold">abţinerii</hi> de la băut şi de
+									la fumat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bianu</ptr>
+									<date>1910</date>
+									<citedRange>45</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Castitate:] = Virtute care constă în <hi rend="bold">abţinerea</hi> de la plăceri nepermise.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4c963663-21d1-65ac-18f5-445dd6cf43d2">enc.
+										miner</ptr>
+									<date>1930</date>
+									<citedRange>279</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Triburile Tibbu din Sahara orientală] rătăcesc uneori câte
+									20 de zile fără să găsească nimic de mâncare. Mizeria cumplită,
+									la care le condamnă sărăcia extremă a mediului, le-a impus
+									anumite reguli de răbdare şi de <hi rend="bold">abţinere</hi>,
+									pe care le urmează cu sfinţenie. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negulescu</ptr>
+									<date>1934</date>
+									<citedRange>291</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În formaţia capitalurilor joacă rol şi <hi rend="bold">abţinerea</hi> de la consum, abstinenţa, economia, precum
+									poate juca rol, un viciu de repartiţie, când produsele
+									bogăţiilor sunt cu mult prea mari, faţă de necesităţile de
+									consum.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.
+										agr.</ptr>
+									<date>1937</date>
+									<citedRange>629</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aseară îmi propunea să bem şampania. O fi înţeles că era o
+									ispită reală, nu cum părea să spună, un capriciu? <hi rend="bold">Abţinerea</hi> douăzeci de zile e totuşi foarte
+									respectabilă, trebuie să fie o luptă grea în el.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinesc</ptr>
+									<date>1940</date>
+									<citedRange>170</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Abstinenţă [=] <hi rend="bold">abţinerea</hi> de la anumite
+									acte fiziologice sau deprinderi. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+									<date>1969</date>
+									<citedRange>18</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Postul poate fi <hi rend="bold">abţinere</hi> totală de
+									bucate şi de băuturi spirtoase (inedia) sau numai mâncare de
+									pâine uscată, o dată pe zi după ora 9 (xirofagia), ori poate fi
+									şi cu dezlegare de legume, de vin şi peşte.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7dbae051-8268-19e9-1d70-55a6f169145a">enc.
+										simb</ptr>
+									<date>2005</date>
+									<citedRange>s. v. <hi rend="italic">post</hi></citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-39b5b362-1954-4cf1-b726-7582e4242400" n="2.">
+							<sense xml:id="uuid-88b99405-e507-4611-b9cd-486185135d2f" n="✦">
+								<def xml:id="id">Nepronunţare, neexprimare a votului; </def>
+								<def xml:id="uuid-f048981f-f2a8-499a-b8f9-ec43645109aa"> vot care
+									exprimă o astfel de atitudine.</def>
+								<usg corresp="#uuid-f048981f-f2a8-499a-b8f9-ec43645109aa">
+									<seg type="sem" rend="usg"><hi rend="italic">concr</hi>.</seg>
+								</usg>
+								<cit type="unknown">
+									<quote>Pe lângă 5 voturi constituţionali contra adresei mai sunt
+										încă 50 voturi contra ei neconstituţionali, prin <hi rend="bold">abţinere</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">bolliac</ptr>
+										<date>1863</date>
+										<citedRange>179</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Moţiunea [pentru cestiuni de reformă sau de tactică] e
+										votată cu 79 voturi albe şi 7 <hi rend="bold">abţineri</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-0c7b9509-a47c-7fc0-439f-a74e1ec642f0">bacalba</ptr>
+										<date>1876</date>
+										<citedRange>180</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Această lege s-a votat de Adunarea Deputaţilor, în
+										şedinţa din 7 octombre, anul 1877, şi s-a adoptat cu
+										majoritate de cincidzeci şi şease voturi contra a două,
+										fiind şi patru <hi rend="bold">abţineri</hi>. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+										<date>1878</date>
+										<citedRange>nr. 24, 535</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Vasăzică cu ocaziunea votărei celor 15 milioane a fost
+										numai singura mea <hi rend="bold">abţinere</hi> şi aceasta
+										pentru motive deosebite, pe cari n-am voit să le spun în
+										detaliu. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b3e5ae9a-1127-6899-4ba4-ff79d401220e">kogăl</ptr>
+										<date>1883</date>
+										<citedRange>550</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Ba sunt oarecari indicii că plebiscitul lui Cuza fusese
+										lăsat poate ceva mai liber decât acel pentru alegerea făcută
+										sub Locotenenţă, deoarece în cel dintâi tot întâlnim 1 307
+										nu şi 52 000 de <hi rend="bold">abţineri</hi> cari pot fi
+										considerate tot ca voturi protivnice.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-ba667498-a2f8-994e-2a46-7105802042c0">ist. rom.</ptr>
+										<date>1896</date>
+										<citedRange>197</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>După o discuţiune violentă, de vreo cinci ceasuri, s-a
+										pus la vot propunerea lui Ionescu, care trecu cu majoritatea
+										de un vot, din cauza <hi rend="bold">abţinerei</hi> lui
+										Maiorescu. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-71ad635d-8ab2-5ef5-99b3-b95320179b9e">i.
+											negr</ptr>
+										<date>1919</date>
+										<citedRange>76</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Şi tot acelaşi domn Iorga ştie „cu siguranţă că la
+										ultimele alegeri din Vechiul Regat, 60 la sută din alegători
+										au urmat sfatul generalului Averescu, „abţinându-se de la
+										vot”. O asemenea <hi rend="bold">abţinere</hi> echivalează
+										cu o alegere.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a8606e86-3b51-8c24-0a17-00b1e9449e88">zamfir</ptr>
+										<date>1920</date>
+										<citedRange>142</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>O <hi rend="bold">abţinere</hi> a Ardealului [de la votul
+										în favoarea lui Maniu], o solidarizare a ţinutului de peste
+										Carpaţi cu Maniu, e mai mult decât o dovadă de
+										„regionalism”, e un act de trădare împotriva celei mai
+										curate expresii a naţionalismului integral, împotriva
+										preafericitului prim-ministru şi cărturar N. Iorga.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-c89d9cfb-3f8c-9eb7-461e-72544c5d5291">gafenc</ptr>
+										<date>1931</date>
+										<citedRange>167</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Votul [pentru semnarea păcii cu nemţii] e cât se poate de
+										interesant: au fost 7 voturi pentru, 4 contra şi 4 <hi rend="bold">abţineri</hi>. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-932e1110-7be6-44a3-a522-8afdc2603cc0">diamand</ptr>
+										<date>1937</date>
+										<citedRange>130</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Meitani îmi împărtăşeşte propunerea unui front comun al
+										tuturor partidelor de opoziţie fie pentru alcătuirea unei
+										singure liste de candidatură, fie pentru o <hi rend="bold">abţinere</hi> totală de la alegeri. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-16bb2635-76a8-815f-85c3-f82b9d9c2ae1">arget</ptr>
+										<date>1984</date>
+										<citedRange>77</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Se pronunţă pentru <hi rend="bold">abţinere</hi>, în
+										cadrul referendumului.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-460c6cfc-5f91-5d7b-0cf6-fd580d323c17">români</ptr>
+										<date>1986</date>
+										<citedRange>nr. 12 832</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Numărul <hi rend="bold">abţinerilor</hi> a fost
+										mare.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+										<date>2007</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Neparticipare la o acțiune, la o activitate, la o
+								discuţie;</def>
+							<def xml:id="uuid-58835bf3-8f0d-4d81-bced-c573f0542aa1">neexprimare a
+								părerii în privinţa cuiva sau a ceva.</def>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abţine (2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Termen tehnic – <hi rend="bold">abţinerea</hi> de a-şi da
+									consimţământul la orice judecată despre lucruri. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870">bărn</ptr>
+									<date>c. 1863</date>
+									<citedRange>249</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Credeţi, domnule, că <hi rend="bold">abţinerea</hi>
+									aristocraţiei noastre provine în mare parte din alegerea puţin
+									naţională a mai multor piese. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2cbc0036-32f7-988a-822a-2b6e01519676">bolli</ptr>
+									<date>1872</date>
+									<citedRange>95</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Iulian Cesarini ... şi doi arhierei, cel de la Agria şi cel
+									de la Varasin, propuseră <hi rend="bold">abţinerea</hi> absolută
+									de la orice bătălie. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">bari</ptr>
+									<date>1873</date>
+									<citedRange>114</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Prin incapacitate de lucru, în sensul zisului articol, cată a
+									se înţelege nu numai punerea pacientului în stare de a nu mai
+									putea munci din causa lesiunilor primite, dar şi <hi rend="bold">abţinerea</hi> sa de la orice lucru ce-l putea face pentru
+									a-şi înlesni vindecarea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod.</ptr>
+									<date>1896</date>
+									<citedRange>196</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am voit să facem vizibilă regelui <hi rend="bold">abţinerea</hi> noastră de la aplause. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-39ff63c5-6eb5-9abb-6c41-a035950882c7">iorga</ptr>
+									<date>1920</date>
+									<citedRange>34</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Nepoţii] au început iar să-i reproşeze lui cuconu
+									Gheorghiţă, ... <hi rend="bold">abţinerea</hi> lui sistematică
+									de la treburile publice. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e4715047-28e3-9067-13b6-3e5042219d18">sadov</ptr>
+									<date>1935</date>
+									<citedRange>41</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pagubă nu cred c-ar fi fost pentru proletari, nici mare
+									profit pentru duşmanii lor, din această <hi rend="bold">abţinere</hi> [de a citi filosofie apuseană]. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifo</ptr>
+									<date>1926</date>
+									<citedRange>122</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>E drept că în timpul războiului din 1916, din modestie,
+									desigur, a pierdut un rar prilej de a se ilustra în carieră. Dar
+									dacă, în urma acestei regretabile <hi rend="bold">abţineri</hi>,
+									ţara numără un erou în minus, a câştigat în schimb un
+									jurisconsult în plus.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-187881c6-6546-3b67-35b2-37c7f88f9474">teodore</ptr>
+									<date>1928</date>
+									<citedRange>190</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eram însă atât de turburat, încât n-am găsit motive, nici
+									minciuni ca să mi explic <hi rend="bold">abţinerea</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-62e51d67-407a-1672-9361-1ed7dccc1945">eliade</ptr>
+									<date>1930</date>
+									<citedRange>59</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Invers „usucapio libertatis” este modul normal al
+									servituţilor care presupun o <hi rend="bold">abţinere</hi> din
+									partea proprietarului fondului aservit („servitutes quae in non
+									faciendo consistunt”) de ex. să nu ridice o clădire.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">haman</ptr>
+									<date>1930</date>
+									<citedRange>630</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se pedepseşte cu închisoare corecţională de la 6 luni la 2
+									ani şi amendă de la 2 000 la 5 000 lei ... [cel care] în scop de
+									speculă provoacă scăderea titlurilor sau valorilor admise la
+									bursă sau negociate în comerţ ... ori <hi rend="bold">abţinerea</hi> de la cumpărarea sau subscrierea de titluri
+									sau valori.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
+										pen</ptr>
+									<date>1936</date>
+									<citedRange>126</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Carta O.N.U. consfinţeşte interzicerea ameninţării cu forţa
+									ca o normă a dreptului internaţional general, obligatorie pentru
+									toate statele, care au ca îndatoriri: <hi rend="bold">abţinerea</hi> în relaţiile internaţionale de la orice act
+									care constituie o ameninţare cu forţa sau o folosire directă sau
+									indirectă a forţei împotriva altui stat. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-32b88b9f-8501-2cb2-769a-7005d1608887">lex.
+										mil</ptr>
+									<date>1980</date>
+									<citedRange>41</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un „Tratat de <hi rend="bold">abţinere</hi>” reciprocă este
+									pe cale de a fi încheiat între Statele Unite şi mini-insula
+									Belau din Pacific.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+									<date>1982</date>
+									<citedRange>356</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-270608f3-4171-473b-a598-a4be0edfcff0" n="3.">
+							<def xml:id="id">Formă de procedură prin care persoane care judecă un
+								proces ori care ajută la soluţionarea lui, aflate în una din
+								situaţiile prevăzute de lege, solicită înlocuirea lor cu alte
+								persoane având aceeaşi calitate.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg"><hi rend="italic">JUR</hi>.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d.
+										enc.</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-f5af1301-c951-4001-a9d4-5c51dafcc732">Acţiunea de <hi rend="spaced">a se abţine</hi> şi rezultatul ei. </def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d41170a9-1eb7-43ec-9d71-d31f03f06c56" n="">
+						<def xml:id="uuid-e87447aa-6798-483a-993b-abec8672fe00"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abţineri</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+						<case value="gen.-dat. și">abţinerei</case>
+						<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>, <seg type="sem" rend="usg">rar</seg>)</hi></usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi></usg>
+					<def>abstináre</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi></usg>
+					<def>absțínere</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
+					<note type="unknown" n="unknown" cert="high">
+						<term/>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontb</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">steinb</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">neanu</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4c963663-21d1-65ac-18f5-445dd6cf43d2">enc. min</ptr>
+						<date>1930</date>
+						<citedRange>s. v. castitate</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

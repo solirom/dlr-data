@@ -1,0 +1,916 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e1637111-9466-42ba-935c-4af0513465d7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-01-16T11:20:11+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abatere</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁTERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2ae91836-7d53-4af3-b338-e0317cd9dfcc" n="">
+						<sense xml:id="uuid-b304bd7d-77cd-4706-9a69-0e3940b647a8" n="1.">
+							<def xml:id="id">Îndepărtare de la o linie de conduită, de la o normă
+								etc.;</def>
+							<def xml:id="uuid-db300485-862d-4bfd-b6c5-44ef5af6f3af">încălcare a unor
+								reguli sau principii;</def>
+							<xr type="syn" corresp="#uuid-db300485-862d-4bfd-b6c5-44ef5af6f3af">
+								<ptr target="diversiune (2)"/>
+							</xr>
+							<xr type="asoc" corresp="#uuid-db300485-862d-4bfd-b6c5-44ef5af6f3af">
+								<ptr target="abate2 (I 2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Înţălegând domnul muntenescu că vine Jicmontu, … l-au
+									tâmpinat cu boerii săi şi i-au cădzut la picioare, cerşindu-ş
+									ertăciune şi arătându-i pricinele <hi rend="bold">abaterii</hi>
+									sale de supt stăpâniia Crăiei ungureşti.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-94496997-8b17-74ca-56fd-6ef0c5a017bf">
+										costin</ptr>
+									<date>&lt;1700–1710&gt;</date>
+									<citedRange>82</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fără de nicio <hi rend="bold">abatere</hi> la strâmbătate am
+									dat mărturia.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-57b59822-8b6c-13f4-4b37-29e8cace36d3">uric</ptr>
+									<date>1776</date>
+									<citedRange>248</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ura aceaia a lui Dumnezeu carea să cheamă scârbire iaste
+									înstreinarea şi <hi rend="bold">abaterea</hi> de cătră Dumnezeu
+									pentru oareceva rău.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f295ea16-08e2-0ec2-971f-903ebe7f8e7d">micu</ptr>
+									<date>1796</date>
+									<citedRange>176/16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nici cuget mă opri, nici temere avui <hi rend="bold">Abaterile</hi> lui le lupt şi le supui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0a2d0230-2fa3-25df-58b6-a22d3cab3c8e">teatru
+										trad</ptr>
+									<date>1827</date>
+									<citedRange>973</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Căsătoria… pune stavilă tuturor acestor nelegiuite
+									abateri.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">albineț</ptr>
+									<date>1838</date>
+									<citedRange>184/10</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Poate şi capitalul tovaroşilor în comandită să se împartă în
+									acţii, fără <hi rend="bold">abatere</hi> însă din regulele
+									aşezate pentru tovăroşiile în comandită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b7cf7bb9-89c4-9b69-1b24-b9ab77cf4003">cond</ptr>
+									<date>1840</date>
+									<citedRange>9/24</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cuconul … înseamnă cu creta numărul de ordine şi numărul de
+									soldaţi ce avea să găsduiască casa însemnată, numere ce trebuia
+									să se respecte … de locuitori, căci la <hi rend="bold">abatere</hi> erau bătuţi cu biciul pe râspintiele
+									oraşului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-141ade61-2a72-9590-83a4-b58afef94500">bârl</ptr>
+									<date>1854</date>
+									<citedRange>238</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În cas de <hi rend="bold">abatere</hi> a vreunui cleric, îl
+									prăda şi-l globia oricine dintre funcţionari apuca mai
+									întâi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0967fa53-47bb-6f06-8172-099f110f990d">huș</ptr>
+									<date>1869</date>
+									<citedRange>117</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am trecut a-i spune despre <hi rend="bold">abaterile</hi>
+									Turciei de la tractatele ce avea cu domnii noştri.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe">ghica</ptr>
+									<date>1881</date>
+									<citedRange>213</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Copiile după cronici ce posedăm de prin veacul al XVIII lea
+									ne înfăţoşază ortografia scribilor, cu mici abateri, pe ici, pe
+									colo.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-88b021d7-13da-5cde-a330-c5ad48b89cef">lambrior</ptr>
+									<date>1882</date>
+									<citedRange>138</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abaterile</hi> de la aceste deprinderi
+									primitive se pot număra uşor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fbb7b3ab-a12d-3a95-09f0-6912dcfc03d4">contemp</ptr>
+									<date>1883</date>
+									<citedRange>298</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Abaterea d-lui Dimitrie Sturdza la octomvrie 1895, când în
+									chestia transilvană a luat la guvern o atitudine contrară celei
+									susţinute în opoziţie, a avut urmări aşa de nefericite pentru
+									d-sa, încât nu credem că de acum înainte se va mai repeta o
+									asemenea eroare.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown">discursuri</ptr>
+									<date>1903</date>
+									<citedRange>25</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Gândirea matematică are o consecvenţă unică: orice <hi rend="bold">abatere</hi> apare imediat ca nepricepere, ca
+									nebunie, ca glumă proastă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<date>1926</date>
+									<citedRange>130</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Asta-i lege fără <hi rend="bold">abatere</hi>!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-116cad51-471f-3649-5784-023050975883">Noe</ptr>
+									<date>1944</date>
+									<citedRange>83</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pentru Schopenchauer, geniul se caracterizează prin anumite
+										<hi rend="bold">abateri</hi> de la normal.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75204014-4e20-405d-1e45-cdebaf213cbc">poezia
+										emin</ptr>
+									<date>1948</date>
+									<citedRange>78</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Bineînţeles că stâlpii viitorului, viitoarele excelenţe, nu
+									luară treaba în serios şi nu aduseră miza socială cerută de noul
+									statut – ceea ce, după trei abateri consecutive, le atrase
+									excluderea din societate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdfcf838-0c5e-26c6-6734-1a2ab8227866">ciprian</ptr>
+									<date>1958</date>
+									<citedRange>40</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-58cf9402-d8e4-4749-b90b-863d2b7150dc" n="2.">
+							<sense xml:id="uuid-b7ae5b75-796f-42f6-a1e5-f1f23968a9a9" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">JUR.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abatere disciplinară</term>
+								</form>
+								<def xml:id="id">încălcare de către un salariat a normelor legale,
+									regulamentul intern, contractul individual sau colectiv de muncă
+									aplicabil, ordinele şi dispoziţiile legale ale conducătorilor
+									ierarhici.</def>
+								<cit type="unknown">
+									<quote>Concedierea este dispusă pentru o abatere disciplinară
+										gravă sau pentru <hi rend="bold">abateri</hi>
+										repetate.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-0ffb1289-1517-2717-a71b-a952a8a25507">cod</ptr>
+										<date>2003</date>
+										<citedRange>26</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nu trebuia să ai <hi rend="bold">abateri</hi>
+										disciplinare, rudele nu trebuia să fi avut antecedente
+										penale.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-c747cabb-5d50-0971-28c6-43269d4e76de">lungu</ptr>
+										<date>2007</date>
+										<citedRange>108</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Încălcare a unor dispoziţii obligatorii cu caracter
+								administrativ sau disciplinar.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">JUR.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Pentru <hi rend="bold">abaterile</hi> poliţieneşti,
+									închisorea nu va putea fi mai puţină de o zi, nici mai mare de
+									15 zile, după osebirile ce se vor arăta mai jos.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75ac80c8-155d-6764-33cf-d1bba6ea6740">pen</ptr>
+									<date>1864</date>
+									<citedRange>306</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Plenul Curţii Constituţionale poate aplica judecătorilor, în
+									funcţie de gravitatea <hi rend="bold">abaterii</hi>, următoarele
+									sancţiuni […].</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+									<date>1992</date>
+									<citedRange>190</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sancţiunile disciplinare care se aplică agentului imobiliar
+									în raport cu gravitatea <hi rend="bold">abaterilor</hi>
+									săvârşite.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<date>2000</date>
+									<citedRange>XII, nr. 24, 7</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-a1bbc441-74dd-4634-baaf-9a872ef233de" n="3.">
+							<sense xml:id="uuid-c4ecdccb-fc4e-44a3-a488-6093ff39a984" n="✦">
+								<def xml:id="id"/>
+								<usg corresp="#id"><seg type="dom" rend="usg">GRAM.</seg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg></usg>
+								<xr type="syn" corresp="#id">
+									<ptr target="Declinare (1)"/>
+								</xr>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">budai</ptr>
+										<date>1818</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">DRLU</ptr>
+										<date>1822</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Excepţie de la o regulă;</def>
+							<def xml:id="uuid-7aee8485-4ba9-428c-bebc-5c86272ae8d2">deviere de la o
+								obișnuință, de la o tradiție;</def>
+							<xr type="syn" corresp="#uuid-7aee8485-4ba9-428c-bebc-5c86272ae8d2">
+								<ptr target="variaţie (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>După cum se vede, vorbeşte T[iktin] de novaţiuni arbitrare,
+									idei necoapte, de abateri de la calea dreaptă – mai bine ar fi
+									vorbit de <hi rend="bold">abateri</hi> de la schematizmul arid
+									al limbii scrise.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">philippi</ptr>
+									<date>1894</date>
+									<citedRange>253</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>A fost mai întâi rezistenţa bisericii, care în veacul al
+									XII-lea ajunsese la culmea puterii ei spirituale şi timporale,
+									şi nu tolera nicio „heresie", adică nicio <hi rend="bold">abatere</hi> de la doctrinele ei oficiale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cd73987d-9114-2eec-8e7d-e97610814a9d">negulescu</ptr>
+									<date>1914</date>
+									<citedRange>36</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„A” tonic, în unele cazuri, cu <hi rend="bold">abatere</hi>
+									de la forma literară, se preface în „e”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3">păcală</ptr>
+									<date>1915</date>
+									<citedRange>126</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Arta sarcofagelor, cu câteva <hi rend="bold">abateri</hi>, e
+									o artă de-a doua mână.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3b16ea20-9585-5672-42a6-2b0466295805">naum</ptr>
+									<date>1925</date>
+									<citedRange>132</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De amintit şi „tort” care, identic în aromână şi meglenită,
+									arată o <hi rend="bold">abatere</hi> de la accepţiunile lui
+									„tortus”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bca62348-30a6-67e9-5ba2-fa5f5a844bed">densusianu</ptr>
+									<date>1926</date>
+									<citedRange>609</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am găsit, fără nicio <hi rend="bold">abatere</hi>, toate
+									naivităţile la care mă aşteptam: scris idilic, descrieri
+									declamatorii, pesimism social, exclamaţii patriotice – toate cu
+									atât mai supărătoare, cu cât le găseşti într-un carnet de
+									călătorie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2adcbb7b-73cc-5b34-1577-a0c8fe5e9887">sebastian</ptr>
+									<date>1931</date>
+									<citedRange>35</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Lingvistica... a notat și alte <hi rend="bold">abateri</hi>
+									stilistice de la funcțiunea obișnuită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<date>1940</date>
+									<citedRange>422</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Variaţiile (<hi rend="bold">abaterile</hi>) fonologice apar
+									destul de des, dar numai în aspectul oral al exprimării.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-394aad33-145d-67a8-a1c5-ceb47b8999a7">coteanu</ptr>
+									<date>1973</date>
+									<citedRange>26</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În romanul ,,Baltagul” mitul este tratat în chip programatic
+									şi total, cu o evidenţă, cum spuneam, izbitoare, calchiat fără
+										<hi rend="bold">abatere</hi> după scenariul său clasic şi
+									fără cea mai mică intenţie de parodie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2">treptele</ptr>
+									<date>1978</date>
+									<citedRange>109</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-b2c37d97-7bd0-4a59-a949-df8d7c96e931" n="4.">
+							<def xml:id="id">Îndepărtare de la direcţia, poziția iniţială sau
+								normală;</def>
+							<def xml:id="uuid-b5245bea-03a0-477a-a46b-6370769710ca">schimbare,
+								modificare a direcției.</def>
+							<xr type="asoc" corresp="#uuid-b5245bea-03a0-477a-a46b-6370769710ca">
+								<ptr target="abate2 (I 1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>La 22 Ianuarie 1796, fabrica se mărise atât încât apele
+									Sabarului nu mai erau suficiente să o mâie, aşa că mitropolitul
+									Dositeiu se văzu nevoit a cere printr-o anaforă domnitorului
+									Alexandru C. Moruzi … <hi rend="bold">abaterea</hi>
+									Dâmboviţei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20">călăuza</ptr>
+									<date>1906</date>
+									<citedRange>131</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Una dintre aceste varietăți ale peștelui] poate fi mai mult
+									o <hi rend="bold">abatere</hi> sau modificare răsleață produsă
+									întâmplător de ape.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64bdf37f-25f2-84a2-4bcc-5cc0d39f6b8d">peștii</ptr>
+									<date>1916</date>
+									<citedRange>354</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această mișcare de <hi rend="bold">abatere</hi> este
+									comandată de o prismă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e2ff1385-5c7b-70d1-33fc-af1eee1a817e">muscel</ptr>
+									<date>1948</date>
+									<citedRange>383</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Atât pentru portanţă, cât şi pentru presiuni, există desigur
+									o <hi rend="bold">abatere</hi> între curbele experimentale şi
+									cele teoretice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ecc9cd5b-5121-40d0-94e7-981ef6833cb1">carafoli</ptr>
+									<date>1951</date>
+									<citedRange>112</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7039fa10-8b46-422c-9209-417d3f4d7944" n="5.">
+							<sense xml:id="uuid-90000a16-0b0d-4b94-b9cf-441ae949bdb4" n="✦">
+								<def xml:id="id">Îndepărtare, deviere de la subiect;</def>
+								<usg corresp="#id">
+									<seg type="sem" rend="usg">P. ext.</seg>
+								</usg>
+								<xr type="syn" corresp="#id">
+									<ptr target="digresiune (1)"/>
+								</xr>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>
+										<date>1839</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Să mi se ierte o mică <hi rend="bold">abatere</hi>, ca să
+										pot mai bine intra în sujetul nostru.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-dc59d30b-33c9-7cdc-5ab6-9572849ea6dd">echilibru</ptr>
+										<date>1868</date>
+										<citedRange>923</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-7fc3edce-04a0-4e59-a9ef-45cc121e201e" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg></usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abatere de la vorbă</term>
+								</form>
+								<def xml:id="id"/>
+								<xr type="syn" corresp="#id">
+									<ptr target="digresiune"/>
+								</xr>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+										<date>1862</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Oprire temporară;</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="zăbovire (2)"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="poposire"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abate2 (I 3)"/>
+							</xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+									<date>1825</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-823072c6-14ef-400d-bc0c-c9785a26035b" n="6.">
+							<def xml:id="id"/>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="Înclinaţie"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="aptitudine"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Să cerce buni dascăli, să-i înveţe legea şi alte învăţături
+									şi meşteşu&lt;gu&gt;ri, după <hi rend="bold">abaterea</hi>
+									lor.</quote>
+								<bibl type="în">
+									<ptr target="#uuid-946a588e-3409-384a-11ce-3df40aa93f71">vechi</ptr>
+									<date>1775</date>
+									<citedRange>42</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-04c323ce-c719-4a16-b353-0cd37ef13dbb" n="7.">
+							<def xml:id="id">Declinaţie, deviaţie magnetică.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">FIZ.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Trebuie a lua sama la <hi rend="bold">abaterea</hi> acului
+									magnetic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albina</ptr>
+									<date>1829</date>
+									<citedRange>138<hi rend="superscript">2</hi>/16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Deviațiile acului vor indica <hi rend="bold">abaterile</hi>
+									de la dimensiunea precisă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-980e1a6e-1fe6-6acc-a3df-5e25770f51f8">ioanovici</ptr>
+									<date>1949</date>
+									<citedRange>376</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-dc204c5b-88af-4288-87fd-7bac7bb9c34e" n="8.">
+							<sense xml:id="uuid-86684be2-1179-4420-bb2c-653b9424156a" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">MAR.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abatere în carenă</term>
+								</form>
+								<def xml:id="id"/>
+								<ptr type="trimitere" target="abataj (3)"/>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-e0f2c1cb-977e-3b9a-1e45-148f3df35f5f">mar</ptr>
+										<date>1979</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="Doborâre"/>
+							</xr>
+							<xr type="remote-syn" corresp="#id">
+								<ptr target="înfrângere"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Caganul înțelegând <hi rend="bold">abaterea</hi> romanilor
+									s-au tras spre Marea Neagră.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d47c9b7b-2ab9-1f88-877d-d63956f35db9">șincai</ptr>
+									<date>&lt;1808–1811&gt;</date>
+									<citedRange>114</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abaterea</hi> trunchiului acestui copac [al
+									credinţelor păgâne] sub ascuţişul securii nouălor credinţe nu a
+									putut împiedica lăstare nouă ca să se ivească.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6526946e-1883-6427-0e7d-b5515f8d8e17">otescu</ptr>
+									<date>1907</date>
+									<citedRange>42</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2fc322a8-4f34-4d74-8dad-9d50dc2bd20f" n="9.">
+							<sense xml:id="uuid-8ad27ef8-efba-4e92-a43b-6b3d481a1c0d" n="✦">
+								<def xml:id="id">Diferenţa dintre dimensiunea reală şi cea
+									proiectată a unei piese.</def>
+								<usg corresp="#id">
+									<seg type="dom" rend="usg">TEHN.</seg>
+								</usg>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+										<date>1975</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Diferenţa dintre valoarea efectivă sau valoarea-limită
+								admisă a unei mărimi şi valoarea ei nominală.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">TEHN.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+									<date>1975</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2dddd05d-13cd-48b1-bb56-a5b1ea75fa70" n="10.">
+							<sense xml:id="uuid-617e4e8e-a18d-456e-bbdb-c9014419e28d" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">ECON.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abatere monetară </term>
+								</form>
+								<def xml:id="id">factor de natură inflaţionistă caracterizat prin
+									creşterea mai rapidă a masei monetare în raport cu masa
+									bunurilor şi serviciilor, manifestată prin majorări ale
+									preţurilor şi scăderea puterii de cumpărare a unei monede.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+										<date>1993</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-360bfe26-3a41-4603-b740-a994740f0ac1" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg><seg type="dom" rend="usg">ECON.</seg>, <seg type="dom" rend="usg">ECOL.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Abatere-standard </term>
+								</form>
+								<def xml:id="id">indicator de măsurare a amplitudinii dispersiei
+									valorilor unei variabile aleatorii.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-e02f49ee-9962-782c-9a2e-7eb0d76f099d">ecol</ptr>
+										<date>1982</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-f3a298c9-8c86-54c5-66d6-3b7dbbe924a6">ec</ptr>
+										<date>2001</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ECON.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abatere fiscală</term>
+							</form>
+							<def xml:id="id">parte procentuală din venit, scutită de impozit.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-b104f1a2-302b-42a8-a404-33d543d483b2">Acţiunea de <hi rend="spaced">a (se) abate</hi><hi rend="superscript">2</hi> şi
+							rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0b389c92-2053-48b4-b8d1-065653648dcc" n="">
+						<def xml:id="uuid-81a8ae68-b086-4530-b62b-425c1d518ba5"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abbatere</oVar>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinesc</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abateri</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abate2"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+						<date>&lt;1780–1801&gt;</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+						<date>1825</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<date>1850</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășesc</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăineanu</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">TDRG</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi </ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăineanu</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DICR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>
