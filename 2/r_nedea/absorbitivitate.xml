@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>r_nedea</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,8 +25,8 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="">absorbtivitate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBITIVITÁTE</stress>
 					<syll/>
 					<pron/>
 				</form>
@@ -34,13 +34,39 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-c7d5f767-62d8-4f07-9c33-5305de61d1a8" n="">
-						<def xml:id="uuid-253afffc-6261-4020-8a0d-1469264d32ac"/>
+					<sense xml:id="uuid-c7d5f767-62d8-4f07-9c33-5305de61d1a8" n="1.">
+						<def xml:id="uuid-253afffc-6261-4020-8a0d-1469264d32ac">Proprietate a unei
+							substanțe, a unui corp etc. de a absorbi gaze, lichide, radiații; </def>
+						<usg corresp="#uuid-253afffc-6261-4020-8a0d-1469264d32ac"><seg type="dom" rend="usg">FIZ.</seg>,<seg type="dom" rend="usg">CHIM.</seg></usg>
+						<def xml:id="uuid-a2899b93-0c3f-429a-9aa1-113b5d4aee28">putere de
+							absorbţie.</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+								<date>1859</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Puterea spectrală de absorbţie sau <hi rend="bold">absorbitivitatea</hi> corpului</quote>
+							<bibl type="unknown">
 								<ptr target="unknown"/>
 								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-1184213a-ba8a-43f4-8203-fd52b1e21b95" n="2.">
+						<def xml:id="id">Coeficient de extincție moleculară.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+								<date>1969</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -59,9 +85,43 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv., ieşit din uz</seg>)</usg>
+					<def>absorbtivitáte</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>)</usg>
+					<def>absorptivitáte</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
-				</etym>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorptivité</term>
+					<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">absorbitiv</term>
+					</note></etym>
 			</entry>
 		</body>
 	</text>

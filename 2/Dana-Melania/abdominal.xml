@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-abad9115-bf74-4d94-8af7-b64ae2250c38" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-24T13:20:47+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdominal</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDOMINÁL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e418a628-1c02-4ea3-925f-121321d5d777" n="">
+						<sense xml:id="uuid-5c445294-e1b8-45e1-b73f-f6d7cf41699c" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Cavitate abdominală</term>
+							</form>
+							<def xml:id="id">cavitate cuprinsă între pereţii abdomenului (1)</def>
+							<cit type="unknown">
+								<quote>Canalul mistuitor începe la gură, trece pe gât prin toracs,
+									intră în cavitatea <hi rend="bold">abdominală</hi>, cavitate ce
+									este hotărâtă mai pentru dănsul numai, şi merge de să sfârşaşte
+									la strâmtoarea de jos a ligheanului dinaintea cocsului prin
+									gaura şezutului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kret</ptr>
+									<date>1843</date>
+									<citedRange>267</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Autopsia va începe cu deschiderea celor 3 mari cavități:
+									cefalică, toracică și <hi rend="bold">abdominală</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<date>1895</date>
+									<citedRange>nr. 22, 688</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În interior, cavitatea <hi rend="bold">abdominală</hi> este
+									împărţită de ezocolonul transvers în etajul supramezocolic şi
+									etajul inframezocolic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange>15</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<usg corresp="#uuid-e418a628-1c02-4ea3-925f-121321d5d777">
+							<seg type="dom" rend="usg">ANAT.</seg>
+						</usg>
+						<def xml:id="uuid-d0abd109-4392-4bc9-89f9-debf1dd04eee">Care aparţine
+							abdomenului, privitor la abdomen;</def>
+						<xr type="syn" corresp="#uuid-d0abd109-4392-4bc9-89f9-debf1dd04eee">
+							<ptr target="ventral (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>În vâna cava de jos merg de să deschid toate vinele ce correspund
+								la arterile care nascu din aorta <hi rend="bold">abdominală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kret</ptr>
+								<date>1843</date>
+								<citedRange>423</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">CIPARIU<quote>Ştii d-ta ce simţ io şi trebuie să simţă
+								oricine care cât de puţin ş-au studiat limba istoriceşte? Greaţă!
+								Abandonament! Abandonare! etc. abdomen, <hi rend="bold">abdominal</hi> etc., abordabil! … D[omnul] Eliad le dă vorbe de
+								origine romană şi necesarii la curăţirea (?!) şi cultura (!) limbei
+								române!! Ferească-ne Dumnezeu!</quote><bibl type="ap.">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">contemp</ptr>
+								<date>1847</date>
+								<citedRange>272</citedRange>
+							</bibl></cit>
+						<cit type="unknown">
+							<quote>O altă ordine de cauze ... căşună desvoltarea unui schir, care
+								ajunge de pustieşte toată capacitatea <hi rend="bold">abdominală</hi> (a burţii).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brez</ptr>
+								<date>1852</date>
+								<citedRange>266</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Epidemii n-au existat; s-au constatat în comuna Curtești 2 casuri
+								sporadice de typhus <hi rend="bold">abdominal</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+								<date>1887</date>
+								<citedRange>nr. 138, 3339</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Persoanele nervoase adeseori au dureri sau nevralgii <hi rend="bold">abdominale</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bian</ptr>
+								<date>1910</date>
+								<citedRange>s. v. abdomen.</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dr. Silaghi-Sălăjanu ... îşi ridică apoi cu destulă greutate
+								proeminenţa <hi rend="bold">abdominală</hi> prinsă sub scândura prea
+								lată a mesei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">tempi</ptr>
+								<date>1931</date>
+								<citedRange>87</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>El deosebea astfel, după desvoltarea relativă a capului, a
+								pieptului şi a pântecelui ... trei temperamente diferite: cranian,
+								toracic şi <hi rend="bold">abdominal</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">genez</ptr>
+								<date>1934</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ridicăm cu un tampon de tifon cheagul de sânge ce s-ar găsi în
+								cavitatea <hi rend="bold">abdominală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+								<date>1937</date>
+								<citedRange>703</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Desenele întunecate ... sunt mult mai rare, şi de multe ori
+								înlocuite cu pete singuratice, mai ales către mijlocul părţii <hi rend="bold">abdominale</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b3d1e300-36ee-8b84-19ad-fec8ac92a222">linț</ptr>
+								<date>1954</date>
+								<citedRange>134</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prin contractarea muşchilor <hi rend="bold">abdominali</hi> faţa
+								ventrală se apropie de cea dorsală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be377332-92c6-0b48-6c48-86d72f683879">zool</ptr>
+								<date>1962</date>
+								<citedRange>69</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tratamentul este chirurgical şi constă în refacerea peretelui <hi rend="bold">abdominal</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">abc</ptr>
+								<date>1964</date>
+								<citedRange>190</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Durerea <hi rend="bold">abdominală</hi> acută severă necesită
+								întotdeauna o consultație chirurgicală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">viața</ptr>
+								<date>2000</date>
+								<citedRange>XII, nr. 3 525</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Au constatat evidenţierea unui calcul la 28 din 40 de bolnavi
+								cercetaţi, iar la 11 din ceilalţi 12 existenţa unor afecţiuni de
+								vecinătate (neo de col uterin, neo renal, litiază veziculară,
+								diverticulară, anevrism al aortei <hi rend="bold">abdominale</hi>,
+								chist renal).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9aa5c5aa-901f-07e4-7ad6-d1e6e3b35754">litiaz</ptr>
+								<date>2000</date>
+								<citedRange>211</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am plecat în toată graba şi am fost fericit, la sosire, să găsesc
+								pe bolnav într-o stare foarte satisfăcătoare. Prezentase, mi-a spus
+								ajutorul meu, stări de vomă, dureri <hi rend="bold">abdominale</hi>
+								oribile, frisoane violente şi crampe la stomac.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">bici</ptr>
+								<date>2002</date>
+								<citedRange>228</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Peretele <hi rend="bold">abdominal</hi> al femeii lipsea, ca al
+								unui mulaj anatomic, lăsând să i se vadă aparatul reproducător, în
+								culorile cărnii crude.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbit</ptr>
+								<date>2002</date>
+								<citedRange>245</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e82b8f65-9d9e-45d0-b35e-54308ad35b7e" n="">
+						<def xml:id="uuid-d74fa9a4-e7a9-43c6-b302-c7c10d5bd5d7"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abdominali, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abdominal</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-3d083c14-244a-40cb-b4ec-6580776b0744" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-03T18:54:11+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburiu</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURÍU, -ÍE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-06e3c5da-11ad-4a5c-976e-574da02b51cd" n="">
+						<sense xml:id="uuid-cf7b20b7-c210-442d-9d3c-fa6dbddca266" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Dacă diavolul ar fi o închipuire, o noțiune, o spaimă, o
+									vechitură, un mit, răul ar fi aerian și <hi rend="bold">aburiu</hi>, răul n-ar putea fi întrupat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-62e51d67-407a-1672-9361-1ed7dccc1945">eliade</ptr>
+									<date>1927</date>
+									<citedRange>27</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5bc39447-2f4e-42bf-8dda-79657a856950" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id"><seg type="sem" rend="usg"/>Fig.</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="Șters (4);"/>
+							</xr>
+							<cit type="unknown">
+								<quote> Deschise ochii. O privire fără lumină, plictisită, <hi rend="bold">aburie</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+									<date>1964 (†) </date>
+									<citedRange>412</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-76385191-cb88-4595-a26b-6c22145628a5">Care are
+							transparența aburului (<hi rend="bold">5</hi>);</def>
+						<xr type="syn" corresp="#uuid-76385191-cb88-4595-a26b-6c22145628a5">
+							<ptr target="albicios"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Era un bour bătrân cu coama neagră, însă cu celălalt păr deschis
+									<hi rend="bold">aburiu</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7f27b23-8924-9358-809b-abb03495753c">sadov</ptr>
+								<date>1936</date>
+								<citedRange>498</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1fefcb49-43bf-4636-a960-13bf7edd1241" n="">
+						<def xml:id="uuid-13fabacb-f528-4be6-9daa-5b56e7f828e6"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburii</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Din-etimon.atestat"/><ptr targetLang="" type="unknown" subtype="unknown" target="Abur + suf. -iu"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -650,7 +650,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg>(<seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg>) </usg>
+					<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 					<def>ha</def>
 					<gramGrp>
 						<pos value=""/>

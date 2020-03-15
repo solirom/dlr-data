@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-464e59ff-ab25-4953-9bf4-1c5f784f375b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-12T12:19:59+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abhora</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABHORÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9da94959-3e14-4cfb-a7fc-061abbfbfe18" n="">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-ca330da6-ea89-4b81-a668-c47fe407eaed">A manifesta ură,
+							dezgust, aversiune faţă de cineva sau de ceva;</def>
+						<usg corresp="#uuid-ca330da6-ea89-4b81-a668-c47fe407eaed">(<seg type="gram" rend="usg">Folosit și absol.</seg>) <seg type="register style" rend="usg">Livr.</seg></usg>
+						<xr type="syn" corresp="#uuid-ca330da6-ea89-4b81-a668-c47fe407eaed">
+							<ptr target="a detesta"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În contra tiraniei ce <hi rend="bold">abhoram</hi>, proclamai
+								libertatea prin pace.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f3a8b56c-680c-7b89-0fa6-98155d7c453b">biblice</ptr>
+								<date>1858</date>
+								<citedRange>137</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Necutezând <hi rend="bold">s-abhorre</hi> pe fratele său Abel se
+								blestemă pe sine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-275f3de5-9a3d-991d-0576-b9e5a0e45834">rădul</ptr>
+								<date>1870</date>
+								<citedRange>279</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După cheful jubiliar de 40 de ani de sublimă domnie, i a sosit M.
+								Sale, ilustrul amant al ordinii, păcii și liniștii, – care <hi rend="bold">abhorează</hi> sângele după datina Sfintei Ecclesii
+								Catolice, – i-a sosit le mauvais quart d'heure de Rabelais.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-89e396b5-3dea-9b9c-3be1-b8669e152d83">coresp</ptr>
+								<date>1907</date>
+								<citedRange>346</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ministerul voinţei naţionale şi al perfectei constituţionalităţi
+									<hi rend="bold">abhoră</hi> înjurătura şi tolerează
+								persiflajul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8">vinea</ptr>
+								<date>1926</date>
+								<citedRange>239</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă mi s-ar impune alternative de a o vedea înăbuşită de patimă
+								în braţele altuia ori neînsufleţită pe catafalc, nu ştiu ce <hi rend="bold">aş abhora </hi>mai puţin.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb5c1090-6c27-5b17-88de-db6834366433">adela</ptr>
+								<date>1933</date>
+								<citedRange>106</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poema nu poartă nici dată şi nici indicaţia apariţiei într-o
+								revistă; pare postumă, prin tonul ei confesional, atât de <hi rend="bold">abhorat</hi> de poet.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-95931603-6387-27fc-13d6-1ae8cbb2353f">constantines</ptr>
+								<date>1943</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eu care sunt un om foarte laborios și propulsiv, și <hi rend="bold">abhor</hi> pe leneși, sunt cuprins uneori de un gust
+								de a căsca și a dormi pe masa de scris inimaginabil.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-297a32e7-5f88-57ae-1cd0-4af4cf2e05be">călin</ptr>
+								<date>1962</date>
+								<citedRange>396</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b7cdc93d-9364-4206-a38d-8a87eec833c5" n="">
+						<def xml:id="uuid-3b5b55d9-c560-4f17-a321-239d69a6c4ce"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abhorra</oVar>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abhorez </form><bibl type="unknown">
+							<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+							<date>1975</date>
+							<citedRange/>
+						</bibl><bibl type="unknown">
+							<ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr>
+							<date>2005</date>
+							<citedRange/>
+						</bibl><bibl type="unknown">
+							<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+							<date>2006</date>
+							<citedRange/>
+						</bibl><bibl type="unknown">
+							<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+							<date>2007</date>
+							<citedRange/>
+						</bibl>
+					</form><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abhór</form><usg><seg type="time" rend="usg">(înv.</seg>, <seg type="time" rend="usg">astăzi rar</seg>)</usg>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abhorrer</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abhorrere</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">DN</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr>
+						<date>2005</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

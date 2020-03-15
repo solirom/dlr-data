@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a7536fc2-aa22-4f56-b55a-8a6513a71fab" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-20T11:19:25+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstinent</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTINÉNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-acc2232c-c0af-4572-a705-2ca88d97c40c" n="1. ">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-b9502dbb-b035-412a-ab48-9151dad517f3">(Persoană) care se
+							abține de la consumul anumitor alimente sau băuturi, de la satisfacerea
+							unor necesităţi fiziologice etc.</def>
+						<xr type="syn" corresp="#uuid-b9502dbb-b035-412a-ab48-9151dad517f3">
+							<ptr target="reținut (1)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b9502dbb-b035-412a-ab48-9151dad517f3">
+							<ptr target="înfrânat"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-b9502dbb-b035-412a-ab48-9151dad517f3">
+							<ptr target="cumpătat"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+								<date>1859</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Serios, strins împlinitoriu al legei, modest, <hi rend="bold">abstinent</hi> ca un pustnic, – străin de vin şi beutură
+								beţivă, după prevestirea îngerului, Ioan a petrecut vieaţa sa ca un
+								înger în trup omenesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-75b1b489-8d3e-6d28-75eb-39d30720234b">boiu</ptr>
+								<date>1898</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poetul, <hi rend="bold">abstinent</hi> de la bunul muncii şi al
+								confortului pe care munca îl aduce, trebuie să se resemneze la …
+								camera mizeră din mansardă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2bb07750-3764-6fde-7842-0cdbb53f29f4">arghezi</ptr>
+								<date>1915</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Priviţi oamenii cu prejudecăţi etice: ei se recrutează din
+								familia austerilor şi a <hi rend="bold">abstinenţilor</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4fd12322-32cb-0b27-537d-46a6c8127b4a">ralea</ptr>
+								<date>1930</date>
+								<citedRange>227</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Această vorbă îl] făcu pe Preşedinte să roşească mulţumit, fiind
+								din categoria <hi rend="bold">abstinenţilor</hi> puri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9aaead79-4156-6e5c-1815-c469a4767a91">arghezi</ptr>
+								<date>1933</date>
+								<citedRange>50</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Keats e un Musset <hi rend="bold">abstinent</hi> şi cast.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">protopop</ptr>
+								<date>1936</date>
+								<citedRange>280</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Generalul însă s-a înşelat în socoteli. Spre marea lui uimire,
+								descoperă în Hitler un om foarte cumpătat la mâncare şi <hi rend="bold">abstinent</hi> în ce priveşte băutura.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856ed535-40f7-2fff-995d-9044da0318fa">diamandi</ptr>
+								<date>1938</date>
+								<citedRange>395</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Abstinență [=] Starea de <hi rend="bold">abstinent</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+								<date>1939</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Numai Strabo şi Iosephus Flavius ne-au păstrat amintirea unei
+								tagme de anahoreţi („călugări”) celibatari, vegetarieni şi
+								abstinenţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c439c08d-3cca-12f2-2d50-02a0def6043f">daicov</ptr>
+								<date>1965</date>
+								<citedRange>170</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din relatările autorilor antici se ştie că exista ... o categorie
+								de asceţi şi contemplativi, <hi rend="bold">abstinenţi</hi> şi
+								vegetarieni, celibatari care trăiau în singurătate, ducând un fel de
+								viaţă monahală sau de sihăstrie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">drimba</ptr>
+								<date>1984</date>
+								<citedRange>805</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-90a198d2-710b-4915-8efa-213aaa424e84" n="2.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">Persoană neutră din punct de vedere politic.</def>
+						<usg corresp="#id">
+							<seg type="sem" rend="usg">P. ext.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Partidul Cultural al Intelectualilor, care poate întruni în
+								douăzeci şi patru de ore toate sufragiile <hi rend="bold">abstinenţilor</hi> politici actuali, aşteaptă numai o invitaţie
+								de prietenie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2bb07750-3764-6fde-7842-0cdbb53f29f4">arghezi</ptr>
+								<date>1924</date>
+								<citedRange>65</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-bcd7f608-43a9-4713-bdf3-effb0f4ebdcb" n="">
+						<def xml:id="uuid-453f99db-16bd-4baa-a192-e4678a259f6a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstinenţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstinent</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abstinens, -entis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopop</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">form.</ptr>
+						<date>1978</date>
+						<citedRange>43</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

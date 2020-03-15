@@ -174,11 +174,13 @@
 						<sense xml:id="uuid-f8ecb297-af84-4f0b-bcaa-cd93a20f6b7e" n="2.">
 							<sense xml:id="uuid-4874a75b-35d8-44a8-9bcf-33f7afef95ae" n="✧">
 								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="time" rend="usg">Înv.</seg>
+									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Abătător de fulger</term>
 								</form>
 								<def xml:id="id">paratrăznet</def>
-								<usg corresp="#id">Înv.</usg>
 								<cit type="unknown">
 									<quote>Iată câteva dintre numeroasele sale calcuri [ale lui
 										Teodor Stamati]: <hi rend="bold">abătător</hi> de fulger
@@ -244,7 +246,7 @@
 				</dictScrap>
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
-						<term>- OÁRE</term>
+						<term>-OÁRE</term>
 					</form>
 				</form>
 				<form type="grammatical-information">

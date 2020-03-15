@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6190eaf1-9afa-42fc-8694-7a13d10c61f7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T14:33:24+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abeș</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÉŞ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="interj."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f69ca45e-7315-4eea-be3d-18fa0ff130b0" n="">
+						<def xml:id="uuid-a9440615-ca0d-464d-9b3d-7f947d5395ee">Pe lege, pe
+							cinste;</def>
+						<def xml:id="uuid-e8acb5f3-1161-4c25-a437-2e58a42084ea">în adevăr, cu
+							adevărat.</def>
+						<usg corresp="#uuid-a9440615-ca0d-464d-9b3d-7f947d5395ee">
+							<seg type="geo" rend="usg">Ban.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-79b7ad6e-44f3-65dc-2f9a-018442fa382b">val.</ptr>
+								<date>c. 1650</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abeş</hi> se întrebuinţează în vorbire ca adverb
+								afirmativ. De ex.: Abeş că-i zic oamenii prost, că nu-i zic în
+								zădar. De asemenea, unul vorbind ceva, celalalt afirmă vorba zicând:
+								abeş!...</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1887</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rom. „<hi rend="bold">abéș</hi>” în adevăr, cu adevărat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cfb35605-30c1-2b01-20a4-2d8c12a20dd2">orig.</ptr>
+								<date>1928</date>
+								<citedRange>695</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-da1602fc-465e-464e-b952-647209d540e4" n="">
+						<def xml:id="uuid-ddf17158-acf1-47bc-8ab4-2469858aa379"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abéz</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="interj."/>
+					</gramGrp>
+				</re>
+				<etym cert="low">
+					<idno type="element.necunoscut"/>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+						<term xml:lang="" type="unknown" subtype="unknown">„credință”</term>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

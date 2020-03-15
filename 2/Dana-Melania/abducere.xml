@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2c7e369b-ee78-4911-8d84-d692c7ae260f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-25T13:56:08+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abducer</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDÚCERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f26f4928-28f3-482f-b1b6-71a848cd9230" n="">
+						<def xml:id="uuid-20628e7d-d9dd-40de-8dbd-26516567697a">Acţiunea de<hi rend="spaced"> </hi>a<hi rend="spaced"> abduce</hi> şi rezultatul
+							ei.</def>
+						<usg corresp="#uuid-20628e7d-d9dd-40de-8dbd-26516567697a"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">cor</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>s. v. abduco, -is, -ere.</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-bd6cf78e-f89e-405d-9c15-15cf2e3684d3" n="">
+						<def xml:id="uuid-6eb35ef9-39e7-4562-846f-91c5bf2f0f23"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abduce"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-03c4cab4-3a01-471e-5365-45aac7ba73a4">dn</ptr>
+						<date>1997</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5a2069b1-64bc-307c-7f87-b9a5e5be2357">form</ptr>
+						<date>2015</date>
+						<citedRange>306</citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

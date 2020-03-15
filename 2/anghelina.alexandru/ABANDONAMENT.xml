@@ -42,7 +42,7 @@
 						<def xml:id="uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"/>
 						<usg corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
-							<ptr target="Părăsire"/>
+							<ptr target="Părăsire (4)"/>
 						</xr>
 						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
 							<ptr target="Renunțare"/>

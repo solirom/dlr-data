@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c6f31ecc-479d-418c-b591-b2700358ab0b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T15:09:35+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abgenațiune</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABGENAŢIÚNE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-eb14e2f3-77ec-4f6a-be7b-9fba26f5a36c" n="">
+						<def xml:id="uuid-bec7f64b-15bc-47f3-a81c-1ac8898dd7d2"/>
+						<usg corresp="#uuid-bec7f64b-15bc-47f3-a81c-1ac8898dd7d2">(<seg type="hint" rend="usg">Cu sens neprecizat</seg>)</usg>
+						<cit type="unknown">
+							<quote>Animismul acesta cu arborii şi animalele, care îşi aduc aminte, e
+								cam riscat pretutindeni. În câteva locuri ale novelei d-tale treacă
+								meargă! ... Dar aici la sfârşit, după toată adâncimea sufletească a
+									<hi rend="bold">abgenaţiunii</hi> devine nesuferit de
+								sentimental „miévreux” „de la soupe au myosotis”, cum numesc
+								francezii exagerarea sentimentalismului german.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-13264e43-8cc0-51eb-7c26-496bcacc2f62">doc.</ptr>
+								<date>1899</date>
+								<citedRange>25</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4bc8bb03-febd-4333-92d6-4b643fd7467a" n="">
+						<def xml:id="uuid-caa71d12-7b28-4b6a-8524-b1d5fa4ed479"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

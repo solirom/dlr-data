@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bff57c0f-932d-4d74-a721-9f32394019bd" version="3.3.0" source="0.1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-18T13:40:48+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="dlr-variant">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abageu</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAGÉU</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<ptr type="trimitere" target="abagiu"/>
+			</entry>
+		</body>
+	</text>
+</TEI>

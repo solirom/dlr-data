@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1e31ddb2-2cf6-4213-9b5e-c28ede7f86bf" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T14:34:25+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abesiv</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABESÍV</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-bbf694d9-8108-4bf7-aac4-5321de56a252" n="">
+						<sense xml:id="uuid-4e389117-aae7-48d6-b9e3-e3a7bb551879" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Comparatiştii au găsit în limbi neindoeuropene (precum în
+									cele fino-ugrice şi caucaziene) şi alte cazuri ... precum: <hi rend="bold">abesivul</hi>, adverbialul, adcomitativul,
+									aditivul, adesivul, afectivul, alativul etc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcar</ptr>
+									<date>1940</date>
+									<citedRange>137</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-a0eea261-4055-4e61-95eb-4d259eaf5f33">Caz folosit în unele
+							limbi neindoeuropene pentru a indica absența.</def>
+						<usg corresp="#uuid-a0eea261-4055-4e61-95eb-4d259eaf5f33">
+							<seg type="dom" rend="usg">GRAM.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-34324324-bfb4-47aa-a933-d1fc2feb8e55" n="">
+						<def xml:id="uuid-3ebc525d-45f7-49a6-b858-c8e2ab911298"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abessive</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abessive</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

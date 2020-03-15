@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-19eda17e-6134-425a-a747-23bde2071f2c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T15:39:21+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abhaz</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABHÁZ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-dcc55386-2e9d-41b4-97f5-8377869fb4d6" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-2899051c-9125-413a-b1c1-1e40d2da63d4">Persoană care face
+							parte din populaţia de bază a Abhaziei sau care este originară de
+							acolo;</def>
+						<def xml:id="uuid-cddb1393-c4a4-4344-8961-211bb23b07fd">populație care
+							locuieşte în Abhazia.</def>
+						<usg corresp="#uuid-cddb1393-c4a4-4344-8961-211bb23b07fd">(<seg type="gram" rend="usg">la m. pl.</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-beef959c-e6b7-4a36-a77f-c0acbd2ac7d0" n="2.">
+						<sense xml:id="uuid-8d5cc1ac-9049-4c00-b8da-0362f251c375" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Limba abhază</term>
+							</form>
+							<def xml:id="id">limbă din familia caucaziană, vorbită de abhazi.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d019c87c-26f3-8ba9-77e8-eefb276779c3">lumii</ptr>
+									<date>1981</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cecena este una din limbile caucaziene, cea mai cunoscută
+									fiind georgiana …. şi încă: cercheza, <hi rend="bold">abhaza</hi>, avara, lezghina, … în fine, cecena şi
+									inguşa.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3e794073-96ce-a5a2-171d-466688455f7c">goma</ptr>
+									<date>1999</date>
+									<citedRange>325</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">Care aparţine Abhaziei sau abhazilor (1);</def>
+						<def xml:id="uuid-cc8c5e26-100e-4c44-a886-a324149f4183">privitor la Abhazia
+							sau la abhazi;</def>
+						<xr type="syn" corresp="#uuid-cc8c5e26-100e-4c44-a886-a324149f4183">
+							<ptr target="abhazic"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-95b3fb8d-7ccc-4c3c-91df-664b5c572acb" n="">
+						<def xml:id="uuid-0d8129c3-6fd4-40d5-aeb2-f7f456135183"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abhazi, -e</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abkhase</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="ru" type="unknown" subtype="unknown">абхазъ</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abkhas</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

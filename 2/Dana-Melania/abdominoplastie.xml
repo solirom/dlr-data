@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f4b358dc-d63d-424a-ba20-e5eff4f9bb1c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-25T12:35:15+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdominoplastie</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDOMINOPLASTÍE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1f8c55ac-c362-4ac7-9ce9-c0c9f400fd5b" n="">
+						<def xml:id="uuid-e73ca566-dc97-4d5d-a542-66717f7d0a95">Lifting al pielii de
+							pe abdomen.</def>
+						<usg corresp="#uuid-e73ca566-dc97-4d5d-a542-66717f7d0a95">
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+								<date>2002</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cele mai mari cerințe vin din partea femeilor care solicită cel
+								mai des mamoplastii, operații de liposculptură … lifting și <hi rend="bold">abdomenoplastie</hi>.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<date>2004</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Potrivit datelor statistice ... <hi rend="bold">abdominoplastia</hi> şi liposucţia sunt printre cele mai
+								solicitate intervenţii chirurgicale.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<date>2010</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ba8f1401-0206-4907-9e4d-30b24553cc34" n="">
+						<def xml:id="uuid-ede11d52-bb5c-4734-8a1f-f9d21e78f931"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<def>abdomenoplastíe</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abdominoplasty</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

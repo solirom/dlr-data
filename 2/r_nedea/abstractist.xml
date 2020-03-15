@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8c6b641f-855e-4b10-8eb0-8e341ac6b998" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T13:51:20+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractist</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTÍST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e00c19f1-8c17-4d28-81bd-0f399c9972a7" n="">
+						<def xml:id="uuid-38156aff-b33a-4f0f-a725-5e669593d1b4">Care are un caracter
+							abstract.</def>
+						<usg corresp="#uuid-38156aff-b33a-4f0f-a725-5e669593d1b4"><seg type="dom" rend="usg">A. PLAST.</seg>
+							<seg type="register style" rend="usg">Livr.</seg>; <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote>Precum muzica grupează sunetele în vederea unei armonii care
+								exprimă o stare sufletească, pictura <hi rend="bold">abstractistă</hi> dispune liniile şi culorile în vederea unui
+								la fel rezultat armonios.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-27d5af20-43bd-2d40-63b5-0edcda5c91fc">vinea</ptr>
+								<date>1922</date>
+								<citedRange>301</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e1208224-0506-4f1c-a340-1b233c7f5e49" n="">
+						<def xml:id="uuid-183d78b6-cb5a-4740-a7b7-1c2bf7cb8504"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă </term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstractişti, -ste</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abstract"/><term xml:lang="" type="sufix" subtype="unknown">-ist</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

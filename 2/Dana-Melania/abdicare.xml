@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ff5506e0-ec77-4277-8857-7dcda388de42" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-19T10:30:21+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdicare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDICÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ca22078a-9bff-4882-b11b-d6d531fc2408" n="">
+						<sense xml:id="uuid-96b930ea-fe8a-4048-85b8-6068bf2a4559" n="1.">
+							<def xml:id="id">Renunţare, de bună voie sau constrâns, la tron sau la
+								exercitarea puterii supreme;</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="paratisire"/>
+								<usg>
+									<seg type="time" rend="usg">înv.</seg>
+								</usg>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="prostire3"/>
+								<usg>
+									<seg type="time" rend="usg">înv.</seg>
+								</usg>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abdica (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Blânda figură a lui Neagu V.V., carele, … lăsă sfătuiri
+									fiiului său cum să domnească; <hi rend="bold">abdicarea</hi> lui
+									Petru Rareş, care preferă să se scoboare de pe tronul Moldaviei
+									decât să plătească bir turcilor; toate aceste figure, toate
+									aceste fapte ar merita mirarea chiar şi a străinilor. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ee60aea3-4cb9-61e9-8257-2f70d3cc02d9">kogăln</ptr>
+									<date>1843</date>
+									<citedRange>390</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Tot ce mai rămâne de făcut acelui nenorocit rege este <hi rend="bold">abdicarea</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1e1b4e5f-6356-3af9-0dc1-43bd3f1f4eeb">filim</ptr>
+									<date>1859</date>
+									<citedRange>175</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Oricum să fie, faptul s-a anunţat Parlamentului urmând apoi o
+									şedinţă secretă, în care se pretinde că s-ar fi adus un mesaj
+									verbal din partea tronului, ameninţând ţara cu <hi rend="bold">abdicare</hi>, dacă Reprezentaţiunea Naţională nu se va
+									grăbi de a vota Legea Bugetară.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown">HASDEU</ptr>
+									<date>1871</date>
+									<citedRange>214</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>După <hi rend="bold">abdicarea</hi> domnitorului şi
+									proclamarea constituţiei, totul s-au liniştit în ţară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2d11da73-653c-0bd7-7132-c885f56c2ba8">lăcust</ptr>
+									<date>c. 1874</date>
+									<citedRange>87</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Regele a citit documentul de <hi rend="bold">abdicare</hi> cu
+									voce tare, sfătuind pe fiul său să fie pentru popor un rege bun
+									şi credincios.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia</ptr>
+									<date>1889</date>
+									<citedRange>nr. 3 433, 1</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Lascăr Catargi … izbuteşte să îndepărteze ideea de <hi rend="bold">abdicare</hi> şi inspiră destulă încredere
+									principelui pentru a-l face să continue îndeplinirea misiunii ce
+									o primise.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-acb2341f-3b98-3f4a-11bb-ff063b1005cb">maiores</ptr>
+									<date>1897</date>
+									<citedRange>30</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>NEGULESCU, Filos. Renaşt., II, 326: Odată ales, suveranul
+									nu-şi poate părăsi postul decât numai prin <hi rend="bold">abdicare</hi> voluntară şi numai pentru un singur motiv, –
+									când crede că s-a ivit în stat un om mai vrednic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cd73987d-9114-2eec-8e7d-e97610814a9d">negul</ptr>
+									<date>1914</date>
+									<citedRange>326</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Situaţiunea politică era într-adevăr foarte gravă; de la
+									alegeri atârna continuarea domniei prinţului Carol sau <hi rend="bold">abdicarea</hi> sa.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-71ad635d-8ab2-5ef5-99b3-b95320179b9e">negruzz</ptr>
+									<date>1919</date>
+									<citedRange>121</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Şi iată-ne la <hi rend="bold">abdicare</hi>. Într-adevăr, în
+									acel moment, Mihai era singurul rege din Europa de Est
+									sovietizată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ddc31c4c-12bd-9702-4eb3-dbf9cdea8973">goma</ptr>
+									<date>1984</date>
+									<citedRange>76</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Diplomaţi neidentificaţi citaţi de Reuter opinează că deşi nu
+									este încă vorba despre <hi rend="bold">abdicarea</hi> regelui,
+									transferul puterii va fi permanent.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-405f68e4-1a5c-268d-6468-8b28a28da1ea">adevărul</ptr>
+									<date>1996</date>
+									<citedRange>nr. 1757, 7</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>După cum se ştie, triumful Revoluției de la 1848 în Ţara
+									Românească s-a produs la 11-23 iunie, având ca urmare abolirea
+									regimului regulamentar, <hi rend="bold">abdicarea</hi>
+									domnitorului Gh. Bibescu şi instaurarea guvernului
+									provizoriu.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">biciul</ptr>
+									<date>2002</date>
+									<citedRange>155</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-16e49b0e-e357-469d-9c60-1ff9cdfa212f" n="2.">
+							<def xml:id="id">Renunţare la o acţiune, retragere dintr-o activitate
+								(în faţa unor greutăţi).</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+									<date>1859</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Însă eu sunt de părerea să nu primim nici într-un mod <hi rend="bold">abdicerea</hi> intenţionată, căci prin aceasta
+									am căra apă la moara răuvoitorilor.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-8e51aece-810f-423a-6d77-c493cf7973bd">contemp</ptr>
+									<date>1871</date>
+									<citedRange>278</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Vom spune că „Odinioară” este binevenită pentru a completa
+									repertoriul matineurilor, destinate unui public aparte, pe care
+									direcţia Teatrului Naţional trebuie să-l aibă în vedere chiar cu
+									preţul unei dureroase <hi rend="bold">abdicări</hi> de la
+									stricteţea programului artistic ce şi-a impus.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-30e82483-8945-3aaf-a60f-608fa2262116">minul</ptr>
+									<date>1920</date>
+									<citedRange>203</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ar fi aproape o <hi rend="bold">abdicare</hi> să asimilezi
+									meşteşugul subtil al scrisului cu o profesiune, dar el a devenit
+									o profesiune.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a6761467-9da2-0359-5a7a-290dcfdb84cd">semne</ptr>
+									<date>1929</date>
+									<citedRange>98</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Era acest văzduh care sufoca organic excepţionalul mecanism
+									spiritual al d-rei Roth, privilegiată din fire şi risipind averi
+									ca să-şi păstreze darul curat de <hi rend="bold">abdicări</hi>,
+									de atingeri, de compromisuri.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-62e51d67-407a-1672-9361-1ed7dccc1945">isabel</ptr>
+									<date>1930</date>
+									<citedRange>112</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Când însă concepţiunea s-a schimbat şi tutela a fost socotită
+									ca o sarcină, numai invocarea unui motiv valabil – ca şi astăzi
+									– putea scuti de tutelă sau chiar <hi rend="bold">abdicarea</hi>
+									de la o tutelă luată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hamang</ptr>
+									<date>1930</date>
+									<citedRange>329</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>: E cea mai formidabilă, cea mai elegantă <hi rend="bold">abdicare</hi>, pas cu pas, din tânăra generație</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+									<date>1933</date>
+									<citedRange>63</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>: În rezistenţa ei [a României descreştinate] categorică şi
+									nejustificată, am putut citi toată <hi rend="bold">abdicarea</hi> ei, toată apostazia ei, de la principiile
+									spirituale ce au insuflat istoria naţională.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">crainic</ptr>
+									<date>1936</date>
+									<citedRange>28</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Creştinismul spune că originea păcatului se explică prin
+									libertatea pe care a dat-o Dumnezeu omului. Aceasta se poate
+									interpreta şi aşa, că păcatul este o <hi rend="bold">abdicare</hi> de la libertate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f0d968d0-563c-3021-a42f-3768d94e3a4a">stănil</ptr>
+									<date>1937</date>
+									<citedRange>179</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această <hi rend="bold">abdicare</hi> de la probatoriu
+									dovedeşte că inculpatul recunoaşte implicit culpa ce i se impută
+									şi care se încadrează în textele de lege.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29bfeafc-8718-03cc-40a2-5c21f68e516f">lup</ptr>
+									<date>1947</date>
+									<citedRange>281</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Poetul însuşi acceptă mutilarea ... în înţelesul <hi rend="bold">abdicării</hi> sub presiunea
+									slăbiciunilor</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+									<date>1981</date>
+									<citedRange>nr. 4, 4</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Renunţarea la epicul propriu-zis e o <hi rend="bold">abdicare</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+									<date>1984</date>
+									<citedRange>mai, 54</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ca urmare, se va pune în discuţia Comitetului Director al
+									Uniunii Scriitorilor <hi rend="bold">abdicarea</hi> colectivului
+									redacţional al revistei de la principiul respectului faţă de
+									drepturile omului, care exclud orice fel de
+									discriminare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-08ffdcb4-6626-8b2b-6eeb-39858bf31d0e">goma</ptr>
+									<date>2005</date>
+									<citedRange>322</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-750acf54-e15d-44bc-890e-f806ac1f2e03">Acţiunea de a abdica
+							şi rezultatul ei;</def>
+						<xr type="syn" corresp="#uuid-750acf54-e15d-44bc-890e-f806ac1f2e03">
+							<ptr target="paretisire"/>
+							<usg>înv.</usg>
+						</xr>
+						<xr type="asoc" corresp="#uuid-750acf54-e15d-44bc-890e-f806ac1f2e03">
+							<ptr target="abdica (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a7a44912-9708-46d8-ba6f-653850ce4ff0" n="">
+						<def xml:id="uuid-8f589fe0-b382-40b4-95e8-a9217dcb854a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abdicări</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abdícere</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abdica"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d0ef16d7-6b72-85ca-3dd7-78fd1a0688f9">CANELL</ptr>
+						<date>1867</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown"/>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94285feb-3169-1ac8-3418-f2a338e31e09">term</ptr>
+						<date>1999</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

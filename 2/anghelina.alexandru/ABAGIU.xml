@@ -293,7 +293,7 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abăgíu</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -304,13 +304,8 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abagéu</def>
-					<bibl type="ap.">
-						<ptr target="#uuid-d4ba99c4-7513-7988-675f-cdf568e97001">suci</ptr>
-						<date>1642</date>
-						<citedRange/>
-					</bibl>
 					<gramGrp>
 						<pos value="s."/>
 						<gen value="m."/>
@@ -320,7 +315,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>habagíu</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -362,6 +357,11 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">ciorănescu</ptr>
 						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4ba99c4-7513-7988-675f-cdf568e97001">suciu</ptr>
+						<date>2010</date>
 						<citedRange/>
 					</bibl>
 				</note>

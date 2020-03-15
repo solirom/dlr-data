@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a84e5d10-67a6-4ba5-a687-f80e2c7038db" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-04T19:22:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractor</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e8c98d1f-0419-4608-80f8-26a973164350" n=""><sense xml:id="uuid-37ae8435-f26a-404e-bc5b-e83cf192b640" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adjectival</seg>) <seg type="sem" rend="usg">P. ext.</seg> (<seg type="hint" rend="usg">Despre însușiri, manifestări ale oamenilor</seg>)</usg>
+							<cit type="unknown">
+								<quote>Prin identificările ei [ale metaforei la primitivi] se
+									înlocuiesc termenii abstracți, într-un moment în care s-au ivit
+									primele rudimente ale inteligenței <hi rend="bold">abstractoare</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<date>1961</date>
+									<citedRange>209</citedRange>
+								</bibl>
+							</cit>
+						</sense><def xml:id="uuid-8c6a8806-f5b8-4417-96f3-c097702c4e81">Persoană
+							care utilizează abstracțiuni.</def><cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit><cit type="unknown">
+							<quote>Acest om extrem de inteligent [Caragiale], … acest <hi rend="bold">abstractor</hi>, care extrage esențialul … are în
+								compoziție … destule caractere clasice.</quote>
+							<bibl type="unknown"><ptr target="#uuid-556f4cde-6193-504c-14b3-92d071e71d83">ibrăil</ptr><date>1926</date>48</bibl>
+						</cit><cit type="unknown">
+							<quote>Artistul e <hi rend="bold">un abstractor</hi> și un clasificator
+								ca și omul de știință.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+								<date>1986</date>
+								<citedRange>nr. 520, 1</citedRange>
+							</bibl>
+						</cit>48</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-42efad28-c81d-4b6e-803f-739a78414fa8" n="">
+						<def xml:id="uuid-8bb3b115-edde-4568-ac81-498fae46d126"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-OÁRE</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstractori, -oare</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstracteur</term></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopo</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

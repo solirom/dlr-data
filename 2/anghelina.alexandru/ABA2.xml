@@ -170,14 +170,14 @@
 					</sense>
 				</dictScrap>
 				<re type="lexical-variant-section">
-					<usg><seg type="register style" rend="usg">popular</seg></usg>
+					<usg><seg type="register style" rend="usg"><hi rend="italic">pop</hi>.</seg></usg>
 					<def>abắ</def>
 					<gramGrp>
 						<pos value="interj."/>
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="register style" rend="usg">popular</seg></usg>
+					<usg><seg type="register style" rend="usg"><hi rend="italic">pop</hi>.</seg></usg>
 					<def>habá </def>
 					<gramGrp>
 						<pos value="interj."/>

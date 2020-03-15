@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-3822c68a-311b-40ea-81fd-ca3d94882019" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-19T13:03:00+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdicat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDICÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-04b32bff-6365-40c2-a416-a072050ee7f0" n="">
+						<sense xml:id="uuid-c1df938a-b37c-4c4f-a959-eeb94b2de997" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Omul de geniu sau de mare talent este un <hi rend="bold">abdicat</hi> de la spirit, un ratat, un nelucid monoman,
+									obsedat de sine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eec6d06a-3759-1a10-1739-564d67f04fd2">ionescu</ptr>
+									<date>&lt;1935–1936&gt;</date>
+									<citedRange>96</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-c6e134d1-dc23-4be4-9b16-b2d66ba1d995">Retras dintr-o
+							funcție, demnitate supremă.</def>
+						<usg corresp="#uuid-c6e134d1-dc23-4be4-9b16-b2d66ba1d995"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi
+							rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă pe Marinescu l-a mâncat amintirea <hi rend="bold">abdicatului</hi> Rege, pe Toto Rosetti l-a curăţat
+								incapacitatea pe care a dovedit-o cu fiecare prilej.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cba97fab-0fa8-9f5d-0986-3b4b90c01632">arget</ptr>
+								<date>1942</date>
+								<citedRange>515</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-cdf8bef3-7fc8-450c-be35-55343f99dcb7" n="">
+						<def xml:id="uuid-04faf197-736c-4f3f-b245-3fa5faffefca"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abdicaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abdica"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8ae28fa8-3146-4855-a4b9-914aa2214f00" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-27T12:54:18+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abeherțung</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABEHERŢÚNG</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1aaf9d9b-7de0-4809-bf15-a4346fef5fb0" n="">
+						<def xml:id="uuid-4ce0ea5c-db76-42ea-b5f9-84998bde0cf7">Mulțime de deşeuri
+							forestiere.</def>
+						<usg corresp="#uuid-4ce0ea5c-db76-42ea-b5f9-84998bde0cf7"><seg type="geo" rend="usg">Prin Bucov.</seg> (<seg type="gram" rend="usg">Cu sens
+								colectiv</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-da0cd0ef-406e-76ad-7ad2-ba0f377f6b93">lexic</ptr>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c8676e43-c7e3-4890-a04e-b03a4f64ec54" n="">
+						<def xml:id="uuid-7ec65c16-9ee0-4417-97df-d422571ffc8e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="abeherţ"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

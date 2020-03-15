@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-903c4bb8-4002-459b-96ff-62e0cf7b25ca" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c46cf885-4e53-4d63-a1ce-e8b30a420342" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -8,7 +8,6 @@
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Romanian Academy, Philology and Literature Section</publisher>
-				<idno type="project">dlr2</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<p>born digital</p>
@@ -16,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2019-12-09T11:20:40+0200"/>
+				<date when-iso="2020-03-09T13:14:01+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -25,20 +24,21 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">abuz</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABÚZ</stress>
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
 					<syll/>
-					<pron/> Ú</form>
+					<pron/>
+				</form>
 				<gramGrp>
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-97e6d4b2-3589-45f9-990a-bf796b59ada4" n="">
-						<def xml:id="uuid-850802e9-d1f5-47a2-92f1-523103e303de"/>
+					<sense xml:id="uuid-a40b69b1-3906-40f0-8b54-ad49bb0c7abb" n="">
+						<def xml:id="uuid-9ce15bf2-e00d-41d0-9021-fc1345783c9e"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5f3f01a2-0747-07a3-5852-18b3a01c70ca">argh</ptr>
+								<ptr target="unknown"/>
 								<date/>
 								<citedRange/>
 							</bibl>
@@ -46,8 +46,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-ef94a5b4-d155-4019-8e61-5014bf9e1479" n="">
-						<def xml:id="uuid-dd363f63-7fc6-491e-96ce-c30c40954722"/>
+					<sense xml:id="uuid-4d763e8e-7612-4414-8e45-ee9b75952d40" n="">
+						<def xml:id="uuid-731b9a80-0e1c-4181-aeed-061af51bc224"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">

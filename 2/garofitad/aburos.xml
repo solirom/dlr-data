@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b408a19b-7458-4f8e-8aa4-92fc4223e311" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-05T12:09:50+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburos</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURÓS, -OÁSĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6a23b665-fea3-45aa-a44a-f06febe2f347" n="1.">
+						<sense xml:id="uuid-5d9a18ed-9516-467e-a9f5-afe2626704f2" n="✦">
+							<def xml:id="id"> Care este acoperit cu aburi proveniți din procese
+								fiziologice;</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="umed"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Încă mai sunt în trupul nostru și părți <hi rend="bold">aburoase</hi> precum: aburea pealei, plămânelor. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-412a4b14-37a2-1440-4a87-99e57a7a2a19">vasici-ungur</ptr>
+									<date>1830</date>
+									<citedRange>13/4</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-aeb53f84-5354-4f1f-91b5-911d214bb2f3" n="✧">
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Un suflet... în noaptea<hi rend="bold"> aburoasă</hi> Adesea
+									în tăcere s-aude suspinând.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-efaa6ecd-1d42-6ffb-3deb-8cb42e023d9b">r.
+										ionescu</ptr>
+									<date>1854</date>
+									<citedRange>9/4</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Respiraţia <hi rend="bold">aburoasă</hi> şi nemărginită a
+									nopţii aruncase un linţoliu subţire şi străveziu de neguri albe
+									peste pârăul care, tremurând parcă de frig pe pietrele-i reci,
+									luneca cu murmur grăbit. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3beda6e4-18f4-41ca-84e2-92056b80183b">hoga</ptr>
+									<date>1912</date>
+									<citedRange>260</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-afcbbcfd-66ac-4ce6-9544-8c4d3974f813" n="✧">
+							<def xml:id="id">Lipsit de precizie,</def>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="neclar"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Răsare caldul soare în văile vieții Și sufletul pe creștet
+									sfios se aurește Ca un copac ce-n freamăt domol se dezvelește
+									Din taina <hi rend="bold">aburoasă</hi> în zorii
+									dimineții.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-16356ae9-2ec2-49ee-5cf4-098e610c0097">voiculescu</ptr>
+									<date>1921</date>
+									<citedRange>88</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pierdut, ca de obicei, în<hi rend="bold"> aburoasa</hi>-i
+									visare, Pantazi nici nu-i băga în seamă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4c03df96-0476-8335-8436-3a5736ea7bf4">M. I.
+										Carag</ptr>
+									<date>1926</date>
+									<citedRange>75</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Oricâte sforțări teoretice am face și oricine le-ar face,
+									cuprinderea concretă, specioasă și de tainică inconsistență a
+									artei ... niciodată nu o stăpânim în realitatea ei <hi rend="bold">aburoasă</hi>, rămâne etern liberă și, în cea
+									mai interesantă parte, intransmisibilă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8d281a1e-611e-39a6-5aa2-ac5c9812169c">streinu</ptr>
+									<date>1931</date>
+									<citedRange>298</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Poetul Geo Dumitrescu] răspunzând unui preopinent cu „suflet
+									de cristal”, care exalta inefabilul <hi rend="bold">aburos</hi>
+									al poeziei, nu pregetă să accentueze legătura cu materia vie sau
+									neînsuflețită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-725668dc-7afb-81ef-4563-55b2e84a8483">negoițescu</ptr>
+									<date>1965</date>
+									<citedRange>219</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această primă și valabilă constatare este subminată perfid,
+									după punct și virgulă de fâlfâirea <hi rend="bold">aburoasă</hi>
+									a unui nebănuit, și cu atât mai tentant, orizont.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-856e8768-1ca8-4b62-6ad6-c20fe6945842">sorescu</ptr>
+									<date>1985</date>
+									<citedRange>633</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>1999 DANIELIUC, Marilena, 99: Rămase cu privirea în mărăcini,
+									ca găina-n lemne, românul dizolvându-se treptat în palpitul
+									aerului, luând o consistență <hi rend="bold">aburoasă</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-13b13986-0073-8258-6d0d-4d143fff9ca2">dan</ptr>
+									<date>1999</date>
+									<citedRange>99</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-7392d9a7-4f98-42db-80e7-9a16e95cbaa3">Care este acoperit
+							cu aburi (3), plin de aburi; din care ies aburi, care produce
+							aburi.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<date>&lt;1691–1697&gt;</date>
+								<citedRange>534</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Locul unde vom muta frăgarii de stătut nu poate fi fiecare.
+								Cărora locul cel apătos și văile ceale <hi rend="bold">aburoase</hi>
+								nu le place, nici locul la uliță unde pulberul se pune pe frunze ...
+								Fără numai locul cel mai rădicat este mai bun pentru transplantat
+								frăgarii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e48190fc-a041-1fab-9b71-2f9af940322d">învăț</ptr>
+								<date>1823</date>
+								<citedRange>20/15</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Boala [rapănul cailor] vine mai mult din pășune băltoasă,
+								evaporoasă sau<hi rend="bold"> aburoasă</hi> a nutrețului stricat,
+								putrid, mucigăios și din apă împuțită. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a132d6dd-4fdf-98b6-061b-a19ff8933ad5">cuparencu</ptr>
+								<date>1860</date>
+								<citedRange>25/23</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi păraiele umflate, Mici torente spumegoase, De pe culme, de
+								prin sate Curg în văile<hi rend="bold">-aburoase</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-47cd8fd9-05e4-1f32-071a-858d256f58ec">alecsandri</ptr>
+								<date>1876</date>
+								<citedRange>125</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Departe de a fi un artist, el [N. Gane] este totuși creatorul la
+								noi al literaturii cu boieri de provincie și cocoane patriarhale, în
+								case colbăite, cu rătăciri cinegetice pe bălțile <hi rend="bold">aburoase</hi> și în munți cu căpriori și urși.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+								<date>1941</date>
+								<citedRange>376</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Norii<hi rend="bold"> aburoși</hi>, alburii, se scurgeau din
+								munții mari de-a lungul văilor împădurite, cum se scurgeau pâraiele. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5f50793d-793f-1bbd-944b-57fc1f235ad1">camil</ptr>
+								<date>1955</date>
+								<citedRange>709</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-47d11a28-7025-44ef-a3a0-b8f22ab4e7f8" n="2."><sense xml:id="uuid-3e34aff8-3cd7-42ea-bd74-b06343b98185" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>) </usg>
+							<cit type="unknown">
+								<quote>Ce Mume visând<hi rend="bold"> aburos </hi>în cimpoaie, Ce
+									guri de privelişti iertate‑mi dictează Beţia vocalelor, inmul
+									acesta. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9761e086-7303-0194-4731-99ae07878010">doina</ptr>
+									<date>1973</date>
+									<citedRange>221</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Asemănător cu aburul;</def>
+						<usg corresp="#id"><seg type="register style" rend="usg">Livr</seg>., <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="diafan"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="vaporos (3)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Tânăra fecioară se arătă cu conciul semănat cu diamanturi, cu <hi rend="bold">aburosul</hi> zovon de filaliu, cu auritul văl de
+								beteală răsfirat pe un biniș de suvaiu alb.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-57e6dd2d-0843-3217-5f57-90be24a1782b">odobescu</ptr>
+								<date>1857</date>
+								<citedRange>73</citedRange>
+							</bibl>
+						</cit>
+						<etym cert="high"><bibl type="unknown">
+								<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+								<date>1913</date>
+								<citedRange/>
+							</bibl>
+							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon   "/></etym>
+						fr. vaporeux</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6bc53310-c391-489c-954f-5312e4cf9e14" n="">
+						<def xml:id="uuid-3ff60498-eadf-4cce-b3c6-e4495ff2bc1b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburoși, -oase</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv</seg>.,<seg type="plev" rend="usg"> rar</seg>)</usg>
+					<def>aborós, -oásă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Aburi"/><term xml:lang="" type="sufix" subtype="unknown">-os</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">budai</ptr>
+						<date>1818</date>
+						<citedRange>194<hi rend="superscript">r</hi>/11</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">DRLU</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e45ac1e9-2ab4-89e3-4da4-50f8e3bd5bc8">jahresber</ptr>
+						<date>1911</date>
+						<citedRange>85</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-57a72f55-7c91-9164-5f08-e8b584430e0e">pascu</ptr>
+						<date>1916</date>
+						<citedRange>77</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

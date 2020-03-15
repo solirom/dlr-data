@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-53e70020-762b-4803-9b18-29031821098d" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-65352669-a187-4399-b260-59043c4e192c" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-02-05T14:30:40+0200"/>
+				<date when-iso="2020-02-17T12:56:13+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -31,20 +31,13 @@
 				</form>
 				<gramGrp>
 					<pos value="vb."/>
-					<iType value="I"/>
-					<subc value="tranz."/>
+					<iType value=""/>
 					<subc value=""/>
-				</gramGrp>
-				<gramGrp>
-					<pos value="vb."/>
-					<iType value="I"/>
-					<subc value="intranz."/>
 					<subc value=""/>
-					<usg><seg type="plev" rend="usg">rar</seg></usg>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-cac4d85f-a4f0-4db2-8cfd-f05e2d962038" n="">
-						<def xml:id="uuid-f84e5ad6-91d7-4ae1-aa0c-d410e2dce1dd"/>
+					<sense xml:id="uuid-f56b947d-ce99-4d09-a509-f4f054ada73a" n="">
+						<def xml:id="uuid-66a3edf4-2be8-4c12-9934-3d84f17a20a6"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -56,8 +49,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-c735ec11-34b7-4d3d-b604-e88b87dab426" n="">
-						<def xml:id="uuid-598820ba-b098-4bac-b966-c2dc1de0cbb2"/>
+					<sense xml:id="uuid-e1866b5e-913c-4c9a-97f5-ff518fa7b302" n="">
+						<def xml:id="uuid-397819fc-5a35-4b2d-998b-736978b97a71"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -69,7 +62,7 @@
 					</sense>
 				</dictScrap>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="cuvânt.internațional"/><term xml:lang="" type="unknown" subtype="unknown"/>
 				</etym>
 			</entry>
 		</body>

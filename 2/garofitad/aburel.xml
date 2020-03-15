@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ec1e03b-ae26-45cd-a734-47fbe55e85b5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-18T12:29:39+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburel</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURÉL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-286f8e6c-0f18-4f7a-b6e0-43e3222e5261" n="">
+						<sense xml:id="uuid-a53b6be0-faba-425a-a4c9-1d9c2ccfe791" n="1.">
+							<sense xml:id="uuid-b926376f-dc4f-4722-b561-635afc868121" n="✦">
+								<def xml:id="id"/>
+								<xr type="syn" corresp="#id">
+									<ptr target="Vântuleț"/>
+								</xr>
+								<xr type="syn" corresp="#id">
+									<ptr target="boare (1)"/>
+								</xr>
+								<cit type="unknown">
+									<quote>Sensul fundamental, ca și pentru întreaga familie a lui
+										abur, fiind „suflare”, abureală este aproape sinonim cu
+										aburel și cu borilă.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+										<date>1887</date>
+										<citedRange>107, s. v. <hi rend="italic">abureală</hi></citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Deosebitele vânturi se cheamă: crivăț, austru, vârtej,
+										furtună și <hi rend="bold">aburel</hi>, când este prea
+										mic.</quote>
+									<bibl type="ap.">
+										<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+										<date>1887</date>
+										<citedRange>107</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Suflare ușoară.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">METEOR.</seg>
+								<seg type="time" rend="usg">Înv.</seg>,<seg type="plev" rend="usg">
+									rar </seg></usg>
+							<cit type="unknown">DOSOFTEI<quote>Priimițiu roaâ a Duhului svântu, roâ
+									înfocată, roaâ nu umădă și cu aburelu de vântu pemintescu, ce
+									roaâ înfocată cu <hi rend="bold">aburelu </hi>dumnedzăescu ce
+									suflă cu focu.</quote><bibl type="ap.">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1683</date>
+									<citedRange>107</citedRange>
+								</bibl></cit>
+						</sense>
+						<sense xml:id="uuid-9cca0b86-3ccb-4eaf-a7ef-bca764e1fc7a" n="2.">
+							<def xml:id="id">Diminutiv al lui <hi rend="spaced">nor</hi>;</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="norișor"/>
+							</xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+									<date>1857</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-b7367dcb-c16d-4fb6-a6ec-84c925d2d578">Diminutiv al lui <hi rend="spaced">abur</hi> (<hi rend="bold">2</hi>).</def>
+						<usg corresp="#uuid-b7367dcb-c16d-4fb6-a6ec-84c925d2d578"><seg type="time" rend="usg">Înv.</seg> și <seg type="geo" rend="usg">reg.</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c23cc100-d78c-4bd6-b294-9dc5849f9eb7" n="">
+						<def xml:id="uuid-7ad67751-c3e3-4326-8bd5-2e8b0817775e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburele</number>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburei</number>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<bibl type="unknown">
+							<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+							<date>1900</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def>aborél</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="abur"/><term xml:lang="" type="sufix" subtype="unknown">-el</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-40cb5362-724f-269a-24da-bf8c431d4c14">jahres</ptr>
+						<date>165</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

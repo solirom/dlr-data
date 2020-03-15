@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-cc528216-675d-455e-af34-8a85d5b1f071" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-12T13:21:54+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abhorat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABHORÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5b519b00-aa51-443c-b21c-09f392d59274" n="">
+						<def xml:id="uuid-10048f71-9ec7-43aa-be8e-84d40d7e2faa"/>
+						<usg corresp="#uuid-10048f71-9ec7-43aa-be8e-84d40d7e2faa"><seg type="register style" rend="usg">Livr.</seg> (Despre oameni și
+							manifestările lor)</usg>
+						<xr type="remote-syn" corresp="#uuid-10048f71-9ec7-43aa-be8e-84d40d7e2faa">
+							<ptr target="Detestat"/>
+						</xr>
+						<cit type="unknown">
+							<quote>D-lor deputaţi, sosisem acum la epoca foarte interesantă când
+								domnul Vernescu, intrând în minister cu junimiştii <hi rend="bold">abhoraţi</hi>, a pierdut dreptul de a-i învinui pentru păcatele
+								lor din trecut.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6ecc73b4-1709-1961-9a71-055f740d07c4">lahov</ptr>
+								<date>1889</date>
+								<citedRange>224</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dar această materie agresivă, fascinantă şi <hi rend="bold">abhorată</hi>, se relevă la M. Blecher nu numai ca ceva
+								ameninţător, în „bizara aventură”, ci şi, în reversul ei, drept ceva
+								precar şi inexistent – adică, mai precis, surprinsă în aneantizarea
+								ei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5d868578-03f2-42f7-4a16-d0a443031140">negoiț</ptr>
+								<date>1970</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Printre procedeele satirice mânuite cu brio de Villiers se numără
+								şi invenţia onomastică. Personajele <hi rend="bold">abhorate</hi> se
+								numesc Bathybius Bottom („Maşina gloriei”), Schneitzoeffer,
+								Chavassus, Bonhomet.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f309bab-47f1-8b85-759e-8d78e7353495">hoban</ptr>
+								<date>1986</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c5d5a09e-fefc-404e-9a18-0af8feb1739c" n="">
+						<def xml:id="uuid-e21fb1f5-0834-4ab3-85f6-2c9c14f9de74"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abhoraţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abhora"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

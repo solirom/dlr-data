@@ -39,6 +39,20 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-29988005-908b-4b55-acc5-3dd665d07f2b" n="">
+						<sense xml:id="uuid-3dc96d19-c263-4aa9-8b52-d509533b3d9b" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(Atribuind calitatea ca un adjectiv)</usg>
+							<cit type="unknown">
+								<quote>S-au găsât breasla negustorilor <hi rend="bold">abăgeri</hi>
+									pe cari i-am primit alăturați cititori ca însăși noi, dându-le
+									toată voia și putere ca să facă această sfântă biserică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-87cfd2be-a48d-2108-90dc-29385a738b83">bârl</ptr>
+									<date>1810</date>
+									<citedRange>192</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<def xml:id="uuid-5d507fdc-0cfa-4a83-a733-90047cc91884"/>
 						<usg corresp="#uuid-5d507fdc-0cfa-4a83-a733-90047cc91884">
 							<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi></seg>
@@ -97,17 +111,6 @@
 								<ptr target="#uuid-fef5c197-3783-7244-825e-b22ba6810615">uricariu</ptr>
 								<date>1792</date>
 								<citedRange>135/27</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>S-au găsât breasla negustorilor <hi rend="bold">abăgeri</hi> pe
-								cari i-am primit alăturați cititori ca însăși noi, dându-le toată
-								voia și putere ca să facă această sfântă biserică.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-87cfd2be-a48d-2108-90dc-29385a738b83">doc.
-									bâ</ptr>
-								<date>1810</date>
-								<citedRange>192</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -191,7 +194,7 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abăgeár</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -202,7 +205,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abăgér</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -213,7 +216,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abagériu</def>
 					<gramGrp>
 						<pos value="s."/>

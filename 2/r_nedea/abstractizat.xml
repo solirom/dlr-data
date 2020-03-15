@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-aa3eedd3-f4a2-41ff-a037-868a8cda150f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-05T14:36:45+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractizat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTIZÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6eb826fe-75af-4f50-ae0f-ef3497b15579" n="">
+						<def xml:id="uuid-0b409aa3-5fe1-4b94-ac24-98ec22b0beeb">Care rezultă din
+							operația de abstractizare.</def>
+						<cit type="unknown">
+							<quote>Goticul cu formele sale <hi rend="bold">abstractizate</hi>, cu
+								materia sublimată, cu liniile ţâşnite spre cer… înseamnă înainte de
+								orice un elan spiritual de jos în sus.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+								<date>1936</date>
+								<citedRange>157</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Artistul s-a folosit de scheme şi modele foarte variate, pe care
+								totuşi le-a contopit într-un stil omogen, în conţinut descriptiv şi
+								narativ, în morfologie prevalent hieratic şi <hi rend="bold">abstractizat</hi>, un stil caracteristic pentru concepţiile
+								artei feudale din această fază.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătăș</ptr>
+								<date>1967</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Idealismului speculativ, care lucra cu un om <hi rend="bold">abstractizat</hi>, cu o „conştiinţă” fără carne şi sânge,
+								Feuerbach i-a opus o antropologie materialistă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-041d132c-9288-1e69-220d-74816e095a5d">gulian</ptr>
+								<date>1975</date>
+								<citedRange>239</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstractizat</hi>, izolat de real,
+								„nonfigurativ”, acest tip de literatură a împins la extrem premizele
+								modernităţii, practic epuizându-le.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-105c9f65-637b-1daf-3b57-90b9bdd25127">nedelciu</ptr>
+								<date>1979</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c36e6ef3-1bc6-4095-96d3-13b53d98a202" n="">
+						<def xml:id="uuid-c735a0cd-7bd4-4508-a091-f45af6937e29"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstractizaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abstractiza"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

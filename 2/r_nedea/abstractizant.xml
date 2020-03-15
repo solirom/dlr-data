@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b532395b-3b62-448c-9d7d-cd13bf02edf7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-04T14:18:05+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractizant</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTIZÁNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6c839c71-5065-4d06-a17c-7215386e48fa" n="">
+						<def xml:id="uuid-5b73503a-59d3-455c-86a7-8218ca1d9fce">Care
+							abstractizează.</def>
+						<cit type="unknown">
+							<quote>Dacă facem o comparaţie între seria juvenilă
+								Rugăciunea-Sărutul-Capul de fetiţă şi seria <hi rend="bold">abstractizantă</hi> Himera-Socrate-Peştele se ilustrează
+								diferenţierea, aproape abisul transformărilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8cf00c8-9bd0-8a14-4515-0601aefe4ffc">pandrea</ptr>
+								<date>1945</date>
+								<citedRange>144</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Îi dăm pe deplin dreptate autorului să critice vocabularul
+								pestriț, <hi rend="bold">abstractizant</hi>, goana după rarități
+								lexicale și formularea confuză, prețioasă, a unor confrați ai
+								săi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ba180ef8-2684-7787-118f-3be06f143187">cl</ptr>
+								<date>1959</date>
+								<citedRange>IV, 216</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Artele noastre plastice au respins, în genere, influenţele
+								decadentismului <hi rend="bold">abstractizant</hi> şi uniformizator,
+								străin de viaţa caracteristică a poporului şi specificului său
+								naţional.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb2a30ef-9a0b-2281-873b-25f1e9ba081d">oprescu</ptr>
+								<date>1959</date>
+								<citedRange>205</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În mentalitatea omului despre care vorbim în această lucrare pare
+								că exista în multe cazuri o diferenţă între noţiunile de „cale” şi
+								„drum”. Limbajul său concret lasă loc unor diferenţe, unor nuanţe pe
+								care gândirea noastră <hi rend="bold">abstractizantă</hi> nu le
+								surprinde.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bfa628f5-a679-28b2-0617-e56f74eb9ce7">bernea</ptr>
+								<date>1985</date>
+								<citedRange>45</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Astfel de tipuri (Ceremonia sentimentală, Cotidianul feeric,
+								Fantazarea <hi rend="bold">abstractizantă</hi>, Viziunea ironică
+								etc.) sunt simple titluri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856e8768-1ca8-4b62-6ad6-c20fe6945842">sorescu</ptr>
+								<date>1985</date>
+								<citedRange>579</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-947bf79b-01b4-41dc-a4e8-d834db15923e" n="">
+						<def xml:id="uuid-c0656f72-5aad-4141-915c-343b03f79052"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstractizanţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abstractiza"/><term xml:lang="" type="sufix" subtype="unknown">-ant</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-63540be5-6f6a-876e-00b0-0a2d4ad99c87">dex</ptr>
+						<date>1988</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

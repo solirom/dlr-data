@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-37085bf7-b3ab-43bb-a0a6-9a59f5ace514" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-12T12:14:02+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abhazic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABHÁZIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b0439faa-8d63-48cf-a962-d1cdc0edae6f" n="">
+						<def xml:id="uuid-a1434eea-2dc9-41dc-b657-b75c125ea747"/>
+						<usg corresp="#uuid-a1434eea-2dc9-41dc-b657-b75c125ea747"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-a1434eea-2dc9-41dc-b657-b75c125ea747">
+							<ptr target="Abhaz (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Din Asia se vestesc încăierări uşoare şi bombardamente pe
+								ţărmurii mării locuite de triburi <hi rend="bold">abhazice</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">emines</ptr>
+								<date>1877</date>
+								<citedRange>379</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-5fd44648-e908-4348-80ad-29c402e5095e" n="">
+						<def xml:id="uuid-09c2d23f-9157-4f6c-96b8-6a4cf7fd3a8f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abhazici,-ce</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">abchasisch</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

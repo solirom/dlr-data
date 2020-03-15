@@ -1,0 +1,311 @@
+<!----><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0e8de96d-f82d-41c3-addc-0ed17d39d02d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-25T14:14:19+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abductor</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDUCTÓR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-1d6e602d-3c1f-43b3-b50a-562621d65f3d" n="">
+						<sense xml:id="uuid-a3935932-290f-4606-b643-3b102cd3b85c" n="">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ANAT.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Muşchi abductor</term>
+							</form>
+							<def xml:id="id">muşchi care permite, care realizează mișcarea de
+								abducție.</def>
+							<cit type="unknown">
+								<quote>Artira plantera cea internă, se dirigează pe marginea de din
+									afară a muşchiului <hi rend="bold">abductoru</hi> al degetului
+									celui mare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">anat</ptr>
+									<date>1843</date>
+									<citedRange>401</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>M[ușchiul] <hi rend="bold">abductorul</hi> lung al degetului
+									mare resare de pă fața ecsternă a antebrațului și de pă
+									ligam[entul] interosos și se prinde de basa metacarpienului
+									degetului mare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a4b22d26-48a8-236c-96e6-3d4d319b23af">poliz</ptr>
+									<date>1859</date>
+									<citedRange>65</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Muşchi aductori şi <hi rend="bold">abductori</hi> deschid şi
+									închid cochilia.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+									<date>1937</date>
+									<citedRange>487</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-3c75337b-806c-4844-a716-cff1f3bd5ab9" n="">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Tub abductor</term>
+							</form>
+							<def xml:id="id">tub prin intermediul căruia pot fi absorbite gazele
+								rezultate dintr-o reacţie chimică.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">TEHN.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Se introduce ... un tub <hi rend="bold">abductor</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d6773f88-2ad6-0475-85ad-c29d595422c3">arh</ptr>
+									<date>1890</date>
+									<citedRange>II, 146</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d509b65b-8663-4283-943b-fcb061dbebb2" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Aceşti muşchi ... se împart în muşchii între-osoşii cei
+									dorsali şi cei palmeri. În fiecare spaţiu se află câte doi, unul
+									dorsal şi altul palmer, prin urmare ar trebui să fie opt, cel
+									dintâiu însă palmer s-a descris subt numirea de <hi rend="bold">abducătorul</hi> degetului celui mare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kret</ptr>
+									<date>1843</date>
+									<citedRange>235</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-53ca414e-8b14-436b-ac98-94382b08c7a7">Care servește la
+							abducție.</def>
+						<usg corresp="#uuid-53ca414e-8b14-436b-ac98-94382b08c7a7">
+							<seg type="dom" rend="usg">MED.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+								<date>1969</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">vet</ptr>
+								<date>1969</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6b3eb33d-8599-4498-a1b7-b7e750fbcb78" n="">
+						<def xml:id="uuid-04d4f73e-aa9f-4257-a525-c0b236eca5fb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-OÁRE</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abductori</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					</usg>
+					<def>abducătór, -oáre</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					</usg>
+					<def>abductóriu, -ie</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abducteur</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">ant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr>
+						<date>2005</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

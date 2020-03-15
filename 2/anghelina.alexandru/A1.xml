@@ -44,6 +44,10 @@
 								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 								<term>De la a până la z</term>
 							</form>
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>De la a la zed</term>
+							</form>
 							<def xml:id="id">de la început până la sfârşit; totul, în
 								întregime.</def>
 							<cit type="unknown">
@@ -66,9 +70,19 @@
 									<citedRange>95</citedRange>
 								</bibl>
 							</cit>
+							<cit type="▭">
+								<quote>Obiective turistice <hi rend="bold">de la a la
+									z</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
 						</sense>
 						<def xml:id="uuid-3c9c6a67-663c-41d7-af2f-cecc2cb89c0e">Prima literă a
-							alfabetului limbii române (A majusculă; a minusculă);</def>
+							alfabetului limbii române (A majusculă sau A mare; a minusculă sau a
+							mic);</def>
 						<def xml:id="uuid-9726294a-5f85-4a87-a601-84d93c7efe3f">sunet notat cu
 							această literă (vocală deschisă nerotunjită medială).</def>
 						<cit type="unknown">
@@ -103,6 +117,14 @@
 									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
 									<date>&lt;1875-1876&gt;</date>
 									<citedRange>90</citedRange>
+								</bibl>
+							</cit>
+							<cit type="▭">
+								<quote>Alineatul <hi rend="bold">A</hi>. Seria <hi rend="bold">A</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
 								</bibl>
 							</cit>
 						</sense>
@@ -142,9 +164,10 @@
 							<cit type="unknown">
 								<quote>A [=] numele primului sunet al gamei în nomenclatura
 									alfabetică provenită de la latini prin intermediul
-									teoreticienilor din ev. mediu. În teoriile muzicale anglo-germ.
-									actuale, <hi rend="bold">a</hi> este echivalentul lui <hi rend="bold">la</hi>. La popoarele romanice litrele au fost
-									înlocuite în solomizare prin silabe (A= la).</quote>
+									teoreticienilor din Ev[ul] Mediu. În teoriile muzicale
+									anglo-germ. actuale, <hi rend="bold">a</hi> este echivalentul
+									lui <hi rend="bold">la</hi>. La popoarele romanice litrele au
+									fost înlocuite în solomizare prin silabe (A= la).</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-bb9d2336-112f-644b-7d25-586ea2a0a6f4">term.
 										muz</ptr>
@@ -183,25 +206,17 @@
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">FIZ.</seg> (<seg type="plev" rend="usg">Notat cu Å</seg>)</usg>
 							<cit type="unknown">
-								<quote/>
+								<quote>Unitate de lungime întrebuințată în spectroscopie : 1 Å =
+										10<hi rend="superscript">-8</hi> cm.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
 									<date>1949</date>
-									<citedRange/>
-								</bibl>
-							</cit>
-							<cit type="unknown">
-								<quote/>
-								<bibl type="unknown">
-									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
-										fiz</ptr>
-									<date>1972</date>
-									<citedRange/>
+									<citedRange>s. v. <hi rend="italic">ångstrom</hi></citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-44ebe164-fea9-4847-b202-2325ffec183b" n="e)">
-							<def xml:id="id">Arie<hi rend="superscript">2</hi>.</def>
+							<def xml:id="id">Arie.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
@@ -231,12 +246,12 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-143a1dc7-9834-45c0-89b4-310bf73d6fbe" n="f)">
-							<def xml:id="id">Una dintre vitamine. Vitamina A.</def>
+							<def xml:id="id">Una dintre vitamine.</def>
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">CHIM.</seg>
 							</usg>
 							<cit type="unknown">
-								<quote/>
+								<quote>Izomer natural al vitaminei <hi rend="bold">A</hi>.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
 										chim</ptr>
@@ -311,8 +326,8 @@
 								celei următoare: A1, A2, A3, A4 etc.</def>
 							<usg corresp="#id">(<seg type="coloc" rend="usg">Urmat de un numeral
 									cardinal</seg>)</usg>
-							<cit type="unknown">
-								<quote/>
+							<cit type="▭">
+								<quote>La imprimanta nouă folosim numai coli <hi rend="bold">A</hi>4.</quote>
 								<bibl type="unknown">
 									<ptr target="unknown"/>
 									<date/>
@@ -324,8 +339,9 @@
 							<def xml:id="id">Cea mai mare notă acordată elevilor și studenților în
 								unele sisteme de evaluare sau cel mai mare dintre calificative
 								într-o anumită evaluare.</def>
-							<cit type="unknown">
-								<quote/>
+							<cit type="▭">
+								<quote>În școlile și uiversitățile americane elevii cei mai buni
+									sunt notați cu A.</quote>
 								<bibl type="unknown">
 									<ptr target="unknown"/>
 									<date/>
@@ -372,9 +388,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-49be1a3c-53a4-5137-2e8a-1b6ce5fe2583">clemens</ptr>
 						<date>1823</date>
-						<citedRange>
-                            <hi rend="superscript"/>
-                        </citedRange>
+						<citedRange> </citedRange>
 					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>

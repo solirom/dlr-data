@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ecf515e2-fed9-406d-80a4-ce99fc5015c6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-04T11:45:14+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abenaki</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABENAKI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ee474ead-ef64-4a30-8658-90503ab12786" n="">
+						<def xml:id="uuid-758654e0-f326-4ff9-a4b4-1a6b6220b79f">Populație aparținând
+							unor triburi amerindiene din centrul regiunii Quebec, în Canada, ai
+							cărei urmași se întâlnesc și astăzi în număr foarte mic.</def>
+						<usg corresp="#uuid-758654e0-f326-4ff9-a4b4-1a6b6220b79f"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0f04611b-ace3-438b-b611-e10a1797bf98" n="">
+						<def xml:id="uuid-efbb00c7-e6b8-4534-97d6-7f6b79ce8bad"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<etym cert="high">
+					<idno type="cuvânt.internațional"/><term xml:lang="" type="unknown" subtype="unknown"/>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abénaquis</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="en" type="unknown" subtype="unknown">Abenaki</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

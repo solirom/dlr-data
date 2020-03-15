@@ -61,6 +61,165 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-baeeac02-c0c8-4a80-95c3-fc96c18b705e" n="2.">
+						<sense xml:id="uuid-82dfc0c4-e6c8-4ea0-b0e3-7f2b8161b928" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="gram" rend="usg">Refl. pas.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Gazele ce <hi rend="bold">se absorbă</hi> în cuantitate mare
+									de cărbune sânt cele mai solubile în apă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0004de07-6d28-5356-a2b8-82b865288fe8">marin</ptr>
+									<date>1852</date>
+									<citedRange>49/22</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Praful rămas netopit <hi rend="bold">se absoarbe</hi>
+									printr-un tub de aspiraţie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-980e1a6e-1fe6-6acc-a3df-5e25770f51f8">ioanovici</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-67eb5965-1425-4eaa-8bb9-fb759e903df9" n="✦">
+							<def xml:id="id">A dispărea.</def>
+							<usg corresp="#id">
+								<seg type="gram" rend="usg">Refl.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Abcesul a început <hi rend="bold">să se
+									absoarbă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+									<date>2006</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7f4f189e-98a2-42d4-a7e9-c10ac820c673" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Celula seminală, când se desvoltă, reproduce întocmai, până
+									în cele mai mici amănunte, forma specifică a organismului din
+									care a provenit – şi o reproduce cu materia străină, fără formă
+									definită, pe care o <hi rend="bold">absoarbe</hi>, treptat, din
+									mediul înconjurător.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negulescu</ptr>
+									<date>1934</date>
+									<citedRange>418</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-41fb7de4-4cb1-40df-b23f-14b515685695" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>În fiecare rus un fel de Dumnezeu există oricum, chiar în
+									negaţiune totală: râvna de închinător, <hi rend="bold">absorbită</hi> într-o iluzie halucinată.</quote>
+								<bibl type="în">
+									<ptr target="unknown">arghezi</ptr>
+									<date>1906</date>
+									<citedRange>Scrieri, XVII, 147</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Coco, care <hi rend="bold">absorbise</hi> odinioară
+									sictirurile tuturor haimanalelor ..., nu mai contenea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-28ca7e44-2986-32f6-6d30-a4da7c6756a8">teodorean</ptr>
+									<date>1926</date>
+									<citedRange>24</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În faţa unei mişcări care pare de tot sinceră, este totdeauna
+									de gândit dacă nu-i efectul unui calcul abil; interesul stă doar
+									veşnic gata <hi rend="bold">să absoarbă</hi> toate pornirile
+									virtuoase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<date>1934</date>
+									<citedRange>376</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toate tristeţile, bolile şi nefericirile altora le-<hi rend="bold">am absorbit</hi> în mine în măsura în care le-am
+									redus la alţii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75a42ba7-3198-6544-1c67-1adb315a9cfa">cioran</ptr>
+									<date>1936</date>
+									<citedRange>45</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cine nu este în stare să răspundă cu acest ecou artei, nu o
+									poate <hi rend="bold">absorbi</hi> în toată multiplicitatea
+									intenţiilor ei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ab39bf1d-95d0-19b8-85af-00da243e1df4">vianu</ptr>
+									<date>1936</date>
+									<citedRange>352</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am merge în oraș … <hi rend="bold">să absorbim</hi> aerul
+									unei lumi unde nimenea din noi n-a mai fost.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-84dd596c-3c1f-a365-a2f6-96931e62169a">tudoran</ptr>
+									<date>1966</date>
+									<citedRange>152</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îi <hi rend="bold">absorbeam</hi> doar cuvintele, ca un
+									burete foarte uscat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">ivasiuc</ptr>
+									<date>1968</date>
+									<citedRange>110</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Matei] <hi rend="bold">absorbea</hi> prin toate fibrele
+									prezența ei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">r.
+										petrescu</ptr>
+									<date>1970</date>
+									<citedRange>75</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Realitatea etnografică din care s-a putut naşte forma primă a
+									,,Mioriţei” era de natură a o face pe aceasta aptă de <hi rend="bold">a absorbi</hi> sensul marilor mituri ale morţii
+									şi regenerării.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2">paleologu</ptr>
+									<date>1978</date>
+									<citedRange>158</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Iason, în ochii mei, reprezenta substanţa altui cerc şi
+									n-aveam de gând să-i <hi rend="bold">absorb</hi>
+									ostilitatea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a1c5a1a8-3f96-05fc-8282-1c2af35b1e6f">naum</ptr>
+									<date>1985</date>
+									<citedRange>14</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<gramGrp>
 							<pos value="vb."/>
 							<iType value="IV"/>
@@ -68,7 +227,7 @@
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="id">A face să pătrundă, a reține un lichid, un gaz etc. în
-							interiorul său</def>
+							interiorul său.</def>
 						<xr type="syn" corresp="#id">
 							<ptr target="a prelua (2)"/>
 						</xr>

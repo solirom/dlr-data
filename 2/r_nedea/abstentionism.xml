@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-61d39f13-59f4-4f14-ba2f-3f49a51b42c1" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-19T16:55:13+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstentionism</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTENŢIONÍSM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-842f2e4c-70aa-471b-8ad7-1b4f58ba898c" n="">
+						<def xml:id="uuid-4faa4364-0afd-429a-aad6-e86b5cc4f5c2">Abţinere de la
+							exercitarea dreptului de vot a unei părți a electoratului;</def>
+						<def xml:id="uuid-38567b55-c1d8-4686-80df-e1168d16811e">doctrină care
+							promovează o astfel de atitudine.</def>
+						<usg corresp="#uuid-38567b55-c1d8-4686-80df-e1168d16811e">
+							<seg type="sem" rend="usg">p. ext.</seg>
+						</usg>
+						<usg corresp="#uuid-4faa4364-0afd-429a-aad6-e86b5cc4f5c2">
+							<seg type="dom" rend="usg">POLIT.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+								<date>1962</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-86ca3ab0-3882-90be-613c-dbedfcd1328e">d.
+									pol</ptr>
+								<date>1975</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">m. d.
+									jur</ptr>
+								<date>1999</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Alegerile parlamentare din Franța au avut loc sub semnul celei
+								mai mari rate de <hi rend="bold">abstenționism</hi> din 1958
+								încoace.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d3abe320-ade3-4e13-bc86-6ce51c1a87b3" n="">
+						<def xml:id="uuid-a29dd17c-dc52-4fb3-b44d-6c4bce67f0eb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstentionnisme</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831">mde</ptr>
+						<date>1972</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

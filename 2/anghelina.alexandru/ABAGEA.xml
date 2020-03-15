@@ -37,7 +37,6 @@
 						<def xml:id="uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">Deschizătură în
 							formă de ferestruică în acoperișul caselor țărănești, al unei șuri etc.,
 							care servește drept horn;</def>
-						<usg corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6"><seg type="time" rend="usg">Înv.</seg> și <hi rend="italic"><seg type="register style" rend="usg">pop.</seg></hi></usg>
 						<xr type="syn" corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">
 							<ptr target="bageac"/>
 						</xr>
@@ -91,6 +90,11 @@
 				<re type="lexical-variant-section">
 					<usg>(<seg type="gram" rend="usg">cu schimbare de suf.</seg>)</usg>
 					<def>abagícă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-224bee0c-a38e-971f-3023-489526b49634">anchete</ptr>
+						<date/>
+						<citedRange>28, 33, 35</citedRange>
+					</bibl>
 					<gramGrp>
 						<pos value="s."/>
 						<gen value="f."/>

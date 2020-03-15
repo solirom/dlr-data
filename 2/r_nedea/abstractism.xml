@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e1f41716-8f18-445e-ba8e-85a30bf37d02" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T13:14:18+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractism</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTÍSM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0ccc3c0a-68bd-4a09-8b26-f39988301329" n="">
+						<def xml:id="uuid-14629099-a14d-43a6-9a78-01434a4b1ebe">Artă
+							abstractă;</def>
+						<def xml:id="uuid-bd5b1e5d-026b-4cd6-a554-484f489dba44">caracter abstract al
+							unei opere de artă.</def>
+						<usg corresp="#uuid-bd5b1e5d-026b-4cd6-a554-484f489dba44">
+							<seg type="sem" rend="usg">p. restr.</seg>
+						</usg>
+						<usg corresp="#uuid-14629099-a14d-43a6-9a78-01434a4b1ebe"><seg type="dom" rend="usg">A. PLAST.</seg>,<seg type="register style" rend="usg">Livr.</seg></usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstractismul</hi>, denumit şi cubism de cei cari
+								greşesc, înseamnă întâi liberarea picturii de aspectele vieţii şi de
+								semnele din afară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-27d5af20-43bd-2d40-63b5-0edcda5c91fc">vinea</ptr>
+								<date>1922</date>
+								<citedRange>301</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La aceste monumente se remarcă un <hi rend="bold">abstractism</hi> accentuat şi o evidentă orientalizare a
+								formelor, care duc la ruptura definitivă de cultura artistică
+								elenistic romană.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">drimba</ptr>
+								<date>1987</date>
+								<citedRange>225</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-330098d3-cd24-4634-bb6e-5d3bcdf52f75" n="">
+						<def xml:id="uuid-8e5d2c4c-f27c-4dea-9e31-2f036a58524a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abstract"/><term xml:lang="" type="sufix" subtype="unknown">-ism</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="en" type="unknown" subtype="unknown">abstractism</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

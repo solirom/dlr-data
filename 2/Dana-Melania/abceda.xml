@@ -32,11 +32,17 @@
 				<gramGrp>
 					<pos value="vb."/>
 					<iType value="I"/>
-					<subc value="intranz."/>
+					<subc value=""/>
 					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-4571cb0f-ecd2-460e-a52a-7c4c243d6158" n="">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
 						<def xml:id="uuid-4d4b60bd-f597-4b28-aae4-e9e9306d2a4d">A forma un
 							abces;</def>
 						<def xml:id="uuid-28779129-c648-45dc-aa76-93b25807943b">a se transforma în

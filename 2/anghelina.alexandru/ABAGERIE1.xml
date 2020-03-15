@@ -174,7 +174,7 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abăgerie</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -185,7 +185,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abajeríe</def>
 					<gramGrp>
 						<pos value="s."/>

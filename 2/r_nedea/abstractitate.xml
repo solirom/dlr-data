@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f885fb14-9ff9-4f83-961f-2966c6ad02a3" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T16:30:49+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractitate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTITÁTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0d8fb64f-fe07-47f2-8449-2d0a29e88990" n="">
+						<def xml:id="uuid-0cb885c1-9266-42e4-8068-5c825cd16ecd">Caracter
+							abstract.</def>
+						<usg corresp="#uuid-0cb885c1-9266-42e4-8068-5c825cd16ecd"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi
+							rar</seg></usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstractitatea</hi> noastră șterge toată coloarea
+								vieței din lume.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be">conv.</ptr>
+								<date>1870</date>
+								<citedRange>IV, 20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vom desluşi … <hi rend="bold">abstractitatea</hi> semantică a
+								Noţiunii şi materialitatea fonetică a Numelui, tendinţa noţiunilor
+								de a se grupa în structuri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b4cfa0ba-2e54-2be7-1ea0-e4064d6f128b">stănescu</ptr>
+								<date>1972</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8599268c-7fc3-4300-b5ad-d83951a52b73" n="">
+						<def xml:id="uuid-f4bd0247-2720-45a1-ad0b-033b0ace0a5b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abstract"/><term xml:lang="" type="sufix" subtype="unknown">-itate</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

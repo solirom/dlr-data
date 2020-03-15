@@ -247,8 +247,7 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>Mutktar-Pașa pare a fi acum <hi rend="bold">abandonat</hi> pe
-								mâna muntenegrenilor.</quote>
+							<quote>Mutktar-Pașa pare <hi rend="bold">a fi</hi> acum <hi rend="bold">abandonat</hi> pe mâna muntenegrenilor.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">eminescu</ptr>
 								<date>1876</date>
@@ -416,7 +415,7 @@
 						<def xml:id="id">A se lăsa copleșit de un sentiment, de o emoție, de o
 							preocupare:</def>
 						<def xml:id="uuid-9e76e8d0-c9cf-4365-bacd-fe72bb73fc0b">a se lăsa la voia
-							întâmplării, a se delăsa.</def>
+							întâmplării, a se delăsa (<hi rend="bold">2</hi>).</def>
 						<cit type="unknown">
 							<quote>Spiritul meu, în acele momente, <hi rend="bold">se
 									abandonase</hi> cu totul în imperiul unor idei şi sentimente pe
@@ -514,7 +513,7 @@
 						<usg corresp="#id">(<seg type="gram" rend="usg">Folosit și <hi rend="spaced">absol.</hi></seg>) <seg type="dom" rend="usg">SPORT</seg></usg>
 						<cit type="unknown">
 							<quote>Într-o veritabilă catacombă, John Ngugi, <hi rend="bold">a
-									abandonat</hi> în turul 8 al cursei de 10000 m.</quote>
+									abandonat</hi> în turul 8 al cursei de 10 000 m.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-69ccbedc-501b-5ff4-6be6-db88fb33328a">g.
 									sport</ptr>

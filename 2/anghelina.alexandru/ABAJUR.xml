@@ -201,11 +201,11 @@
 				</dictScrap>
 				<form type="writing">
 					<oVar>abat-jour</oVar>
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 				</form>
 				<form type="writing">
 					<oVar>abatjour</oVar>
-					<usg><hi rend="italic">(</hi><seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="plev" rend="usg">rar</seg></usg>
 				</form>
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
@@ -215,11 +215,11 @@
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
 						<number>abajure</number>
-						<usg><hi rend="italic">(</hi><seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+						<usg><seg type="plev" rend="usg">rar</seg></usg>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<usg><hi rend="italic"><seg type="register style" rend="usg">reg.</seg></hi></usg>
 					<def>abajór</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
@@ -235,7 +235,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<usg><hi rend="italic"><seg type="register style" rend="usg">reg.</seg></hi></usg>
 					<def>abăjúr</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
@@ -251,7 +251,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="register style" rend="usg">reg.</seg></usg>
 					<def>ambajúr</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
@@ -267,7 +267,7 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="register style" rend="usg">reg.</seg><hi rend="italic">)</hi></usg>
+					<usg><seg type="register style" rend="usg">reg.</seg></usg>
 					<def>bujuór</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>

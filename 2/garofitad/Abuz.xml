@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>garofitad</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,17 +25,319 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="">abuz</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÚZ</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-97e6d4b2-3589-45f9-990a-bf796b59ada4" n="">
-						<def xml:id="uuid-850802e9-d1f5-47a2-92f1-523103e303de"/>
+					<sense xml:id="uuid-97e6d4b2-3589-45f9-990a-bf796b59ada4" n="1.">
+						<sense xml:id="uuid-66ad98db-c5af-40b0-94b6-69d1de3b0ef3" n="✦">
+							<def xml:id="id">Eroare care constă în exagerarea unui fapt, a unei
+								păreri etc.</def>
+							<cit type="unknown">
+								<quote>Pe timpul acela se făcuse atâta <hi rend="bold">abuz </hi>de
+									asasinarea prin otravă (cardinalii, invitați de Papă la
+									banchetele de la Vatican, veneau uneori cu vinul lor de acasă,
+									de frica acelorași otrăvuri), încât opinia publică nu mai credea
+									în moartea naturală a soției unui Senior ca Sigismondo.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a552ce3b-4447-1212-4ae6-9593b6891285">marcu</ptr>
+									<date>1939</date>
+									<citedRange>60</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-850802e9-d1f5-47a2-92f1-523103e303de">Întrebuințare
+							greșită a unui lucru, mod incorect de a se folosi de o stare de fapt, de
+							o situație etc.;</def>
+						<def xml:id="uuid-b5c6d9b0-a846-4c87-8ba7-9b3873f17d54">faptă
+							incorectă.</def>
+						<cit type="unknown">
+							<quote>La această pronunție [a lui e] a intrat un <hi rend="bold">abuz
+								</hi>neiertat, mai vârtos la muntenii noștri, cari prea ridică
+								tonul, făcându-l mai asemene cu „a” chiar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-645eaab2-07d7-2d18-5321-0898777451d5">budai</ptr>
+								<date>1815</date>
+								<citedRange>580</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Faci <hi rend="bold">abuz</hi> de tinerețea dumitale. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9f517c4c-92d7-0d37-4340-19f15636459e">alecsandr</ptr>
+								<date>1841</date>
+								<citedRange>316</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Cei proști defaimă religia în locul<hi rend="bold">
+									abuzurilor</hi> ei, cei înțelepți o îndreptez din strâmbăturile
+								ei, iar cei cuvioși sufletești, culeg roadele, iar nu surcelile
+								ei!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ebcf6630-0337-84e2-989f-4eb070ed621a">episcupesc</ptr>
+								<date>1843</date>
+								<citedRange>285/22</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La 1787, Nicolai Petre Mavrogheni făcu oarecare îmbunătăţiri în
+								oştire, hotărând şi lefile slujbaşilor şi precurmând <hi rend="bold">abuzurile</hi> ce se introduseseră. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd4fa00e-a624-5970-8c5f-3673e1be2c56">bălcescu</ptr>
+								<date>1844</date>
+								<citedRange>74</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul </hi>facultăților noastre nu e nicidecum o
+								lege a naturii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ca9621c5-1069-82bd-41aa-dc11514a2a0f">negulici</ptr>
+								<date>1846</date>
+								<citedRange>74/17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adesea [Euripide] a făcut un <hi rend="bold">abus</hi> cu
+								sentințele și cu tiradele sale philosophice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<date>&lt;1844–1847&gt; </date>
+								<citedRange>314<hi rend="superscript">2</hi>/27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul</hi> de elemente locale a creat buchetul
+								de romane în serie (mai târziu, filme), în care, invariabil,
+								ninsorile unei ierni decorative se scutură peste eroi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6">botta</ptr>
+								<date>1932</date>
+								<citedRange>240</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Păcatul poeziei lui Jebeleanu e vechi …: sonoritate goală,<hi rend="bold"> abuz</hi> de plasticitate (imagine pentru imagine,
+								independentă de sensul lăuntric, nesubordonată și neintegrată în
+								niciun principiu superior de ordine). </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+								<date>1934</date>
+								<citedRange>100</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul</hi> acesta de ficțiuni și de fantastic,
+								chinuirea spiritului cu balauri și cu toți monștrii apocalipsului
+								n-au servit, poate, la nimic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3622d023-4de8-83f1-62ea-67c5a73735e4">noica</ptr>
+								<date>1934</date>
+								<citedRange>69</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am arătat<hi rend="bold"> abuzul </hi>care se face cu expresia
+								„cuvânt balcanic”, termen care nu explică nimic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcar</ptr>
+								<date>1940</date>
+								<citedRange>173</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Turburările din Principate coincizând cu mișcările revoluționare
+								din sudul Europei, au reținut atenția țarului, dar ceea ce l-a
+								surprins mai mult a fost atitutdinea autorităților (adică a
+								domnului) și <hi rend="bold">abuzul</hi> care s-a făcut de numele
+								Rusiei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțetea</ptr>
+								<date>1945</date>
+								<citedRange>187</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Chiar atunci când, din punct de vedere sintactic, prezența lui
+								„care” e justificată, <hi rend="bold">abuzul </hi>trebuie
+								evitat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b6090ac1-5551-3619-6763-205ff58c9166">gram</ptr>
+								<date>1954</date>
+								<citedRange>211</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată, fără <hi rend="bold">abuz</hi> de amănunte, câteva dintre
+								caracteristicile acestei limbi, necesare cititorului pentru o mai
+								corectă înțelegere a textului. </quote>
+							<bibl type="unknown">
+								<ptr target="">angh</ptr>
+								<date>1987</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie reflectat mai atent asupra acestui aspect esențial al
+								păcatului care este <hi rend="bold">abuzul</hi> geometric,
+								instrumentalizarea unei dihotomii monotone și nedrepte.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">pleșu</ptr>
+								<date>2003</date>
+								<citedRange>215</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-54a0f05b-b75e-46a4-927c-b767482723ff" n="2.">
+						<def xml:id="id">Folosire excesivă sau fără măsură a ceva;</def>
+						<xr type="syn" corresp="#id">
+							<ptr target="exces (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Petrecând în vălmășeală de foloasele lui cele adevărate, dă
+								mulțimea patimilor, a eresurilor și a<hi rend="bold"> abuzurilor
+								</hi>lui de strecăciune, depărtat de orânduiala viețuirii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c49050c7-6995-5904-4e3f-078fe44645eb">episcupescul</ptr>
+								<date>1837</date>
+								<citedRange>13/24</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cele mai mari vătămări a stomahului se fac prin <hi rend="bold">abuzu</hi>l în mâncare și băutură.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">albine</ptr>
+								<date>1838</date>
+								<citedRange>113/5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acest fel de dușă [de ploae mare] este folositor la slăbăciunea
+								nervilor, care rămâne după <hi rend="bold">abuzurile</hi> venerice
+								și după alte desfătări.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-766f4357-65ba-3cea-668f-dd6639e7a05f">fătu</ptr>
+								<date>1851</date>
+								<citedRange>34/21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul </hi>berii însă tâmpeşte mintea, încarcă
+								corpul cu o grăsime nesănătoasă şi-l dispune la trândăvie. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima</ptr>
+								<date>1888</date>
+								<citedRange>31</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul</hi> berii însă tâmpeşte mintea, încarcă
+								corpul cu o grăsime nesănătoasă şi-l dispune la trândăvie. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negulescu</ptr>
+								<date>1910</date>
+								<citedRange>160</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se face uz şi <hi rend="bold">abuz </hi>de mirodenii, al cărui
+								fum se suflă în barbă, la primire, la masă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb6a9694-10ec-1afb-1335-9a660a978881">iorga</ptr>
+								<date>1925</date>
+								<citedRange>304</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul</hi> însuși, pe de o parte, propaganda lui
+								Socrate de alta, au început să provoace degradarea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f0d82f5a-89a6-2a7d-91b4-c4fd36ac58de">papacostea</ptr>
+								<date>1934</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mai mult ca 3 ceșcuțe de cafea pe zi alcătuiește ceea ce se
+								cheamă un abuz.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-399f7bb5-16de-0f04-8597-d84eeca121b0">voiculescu</ptr>
+								<date>1935</date>
+								<citedRange>89</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzul</hi> alimentar sistematic poate determina
+								apariția altor boli.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b30adaa-71c6-64be-9966-b02ed5aa0432">s.
+									Mari</ptr>
+								<date>1946 (1936)</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Relațiile sentimentale dintre cei doi erau din ce în ce mai
+								aprinse. Felix o căuta pe Otilia cu oarecare imprudență, o ruga cu
+								ochii și o săruta furtiv. Fata, deși nu-l respingea, dădea gestului
+								o candoare fraternă, făcea astfel încât orice <hi rend="bold">abuz</hi> era înlăturat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-37abb81d-a152-487b-900e-a1933dbba3f3">călin</ptr>
+								<date>1938</date>
+								<citedRange>186</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Asta se cheamă<hi rend="bold"> abuz</hi> de găzduire.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+								<date>1964 (†)</date>
+								<citedRange>51</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nimeni, de foarte mult timp, nu se bate pentru renunțarea la
+								fumat, pentru evitarea <hi rend="bold">abuzurilor</hi> bahice și,
+								mai nou, pentru prevenirea diferitelor forme de drogomanii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">via</ptr>
+								<date>1991</date>
+								<citedRange>III, nr. 2, 1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuz</hi> de droguri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7426f1f1-22aa-5b8f-4354-d0999ff95270">d. enc.
+									psih</ptr>
+								<date>1992</date>
+								<citedRange>320</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5de7aa04-b281-4ae9-b156-f325fd07ea34" n="3.">
+						<def xml:id="id"/>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">JUR.</seg>
+						</usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -59,9 +361,44 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value=""/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg/>
+					<def/>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def/>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="comp"/>
 				</etym>
+				<etym cert="high">
+					<idno type="lat"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-84326128-616f-547d-0a10-20af3b25a725">zamfirescu</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

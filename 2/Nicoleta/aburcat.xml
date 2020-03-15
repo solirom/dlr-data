@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9ccf3529-17f6-4d9f-a50d-217e90a6a2f6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T13:18:58+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburcat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURCÁT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9fb1b8bb-4c8d-4529-8faf-517aeb9191b1" n="">
+						<def xml:id="uuid-8e69bd3c-216d-417a-8131-22b6a1a71066">Urcat, cățărat,
+							înălțat pe ceva.</def>
+						<usg corresp="#uuid-8e69bd3c-216d-417a-8131-22b6a1a71066"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi rar</seg>
+								(<seg type="hint" rend="usg">Despre plante</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<date>1887</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Floricelele mai multe pe o codiţă, au petalele gălbui pe faţa de
+								sus, dar verzi pe cea de dedesubt. Nu le ţine resfirate ci puţin <hi rend="bold">aburcate</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc">simionescu</ptr>
+								<date>1939</date>
+								<citedRange>14</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a0d811fa-d5c5-40e7-8d21-70b3d8ce06f1" n="">
+						<def xml:id="uuid-83f8154c-67a8-45d2-b804-ae0fa45c6a1c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburcaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat.postverbal"/><ptr targetLang="" type="unknown" subtype="unknown" target="aburca"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

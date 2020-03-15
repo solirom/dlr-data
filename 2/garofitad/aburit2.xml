@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-69f3a13d-08b7-4896-8943-afadf622a3a6" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-27T12:44:05+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="2">aburit2</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURĺT2, -Ă </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-edbb4c94-54f5-4ca5-a7c1-be2c482748f3" n="1">
+						<sense xml:id="uuid-8654ae60-18d5-446c-b01e-3989eb7cccb8" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="time" rend="usg"> Înv. </seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Friptură aburită</term>
+							</form>
+							<def xml:id="id">friptură rumenită şi cu miros plăcut.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+									<date>1887</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cb8df30d-5135-49e4-b987-28c741839610" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="time" rend="usg">Înv. </seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Vin aburit</term>
+							</form>
+							<def xml:id="id">vin tare şi aromatic.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+									<date>1887</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-580cf235-5f6b-4252-a6cd-0b8f91447993" n="✦">
+							<def xml:id="id"/>
+							<xr type="syn" corresp="#id">
+								<ptr target="Amețit"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="băut"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="cherchelit"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Menestrel trist, mai<hi rend="bold"> aburit</hi> Ca vinul
+									vechi ciocnit la nuntă ... Zi-mi de lapona Enigel.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c40248c4-0ee2-1038-7423-379669ab6810">barbu</ptr>
+									<date>1925</date>
+									<citedRange>26</citedRange>
+								</bibl>
+							</cit>
+							<cit type="✧ POP.">
+								<quote><hi rend="bold">Aborat</hi> la cap.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3df63102-0353-5850-8e97-b841e28163b6">NALR –
+										Ban</ptr>
+									<date> &lt;1969–1971&gt;</date>
+									<citedRange>h 186/59</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d5872021-b52f-4b99-80aa-f40d9018ce7b" n="✦">
+							<def xml:id="id"> Bătut.</def>
+							<usg corresp="#id">
+								<seg type="geo" rend="usg">Prin nord-estul Olt.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>S-a culcat <hi rend="bold">aburit(ă)</hi>. S-a culcat bătut
+									(după ce fusese bătut straşnic).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-edf18c32-6c21-5358-8bd9-c3118a118fac">ciaușa</ptr>
+									<date>1928</date>
+									<citedRange>139</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-65194b55-cc59-4301-a00f-a55a421fbd4e" n="✦">
+							<sense xml:id="uuid-d402f07b-ccc4-4f5f-b865-ecd3f502af7e" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="time" rend="usg">Înv.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Faţă aburită</term>
+								</form>
+								<def xml:id="id">faţă înroşită de emoţie</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+										<date>1887</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id"> Aprins la față (de supărare, de efort)</def>
+							<usg corresp="#id">
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="îmbujorat; "/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="înroșit"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="înfierbântat"/>
+							</xr>
+							<cit type="unknown">
+								<quote> Ian lasă ... nu te mai aprinde... destul de<hi rend="bold">
+										aburit</hi> ai vinit de‑afară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2d6d847e-366c-14e2-1162-0570aedb8d3c">alecsa</ptr>
+									<date>1869</date>
+									<citedRange>808</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Berta îşi făcu loc cu iuţeală spre stăpâna sa, aplecându-şi
+									delicat palmele pe fruntea ei <hi rend="bold">aburită</hi> şi pe
+									ochii închişi. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e15b21e9-20c6-7f9c-172a-990750120343">sadov</ptr>
+									<date>1931</date>
+									<citedRange>54</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-254310e0-6441-4fc6-aaef-027aac4dc72b">Care este plin de
+							aburi (<hi rend="bold">3</hi>), din care ies aburi.</def>
+						<usg corresp="#uuid-254310e0-6441-4fc6-aaef-027aac4dc72b"><seg type="time" rend="usg">Înv.</seg>
+							<seg type="hint" rend="usg">(Despre mâncăruri, băuturi</seg>)</usg>
+						<cit type="unknown">
+							<quote>Văzând gâscanul în ghiveci adus, <hi rend="bold">Aburit</hi>,
+								fierbinte ş-înainte-i pus.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4d5c224c-3f2f-016b-3c9f-907c5cb4073e">pann</ptr>
+								<date>1847</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-ac9280d0-f08d-4fa1-9cf5-265ad7e6fc1a" n="2.">
+						<sense xml:id="uuid-0a108184-d6aa-46dd-b72d-58b1ef38e677" n="✦">
+							<def xml:id="id"/>
+							<xr type="syn" corresp="#id">
+								<ptr target="Neclar"/>
+								<usg>
+									<seg type="sem" rend="usg">Fig.</seg>
+								</usg>
+							</xr>
+							<cit type="unknown">
+								<quote>Brusc i-aş reface perfect întreaga fiinţă, pe care de la
+									distanţă o văd cam<hi rend="bold"> aburită</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b50e1327-5d95-8928-328d-c1ae191ea1d6">holban</ptr>
+									<date>1932</date>
+									<citedRange>200</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-e691f88f-b223-47ef-b101-e6b7c1e71148" n="✦">
+							<def xml:id="id"/>
+							<usg corresp="#id"><seg type="sem" rend="usg">Fig.</seg> (<seg type="hint" rend="usg">Despre oameni, însușirile sau
+									capacitățile lor</seg>)</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="Zăpăcit,"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="confuz"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Câteodată ajung să-mi închipui că o pagină din proza lui
+									Heine ar putea să limpezească pentru o clipă chiar creierul <hi rend="bold">aburit</hi> al unui politician, să destindă
+									anchiloza crispată a minţii unui om de afaceri. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">zarifopol</ptr>
+									<date>1929</date>
+									<citedRange>174</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În timp ce beţi în silă şi zâmbiţi, în mintea voastră <hi rend="bold">aburită</hi> fermentează amarnice
+									întrebări.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29bfeafc-8718-03cc-40a2-5c21f68e516f">cipri</ptr>
+									<date>1947</date>
+									<citedRange>243</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu trişăm din ticăloşie Ci din nepricepere. <hi rend="bold">Aburiţi</hi>, nu mai ştim Cine suntem şi cum. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f9f16485-05eb-a433-a185-17a114202346">blandia</ptr>
+									<date>1974</date>
+									<citedRange>66</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ciudat portret – ba chiar socotesc că nu portretul a fost în
+									intenţia autorului ... în care desenul derivă din dezvoltarea
+									visului ce bântuie minţile<hi rend="bold"> aburite </hi>ale
+									portretizatului. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-49fe83de-2fa2-414e-14ef-3f62f0c42c66">Rădulescu</ptr>
+									<date>1998</date>
+									<citedRange>196</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-77298e63-fa7a-43ad-8266-2cd8ff4307ae" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>(<seg type="gram" rend="usg">Adverbial</seg>) <seg type="coloc" rend="usg">În expr.</seg></usg>
+								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+								<term>A dormi aburat </term>
+							</form>
+							<def xml:id="id">a dormi dus sau buştean.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<date>1887</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Care este acoperit de aburi (3).</def>
+						<cit type="unknown">
+							<quote>Cerul s-a încenușit și a început să se amestece cu pământul<hi rend="bold"> aburit</hi>. Amurgul învăluie pe ostașii
+								cântăreți.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b93c9be3-a1f9-4189-3866-9ac3ed151733">rebrea</ptr>
+								<date>1916</date>
+								<citedRange>159</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-751e4e4b-f16b-4b4f-ab98-b8213103bbad" n="3.">
+						<def xml:id="id">Care este expus la aburi în vederea uşurării prelucrării, a
+							ameliorării anumitor proprietăţi.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">IND.</seg> (<seg type="hint" rend="usg">Despre materiale lemnoase sau textile</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<date>1949</date>
+								<citedRange>s. v. aburire</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-02e647b6-afda-4170-b59c-828e712956ef" n="4.">
+						<def xml:id="id"> Care este păcălit cu ajutorul cuvintelor, al unui discurs
+							măgulitor; dus cu vorba. </def>
+						<usg corresp="#id">
+							<seg type="register style" rend="usg">Fam.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-06892008-c0aa-4929-92a2-be944c4c83ed" n="">
+						<def xml:id="uuid-7207b822-b11b-47db-935d-a3c6af360e51"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburiți, -te</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>aburát, -ă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>aborít, -ă </def>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def> aborát, -ă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="aburi"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange> </citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

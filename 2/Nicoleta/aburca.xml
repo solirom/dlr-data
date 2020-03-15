@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8d6d0eac-ac8b-4178-a123-21964fea30e5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Nicoleta</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-10T12:11:37+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburca</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURCÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0f0bbad1-000f-4760-af34-9da719d2ef39" n="1.">
+						<sense xml:id="uuid-3c21310b-2efc-4652-9df4-4479bfdfc6c3" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Slujitorii îl puseră [pe beizadea Alecu] pe picioare. El se
+									cumpăni. ÎI <hi rend="bold">aburcară</hi> de subsuori pe
+									trepte.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-26aa30c3-0184-3857-9202-d3e7f63d6159">sadoveanu</ptr>
+									<date>1929</date>
+									<citedRange>369</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Răniţii nu erau părăsiţi în sama necredincioşilor, ci <hi rend="bold">aburcaţi</hi> pe cai şi duşi în retragere de
+									soţii lor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-122a769f-49b1-81b2-83d9-a12e65020886">sadoveanu</ptr>
+									<date>1942</date>
+									<citedRange>998</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Bator era un animal bun și blând, așa că taica Visalon <hi rend="bold">aburca</hi> adeseori pe nepotul său Traian de-a
+									călarea și-l proptea zâmbind.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6219867e-9cae-02d2-861f-aecf9fe222fd">vornic</ptr>
+									<date>1950</date>
+									<citedRange>156</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-006e2084-b1df-4748-a56a-5f7b1fc789a3" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. anal.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Caii ... <hi rend="bold">aburcă</hi> din greu
+									trăsura.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e17563ea-8a84-063a-5c45-c54df16a2e2f">iorga</ptr>
+									<date>1905</date>
+									<citedRange>220</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="refl."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-0531ea14-ad5d-408e-b747-a8dad534b702">A (se) urca pe ceva
+							sau în ceva;</def>
+						<def xml:id="uuid-2033a5f1-83c4-487c-a6a2-a0ad0aa4ae44">a (se) sui
+							căţărându-se;</def>
+						<xr type="syn" corresp="#uuid-2033a5f1-83c4-487c-a6a2-a0ad0aa4ae44">
+							<ptr target="a (se) cățăra"/>
+						</xr>
+						<usg corresp="#uuid-0531ea14-ad5d-408e-b747-a8dad534b702">(<seg type="hint" rend="usg">Despre ființe</seg>)</usg>
+						<cit type="unknown">
+							<quote>Cerbul în dese ramure Întrând, abia <hi rend="bold">s-aburcă</hi>
+								Căci lăudate-i coarnele La trecere-l încurcă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2156eb39-756a-7ac1-53a6-b2ab0bd38e95">asachi</ptr>
+								<date>1836</date>
+								<citedRange>263</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Apoi [mătușa Mărioara] începe <hi rend="bold">a se aburca</hi> pe
+								cireș în sus.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d175e1a8-62fe-24ca-4e45-450296204dda">creangă</ptr>
+								<date>1889 (†)</date>
+								<citedRange>179</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un individ nepoftit <hi rend="bold">s-a aburcat</hi> pe
+								capră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e17563ea-8a84-063a-5c45-c54df16a2e2f">iorga</ptr>
+								<date>1905</date>
+								<citedRange>232</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă-i numai atâta, apoi <hi rend="bold">aburcă</hi> lângă
+								mine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e80e5e2e-16f6-4230-911b-bd3351a24dc1">popa</ptr>
+								<date>1933</date>
+								<citedRange>164</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Jder bătrânul <hi rend="bold">se aburcă</hi> în şa cu destulă
+								uşurinţă pentru cei cincizeci şi cinci de ani ai lui.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-316acb43-2380-5488-3d3a-7c1b065968f7">sadoveanu</ptr>
+								<date>1935</date>
+								<citedRange>88</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În câteva minute <hi rend="bold">erau aburcați</hi> în
+								trăsuri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0c2f608c-49dc-834b-93a9-6fc554f141a8">vornic</ptr>
+								<date>1954</date>
+								<citedRange>127</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-b04d122f-4bdd-4942-a320-bb94a66ea1df" n="2.">
+						<sense xml:id="uuid-67001c36-3c84-4d1b-b94c-033fc0393f3a" n="✦">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="intranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A (se) sui, a (se) ridica de jos, de la pământ (în
+								aer).</def>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Pe măguri întruna Un vis <hi rend="bold">se
+									aburcă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-38420ee5-494f-2d3f-766a-70895ae70984">lesnea</ptr>
+									<date>1943</date>
+									<citedRange>217</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>S-a topit amurgul lin ca o făclie Tighelind cu aur norii de
+									nămol Și acu <hi rend="bold">se-aburcă</hi> seara peste deal
+									domol Cu pâslari de pâslă fumurie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c4a0e646-6877-6e26-4410-e65ac4b29f59">deșliu</ptr>
+									<date>1950</date>
+									<citedRange>51</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Furcă, furcă, Haide,<hi rend="bold">-aburcă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5607540f-40ac-74a5-52dd-78122dfb9ae8">botez</ptr>
+									<date>1957</date>
+									<citedRange>119</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Spre ceruri <hi rend="bold">M-aburc</hi> și eu.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cf20d8ae-57d5-418c-124c-a808663c2447">lesnea</ptr>
+									<date>1962</date>
+									<citedRange>299</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="refl."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id"/>
+						<def xml:id="uuid-65344293-6472-4cb6-b120-2074d3490dba">a se prinde de ceva
+							(mai înalt).</def>
+						<usg corresp="#id">(<seg type="hint" rend="usg">Despre plante</seg>)</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="A se înălța"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="a se ridica"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Mușchiul pietrei ude pe tine <hi rend="bold">se
+								aburcă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1d6e58b4-6513-8470-7b01-36308a92a044">lesnea</ptr>
+								<date>1938</date>
+								<citedRange>110</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Între două frunze e floarea mică, mai mult vineţie, nu tocmai
+								plăcut mirositoare. Deosebit de celelalte flori, ea nu <hi rend="bold">se aburcă</hi> spre soare, ci dimpotrivă va rămâne
+								aproape de pământ.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e2306f77-a74a-949c-71e5-cba65d6617cc">simionescu</ptr>
+								<date>1939</date>
+								<citedRange>15</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-0fcc1be0-67ac-4ad5-a5af-aef259e9b7c1" n="3.">
+						<sense xml:id="uuid-23caad1b-a791-4175-834b-c18f42b0dba5" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Cu pronumele în
+									dativ</seg>)</usg>
+							<cit type="unknown">
+								<quote>Olivanca abia se urni de jos și mai apoi se muncea din
+									răsputeri <hi rend="bold">să-și aburce</hi> șezutul pe
+									cuptor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-58192eae-89b6-9345-5d35-97dcb38d8706">camilar</ptr>
+									<date>1950</date>
+									<citedRange>301</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A ridica, a lua în spate (o greutate).</def>
+						<cit type="unknown">
+							<quote>Oşlobanul ia atunci lemnele din carul omului ..., apoi,
+								săltându-le şi <hi rend="bold">aburcându</hi>-le cam anevoie, le
+								umflă-n spate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d175e1a8-62fe-24ca-4e45-450296204dda">creangă</ptr>
+								<date>1889 (†)</date>
+								<citedRange>198</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>I-am aburcat desagii ori sacul cu popușoi (grăunțe).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-549e2405-8943-a522-5433-9f55e2002117">i.
+									creangă</ptr>
+								<date>1910</date>
+								<citedRange>III, 54</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Și când a gândit el că l-a omorât [pe om] îndeajuns și de acuma
+								n-are să mai poată veni înapoi – l-<hi rend="bold">a aburcat</hi>
+								iarăși în spinare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a0b86b4-3ddf-7682-8c36-dd736c186b7b">furtună</ptr>
+								<date>1913</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Abia puteau <hi rend="bold">aburca</hi> de jos în spinare
+								trăistile pline.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bcba6410-33df-8b69-a324-3c946d30203b">sadoveanu</ptr>
+								<date>1928</date>
+								<citedRange>359</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fu poftit ... <hi rend="bold">să aburce</hi> un sac în spinarea
+								cuiva.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8f54eb98-6964-459f-9893-08e7d866311e">galan</ptr>
+								<date>1954</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-63840f50-be11-4b61-818f-321d5ec3b2ba" n="">
+						<def xml:id="uuid-2b732aef-40a9-4656-9705-a2bffc497c1e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value=""/>
+						<tns value=""/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abúrc</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-compus-formație.savantă.din.latină"/><term xml:lang="la" type="latin-base" subtype="unknown">*arboricare</term><ptr targetLang="" type="added-base" subtype="unknown" target="unknown"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1906</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

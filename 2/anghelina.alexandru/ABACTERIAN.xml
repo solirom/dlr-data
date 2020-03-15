@@ -44,12 +44,16 @@
 						</usg>
 						<def xml:id="uuid-edbcb8dc-4b40-4c16-b3d9-ea3545896a63">fără bacterii</def>
 						<cit type="unknown">
-							<quote/>
+							<quote>[Nefrită] interstițială ... se poate prezenta sub una dintre
+								următoarele 3 forme: nesupurată, de regulă <hi rend="bold">abacteriană</hi> (toxică, toxicalergică, imunoalergică,
+								virotică); supurată, de etiologie bacteriană nespecifică;
+								granulomatoasă, de etiologie bacteriană specifică micotică,
+								metaplazică ş.a.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">d.
 									medical</ptr>
 								<date>1969</date>
-								<citedRange/>
+								<citedRange>s. v. <hi rend="italic">nefrită</hi></citedRange>
 							</bibl>
 						</cit>
 					</sense>

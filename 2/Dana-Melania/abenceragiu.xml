@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ea8661c6-cc40-4147-ba25-9d1ecd3be74d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-04T11:58:05+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abenceragiu</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABENCERÁGIU</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8dae694f-1b6f-48d9-866d-eb2a3951d174" n="">
+						<def xml:id="uuid-6e278044-0b4f-40dd-8b0b-d917d4eb5db2">Persoană care făcea
+							parte din triburile de mauri care au trăit în sec. XV-lea, în orașul
+							Granada, din Spania.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Regele] i-a chiemat pe toți <hi rend="bold">abencerragii</hi> în
+								Alhambra și i-a ucis.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">Enc</ptr>
+								<date>1898</date>
+								<citedRange>6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu toată disoluţia internă a luptelor, de care ne aduce aminte
+								tragica istorie a <hi rend="bold">abencerajilor</hi> ... arabii au
+								rezistat eroic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2a31ce02-0e00-6770-1275-c5560fcf32ad">ralea</ptr>
+								<date>1931</date>
+								<citedRange>351</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-650dc4cf-9138-4ab7-8726-569a8197f20f" n="">
+						<def xml:id="uuid-11b0b9cf-9fa1-41e9-ab5d-9dbea5ccf2cb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abencenrragi</oVar>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abenceragi</number>
+					</form><form type="grammatical-information-for-plural" corresp="">
+						<number>abenceraji</number>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abencérages</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

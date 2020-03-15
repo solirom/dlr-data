@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8012f3ca-1071-4d66-a711-94359a59184a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-04T13:22:44+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abera</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABERÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a2d360c2-cb78-4f46-ba8a-39498ff1bb2c" n="">
+						<sense xml:id="uuid-57ecd19a-b830-47a9-af32-ae4a9d04e626" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Să nasc, este drept, mulți cu suflete de mistici; se
+									reîntoarnă mulți din oboseală și descurajare la sufletul mistic;
+										<hi rend="bold">aberează</hi> multe energii sufletești, din
+									cauza plusului lor de viață, spre misticism.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0191ce98-7ab6-069b-1f49-0b9677d2a327">personalism</ptr>
+									<date>1927</date>
+									<citedRange>601</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-17b47885-9489-4e4a-ac31-2ab9197bc017" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Odată găsit criteriul, se valorifică dintr-un unghi inedit şi
+									paginile care <hi rend="bold">aberează</hi> de la
+									criteriu.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<date>1971</date>
+									<citedRange>nr. 1 262, 9</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-146d0bfa-a2bb-4401-987e-f340c6748138">A devia, a se
+							îndepărta de adevăr, de la normal, de la firesc, de la bunul-simț (în
+							legătură cu ceva);</def>
+						<def xml:id="uuid-a3d74511-8a12-4521-bebc-c6b188fb8fc9">a înşira aberaţii, a
+							spune prostii, a bate câmpii.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A acuzat instituţia … nici mai mult, nici mai puţin decât că <hi rend="bold">aberează</hi>.</quote>
+							<bibl type="în">
+								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<date>2004</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1743670a-f8a0-42b7-8b7a-f3134a26f69f" n="">
+						<def xml:id="uuid-a7cccf4e-16f1-4348-9cef-aa03cb086721"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">aberez</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">aberrer</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

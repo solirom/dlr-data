@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-17b7af51-0ce5-494e-856b-d3ac434bb9f1" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-27T12:18:06+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburit1</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURĺT1 s. n. </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3921e1b7-d9d0-418d-8418-384034c2eb28" n="">
+						<def xml:id="uuid-b49cba2a-adb3-443d-a0b1-79f31db0a38e">Faptul de a (se)
+							aburi.</def>
+						<cit type="unknown">
+							<quote>Drumuri cu domoale întoarceri acasă, Asfințit de soare pe lamă de
+								coasă, Prosternări de sălcii și mesteaceni, boare De azimă caldă
+								scoasă din cuptoare, <hi rend="bold">Aburit</hi> de inimi, cântec
+								tremurat, În urmă departe deal însingurat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2dc393f9-78f8-2f84-29cb-50e79daf06fe">crainic</ptr>
+								<date>1931</date>
+								<citedRange>63</citedRange>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote><hi rend="bold">Aburitul </hi>geamului.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a654525c-828e-421b-9463-37a621c78ee6" n="">
+						<def xml:id="uuid-ea857ec1-ea25-4071-bf9d-0b425ce4514b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="aburi"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">CADE</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

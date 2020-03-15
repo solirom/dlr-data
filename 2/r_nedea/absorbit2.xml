@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>r_nedea</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,23 +25,215 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="2">absorbit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÍT</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-838cb7f8-cfa4-43c3-b5d6-fb1bc17f8365" n="">
-						<def xml:id="uuid-0c29bd39-87d9-4374-9270-2e0484bcd22f"/>
+					<sense xml:id="uuid-838cb7f8-cfa4-43c3-b5d6-fb1bc17f8365" n="1.">
+						<def xml:id="uuid-0c29bd39-87d9-4374-9270-2e0484bcd22f">Încorporat,
+							înghițit, sorbit, supt;</def>
+						<usg corresp="#uuid-0c29bd39-87d9-4374-9270-2e0484bcd22f">(<seg type="hint" rend="usg">Despre substanțe, radiații etc.</seg>)</usg>
+						<xr type="syn" corresp="#uuid-0c29bd39-87d9-4374-9270-2e0484bcd22f">
+							<ptr target="asimilat"/>
+						</xr>
 						<cit type="unknown">
-							<quote/>
+							<quote>Cantitatea gazului <hi rend="bold">absorbit</hi> este cu atât mai
+								mare, cu cât îi este temperatura mai scăzută.</quote>
 							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+									rom</ptr>
+								<date>1898</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se numeşte randament quantic raportul dintre numărul moleculelor
+								ce iau parte la o reacţie (elementară) şi numărul quantelor de
+								lumină <hi rend="bold">absorbite</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8bcc968f-02a8-a125-5134-bec8b75f46bc">man.
+									ing</ptr>
+								<date>1951</date>
+								<citedRange>90</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cât privește forma energiei <hi rend="bold">absorbite</hi> se
+								formulau două idei subsidiare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">saniele</ptr>
+								<date>1956</date>
 								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Liniile sau benzile <hi rend="bold">absorbite</hi> sunt
+								caracteristice fiecărei substanţe şi corespund aceluiaşi domeniu
+								spectral.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+									fiz.</ptr>
+								<date>1972</date>
+								<citedRange>429</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Apa <hi rend="bold">absorbită</hi> este scoasă prin stoarcerea
+								buretelui.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+								<date>2008</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-20ce0365-4a5d-4490-a59b-4194f13ccbc5" n="2.">
+						<sense xml:id="uuid-d1f179e1-02ab-447c-bd58-4f1f1baca71e" n="✦">
+							<def xml:id="id">Preluat, asimilat.</def>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Sunt … prea multe intenții <hi rend="bold">absorbite</hi> în
+									spectacolul „Enigma Otiliei”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+									<date>1969</date>
+									<citedRange>februarie, 45</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Articolul fuzionează uneori cu unitatea morfematică
+									precedentă ..., asumând şi informaţia gramaticală a desinenţei
+										<hi rend="bold">absorbite</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-50b5cdaa-0a4e-06e7-0f03-9398ce8b0c73">galr</ptr>
+									<date>2008</date>
+									<citedRange>53</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Cufundat, adâncit într-o stare meditativă;</def>
+						<def xml:id="uuid-2adb2a2d-df79-4990-b1db-6094063ac057">foarte preocupat,
+							captivat.</def>
+						<usg corresp="#uuid-2adb2a2d-df79-4990-b1db-6094063ac057">
+							<seg type="sem" rend="usg">Fig.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Începu alte felurimi de jocuri, în care <hi rend="bold">assorbiţi</hi> spectatorii uitaseră de hărtiea cea
+								arsă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<date>&lt;1842–1844&gt;</date>
+								<citedRange>149<hi rend="superscript">2</hi>/36</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vorbele rămân nimica când amanții-s <hi rend="bold">absorbiți</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-272bb014-6e99-205b-8922-fcb4787f444b">pelimon</ptr>
+								<date>1847</date>
+								<citedRange>16/4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Dincă] s-aşază grav la biurou, ia un condei, se posomorăşte şi
+								începe a se uita, <hi rend="bold">absorbit</hi>, prin cărţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahuță</ptr>
+								<date>1887</date>
+								<citedRange>113</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Piscupescu] era foarte <hi rend="bold">absorbit</hi> şi n-a
+								băgat de seamă că venea cineva râzând spre el.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahuță</ptr>
+								<date>1889</date>
+								<citedRange>126</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Îmbrăcată în costumul ei albastru de disecţie,... cu părul strâns
+								într-un coc de-o arhitectonică admirabilă, albă şi gingaşă ca o
+								floare, ea ţinea mâna unui cadavru şi, <hi rend="bold">absorbită</hi>, mânuia bisturiul cu o graţie şi delicateţă
+								desăvârşită.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4584d196-3c4d-8167-5177-537606807cff">patrașcanu</ptr>
+								<date>1909</date>
+								<citedRange>72</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Uneori îl vedeau prietenii [pe Leon-Battista Albert] rătăcind
+								singur, <hi rend="bold">absorbit</hi> şi absent, pe străzi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negulescu</ptr>
+								<date>1910</date>
+								<citedRange>365</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Erau singuri, în afară de cele trecătoare; aşa de singuri şi de
+									<hi rend="bold">absorbiţi</hi>, aşa de fixaţi de instinct prin
+								ceea ce era etern în natura lor efemeră, încât existară în sine şi
+								independenţi sub stele, atât cât ţine cea dintăi sărutare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1782df15-7eac-0de5-4966-1a6d9d9d326b">sadoveanu</ptr>
+								<date>1928</date>
+								<citedRange>121</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eminescu, la masă sau pe marginea patului, sta <hi rend="bold">absorbit</hi>, defunct în gândurile sale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+								<date>1932</date>
+								<citedRange>256</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Lui Iliuță] numai privirea îi lucea <hi rend="bold">absorbită</hi>, întoarsă în sine</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5bda1e3a-4573-19a0-8aea-14b20b50684a">preda</ptr>
+								<date>1962</date>
+								<citedRange>655</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dora, sprijinită pe iarbă în cot, privea <hi rend="bold">absorbită</hi> în iarbă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">r.
+									petrescu</ptr>
+								<date>1970</date>
+								<citedRange>227</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Deținutele] lucrau când ochiul pe faţă, când pe dos, îl treceau
+								de pe o andrea pe alta, îl reluau şi numărau punctele, atât de <hi rend="bold">absorbite</hi> încât nici nu mai vedeau, nici nu mai
+								auzeau ce se petrecea în jurul lor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5e3d83f-6bac-96e3-a3c5-5364a1710133">constante</ptr>
+								<date>1993</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Alţii ... [sunt] concentraţi, asudaţi, <hi rend="bold">absorbiţi</hi> într-o transă ritmică, lacomă să surprindă
+								palpitul unui loc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2fb9032c-82f3-8e48-a6e7-3392a1375c2e">pleșu</ptr>
+								<date>1993</date>
+								<citedRange>6</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -59,9 +251,122 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbiţi, -te</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def>asorbít</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>:assorbit</oVar>
+					</form>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+							<term>-ă</term>
+						</form>
+					</form>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="absorbi"/>
 				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4e00444f-93f8-4acb-73d6-80002fc38ea3">gheție</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

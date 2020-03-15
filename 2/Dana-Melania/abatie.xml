@@ -201,6 +201,9 @@
 						<citedRange/>
 					</bibl>
 				</form>
+				<form type="writing">
+					<oVar>abatie</oVar>
+				</form>
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
 						<number>abații</number>

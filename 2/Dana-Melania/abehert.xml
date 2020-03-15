@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bbbfbf24-355a-43d9-a70a-3a98b713ba65" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-27T12:06:27+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abeherț</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABEHÉRŢ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-db34da73-1937-4803-8e1c-133e81cabbba" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-460f6dcb-46e8-40c4-b7aa-ac5b4672a0fa"> Deşeu de la fabrica
+							de cherestea.</def>
+						<usg corresp="#uuid-460f6dcb-46e8-40c4-b7aa-ac5b4672a0fa">
+							<seg type="geo" rend="usg">Prin Bucov.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-da0cd0ef-406e-76ad-7ad2-ba0f377f6b93">lexic</ptr>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-a2bae1fe-b536-4d71-9fe7-8606c2c9722d" n="2.">
+						<def xml:id="id">Om prostănac, fleţ.</def>
+						<usg corresp="#id">
+							<seg type="geo" rend="usg">prin Bucov.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-da0cd0ef-406e-76ad-7ad2-ba0f377f6b93">lexic</ptr>
+								<date>1960</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-3d89af3f-c4bb-4ed7-b345-5652ed23cfd7" n="">
+						<def xml:id="uuid-fa065a22-d96f-4497-b69b-d20697c081fc"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="1">
+						<number>?</number>
+					</form><form type="grammatical-information-for-plural" corresp="2">
+						<number>abeherți</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>r_nedea</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,23 +25,257 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="">absorbitor</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBITÓR</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-00e94c7d-4470-4eed-b088-fcbb04a2cb51" n="">
-						<def xml:id="uuid-64aaeb9d-5c27-4042-a9cc-a1e828790d53"/>
+					<sense xml:id="uuid-00e94c7d-4470-4eed-b088-fcbb04a2cb51" n="1.">
+						<sense xml:id="uuid-dc55cc66-c6bd-491e-bd13-4397fa8ff9b7" n="✦">
+							<def xml:id="id">Care se referă la absorbție (1).</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">FIZ.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Se numeşte putere <hi rend="bold">absorbitoare</hi> a unui
+									corp raportul între cantitatea de căldură absorbită de acel corp
+									şi între cantitatea de căldură absorbită în aceleaşi
+									circumstanţe de cătră cărbunele de fum.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6395b18b-4219-61fc-37c7-633006e74cec">poni</ptr>
+									<date>1897 (1891)</date>
+									<citedRange>149</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-00e94c7d-4470-4eed-b088-fcbb04a2cb51">(<seg type="hint" rend="usg">Despre substanțe, corpuri etc.</seg>)</usg>
+						<def xml:id="uuid-64aaeb9d-5c27-4042-a9cc-a1e828790d53">Care absoarbe, care
+							încorporează, care reține lichide, gaze etc.;</def>
+						<xr type="syn" corresp="#uuid-64aaeb9d-5c27-4042-a9cc-a1e828790d53">
+							<ptr target="higroscopic"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-64aaeb9d-5c27-4042-a9cc-a1e828790d53">
+							<ptr target="absorbant (1)"/>
+						</xr>
 						<cit type="unknown">
-							<quote/>
+							<quote>Afară de acestea [aceste calități] însă se mai cere … o perfectă
+								și viie lucrare a vaselor sugătoare sau <hi rend="bold">absorbitoare</hi> (sistemei limfatice sau a laptelui).</quote>
 							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
+								<ptr target="#uuid-e7564144-a24b-7467-97d4-a83f3ff2a59c">vasici</ptr>
+								<date>1844</date>
+								<citedRange>185/29</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pulbere <hi rend="bold">asorbitoare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6ec6b3eb-3212-3e33-21f6-739223ba8da1">cornea</ptr>
+								<date>1849</date>
+								<citedRange>135/12</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dar el [soarele] nu întâlnește suprafețe netede. El întâlnește
+								suprafețe <hi rend="bold">absorbitoare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">eminescu</ptr>
+								<date>1883</date>
+								<citedRange>300</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Materiile de lână, flanelă sunt bune, mai cu seamă pentru cei
+								înclinaţi la boală, pentru că acelea nu lasă să se adune sudoare pe
+								corp fiind mai <hi rend="bold">absorbitoare</hi> (igroscopice) decât
+								pânza.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">crăinice</ptr>
+								<date>1895</date>
+								<citedRange>140</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O astfel de instalaţie [pentru recuperarea gazolinei din gaze] se
+								compune dintr-un vas <hi rend="bold">absorbitor</hi> vertical,
+								încărcat cu material de suprafață … sau dintr-un grup de astfel de
+								vase.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c34c04db-45e9-63a6-3e8d-490d61445ed8">ltr</ptr>
+								<date>1949</date>
+								<citedRange>453</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-1d530323-2772-430f-a342-dd3ef3e2d1aa" n="2.">
+						<usg corresp="#uuid-1d530323-2772-430f-a342-dd3ef3e2d1aa">
+							<seg type="sem" rend="usg">Fig.</seg>
+						</usg>
+						<def xml:id="id">Care acaparează;</def>
+						<def xml:id="uuid-d2fb2568-e65f-40cd-8356-d5b38fa3bc5b">care consumă
+							resursele cuiva.</def>
+						<usg corresp="#uuid-d2fb2568-e65f-40cd-8356-d5b38fa3bc5b">
+							<seg type="sem" rend="usg">p. ext.</seg>
+						</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="captivant;"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Sesiunea aceasta promite a ne prezenta spectacolul unor
+								discuţiuni şi unor intrigi pe cât de <hi rend="bold">absorbatoare</hi> pe atât de sterpe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">eminescu</ptr>
+								<date>1882</date>
+								<citedRange>205</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ştii foarte bine că nu-s supărătoare, Aveai atâta treabă – şi
+									treabă-<hi rend="bold">absorbitoare</hi> – Încât n-am vrut o
+								clipă să ţi-o zădărniceşti, Nici chiar pentru plăcerea ce zici că o
+								găseşti De-a merge la primblare cu noi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-898d8591-5021-3b6c-9480-4f4bfa4e45c6">ollăn</ptr>
+								<date>1883</date>
+								<citedRange>210</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pravoslavnicul Dușan, proprietar, … copii minori, <hi rend="bold">absorbători</hi> a tuturor forțelor sale psihice și
+								economico-banale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+								<date>1931</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Totul ar fi o chestiune de trei, patru zile nu numai de muncă
+								intensă, dar mai ales de reintrare completă, sinceră, <hi rend="bold">absorbitoare</hi> în lumea cărţii, din care acum
+								sunt plecat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">sebastian</ptr>
+								<date>1940</date>
+								<citedRange>260</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ocupație <hi rend="bold">absorbitoare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+								<date>1955</date>
 								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>El [bărbatul] caută o salvare în fugă, dar prins în joc, revine
+								şi pânda <hi rend="bold">absorbitoare</hi> reîncepe.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fe8fec15-155b-8782-8d7b-4d520c5893db">simion</ptr>
+								<date>1976</date>
+								<citedRange>286</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-9c3f5808-a227-49ee-95fc-fa409d493f98" n="3.">
+						<sense xml:id="uuid-99dfd764-58bb-40a3-b845-46130276ae20" n="✦">
+							<gramGrp>
+								<pos value="s."/>
+								<gen value="n."/>
+								<number value=""/>
+								<case value=""/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">Parte componentă a unei instalaţii frigorifice în care
+								se produce adsorbția vaporilor agentului frigorigen.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">TEHN.</seg>(<seg type="time" rend="usg">Ieșit din uz</seg>)</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De cele mai multe ori, <hi rend="bold">absorbitorul</hi>
+									cuprinde un schimbător de căldură, pentru răcirea lichidului
+									absorbant.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+									<date>1957</date>
+									<citedRange>20</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-b59bf65a-2ec5-4bca-b483-01e66857ff3b" n="✦">
+							<def xml:id="id">Dispozitiv folosit pentru recoltarea probelor de aer în
+								scop analitic, în care substanţele de analizat (gaze sau vapori)
+								sunt reţinute prin absorbţie.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">TEHN.</seg>,<seg type="dom" rend="usg">MED.</seg></usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">Element care absoarbe, care încorporează diverse substanțe,
+							gaze etc.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">TEHN.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Absorbitoare</hi> cu cărbuni activi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5c87b166-230f-445d-84e0-f06ab52e4def">nomenc.
+									prod.</ptr>
+								<date>1948 (1949)</date>
+								<citedRange>41</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Absorbitoare</hi> pentru degazolinarea
+								gazelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d0194d92-0de9-a702-6a8f-8bc78a5d1dd2">nomenc.</ptr>
+								<date>1948 (1949)</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un amestec de clorură de calciu şi zăpadă produce o scădere a
+								temperaturii la –48°. Se întrebuințează ca <hi rend="bold">absorbitor</hi> de apă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<date>1949</date>
+								<citedRange>453</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -59,9 +293,149 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term> -OÁRE</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbitori, -oare</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv., ieșit din uz</seg>)</usg>
+					<def>absorbătór</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+							<term>-oáre</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>,<seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>absorbatór</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+							<term>-oáre</term>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg><seg type="plev" rend="usg">,rar</seg>)</usg>
+					<def>asorbitór</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+							<term>-oáre</term>
+						</form>
+					</form>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
-				</etym>
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absorbi"/><term xml:lang="" type="sufix" subtype="unknown">-tor</term>
+					<note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
+						<term xml:lang="fr" type="unknown" subtype="unknown">absorbeur</term>
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+					</note><note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
+						<term xml:lang="en" type="unknown" subtype="unknown">absorber</term>
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriba</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+						<date>1957</date>
+						<citedRange>20</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c17e4ff3-9339-6751-44cf-dc080f985f22">d. polit</ptr>
+						<date>1967</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

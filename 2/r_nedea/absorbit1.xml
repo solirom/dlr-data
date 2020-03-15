@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>r_nedea</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,23 +25,43 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="1">absorbit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÍT</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-41645f7c-d46a-4ed2-8278-46e9af8804bc" n="">
-						<def xml:id="uuid-f9e92521-f081-43e0-97ce-80a99f981503"/>
+						<def xml:id="uuid-f9e92521-f081-43e0-97ce-80a99f981503">Substanţă gazoasă,
+							lichidă sau solidă, încorporată sau fixată în masa unui absorbant. </def>
+						<usg corresp="#uuid-f9e92521-f081-43e0-97ce-80a99f981503">
+							<seg type="dom" rend="usg">CHIM.</seg>,<seg type="dom" rend="usg">FIZ.</seg></usg>
 						<cit type="unknown">
-							<quote/>
+							<quote>Absorpție: Proces fizicochimic de transport de material, în care
+								un gaz (<hi rend="bold">absorbatul</hi>) pătrunde prin difuziune în
+								masa unui lichid (absorbantul).</quote>
 							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
+								<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+								<date>1957</date>
+								<citedRange>20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Proces de pătrundere a particulelor (molecule, atomi sau ioni)
+								unei substanțe (<hi rend="bold">absorbit</hi>) într-o altă substanță
+								(absorbant).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+									fiz</ptr>
+								<date>1972</date>
+								<citedRange>9, s.v. absorbţie</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -59,9 +79,45 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<etym cert="high">
-					<idno type="unknown"/>
+				<re type="lexical-variant-section">
+					<usg><seg type="plev" rend="usg">(rar)</seg></usg>
+					<def>absorbat</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="accentuation-variant">
+						<stress xml:lang="ro-x-accent-lowcase-vowels">absorbát</stress>
+					</form>
+				</re>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="absorbi"/>
 				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d. chi</ptr>
+						<date>1964</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d. e. </ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange>s. v. absorbtiv</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

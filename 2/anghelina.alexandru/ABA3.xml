@@ -39,7 +39,7 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-a9af8523-170d-41e3-b466-92581f81e777" n="1.">
-						<sense xml:id="uuid-4be72e9c-aa6e-4146-b970-9e905408cdf5" n="♦">
+						<sense xml:id="uuid-4be72e9c-aa6e-4146-b970-9e905408cdf5" n="✦">
 							<def xml:id="uuid-a6dcacb0-6d7d-41e3-acf5-1407647c4cf4">Țesătură mai
 								fină.</def>
 							<usg corresp="#uuid-a6dcacb0-6d7d-41e3-acf5-1407647c4cf4">
@@ -67,6 +67,15 @@
 								<ptr target="#uuid-850f8c2b-1b40-1181-4da2-c6c2dec58220">tdrg</ptr>
 								<date>1529</date>
 								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O palmă de atlaz roşu şi un petic de <hi rend="bold">aba</hi>
+								roşiia.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-141e44fa-7967-9a73-0fce-6c6d09051d45">dir</ptr>
+								<date>1621</date>
+								<citedRange>63</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -309,6 +318,15 @@
 								<citedRange>685</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote>Bumbacul au fost scump și... n-am cumpărat, ce am cumpărat <hi rend="bold">aba</hi>, c-au fost cam ieftină <hi rend="bold">abaoa</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0cbcb45b-6ace-a3b3-68d1-55da0f85852b">st.
+									doc</ptr>
+								<date>c. 1660</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
 					</sense>
 					<sense xml:id="uuid-08a3ef88-b724-49ad-9b91-92ad5402b172" n="2.">
 						<def xml:id="uuid-19adfc43-7057-4589-ad48-9d4c98c0b510">Haină confecționată
@@ -483,7 +501,7 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg>(<seg type="time" rend="usg">înv.</seg>)</usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>ábă</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
@@ -505,6 +523,7 @@
 					</etym>
 				</re>
 				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>habá</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
@@ -539,6 +558,7 @@
 					</etym>
 				</re>
 				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>hábă</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">Lb</ptr>

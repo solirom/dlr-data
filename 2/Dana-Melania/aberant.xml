@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-908300e6-288b-4ab9-b9d2-116ab86682cd" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-05T12:49:15+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aberant</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABERÁNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f81b8303-bd0c-4536-aade-cfd971ac0c86" n="1.">
+						<sense xml:id="uuid-fab30135-3a85-4969-9d48-dcd416203f0f" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aberantul</hi> şi absurdul îşi judecă rolul
+									de liber arbitru, un sinonim a ceea ce Broch numea „vesela
+									apocalipsă”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-933f34e4-549c-006c-88c2-dfd65fbd4ce0">babeți</ptr>
+									<date>1990</date>
+									<citedRange>39</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2ed2d7cb-62cb-4ced-a337-a1a464ac2b7e" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+							<cit type="unknown">
+								<quote>Dar pasiunea lui, <hi rend="bold">aberant</hi> plasată şi
+									îndărătnic aţâţată în cercul ei vicios, e neîmplinitoare, oarbă,
+									malefică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2">trept</ptr>
+									<date>1978</date>
+									<citedRange>81</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Impresionismul a dărâmat concepţia realistă despre lume şi
+									despre viaţă, din sânul căreia se născuse, şi a redus <hi rend="bold">aberant</hi> priveliştea realităţii la o feerie
+									de senzaţii optice dematerializate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">pegas</ptr>
+									<date>1985 (†)</date>
+									<citedRange>93</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>A socoti burghezia română drept vinovată în întregul ei
+									seamănă nespus cu atitudinea ... celor dispuşi permanent să nu
+									ia în seamă individul, ... ci doar grupul, pentru care individul
+									este făcut răspunzător, ceea ce este <hi rend="bold">aberant</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6395f9eb-9ee3-4b24-04fc-a8858fc59dc9">rădul</ptr>
+									<date>1998</date>
+									<citedRange>56</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-854ced79-7b80-4f7f-85ad-2813d0695fc9">Care se abate de la
+							tipul normal sau corect ori de la bunul-simț sau logică; care
+							constituie, care suţine o aberaţie (1);</def>
+						<xr type="syn" corresp="#uuid-854ced79-7b80-4f7f-85ad-2813d0695fc9">
+							<ptr target="absurd (1)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-854ced79-7b80-4f7f-85ad-2813d0695fc9">
+							<ptr target="greşit"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-854ced79-7b80-4f7f-85ad-2813d0695fc9">
+							<ptr target="eronat"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Trebuie să prezint şamanismul în perspectiva generală a Istoriei
+								religiilor, iar nu ca un fenomen <hi rend="bold">aberant</hi>
+								aparţinând mai degrabă psihiatriei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">eliade</ptr>
+								<date>1946</date>
+								<citedRange>72</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din punct de vedere filogenetic, cestodele cu corpul redus la un
+								singur segment ... sunt ... numai exemple de tipuri <hi rend="bold">aberante</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9da9e978-7627-1da9-6dd2-86a76968396e">fauna</ptr>
+								<date>1951</date>
+								<citedRange>70</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Satira vorbirii macaronice a studenţilor sorbonarzi ... a obţinut
+								unul dintre triumfurile ei ... în scena întâlnirii lui Pantagruel cu
+								studentul limuzin, din care putem reproduce aici un fragment,
+								păstrând formele latineşti <hi rend="bold">aberante</hi> ale
+								vorbirii studentului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb7153fc-380e-73e5-724a-8254e3fb3ea2">vianu</ptr>
+								<date>1953</date>
+								<citedRange>582</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Caracteristica studiilor de gramatică din această perioadă este
+								orientarea ... spre inovaţiile, adesea <hi rend="bold">aberante</hi>
+								şi izolate, ale limbii contemporane.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+								<date>1959</date>
+								<citedRange>nr. 4, 26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cea mai banală ocupaţie ... capătă o înfăţişare <hi rend="bold">aberantă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+								<date>1969</date>
+								<citedRange>ianuarie, 118</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Totuşi, dintre corifeii acestei <hi rend="bold">aberante</hi>
+								mişcări s-au ales doi prozatori, cei mai mari ai limbii române de la
+								Caragiale încoace.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2">treptele</ptr>
+								<date>1978</date>
+								<citedRange>25</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Această dorinţă <hi rend="bold">aberantă</hi> a Sophiei de a
+								cunoaşte direct, în chip concret, ceea ce prin definiţie nu poate fi
+								cunoscut – a fost cauza tuturor căderilor, a tuturor relelor şi
+								păcatelor care caracterizează lumea în care trăim noi,
+								oamenii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eecca819-8a6f-2a98-75e7-89e3a7b87988">prozei</ptr>
+								<date>1980</date>
+								<citedRange>182</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cum să ne explicăm cocteilul de teorii <hi rend="bold">aberante</hi> ... cu ideile novatoare sau chiar instutuţii
+								neaşteptate?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2798eb81-7368-41e5-5512-3708153da688">hoban</ptr>
+								<date>1982</date>
+								<citedRange>153</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi se temeau până şi de noi, deţinutele. În regim comunist, orice
+								acuzaţie, chiar şi cea mai <hi rend="bold">aberantă</hi>, este luată
+								în serios.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5e3d83f-6bac-96e3-a3c5-5364a1710133">constante</ptr>
+								<date>1992</date>
+								<citedRange>21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Determinările modale (care pun în evidenţă natura controlată,
+								voliţională, a procesului), ca şi posibilitatea dublării, fără a se
+								ajunge la construcţii <hi rend="bold">aberante</hi> („se abţine pe
+								sine”, „se stăpâneşte pe sine”) sunt dovezi suplimentare în
+								sprijinul acestei interpretări.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5ff91cd7-7d98-9b13-9b63-097f8c614aba">GALR</ptr>
+								<date>2005</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-abbf44bf-0c98-4218-846b-122d617cf394" n="2.">
+						<def xml:id="id">Care are un traseu anatomic neobişnuit.</def>
+						<usg corresp="#id"><seg type="dom" rend="usg">MED</seg>. (<seg type="hint" rend="usg">Despre vase de sânge, canale, nervi</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+								<date>1969</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-56a8f6dc-ec0e-4fb8-8586-66e2639e9a63" n="">
+						<def xml:id="uuid-ef3e3ca8-d46e-4a84-8b01-ec335df36ed0"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aberanţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">aberrant</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">aberrans, -ntis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DICR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">DELR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

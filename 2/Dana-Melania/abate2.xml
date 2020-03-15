@@ -1250,15 +1250,15 @@
 				<etym cert="high">
 					<idno type="element.moştenit-etimon.atestat"/><term xml:lang="la" type="unknown" subtype="unknown">abbattere</term>
 				</etym>
-				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term type="unknown" subtype="unknown" xml:lang=""/>
-					<note type="uuid-c23988ce-0a96-34e3-82fb-a07af5058502" n="unknown" cert="high">
-						<bibl type="unknown">
-							<ptr target="unknown"/>
-							<date/>
-							<citedRange/>
-						</bibl>
+				<etym cert="high"><bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<idno type="element.extern-trimitere-Cf."/><term type="unknown" subtype="unknown" xml:lang="sla-pro">biti</term>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
 						<term xml:lang="" type="unknown" subtype="unknown"/>
+						<term xml:lang="" type="unknown" subtype="unknown">„a bate” </term>
 					</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

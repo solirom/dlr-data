@@ -50,28 +50,15 @@
 							<case value=""/>
 							<subc value=""/>
 						</gramGrp>
-						<gramGrp>
-							<pos value="adj."/>
-							<subc value=""/>
-							<number value=""/>
-						</gramGrp>
+						<usg corresp="#uuid-1ec16296-7688-4801-83d4-07b9afd79864">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
 						<def xml:id="uuid-8416807c-cc9f-44b9-9a92-716cc0132682">Persoană care făcea
 							parte din populația de bază a Abdirei ori a Avderei, oraș vechi din
 							Tracia, sau care era originară de acolo;</def>
-						<def xml:id="uuid-ced62b50-e245-4e12-89a2-241718af8ec4">(la pl.) locuitorii
-							Abdirei ori a Avderei;</def>
-						<usg corresp="#uuid-ced62b50-e245-4e12-89a2-241718af8ec4">
-							<seg type="time" rend="usg">Înv.</seg>
-						</usg>
-						<xr type="syn" corresp="#uuid-ced62b50-e245-4e12-89a2-241718af8ec4">
-							<ptr target="abderit"/>
-							<usg>
-								<seg type="time" rend="usg">înv.</seg>
-							</usg>
-						</xr>
-						<usg corresp="#uuid-8416807c-cc9f-44b9-9a92-716cc0132682">
-							<seg type="time" rend="usg">Înv.</seg>
-						</usg>
+						<def xml:id="uuid-8f51e2f0-f2a9-4b6a-822a-b0175fddb09c">locuitorii Abdirei
+							ori a Avderei;</def>
+						<usg corresp="#uuid-8f51e2f0-f2a9-4b6a-822a-b0175fddb09c">(<seg type="gram" rend="usg">la pl.</seg>)</usg>
 						<cit type="unknown">
 							<quote>Pentru că, la întors, [Xerxes] au dăruit pre <hi rend="bold">avdiriiani</hi> cu sabie de aur şi cu cătargă aşternută cu
 								siraser. Şi zicu iarăşi avdireanii cum de la Athina, purcegând de

@@ -39,11 +39,13 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-a7105355-c8f7-44f6-bf48-c4adc1f10b1d" n="">
-						<def xml:id="uuid-eadedec1-90ed-42d2-b28d-9776107af654">Locul pierzaniei,
-							lumea subpământeană.</def>
-						<usg corresp="#uuid-eadedec1-90ed-42d2-b28d-9776107af654">
-							<seg type="dom" rend="usg">RELIG.</seg>
+						<usg corresp="#uuid-a7105355-c8f7-44f6-bf48-c4adc1f10b1d">
+							<seg type="geo" rend="usg">RELIG.</seg>
 						</usg>
+						<def xml:id="uuid-eadedec1-90ed-42d2-b28d-9776107af654">Locul pierzaniei, al
+							distrugerii;</def>
+						<def xml:id="uuid-ce41c85f-7359-460d-a681-5e1e22e6ffdb">lumea
+							subpământeană.</def>
 						<cit type="unknown">
 							<quote>Dezvelită stă împărăţia morţii în faţa Domnului; <hi rend="bold">Abadonul</hi> este fără de zăbranic.</quote>
 							<bibl type="unknown">

@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-cea2e704-46ef-4cc8-b96c-26c03f71f8f4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T10:50:35+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abelian</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABELIÁN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-240b5df6-1a75-4a18-9995-50c94deef769" n="">
+						<def xml:id="uuid-abeb1620-b79d-4a2d-931c-cd77a3318e2e"/>
+						<usg corresp="#uuid-abeb1620-b79d-4a2d-931c-cd77a3318e2e"><seg type="dom" rend="usg">MAT.</seg> (<seg type="hint" rend="usg">Despre grupuri,
+								ecuații integrale</seg>)</usg>
+						<xr type="syn" corresp="#uuid-abeb1620-b79d-4a2d-931c-cd77a3318e2e">
+							<ptr target="Comutativ"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Mijlocul de demonstrare îl constituie anumite congruenţe relative
+								la un grup <hi rend="bold">abelian</hi>, în transcriere
+								aditivă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a20fec0e-9727-80c7-5519-e7a074375313">spirit</ptr>
+								<date>1940</date>
+								<citedRange>178</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<date>1949</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aceste formule ne arată că operatorii „X2”, „X3” constituesc un
+								subgrup invariant şi <hi rend="bold">abelian</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2e631c11-035a-321e-9acf-4432661c2a56">geom</ptr>
+								<date>1954</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-88c3b7f5-ace5-40e6-bf23-6ef9a7e3819a" n="">
+						<def xml:id="uuid-9df96f45-c302-41ef-afa6-1d73804c600b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-li-an</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abelieni, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abélien</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

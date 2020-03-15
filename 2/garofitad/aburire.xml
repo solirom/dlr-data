@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9b3cf8bc-c247-4076-8be3-b59eab369032" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+				<idno type="project">dlr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-17T12:47:30+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aburire</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABURĺRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-57466653-0237-4d9e-93c5-0f248c1595c7" n="">
+						<sense xml:id="uuid-0476d7cd-1212-4d38-b3e3-31e03a50155c" n="1.">
+							<def xml:id="id"/>
+							<xr type="syn" corresp="#id">
+								<ptr target="Evaporare (1)"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="aburi (2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+									<date>&lt;1691–1697&gt;</date>
+									<citedRange>187</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Știut este că Marea Mediterană primește necontenit din Marea
+									Atlantică, prin strâmtoarea de Gibraltar, o mare câtățime de apă
+									care împreună cu apa râurilor împlinește apa pierdută prin <hi rend="bold">aburirea</hi> mării.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7e707efe-9547-a2e3-2bfe-49c6bb3f7015">curier</ptr>
+									<date>1829</date>
+									<citedRange>nr. 76, 322<hi rend="superscript">1</hi>/32</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Când săceta se prelungește, frunzele, nemaigăsind în aer
+									hrana obicinuită și pierzându-și prin<hi rend="bold">
+										aburire</hi> zama cea mai trebuincioasă încetează de a
+									înlesni creșterea și rodirea sămănăturilor, încep a se usca și
+									căderea lor aduce și pieirea sadurilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0f24308d-3e50-9dfd-8a81-3540bcd17103">kogăln</ptr>
+									<date>1840</date>
+									<citedRange>455</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Prin această îndoită funcție, a absorbirei și a <hi rend="bold">aborirei</hi>, fiecare organ și, prin urmare,
+									întregul trup să țin și cresc supt o formă determinată, însă
+									strângând și înnoind fără încetare elementele substanției
+									sale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7939f54c-7c4d-25c2-381f-042384602f39">caiet
+										ist. nat.</ptr>
+									<date>1842</date>
+									<citedRange>66<hi rend="superscript">r</hi>/5</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mai nesănătoasă este Holandia, Zelandia şi Frisia, în care
+										<hi rend="bold">aborirea </hi>mării şi a apelor stătătoare,
+									nestatomiciea tâmpului, şi apa rea de beut pricinuesc dese
+									friguri rele.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d56a8309-48c3-1403-625a-0db856f94b39">rus</ptr>
+									<date>1842</date>
+									<citedRange>104</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În asudătoarea umedă aburii cu care este încărcat aerul
+									împedecând <hi rend="bold">aburirea</hi> sudoarei... ne
+									pricinuește o mare greutate și neliniște.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-766f4357-65ba-3cea-668f-dd6639e7a05f">fătu</ptr>
+									<date>1851</date>
+									<citedRange>69/12</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote> Aburarea apelor putride este atât de mefitică încât toată
+									astă însămnătoare întindere nu este împoporată, decât numai pe
+									la stații poștale, unde oamenii au aspectul de infestați,
+									galbeni la față și umflați la trup.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aacc3540-a75d-8bbb-6487-6f934a44789b">asachi</ptr>
+									<date>1861</date>
+									<citedRange>436</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-b189cb79-07a0-4f7a-a71f-7239e5996298" n="2.">
+							<sense xml:id="uuid-becded4c-dace-4442-998c-c08adcfdcf9a" n="✧">
+								<def xml:id="id"/>
+								<usg corresp="#id">
+									<seg type="hint" rend="usg">(Ca termen de comparație) </seg>
+								</usg>
+								<cit type="unknown">
+									<quote>Vadul barului în formă de tunel secase şi puţinii
+										credincioşi părăseau neliniştiţi locul peste care se lăţea
+										ca o<hi rend="bold"> aburire</hi>, mucegaiul verzui,
+										scămoşit al nenorocului.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-cc4875ce-a18d-7042-1a71-4a0cf6f46432">chihaia</ptr>
+										<date>1947</date>
+										<citedRange>124</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În aer stăruie și se leagănă, ca o aburire, o mireasmă
+										tare, dulce-amăruie.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-11721721-83de-796c-7e25-f1da94e05c5c">Lăncrănjan</ptr>
+										<date>1963</date>
+										<citedRange>6</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-428d0a33-21c1-4a32-9fd3-167e6735d683" n="✧">
+								<def xml:id="id"/>
+								<usg corresp="#id">
+									<seg type="sem" rend="usg">Fig.</seg>
+								</usg>
+								<cit type="unknown">
+									<quote>Apoi, printre straturile de flori rămase neveştezite de
+											<hi rend="bold">aburirile</hi> brumoase ale lui
+										septemvrie, [Tinca] prinse a umbla şi a culege.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-7d299213-7923-16bb-0cd1-6b8484f28416">SADOVEANU</ptr>
+										<date>1905</date>
+										<citedRange>230</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Deasupra satelor și-a câmpurilor stăruie un miros
+										amețitor și-o <hi rend="bold">aburire</hi>
+										albăstruie.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-2bc3cc6c-726b-392a-3e3f-0c0c5fcb48b9">Lăncrănjan</ptr>
+										<date>1963</date>
+										<citedRange>524</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-50ebea84-a11b-4421-8a54-cd4ec107088a" n="✦">
+								<def xml:id="id">Pâclă ușoară, ceață rară;</def>
+								<xr type="syn" corresp="#id">
+									<ptr target="irizație"/>
+								</xr>
+								<cit type="unknown">
+									<quote>Spre Moldova – totdeauna <hi rend="bold">aburiri </hi>de
+										ape ... Pare zarea aceasta aşa de tainică! Parcă ascund ceva
+										văile munţilor, după vălurile acestea uşoare.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-c3e81259-34f3-0920-5b2c-d0d0d99f3867">sadoveanu</ptr>
+										<date>1911</date>
+										<citedRange>142</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote> În livezile mânăstirii mai erau încă meri înfloriți;
+										soarele îi pătrundea de o<hi rend="bold"> aburire</hi>
+										trandafirie.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-316acb43-2380-5488-3d3a-7c1b065968f7">sadoveanu</ptr>
+										<date>1935</date>
+										<citedRange>9</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Eliminare de aburi (3)</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="exalație (1)"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="emanație (1)"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target="aburi (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Atmosfera de mai jos trage la sineş <hi rend="bold">aburirile</hi>, miroasele şi vaporaţiile
+									pământului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-79d1d273-9aba-39e6-203d-ed8fe08e4e2b">căpățineanu</ptr>
+									<date>1830</date>
+									<citedRange>99/4</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cele mai multe... înădușiri urmează din<hi rend="bold">
+										aburirea </hi>cărbunilor arzători într-un loc
+									închis.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">albineț</ptr>
+									<date>1838</date>
+									<citedRange>85/2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Unele ținuturi răsuflă<hi rend="bold"> aboriri</hi>
+									stricătoare sănătății; așa: pământul dintre gurile apei Ganghes
+									..., mai multe locuri păduroase din Himalaia.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f44ba0c9-1e93-12f0-449c-39a9a1385ee7">rus</ptr>
+									<date>1842</date>
+									<citedRange>78</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aburi seau vapori se înțeleg<hi rend="bold"> aburirile</hi>
+									ce ies din materii fluide seau umede, când se ferb pe
+									foc.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6ec6b3eb-3212-3e33-21f6-739223ba8da1">cornea</ptr>
+									<date>1849</date>
+									<citedRange>20/29</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote> Cu umezeala păreţilor şi cu <hi rend="bold">aborirea</hi> în
+									bucătărie s-a schimbat spre bine de la repărătură şi după
+									spargerea uşei? Aceasta mă interesează pe mine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e817f85e-8dca-717c-9d29-e72bd6cea158">B.
+										Contemp.</ptr>
+									<date>1889</date>
+									<citedRange>242</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-b706dbec-5fb8-4506-83d9-e7e6825133c9" n="3.">
+							<sense xml:id="uuid-3e72ba30-a15a-4a4d-a16b-bf41b7337796" n="✦">
+								<usg corresp="#id"/>
+								<xr type="syn" corresp="#id">
+									<ptr target="Amețeală"/>
+									<usg>
+										<seg type="sem" rend="usg"> Fig.</seg>
+									</usg>
+								</xr>
+								<cit type="unknown">
+									<quote>În uşoara<hi rend="bold"> aburire</hi> pe care o aducea
+										vinul, privea cu ochi scânteind la tovarăşul acesta pe care
+										întâmplarea i-1 adusese.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-0d8a324d-9f8c-9df1-2682-efa8010f7805">sadov</ptr>
+										<date>1907</date>
+										<citedRange>166</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-42200ca3-6321-453d-87b0-76f5c9537e6b" n="✦">
+								<def xml:id="id"/>
+								<xr type="syn" corresp="#id">
+									<ptr target="Amintire"/>
+									<usg>
+										<seg type="sem" rend="usg">Fig.</seg>
+									</usg>
+								</xr>
+								<cit type="unknown">
+									<quote>Neliniştea nehotărîtă, <hi rend="bold">aburirea</hi> din
+										trecut, trezea spuza de pe alte nelinişti mai
+										proaspete.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-421411db-5fc0-5ad2-47b3-37e366c91d05">sadoveanu</ptr>
+										<date>1908</date>
+										<citedRange>435</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id"> Exalare, împrăştiere de aburi de la mâncăruri sau
+								băuturi.</def>
+							<xr type="asoc" corresp="#id">
+								<ptr target="aburi (4)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Petrişor simţi o<hi rend="bold"> aburire </hi>de vin, o
+									suflare pe gura gârliciului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1bca3d33-31a8-8e2f-a602-be25d40a42d1">sadoveanu</ptr>
+									<date>1909</date>
+									<citedRange>295</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Borșul se oprise din <hi rend="bold">aburire</hi>, în oala de
+									lut pusă pe prag.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bc5cfb56-3c75-2446-20c2-1dc618e919f1">camilar</ptr>
+									<date>1967</date>
+									<citedRange>67</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-bd81a99e-ea23-4085-b9b4-148818715b6a" n="4.">
+							<def xml:id="id">Procedură medicală ce constă din dezinfectarea
+								încăperii cu diverse substanțe din care ies aburi sau din expunerea
+								pacientului la aceste substanțe.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">MED.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Mai cu samă vătătmătoare sunt<hi rend="bold"> aburirile
+									</hi>mineralice și metalice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">albine</ptr>
+									<date>1838</date>
+									<citedRange>195/11</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Există mijloace aproape infailibile de prevenire [a holerei]
+									... ținerea camerii de locuit în cea mai desăvârșită curățenie,
+									aerisirea ei mai ales înainte de ora mesei sau aburirea
+									atmosferei ei cu substanțe purificatoare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">biciul</ptr>
+									<date>2002</date>
+									<citedRange>92</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-c9b9a3be-dd7a-4a39-bfa4-0a02540f08df" n="5.">
+							<def xml:id="id">Expunere a unor materiale textile, lemnoase etc. sau a
+								unor produse finite la acțiunea aburilor în vederea ameliorării unor
+								proprietăţi, a ușurării prelucrării lor ulterioare etc.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">IND.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-089a4b84-441a-4bec-baa1-3ae54178d4f2" n="6.">
+							<sense xml:id="uuid-0a96f54f-4c47-44d4-ac1f-d00571f2be67" n="✦">
+								<def xml:id="id"/>
+								<usg corresp="#id">
+									<seg type="sem" rend="usg">Fig.</seg>
+								</usg>
+								<xr type="syn" corresp="#id">
+									<ptr target=" Suflare (I 1)"/>
+									<usg/>
+								</xr>
+								<xr type="syn" corresp="#id">
+									<ptr target="duh (2)"/>
+								</xr>
+								<cit type="unknown">
+									<quote>Ființele însuflate de cereasca<hi rend="bold">
+											aburire</hi> ... aleargă mare și mică fără de a se
+										abate. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-8b35cbf1-8870-1740-1c92-29519d451a43">conachi</ptr>
+										<date>&lt;1820–1830&gt; </date>
+										<citedRange>284</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">METEOR.</seg>
+								<seg type="time" rend="usg"> Înv. </seg>
+							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="Adiere"/>
+							</xr>
+							<xr type="asoc" corresp="#id">
+								<ptr target=" aburi (10)"/>
+							</xr>
+							<cit type="unknown">
+								<quote> Păzindu-vă foarte de vânt, ba și chear de cea mai mică <hi rend="bold">aburire</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3046b3c4-7376-8e0f-208a-bbf75cd39976">Doctorul</ptr>
+									<date>1858</date>
+									<citedRange>91/17</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Privirile ei aprinse de înmărmurire pipăiau împrejurimile
+									răcorite de o <hi rend="bold">aburire</hi> îmblânzită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64e0c349-57c7-0aec-a292-d36250df540e">rătăcire</ptr>
+									<date>1902</date>
+									<citedRange>65</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sara era tăcută; <hi rend="bold">aburiri</hi> răcoroase
+									veneau din grădină; în întunericul cerdacului fânarul de la
+									poartă arunca o lumină slabă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7d299213-7923-16bb-0cd1-6b8484f28416">sadoveanu</ptr>
+									<date>1905</date>
+									<citedRange>164</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Acțiunea de <hi rend="spaced">a (se) aburi</hi> și
+							rezultatul ei. </def>
+						<cit type="unknown">
+							<quote/>
+						</cit>
+					</sense>
+				</dictScrap>
+				<sense xml:id="uuid-e0ade5bd-b296-475f-87b9-5afbf3cf8296" n="">
+					<def xml:id="id"/>
+					<cit type="unknown">
+						<quote/>
+						<bibl type="unknown">
+							<ptr target="unknown"/>
+							<date/>
+							<citedRange/>
+						</bibl>
+					</cit>
+				</sense>
+				<sense xml:id="uuid-7f489104-b99b-4df5-bd8b-df353108bd0f" n="">
+					<def xml:id="id"/>
+					<cit type="unknown">
+						<quote/>
+						<bibl type="unknown">
+							<ptr target="unknown"/>
+							<date/>
+							<citedRange/>
+						</bibl>
+					</cit>
+				</sense>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c08a567c-cc6e-400d-9d28-6d62b00876b8" n="">
+						<def xml:id="uuid-5433f2bc-da0d-40ed-8abc-8aada7422da3"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aburiri</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg> şi<seg type="register style" rend="usg"> pop.</seg></usg>
+					<def>aburáre</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def> aboríre</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target=" aburi"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">budai</ptr>
+						<date>1818</date>
+						<citedRange>155<hi rend="superscript">r</hi>/3</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">DRLU</ptr>
+						<date>1822</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+						<date>1825</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillant</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<date>1850</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831">MDE</ptr>
+						<date>1986</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

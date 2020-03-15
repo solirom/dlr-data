@@ -67,6 +67,22 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg><seg type="plev" rend="usg">rar.</seg></usg>
+					<def>abalienáție</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abalienatio, -onis</term>
 				</etym>

@@ -182,14 +182,14 @@
 							<sense xml:id="uuid-945f9271-dbd4-4233-b341-fca944470013" n="✧">
 								<form type="unitate-semantică-subsumată">
 									<usg>
-											<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
+										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 									<term>De-a dreapta și de-a stânga</term>
 								</form>
 								<form type="unitate-semantică-subsumată">
 									<usg>
-											<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
+										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>De-a stânga și de-a dreapta</term>
@@ -246,8 +246,9 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă situarea prin apropiere sau deplasarea, în direcţia
-									unui reper spaţial</seg>)</usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă
+									situarea prin apropiere sau deplasarea în direcţia unui reper
+									spaţial</seg>)</usg>
 							<cit type="unknown">
 								<quote>Juca fata Irodiadei <hi rend="bold">a</hi> mijloc.</quote>
 								<bibl type="ap.">
@@ -390,18 +391,16 @@
 									<term>De-a rostogolul</term>
 								</form>
 								<form type="unitate-semantică-subsumată">
+									<usg><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+									<idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
+									<term>De-a rostogol</term>
+								</form>
+								<form type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
 									<term>Cu de-a rostogolul</term>
-								</form>
-								<form type="unitate-semantică-subsumată">
-									<usg>
-										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
-									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
-									<term>De-a rostogol</term>
 								</form>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="rostogol (I 1)"/>
@@ -417,8 +416,8 @@
 							<sense xml:id="uuid-ba7a7df9-9a4b-4345-b9af-446bf1224b5d" n="✦">
 								<def xml:id="id"/>
 								<usg corresp="#id">
-									<seg type="time" rend="usg">Înv.</seg> (<seg type="hint" rend="usg">Orientarea privirii în direcţia unui reper
-										spaţial</seg>) </usg>
+									<seg type="time" rend="usg">Înv.</seg> (<seg type="hint" rend="usg">Orientarea privirii se face în direcţia unui
+										reper spaţial</seg>) </usg>
 								<cit type="unknown">
 									<quote>Lui Radu i se lungise căutătura <hi rend="bold">a</hi>
 										drum.</quote>
@@ -439,9 +438,9 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă orientarea unei
-									deplasări, a unei mişcări în direcţia atingerii unui
-									obiectiv</seg>) </usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă
+									orientarea unei deplasări, a unei mişcări în direcţia atingerii
+									unui obiectiv</seg>) </usg>
 							<cit type="unknown">
 								<quote> Eșind <hi rend="bold">a</hi> vânat, vădzu un cerb.</quote>
 								<bibl type="unknown">
@@ -562,8 +561,9 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop. </seg>(<seg type="hint" rend="usg">Exprimă prinderea, apucarea,
-									susţinerea etc. a ceva cu ajutorul unei părţi a corpului</seg>) </usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop. </seg>(<seg type="hint" rend="usg">Exprimă
+									prinderea, apucarea, susţinerea etc. a ceva cu ajutorul unei
+									părţi a corpului</seg>) </usg>
 							<cit type="unknown">
 								<quote>Inelul tău, brâulu-ți și toiagu-ți carele ți-e <hi rend="bold">a</hi> mână.</quote>
 								<bibl type="unknown">
@@ -914,9 +914,9 @@
 						<sense xml:id="uuid-71eaeeeb-e5a7-4a69-b09a-1e59144962fd" n="2.">
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă prevestirea unei
-									circumstanţe ori perioade temporale, a unui fenomen atmosferic
-									etc.</seg>)</usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă
+									prevestirea unei circumstanţe ori perioade temporale, a unui
+									fenomen atmosferic etc.</seg>)</usg>
 							<cit type="unknown">
 								<quote>Câte-odată... prea arare... <hi rend="bold">A</hi> târziu
 									când arde lampa, Inima din loc îmi sare, Când aud că sună
@@ -936,8 +936,9 @@
 									<citedRange>70</citedRange>
 								</bibl>
 							</cit>
-							<cit type="unknown">
-								<quote>Vânt <hi rend="bold">a</hi> secetă.</quote>
+							<cit type="✧ POP.">
+								<quote>Vântul de cătră apus se cheamă Bistra, a secetă și a
+									biușag.</quote>
 								<bibl type="ap.">
 									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
 									<date>1887</date>
@@ -1056,8 +1057,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote>Ajută-ne, Doamne Mântuitorul nostru nădejde <hi rend="bold">a</hi> toate capetele pâmântului și celora ce sântu pre
-									mare departe.</quote>
+								<quote>Ajută-ne, Doamne, Mântuitorul nostru, nădejde <hi rend="bold">a</hi> toate capetele pâmântului și celora ce sântu pre
+									mare departe și m[i]luiaște pre noi. </quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-b9e18280-5b8a-7993-7a89-0fe0de490dcf">Rákócz</ptr>
 									<date>1639</date>
@@ -1199,8 +1200,9 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă finalitatea, destinaţia
-									unei acţiuni, a unui fapt etc.</seg>)</usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă
+									finalitatea, destinaţia unei acţiuni, a unui fapt
+								etc.</seg>)</usg>
 							<cit type="unknown">
 								<quote>Prin noapte se bat <hi rend="bold">a</hi> perire.</quote>
 								<bibl type="unknown">
@@ -1453,6 +1455,15 @@
 										<citedRange>345</citedRange>
 									</bibl>
 								</cit>
+								<cit type="unknown">
+									<quote>Dar această înțelegere nu-i rămase mult timp în minte,
+										avea o deosebită capacitate de <hi rend="bold">a</hi> uita. </quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+										<date>1970</date>
+										<citedRange>63</citedRange>
+									</bibl>
+								</cit>
 							</sense>
 							<sense xml:id="uuid-201e4537-7b38-42e8-bb26-f9b8c2ec615d" n="✧">
 								<sense xml:id="uuid-30e17917-22a6-4762-aba1-550d745ef91e" n="">
@@ -1468,11 +1479,24 @@
 											<citedRange>235</citedRange>
 										</bibl>
 									</cit>
+									<cit type="unknown">
+										<quote>Nu să va certa bărbatul curvei, de o va omoră pre
+											dânsă împreună cu cela ce au curvit cu dânsă; iară de va
+											scăpa muiarea pănă va ucide pre curvariu, atunce orcând
+											o va găsi, atunce să o omoară, alegând să nu fie făcut
+											pace cu dânsa; că, daca va face pace, nu iaste vreame
+											de-a o mai uciderea.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-0f4af985-0867-2e45-83e0-9f60660f78ec">prav</ptr>
+											<date>1646</date>
+											<citedRange/>
+										</bibl>
+									</cit>
 								</sense>
 								<def xml:id="id"/>
 								<usg corresp="#id">
 									<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Urmat de un infinitiv
-										lung</seg>)</usg>
+									lung</seg>)</usg>
 								<cit type="unknown">
 									<quote>Iară curund născu, anume Alexandru, cocon fromoşel, şi-i
 										fu milă <hi rend="bold">a</hi>-l piiarderea, ce-l lepădă
@@ -1503,18 +1527,6 @@
 										<ptr target="#uuid-086c50f8-9e16-793f-8656-d985d44d8d08">prav. go</ptr>
 										<date>1640</date>
 										<citedRange>19<hi rend="superscript">v</hi>/15</citedRange>
-									</bibl>
-								</cit>
-								<cit type="unknown">
-									<quote>Nu să va certa bărbatul curvei, de o va omoră pre dânsă
-										împreună cu cela ce-au curvit cu dânsă; iară de va scăpa
-										muiarea pănă va ucide pre curvariu, atunce orcând o va găsi,
-										atunce să o omoară, alegând să nu fie făcut pace cu dânsa;
-										că, daca va face pace, nu iaste vreame de-<hi rend="bold">a</hi> o mai uciderea.</quote>
-									<bibl type="unknown">
-										<ptr target="#uuid-0f4af985-0867-2e45-83e0-9f60660f78ec">prav</ptr>
-										<date>1646</date>
-										<citedRange>98</citedRange>
 									</bibl>
 								</cit>
 								<cit type="unknown">
@@ -1579,7 +1591,7 @@
 							</cit>
 							<cit type="unknown">
 								<quote>Cine ar putea spune... și <hi rend="bold">a</hi> arăta... și
-									a se mira puterei acestuia. </quote>
+										<hi rend="bold">a</hi> se mira puterei acestuia. </quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-eb954596-8779-2651-80d9-2f1fd96f61eb">cod.
 										to</ptr>
@@ -1740,15 +1752,6 @@
 									<ptr target="#uuid-a0c894e2-676b-8a5f-0857-969d6d61a32b">dumitriu</ptr>
 									<date>1955</date>
 									<citedRange>20</citedRange>
-								</bibl>
-							</cit>
-							<cit type="unknown">
-								<quote>Dar această înțelegere nu-i rămase mult timp în minte, avea o
-									deosebită capacitate de <hi rend="bold">a</hi> uita. </quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">păsările</ptr>
-									<date>1970</date>
-									<citedRange>63</citedRange>
 								</bibl>
 							</cit>
 							<cit type="unknown">
@@ -2005,7 +2008,7 @@
 									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
 									<term>De-a sila</term>
 								</form>
-								<def xml:id="id"> </def>
+								<def xml:id="id"/>
 								<ptr type="trimitere" target="silă (I 2)"/>
 								<cit type="unknown">
 									<quote/>
@@ -2021,9 +2024,7 @@
 									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 									<term>A băga a samă</term>
 								</form>
-								<def xml:id="id">
-									<hi rend="bold">a băga în seamă</hi>
-								</def>
+								<def xml:id="id"> </def>
 								<ptr type="trimitere" target="băga"/>
 								<cit type="unknown">
 									<quote/>
@@ -2036,6 +2037,7 @@
 							</sense>
 							<sense xml:id="uuid-37fad64b-6715-4f56-8c92-d897ac5437aa" n="✧">
 								<form type="unitate-semantică-subsumată">
+									<usg><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi></seg></usg>
 									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 									<term>A-bușile</term>
 								</form>
@@ -2098,8 +2100,8 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">(<seg type="hint" rend="usg">Exprimă asemănarea,
-									potrivirea, conformitatea cu ceea ce indică terenul care urmează
-									după prep.</seg>)</usg>
+									potrivirea, conformitatea cu ceea ce indică termenul care
+									urmează după prep.</seg>)</usg>
 							<cit type="unknown">
 								<quote>Amirosă <hi rend="bold">a</hi> provinție cale de-o poștă. </quote>
 								<bibl type="unknown">
@@ -2282,6 +2284,17 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
+								<quote>În jocul copilăresc <hi rend="bold">de-a mijoarca</hi> sau
+										<hi rend="bold">de-a mija</hi>, se întrebuințează, pentru a
+									se face alegerea mijei, o formnulă de eliminare prin care se
+									hotărăște cine să facă mija.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7734086d-82a1-3e42-a77e-1ee1526f007b">șez.</ptr>
+									<date>1895</date>
+									<citedRange>nr. 9-10, 198</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
 								<quote>După clacă se puneau cu toţii la jocuri: <hi rend="bold">de-a
 										ineluş-învârteguş, de-a baba mija, de-a gaia, de-a
 										cârpa</hi>. </quote>
@@ -2325,7 +2338,7 @@
 									<quote>
 										<hi rend="bold">A ce</hi> iubești deșertăciunea?</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-dd6cc872-0497-6608-176a-8c04607f1152">svin</ptr>
+										<ptr target="#uuid-c2050689-6ce8-1345-9a00-71cd470b5261">svin</ptr>
 										<date>1682</date>
 										<citedRange>noiembrie, 125<hi rend="superscript">r</hi>/17</citedRange>
 									</bibl>
@@ -2345,9 +2358,9 @@
 							</sense>
 							<def xml:id="id"/>
 							<usg corresp="#id">
-								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă justificarea unei
-									acţiuni, a unui fapt prin indicarea cauzei care o
-									generează</seg>)</usg>
+								<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg> (<seg type="hint" rend="usg">Exprimă
+									justificarea unei acţiuni, a unui fapt prin indicarea cauzei
+									care o generează</seg>)</usg>
 							<cit type="unknown">
 								<quote>De mari munci sânt vreadnec și <hi rend="bold">a</hi> multe
 									morți sunt vinovat.</quote>

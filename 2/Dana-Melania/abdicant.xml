@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a855635a-56c8-4fee-bd1b-10f42ff9efb9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-17T13:46:05+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdicant</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDICÁNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-95d2027a-9ca2-42f3-8aee-f79dcb800dbf" n="">
+						<def xml:id="uuid-a9cda325-4ae8-4af3-8133-f3aa72f1f5f0">Persoană care
+							abdică.</def>
+						<usg corresp="#uuid-a9cda325-4ae8-4af3-8133-f3aa72f1f5f0">
+							<seg type="plev" rend="usg">Rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Remarc din nou: curajul a doar câteva persoane din zeci de mii,
+								de <hi rend="bold">abdicanţi</hi>, de nu milioane, rămâne
+								exemplar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-49fe83de-2fa2-414e-14ef-3f62f0c42c66">rădul</ptr>
+								<date>1998</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1973e97d-f247-477a-871b-74eb8998910b" n="">
+						<def xml:id="uuid-14e0af87-3f06-4aec-acc9-41303c6061c2"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abdicanţi, -te</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abdica"/><term xml:lang="" type="sufix" subtype="unknown">ant</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abdicant</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c76e6b45-9667-49b2-9d2d-7bd538a31bf4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-09T11:37:07+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">aberatie</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABERÁŢIE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-d670fcfc-80e3-4703-b529-60c886ffcf37" n="">
+						<sense xml:id="uuid-053ca4c9-cd2e-45f8-a87e-53a96db916b0" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">FIZ.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberație cromatică</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">FIZ.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberație de refrangibilitate</term>
+							</form>
+							<def xml:id="id">defecţiune a unui sistem optic, care, prin
+								descompunerea luminii albe care îl străbate, determină formarea de
+								irizaţii pe margine.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aberația</hi>
+									<hi rend="bold">cromatică</hi> (cromatism) se produce datorită
+									fenomenului de dispersie a luminii ce străbate mediile
+									transparente (lentile, prisme etc.) din care este alcătuit un
+									sistem optic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">fiz</ptr>
+									<date>1972</date>
+									<citedRange>7</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">term</ptr>
+									<date>1972</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">ȘT</ptr>
+									<date>1978</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">psihi</ptr>
+									<date>1987</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d96ffeb9-7550-4844-86be-9309c95b0d8d" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ASTRON.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie a luminii</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ASTRON.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie a stelelor</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ASTRON.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberație anuală</term>
+							</form>
+							<def xml:id="id">variaţie aparentă a poziţiei unui astru pe cer datorită
+								mişcării Pământului în jurul Soarelui, în jurul axei proprii şi
+								faptului că lumina se propagă cu viteză finită.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Prin observaţiunea atentivă a stelelor s-a descoperit un
+									fenomen curios numit <hi rend="bold">aberaţiunea</hi>
+									<hi rend="bold">stelelor</hi>, consistând într-o mutare aparentă
+									comună tuturor stelelor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8a681d8a-5922-1b96-5796-efdded27455d">drăghicean</ptr>
+									<date>1866</date>
+									<citedRange>77</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>
+									<hi rend="bold"/>
+								</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+									<date>1949</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Aberația luminii] a fost descoperită de J. Bradley în
+									1728.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">fiz.</ptr>
+									<date>1972</date>
+									<citedRange>9</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un observator de pe Pământ, antrenat concomitent în trei
+									mișcări diferite, distinge trei tipuri de <hi rend="bold">a</hi>[<hi rend="bold">berații</hi>]: diurnă, anuală și
+									seculară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">astron.</ptr>
+									<date>1977</date>
+									<citedRange>9</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">șt.</ptr>
+									<date>1978</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-340a238e-a30f-4239-8b4b-7c88fe975141" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">PSIH.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie mintală</term>
+							</form>
+							<def xml:id="id">deviere parţială sau totală a activităţilor mentale
+								faţă de normal.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>D-lor deputaţi, când s-a publicat acele ameninţări, ne am
+									întrebat poate cu toţii: este o <hi rend="bold">aberaţiune</hi>
+									<hi rend="bold">mentală</hi> ce se manifestă?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-acb2341f-3b98-3f4a-11bb-ff063b1005cb">discurs</ptr>
+									<date>1881</date>
+									<citedRange>670</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aicea însă glasul nostru se stinge în huiduielile şi
+									strigătele burgheziei: <hi rend="bold">aberaţiuni</hi>
+									<hi rend="bold">mintale</hi>, răzvrătiri, utopii, vreţi să
+									desfiinţaţi temeliile sfinte ale societăţii: familia, statul,
+									proprietatea, care prin firea lor sunt veşnice!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-96397f87-328c-877b-4291-9ac6671c4b6f">gherea</ptr>
+									<date>1885</date>
+									<citedRange>228</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Din toată munca aceasta de mai mulţi ani nu a ieşit decât un
+									moment de <hi rend="bold">aberaţiune</hi>
+									<hi rend="bold">mintală</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-731513cf-4c77-887b-064a-433200324cd3">mod.</ptr>
+									<date>1921</date>
+									<citedRange>288</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aberație mintală</hi> [constituie un] termen
+									astăzi puţin uzitat, imprecis delimitat, care desemna devierea,
+									în genere pasageră de la normal a unei judecăţi, fie prin
+									deformarea percepţiei, fie prin interpretarea greşită a
+									realităţii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">psihi</ptr>
+									<date>1987</date>
+									<citedRange>16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dar, presupunând că într-o clipă de a<hi rend="bold">beraţie
+										mintală</hi> le aş fi putut ierta purtarea lor faţă de mine,
+									cu ce drept să iert eu suferinţele celorlalte?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5e3d83f-6bac-96e3-a3c5-5364a1710133">constante</ptr>
+									<date>1993</date>
+									<citedRange>89</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f767c2cf-082f-4f6e-a436-aed1d42218ac" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">FIZ.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberație de sfericitate</term>
+							</form>
+							<def xml:id="id">defecţiune a unui sistem optic, care duce la obţinerea
+								unor imagini neclare, deformate.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aberația de sfericitate</hi> se produce
+									datorită formei sferice a suprafeței sistemului optic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">astron</ptr>
+									<date>1977</date>
+									<citedRange>10</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-a4e54ce0-42ac-45ce-b2ba-f1e9ce663b4a" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie vizuală</term>
+							</form>
+							<def xml:id="id">astigmatism.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+									<date>1961</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-e623482a-d185-4355-870c-90e7638d01bd" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GENET.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie cromozomială</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GENET.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie genetică</term>
+							</form>
+							<def xml:id="id">modificare a numărului sau a structurii unuia sau a
+								unora dintre cromozomii unei celule ori ai unui organism, cu
+								afectarea bazei ereditare în timpul diviziunii celulare.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">DN</ptr>
+									<date>1966</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[<hi rend="bold">Aberația</hi>] <hi rend="bold">cromozomială</hi> [reprezintă o] schimbare în ordinea
+									liniară a genelor într-un grup ligatural, fără schimb genetic
+									între cromozomi sau cu schimb genetic, dar între cromozomi
+									neomologi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange>16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[<hi rend="bold">Aberația</hi>] <hi rend="bold">cromozomială</hi> [se referă la acele] modificări cu efect
+									patogen privind numărul sau structura cromozomilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">psih</ptr>
+									<date>1987</date>
+									<citedRange>15</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">A</hi>[<hi rend="bold">berația</hi>] <hi rend="bold">c</hi>[<hi rend="bold">romozomială</hi>] poate
+									fi ereditară sau dobândită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange>150</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-49901bb5-62fd-4bab-b891-afaa2454137b" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Aberaţie sexuală</term>
+							</form>
+							<def xml:id="id">formă pervertită de satisfacere a instinctului sexual;
+								deviere de la manifestarea normală a simţului genezic.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zooteh</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">fiz.</ptr>
+									<date>1972</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Aberație</hi>
+									<hi rend="bold">sexuală</hi> [constituie un] termen vechi,
+									folosit pentru a desemna o perversiune sexuală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">hiatr.</ptr>
+									<date>1987</date>
+									<citedRange>16</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-bcc23d84-afb3-43e6-b9d8-0f0e43665620">Abatere de la ceea
+							ce este normal sau corect;</def>
+						<xr type="syn" corresp="#uuid-bcc23d84-afb3-43e6-b9d8-0f0e43665620">
+							<ptr target="absurditate (1)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-bcc23d84-afb3-43e6-b9d8-0f0e43665620">
+							<ptr target="elucubrație"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Idealismul... numai prin o <hi rend="bold">abberăciune</hi>
+								singulară contestează realitatea mundului material.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1834b3fa-0d06-37f6-700b-dd5991bb603e">laurian</ptr>
+								<date>1846</date>
+								<citedRange>156</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Într-un moment de <hi rend="bold">aberaţiune</hi>, de slăbiciune,
+								de furie, am comis un fapt care nu poate decât să fie rău şi prin
+								urmare mă osândesc eu însumi dându-mi demisiunea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4bbb0c99-2911-9283-6c72-643f06354004">kogăln</ptr>
+								<date>1874</date>
+								<citedRange>387</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>D. Boerescu ... e liber negreşit de a se face astăzi solidar cu
+									<hi rend="bold">aberaţiunile</hi> politice ale colegului său de
+								la Lucrările Publice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">emines</ptr>
+								<date>1879</date>
+								<citedRange>349</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Culmea derisiunii: regelui Franciei dă Austria trista misiune d-a
+								termina diferendul ... Poate să fie o <hi rend="bold">abheraţiune</hi> mai mare!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-891682ce-4df6-6905-a0e7-fbdf8df3503e">urechia</ptr>
+								<date>1891</date>
+								<citedRange>159</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu ţi se pare că din partea lor ar fi o <hi rend="bold">aberaţiune</hi> morală, şi din partea d-tale un curaj
+								imoral?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8da57f66-6e38-3b70-19ba-87efd98160d9">delavr</ptr>
+								<date>1894</date>
+								<citedRange>432</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Aberaţiunile</hi> grămăticilor sunt elemente ale
+								limbii române!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-281050a9-a67a-894d-8d9d-b95b38617e52">coșbuc</ptr>
+								<date>1897</date>
+								<citedRange>30</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să căutăm însă şi explicaţia acestor <hi rend="bold">aberaţiuni</hi> estetice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<date>1899</date>
+								<citedRange>413</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Aberaţiile</hi> estetice de felul amintit, d.
+								Macedonski le comitea şi pentru a dovedi flexibilitatea limbei
+								române.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd550141-a4b0-5586-9375-cda6f0b10e0c">chendi</ptr>
+								<date>1904</date>
+								<citedRange>63</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>„Ciune” s-a coborât în neagra veşnicie, pe urmele altor „<hi rend="bold">aberăciuni</hi>” ale romanticilor noştri
+								filologi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd550141-a4b0-5586-9375-cda6f0b10e0c">chendi</ptr>
+								<date>1904</date>
+								<citedRange>237</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Niciodată, nimeni nu m-a auzit vorbind <hi rend="bold">aberaţiuni</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfires</ptr>
+								<date>1909</date>
+								<citedRange>42</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Reproducem, pentru edificarea binecredincioşilor creştini şi a
+								colecţionarilor de <hi rend="bold">aberaţii</hi> teologice, prima
+								pagină a acestei reviste.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5563a9e0-7a08-35b9-1817-8ec00d600a07">arghezi</ptr>
+								<date>1911</date>
+								<citedRange>341</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aceasta e una din multele <hi rend="bold">aberaţii</hi> … care-şi
+								află originea în expresiunile echivoce [Notă de subsol].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3de42786-1c63-69fc-9d34-9d1b95217f3a">philipp</ptr>
+								<date>1923</date>
+								<citedRange>368</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Baruțu nu încearcă nicio emoție. Îi lipseşte, prin <hi rend="bold">aberaţie</hi>, bunul-simţ al meritului, patriotismul
+								catalogului şi civilizaţia matricolei generale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-84b6cbac-a18d-2776-6e2e-c409fee775ff">juc</ptr>
+								<date>1931</date>
+								<citedRange>16</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Încetaţi, vă rog, degeaba vă ostenişi să mă convingeți de o <hi rend="bold">aberaţie</hi> a dumneavoastră.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7931e50-6ea7-68c9-5d26-1a13d7309c95">regal</ptr>
+								<date>1973</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e51a8255-2913-45bb-a8b2-b32a9d6d9d9f" n="">
+						<def xml:id="uuid-7faef894-9213-4094-856b-1350ce8968af"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>aberaţii</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>aberaţiúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>aberraţiune</oVar>
+						<bibl type="unknown">
+							<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+							<date>1862</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>aberațióne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>aberraţione</oVar>
+						<bibl type="unknown">
+							<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+							<date>1871</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>aberăciúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>abberăciune</oVar>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<def>abderáţie</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>abherațiúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">aberration</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">aberratio, -onis</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown">abberrazione</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asac</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">Șt.</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

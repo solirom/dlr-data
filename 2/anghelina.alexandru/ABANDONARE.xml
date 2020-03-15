@@ -88,12 +88,12 @@
 									</bibl>
 								</cit>
 							</sense>
-							<def xml:id="id">Părăsire a ceva sau a cuiva; renunțare la ceva:</def>
+							<def xml:id="id">Părăsire a ceva sau a cuiva; renunțare la ceva;</def>
 							<xr type="syn" corresp="#id">
 								<ptr target="lăsare (I 1)"/>
 							</xr>
 							<xr type="remote-syn" corresp="#id">
-								<ptr target="epădare (II 1)"/>
+								<ptr target="lepădare (II 1)"/>
 							</xr>
 							<xr type="asoc" corresp="#id">
 								<ptr target="abandona (1)"/>
@@ -235,14 +235,14 @@
 							<usg corresp="#id">
 								<seg type="sem" rend="usg">Fig.</seg>
 							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="delăsare (2)"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="nepăsare"/>
+							</xr>
 							<xr type="analog" corresp="#id">
 								<ptr target="apatie"/>
-							</xr>
-							<xr type="analog" corresp="#id">
-								<ptr target="delăsare"/>
-							</xr>
-							<xr type="analog" corresp="#id">
-								<ptr target="nepăsare"/>
 							</xr>
 							<xr type="asoc" corresp="#id">
 								<ptr target="abandona (2)"/>
@@ -410,12 +410,15 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abandonări</number>
 					</form>
 				</form>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

@@ -36,6 +36,11 @@
 					<case value=""/>
 					<subc value=""/>
 				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-5fd2796a-a041-498b-9076-e9ff00178e94" n="1.">
 						<gramGrp>
@@ -61,9 +66,14 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-7a15d84e-c1df-4815-9d4b-850a8854844d" n="2.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
 						<sense xml:id="uuid-818a6589-3239-4afd-9420-69647eca5c45" n="✧">
 							<form type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Limba abazină </term>
 							</form>
 							<def xml:id="id">limbă din familia caucaziană înrudită cu abhaza.</def>
@@ -107,6 +117,18 @@
 					</form><form type="grammatical-information-for-plural" corresp="">
 						<number>abazínei</number>
 						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
 					</form>
 				</form>
 				<etym cert="high">

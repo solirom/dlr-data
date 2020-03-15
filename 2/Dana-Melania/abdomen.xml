@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a810ed29-ee42-4c86-8323-594f1715dfdf" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-20T11:26:46+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abdomen</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABDOMÉN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-49280d68-a530-45ab-abc2-80b48b9bb198" n="1.">
+						<sense xml:id="uuid-dbf0d06a-83c7-4b9d-b973-67d9ddd8b4d7" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>E un fel de trecătoare de infern, prin care te strecori cu
+									pălăria în mână, ... cerându-ţi iertare de la o soţie lovită-n
+									genunchi sau în osul bărbiei, subt ochiul aspru al soţului
+									spânzurat într-un guler sau plutitor pe un <hi rend="bold">abdomen</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">cortin</ptr>
+									<date>1913</date>
+									<citedRange>97</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Puţini vor putea spune că pricep mai bine, dar multe <hi rend="bold">abdomene</hi> dogmatice vor rămâne în
+									aer.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">fenom</ptr>
+									<date>1936</date>
+									<citedRange>446</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-725bc846-ead5-45c0-b9bd-d7c43915bed9" n="">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abdomen acut</term>
+							</form>
+							<def xml:id="id">sindrom abdominal cu debut brusc, caracterizat prin
+								durere, contractură musculară, temperatură ridicată, greţuri,
+								vărsături, cauzat de inflamaţia, perforaţia sau obstrucţia etc. unui
+								organ intern și care impune adesea intervenţia chirurgicală de
+								urgenţă</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">ABC</ptr>
+									<date>1964</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<date>1969</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-67a2a174-30a7-4bc4-b812-93a6002fe988" n="✧">
+							<usg corresp="#uuid-67a2a174-30a7-4bc4-b812-93a6002fe988">
+								<seg type="dom" rend="usg">MED.</seg>
+							</usg>
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abdomen de broască</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abdomen de batracian</term>
+							</form>
+							<def xml:id="id">aspect particular al abdomenului la bolnavii cu ascită
+								veche, caracterizat prin lărgirea părților laterale ale acestuia,
+								care devin asemănătoare ca formă cu abdomenul broaștelor.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">ABC</ptr>
+									<date>1964</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-3df71b6c-2cb7-42f5-852d-9e9c24a40a45" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">MED.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abdomen în corabie</term>
+							</form>
+							<def xml:id="id">aspect particular al abdomenului, a cărui parte
+								centrală este excavată, formând o depresiune delimitată de ultimele
+								coaste şi de oasele iliace, întâlnit în numeroase boli, mai ales în
+								holeră, meningită tuberculoasă, colică saturnină şi în stări de
+								emaciere.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5a91ac98-b028-4ba7-b990-6e744a223983" n="✦">
+							<def xml:id="id">Exerciţiu fizic care constă în utilizarea intensă a
+								muşchilor abdominali, prin apropierea repetată a toracelui de
+								coapse.</def>
+							<usg corresp="#id">(<seg type="plev" rend="usg">Mai ales la
+								pl.</seg>)</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+									<date>2011</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-41ca1f97-0441-468e-b0be-74203441370d">Regiune a corpului
+							vertebratelor, situată între torace şi pelvis, în care se află stomacul,
+							ficatul, pancreasul, splina, rinichii şi intestinele;</def>
+						<usg corresp="#uuid-41ca1f97-0441-468e-b0be-74203441370d">
+							<seg type="dom" rend="usg">ANAT.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-41ca1f97-0441-468e-b0be-74203441370d">
+							<ptr target="burtă"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-41ca1f97-0441-468e-b0be-74203441370d">
+							<ptr target="pântece"/>
+							<usg>
+								<seg type="register style" rend="usg">pop.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-41ca1f97-0441-468e-b0be-74203441370d">
+							<ptr target="foale"/>
+							<usg>
+								<seg type="geo" rend="usg">reg.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Linia albă a <hi rend="bold">abdomenului</hi> nu este dar alt
+								decât o încrucişare la partea din mijloc a aponevrozelor
+								muşchilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kretz</ptr>
+								<date>1843</date>
+								<citedRange>167/21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">CIPARIU<quote>Ştii d-ta ce simţ io şi trebuie să simţă
+								oricine care cât de puţin ş-au studiat limba istoriceşte? Greaţă!
+								Abandonament! Abandonare! etc. <hi rend="bold">abdomen</hi>,
+								abdominal etc., abordabil! … D[omnul] Eliad le dă vorbe de origine
+								romană şi necesarii la curăţirea (?!) şi cultura (!) limbei române!!
+								Ferească-ne Dumnezeu!</quote><bibl type="ap.">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">contemp</ptr>
+								<date>1847</date>
+								<citedRange>272</citedRange>
+							</bibl></cit>
+						<cit type="unknown">
+							<quote>Era o femeie, încă tânără, care murise de foame, judecând după
+								înfăţişarea ei groaznic de sărăcăcioasă şi după depresiunea <hi rend="bold">abdomenului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1359b719-8fd5-1ea1-31a5-cdc6780e4dad">varia</ptr>
+								<date>1919</date>
+								<citedRange>336</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abdomineul</hi> are pelea belită şi ... îngăurită
+								ca de armă de vânătoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-837c7f10-9103-1d5f-0885-6a269c8d370d">carnet</ptr>
+								<date>&lt;1927–1938&gt;</date>
+								<citedRange>33</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sybill ... s-a întors la Bucureşti, chinuită de un ciudat fenomen
+								de umflătură în regiunea <hi rend="bold">abdomenului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c89d9cfb-3f8c-9eb7-461e-72544c5d5291">gafen</ptr>
+								<date>1931</date>
+								<citedRange>275</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Apucat în Orient Expres de dureri nebune de <hi rend="bold">abdomen</hi>, de năduşeli şi de otihneli, a fost debarcat la
+								Viena, pe o targă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+								<date>1936</date>
+								<citedRange>458</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Accidentatul este culcat pe <hi rend="bold">abdomen</hi> (pe
+								burtă) pe o suprafaţă orizontală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db">belea</ptr>
+								<date>1959</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Femela … cedează icrele la uşoara apăsare a <hi rend="bold">abdomenului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d1bab122-3e0e-1da9-0ebb-e0e207ef751e">vânăt</ptr>
+								<date>1961</date>
+								<citedRange>iulie, 6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zoot</ptr>
+								<date>1969</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f5db154-66b4-704b-9966-f6d92e98799c">zoot</ptr>
+								<date>1982</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aplicare de cataplasme calde stimulative pe <hi rend="bold">abdomenul</hi> suferinzilor [de holeră].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">cernov</ptr>
+								<date>2002</date>
+								<citedRange>61</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f0e3e1c0-c524-4406-9126-a9760de47a0f" n="2.">
+						<def xml:id="id">Partea posterioară a corpului la artropode.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">BIOL.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Sunt animale hexapode (cu 6 picioare) având corpul lor trei
+								despărţituri bine destinate, adică un cap, un toraci (pept) şi un
+									<hi rend="bold">abdomen</hi> (burtă).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6080c44e-1415-4e16-7a95-e03cb3cc3478">barasc</ptr>
+								<date>1861</date>
+								<citedRange>237</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După cefalotorace urmează <hi rend="bold">abdomenul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-be377332-92c6-0b48-6c48-86d72f683879">zool</ptr>
+								<date>1962</date>
+								<citedRange>56</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Într-un loc cu iarbă mai rară, mergeau grăbite două mici gângănii
+								roşii, cu pete negre pe aripi şi cu picioare subţiri, lucioase şi
+								negre, legate între ele prin extremitatea <hi rend="bold">abdomenului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">iliesc</ptr>
+								<date>1970</date>
+								<citedRange>227</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b760e9e9-5357-4567-b2ac-fecffdc00a58" n="">
+						<def xml:id="uuid-f105fb86-cc07-4a60-b879-e51d4cda3975"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abdomene</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="plev" rend="usg">rar</seg></usg>
+					<def>abdomíneu</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abdomen</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abdomen</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontb</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcia</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alex</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bian</ptr>
+						<date>1910</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c2f56bf1-9c34-8c26-8f36-95dc60bd0288">tdrg</ptr>
+						<date>1986</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DICR</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

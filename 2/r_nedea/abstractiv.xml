@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-dd166e17-3e03-40d0-8802-7ce83a1d5cf3" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T16:50:11+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractiv</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACTÍV</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-85910937-99dc-42a5-bbf3-b31cc870be55" n="1.">
+						<sense xml:id="uuid-de5c0f9b-e6fb-4a34-981a-fddf03806e94" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Sunetele s-au urcat într-o notă de poezie nematerială, în
+									care senzorialul „ochi ca murele” a fost covârşit şi idealizat
+									de <hi rend="bold">abstractivul</hi> „înconjor
+									pădurile”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfirescu</ptr>
+									<date>1911</date>
+									<citedRange>93</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-2aa948c6-3fd9-4e59-b084-7c8b5fb8d482" n="✦">
+							<def xml:id="id">Care utilizează sau operează cu abstracții.</def>
+							<usg corresp="#id"><seg type="sem" rend="usg">P. ext.</seg>(<seg type="hint" rend="usg">Despre oameni</seg>)</usg>
+							<cit type="unknown">
+								<quote>Opera de artă exprimă caracterul cel mai general al
+									obiectului ... – în sfârşit, tot ce poate da perplexitatea unui
+									tip intelectual <hi rend="bold">abstractiv</hi> în faţa unor
+									date care, prin natura lor, sunt unice, individuale şi ca atare
+									perfect iraţionale, sunt însăşi negarea abstractului şi oprirea
+									pornirii spre generalizare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<date>1934 (†)</date>
+									<citedRange>286</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Lucian Blaga posedă o bună pregătire filosofică şi are multă
+									fantazie, fiind cu mult mai puţin un cap <hi rend="bold">abstractiv</hi>, un creator de idei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+									<date>1941</date>
+									<citedRange>864</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-488eb4d9-ac8d-404d-9a46-942379dee261">Care exprimă sau
+							care se referă la abstracții.</def>
+						<usg corresp="#uuid-488eb4d9-ac8d-404d-9a46-942379dee261">(<seg type="hint" rend="usg">Despre noțiuni, creații, manifestări etc. ale
+								oamenilor</seg>)</usg>
+						<cit type="unknown">
+							<quote>Termen <hi rend="bold">abstractiv</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ceea ce espreme abstracţiunile se num[ește] „<hi rend="bold">abstractiv</hi>”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Generalizaţiunea nu este decât un mod particular al funcţiunii
+									<hi rend="bold">abstractive</hi> a creierilor noştri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+								<date>&lt;1875–1876&gt;</date>
+								<citedRange>63</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se cere mai cu seamă o deprindere a facultății noastre <hi rend="bold">abstractive</hi> de a lucra cu materialul sufletesc
+								în așa chip, încât acesta să se simtă într-o continuă devenire către
+								mai bine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-51470cdb-5db9-14f0-415c-9ce3816d72e3">zamfirescu</ptr>
+								<date>1904</date>
+								<citedRange>464</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Basmul este etern şi nu poate fi distrus prin teorii <hi rend="bold">abstractive</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date>1911</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Artistul actual refuză din principiu funcţiunea de informator.
+								Arta se formează din atitudini şi procedări <hi rend="bold">abstractive</hi>, conştient unilaterale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">zarifopol</ptr>
+								<date>1927</date>
+								<citedRange>103</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tendinţa <hi rend="bold">abstractivă</hi> găseşte un perfect vad
+								într-o sculptură ascetică şi aproximativ bizantină.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+								<date>1932</date>
+								<citedRange>180</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Totul atârnă, cum se zice în ştiinţa socială <hi rend="bold">abstractivă</hi>, de materialul uman care o să trebuiască
+								niţeluş cam fabricat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-426e22a1-6de8-8204-2f88-f73f3d256363">arghezi</ptr>
+								<date>1933</date>
+								<citedRange>328</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-f8e1aad2-31c9-4891-a34e-1a3fe39e4b85" n="">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">(Care este) adept al abstractizării.</def>
+						<cit type="unknown">
+							<quote>Dacă acum vom trece de la Eminescu la alţi poeţi ai noştri,
+								moderni şi cunoscuţi, ... ca d-l Coşbuc, vom vedea deosebirea ce
+								este între un poet <hi rend="bold">abstractiv</hi> şi un poet
+								senzorial.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfirescu</ptr>
+								<date>1911</date>
+								<citedRange>85</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vin şi poporaniştii, vin şi „<hi rend="bold">abstractivii</hi>”,
+								vin cu toţii!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-20c9d203-3b50-8a61-5e3e-ebff94ee1462">chendi</ptr>
+								<date>1911</date>
+								<citedRange>79</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Forme de gândire dintre cele mai complexe, la care oamenii <hi rend="bold">abstractivi</hi> au încă spasmuri, găsesc în
+								vastitatea sufletului lui M. Sadoveanu ecou.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-297a32e7-5f88-57ae-1cd0-4af4cf2e05be">călinescu</ptr>
+								<date>1960</date>
+								<citedRange>310</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-61470e08-c5b6-4c92-9ac9-d9918113760e" n="">
+						<def xml:id="uuid-9c9aecd0-f8f4-4027-a028-1c7a432eda8b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstractivi, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstractif</term>
+				</etym>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abstract"/><term xml:lang="" type="sufix" subtype="unknown">-iv</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopop</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">SCL</ptr>
+						<date>1960</date>
+						<citedRange> nr. 2, 182</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

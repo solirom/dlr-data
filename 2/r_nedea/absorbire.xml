@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>r_nedea</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -25,17 +25,22 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="">absorbire</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSORBÍRE</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-7107624c-dba7-4ecd-821d-b3ed929cc7ac" n="">
 						<def xml:id="uuid-9db4df7f-e02b-4019-a955-e6757797f3b1"/>
+						<ptr type="trimitere" target="unknown"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -59,8 +64,57 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<etym cert="high">
-					<idno type="unknown"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>absorbiri</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+						<case value="gen.-dat.">absorbirei</case>
+						<usg>(<seg type="time" rend="usg">înv.</seg>)</usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">,rar</seg>)</usg>
+					<def>absorbáre</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">,rar</seg>)</usg>
+					<def>asorbíre</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def>absoárbere</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+						<usg>(<seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">,rar</seg>)</usg>
+					</gramGrp>
+				</re>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="absorbi"/>
 				</etym>
 			</entry>
 		</body>

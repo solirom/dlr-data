@@ -64,7 +64,7 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-f5eaf29b-0964-438b-8a6e-057f53b36603" n="2.">
-						<sense xml:id="uuid-bad85524-ef4d-4102-a861-fec8ffe8991b" n="">
+						<sense xml:id="uuid-bad85524-ef4d-4102-a861-fec8ffe8991b" n="✦">
 							<def xml:id="id">Ansamblu de operaţii făcute în abator de la
 								introducerea animalelor în sala de tăiere până la tranşarea cărnii. </def>
 							<cit type="unknown">
@@ -115,7 +115,7 @@
 						<sense xml:id="uuid-c7bd1a30-d576-459e-82e7-c305fe2e4f7e" n="✦">
 							<def xml:id="id">Loc unde se execută această operație.</def>
 							<usg corresp="#id">
-								<seg type="sem" rend="usg">P. ext.</seg>
+								<seg type="sem" rend="usg">P. restr.</seg>
 							</usg>
 							<cit type="unknown">
 								<quote>Am fugit din <hi rend="bold">abataj</hi> și am dat alarma
@@ -352,7 +352,7 @@
 						<number>abataje</number>
 					</form><form type="grammatical-information-for-plural" corresp="5">
 						<number>abatajuri</number>
-						<usg><seg type="plev" rend="usg">rar</seg></usg>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
@@ -411,11 +411,6 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">term. tehn</ptr>
-						<date>1972</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
 						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
@@ -428,11 +423,6 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-44d323b6-7a9e-40ea-2d32-f8ded7415f28">d. marin</ptr>
 						<date>1982</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
-						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">

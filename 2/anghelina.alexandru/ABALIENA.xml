@@ -80,7 +80,7 @@
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="formație.internă-derivat.regresiv"/><ptr targetLang="" type="unknown" subtype="unknown" target="abalienare"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abalienare</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

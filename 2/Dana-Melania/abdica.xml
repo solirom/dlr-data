@@ -178,10 +178,62 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-593d95b0-208f-4f48-9053-edc4da274279" n="2.">
+						<sense xml:id="uuid-58ff502b-9888-4358-a085-e1231d77c475" n="✦">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id">A înceta să exercite puterea supremă, o anumită
+								funcție, demnitate;</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">POLIT.</seg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="a paretisi"/>
+								<usg>
+									<seg type="time" rend="usg">înv.</seg>
+								</usg>
+							</xr>
+							<cit type="unknown">
+								<quote>Colatin <hi rend="bold">abdică</hi> bucuros consulatul pentru
+									a şterge preapusul poporului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6befbd90-5c1d-7bf4-9a20-246c0cfa1366">săul</ptr>
+									<date>1837</date>
+									<citedRange>63/6</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Riga ... se văzu nevoit <hi rend="bold">a abdica</hi>
+									tronul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ef22394f-1251-2fbd-7a6e-728231de8db1">săul</ptr>
+									<date>1837</date>
+									<citedRange>445/20</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-08e79377-7c24-4fb9-96f9-e4f248adf692" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Cu pronumele în
+									dativ</seg>)</usg>
+							<cit type="unknown">
+								<quote>Dar <hi rend="bold">ţi-ai abdicat</hi> titulele, cum au făcut
+									odinioară Lafayette?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2bd61632-8ee7-6121-7452-2116b9fd00d7">cristo</ptr>
+									<date>1857</date>
+									<citedRange>36/1</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<gramGrp>
 							<pos value="vb."/>
-							<iType value=""/>
-							<subc value=""/>
+							<iType value="I"/>
+							<subc value="intranz."/>
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="id">A renunţa voluntar sau constrâns la tron ori la puterea
@@ -206,6 +258,113 @@
 								<citedRange>26/12</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote>El [regele] <hi rend="bold">abdică</hi> în favoarea fiului său
+								Maximilian II.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1e1b4e5f-6356-3af9-0dc1-43bd3f1f4eeb">filimon</ptr>
+								<date>&lt;1859–1860&gt;</date>
+								<citedRange>175</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Măria Sa vodă<hi rend="bold"> au abdicat</hi> şi vă rugăm ca să
+								fiţi cu priveghere a nu se întâmpla neorânduieli în
+								capitală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2d11da73-653c-0bd7-7132-c885f56c2ba8">lăcust</ptr>
+								<date>c. 1874</date>
+								<citedRange>64</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Cuza] anunţă Parlamentului hotărârea sa de <hi rend="bold">a
+									abdica</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6b0fba85-9081-a24b-2c6f-22e4d5a2806d">maiores</ptr>
+								<date>1899</date>
+								<citedRange>76</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Gregoriu al XII-lea, papa de la Roma, l-a înştiinţat [conciliul]
+								că ar fi dispus <hi rend="bold">să abdice</hi>, dacă i s-ar da
+								putinţa să-şi salveze demnitatea pontificală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negul</ptr>
+								<date>1910</date>
+								<citedRange>155</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Exploatând cu inteligenţă conflictul dintre Dumă şi împărat,
+								ajunse să organizeze un complot între prezidentul Dumei, Rodzianko,
+								şi comandantul gardei imperiale, pentru a sili pe ţar <hi rend="bold">să abdice</hi> şi a înlătura astfel pericolul păcei
+								separate. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8606e86-3b51-8c24-0a17-00b1e9449e88">zamfi</ptr>
+								<date>1917</date>
+								<citedRange>231</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regele „e un mare senior” ... spune el şi e convins că mai bine
+									<hi rend="bold">ar abdica </hi>decât să facă război
+								Franţei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dfd82d10-81da-1f8f-5b03-347268af1fe6">argeto</ptr>
+								<date>1940</date>
+								<citedRange>268</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ioan Caragea, înainte de a fi fost numit domn, în 1812, a trebuit
+								să se oblige că, după trei ani, <hi rend="bold">va
+								abdica</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțet</ptr>
+								<date>1945</date>
+								<citedRange>33</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>: În ziua următoare se află că regele <hi rend="bold">a
+									abdicat</hi> şi că au venit legionarii la guvern.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-83610f5b-4b99-3d0a-2333-d8d572af17d8">popov</ptr>
+								<date>1955</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Diurpaneus e foarte bătrân când <hi rend="bold">abdică</hi> în
+								favoarea lui Decebal.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c439c08d-3cca-12f2-2d50-02a0def6043f">dacii</ptr>
+								<date>1965</date>
+								<citedRange>116</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La 6 septembrie 1940, Carol al II-lea <hi rend="bold">a
+									abdicat</hi>, silit de dezastrul politic din ultima
+								vreme.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3447b573-2f10-0337-6245-2ca97f974937">mem</ptr>
+								<date>1977</date>
+								<citedRange>303</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi principele străin, completează Cuza cu o indiferenţă leneşă,
+								ar vrea <hi rend="bold">să abdic </hi>înainte de a fi primit
+								învestitura?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5ddf4a65-7684-43bd-6d89-efce7bf70baf">ghica</ptr>
+								<date>1984</date>
+								<citedRange>73</citedRange>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -221,9 +380,167 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abdíc</form>
+					</form>
+				</form>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abdiquer</term>
 				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abdicare</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

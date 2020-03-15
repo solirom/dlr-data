@@ -51,7 +51,11 @@
 							vulgare</term>
 						<xr type="syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
 							<ptr target="măliniță"/>
-							<usg>(<seg type="geo" rend="usg">Bucov.</seg>, <seg type="geo" rend="usg">Mold.</seg>) </usg>
+							<usg>
+								<seg type="register style" rend="usg">
+									<hi rend="italic">reg.</hi>
+								</seg>
+							</usg>
 						</xr>
 						<xr type="remote-syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
 							<ptr target="lemn-câinesc"/>
@@ -88,16 +92,6 @@
 					<idno type="element.necunoscut"/>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-5c4cadd3-0c73-0abe-1583-aa28d5178cf2">enc. rom</ptr>
-						<date>1904</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-743bf539-5272-a65b-0b66-e9e2aae815eb">etnobot</ptr>
-						<date>1979</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
 						<date>2001</date>

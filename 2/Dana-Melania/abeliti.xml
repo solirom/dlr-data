@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-aeef3b11-51ec-4640-b8bd-1ddaff879c85" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-02T11:11:19+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abeliți</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABELIŢI </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6bdee772-2236-4c02-a0e8-9ba8f165ac5c" n="">
+						<def xml:id="uuid-9c42f755-35de-4c84-bc9e-4814deeab455">Adepţi ai unei
+							mişcări religioase creștine din sec. IV–V d. H., din nordul
+							Africii.</def>
+						<usg corresp="#uuid-9c42f755-35de-4c84-bc9e-4814deeab455">
+							<seg type="dom" rend="usg">RELIG.</seg>
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+								<date>1847</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-f1dd8bd2-c4a2-45ed-8488-f8f640a1c850" n="">
+						<def xml:id="uuid-78ef2feb-a94b-4f9c-9cab-5623a750dd9d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-De.la-n..pr."/><ptr targetLang="" type="unknown" subtype="unknown" target="Abel"/><gramGrp>
+						<pos value="s. pr."/>
+						<subc value=""/>
+					</gramGrp></etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

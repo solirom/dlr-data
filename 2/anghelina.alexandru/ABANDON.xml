@@ -39,6 +39,21 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-9d5f4458-78b3-4c1a-be4e-ef66d2576764" n="1.">
+						<sense xml:id="uuid-d5c15557-7ded-4717-ac8e-763370d1e2f0" n="✦">
+							<def xml:id="id">Faliment.</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<cit type="unknown">
+								<quote>Se zice că un concordat e făcut prin abandon, sau cu clausă
+									de <hi rend="bold">abandon</hi>, când se oferă creditorilor un
+									garant, care chezăşueste învoiala concordatara, dar în schimb
+									falitul îi abandonează activul său.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+									<date>1898</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
 						<sense xml:id="uuid-6fc3b305-cfd2-4086-aa5b-0b6c1db4c9f7" n="✧">
 							<def xml:id="id"/>
 							<usg corresp="#id">
@@ -72,10 +87,11 @@
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abandon școlar</term>
 							</form>
-							<def xml:id="id">formă de abandon constând încetarea fregventării școlii
-								înainte de încheierea anului de studiu început.</def>
-							<cit type="unknown">
-								<quote>Se iau măsuri pentru stoparea abandonului școlar.</quote>
+							<def xml:id="id">formă de abandon constând în încetarea frecventării
+								școlii înainte de încheierea anului de studiu început.</def>
+							<cit type="▭">
+								<quote>Se iau măsuri pentru stoparea <hi rend="bold">abandonului
+										școlar</hi>.</quote>
 								<bibl type="unknown">
 									<ptr target="unknown"/>
 									<date/>
@@ -236,10 +252,10 @@
 					<sense xml:id="uuid-e364da60-31ac-4207-b725-49b7cecedf45" n="2.">
 						<def xml:id="id">Uitare de sine;</def>
 						<xr type="syn" corresp="#id">
-							<ptr target="delăsare"/>
+							<ptr target="delăsare (2)"/>
 						</xr>
 						<xr type="remote-syn" corresp="#id">
-							<ptr target="nepăsare"/>
+							<ptr target="nepăsare (2)"/>
 						</xr>
 						<cit type="unknown">
 							<quote/>
@@ -385,7 +401,7 @@
 							<seg type="dom" rend="usg">SPORT</seg>
 						</usg>
 						<cit type="unknown">
-							<quote>PENTAGON: Învins la puncte! BĂLĂLĂU: Knock-out prin <hi rend="bold">abandon</hi>.</quote>
+							<quote>[Pentagon]: Învins la puncte! [Bălălău]: Knock-out prin <hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-f706c711-5e83-860d-7658-fcfed23c91e7">ciprian</ptr>
 								<date>1940</date>

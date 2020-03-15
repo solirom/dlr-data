@@ -1506,10 +1506,11 @@
 											brânzei telemea direct din lapte. Este о <hi rend="bold">premieră absolută</hi> în materie, realizată în
 											acest an de uzina «Tehnoutilaj» din Odorheiul
 											Secuiesc.</quote>
-										<bibl type="în">
+										<bibl type="unknown">
 											<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
 											<date>1973</date>
-											<citedRange>157</citedRange>
+											<citedRange>în DCR<hi rend="superscript">3</hi>,
+												157</citedRange>
 										</bibl>
 									</cit>
 									<cit type="unknown">
@@ -2080,7 +2081,7 @@
 									</usg>
 									<cit type="unknown">
 										<quote>[Eminescu] pare că el însuşi e cuprins uneori de un
-											perspicace scepticism în privinţa <hi rend="bold">valorii</hi> lui <hi rend="bold">absolute</hi>. </quote>
+											perspicace scepticism în privinţa <hi rend="bold">valorii</hi> lui <hi rend="bold">absolute</hi>.</quote>
 										<bibl type="unknown">
 											<ptr target="#uuid-d820e6ba-4740-9e39-19ef-736f88bca52e">galaction</ptr>
 											<date>1911</date>
@@ -2103,15 +2104,495 @@
 											trebuiesc să decurgă toate celelalte valori ale vieţii
 											naţionale.</quote>
 										<bibl type="unknown">
-											<ptr target="unknown"/>
-											<date/>
-											<citedRange/>
+											<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">crainic</ptr>
+											<date>1936</date>
+											<citedRange>164</citedRange>
+										</bibl>
+									</cit>
+									<cit type="unknown">
+										<quote>În Apusul tradiţiei şi conştiinţei religioase
+											evoluate se adaugă pitorescul crizei imortalizate de
+											figura lui Renan, adică trăirea probabil insuficientă a
+												<hi rend="bold">valorilor absolute</hi> sau
+											neputinţa acceptării radicalismului.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-d85bf052-8eb5-28b6-034f-838f134e0770">pandrea</ptr>
+											<date>1946</date>
+											<citedRange>104</citedRange>
+										</bibl>
+									</cit>
+									<cit type="unknown">
+										<quote>Gigi ... n-avea acea linişte a omului încrezător în
+												<hi rend="bold">valoarea</hi> sa <hi rend="bold">absolută</hi>.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-9acb0abe-6a2c-a073-9f97-b9d0ec0f23d2">călinescu</ptr>
+											<date>1963 (1960)</date>
+											<citedRange>433</citedRange>
+										</bibl>
+									</cit>
+									<cit type="unknown">
+										<quote>Aparent este un faliment total în funcţia capitală de
+											paznic al acestui centru veşnic, implicând o judecată de
+												<hi rend="bold">valoare absolută</hi> împotriva
+											celui căruia îi fusese încredinţată paza sa.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">lovinescu</ptr>
+											<date>1984 (†)</date>
+											<citedRange>16</citedRange>
+										</bibl>
+									</cit>
+									<cit type="unknown">
+										<quote>Lumea bună, instanţă a bunului gust, cedează
+											vanităţilor superficiale ale momentului şi consacră
+											pseudo-valori, <hi rend="bold">valori</hi> relative, în
+											locul celor <hi rend="bold">absolute</hi>.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-28611808-23c3-2b94-66e4-7f0cea2d469a">jinga</ptr>
+											<date>2001</date>
+											<citedRange>95</citedRange>
 										</bibl>
 									</cit>
 								</sense>
 								<form type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Valoare absolută</term>
+								</form>
+								<def xml:id="id"/>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="unknown"/>
+										<date/>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-326b1e6f-853b-40e1-9d62-4f3549fc4ad5" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Mişcare absolută</term>
+								</form>
+								<def xml:id="id">deplasarea unui corp faţă de un sistem de referinţă
+									fix.</def>
+								<cit type="unknown">
+									<quote><hi rend="bold">Mişcarea</hi> este <hi rend="bold">absolută</hi> când corpul îşi schimbă locul său în
+										spaţiu faţă cu un alt corp.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-6395b18b-4219-61fc-37c7-633006e74cec">poni</ptr>
+										<date>1891</date>
+										<citedRange>7</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Să constatăm, pe de altă parte, că potenţialul φ
+										reprezintă <hi rend="bold">mişcarea absolută</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-ecc9cd5b-5121-40d0-94e7-981ef6833cb1">carafoli</ptr>
+										<date>1951</date>
+										<citedRange>360</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>A. Einstein a arătat că rezultatul experienţei trebuie
+										interpretat ca o dovadă a falsităţii ipotezei eterului, <hi rend="bold">mişcarea absolută</hi> a corpurilor fiind o
+										noţiune lipsită de sens, iar viteza luminii în vid în
+										oricare sistem inerţial este o constantă.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+											fiz</ptr>
+										<date>1972</date>
+										<citedRange>176</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-fe71a196-62a6-460a-9ece-8861d8533018" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Altitudine absolută</term>
+								</form>
+								<def xml:id="id">înălțimea unui punct de pe suprafața scoarței
+									terestre față de nivelul mediu al Oceanului Planetar.</def>
+								<cit type="unknown">
+									<quote>Un relief de maturitate, găsindu-se acum la <hi rend="bold">altitudinea absolută</hi> de 600–700 m, pare
+										a coincide cu terasa superioară.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b9f5fa04-113e-7766-6368-e076797c3aab">vâlsan</ptr>
+										<date>1915</date>
+										<citedRange>245</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>[Forma de relief] este caracterizată prin <hi rend="bold">altitudine absolută</hi> mare, de obicei peste 800
+										m.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-59df1f00-a0ab-4b61-47c7-fe85ba8ba5b5">d.
+											geomorf</ptr>
+										<date>1974</date>
+										<citedRange>117</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-77bb7b78-7687-4cb9-966a-15e03d1dc6be" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">AGRIC.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Greutate absolută</term>
+								</form>
+								<def xml:id="id">greutate a unui număr de 1 000 de seminţe,
+									exprimată în grame, necesară aprecierii calităţii seminţelor şi
+									stabilirii normelor de semănat.</def>
+								<cit type="unknown">
+									<quote>Se ia ca bază <hi rend="bold">greutăţile absolut</hi><hi rend="bold">e</hi> ale bumbacului.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-51aac52c-070e-6afa-4ac8-962fc9676ea6">ionescu</ptr>
+										<date>1947</date>
+										<citedRange>52</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Osijek ... Plantă înaltă, larg ramificată, cu frunze
+										acoperite cu peri albicioşi. Boabele mari, cu <hi rend="bold">greutate absolută</hi> de 170 gr. Soi bogat
+										în ulei.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-bab6605c-8878-11e0-79d2-4207383e122d">flora</ptr>
+										<date>1957</date>
+										<citedRange>451</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-09e4ad18-f236-4dd9-b168-bdaa564bf55b" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Temperatură absolută</term>
+								</form>
+								<def xml:id="id">temperatură exprimată în grade Kelvin, pornind de
+									la zero absolut.</def>
+								<cit type="unknown">
+									<quote>La temperaturi foarte joase, ea [căldura] creşte cam
+										proporţional cu puterea a treia a <hi rend="bold">temperaturii absolute</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">țițeica</ptr>
+										<date>1948</date>
+										<citedRange>98</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Notând cu T <hi rend="bold">temperatura absolută</hi> şi
+										cu 6° temperatura în grade Celsius vom avea, pentru
+										viscozitatea aerului μ = 0,0000176.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-12465c42-3445-67a7-8d0b-c5dbf41a2164">carafoli</ptr>
+										<date>1952</date>
+										<citedRange>13</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Pentru substanţele paramagnetice, susceptibilitatea
+										magnetică (x) este invers proporţională cu <hi rend="bold">temperatura absolută</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+											chim</ptr>
+										<date>1964</date>
+										<citedRange>210</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>„P” este presiunea gazului, „n” numărul particulelor pe
+										unitatea de volum, „k” constanta lui Boltzmann, iar „T”<hi rend="bold"> temperatura absolută</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">d.
+											astron</ptr>
+										<date>1977</date>
+										<citedRange>130</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Energia cinetică globală a acestor particule (atomi,
+										ioni, molecule) determină <hi rend="bold">temperatura
+											absolută</hi> a corpului respectiv.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d.
+											e.</ptr>
+										<date>1978</date>
+										<citedRange>12</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote><hi rend="bold">Temperaturi absolute</hi> de 200–300
+										grade.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+										<date>1981</date>
+										<citedRange>nr. 8, 5</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-509dba0c-259f-42d2-af12-538a570967cc" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Timp absolut</term>
+								</form>
+								<def xml:id="id">timpul în care durata unui fenomen e independentă
+									de starea cinematică a sistemului de referinţă la care e
+									raportată.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+										<date>1949</date>
+										<citedRange>8</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Mecanica clasică admitea ... un <hi rend="bold">timp
+											absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<date>1975 (1969)</date>
+										<citedRange> 545</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-87dacc98-3b48-4585-85d2-207ddbbf60c6" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Spaţiu absolut</term>
+								</form>
+								<def xml:id="id">spaţiul fizic euclidian în care dimensiunile
+									corpurilor sunt independente de starea cinematică a sistemului
+									de referinţă la care sunt raportate.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+										<date>1949</date>
+										<citedRange>8</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Mecanica clasică admitea ... un <hi rend="bold">spaţiu
+											absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<date>1975 (1969)</date>
+										<citedRange>545</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-32fcb390-3cbd-4179-8529-067f4f1c8901" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">AV.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Înălţime absolută de zbor</term>
+								</form>
+								<def xml:id="id">înălţime la care se găseşte aeronava faţă de
+									nivelul mării, când efectuează un zbor de fotografiere asupra
+									unei regiuni date.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+										<date>1949</date>
+										<citedRange>8</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-c0692ea3-b21f-4509-99bd-5362eedcc0e0" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Viteză absolută</term>
+								</form>
+								<def xml:id="id">viteza unui corp considerată în ea însăşi.</def>
+								<cit type="unknown">
+									<quote>W<hi rend="subscript">k</hi> este <hi rend="bold">vitesa
+											absolută</hi> a punctului omolog de pe cerc.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-ecc9cd5b-5121-40d0-94e7-981ef6833cb1">carafoli</ptr>
+										<date>1951</date>
+										<citedRange>47</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote><hi rend="bold">Vitesa absolută</hi> de intrare V<hi rend="subscript">x</hi> face unghiul δ<hi rend="subscript">1</hi> cu tangenta la circonferinţa
+										exterioară a roţii de rază r<hi rend="subscript">1</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-12465c42-3445-67a7-8d0b-c5dbf41a2164">carafoli</ptr>
+										<date>1952</date>
+										<citedRange>114</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Cea mai faimoasă dintre aceste experienţe este experienţa
+										lui Michelson şi Morley, prin care se căuta să se determine
+											<hi rend="bold">viteza absolută</hi> a pământului (faţă
+										de eter).</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<date>1975 (1969)</date>
+										<citedRange>545</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-91d462e3-8256-4fea-9bbc-2e0d31664a2a" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Deviaţie absolută</term>
+								</form>
+								<def xml:id="id">diferenţa dintre un element şi un punct dat.</def>
+								<cit type="unknown">
+									<quote>Unghiurile ... reprezintă <hi rend="bold">deviaţiile
+											absolute</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">sanielevici</ptr>
+										<date>1956 (1944)</date>
+										<citedRange>158</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-7102e864-8d77-424a-8d30-bfced11328f8" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Eroare absolută</term>
+								</form>
+								<def xml:id="id">valoarea absolută a diferenței dintre valoarea
+									exactă a unei mărimi și cea obținută în urma unei măsurări sau a
+									calculului.</def>
+								<cit type="unknown">
+									<quote>Raportul dintre <hi rend="bold">eroarea absolută</hi> şi
+										valoarea mărimii determinate.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+											chim</ptr>
+										<date>1964</date>
+										<citedRange>278</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Raportul dintre <hi rend="bold">eroarea absolută</hi> şi
+										valoarea reală (sau valoarea medie) poartă numele de eroare
+										relativă.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+											fiz</ptr>
+										<date>1972</date>
+										<citedRange>172</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-14976adb-a7e2-459c-9d36-05d4defabf20" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">FIZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Corp absolut negru</term>
+								</form>
+								<def xml:id="id">corp care absoarbe toată cantitatea de energie
+									radiantă ce cade pe suprafaţa sa.</def>
+								<cit type="unknown">
+									<quote>Un corp care are o putere absorbantă egală cu unitatea,
+										adică absoarbe toată energia radiantă ce cade pe suprafaţa
+										sa, se numeşte <hi rend="bold">corp absolut
+										negru</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">țițeica</ptr>
+										<date>1948</date>
+										<citedRange>194</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Unitate fundamentală de măsură a intensităţii luminoase
+										în sistemul MKSCd, egală cu a 60-a parte din intensitatea
+										luminoasă normală a unui centimetru pătrat de <hi rend="bold">corp absolut negru</hi>, la temperatura de
+										solidificare a platinei.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+											chim</ptr>
+										<date>1964</date>
+										<citedRange>157</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Există unele surse de lumină pentru care luminanta este,
+										practic, aceeaşi în toate direcţiile (în mod riguros, doar
+										suprafaţa <hi rend="bold">corpului absolut negru</hi> are
+										această proprietate), numite surse care se supun legii
+										Lambert.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+											fiz</ptr>
+										<date>1972</date>
+										<citedRange>266</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Corpul (ideal) care absoarbe întreaga cantitate de
+										energie radiantă ce cade pe suprafaţa sa poartă numele de
+											<hi rend="bold">corp absolut negru</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d85bebef-4e76-33a9-522e-2f1e39ab6f4c">ciulache</ptr>
+										<date>2003</date>
+										<citedRange>39</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-02f40c0c-64cc-4316-b3e6-28c46d17379c" n="✧">
+								<sense xml:id="uuid-9e9ebe2f-2439-45e2-8ea6-eed889e38c1f" n="a)">
+									<def xml:id="id"/>
+									<ptr type="trimitere" target="zero"/>
+									<cit type="unknown">
+										<quote/>
+										<bibl type="unknown">
+											<ptr target="unknown"/>
+											<date/>
+											<citedRange/>
+										</bibl>
+									</cit>
+								</sense>
+								<sense xml:id="uuid-63088a85-fde2-4e34-8a60-b9ae45c6de03" n="b)">
+									<def xml:id="id">Persoană lipsită de orice valoare, fără niciun
+										merit.</def>
+									<usg corresp="#id">
+										<seg type="sem" rend="usg">Fig.</seg>
+									</usg>
+									<cit type="unknown">
+										<quote>E comod să fii un <hi rend="bold">zero
+											absolut</hi>.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+											<date>1964 (†)</date>
+											<citedRange>100</citedRange>
+										</bibl>
+									</cit>
+								</sense>
+								<form type="unitate-semantică-subsumată">
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Zero absolut</term>
 								</form>
 								<def xml:id="id"/>
 								<cit type="unknown">
@@ -2240,12 +2721,2000 @@
 								</bibl>
 							</cit>
 						</sense>
+						<sense xml:id="uuid-3f027a26-c620-4a6d-974d-8147efd8d999" n="8.">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">CHIM.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Alcool absolut</term>
+							</form>
+							<def xml:id="id">alcool (etilic) lipsit de apă şi de alte impurităţi,
+								care are un conţinut de alcool de minimum 99,8% în greutate;</def>
+							<def xml:id="uuid-b0feab99-a111-4836-b4cc-26d966d8e90f">alcool curat,
+								pur, neamestecat.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+									<date>1913</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Alcoolul absolut</hi> este dimpotrivă, cu
+									totul lipsit de apă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brezoianu</ptr>
+									<date>1852</date>
+									<citedRange>114/25</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Alcoolul absolut</hi>, care este cu totul
+									lipsit de apă, să prepară lăsând alcoolul concentrat în contact
+									cu calce vie timp de 24 ore înainte de a-l distila din
+									nou.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bianu</ptr>
+									<date>1910</date>
+									<citedRange>32</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[În industria spirtului] se va produce cu 34% mai mult <hi rend="bold">alcool absolut</hi> decât în 1848.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-48754b6d-6aba-4f41-8698-9c3b2c427695">leg.
+										ec</ptr>
+									<date>1949</date>
+									<citedRange>39</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Alcoolul absolut</hi> este foarte higroscopic
+									şi din acest motiv trebuie păstrat în sticle ermetic
+									închise.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<date>1949</date>
+									<citedRange>8</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Alcoolmetrele sunt areometre care indică direct conţinutul în
+										<hi rend="bold">alcool absolut</hi> (anhidru), fiind gradate
+									în procente dc volum.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+										chim</ptr>
+									<date>1964</date>
+									<citedRange>75</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cf4f53ec-b280-4741-9330-fcba036be96a" n="9.">
+							<sense xml:id="uuid-ce0cd0ad-56af-4e19-beb4-409971b9ab55" n="✦">
+								<def xml:id="id">Care este accentuat.</def>
+								<usg corresp="#id"><seg type="time" rend="usg">Ieșit din uz</seg>
+										(<seg type="hint" rend="usg">Despre pronume</seg>) </usg>
+								<cit type="unknown">
+									<quote>Forma <hi rend="bold">absolută</hi> a pronumelui [în
+										dialectul istro-român] se întrebuinţează în locul celei
+										conjuncte: „ no ntrębę (nu întreabă)”.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+										<date>1940</date>
+										<citedRange>231</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Pronumele personal are altă înfăţişare când e <hi rend="bold">absolut</hi> şi alta când e conjunct („pe
+										mine nu mă vede”).</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+										<date>1940</date>
+										<citedRange>54</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-808a978f-b0c5-46ec-8d17-a82ecb64060c" n="✦">
+								<def xml:id="id">Care raportează acţiunea la momentul
+									vorbirii.</def>
+								<usg corresp="#id">(<seg type="hint" rend="usg">Despre timpuri
+										verbale</seg>)</usg>
+								<cit type="unknown">
+									<quote>Timpurile <hi rend="bold">absolute</hi> au însă şi ele
+										valori de relaţie, atunci când nu le mai raportăm la
+										momentul vorbirii, ci la un alt timp.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">scl</ptr>
+										<date>1954</date>
+										<citedRange>V, nr. 3-4, 327</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Cu vremea, viitorul al II-lea a rămas fără valoarea pe
+										care a avut-o la început, nu s-a mai întrebuinţat ca timp
+										relativ, ci s-a întrebuinţat ca timp <hi rend="bold">absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-f96722e1-47fd-55a6-45db-bc7250f05524">st.
+											gram</ptr>
+										<date>1957</date>
+										<citedRange>59</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În limba română, la indicativ, timpuri <hi rend="bold">absolute</hi> sunt prezentul, perfectul, viitorul
+										întâi.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-efc667b6-9c8d-779f-4147-ee61f08e56d5">intr.</ptr>
+										<date>1958</date>
+										<citedRange>153</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În limba română, opoziţia absolut<hi rend="bold"> </hi>–
+										relativ priveşte în cadrul trecutului distincţia perfect
+										simplu şi perfectul compus, timpuri <hi rend="bold">absolute</hi>, în raport cu mai mult ca perfectul, timp
+										relativ.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
+										<date>1997</date>
+										<citedRange>12</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Obligativitatea nu exclude posibilitatea de omisiune a
+										complementului, fie o omisiune acceptată curent de unele
+										verbe, ca în cazul utilizărilor <hi rend="bold">absolute</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-baf2c428-266b-8f46-127f-ddbf552444c4">galr</ptr>
+										<date>2008</date>
+										<citedRange>52</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-0d363d66-45ab-433c-a28e-81a5bb3e8c22" n="✦">
+								<sense xml:id="uuid-c9fdb344-77bd-467c-b5cc-68895fd8303d" n="✧">
+									<def xml:id="id"/>
+									<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+									<cit type="unknown">
+										<quote>În exemplul „De câte ori mă duc la el, îl întâlnesc
+											sau bând sau dormind” ... tranzitivul „a bea” e
+											întrebuinţat în mod <hi rend="bold">absolut</hi>.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+											<date>1940</date>
+											<citedRange>153</citedRange>
+										</bibl>
+									</cit>
+									<cit type="unknown">
+										<quote>Dacă verbul este intranzitiv sau tranzitiv folosit
+												<hi rend="bold">absolut</hi>, construcţia
+											impersonală se realizează, în absenţa pasivului, prin
+											suprimarea subiectului personal şi inserţia mărcii
+											„se”.</quote>
+										<bibl type="unknown">
+											<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+											<date>2001</date>
+											<citedRange>258</citedRange>
+										</bibl>
+									</cit>
+								</sense>
+								<def xml:id="id">Care are complementul direct neexprimat, dar
+									subînțeles.</def>
+								<usg corresp="#id">(<seg type="hint" rend="usg">Despre verbele
+										tranzitive</seg>)</usg>
+								<cit type="unknown">
+									<quote>Din citatele reproduse aici, ar rezulta că „a spune”,
+										verb tranzitiv, ca şi „a zice”, e folosit rar cu valoare <hi rend="bold">absolută</hi>, adică fără obiectul direct
+										exprimat.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-229d2fe4-2b19-9065-237a-d3c19a58749c">brâncuș</ptr>
+										<date>1991</date>
+										<citedRange>173</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Numeroase verbe tranzitive ajung, în utilizările <hi rend="bold">absolute</hi>, să-şi piardă complementul
+										direct.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-50b5cdaa-0a4e-06e7-0f03-9398ce8b0c73">galr</ptr>
+										<date>2008</date>
+										<citedRange>343</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-31953c30-6402-4aa9-8dd1-40a9ae6046dd" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">GRAM.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Ablativ absolut</term>
+								</form>
+								<def xml:id="id"/>
+								<ptr type="trimitere" target="ablativ"/>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="unknown"/>
+										<date/>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-388a51ca-d0d1-4bd1-95f7-d55257154657" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">GRAM.</seg>
+										<seg type="time" rend="usg">Ieșit din uz</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Genitiv absolut</term>
+								</form>
+								<def xml:id="id">propoziţie în limba greacă, în care verbul este
+									înlocuit printr-un participiu sau printr-un adjectiv atributiv
+									în cazul genitiv.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+										<date>1913</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-34b5dcc5-5a86-4079-9b63-7f63f36270f3" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">GRAM.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Superlativ absolut</term>
+								</form>
+								<def xml:id="id">grad de comparație, la adjective și adverbe, care
+									exprimă un nivel mai înalt sau mai scăzut al însuşirii unui
+									obiect, fără stabilirea vreunei relaţii directe între acesta şi
+									alte obiecte.</def>
+								<cit type="unknown">
+									<quote><hi rend="bold">Superlativul absolut</hi> al adverbelor
+										de mod se formează, în vorbirea familiară şi populară cu
+										sinonimele afective ... ale lui „foarte”.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-8c7f9076-94b0-8020-038e-488f7f422c50">iordan</ptr>
+										<date>1944</date>
+										<citedRange>170</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote><hi rend="bold">Superlativul absolut</hi> este indicat,
+										în limba curentă, printr-un adverb care, prin
+										gramaticalizarea lui, şi-a pierdut forţa expresivă.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-eb7153fc-380e-73e5-724a-8254e3fb3ea2">vianu</ptr>
+										<date>1954</date>
+										<citedRange>561</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Caracteristic pentru stilul său [al lui Slavici] este <hi rend="bold">superlativul absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-bf36e9ee-4768-97e0-9d7e-c554138f6725">varlaam</ptr>
+										<date>1958</date>
+										<citedRange>308</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Numărul adverbelor cu valoare expresivă cu care se poate
+										construi <hi rend="bold">superlativul absolut</hi> este
+										foarte mare: „admirabil”, „colosal”, „extraordinar”.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d5b92858-3644-75d8-3ce4-db6d56c53915">gram. rom.</ptr>
+										<date>1963</date>
+										<citedRange>131</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote><hi rend="bold">Superlativul absolut</hi> a avut desigur
+										mai multe modalităţi de exprimare, căci aromâna s-a oprit la
+										„multu” + pozitivul adjectivului, pe când dacoromâna la
+										„foarte” + pozitivul adjectivului, ca structuri
+										curente.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-49accf20-8dd1-618c-92ac-ef73522c0812">coteanu</ptr>
+										<date>1969</date>
+										<citedRange>149</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote><hi rend="bold">Superlativul absolut</hi> este o
+										subcategorie dinamică în tot cursul istoriei limbii.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
+										<date>2001</date>
+										<citedRange>520</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În aceeaşi lucrare nehotărâtul „oarecare” este
+										înregistrat … cu un citat în care este folosit cu un
+										determinant gradual echivalabil cu <hi rend="bold">superlativul absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-6bf2fa8c-39a3-6dde-5579-fe4b01fc05af">avram</ptr>
+										<date>2002</date>
+										<citedRange>56</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Intensitatea unei însuşiri poate fi stabilită prin
+										comparaţie (comparativul şi superlativul relativ) sau fără
+										comparaţie (<hi rend="bold">superlativul
+										absolut</hi>).</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-50b5cdaa-0a4e-06e7-0f03-9398ce8b0c73">galr</ptr>
+										<date>2008</date>
+										<citedRange>154</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Care este independent.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">GRAM.</seg>
+								<seg type="time" rend="usg">Înv.</seg> (<seg type="hint" rend="usg">Despre propoziţii principale</seg>)</usg>
+							<cit type="unknown">
+								<quote>Felurile propoziţiunilor: principală, <hi rend="bold">absolută</hi> şi relativă, incidentă, splicătorie şi
+									definitivă, simplă şi compusă, dreaptă şi întoarsă, activă şi
+									pasivă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bae64b49-53d3-2615-3eca-689810229b1b">acte</ptr>
+									<date>&lt;1840–1841&gt;</date>
+									<citedRange>97</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sânt două feluri de principale, principală <hi rend="bold">absolută</hi> şi principală relativă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d18b990b-48de-7dec-4b03-1ce0ef437178">i.
+										pop</ptr>
+									<date>1848</date>
+									<citedRange>23/26</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d27f352c-1575-4f0a-be5c-01c473c22ad7" n="10.">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">JUR.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Drept absolut</term>
+							</form>
+							<def xml:id="id">drept care produce efecte faţă de toate persoanele
+								fizice sau juridice (ca dreptul la viață, dreptul la
+								proprietate).</def>
+							<cit type="unknown">
+								<quote>Regulamentul, ca toate legiuirile vechi, nu acordează
+									stăpânului unui domen un <hi rend="bold">drept absolut</hi>
+									asupra domenului său întreg.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dedb4b99-23ef-25cc-2fd0-c83e8aab60bb">bălcescu</ptr>
+									<date>1852 (†)</date>
+									<citedRange>145</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Părinţii n-au <hi rend="bold">drepturi absolute</hi> asupra
+									copiilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-972b5250-9e30-902d-9f7e-dc3a72a60465">brăescu</ptr>
+									<date>1930</date>
+									<citedRange>395</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Trebuie reparat! ... decise anticipând rolul de proprietar cu
+										<hi rend="bold">drepturi absolute</hi> şi aspre
+									răspunderi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-db4a01b3-7b5c-7461-a19e-3fb46b1c0cba">petrescu</ptr>
+									<date>1930</date>
+									<citedRange>209</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Dreptul absolut</hi> al stăpânului de moșie
+									... e limitat pe două treimi din domeniu de dreptul de posesorat
+									al țăranului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+										lit</ptr>
+									<date>1968</date>
+									<citedRange>522</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Orânduirea capitalistă ... priveşte proprietatea ca un <hi rend="bold">drept absolut</hi> şi exclusiv.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d.
+										inst</ptr>
+									<date>1988</date>
+									<citedRange>391</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Termenul de prescripție extinctivă începe să curgă de la data
+									naşterii dreptului la acţiune, care cel mai frecvent se produce
+									la data încălcării dreptului subiectiv (în cazul <hi rend="bold">drepturilor absolute</hi>).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2cc0410c-73ef-2fc6-8247-079709a140c4">d.
+										dr.</ptr>
+									<date>1998</date>
+									<citedRange>48</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Articolul 480 din „Codul civil” dă definiţia legală a
+									proprietăţii, precizând că dreptul de proprietate este atât un
+										<hi rend="bold">drept absolut</hi>, ..., respectiv usus,
+									fructus şi abusus, cât şi un drept exclusiv.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<date>2007</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Spre deosebire de dreptul real, care face parte din grupa <hi rend="bold">drepturilor absolute</hi>, dreptul de creanţă
+									este un drept relativ.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d.
+										dr</ptr>
+									<date>2007</date>
+									<citedRange>265</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f3543336-87ed-40d2-9753-b570847eec3b" n="11.">
+							<sense xml:id="uuid-ec80d83f-c050-475b-9bce-c0f5d4c120cf" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">MUZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Muzică absolută</term>
+								</form>
+								<def xml:id="id">muzică (instrumentală) care se realizează prin
+									mijloace proprii, fără intermediul cuvântului sau al elementelor
+									programatice.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-30107373-406b-7ee6-9f58-c181703c5c40">d.
+											muz</ptr>
+										<date>1905</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-2e157b90-9534-4631-a1b5-4d872ba3aadb" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">MUZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Înălţime absolută</term>
+								</form>
+								<def xml:id="id">calitate a unui instrument, a unei voci de a cânta
+									note foarte înalte.</def>
+								<cit type="unknown">
+									<quote>Astfel <hi rend="bold">înălţimea absolută</hi> a scării
+										poate fi uşor variată.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-13f5de19-6f4f-836d-06d7-451a6cf776f7">alexandru</ptr>
+										<date>1956</date>
+										<citedRange>66</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Scările flueierelor prezintă variaţiuni foarte mari ...
+										în ce priveşte <hi rend="bold">înălţimea absolută</hi> a
+										sunetelor.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-13f5de19-6f4f-836d-06d7-451a6cf776f7">alexandru</ptr>
+										<date>1956</date>
+										<citedRange>56</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-ec672bfb-d4dd-41f0-b3a0-dca6911b0fb3" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="dom" rend="usg">MUZ.</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									<term>Auz absolut</term>
+								</form>
+								<def xml:id="id">auz muzical înnăscut, foarte fin care distinge
+									raporturile dintre sunete fără un reper dat.</def>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+										<date>2007</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Care este primul într-o trupă de operă, într-un
+								ansamblu coral etc.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">MUZ.</seg> (<seg type="hint" rend="usg">Despre soliști</seg>)</usg>
+							<cit type="unknown">
+								<quote>D-na Constanza Manzini, primadona serie <hi rend="bold">absolută</hi>, ... accentuează notele bine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filimon</ptr>
+									<date>1859</date>
+									<citedRange>358</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Domnul Steger, primul tenore <hi rend="bold">absolut</hi>, a
+									interpretat cu multă inteligenţă dificila şi arida parte a lui
+									Arrigo.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filimon</ptr>
+									<date>1862</date>
+									<citedRange>405</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fu adusă Carlotta Griffani, primadona seria <hi rend="bold">absolută</hi>, care doi ani mai târziu era să facă furori
+									la Petersburg.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e61bd8c7-9b6a-31c4-56d3-04662ef423d5">ollănescu</ptr>
+									<date>1898</date>
+									<citedRange>122</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dintr-o însemnare din 14 ianuarie 1842 aflăm că se intitula
+									„cântăreț <hi rend="bold">absolut</hi>” la aceeași
+									biserică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+										lit</ptr>
+									<date>1968</date>
+									<citedRange>645</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-28419789-4241-4e32-b2df-c7fe1d5df672" n="12.">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">ESTET.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Frumos absolut</term>
+							</form>
+							<def xml:id="id">categorie estetică care consideră frumosul drept sursa
+								originară a tuturor fenomenelor estetice.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Când vorbim dar aici de progresul adevărului, nu ne gândim la
+									vreo abstracţiune metafizică; nu ne oprim la celebra îndoială a
+									scepticului Pilat: ce este adevărul? Nici la cercetarea
+									teoretică dacă există sau nu <hi rend="bold">frumosul
+										absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9c694572-18a0-00de-3f49-ec4465251d00">maiorescu</ptr>
+									<date>1883</date>
+									<citedRange>507</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Manifestările binelui şi ale frumosului sunt nenumărate şi
+									atât de variabile în timp şi în spaţiu, încât nădejdea de a găsi
+									vreun bine şi vreun <hi rend="bold">frumos absolute</hi>, care
+									să păstreze valoarea lor pentru toate timpurile şi pentru toţi
+									oamenii, este absurdă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">philippide</ptr>
+									<date>1894</date>
+									<citedRange>236</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>După Plotin, Frumosul fizic este strâns legat de Bine şi este
+									o emanaţie a <hi rend="bold">Frumosului absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">drimba</ptr>
+									<date>1987</date>
+									<citedRange>218</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-85b538d6-7955-45cc-bab7-5955f922bf81" n="13.">
+							<def xml:id="id">Care a absolvit toate cursurile unei instituţii de
+								învăţământ, dar nu și a luat încă diploma;</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi rar</seg></usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="absolvent"/>
+							</xr>
+							<cit type="unknown">
+								<bibl type="author-reference">laurian<author/></bibl>
+								<quote>În urma acestor dispoziţii, au să se organizeze seminarele
+									supt îngrijirea Logofeţiei bisericeşti; numai seminariştii <hi rend="bold">absoluţi</hi> să se facă preoţi pe viitor;
+									preoţii să fie mântuiţi de toate taxele episcopale, de cârjă, de
+									dârjă.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-16c1b6df-0049-2e5b-3816-1032b41c4c32">b.
+										contemp</ptr>
+									<date>1847</date>
+									<citedRange>126</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Făptuitorii feluritelor gramatice sunt toţi <hi rend="bold">absoluţi</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f737f9a4-9941-2903-82f2-a79903c73303">russo</ptr>
+									<date>1855</date>
+									<citedRange>63</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Marcian e teolog de Viena, <hi rend="bold">absolut</hi>, şi
+									accidental a ascultat şi la filosofie, fără de aceste are praxă
+									deja de 7 ani, n-ar voi însă nicidecât a părăsi aceasta carieră
+									de profesor.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-58f3b2a5-3687-42c1-3246-2b0bd0b658f3">b.
+										contemp.</ptr>
+									<date>1875</date>
+									<citedRange>370</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ar fi bine ca în stilul tinerilor teologi<hi rend="bold">
+										absoluţi</hi> să domine o frazeologie mai potrivită modului
+									ştiinţific de a scrie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d6773f88-2ad6-0475-85ad-c29d595422c3">arh.</ptr>
+									<date>1890</date>
+									<citedRange>II, 175</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cartea d-tale, căreia-i trebuieşte, ca tutulor cărţilor, şi
+									noroc pe lângă valoarea ce i-o cunosc, are nevoie de o prefaţă
+									semnată de un pedagog <hi rend="bold">absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-89e396b5-3dea-9b9c-3be1-b8669e152d83">caragiale</ptr>
+									<date>1908</date>
+									<citedRange>160</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eliade Rădulescu ... ridiculizează pedanteria şi ignoranţa
+									absolventului de facultate care, în terminologie latinistă, îşi
+									spune „filozof absolut” (adică „absolvent”).</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b6090ac1-5551-3619-6763-205ff58c9166">GRAM</ptr>
+									<date>1954</date>
+									<citedRange>49</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Rostogan, pedagogul <hi rend="bold">absolut</hi>, își
+									adaptează comportarea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d12d15f1-422c-952d-0ba7-553a8e43218a">ist.
+										lit</ptr>
+									<date>1973</date>
+									<citedRange>347</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Patru ani mai târziu s-a întors în Ocna teolog <hi rend="bold">absolut</hi>, în căutare de soaţă şi de
+									parohie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+									<date>2002</date>
+									<citedRange>11</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<gramGrp>
 							<pos value="adj."/>
 							<subc value=""/>
 							<number value=""/>
 						</gramGrp>
 						<def xml:id="uuid-8860225d-7bab-4777-9a40-e5448488409e"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-d07fb8ee-0330-4bb7-b1f8-eb9391a02058" n="II.">
+						<sense xml:id="uuid-2acafd11-63ac-403c-b7a8-0f1cbad95daf" n="1.">
+							<sense xml:id="uuid-bfc419d1-6f3e-48a4-be8b-5312e0116641" n="✧">
+								<def xml:id="id"/>
+								<usg corresp="#id">(<seg type="gram" rend="usg">Întărind un pron.
+										sau un adj. nehot. ori un pron. sau un adv.
+									neg.</seg>)</usg>
+								<cit type="unknown">
+									<bibl type="author-reference">
+										<author target="BĂLĂȘESCU"/>
+									</bibl>
+									<quote>Mitropolitul încă s-au încredinţat bine de osteneli-mi,
+										din examenul ce l-au făcut seminariştii din Râmnic, că n-au
+											ştiut<hi rend="bold"> absolute</hi> nimic.</quote>
+									<bibl type="ap.">
+										<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">b.
+											contemp.</ptr>
+										<date>1841</date>
+										<citedRange>84</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nimeni, dar <hi rend="bold">absolut</hi> nimeni dintre ai
+										d-voastră nu vrea să ştie de cum trăieşte Eminescu.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b39bfd72-a5e1-8ec8-94c0-d01d10783607">bacalbașa</ptr>
+										<date>1889</date>
+										<citedRange>211</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Deci <hi rend="bold">absolut</hi> niciun
+										contrast.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">gherea</ptr>
+										<date>1891</date>
+										<citedRange>430</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Afară de corpul diplomatic şi de lumea oficială, nu era
+										nimeni, <hi rend="bold">absolut </hi>nimeni [la balul dat de
+										Curte].</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b37cef45-027c-9c75-a61b-21bb4cc15b36">bacalbașa</ptr>
+										<date>1894</date>
+										<citedRange>160</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Găina poate să trăiască două luni de zile fără să mănânce
+										şi să bea <hi rend="bold">absolut</hi> nimic!</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-ac917b3d-2ed8-6721-8a9e-00d40edd81c5">brătescu</ptr>
+										<date>1898</date>
+										<citedRange>83</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Ştii că ştiu tot, domnule Herdelea! Tot! <hi rend="bold">Absolut</hi> tot!</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-2cc96c4e-87f7-2304-8b70-824fe04a8e63">rebreanu</ptr>
+										<date>1920</date>
+										<citedRange>283</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Noi toţi, dar <hi rend="bold">absolut</hi> toţi, trăim de
+										pe urma trudei acestui ţăran.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">rebreanu</ptr>
+										<date>1932</date>
+										<citedRange>9</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Casele ... sunt aproape goale: un pat cu o ţoală, două
+										strachini, un tuciu, trei linguri de lemn. Atât şi <hi rend="bold">absolut</hi> nimic mai mult.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">bogza</ptr>
+										<date>1945</date>
+										<citedRange>354</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nu există nimic, dar <hi rend="bold">absolut</hi> nimic
+										din ceea ce ar putea scăpa de la moarte [pe
+										muncitori].</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-98ff2ee1-10a4-6bda-2b3e-f086b90a02d6">bogza</ptr>
+										<date>1953</date>
+										<citedRange>88</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Există părerea că pe terenul şcolar trebuie să se cultive
+											<hi rend="bold">absolut</hi> toate plantele prevăzute în
+										programa de cunoştinţe agricole.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-cc4ef462-778e-7d42-a031-fbc65a62094f">g.
+											învăț</ptr>
+										<date>1962</date>
+										<citedRange>nr. 652, 3</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Puţin şocat, puţin amnezic, în sensul că nu ştie <hi rend="bold">absolut</hi> nimic de toată întâmplarea şi
+										nu poate să şi-o amintească, Efim zace acum la
+										infirmerie.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-84dd596c-3c1f-a365-a2f6-96931e62169a">tudoran</ptr>
+										<date>1966</date>
+										<citedRange>319</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nu te cunoaşte nimeni, dar <hi rend="bold">absolut</hi>
+										nimeni.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+										<date>1970</date>
+										<citedRange>84</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Dincolo de datele reale, nimic, <hi rend="bold">absolut</hi> nimic nu se mai află.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-54a2e0a9-2cfc-156a-6106-7a98cf0523ad">buzura</ptr>
+										<date>1977</date>
+										<citedRange>167</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Pare s-o intereseze <hi rend="bold">absolut</hi>
+										totul.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+										<date>1981</date>
+										<citedRange>nr. 4, 22</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nenea Căţelu, un pensionar nenorocit şi leneş, … are o
+										curte devastată parcă de război, unde nu creşte <hi rend="bold">absolut </hi>nimic.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44">cărtărescu</ptr>
+										<date>1996</date>
+										<citedRange>10</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Ca regim politic totalitarismul exprimă un autoritarism
+										dus la extrem prin care statul controlează <hi rend="bold">absolut</hi> toate domeniile vieţii sociale, şi chiar
+										familiale, fără a permite niciun fel de libertate
+										individuală.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-c5e4a58f-7117-08a7-005a-ad9ab5408318">d.
+											adm</ptr>
+										<date>2000</date>
+										<citedRange>155</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Fii pe pace, nu există <hi rend="bold">absolut</hi>
+										niciun risc, îl asigură cel dintâi, un ins înalt, blond, a
+										cărui figură nu se zărea tocmai bine.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+										<date>2002</date>
+										<citedRange>155</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nu poate fi trecut cu vederea nici faptul că acest
+										„naţionalism” nu s-a opus niciodată, dar <hi rend="bold">absolut</hi> niciodată, dominaţiei împăraţilor
+										Austriei.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+										<date>2005 (†)</date>
+										<citedRange>37</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-c4015d23-5d17-40dd-a41a-4b618105a6dc" n="✦">
+								<def xml:id="id">În mod imperios;</def>
+								<xr type="syn" corresp="#id">
+									<ptr target="neapărat"/>
+								</xr>
+								<xr type="syn" corresp="#id">
+									<ptr target="sigur"/>
+								</xr>
+								<cit type="unknown">
+									<quote/>
+									<bibl type="unknown">
+										<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+										<date>1848</date>
+										<citedRange/>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>La fiecare lege vine cineva şi zice: „Faceţi aceasta că e
+										urgent şi <hi rend="bold">absolut</hi>
+										indispensabil”.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">eminescu</ptr>
+										<date>1880</date>
+										<citedRange>260</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Îmi sunt <hi rend="bold">absolut</hi> necesare cel puţin
+										două luni.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-fd845222-03e7-88b1-419b-f5f04d7c1e22">popa</ptr>
+										<date>1921</date>
+										<citedRange>51</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Ne arată pe omul ... lipsit de cele <hi rend="bold">absolut</hi> trebuincioase.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-784f92e3-00f7-03ed-1b50-9294e819032a">dragomirescu</ptr>
+										<date>1927 (1906)</date>
+										<citedRange>14</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Nu există un singur sistem biruitor, în mod <hi rend="bold">absolut</hi>, pe care să-l primească orice
+										minte.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-f0d82f5a-89a6-2a7d-91b4-c4fd36ac58de">papacostea</ptr>
+										<date>1934</date>
+										<citedRange>14</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Pentru ca lucrarea să fie accesibilă şi utilă nu numai
+										specialiştilor, ci şi unui cerc larg de cititori, am
+										desbrăcat textul de discuţiunile prea tehnice şi, mai ales,
+										de controverse, pe cari, de câte ori le-am găsit <hi rend="bold">absolut</hi> necesare, le-am aşezat în josul
+										paginilor, în note.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-8122a28f-6c05-8486-4054-21bd1cf3705e">ionescu</ptr>
+										<date>1937</date>
+										<citedRange>8</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Aceasta a fost <hi rend="bold">absolut</hi> necesar şi
+										întru totul just.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scânteia</ptr>
+										<date>1951</date>
+										<citedRange>nr. 2 178</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Era absolut necesară o şedinţă a C.C. al Partidului
+										Bolşevic.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-579f432a-581d-47c1-a519-0bcfaba9672b">magazin</ptr>
+										<date>1969</date>
+										<citedRange>nr. 3, 8</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Pentru a merge însă între două puncte este <hi rend="bold">absolut</hi> necesar să fim convinşi că cele
+										două puncte există.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d9d95fde-74ee-4c94-4986-bc2019ba75da">blandiana</ptr>
+										<date>1970</date>
+										<citedRange>42</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Toate darurile, minus acele defecte <hi rend="bold">absolut</hi> indispensabile.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+										<date>1981</date>
+										<citedRange>nr. 5, 9</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Este <hi rend="bold">absolut</hi> necesar să lupţi, să te
+										îndoieşti.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3482161f-8dcd-0cda-2474-b08b00878522">cinema</ptr>
+										<date>1984</date>
+										<citedRange>nr. 9, 17</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Cu cât este mai mare efortul valutar reclamat de datoria
+										externă, cu atât mai mici vor fi resursele valutare rămase
+										pentru plata importurilor destinate dezvoltării
+										economico-sociale şi aprovizionării cu bunuri de consum <hi rend="bold">absolut</hi> indispensabile.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-313f5a70-48eb-7339-923a-46d0e3a64ee7">d.
+											ec.</ptr>
+										<date>1994</date>
+										<citedRange>191</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Este <hi rend="bold">absolut</hi> interzis de a se opera
+										modificări cu privire la modul în care rezultatul
+										deliberării a fost consemnat.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+											dr.</ptr>
+										<date>1997</date>
+										<citedRange> 626</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Prezenţa numelui predicativ este <hi rend="bold">absolut
+										</hi>obligatorie.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-baf2c428-266b-8f46-127f-ddbf552444c4">galr</ptr>
+										<date>2008</date>
+										<citedRange>288</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Există stângaci total şi parţial stângaci; este <hi rend="bold">absolut</hi> neindicat să se contrarieze un
+										stângaci total.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+											logop</ptr>
+										<date>2011</date>
+										<citedRange>37</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Cu totul, cu desăvârşire;</def>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Cu valoare de
+									superlativ</seg>) </usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="exact"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="întocmai"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="perfect (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ideea de natură <hi rend="bold">absolut</hi> bună a omului a
+									fost propagată cu mult talent de unii din filozofii secolului
+									trecut.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4c739388-72f0-2576-982c-321200526a22">ghica</ptr>
+									<date>1865</date>
+									<citedRange>116</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să trăiesc în vremea lui Mircea cel Mare sau a lui Alexandru
+									cel Bun – este oare <hi rend="bold">absolut</hi>
+									imposibil?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+									<date>1872</date>
+									<citedRange>93</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu ar fi <hi rend="bold">absolut</hi> imposibil de a cunoaşte
+									gradul de putere al fiecărei facultăţi a sufletului, prin simpla
+									inspecţiune a suprafeţei creierului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<date>&lt;1875–1876&gt;</date>
+									<citedRange> 55</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O atitudine demnă şi <hi rend="bold">absolut
+									</hi>independentă; „răceală şi discreţie” până la un moment
+									dat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahuță</ptr>
+									<date>1889</date>
+									<citedRange>128</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Omului înzestrat cu adevărat talent îi este <hi rend="bold">absolut</hi> indiferentă judecata altuia despre operele
+									sale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6b6ea69e-31d1-3a1c-5739-3d5827224e4c">caragiale</ptr>
+									<date>1897</date>
+									<citedRange>82</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fraza asta mie mi se pare <hi rend="bold">absolut</hi>
+									neînţeleasă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-91f55181-6fac-01bd-25cd-7a9705499543">bassarabescu</ptr>
+									<date>1899</date>
+									<citedRange>53</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Spre a scăpa, dar, de urmările determinismului, care duce la
+									tăgăduirea existenţei lui Dumnezeu, trebuie să admitem că
+									Dumnezeu e o fiinţă <hi rend="bold">absolut</hi> liberă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negulescu</ptr>
+									<date>1945 (1910)</date>
+									<citedRange>88</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Deşi se întemeiase un stat barbar, cel unguresc, el rămase
+									totuşi <hi rend="bold">absolut</hi> în afară de aborigenii
+									romanisaţi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-670f7d55-0537-3ef0-5edd-6afdfd272fef">rev.
+										ist</ptr>
+									<date>1915</date>
+									<citedRange>XVI, 192</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dragostea va fi atunci dezmierdare pură – adică <hi rend="bold">absolut</hi> nealterată de piezişe vanităţi
+									moralistice, deci fără îndoială mai delicioasă decât a putut fi
+									vreodată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<date>1926</date>
+									<citedRange>42</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Te ducem într-o mănăstire adorabilă, unde vei putea medita
+										<hi rend="bold">absolut</hi> singur.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown">călinescu</ptr>
+									<date>1938</date>
+									<citedRange>48</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Firele ... rămân într-un plan <hi rend="bold">absolut</hi>
+									orizontal.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e2ff1385-5c7b-70d1-33fc-af1eee1a817e">muscel</ptr>
+									<date>1948</date>
+									<citedRange>245</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Vi s-a întâmplat vreodată să vă aflaţi într-o situaţie <hi rend="bold">absolut</hi> fără ieşire, într-o situaţie
+									absurdă pentru că n-are început şi, ca atare, nu poate avea
+									sfârşit, nu şi poate găsi soluţia pe niciunul din planurile
+									realităţii imediate?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4896547c-013a-7dfe-6c8b-dc3551c03e30">eliade</ptr>
+									<date>1963</date>
+									<citedRange>66</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Atârna de-a lungul ferestrei ... Linie <hi rend="bold">absolut</hi> verticală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+									<date>1970</date>
+									<citedRange>38</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu simt această disperare. O să scap! ... Sunt <hi rend="bold">absolut </hi>nevinovat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-081f6db9-1b36-a1f3-684d-c96052f86c9b">preda</ptr>
+									<date>1980</date>
+									<citedRange>919</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Această lege statorniceşte un regim <hi rend="bold">absolut
+									</hi>identic atât pentru judecători, cât şi pentru
+									procurori.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+										dr.</ptr>
+									<date>1997</date>
+									<citedRange>89</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Noi cunoaştem că aceasta este o activitate <hi rend="bold">absolut</hi> permanentă a acestui partid politic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3">goma</ptr>
+									<date>2003</date>
+									<citedRange>616</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Americanii acoperiseră <hi rend="bold">absolut</hi>
+									la-ntâmplare cartiere vechi şi nostalgice presărate de la Rin
+									până la Volga, în oraşele năruite de diviziile germane mergând
+									spre est, apoi de cele ruseşti, înaintând spre vest.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">cărtărescu</ptr>
+									<date>2007</date>
+									<citedRange>86</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Argumentare <hi rend="bold">absolut</hi> justă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<date>2007</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Disortograficii prezintă greşeli foarte variate, erorile
+									aceluiaşi elev fiind, frecvent, <hi rend="bold">absolut</hi>
+									diferite.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+										logop</ptr>
+									<date>2011</date>
+									<citedRange>134</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-4bfdd314-2980-4ea0-92e0-1791ddfe240c" n="2.">
+							<sense xml:id="uuid-41737572-06e3-4bce-a80d-769ccee52153" n="✦">
+								<def xml:id="id">Aidoma, la fel, asemenea cu...</def>
+								<cit type="unknown">
+									<quote>Să ne-nchipuim lumea redusă la dimensiunile unui glonte,
+										şi toate celea din ea scăzute în analogie, locuitorii
+										acestei lumi, presupuindu-i dotaţi cu organele noastre, ar
+										pricepe toate celea <hi rend="bold">absolut</hi> în felul şi
+										în proporţiunile în care le pricepem noi.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+										<date>1872</date>
+										<citedRange>93</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>: Două mescioare înădite, cu şerveţele curate .... – <hi rend="bold">Absolut</hi> ca la mine la moşie!</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e3e34cda-0f9d-8409-9d35-91d61d7b066e">brăescu</ptr>
+										<date>1921</date>
+										<citedRange>16</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Compararea distribuţiei diverselor unităţi care aparţin
+										aceluiaşi nivel lingvistic permite identificarea următoarele
+										tipuri de distribuţie: distribuţie „identică”, dacă
+										elementele comparate au <hi rend="bold">absolut</hi>
+										aceleaşi contexte.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+										<date>2001</date>
+										<citedRange>187</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">În mod obiectiv, indiferent de împrejurări;</def>
+							<def xml:id="uuid-c530bb38-8ec3-419b-b9b2-1f392871ef5d">în mod
+								nelimitat, fără restricție.</def>
+							<cit type="unknown">
+								<quote>Câtimea unui lucru nu se poate arăta <hi rend="bold">absolut
+									</hi>prin ea însăşi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8d5a248e-00f0-08f4-8975-0e9edbc73e6e">poenaru</ptr>
+									<date>1841</date>
+									<citedRange>1/16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Multe lucruri şi rânduiele, dacă nu le judeci <hi rend="bold">absolut</hi> şi după cum ar trebui să fie, decât numai după
+									cum pot să fie, relativ cu împrejurările ce le însoţesc, te-ai
+									grăbi mai puţin a le critica şi ai fi mai blând chiar în
+									condamnarea lor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0b59d0d3-3198-3d0f-00f3-8e8e12eb6b6d">ralet</ptr>
+									<date>1858</date>
+									<citedRange>41</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Obiectele ce le văd, privite c-un ochi, sunt mai mici; cu
+									amândoi – mai mari; cât de mari sunt ele <hi rend="bold">absolut</hi>?</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+									<date>1872</date>
+									<citedRange>93</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În sfârşit, vine omul care <hi rend="bold">absolut</hi> şi
+									relativ are cel mai mare creier.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<date>&lt;1875–1876&gt;</date>
+									<citedRange>44</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fără acel preservativ imediat aş fi fost potricălit de
+									milioane de ţinţari veninoşi şi însătaţi de sânge cari ...
+									domnesc <hi rend="bold">absolut</hi> asupra acelor
+									mlaştini.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9824637e-561e-2a7c-5eac-5f4fb2c09fc8">ciurea</ptr>
+									<date>1898</date>
+									<citedRange>47</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Maiorescu] nu credea <hi rend="bold">absolut</hi> că România
+									va intra în război contra Puterilor Centrale.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușcariu</ptr>
+									<date>1917</date>
+									<citedRange>222</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Europa a intrat în această epocă ilustră de acţiune
+									convulsivă cu un avânt şi un brio vrednice de vârsta cea mai
+									jună a speciei noastre, pe când voinţa funcţiona <hi rend="bold">absolut</hi>, neîmpiedicată de reţineri meschine şi
+									bolnăvicioase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<date>1926</date>
+									<citedRange>22</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Loc public este locul deschis sau accesibil publicului, fie
+									prin natura lui, în mod permanent şi <hi rend="bold">absolut</hi>, fie prin destinaţiune, în mod temporar şi
+									relativ, fie în mod accidental, datorită unor anumite
+									împrejurări.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
+										pen</ptr>
+									<date>1936</date>
+									<citedRange>60</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu este sigur că graiul oricărui moldovean manifestă
+									particularităţile limbii vorbite în Moldova, dar aceste
+									particularităţi sunt <hi rend="bold">absolut</hi> sigure în
+									atestarea lui Creangă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<date>1956</date>
+									<citedRange>107</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Fericitul câştigător, cel care nimerise, <hi rend="bold">absolut</hi> din întâmplare, ţinta, mergea în frunte,
+									ducându-şi în mână trofeul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5675494-3eb5-536e-a0a2-260355e13b50">cazimir</ptr>
+									<date>1960</date>
+									<citedRange>77</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În chip cu totul <hi rend="bold">absolut</hi> el îşi puse în
+									aplicare puţinele şi «sănătoasele» principii pedagogice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+									<date>1964 (1932)</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Era <hi rend="bold">absolut </hi>de la sine înţeles că nu-i
+									va spune nimic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">IVASIUC</ptr>
+									<date>1970</date>
+									<citedRange>91</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mintea îi era aceeaşi, <hi rend="bold">absolut</hi>
+									neschimbată.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">preda</ptr>
+									<date>1975</date>
+									<citedRange>195</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Era <hi rend="bold">absolut</hi> imposibil să încheie prima
+									propoziţiune din romanul lui.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+									<date>1984</date>
+									<citedRange>nr. 49, 3</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O asemenea clauză contravine principiului liberei circulaţii
+									a bunurilor şi dreptului proprietarului de a dispune liber şi
+										<hi rend="bold">absolut</hi> de bunul său.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+										dr.</ptr>
+									<date>1997</date>
+									<citedRange>319</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Pentru ca procesul informaţional să se poată realiza şi să
+									înainteze, este <hi rend="bold">absolut</hi> necesar ca fiecare
+									enunţ, în cadrul unui discurs, să fie cumulativ, adăugând, la o
+									informaţie „anterioară”, deductibilă din context, o informaţie
+									„nouă”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+									<date>2001</date>
+									<citedRange>227</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Clauza de neconcurenţă nu poate avea ca efect interzicerea în
+									mod <hi rend="bold">absolut</hi> a exercitării profesiei
+									salariatului sau a specializării pe care o deţine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0ffb1289-1517-2717-a71b-a952a8a25507">cod.
+										muncii</ptr>
+									<date>2003</date>
+									<citedRange>12</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-35be3604-87f6-4bad-97b7-fbfd2c3480d0" n="3.">
+							<def xml:id="id">Cu siguranţă;</def>
+							<usg corresp="#id"><seg type="register style" rend="usg">Fam.</seg>
+									(<seg type="register style" rend="usg">Ca răspuns la o
+									întrebare</seg>)</usg>
+							<xr type="syn" corresp="#id">
+								<ptr target="sigur (II)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>[JUPÂN DUMITRACHE] (<hi rend="italic">asemenea</hi>) Da
+									cocoană, nici mort – [IPINGESCU] (<hi rend="italic">asemenea</hi>) <hi rend="bold">Absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-61d58c69-a06d-a63b-2097-803ef2c38652">caragiale</ptr>
+									<date>1879</date>
+									<citedRange>60</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sunteţi siguri? – <hi rend="bold">Absolut</hi> siguri. Ne
+									lipsesc amănuntele, pentru că nu am avut tot timpul
+									necesar.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5417eae-2669-882f-0bf6-fbc11fc89cbc">anestin</ptr>
+									<date>1914</date>
+									<citedRange>159</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îţi trăsese linealurile chiar pe pielea goală? – <hi rend="bold">Absolut</hi>!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+									<date>1931</date>
+									<citedRange>202</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Chiar cu nimeni? zise Din Vasilescu. – <hi rend="bold">Absolut</hi>. M-am dus eu, na! făcu Gheorghe.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9cf1c191-a01d-a678-66e4-a8dbccbe6899">preda</ptr>
+									<date>1972</date>
+									<citedRange>1 290</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adv."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-35ef8b7a-7e07-4740-b140-47a840877472" n="III.">
+						<sense xml:id="uuid-a1f7da95-3629-4e1d-8d58-04405a36fb57" n="1.">
+							<sense xml:id="uuid-2d89c9b4-1036-44ea-b187-35a66f8d1c6b" n="✧">
+								<def xml:id="id"/>
+								<usg corresp="#id">(<seg type="register style" rend="usg">Ca termen
+										de comparație</seg>)</usg>
+								<cit type="unknown">
+									<quote>Generaţia spontanee complecta sistemul transformismului
+										şi acum natura întreagă apărea ca un <hi rend="bold">absolut</hi> în sine, independent de orice putere din
+										afară de ea.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">crainic</ptr>
+										<date>1936</date>
+										<citedRange>65</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<sense xml:id="uuid-57c801b1-5571-4fe1-ae74-d52d50a9a10d" n="✧">
+								<form type="unitate-semantică-subsumată">
+									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+									<term>În absolut </term>
+								</form>
+								<form type="unitate-semantică-subsumată">
+									<usg>
+										<seg type="plev" rend="usg">Rar</seg>
+									</usg>
+									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+									<term>La absolut</term>
+								</form>
+								<def xml:id="id">(care există) fără comparaţie, fără a ţine cont de
+									condiţii, de circumstanţe;</def>
+								<def xml:id="uuid-b1cacad7-0153-436a-a6c1-7cca74e1cec6">în
+									teorie.</def>
+								<cit type="unknown">
+									<quote>Când însă fu împărţirea pământurilor ... <hi rend="bold">în absolut</hi> fără voiea patriciilor şi fără
+										consultarea membrilor din consiliu, atunci senatul s-a
+										crezut de tot insultat.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">aristia</ptr>
+										<date>1857</date>
+										<citedRange>86/23</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Gide, şi el un spirit logic, nu putea admite <hi rend="bold">în absolut</hi> teza lui Barres.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3bf13d85-9fee-05c4-0d68-24afa6c24680">bart</ptr>
+										<date>1926</date>
+										<citedRange>349</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În vreme ce dogma creştină [a lui Chesterton] o tratează
+										fără apropiere critică acută, toate postulatele necredinţei
+										le tratează <hi rend="bold">în absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">protopopescu</ptr>
+										<date>1936</date>
+										<citedRange>77</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Într-un tablou ... un ton nu înseamnă nimic, luat <hi rend="bold">în absolut</hi>, ... efectul lui depinde în
+										mare măsură de cele vecine, care-l pot exalta sau îl pot
+										stinge.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d70fc9f4-05ba-116e-75a9-216763f46e94">oprescu</ptr>
+										<date>1945</date>
+										<citedRange>422</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Câteva din operele lui Salvador Dali înfăţişează o atare
+										realizare <hi rend="bold">în absolut</hi> a unei picturi
+										pure, emancipată de forma terestră.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b47210df-0b37-878a-2ca8-4d5de0158ed4">biberi</ptr>
+										<date>1973</date>
+										<citedRange>77</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Avem două negaţii care dau o afirmaţie, o afirmaţie <hi rend="bold">la absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">lovinescu</ptr>
+										<date>1984 (†)</date>
+										<citedRange>132</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Începutul şi sfârşitul nu sunt două puncte la capătul
+										unei linii, nu sunt nici neant, nici infinit pentru ţăranul
+										român; amândouă se rezolvă în etern, <hi rend="bold">în
+											absolut</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-bfa628f5-a679-28b2-0617-e56f74eb9ce7">bernea</ptr>
+										<date>1986</date>
+										<citedRange>155</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>În stilistica lingvistică, există două etape în studiul
+										faptelor de stil: „delimitarea” acestora (în context) şi
+										„identificarea” lor (<hi rend="bold">în
+										absolut</hi>).</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+										<date>2001</date>
+										<citedRange>501</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Ceea ce există independent de orice condiționare,
+								reprezentare sau raportare la alt lucru.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">FILOS.</seg> (<seg type="gram" rend="usg">De obicei articulat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Din aceste încercări himerice în principele lor ... unele au
+									produs ... şciinţa <hi rend="bold">absolutului</hi> a lui
+									Hegel.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+									<date>&lt;1836–1837&gt;</date>
+									<citedRange>233<hi rend="superscript">2</hi>/29</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Mă bucur că ţi-ai deschis inima naturii… E <hi rend="bold">absolutul</hi> perfect; armonia infinită.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b044ba3b-0d02-7df0-0c83-bf27f39e7f78">delavrancea</ptr>
+									<date>1882</date>
+									<citedRange>16</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Îndărătul relativului există <hi rend="bold">absolutul</hi>,
+									sau îndărătul aparinţelor există realitatea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dd821906-13bd-21e2-7746-92d6850c5153">maiorescu</ptr>
+									<date>&lt;1884–1909&gt;</date>
+									<citedRange>204</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Trebuie să fim mulţumiţi dacă putem în această uriaşă
+									complexitate de fenomene care alcătuieşte viaţa socială afla
+									trăsături caracteristice; dar nu să mai alergăm după <hi rend="bold">absoluturi</hi> metafizice!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">gherea</ptr>
+									<date>&lt;1886-1887&gt;</date>
+									<citedRange>165</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Absolutul</hi>, dacă va fi existând cumva,
+									scapă observaţiei noastre, care ne învârtim într-o lume de
+									relativităţi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">philippide</ptr>
+									<date>1894</date>
+									<citedRange>136</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Neniţescu] imediat simte nevoia să îmbrăţişeze universalul
+									şi <hi rend="bold">absolutul</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-55ebfb28-4ffa-6b24-5bb3-8b962f2a1abe">vianu</ptr>
+									<date>1916</date>
+									<citedRange>15</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Noţiunea <hi rend="bold">absolutului</hi>, conceput ca ceva
+									definit şi fix, e izgonită ... din conştiinţa omului
+									modern.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a7b3dab1-7499-49dd-278a-24e9663b8f66">ralea</ptr>
+									<date>1924</date>
+									<citedRange>3</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Doamna Solo era şi o cititoare aprinsă a tuturor cărţilor
+									apărute .... Dar şi cărţile cădeau dedesubtul meridianului ei de
+									intelect, zgândărit şi exasperat de conştiinţa dreptului la <hi rend="bold">absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">arghezi</ptr>
+									<date>1942</date>
+									<citedRange>29</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aceste grupuri pot fi considerate ca subgrupuri ale grupului
+									proiectiv, care lasă invariantă o cuadrică: <hi rend="bold">absolutul</hi> spaţiului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6d36bf86-0d5f-68db-3904-a49f53c93d07">vrănceanu</ptr>
+									<date>1952</date>
+									<citedRange>28</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Heidegger ... refuză să fie consecvent, adică să se arunce
+									de-a dreptul în sentimentul existenţial al <hi rend="bold">absolutului</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-679b177e-1770-31d4-8c74-3b09ff400889">dumitriu</ptr>
+									<date>1955</date>
+									<citedRange>329</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În afară de poezii, Eminescu dovedeşte acum nişte preocupări
+									ce s-ar părea curioase de n-am cunoaşte firea însetată de <hi rend="bold">absolut</hi> a poetului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+									<date>1964 (1932)</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Absolutul nu se poate divide în părţi (e indivizibil); căci,
+									dacă s-ar divide, ar însemna să fie mai multe <hi rend="bold">absoluturi</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4a49de80-8284-6170-21f5-587ae11296ae">băncilă</ptr>
+									<date>1970</date>
+									<citedRange>124</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Încercare tragică de a împăca ştiinţa şi străduinţa
+									subiectivă cu <hi rend="bold">absolutul</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<date>1982</date>
+									<citedRange>nr. 15, 4</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Idee cardinală în gândirea filozofică,<hi rend="bold">
+										absolutul </hi>se regăseşte în miezul temelor fundamentale
+									ale filozofiei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">d.
+										enc</ptr>
+									<date>1987</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-fe12c2ff-1fcb-4398-808f-00a408e742b5" n="2.">
+							<sense xml:id="uuid-a3cf10c5-582e-4bcc-a59b-cfe9e1e6bdd6" n="✧">
+								<def xml:id="id"/>
+								<usg corresp="#id">(<seg type="gram" rend="usg">Adjectival, ca
+										determinant al unor termeni indicând ideea de
+										divinitate</seg>)</usg>
+								<cit type="unknown">
+									<quote>În atmosfera romantică şi revoluţionară a Iaşului,
+										discutau liceenii de atunci, cu îndrăzneală şi pasiune,
+										chestii filozofice şi sociale, noţiunea unui D[mne]zeu <hi rend="bold">absolut</hi> în haosul primordial, origina
+										lumii şi finalitatea, problema suferinţei şi mizeriei
+										lugubrului univers.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-3bf13d85-9fee-05c4-0d68-24afa6c24680">bart</ptr>
+										<date>1929</date>
+										<citedRange>453</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Mistica brahmanică admite drept existent numai principiul
+											<hi rend="bold">absolut </hi>şi impersonal, adică
+										unitatea supremă, ascunsă: Atman.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+										<date>1935</date>
+										<citedRange>78</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Cultul morţilor n-a apărut cu necesitate ca rezultat al
+										viziunilor religioase legate de fiinţa <hi rend="bold">absolută</hi> ..., dar a existat şi există ...
+										independent de ele.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-905516de-3cb6-8773-6148-8f95e0240632">noica</ptr>
+										<date>c. 1980</date>
+										<citedRange>328</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Brahman este deci fiinţa <hi rend="bold">absolută</hi>
+										care se manifestă deopotrivă în veşnicie şi în timpul
+										limitat, cu alte cuvinte este şi necuprins şi
+										comprehensibil.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+											mitol</ptr>
+										<date>1989</date>
+										<citedRange>86</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Dacă s-ar putea imagina o lume de forme neschimbătoare şi
+										incoruptibile, atunci această lume ar echivala cu o regiune
+										a fiinţei <hi rend="bold">absolute</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-b6151a41-723c-8cea-880a-cf7082ed10a3">liiceanu</ptr>
+										<date>1994</date>
+										<citedRange>35</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Rădăcinile filosofice ale psihologiei umaniste sunt
+										reprezentate de: existenţialismul ateu al lui Martin
+										Heidegger ... şi Jean-Paul Sartre; ... [de] existenţa
+										transcendentului <hi rend="bold">absolut</hi> la Gabriel
+										Marcel.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+											logop</ptr>
+										<date>2011</date>
+										<citedRange>287</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Principiu fondator care este la originea a tot ce
+								există;</def>
+							<def xml:id="uuid-199749fb-3163-48cd-b2e8-8d0672e4c633">ființă existentă
+								în sine și pentru sine, identificată cu divinitatea.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">RELIG.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>El vine drept din arsenalul Progresului uman Modern, Să te
+									trimeată-n bezna rece a <hi rend="bold">Absolutului</hi>
+									etern.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e3deb300-37ff-67e6-9242-68e512438375">topîrceanu</ptr>
+									<date>1910</date>
+									<citedRange>84</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aportul ştiinţei la cunoaşterea omenească e eliminarea <hi rend="bold">absolutului</hi>, şi deci a Dumnezeului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">protopopescu</ptr>
+									<date>1936</date>
+									<citedRange>78</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Isus Christos este considerat nu un semizeu (ca un
+									Bodhisattva sau un zeu născut de o muritoare), ci întruparea
+									Logosului divin, o faţă a <hi rend="bold">Absolutului</hi>, a
+									esenţei divine unice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+										mitol</ptr>
+									<date>1989</date>
+									<citedRange>129</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Experienţa de vârf conduce la o trăire specială de unificare
+									a Sinelui cu Universul, Dumnezeu, <hi rend="bold">Absolutul</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+										logop</ptr>
+									<date>2011</date>
+									<citedRange>228</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d9ad5f4c-c1f8-46ef-8c22-2da7df86bb8e" n="3.">
+							<def xml:id="id">Valoare supremă,</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="perfecțiune (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote><hi rend="bold">Absolutul</hi> în artă e peste
+									putinţă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-deb6a4cd-354c-38b5-69e5-77e7a13d9b1d">gherea</ptr>
+									<date>1887</date>
+									<citedRange>17</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ideea de „<hi rend="bold">absolut</hi>” stă la temelia
+									acestei organizaţii.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7ef5038-0884-79aa-8264-89f8d47d149b">blaga</ptr>
+									<date>1924</date>
+									<citedRange>67</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Romantismul presupune diferenţieri individuale, pe care apoi
+									le îneacă într-o masă vagă de <hi rend="bold">absolut</hi> şi
+									etern.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1061de55-301a-0721-0332-afb767422757">ralea</ptr>
+									<date>1927</date>
+									<citedRange>88</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Tentaţia de aventură spirituală, de căutare într-un <hi rend="bold">absolut</hi> al cunoaşterii l-a chinuit [pe
+									Eliade] cu o efervescenţă netăgăduită. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5768138d-2939-597b-08d1-dc113f3d52ce">constantinescu</ptr>
+									<date>1930</date>
+									<citedRange>491</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Acest sistem conducea la ceea ce am putea numi căutarea <hi rend="bold">absolutului </hi>în pictură.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e3e6c0e3-25ac-7a99-68cc-53ac5bc73156">oprescu</ptr>
+									<date>1946</date>
+									<citedRange>293</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Idealul artei este <hi rend="bold">absolutul</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+										lit.</ptr>
+									<date>1968</date>
+									<citedRange>644</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>La Maiorescu, conştiinţa creatoare este indisolubil legată de
+									conştiinţa <hi rend="bold">absolutului</hi> oricărei creaţii
+									veritabile.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-27f3e676-5314-63b5-8546-a9ce42897347">manolescu</ptr>
+									<date>1970</date>
+									<citedRange>37</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Artistul trebuie să facă din lucrarea sa un <hi rend="bold">absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<date>1971</date>
+									<citedRange>nr. 12, 3</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eu vreau <hi rend="bold">absolutul</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flacăra</ptr>
+									<date>1981</date>
+									<citedRange>nr. 39, 11</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="n."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">

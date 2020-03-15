@@ -37,6 +37,26 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-4b9b2875-b1eb-47d8-88d2-9206848261b0" n="">
+						<sense xml:id="uuid-9fac087d-3a1b-45bf-9ead-e9ba6235f990" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Reumatism abarticular</term>
+							</form>
+							<def xml:id="id">denumire generică a unui grup de sindroame cu evoluţie
+								acută, subacută sau cronică, ce se caracterizează prin durere,
+								sensibilitate locală.</def>
+							<cit type="unknown">
+								<quote>Se disting trei categorii principale etiopatogenice de
+									r[eumatism]: procesele inflamatorii ale articulaţiilor şi ale
+									coloanei vertebrale, boala degenerativă a articulaţiilor ... şi
+										<hi rend="bold">r</hi>[eumatism] <hi rend="bold">abarticular</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">med.</ptr>
+									<date>2007</date>
+									<citedRange>s. v. <hi rend="italic">reumatism</hi></citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<def xml:id="uuid-809bca6c-009c-4540-bcb1-b6a052326fcb">Care este situat în
 							vecinătatea unei articulații, fără a avea legătură directă cu
 							aceasta.</def>

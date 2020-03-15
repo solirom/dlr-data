@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-71ebb7f6-4845-4ac2-9808-da8246313edf" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-19T17:13:00+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstentionist</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTENŢIONÍST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-73b7b5ea-1ef9-4a3a-a3ce-23c32392a899" n="1. ">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-73b7b5ea-1ef9-4a3a-a3ce-23c32392a899">
+							<seg type="dom" rend="usg">POLIT.</seg>
+						</usg>
+						<def xml:id="uuid-728accd1-0a56-4e5c-aeeb-2657843eb3e9">Care se referă la
+							abstenționism;</def>
+						<def xml:id="uuid-5ce5be5d-9e1b-4105-979b-c944b3601504">care aparține
+							abstenționismului.</def>
+						<cit type="unknown">
+							<quote>Agenţii stăpânirii au jucat un rol deplorabil ... prin propaganda
+								anti-apanagistă şi prin manifestul <hi rend="bold">abstenţionist</hi>, care a slăbit mult creditul politic al
+								partidului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia</ptr>
+								<date>1885</date>
+								<citedRange>1885, nr. 2 240, 1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Miliardarul american, când îmbătrâneşte, redevine om păcătos,
+								plin de reumatisme, vegetarian, <hi rend="bold">abstenţionist</hi>,
+								iar visul său este o capră care să-i dea lapte proaspăt.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfirescu</ptr>
+								<date>1916</date>
+								<citedRange>213</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-d515e573-3232-4f78-94cc-76531ba0f01c" n="2.">
+						<sense xml:id="uuid-40ad7dd6-ad8e-47b0-86d3-cb68eeefcbe4" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="▭">
+								<quote>Politica Franţei, în acea vreme, era <hi rend="bold">abstenţionistă</hi> faţă de triburile musulmane.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">(Persoană) care se abţine de la exercitarea dreptului de
+							vot; </def>
+						<def xml:id="uuid-3d2b64b6-5b4d-454f-b949-803471d89270">(persoană) care este
+							adeptă a abstenţionismului;</def>
+						<def xml:id="uuid-9f8cf896-4de0-4f21-842e-34d4ecf7caf1">indiferent, neutru
+							din punct de vedere politic.</def>
+						<usg corresp="#uuid-9f8cf896-4de0-4f21-842e-34d4ecf7caf1">
+							<seg type="sem" rend="usg">p. ext.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Peste un milion de <hi rend="bold">abstenționiști</hi> a răspuns
+								de astă dată la apelul partidelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd65e323-8f5b-6694-33de-8d79087229c1">viața</ptr>
+								<date>1907</date>
+								<citedRange>martie, nr. III, vol. IV, 543</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În alegerile actuale au participat peste un milion de alegători
+								indiferenți, <hi rend="bold">abstenționiști</hi>, care au venit să
+								îngroașe rândurile mai ales ale nuanțelor liberale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fd65e323-8f5b-6694-33de-8d79087229c1">viața</ptr>
+								<date>1907</date>
+								<citedRange>martie, nr. III, vol. IV, 545</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-9646522c-7e43-48cd-a3f4-3b2786758116" n="">
+						<def xml:id="uuid-0d603f2b-0be5-4ce8-b688-413e83d6a3d9"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstenţionişti, -ste</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstentionniste</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">DEN</ptr>
+						<date>2009</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>
