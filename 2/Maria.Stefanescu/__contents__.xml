@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/Maria.Stefanescu" owner="Maria.Stefanescu" group="dlr-redactors" mode="774" created="2019-04-16T05:42:11+03:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="FALACIOS.xml" owner="Maria.Stefanescu" group="dba" mode="644" created="2019-08-22T07:54:26+03:00" modified="2019-10-19T06:20:46+03:00" filename="FALACIOS.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FARBA.xml" owner="Maria.Stefanescu" group="dba" mode="644" created="2019-08-25T06:34:33+03:00" modified="2019-10-19T06:20:46+03:00" filename="FARBA.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="FALANSTER.xml" owner="Maria.Stefanescu" group="dba" mode="644" created="2019-08-24T04:55:53+03:00" modified="2019-10-19T06:20:46+03:00" filename="FALANSTER.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

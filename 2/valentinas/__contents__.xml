@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/valentinas" owner="valentinas" group="dlr-redactors" mode="774" created="2019-04-16T05:42:13+03:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Untitled.xml" owner="valentinas" group="valentinas" mode="644" created="2020-01-06T05:32:35+02:00" modified="2020-01-06T05:32:51+02:00" filename="Untitled.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abrict.xml" owner="valentinas" group="valentinas" mode="644" created="2019-12-16T09:04:38+02:00" modified="2020-01-21T05:00:42+02:00" filename="abrict.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abrictalui.xml" owner="valentinas" group="valentinas" mode="644" created="2020-02-15T03:44:36+02:00" modified="2020-02-15T03:44:36+02:00" filename="abrictalui.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abrictali.xml" owner="valentinas" group="valentinas" mode="644" created="2020-02-15T03:43:19+02:00" modified="2020-02-15T03:43:19+02:00" filename="abrictali.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

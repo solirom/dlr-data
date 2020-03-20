@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ec75f85e-791f-49f7-88de-029b27510d77" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-16T17:55:19+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstracționist</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACŢIONÍST</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ef4017f2-0e4d-4751-bd00-8f6b6933e540" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="uuid-1eb4d794-10c8-4a55-ba47-63a0b12c5246">(Care este) adept al
+							abstracţionismului.</def>
+						<cit type="unknown">
+							<quote>Teoreticienii, <hi rend="bold">abstracţioniştii</hi> artei, au
+								dat, evident definiţii, căci fără definiţii critica moare de foame
+								şi n-ar mai fi de niciun folos aparent.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">arghezi</ptr>
+								<date>1913</date>
+								<citedRange>95</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Suprarealiştii şi aşa-numiţii <hi rend="bold">abstracţionişti</hi>, de exemplu, pictează de predilecţie bârne
+								în putrefacţie şi gunoi putrezit.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<date>1953</date>
+								<citedRange>mai, nr. 5, 177</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă prin datele realului se înţeleg elementele de viaţă
+								adevărată, folosite într-o operă de artă, atunci definiţia e prea
+								largă, pentru că (afară poate doar de aberaţiile nonfigurative ale
+									<hi rend="bold">abstracţioniştilor</hi>) nu există creaţie care
+								să nu plece de la ceea ce există efectiv.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<date>1961</date>
+								<citedRange>mai, nr. 5, 142</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La un alt pictor <hi rend="bold">abstracţionist</hi>, la
+								cehoslovacul Kupka, în acelaşi timp şi literat, găsim un tablou
+								intitulat „Fugă în roşu şi albastru”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a5112e7-6379-076d-924d-ab2a75068af5">oprescu</ptr>
+								<date>1966</date>
+								<citedRange>82</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-aa145017-8669-403d-8ec7-3b2ac93b5571" n="">
+						<def xml:id="uuid-ced677a1-f517-4174-92a5-43ac17548429"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">- ţi- o-</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstracţionişti, -ste</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstractionniste</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abstractionist</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

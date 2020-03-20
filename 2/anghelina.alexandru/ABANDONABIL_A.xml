@@ -73,6 +73,11 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
 						<number>abandonabil, -e</number>
 					</form>

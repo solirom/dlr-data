@@ -1,0 +1,30 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/Catamara" owner="Catamara" group="dlr-redactors" mode="774" created="2019-04-16T05:42:13+03:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="acologie-dex.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:49+03:00" modified="2019-10-19T06:20:46+03:00" filename="acologie-dex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acolo-dex.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:49+03:00" modified="2019-10-19T06:20:46+03:00" filename="acolo-dex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="darlog.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:51+03:00" modified="2019-10-19T06:20:46+03:00" filename="darlog.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="dansul.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:50+03:00" modified="2019-10-19T06:20:46+03:00" filename="dansul.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acomercial-dex.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:50+03:00" modified="2019-10-19T06:20:46+03:00" filename="acomercial-dex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acolurie-dex.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:50+03:00" modified="2019-10-19T06:20:46+03:00" filename="acolurie-dex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="limba.xml" owner="Catamara" group="dba" mode="774" created="2018-06-12T20:33:51+03:00" modified="2019-10-19T06:20:46+03:00" filename="limba.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="acolo.xml" owner="Catamara" group="Catamara" mode="644" created="2019-11-14T05:18:27+02:00" modified="2019-11-14T05:18:27+02:00" filename="acolo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Untitled.xml" owner="Catamara" group="Catamara" mode="644" created="2019-11-14T05:20:37+02:00" modified="2019-11-14T05:49:00+02:00" filename="Untitled.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

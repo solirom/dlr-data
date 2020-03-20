@@ -239,8 +239,8 @@
 				</re>
 				<etym cert="high">
 					<idno type="formație.internă-derivat-cu.sufix"/>
-                    <ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/>
-                    <term xml:lang="" type="sufix" subtype="unknown">er</term>
+					<ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/>
+					<term xml:lang="" type="sufix" subtype="unknown">-er</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

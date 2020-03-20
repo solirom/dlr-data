@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a698cbea-4eb0-4d60-b6b0-6d7816e0df2f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-19T13:31:18+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6aa3e1c8-de1c-4d79-8b56-3dc2cf478ae6" n="">
+						<def xml:id="uuid-f9d340f5-a9af-43ef-ad1b-9c97c10b7027"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4187de4e-6bb2-4907-b894-5efa85661f62" n="">
+						<def xml:id="uuid-6b217528-4c6b-4740-90e8-75c62c11d3de"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="accentuation-variant">
+					<stress xml:lang="ro-x-accent-lowcase-vowels">asd</stress>
+					<bibl type="unknown">
+						<ptr target="#uuid-99cd80ae-38e8-919d-9251-522699e01310">a</ptr>
+						<date>1999</date>
+						<citedRange>22</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7a68c0b9-2214-63f6-7931-f02203c019db">b</ptr>
+						<date>1999</date>
+						<citedRange>22</citedRange>
+					</bibl>
+				</form>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -25,7 +25,7 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
+					<orth n="">a</orth>
 					<stress xml:lang="ro-x-accent-upcase-vowels"/>
 					<syll/>
 					<pron/>
@@ -52,6 +52,10 @@
 								<citedRange/>
 							</bibl>
 						</cit>
+						<etym cert="high">
+							<idno type="element.extern-împrumut-etimon.sigur"/>
+							<term xml:lang="sq" type="unknown" subtype="unknown">text1</term>
+						</etym>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">

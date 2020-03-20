@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bc36debe-294d-4970-9515-379239fba506" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-16T12:51:02+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstractionism</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRACŢIONÍSM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-28644256-ad25-4234-b0c9-781181a53060" n="1.">
+						<def xml:id="uuid-f0f51612-df03-4c59-8d65-0fd7e4f62949">Tendinţă care acordă
+							abstracţiilor o valoare egală cu aceea a realităţilor concrete;</def>
+						<def xml:id="uuid-e6225a90-1fd9-4be0-9502-d9c54a953211">folosire excesivă a
+							abstracțiilor.</def>
+						<usg corresp="#uuid-e6225a90-1fd9-4be0-9502-d9c54a953211">
+							<seg type="sem" rend="usg">p. ext.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Ca să nu ne stingem din prea mult <hi rend="bold">abstracționism</hi>, ar fi nevoie de o doză de
+								gorilism.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-556f4cde-6193-504c-14b3-92d071e71d83">ibrăileanu</ptr>
+								<date>1924</date>
+								<citedRange>194</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>„Arta” creată graţie acestui tipar stihial nu e caracterizată, în
+								esenţa sa, prin aceea că o anexăm unui excesiv <hi rend="bold">abstracționism</hi> conceptual.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+								<date>1935</date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adevăratul <hi rend="bold">abstracționism</hi> se arată complet
+								independent de realitate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a5112e7-6379-076d-924d-ab2a75068af5">oprescu</ptr>
+								<date>1966</date>
+								<citedRange>61</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aţi făcut greşeli cu toptanul, acum vreţi să ne otrăviţi şi pe
+								noi, să sugem odată cu laptele şi idealismul, misticismul, spiritul
+								mic-burghez, tendinţele de chiverniseală, nepotismul, <hi rend="bold">abstracţionismul</hi> şi împăciuitorismul?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6923b82a-04fe-8238-40de-aff1b0dd56ae">sorescu</ptr>
+								<date>1992</date>
+								<citedRange>467</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-873e2774-bbde-4993-b88d-39d1de3a6fdf" n="">
+						<usg corresp="#uuid-873e2774-bbde-4993-b88d-39d1de3a6fdf">
+							<seg type="dom" rend="usg">A. PLAST.</seg>
+						</usg>
+						<def xml:id="id">Curent artistic contemporan, caracterizat prin reducţia
+							abstractă şi încifrarea imaginii;</def>
+						<def xml:id="uuid-a02d81d6-cdb4-428a-ab08-e9a2a4f93d4b">artă
+							abstractă.</def>
+						<cit type="unknown">
+							<quote>Arta nu este reprezentată de diferitele variante ale <hi rend="bold">abstracționismului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<date>1960</date>
+								<citedRange>februarie, 181</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rareori <hi rend="bold">abstracţionismul</hi> e şi artă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a49de80-8284-6170-21f5-587ae11296ae">băncil</ptr>
+								<date>1978</date>
+								<citedRange>358</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Caracterul nonfigurativ al artelor își are o origine certă, ca și
+								o mare dezvoltare, în modernism, prin cubism și alte <hi rend="bold">abstracționisme</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5469dfb6-2ad7-3d8f-3f80-fc3afcba2090">cărtărescu</ptr>
+								<date>1999</date>
+								<citedRange>99</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-94a343e8-e4fe-44f1-b32b-357640945b78" n="">
+						<def xml:id="uuid-1e798e72-ecdf-4861-91a8-9f8eadf2aab8"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-ţi-o-</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstracţionisme</number>
+						<usg>(<seg type="plev" rend="usg">rar</seg>)</usg>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstractionnisme</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abstractionism</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<date>1962</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc.</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

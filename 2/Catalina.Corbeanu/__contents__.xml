@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/Catalina.Corbeanu" owner="Catalina.Corbeanu" group="dlr-redactors" mode="774" created="2019-04-16T05:42:13+03:00" deduplicate-blobs="false" version="2">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="lipicios.xml" owner="Catalina.Corbeanu" group="dba" mode="774" created="2018-06-12T20:33:38+03:00" modified="2019-10-19T06:20:46+03:00" filename="lipicios.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d8e6760d-21b9-456e-927b-917b907bfd20" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-18T12:55:17+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstrage</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRÁGE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="III"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5cfdeb12-068b-428b-95bd-076fdbb64309" n="1. ">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="III"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-e903fa8c-8ba2-494a-8a26-d5b7085a1a95">A desprinde, a lua
+							în considerare numai o parte, o însuşire a unui obiect din întregul
+							căruia îi aparţine;</def>
+						<usg corresp="#uuid-e903fa8c-8ba2-494a-8a26-d5b7085a1a95">
+							<seg type="gram" rend="usg">(Folosit și absol.)</seg>
+							<seg type="dom" rend="usg">FILOS.</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-e903fa8c-8ba2-494a-8a26-d5b7085a1a95">
+							<ptr target="a abstractiza;"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-e903fa8c-8ba2-494a-8a26-d5b7085a1a95">
+							<ptr target="a deduce (1),"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-e903fa8c-8ba2-494a-8a26-d5b7085a1a95">
+							<ptr target="a extrage (3)."/>
+						</xr>
+						<cit type="unknown">
+							<quote>Acele felurite reprezentaţii pre carea seau prin simţiri seau
+								prin fantasie le am agonisit, mintea noastră adese ori le cumpăneşte
+								între sine şi deosebeşte într-însele notele cele proprii, le
+								negrijeaşte seau nu le bagă în seamă. Aceasta făcând mintea să zice
+									<hi rend="bold">a abstrage</hi>, adică a trage afară seau a
+								scoate (abstrahere).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-998e6fd6-1be8-842f-20f5-a7e7e21672a5">murgu</ptr>
+								<date>&lt;1834–1835&gt;</date>
+								<citedRange>11<hi rend="superscript">v</hi>/7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un creier foarte simţitor ajunge <hi rend="bold">a abstrage</hi>
+								din toate facultăţile intelectuale ideia generală care le conţine pe
+								toate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+								<date>&lt;1875–1876&gt;</date>
+								<citedRange>104</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De multe ori însă, mai mulţi factori fiind legaţi împreună şi
+								influenţându-se unul pe altul, noi, pentru a analiza, <hi rend="bold">abstragem</hi> un singur factor ca să-i arătăm
+								însemnătatea relativă [Notă de subsol].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-deb6a4cd-354c-38b5-69e5-77e7a13d9b1d">dobrogeanu</ptr>
+								<date>1887</date>
+								<citedRange>89</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cunoaştem două realităţi de ordine diferită: una heterogenă, acea
+								a calităţilor sensibile, alta homogenă, care este spaţiul. Aceasta
+								din urmă ... ne face în stare să operăm deosebiri hotărâte, să
+								numărăm, <hi rend="bold">să abstragem</hi> şi poate chiar să
+								vorbim.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e657ce91-4826-555d-9e12-2d5a39a996ac">antoniade</ptr>
+								<date>1910</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un peizaj la Dărăscu se compune foarte simplu, din câteva tuburi
+								de vopsea sleite cu sens pe o suprafaţă de pânză. Mai mult
+								indicaţii, o strecurare rapidă printre fizicul naturii, pe care-l
+									<hi rend="bold">abstrage</hi>, îl face impalpabil, îl scufundă
+								în groapa nemăsurată a luminii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">arghezi</ptr>
+								<date>1914</date>
+								<citedRange>149</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regizorul trebuia să fie un vizionar interpretativ, preocupat <hi rend="bold">să abstragă</hi> formele comune în limbagii
+								cerebrale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">arghezi</ptr>
+								<date>1925</date>
+								<citedRange>289</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arta lui [a lui Shakespeare] ar putea fi subsumată, la rigoare,
+								unei idei greceşti, ideii de artă dionizică; dar să observăm îndată
+								că termenul şi conceptul acesta sunt extrase şi <hi rend="bold">abstrase</hi> de către un supraromantic modern din practica
+								greacă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">zarifopol</ptr>
+								<date>1929</date>
+								<citedRange>168</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru Toma, ideile, arhetipuri ale lucrurilor şi raţiuni ale lor
+								eterne, sunt în intelectul divin; iar omul are o lumină firească,
+								prin care produce còpii ale acestor „inteligibile”, pe care le poate
+								referi celorlalte: intelectul agent, creator de specii, prin care
+								omul <hi rend="bold">abstrage</hi> inteligibilul din datele
+								simţurilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a6ed29ab-529f-1f5d-1c7d-bf1f2d4e783d">vulcănescu</ptr>
+								<date>1942</date>
+								<citedRange>131</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Raţiunea prezintă oarecare analogie cu senzaţia, întrucât ... <hi rend="bold">abstrage</hi> formele – adică genurile şi speciile –
+								din obiectele inteligibile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">drimba</ptr>
+								<date>1987</date>
+								<citedRange>309</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c9c9248f-6021-4488-9dbc-4e4e98fa1abd" n="">
+						<def xml:id="uuid-78d4f12c-6aca-482c-97c3-764fdaf0b08f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

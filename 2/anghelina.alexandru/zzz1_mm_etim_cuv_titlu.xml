@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ea08a3ea-7323-4e00-835f-b95cea2b2a55" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bfd9b9eb-2cf7-4497-8e60-1254cf474337" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-06T09:34:22+0200"/>
+				<date when-iso="2020-03-16T12:47:10+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -33,8 +33,8 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-3738ab1b-74dd-4ff2-a082-a013db9cc05c" n="">
-						<def xml:id="uuid-47513fdf-3d80-4ec5-b653-86ed5c874f39"/>
+					<sense xml:id="uuid-d4d5bf1c-adba-4e10-ba5c-4580fbe5f3dd" n="">
+						<def xml:id="uuid-58330820-a59e-456b-b624-d6a4a994c04b"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -46,8 +46,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-d78a90b6-b87a-45b2-b5fb-4071d5d64cf2" n="">
-						<def xml:id="uuid-517e433e-66ee-4ccc-9fed-b22fb6f87afb"/>
+					<sense xml:id="uuid-41f1714f-aa1b-4027-b1bd-b6dd421374e8" n="">
+						<def xml:id="uuid-02bf46bd-c83e-4b31-a515-f55452b3535b"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,26 +58,11 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<re type="lexical-variant-section">
-					<def>var1</def>
-					<gramGrp>
-						<pos value=""/>
-					</gramGrp>
-					<etym cert="high">
-						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="rup" type="unknown" subtype="unknown">atestat</term>
-					</etym>
-				</re>
-				<re type="lexical-variant-section">
-					<def>var2</def>
-					<gramGrp>
-						<pos value=""/>
-					</gramGrp>
-					<etym cert="high">
-						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="rup" type="unknown" subtype="unknown">atestat</term>
-					</etym>
-				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">etim</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">etim</term>
 				</etym>
 			</entry>
 		</body>
