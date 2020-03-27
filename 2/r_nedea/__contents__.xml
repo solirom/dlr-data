@@ -1,6 +1,6 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/r_nedea" owner="r_nedea" group="dlr-redactors" mode="774" created="2019-04-16T05:42:11+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="abstrage.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-18T06:55:16+02:00" modified="2020-03-19T13:55:04+02:00" filename="abstrage.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstrage.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-18T06:55:16+02:00" modified="2020-03-25T14:09:01+02:00" filename="abstrage.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abstentionism.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-19T09:55:13+02:00" modified="2020-02-19T10:09:27+02:00" filename="abstentionism.xml" mimetype="application/xml">

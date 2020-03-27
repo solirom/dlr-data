@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6d744e5f-d0ef-4746-8706-4a7c407984ae" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-23T12:59:51+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABAZIN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-40a72784-529e-40b5-895b-e0141ecfe127" n="">
+						<def xml:id="uuid-033d6e17-fcb9-4977-acaf-1d596565a332"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2a041699-d588-4096-9b6b-83944e2c661f" n="">
+						<def xml:id="uuid-4990bdac-49b2-4014-832f-8797259a5d28"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="1">
+						<number>abazine</number>
+						<usg><seg type="plev" rend="usg">rar</seg></usg>
+						<bibl type="unknown">
+							<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+							<date>1975</date>
+							<citedRange/>
+						</bibl>
+						<bibl type="unknown">
+							<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+							<date>2007</date>
+							<citedRange/>
+						</bibl>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

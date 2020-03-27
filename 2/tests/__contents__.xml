@@ -1,5 +1,8 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/tests" owner="tests" group="dba" mode="774" created="2019-04-13T06:07:24+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="test_trimitere_superscript.xml" owner="tests" group="tests" mode="644" created="2020-02-21T05:42:29+02:00" modified="2020-02-21T05:45:47+02:00" filename="test_trimitere_superscript.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
     <resource type="XMLResource" name="redare_dictionare.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2018-11-11T22:58:04+02:00" modified="2019-03-07T01:14:23+02:00" filename="redare_dictionare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
@@ -39,7 +42,7 @@
     <resource type="XMLResource" name="test-loc-expr.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-loc-expr.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="DA4ver2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:20+03:00" modified="2019-03-08T18:51:30+02:00" filename="DA4ver2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="DA4ver2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:20+03:00" modified="2020-02-17T08:21:38+02:00" filename="DA4ver2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="DEBARCA_test_DLR.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-08T18:54:48+02:00" filename="DEBARCA_test_DLR.xml" mimetype="application/xml">
@@ -70,6 +73,9 @@
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="test_varianta2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_varianta2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="test_mm_etim.xml" owner="tests" group="tests" mode="644" created="2020-03-16T06:12:08+02:00" modified="2020-03-16T06:14:30+02:00" filename="test_mm_etim.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

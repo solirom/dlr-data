@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8c83d95c-20fe-46b2-93ed-e2deb2b85e2a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-23T15:17:39+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABTINERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-277a7c4f-cb9a-4dcf-a39d-a0ac7924dc52" n="">
+						<def xml:id="uuid-b8e19c2a-3c24-4a40-9ce8-56e96f6c4a6f"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ac485d1f-2c29-4e50-b905-b3c8d8e481fb" n="">
+						<def xml:id="uuid-8d2d07d5-f450-499c-8d1f-a9dbdb107cc7"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="2">
+						<case value="gen.-dat. și">abtinerei</case>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<bibl type="unknown">
+							<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+							<date>1975</date>
+							<citedRange/>
+						</bibl>
+						<bibl type="unknown">
+							<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+							<date>2007</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

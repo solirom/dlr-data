@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6f063c59-ce74-402a-8a01-4eb6ca60c087" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4de6b0b7-a8a0-49df-bc3e-567de1454d91" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-17T17:25:27+0200"/>
+				<date when-iso="2020-03-23T13:21:40+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,8 +24,8 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<orth n="">abia</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIA</stress>
 					<syll/>
 					<pron/>
 				</form>
@@ -33,8 +33,8 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-93fdf2b2-dee7-4614-b2f8-b8d2c5363879" n="">
-						<def xml:id="uuid-826951e9-5d07-4741-96e2-9a510bca1aa2"/>
+					<sense xml:id="uuid-f09c77cb-58a0-4bb0-b901-d48def32ce45" n="">
+						<def xml:id="uuid-66e67819-088a-40cf-ae40-97c21371476b"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -46,8 +46,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-bf3e098b-5069-4cc7-9bc2-991c96573e3f" n="">
-						<def xml:id="uuid-034d2225-a07e-4e3a-b680-42964a8ef877"/>
+					<sense xml:id="uuid-fc9934d9-ad0e-4da8-b43b-706b563a72c9" n="">
+						<def xml:id="uuid-663dfa56-b911-400c-88b7-edd39f6fc1f1"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,29 +58,15 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="accentuation-variant">
-					<stress xml:lang="ro-x-accent-lowcase-vowels">casa</stress>
-					<usg><seg type="geo" rend="usg">Ban.</seg></usg>
+				<form type="pronunciation" value="">
+					<pRef xml:lang="ro-x-accent-lowcase-vowels">a-bea</pRef>
+					<pRef xml:lang="ro-x-accent-lowcase-vowels">a-bi-a</pRef>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
-						<date>2001</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-feb0c798-6bc9-9f5f-0657-7549c49a28ed">dex</ptr>
-						<date>2003</date>
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
 						<citedRange/>
 					</bibl>
 				</form>
-				<re type="lexical-variant-section">
-					<usg><seg type="dom" rend="usg">Ban</seg></usg>
-					<def>vaarianta</def>
-					<gramGrp>
-						<pos value="adj."/>
-						<subc value=""/>
-						<number value=""/>
-					</gramGrp>
-				</re>
 				<etym cert="high">
 					<idno type="unknown"/>
 				</etym>

@@ -35,6 +35,21 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-5cfdeb12-068b-428b-95bd-076fdbb64309" n="1. ">
+						<sense xml:id="uuid-60dd4a2a-ab81-4314-958f-cbeb3b16a519" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="gram" rend="usg">Refl. pas.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Împrejurările percepţiunii <hi rend="bold">se abstrag</hi>
+									din imaginile ce le cuprind.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<date>&lt;1875–1876&gt;</date>
+									<citedRange>110</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<gramGrp>
 							<pos value="vb."/>
 							<iType value="III"/>
@@ -157,6 +172,348 @@
 							</bibl>
 						</cit>
 					</sense>
+					<sense xml:id="uuid-e06d15b6-b8ae-46a9-83e6-4784a25c9d2e" n="2.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="III"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A trage afară, a detașa, a desprinde;</def>
+						<def xml:id="uuid-568f643a-3ec9-4f57-b1cb-0b07e01c470a">a nu lua în
+							considerare, a omite ceva sau pe cineva în raport cu anumite
+							considerente;</def>
+						<xr type="syn" corresp="#uuid-568f643a-3ec9-4f57-b1cb-0b07e01c470a">
+							<ptr target="a exclude"/>
+						</xr>
+						<usg corresp="#id">(<seg type="gram" rend="usg">Folosit și absol.</seg>)
+								(<seg type="gram" rend="usg">Urmat de determinări introduse prin
+								prep. <hi rend="italic">de la</hi> sau, înv., <hi rend="italic">de</hi></seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Împărăteasa ... s-a văzut constrânsă ca <hi rend="bold">să
+									abstragă</hi> şi pe regimentele confiniarie transilvane <hi rend="bold">de la</hi> primitiva destinaţiune şi să le scoaţă în
+								alte ţări, pe câmpul sângelui.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">barițiu</ptr>
+								<date>1874</date>
+								<citedRange>I, 231</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La telegrama N-o 1364 răspund că Tincu va primi postul Bacău
+								totuşi rog <hi rend="bold">abstrageţi de la</hi> Hasnaş, căci nu are
+								metodă; propun pentru Vaslui sau pe Ştefănescu, învăţător rural,
+								Ţibăneşti, cu bacalaureat şi trei ani facultate, sau pe
+								Habar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e9f4b0b0-7603-71c7-482b-98afa5337d20">eminescu</ptr>
+								<date>1876</date>
+								<citedRange>153</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Popoarele catolice sunt mai vesele şi mai frumoase decât cele
+								protestante, tocmai pentru că această biserică <hi rend="bold">au
+									abstras de la</hi> cultura minţii şi au avut în vedere numai
+								îmblânzirea, înfrumuseţarea simţimentelor prin muzică, sculptură ...
+								şi prin credinţe care se sustrăgeau prin sfinţenia lor de la orice
+								controversă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">eminescu</ptr>
+								<date>1877</date>
+								<citedRange>302</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstrăgând</hi> deci <hi rend="bold">de la</hi>
+								săruri, şi în cea mai bună ciorba numai tare puţine substanţe
+								nutritoare se află, pentru că puţina albumină ce s-a topit în ea se
+								încheagă iute şi bucătăreasa o dă afară cu ajutorul lingurii de
+								curăţat spuma.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima
+									al</ptr>
+								<date>1891</date>
+								<citedRange>110</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Până la un punct oarecare, adecă <hi rend="bold">abstrăgând
+									de</hi> timpii glorioşi ai stăpânirii romane în Dacia, se poate
+								admite părerea d-rului Antoniu că prin bordei s-au legat de pământul
+								strămoşesc coloniile romane aduse de Traian.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">crăinic</ptr>
+								<date>1895</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstrăgând de la</hi> întâmplarea cu calul
+								primejduit, şi azi îmi aduc aminte cu mare plăcere de escursiunea,
+								ce am făcut-o în anul 1886.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">turcu</ptr>
+								<date>1896</date>
+								<citedRange>30</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Noi, vorbind cu bună dreptate, n-avem diminutive – <hi rend="bold">abstrăgând de la</hi> limba copiilor. Toate
+								diminutivele, pe cari le întrebuinţăm în general, s-au
+								individualizat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0ca7ec60-7703-7b56-0f57-caa42ca11cc2">coșbuc</ptr>
+								<date>1900</date>
+								<citedRange>369</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstrăgând de la</hi> aceste nemulţumiri şi
+								temeri personale, „Glasul Bucovinei”, care reprezintă lumea nouă,
+								are să lupte contra lumii vechi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușcariu</ptr>
+								<date>1919</date>
+								<citedRange>348</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstrăgând de la</hi> cursele ce le întindeau,
+								... urșii însă le dădeau mult de lucru.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6551b3bd-6a9b-74a1-8d55-75041d9c1869">dragomir</ptr>
+								<date>1926</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru această problemă, trebue <hi rend="bold">să abstragem</hi>
+								însușirile fizice ale corpului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+								<date>1931</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să se ducă atunci fiecare ins la alt neam cu mica lui putere de
+								ajutor şi să fie de folos acolo ...? Haosul n-ar fi mai mic ca în
+								cazul alergării dintr-un loc în altul, <hi rend="bold">abstrăgând
+									de</hi> sforţările inutile pe cari ar trebui să le facă fiecare
+								până să se aclimatizeze în noul loc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f0d968d0-563c-3021-a42f-3768d94e3a4a">stănilo</ptr>
+								<date>1939</date>
+								<citedRange>94</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Să abstragem</hi> că părțile nu-s egale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+								<date>1939</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mergerea Voevodului la vânătoare înfăţişează o regresiune în
+								mediul pastoral şi apoi într-o natură absolută, <hi rend="bold">abstrasă</hi> oricărei umanităţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călin</ptr>
+								<date>1941</date>
+								<citedRange>557</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abstrăgând de</hi> aceste operaţii, pe cari le-au
+								putut săvârşi copiştii cei mai vechi, sau în parte chiar Nil, corpul
+								„Scrisorilor” reprezintă o unitate şi vine în general de la acelaş
+								egumen din Ancyra.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b9174c18-71e1-5f76-22cb-d846105d83fd">filocalia</ptr>
+								<date>1946</date>
+								<citedRange>145</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ceea ce-ţi rămâne dintr-un om e ceea ce-l <hi rend="bold">abstrage din</hi> animalitate: gândirea lui, cuvintele,
+								gesturile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f83c5f6b-17b3-7929-10ef-a1faac0d978b">vulpescu</ptr>
+								<date>1980</date>
+								<citedRange>455</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-14c54ca6-c824-4ad1-9dfd-54e881507ea4" n="3. ">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="III"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="III"/>
+							<subc value="refl."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A (se) detașa, a (se) izola de realitatea exterioară
+							(pentru a reflecta sau a visa).</def>
+						<cit type="unknown">
+							<quote>Să ai bunătate a mă suferi ca <hi rend="bold">să</hi> te <hi rend="bold">abstrag</hi> puţin de alte cugetări măreţe, şi să-ţi
+								spui cu confidenţă cordială şi amicală cum că bucuria mea este
+								nemărginită.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">b.
+									contemp.</ptr>
+								<date>1861</date>
+								<citedRange>281</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Popoarele gânditoare sunt mute, <hi rend="bold">abstrase</hi> în
+								muncă şi gândire. Poporul românesc e un popor gânditor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a2cb7184-589a-76e1-2347-6bfdd2629797">arghezi</ptr>
+								<date>1914</date>
+								<citedRange>263</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sforţarea intelectuală te <hi rend="bold">abstrage</hi>
+								condiţiunii concrete a existenţei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-55ebfb28-4ffa-6b24-5bb3-8b962f2a1abe">vianu</ptr>
+								<date>1916</date>
+								<citedRange>24</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mă rog ca <hi rend="bold">să mă abstrag </hi>şi mai mult de
+								lucruri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<date>1937</date>
+								<citedRange>98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aparţinând unei naţii încă tinere, setoase de viaţă, [M. Ralea]
+								nu are, ca şi mulţi dintre contemporanii săi, capacitatea ascetică
+								de <hi rend="bold">a se abstrage</hi> într-o operă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călin</ptr>
+								<date>1941</date>
+								<citedRange>828</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Deşi [Ioanide] căuta <hi rend="bold">să se abstragă</hi> cu totul
+								accidentului, sensibilitatea lui nu putea, prin obişnuinţă, să
+								respingă intuiţia exact cronologică a faptului ce se petrecea în
+								jurul său.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-448ac116-3530-57d3-3edd-db29a48d7a74">călinescu</ptr>
+								<date>1953</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Personajul trăieşte <hi rend="bold">abstras</hi> din
+								istorie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8cadcc9f-8056-8d1f-1162-ae4beaeb290f">simion</ptr>
+								<date>1964</date>
+								<citedRange>227</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De altfel, nici omul aşa-zis civilizat nu are dreptul să se
+								glorifice că <hi rend="bold">s-a abstras</hi> total <hi rend="bold">de la</hi> unele rezonanţe străvechi ale cuvântului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9f48c709-8029-71b7-90f9-37f0df7c9181">caraman</ptr>
+								<date>1980 (†)</date>
+								<citedRange>392</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am constatat din propria-mi experienţă că deţinutul – <hi rend="bold">abstras din</hi> lumea evenimentelor prin care trece
+								naţia sa ... – ajunge pradă fenomenului oniric.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6395f9eb-9ee3-4b24-04fc-a8858fc59dc9">rădul</ptr>
+								<date>1998</date>
+								<citedRange>100</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-a4fbda62-708d-4216-80e5-a0f0a913b9aa" n="4. ">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="III"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A deduce (1), a extrage.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">LINGV.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Feminine sunt [terminațiile]: ... -ime, <hi rend="bold">astrasă</hi> de la adiective.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a6be53ae-782f-56dd-30be-c63e9dc68dbb">cipariu</ptr>
+								<date>1869</date>
+								<citedRange>243</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din zeci şi sute de cazuri în care auzim o vorbă rostită în
+								diferite chipuri ... <hi rend="bold">abstragem</hi> forma-tip a
+								cuvântului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1c3d1a17-a5d3-134b-7fac-f588046a7e9d">pușcariu</ptr>
+								<date>1922</date>
+								<citedRange>196</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Atributul este labil, adică poate fi <hi rend="bold">abstras</hi>
+								din complexele obiective în care s-a prezentat odată și atașat
+								oricăror obiecte noi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+								<date>1957</date>
+								<citedRange>214</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cuvântul „audia”... este recent și nu poate fi decât <hi rend="bold">abstras</hi> din „audiență”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+								<date>1959</date>
+								<citedRange>nr. 3, 90</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din „ceasornic” (interpretat ca un cuvânt compus din două
+								elemente lexicale sinonime) a fost izolat „ornic” … În concluzie:
+								„ornic” <hi rend="bold">a fost abstras</hi> din „ceasornic”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eba31b9c-2a57-47d5-0a55-847d0df09d37">hristea</ptr>
+								<date>1968</date>
+								<citedRange>31</citedRange>
+							</bibl>
+						</cit>
+					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-c9c9248f-6021-4488-9dbc-4e4e98fa1abd" n="">
@@ -171,9 +528,146 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abstrág</form>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>astráge</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="III"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="it" type="unknown" subtype="unknown">astrarre</term>
+					</etym>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/>abstraire<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown">trage</term>
+					</note></etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abstrahere</term>
 				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontb</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4e00444f-93f8-4acb-73d6-80002fc38ea3">gheție</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">form. cuv</ptr>
+						<date>1978</date>
+						<citedRange>43</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
 			</entry>
 		</body>
 	</text>

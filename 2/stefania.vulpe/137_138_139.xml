@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7db89410-12cd-4cee-b7eb-ba34c64f8323" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-88b0e1a4-2862-44f5-8f09-ef16038ee003" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-19T13:30:58+0200"/>
+				<date when-iso="2020-03-23T13:38:37+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -25,7 +25,7 @@
 			<entry>
 				<form type="headword">
 					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIA</stress>
 					<syll/>
 					<pron/>
 				</form>
@@ -33,8 +33,8 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-67bcc82e-a260-4451-8f9e-b7141a9d60aa" n="">
-						<def xml:id="uuid-a24a6d7d-b1c2-443f-add5-7f751ad4af44"/>
+					<sense xml:id="uuid-69e0401f-8c9d-4534-9e9a-4ee5a409e6e8" n="">
+						<def xml:id="uuid-a7c6c8b3-efee-49e8-a6a5-53598b6b658c"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -46,8 +46,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-352217f1-5c6b-456a-944f-3f30ba4c08de" n="">
-						<def xml:id="uuid-ce5da238-ba18-4dd0-8dc9-6957527dea38"/>
+					<sense xml:id="uuid-23a2dd9a-36a1-45a4-80fd-94d5dda0ca11" n="">
+						<def xml:id="uuid-bce02f9c-88dc-4275-a88a-ece03c4ea452"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,29 +58,17 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="accentuation-variant">
-					<stress xml:lang="ro-x-accent-lowcase-vowels">6676</stress>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">a-bea</pron>
+					<usg><seg type="geo" rend="usg">Ban.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
 						<date>2007</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-feb0c798-6bc9-9f5f-0657-7549c49a28ed">dex</ptr>
-						<date>1955</date>
-						<citedRange/>
-					</bibl>
-				</form>
-				<form type="writing">
-					<oVar>xx</oVar>
-					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
-						<date/>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-feb0c798-6bc9-9f5f-0657-7549c49a28ed">dex</ptr>
-						<date/>
 						<citedRange/>
 					</bibl>
 				</form>

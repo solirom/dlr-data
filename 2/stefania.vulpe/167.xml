@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-65352669-a187-4399-b260-59043c4e192c" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-9737a99a-7caf-4d84-8436-ce6f40b46322" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-02-17T12:56:13+0200"/>
+				<date when-iso="2020-03-23T16:36:27+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -25,19 +25,16 @@
 			<entry>
 				<form type="headword">
 					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLUENŢIE</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="vb."/>
-					<iType value=""/>
-					<subc value=""/>
-					<subc value=""/>
+					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-f56b947d-ce99-4d09-a509-f4f054ada73a" n="">
-						<def xml:id="uuid-66a3edf4-2be8-4c12-9934-3d84f17a20a6"/>
+					<sense xml:id="uuid-c797a981-e3f4-4979-a58c-c5a926e28d86" n="">
+						<def xml:id="uuid-df40a14e-d49e-4200-a0c8-fc25941ed128"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -49,8 +46,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-e1866b5e-913c-4c9a-97f5-ff518fa7b302" n="">
-						<def xml:id="uuid-397819fc-5a35-4b2d-998b-736978b97a71"/>
+					<sense xml:id="uuid-7655bfc5-9c48-4868-8a51-1a31e840fb11" n="">
+						<def xml:id="uuid-10c652de-0af0-4be1-a43d-53dbb91e5184"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -61,16 +58,11 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="2">
-						<mood value=""/>
-						<tns value=""/>
-						<per value=""/>
-						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
-					</form>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">?</pron>
 				</form>
 				<etym cert="high">
-					<idno type="cuvânt.internațional"/><term xml:lang="" type="unknown" subtype="unknown"/>
+					<idno type="unknown"/>
 				</etym>
 			</entry>
 		</body>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6f063c59-ce74-402a-8a01-4eb6ca60c087" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-77465fab-f78d-4b90-bb18-309f7729e4ee" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-17T17:25:27+0200"/>
+				<date when-iso="2020-02-21T12:42:40+0200"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,7 +24,7 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
+					<orth n="6">casă</orth>
 					<stress xml:lang="ro-x-accent-upcase-vowels"/>
 					<syll/>
 					<pron/>
@@ -33,8 +33,13 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-93fdf2b2-dee7-4614-b2f8-b8d2c5363879" n="">
-						<def xml:id="uuid-826951e9-5d07-4741-96e2-9a510bca1aa2"/>
+					<sense xml:id="uuid-177a2567-28e4-4a5f-b729-0dd74900b1e0" n="1">
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<term>expr</term>
+						</form>
+						<def xml:id="uuid-b411bb34-6e42-4a6d-8f8b-3095cbef0018"/>
+						<ptr type="trimitere" target="casă7"/>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -46,8 +51,8 @@
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-bf3e098b-5069-4cc7-9bc2-991c96573e3f" n="">
-						<def xml:id="uuid-034d2225-a07e-4e3a-b680-42964a8ef877"/>
+					<sense xml:id="uuid-e7fe6611-63d0-46c3-9a88-d0dba6bdc2b7" n="">
+						<def xml:id="uuid-8c1d3f69-870e-42f5-8f5f-a73b82a81c95"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,29 +63,6 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="accentuation-variant">
-					<stress xml:lang="ro-x-accent-lowcase-vowels">casa</stress>
-					<usg><seg type="geo" rend="usg">Ban.</seg></usg>
-					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
-						<date>2001</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-feb0c798-6bc9-9f5f-0657-7549c49a28ed">dex</ptr>
-						<date>2003</date>
-						<citedRange/>
-					</bibl>
-				</form>
-				<re type="lexical-variant-section">
-					<usg><seg type="dom" rend="usg">Ban</seg></usg>
-					<def>vaarianta</def>
-					<gramGrp>
-						<pos value="adj."/>
-						<subc value=""/>
-						<number value=""/>
-					</gramGrp>
-				</re>
 				<etym cert="high">
 					<idno type="unknown"/>
 				</etym>
