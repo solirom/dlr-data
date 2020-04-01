@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d9d688c4-69d2-464d-965b-0ce860215f9d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T17:17:32+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abietinee</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIETINÉE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e5986718-2956-4a35-952a-27dcca1d6455" n="">
+						<usg corresp="#uuid-e5986718-2956-4a35-952a-27dcca1d6455"><seg type="dom" rend="usg">BOT</seg>. <seg type="time" rend="usg">Înv.</seg>, <seg type="time" rend="usg">astăzi rar</seg>
+						</usg>
+						<def xml:id="uuid-6871949e-f9f8-45cd-acc0-0766721870c6">Familie de conifere
+							cuprinzând arbori din specia bradului;</def>
+						<def xml:id="uuid-dcb37b7e-af61-4aaf-b0c8-ac8bb3e132b8"/>
+						<def xml:id="uuid-2da77aed-8eda-431a-9929-390fdc356abe">plantă care face
+							parte din această familie.</def>
+						<xr type="syn" corresp="#uuid-dcb37b7e-af61-4aaf-b0c8-ac8bb3e132b8">
+							<ptr target="abietacee"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-dcb37b7e-af61-4aaf-b0c8-ac8bb3e132b8">
+							<ptr target="pinacee"/>
+						</xr>
+						<usg corresp="#uuid-6871949e-f9f8-45cd-acc0-0766721870c6">(<seg type="gram" rend="usg">La pl.</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-3b8cf1fd-6871-4174-a72a-2ccd81d054d7" n="">
+						<def xml:id="uuid-c8bee584-ef02-4d63-8821-44f1c36da231"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-bi-e-</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abietinee</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abiétinées</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

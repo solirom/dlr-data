@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-421b5a78-3f45-40e0-ad77-ef19c589172b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T12:45:30+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">7687</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7f5ab93f-f8e8-46ba-8a54-844991bfff77" n="">
+						<def xml:id="uuid-f9c76dc5-0f3d-4bde-a411-55889aa24f53"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<sense xml:id="uuid-562f55f6-494e-4608-9af4-051627e72ace" n="">
+					<def xml:id="id"/>
+					<cit type="unknown">
+						<quote/>
+						<bibl type="unknown">
+							<ptr target="unknown"/>
+							<date/>
+							<citedRange/>
+						</bibl>
+					</cit>
+				</sense>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-106e68ae-68d5-4d52-b5dc-dfcaafe9fa91" n="">
+						<def xml:id="uuid-b333a20c-7f01-4a60-bc7f-2b4bd748931b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

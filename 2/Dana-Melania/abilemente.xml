@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bdcbb92e-7236-4326-a98a-3dd82b28eb4a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-31T17:00:11+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abilemente</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABILEMÉNTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3ebe720e-913c-40c8-8fdd-f9568a8bdb72" n="">
+						<def xml:id="uuid-29283f90-b1b2-4e5c-965b-88242db1e093"/>
+						<xr type="syn" corresp="#uuid-29283f90-b1b2-4e5c-965b-88242db1e093">
+							<ptr target="Cu iscusință"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-29283f90-b1b2-4e5c-965b-88242db1e093">
+							<ptr target="cu dibăcie"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1bee6de7-24e9-4712-bfb0-a91e74a62fd4" n="">
+						<def xml:id="uuid-0f6b77bf-2553-497a-9155-2f486b74afae"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">habilement</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

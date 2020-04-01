@@ -1,0 +1,662 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b8c99d5d-56aa-4700-8662-1010bd2d3dff" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-31T13:56:28+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abil</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABÍL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7187a983-167d-4b5d-bc9d-db8840efd511" n="1.">
+						<sense xml:id="uuid-e1c4419b-33f6-472d-a00b-3cf7993535ed" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>)</usg>
+							<cit type="unknown">
+								<quote>Mioara e <hi rend="bold">abil</hi> târâtă de către
+									Ema.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c7ad8c7b-6966-36a7-5cdf-bc1a22d47bbd">mioara</ptr>
+									<date>1929</date>
+									<citedRange>100</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un plan urmărit de mult, o întâlnire <hi rend="bold">abil</hi> ticluită ori un angajament cu tact smuls,
+									recompensa risipa de sandvişuri şi de lichioruri
+									lipicioase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-db4a01b3-7b5c-7461-a19e-3fb46b1c0cba">victor</ptr>
+									<date>1930</date>
+									<citedRange>180</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Hotărârea primei instanţe, deşi foarte <hi rend="bold">abil</hi> motivată, a fost apelată la Divanul apelativ al
+									Moldovei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-429e7b6f-9d3d-a445-6f19-f5d3275e003d">berec</ptr>
+									<date>1933</date>
+									<citedRange>189</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Muncitorii sunt prinşi într-o reţea foarte <hi rend="bold">abil</hi> împletită de conducătorii
+									întreprinderilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-98ff2ee1-10a4-6bda-2b3e-f086b90a02d6">anii</ptr>
+									<date>1934</date>
+									<citedRange>109</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cu toate intrigile <hi rend="bold">abil</hi> urzite ale lui
+									Pini şi ale boerilor care-l secundau, Poarta a numit domn pe
+									Scarlat Callimachi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțet</ptr>
+									<date>1945</date>
+									<citedRange>158</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Efectul psihologic, <hi rend="bold">abil</hi> scontat, se mai
+									solda cu beneficiul nevărsării drepturilor de autor, minima sumă
+									de 10 %.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-72e96c2e-120b-88bf-2d03-0c45faa875a8">ciocu</ptr>
+									<date>1960</date>
+									<citedRange>191</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>:Comandantul socoteşte, diplomatic şi <hi rend="bold">abil</hi>: Bate vântul spre ei, de-aceea nu-i
+									auzim!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-84dd596c-3c1f-a365-a2f6-96931e62169a">optz</ptr>
+									<date>1966</date>
+									<citedRange>312</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am bănuiala că eşti un cuceritor care lucrează <hi rend="bold">abil</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">preda</ptr>
+									<date>1975</date>
+									<citedRange>230</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Folosind <hi rend="bold">abil</hi> şi oportun acest mijloc
+									Mihai şi-a atins obiectivul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+									<date>1982</date>
+									<citedRange>noiembrie, 19</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ideea refuzului … este <hi rend="bold">abil</hi> anexată de
+									anumite cercuri obscurantiste.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-63885902-5980-6d32-9731-b6045d6c450d">magaz</ptr>
+									<date>1985</date>
+									<citedRange>nr. 1 452, 2</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-48d7cd13-c847-4cd3-a3f9-27e98d4412af" n="✦">
+							<def xml:id="id">Care ştie să se orienteze, să se descurce potrivit
+								situaţiei;</def>
+							<xr type="syn" corresp="#id">
+								<ptr target="descurcăreț"/>
+							</xr>
+							<xr type="syn" corresp="#id">
+								<ptr target="şmecher (1)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Un tânăr inteligent şi cultivat, cu deosebire <hi rend="bold">abil</hi> în raporturile sale cu mulţimea cititoare, a luat
+									apărarea acelui public pe care nimeni nu-l atacase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarif</ptr>
+									<date>1931</date>
+									<citedRange>272</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Şi între 80 sau 160 de deţinuţi câţi sunt într-o sală, se
+									găsesc cel puţin douăzeci atât de <hi rend="bold">abili</hi>, ca
+									să dosească, să treacă din mână în mână obiectele interzise, aşa
+									fel ca să nu fie descoperite când se fac percheziţiile
+									inopinate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-84435b80-4ac1-6948-0083-e4ee518a0028">celul</ptr>
+									<date>1932</date>
+									<citedRange>32</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>El e foarte <hi rend="bold">abil</hi> în lucruri
+									d-astea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">răsc</ptr>
+									<date>1932</date>
+									<citedRange>164</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Davidescu nu este un detractor obişnuit, ci unul foarte <hi rend="bold">abil</hi> şi cult, nu un inocent
+									literar.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5768138d-2939-597b-08d1-dc113f3d52ce">const</ptr>
+									<date>1935</date>
+									<citedRange>48</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abil</hi> [=] Unul care intră pe unde l-ai
+									poftit să iasă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-895583f4-1fe9-5aaf-0f54-04a163ff6215">mușat</ptr>
+									<date>1970</date>
+									<citedRange>161</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abilă</hi> manevră a profesorului, care prin
+									răspunsurile mele reîmprospăta memoria celorlalţi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-33baf0cc-a0a2-7ebe-3c9e-5f92d2aea3f8">pred</ptr>
+									<date>1977</date>
+									<citedRange>43</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Om al Cărţii, deci mânuitor <hi rend="bold">abil</hi> al
+									cuvântului, în momente de panică (sau doar de contrariere), uită
+									,,cuvintele”, rămânând doar cu cele elementare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3">gom</ptr>
+									<date>2003</date>
+									<citedRange>406</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-6d894335-28be-40f8-b3d4-5c6a766a65a5">Care este
+							îndemânatic, destoinic;</def>
+						<usg corresp="#uuid-6d894335-28be-40f8-b3d4-5c6a766a65a5">(<seg type="hint" rend="usg">Despre oameni</seg>) </usg>
+						<xr type="syn" corresp="#uuid-6d894335-28be-40f8-b3d4-5c6a766a65a5">
+							<ptr target="iscusit"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-6d894335-28be-40f8-b3d4-5c6a766a65a5">
+							<ptr target="priceput"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-6d894335-28be-40f8-b3d4-5c6a766a65a5">
+							<ptr target="dibaci"/>
+						</xr>
+						<cit type="unknown">
+							<bibl type="author-reference">
+								<author target="URSU, Neologismele (ms.)"/>
+							</bibl>
+							<quote/>
+							<bibl type="ap.">
+								<ptr target="#uuid-850f8c2b-1b40-1181-4da2-c6c2dec58220">tdrg</ptr>
+								<date>1846</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ce-mi pasă? Cu cât mai <hi rend="bold">abil</hi> este cu atâta
+								sunt mai sigur resbunat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ec6eb666-9c89-052a-82a4-c441cb8b727d">sanu</ptr>
+								<date>1851</date>
+								<citedRange>19</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">paral</ptr>
+								<date>1857</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[C. A. Rosetti] este augurul, iară nu stăpânul; el creează
+								stăpâni pre care îi guvernă el; este „Loyola” de care tremură Papa;
+								este doctul astrolog, <hi rend="bold">abilul</hi> alchimist,
+								ingeniosul cabalist, cu aforismul „Luminează-te şi vei fi”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">boll</ptr>
+								<date>1869</date>
+								<citedRange>257</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Meșter-mester;-măiestru, creator, <hi rend="bold">abil</hi>,
+								priceput.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3296fb33-33fa-2de7-9075-b3094ba67b9c">mândr</ptr>
+								<date>1892</date>
+								<citedRange>171</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Femeile brănenilor încă sunt foarte muncitoare, foarte deştepte
+								şi <hi rend="bold">abile</hi> întru buna esecutare a lucrurilor ce
+								le îndeplinesc</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">turcu</ptr>
+								<date>1896</date>
+								<citedRange>36</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Altruismul … a avut un foarte <hi rend="bold">abil</hi> apologist
+								în Kropotkine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">barno</ptr>
+								<date>1922</date>
+								<citedRange>280</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Eşti destul de <hi rend="bold">abil</hi> să fii achitat pentru
+								delapidări.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-972b5250-9e30-902d-9f7e-dc3a72a60465">brăe</ptr>
+								<date>1926</date>
+								<citedRange>351</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Foarte <hi rend="bold">abil</hi> de obicei, acest obişnuit al
+								marilor procese nu observase totuşi că Irena avea un motiv mult mai
+								personal.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9002a0d7-1c27-1106-65f8-1cb97c7093f3">camil</ptr>
+								<date>1953</date>
+								<citedRange>133</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dramele şi comediile… Renaşterii au înfăţişat adeseori pe oamenii
+								din popor mai inteligenţi şi mai <hi rend="bold">abili</hi> decât
+								stăpânii lor.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">vian</ptr>
+								<date>1956</date>
+								<citedRange>351</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fiindcă te-ai dovedit de-atâtea ori un <hi rend="bold">abil</hi>
+								detectiv al istoriei artei, nu mă îndoiesc că vei descurca şi de
+								data asta firele încurcate ale noului mister giorgionesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-55ebfb28-4ffa-6b24-5bb3-8b962f2a1abe">vian</ptr>
+								<date>1962</date>
+								<citedRange>370</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dromichaites s-a dovedit a fi… un <hi rend="bold">abil</hi>
+								politician.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c439c08d-3cca-12f2-2d50-02a0def6043f">dacii</ptr>
+								<date>1965</date>
+								<citedRange>67</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>El se pricepea în meseria lui, era foarte <hi rend="bold">abil</hi>, ştia toate iţele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">interva</ptr>
+								<date>1968</date>
+								<citedRange>165</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă nu eşti destul de <hi rend="bold">abil</hi> să-ţi fereşti
+								filmul de senzaţia „educaţia cu orice preţ”, ai pierdut
+								partida.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3482161f-8dcd-0cda-2474-b08b00878522">cinem</ptr>
+								<date>1984</date>
+								<citedRange>nr. 3, 8, 1</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-97402cc0-635c-4018-b288-86db2d53f305" n="2.">
+						<sense xml:id="uuid-7e2838ea-5141-4795-9566-e7f959be8fed" n="✦">
+							<def xml:id="id">Care execută cu dibăcie.</def>
+							<usg corresp="#id">(<seg type="hint" rend="usg">Prin
+								metonimie</seg>)</usg>
+							<cit type="unknown">
+								<quote>: În „Lipitorile satelor” <hi rend="bold">abila</hi> pană a
+									lui V. Alecsandri ne arată tot ce suferă ţăranul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">fili</ptr>
+									<date>1861</date>
+									<citedRange>382</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un picior, de la genunchi, retezat perfect parcă de o mână
+										<hi rend="bold">abilă</hi> de chirurg, fu îndată recunoscut
+									de un recrut.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eccad37f-6187-1842-15e6-a1dc08905179">bart</ptr>
+									<date>1925</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Casa de tip culă pierde cu totul aspectul de construcţie
+									fortificată şi capătă, sub mâna <hi rend="bold">abilă</hi> a
+									meşterilor locali, o înfăţişare de caracter specific
+									naţional.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64d80f1a-a133-989e-4267-61f3fd1a7123">arhit</ptr>
+									<date>1957</date>
+									<citedRange>207</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Care vădește, care este realizat cu dibăcie şi
+							iscusință.</def>
+						<usg corresp="#id">(<seg type="hint" rend="usg">Despre acţiuni, manifestări
+								ale oamenilor</seg>)</usg>
+						<cit type="unknown">
+							<quote>Grație conciliăciunii celei <hi rend="bold">abile</hi> a
+								sistematelor opuse, că votul lui Voltaire s-a realisat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1834b3fa-0d06-37f6-700b-dd5991bb603e">lauri</ptr>
+								<date>1846</date>
+								<citedRange>210</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Domnul prim-ministru are multă iscusinţă, mă întrece. ... Aţi
+								dovedit-o astăzi cu răspunsul foarte <hi rend="bold">abil</hi> pe
+								care mi l-aţi dat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cacda226-37b4-870e-7829-e804d79e987a">kog</ptr>
+								<date>1885</date>
+								<citedRange>195</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Intercalarea aceasta e foarte <hi rend="bold">abilă</hi> şi
+								efectul ei este uimitor de puternic.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d820e6ba-4740-9e39-19ef-736f88bca52e">galac</ptr>
+								<date>1914</date>
+								<citedRange>185</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nici cel mai <hi rend="bold">abil</hi> comentariu nu poate
+								acoperi un viciu de cuprins.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-670f7d55-0537-3ef0-5edd-6afdfd272fef">rev</ptr>
+								<date>1915</date>
+								<citedRange>nov.-dec., 27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fără <hi rend="bold">abila</hi> manevră pe care au pus-o la cale
+								(şi la care s-a asociat şi Frontul Popular la nevoie, ca să
+								beneficieze de aceleaşi avantaje), Camera ar fi votat desigur pur şi
+								simplu dizolvarea tuturor ligilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+								<date>1935</date>
+								<citedRange>181</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lecţie sobră (cu un singur moment de cabotinaj – şi încă nu
+								exagerat), lecţie foarte frumoasă, strânsă, <hi rend="bold">abilă</hi>, cu o sumă de fericite formule.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">seb</ptr>
+								<date>1936</date>
+								<citedRange>58</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Teza era foarte <hi rend="bold">abilă</hi> şi putea ralia pe toţi
+								patrioţii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțe</ptr>
+								<date>1945</date>
+								<citedRange>27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A fost înfrânt... în mare măsură cu ajutorul ei <hi rend="bold">abil</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivas</ptr>
+								<date>1970</date>
+								<citedRange>124</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Funcţii de control au fost multiple şi foarte <hi rend="bold">abile</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flac</ptr>
+								<date>1981</date>
+								<citedRange>nr . 44, 10</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Politica mea, <hi rend="bold">abilă</hi>, a fost de nuanţă
+								bizantină şi nu balcanică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viaț</ptr>
+								<date>1982</date>
+								<citedRange>noiembrie, 46</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-6d988974-22c4-4652-8346-651dc8bad813" n="3.">
+						<def xml:id="id">Care este apt a îndeplini condiţiile cerute de lege pentru
+							a exercita un anumit drept.</def>
+						<usg corresp="#id"><seg type="dom" rend="usg">JUR</seg>. (<seg type="hint" rend="usg">Despre persoane</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">dn</ptr>
+								<date>1966</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2ad28ccf-17d7-4e7f-bb11-d0cb993d94c1" n="">
+						<def xml:id="uuid-07b279bf-1b99-4822-8661-6524ef45f79b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abili, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abíle</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">habile</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">habilis, -e</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neg</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pak</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-67614e8d-53fe-4daa-8dbe-6fc63a35eaab" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-31T17:10:10+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abilicește</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABILICÉȘTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-77cecf42-64e3-432a-bc95-3b34ab7dd669" n="">
+						<def xml:id="uuid-a0cc921a-3831-4d68-a30b-7b315df83bf0">În mod iscusit, </def>
+						<usg corresp="#uuid-a0cc921a-3831-4d68-a30b-7b315df83bf0"><seg type="time" rend="usg">Înv</seg>., <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-a0cc921a-3831-4d68-a30b-7b315df83bf0">
+							<ptr target="cu iscusință"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+								<date>1870</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a9173ee2-fc2d-47fe-9b7b-3792ad884a30" n="">
+						<def xml:id="uuid-46042b5c-744e-4f53-8cb9-b5403a1e9136"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abil"/><term xml:lang="" type="sufix" subtype="unknown">icește</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

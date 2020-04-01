@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a40a8c9e-5630-4b97-ab6a-a573adbaccef" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T16:21:55+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abietacee</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIETACÉE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9de39c4b-399e-4735-94ad-82922068ae8e" n="">
+						<usg corresp="#uuid-9de39c4b-399e-4735-94ad-82922068ae8e"><seg type="dom" rend="usg">BOT</seg>.</usg>
+						<def xml:id="uuid-85d45a4c-541c-4f9f-acfb-07f9fbef948b">Familie de conifere
+							cuprinzând arbori din specia bradului;</def>
+						<def xml:id="uuid-668eada8-32e5-4005-b6c7-6488c5fd48f1"/>
+						<def xml:id="uuid-1ab6fc44-2f31-4b65-9550-7728aba9ec2b">plantă care face
+							parte din această familie.</def>
+						<usg corresp="#uuid-1ab6fc44-2f31-4b65-9550-7728aba9ec2b">(<seg type="gram" rend="usg">și la sg.</seg>)</usg>
+						<xr type="syn" corresp="#uuid-668eada8-32e5-4005-b6c7-6488c5fd48f1">
+							<ptr target="abietinee"/>
+							<usg><seg type="time" rend="usg">înv.</seg>, <seg type="time" rend="usg">astăzi rar</seg></usg>
+						</xr>
+						<xr type="remote-syn" corresp="#uuid-668eada8-32e5-4005-b6c7-6488c5fd48f1">
+							<ptr target="pinacee"/>
+							<usg><seg type="time" rend="usg">înv</seg>., <seg type="time" rend="usg">astăzi rar</seg></usg>
+						</xr>
+						<usg corresp="#uuid-85d45a4c-541c-4f9f-acfb-07f9fbef948b">(<seg type="gram" rend="usg">La pl.</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d6d0f9ac-93e4-4f90-b782-fbb6a3bcd227" n="">
+						<def xml:id="uuid-3a0b894e-087b-43d8-9b9d-a0c00f3e805b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-bi-e-</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abietacee</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abiétacées</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

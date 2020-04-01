@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bd327fab-a9b7-4995-8957-5aa32e5f259a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T13:08:37+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abielușa</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIELÚŞA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-0d4f4f4f-a144-429e-93c0-8b6b831d8b0f" n="">
+						<sense xml:id="uuid-de4d78aa-f83e-4d5c-9df8-b472d3a51f63" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="time" rend="usg">Înv.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>D-abieluşa</term>
+							</form>
+							<def xml:id="id">foarte greu</def>
+							<cit type="unknown">
+								<quote>E ca vezul orbeţului, când zărieşte <hi rend="bold">d-abieluşa</hi>, ca prin sită, ori ca pân ciur.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e573f621-4444-5abe-2491-a56b4e0f3a3e">opinc</ptr>
+									<date>1881</date>
+									<citedRange>50</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-e3a19bf7-423d-46b5-8bce-740cdb033f9a">Diminutiv al lui
+							abia (I 1).</def>
+						<usg corresp="#uuid-e3a19bf7-423d-46b5-8bce-740cdb033f9a"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1893</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d64ffd9e-20b5-4241-b215-9a77ef4e23aa" n="">
+						<def xml:id="uuid-f3dc95a4-4c68-4c9b-9050-d111736cc0e4"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abia"/><term xml:lang="" type="sufix" subtype="unknown">ușă</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange>86</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

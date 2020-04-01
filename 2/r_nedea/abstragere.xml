@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8fe225a5-2b1e-4947-8df3-9644c744ad53" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>r_nedea</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-31T13:04:21+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abstragere</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSTRÁGERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7aa78967-407b-49d9-b620-cece9c509316" n="">
+						<sense xml:id="uuid-c37d16d9-8123-44d5-82bc-9d5709918119" n="1. ">
+							<def xml:id="id">Desprindere, luare în considerare numai a unei părţi, a
+								unei însuşiri a unui obiect din întregul căruia îi aparţine.</def>
+							<ptr type="trimitere" target="Cf. abstrage (1)."/>
+							<cit type="unknown">
+								<quote>Înf‹ățoșările› cele universale, fiindcă să formează din
+									[înfățoșări] uitate prin <hi rend="bold">abstragere</hi>, să
+									numesc altmintrile înf‹ățoșări› mij‹locite›, discursive,
+									abstracte seau conțepturi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9a9e6629-1fc5-6621-42b7-7bced9c1754c">murgu</ptr>
+									<date>&lt;1835–1836&gt;</date>
+									<citedRange>74<hi rend="superscript">r/</hi>6</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Omul şi-a complicat graiul în raport direct cu creierul său
+									şi se poate afirma că niciuna din născocirile sale nu a fost mai
+									mare, pentru propria sa înălţare, ca vorbirea. De unde viaţa sa
+									lăuntrică era un câmp numai de materie experimentată – cu
+									întinderea şi <hi rend="bold">abstragerea</hi> înţelesurilor, ea
+									a putut să se idealizeze.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfirescu</ptr>
+									<date>1911</date>
+									<citedRange>66</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Imaginea aceasta [compozită] e <hi rend="bold">o
+										abstragere</hi> din toate imaginile și un portret viu al
+									tipului [prezentat de scriitor].</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9d54d8d8-0b37-7ca7-8c9e-dcb756cc5bbf">ibrăileanu</ptr>
+									<date>1926</date>
+									<citedRange>217</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Principiul noutăţii aplicat numai la comparaţii <hi rend="bold">în abstragere de</hi> sentimentul liric integral
+									poate duce şi a dus la încheieri false.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+									<date>1941</date>
+									<citedRange>364</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cunoaşterea umană este secundară ... funcţia ei este limitată
+									numai la actul <hi rend="bold">abstragerii</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+									<date>1975 (1969)</date>
+									<citedRange>362</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„Arabescurile” se cheamă aşa pentru că-s produsele lumii
+									arabe … şi-s toate bazate … pe <hi rend="bold">abstragerea</hi>
+									schemelor din structurile organice, sau din cele ale corpurilor
+									chimice, ori din construcţiile moleculare şi sistemele
+									atomice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">frunzett</ptr>
+									<date>1985 (†)</date>
+									<citedRange>41</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d2c5fbf7-a3a3-42b7-86c2-cef5c8d96f15" n="2.">
+							<def xml:id="id">Desprindere, detașare (de realitatea exterioară).</def>
+							<ptr type="trimitere" target="Cf. abstrage (3)"/>
+							<cit type="unknown">
+								<quote>Nu ştiu de ce avem impresia însă că acest cleric a fost mult
+									mai impur decât o recunoaşte el însuşi. <hi rend="bold">Abstragerea</hi> din viaţă, care parcă îl caracterizează şi
+									parcă nu, e efort şi asceză.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">ionescu</ptr>
+									<date>1938</date>
+									<citedRange>137</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Obişnuit de poezia virilă cu transcendenţa, cu aşezarea
+									femeii într-o aureolă metafizică, cititorul caută şi în
+									literatura femeilor mişcările de <hi rend="bold">abstragere</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">căline</ptr>
+									<date>1941</date>
+									<citedRange>653</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Lipsa patimii și a părtinirii nu este pentru Bălcescu
+									atitudinea nepăsării, a <hi rend="bold">abstragerii</hi> din
+									temă [a studiului său], ci dreapta împărțire a blamului și
+									aprobării.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-eb7153fc-380e-73e5-724a-8254e3fb3ea2">vianu</ptr>
+									<date>1953</date>
+									<citedRange>356</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Eroii eminescieni găsesc, curent, în vis o posibilitate de
+										<hi rend="bold">abstragere</hi> și un mod de a-și realiza
+									idealurile.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8cadcc9f-8056-8d1f-1162-ae4beaeb290f">simion</ptr>
+									<date>1964</date>
+									<citedRange>99</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>E vizibil un artificiu dramatic modern, anume <hi rend="bold">abstragerea</hi> de la realitatea empirică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+									<date>1968</date>
+									<citedRange>ianuarie, 105</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În efortul său de <hi rend="bold">abstragere</hi> poetică,
+									Vinea acordă dragostei însemnătate terapeutică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+									<date>1971</date>
+									<citedRange>nr. 1 286, 3</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-5479880b-f93a-4d7a-936d-de0d78ae2c42" n="3.">
+							<usg corresp="#uuid-5479880b-f93a-4d7a-936d-de0d78ae2c42">
+								<seg type="dom" rend="usg">LINGV.</seg>
+							</usg>
+							<def xml:id="uuid-23cece00-c7ff-47a9-b842-39b31d8ad665">Deducere
+								(1),</def>
+							<xr type="syn" corresp="#uuid-23cece00-c7ff-47a9-b842-39b31d8ad665">
+								<ptr target="extragere (2, 3)."/>
+							</xr>
+							<ptr type="trimitere" target="Cf. abstrage (5)."/>
+							<cit type="unknown">
+								<quote>Substantivele care denumesc obiecte de acelaşi fel, exprimând
+									noţiuni formate prin <hi rend="bold">abstragerea</hi> notelor
+									comune de la mai multe obiecte, poartă numele de substantive
+									comune.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5b92858-3644-75d8-3ce4-db6d56c53915">gram.</ptr>
+									<date>1963</date>
+									<citedRange>55</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cele trei nivele ale structurii semiotice se obţin printr-o
+									operaţie de <hi rend="bold">abstragere</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-83d56de7-7edb-9bba-0017-d7a5a6b59c45">vasiliu</ptr>
+									<date>1990</date>
+									<citedRange>10</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-c654c886-c7d1-4dfa-b132-aef0ba999c9c">Acţiunea de <hi rend="spaced">a (se) abstrage</hi> şi rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-9b165cc2-c272-4646-94d2-37705f5974c9" n="">
+						<def xml:id="uuid-ef6d84cb-f751-4363-bf07-74354c8b2572"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abstrageri</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abstrage"/>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abstraire</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="la" type="unknown" subtype="unknown">abstrahere</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="it" type="unknown" subtype="unknown">astrarre</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

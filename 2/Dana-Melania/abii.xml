@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-db1591f2-44e0-4c31-a7f1-599cca409136" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-31T13:35:55+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abii</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABII</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-21f8d2c9-49eb-493b-9439-fe796a2db17e" n="">
+						<def xml:id="uuid-15dc2625-bb9e-4cbb-8708-7ac4ef23367a">Populaţie care a
+							trăit şi în Dacia.</def>
+						<usg corresp="#uuid-15dc2625-bb9e-4cbb-8708-7ac4ef23367a"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote>Înainte de <hi rend="bold">abii</hi> şi agavii … au trăit în
+								ţările Europei şi în particular în Dacia, două rase de oameni, cu
+								tipuri şi moravuri diferite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c5bdcd7-6391-1369-9095-ea3dbe953772">dacia</ptr>
+								<date>1911 (†)</date>
+								<citedRange>23</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-34043917-b7d0-4e92-a8c5-96aa6a7b41da" n="">
+						<def xml:id="uuid-6f8f1321-6f7f-4c5f-b79e-4d7ec17ea58a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<etym cert="high">
+					<idno type="element.necunoscut"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

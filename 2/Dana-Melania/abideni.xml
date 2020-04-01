@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5ce3a045-c63c-45b6-b7b4-93481740781b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T12:02:30+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abideni</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIDENI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-22047e98-1994-4141-9a0b-1648db99eb3f" n="">
+						<def xml:id="uuid-8146e794-deb0-48f0-8121-b2680e2ff62d">Populație care
+							locuia în orașul Abydos din Egiptul antic.</def>
+						<usg corresp="#uuid-8146e794-deb0-48f0-8121-b2680e2ff62d"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<cit type="unknown">
+							<quote>Iar bogazânii, afară din avideni (pentru că <hi rend="bold">avidenii</hi> au fost poronciţi de împăratul să păzească
+								podurile), iar ceialanţi 100 de vasă avea, tocmiţi ca şi
+								grecii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7a3be8ce-1187-a2d4-329b-fd53e52f00db">istorii</ptr>
+								<date>&lt;1664–1668&gt;</date>
+								<citedRange>362</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2873a436-92a7-4cca-876e-77d934b28398" n="">
+						<def xml:id="uuid-dc96f2bb-f3ba-4cd6-bf63-85fe2ad2c7bd"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>avidéni</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value="pl."/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">Abydiens</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

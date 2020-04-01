@@ -132,4 +132,7 @@
     <resource type="XMLResource" name="abstractionism.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-16T06:51:00+02:00" modified="2020-03-16T11:54:30+02:00" filename="abstractionism.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
+    <resource type="XMLResource" name="abstragere.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-31T06:04:18+03:00" modified="2020-03-31T11:38:35+03:00" filename="abstragere.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
 </collection>

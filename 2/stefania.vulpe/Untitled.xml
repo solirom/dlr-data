@@ -33,6 +33,17 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-52f58496-9d91-4265-9d43-e1de2a24e211" n="">
+						<def xml:id="id"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
 					<sense xml:id="uuid-93fdf2b2-dee7-4614-b2f8-b8d2c5363879" n="">
 						<def xml:id="uuid-826951e9-5d07-4741-96e2-9a510bca1aa2"/>
 						<cit type="unknown">
@@ -45,6 +56,17 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<sense xml:id="uuid-38d53a47-b361-4716-9e88-49d8a5a9684b" n="">
+					<def xml:id="id"/>
+					<cit type="unknown">
+						<quote/>
+						<bibl type="unknown">
+							<ptr target="unknown"/>
+							<date/>
+							<citedRange/>
+						</bibl>
+					</cit>
+				</sense>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-bf3e098b-5069-4cc7-9bc2-991c96573e3f" n="">
 						<def xml:id="uuid-034d2225-a07e-4e3a-b680-42964a8ef877"/>
@@ -73,12 +95,22 @@
 					</bibl>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="dom" rend="usg">Ban</seg></usg>
 					<def>vaarianta</def>
+					<bibl type="unknown">
+						<ptr target="unknown"/>
+						<date/>
+						<citedRange/>
+					</bibl>
 					<gramGrp>
 						<pos value="adj."/>
 						<subc value=""/>
 						<number value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<def/>
+					<gramGrp>
+						<pos value=""/>
 					</gramGrp>
 				</re>
 				<etym cert="high">

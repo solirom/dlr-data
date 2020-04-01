@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-13716e59-be74-454a-b75d-2d7c2456f9fb" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T12:56:46+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abieluca</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIELÚCA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ae765c72-1440-4946-9cce-93b239fbc71c" n="">
+						<sense xml:id="uuid-df93e1f9-194c-4f8b-b58c-6917b3fb7439" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="geo" rend="usg">Prin Maram.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>De-abcialuca</term>
+							</form>
+							<def xml:id="id">de abia</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-f95e6299-05e4-0f80-4295-934c544593a7">papah</ptr>
+									<date>1925</date>
+									<citedRange>2</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-7e89baee-5b1d-49e5-ba87-163757e98598">Diminutiv al lui
+							abia(I 1);</def>
+						<usg corresp="#uuid-7e89baee-5b1d-49e5-ba87-163757e98598"><seg type="geo" rend="usg">Reg</seg>.</usg>
+						<xr type="syn" corresp="#uuid-7e89baee-5b1d-49e5-ba87-163757e98598">
+							<ptr target="nițel"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Ștopătáză <hi rend="bold">abĝelúcă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">ALR</ptr>
+								<date>&lt;1930–1937&gt;</date>
+								<citedRange>h 75/228</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-12afe531-7fd3-4ddc-902b-73cc5f7c6ba7" n="">
+						<def xml:id="uuid-fdd15f64-d87c-4a2f-8e03-4c5daec5c381"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="abia"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

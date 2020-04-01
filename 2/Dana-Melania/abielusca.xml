@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-44526132-aad6-450b-849a-f2f49ca7ea06" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-30T13:26:28+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abielușca</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIELÚŞCA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-fc433d04-ba47-4775-8d39-323428fa16ea" n="">
+						<sense xml:id="uuid-72c7ce59-f945-47bf-ac17-2521a9c0d5db" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="time" rend="usg">Înv.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>D-abieluşca </term>
+							</form>
+							<def xml:id="id">foarte puţin, doar.</def>
+							<cit type="unknown">
+								<quote>Numai <hi rend="bold">de-agheluşc</hi><hi rend="bold">a</hi>
+									l-atinsei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9cb768f9-a325-5258-8369-c0d717363f18">hasdeu</ptr>
+									<date>&lt;1884–1885&gt;</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-81333341-83b5-4dbf-a8ae-d5542ad7cf1d">Diminutiv al lui
+							abia (II).</def>
+						<usg corresp="#uuid-81333341-83b5-4dbf-a8ae-d5542ad7cf1d"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+								<date>1907</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-bc843abb-99b9-42b0-a732-13a380d41bf4" n="">
+						<def xml:id="uuid-d8641939-c1dd-4357-89eb-a9cf34be7248"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abeúșca</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+						<date>1907</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-c56ef41e-8b7a-04e7-7126-1fd895b63a8e">da</ptr>
+						<date>&lt;1949–1952&gt;</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="adv."/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abia"/><term xml:lang="" type="sufix" subtype="unknown">ușcă</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+						<date>1907</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange>s.v. abia</citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>
