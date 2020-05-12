@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-3e7e6c5b-8f3c-43ab-ba3e-defb52e86ba4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-02T15:42:40+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abimare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIMÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c675ee23-fce9-49a7-8d13-1e0a13d7854b" n="">
+						<def xml:id="uuid-6e264602-c8f5-48de-82c5-b59cb0fee678">Acțiunea de a abima
+							și rezultatul ei;</def>
+						<usg corresp="#uuid-6e264602-c8f5-48de-82c5-b59cb0fee678"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-6e264602-c8f5-48de-82c5-b59cb0fee678">
+							<ptr target="stricare (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+								<date>1886</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-727925f2-eb8c-4f0b-9754-3986f6c8b6ac" n="">
+						<def xml:id="uuid-be5211ed-5b60-4947-b925-10db8359c886"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>?</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abima"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

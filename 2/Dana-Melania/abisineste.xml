@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-84b89562-c630-46b9-81ea-bdd91acee10f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-10T12:44:23+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abisinește</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABISINÉŞTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-425958f7-ccff-4e26-8d9e-13f91a6e6c8f" n="">
+						<def xml:id="uuid-dd562936-fd22-4b2a-988b-a0bf5532af92">În felul
+							abisinilor.</def>
+						<usg corresp="#uuid-dd562936-fd22-4b2a-988b-a0bf5532af92">
+							<def xml:id="uuid-dd562936-fd22-4b2a-988b-a0bf5532af92"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></def>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown">I. GOLESCU., Cond</ptr>
+								<date>c. 1832</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a664886d-582d-4cda-a33a-788dfb24e5e6" n="">
+						<def xml:id="uuid-68c7e9da-e736-4af0-896f-6d956d606381"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abisin"/><term xml:lang="" type="sufix" subtype="unknown">ește</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,6 +1,6 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/admin" owner="admin" group="dlr-redactors" mode="774" created="2019-04-16T05:42:12+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Untitled.xml" owner="admin" group="dba" mode="644" created="2019-06-18T21:32:02+03:00" modified="2020-03-25T06:55:44+02:00" filename="Untitled.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="Untitled.xml" owner="admin" group="dba" mode="644" created="2019-06-18T21:32:02+03:00" modified="2020-04-01T06:16:48+03:00" filename="Untitled.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="Untitled3.xml" owner="admin" group="dba" mode="644" created="2020-02-27T04:00:47+02:00" modified="2020-02-27T04:00:47+02:00" filename="Untitled3.xml" mimetype="application/xml">

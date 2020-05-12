@@ -264,31 +264,6 @@
 								<citedRange>422</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
-								<date>&lt;1930-1937&gt;</date>
-								<citedRange>239/677, 684, 960</citedRange>
-							</bibl>
-						</cit>
-						<cit type="✧ POP.">
-							<quote>Să trage <hi rend="bold">abaua</hi> la piuă.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
-								<date>&lt;1930-1937&gt;</date>
-								<citedRange>6 464/899</citedRange>
-							</bibl>
-						</cit>
-						<cit type="✧ POP.">
-							<quote>Pălărie de <hi rend="bold">aba</hi>.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-de27f9f4-2bd3-4295-8d25-4861802400fd">ALRM
-									(SN</ptr>
-								<date>&lt;1929-1938&gt;</date>
-								<citedRange>h 1159</citedRange>
-							</bibl>
-						</cit>
 						<cit type="unknown">
 							<quote>Nimenea din alte rufeturi să nu fie volnic... să coase materii cu
 								fir... afară de rufetul abagiilor, cari au a lucra numai marfă de
@@ -325,6 +300,38 @@
 									doc</ptr>
 								<date>c. 1660</date>
 								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Roata de la piuă de <hi rend="bold">abale</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">ALR</ptr>
+								<date>&lt;1930-1937&gt;</date>
+								<citedRange>239/677</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Piuă de bătut <hi rend="bold">abale</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date>&lt;1930-1937&gt;</date>
+								<citedRange>239/684</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Se trage <hi rend="bold">abaua</hi> la piuă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1b955b58-8e18-86cb-176a-57cc3e3014d2">alr</ptr>
+								<date>&lt;1930-1937&gt;</date>
+								<citedRange>h 899</citedRange>
+							</bibl>
+						</cit>
+						<cit type="✧ POP.">
+							<quote>Pălărie de <hi rend="bold">aba</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-de27f9f4-2bd3-4295-8d25-4861802400fd">alr</ptr>
+								<date>&lt;1929-1938&gt;</date>
+								<citedRange>h 1159</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -471,7 +478,8 @@
 							</bibl>
 						</cit>
 						<cit type="✧ POP.">
-							<quote/>
+							<quote>Noi singure am țesut hainele sau <hi rend="bold">abalele</hi> pe
+								care le poartă bărbații.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
 								<date>&lt;1930-1937&gt; </date>

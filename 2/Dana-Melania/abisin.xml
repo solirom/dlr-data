@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4df1051e-c738-475e-b647-98f9fe2b9146" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-09T16:54:13+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abisin</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABISÍN</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-55170e8f-56cc-44a0-a7e2-efddb9f5425b" n="1.">
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-d3c25a60-f691-49c9-81b5-e65eaacbd940"/>
+						<usg corresp="#uuid-d3c25a60-f691-49c9-81b5-e65eaacbd940"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" corresp="#uuid-d3c25a60-f691-49c9-81b5-e65eaacbd940">
+							<ptr target="Abisinian (1)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+								<date>1839</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-fb6903c9-8843-423a-a5db-5e57665a29a7" n="2.">
+						<sense xml:id="uuid-d4e022e9-f0fd-487d-b054-8d6e2d25301a" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
+								<term>Italo-abisin</term>
+							</form>
+							<def xml:id="id">care se referă și la italieni și la abisini.</def>
+							<cit type="unknown">
+								<quote>Comisia de trei, întrunită vineri nu poate scoate căruţa din
+									nămol şi războiul <hi rend="bold">italo-abisin</hi> pare mai
+									sigur ca oricând.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+									<date>1935</date>
+									<citedRange>111</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id"/>
+						<usg corresp="#id">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="Abisinian (2)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Guvernul <hi rend="bold">abisin</hi> va garanta libertatea
+								comerţului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">români</ptr>
+								<date>1888</date>
+								<citedRange>nr. 3 168, 3</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-210aa49d-ca2f-4038-87a1-8e4d6d2757f5" n="">
+						<def xml:id="uuid-3099d41f-dbd0-4d76-8e18-bf8a57067bd3"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abisini, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abiseán,-ă</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abyssin</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

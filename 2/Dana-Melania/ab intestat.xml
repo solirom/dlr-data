@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-04857d80-7eea-4490-ac74-67b3d5b4c6a7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-03T12:46:59+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ab intestat</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">AB INTESTÁT </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adj."/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adv."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4b137a9e-3ee9-4e6b-93eb-d94f23f23ea2" n="">
+						<def xml:id="uuid-e55a67e6-dc29-42f5-98a8-84a3d61507ce">(Care se desfășoară)
+							în absența unui testament și a cărei devoluție este reglementată prin
+							lege.</def>
+						<usg corresp="#uuid-e55a67e6-dc29-42f5-98a8-84a3d61507ce"><seg type="dom" rend="usg">JUR.</seg> (<seg type="hint" rend="usg">Despre
+								succesiuni</seg>)</usg>
+						<cit type="unknown">
+							<quote>Cea din început netemeinică orânduire a voinţei cei de pe urmă nu
+								se întăreşte prin cele din urmă întâmplări ci, la aşa feliu de
+								întâmplare are loc moştenirea „<hi rend="bold">ab</hi>
+								<hi rend="bold">intestato</hi>” (adecă fără testament).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b192a56a-8543-a2da-4a96-c119f09d490a">calim</ptr>
+								<date>1833</date>
+								<citedRange>303</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Clironomiile „<hi rend="bold">ab-intestato</hi>” erau cu totul
+								ale Cutiei milelor, alipită la Epitropie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bec92316-0f0c-0502-7a50-ca6c0369a789">urec</ptr>
+								<date>1893</date>
+								<citedRange>445</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Moştenire <hi rend="bold">ab intestato</hi> = moştenirea pe basa
+								legii în lipsa de testament</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+								<date>1898</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Despre moştenirile „<hi rend="bold">ab intestat</hi>” şi despre
+								legate precum şi despre cei desmoşteniţi pentru ingratitudine
+								[Subtitlu].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-429e7b6f-9d3d-a445-6f19-f5d3275e003d">berech</ptr>
+								<date>1933</date>
+								<citedRange>49</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Erau ele primite, oricând, în mod direct, sau în calitate de
+								succesoare <hi rend="bold">ab intestat</hi> sau testamentare ale
+								unui breslaş? Era o normă general admisă sau excepţii binevoitoare
+								la unele din bresle? </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">bresl</ptr>
+								<date>1939</date>
+								<citedRange>128</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>M[oștenirea] poate fi <hi rend="bold">ab intestat,</hi> când
+								defunctul nu a lăsat testament şi a cărei deschidere e regulată prin
+								lege şi testamentară, când defunctul a lăsat testament.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ff8667f-670c-8806-57c3-ec0d17de2b5c">enc</ptr>
+								<date>1942</date>
+								<citedRange>73</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">priv</ptr>
+								<date>1997</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+								<date>1999</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">civ</ptr>
+								<date>2007</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-dd04b789-58da-418e-8637-950bf6ca16f9" n="">
+						<def xml:id="uuid-0343175c-2e20-4329-883f-9c5390d0977f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="hint" rend="usg">formă latinizantă</seg>)</usg>
+					<def>ab intestáto</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asach</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1926</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+						<date>1999</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="loc."/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="loc.lat."/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1926</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<date>1962</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<date>2002</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8a23a018-9dd7-18d8-3eba-6dd0be2625e9">fundam</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

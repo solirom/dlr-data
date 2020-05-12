@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-f6ceed5b-e6dc-438b-a3b9-ca95bb9dcae7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-02T14:22:51+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abima</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIMÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-195a1913-b1b9-44e8-b933-a6029fe07cc3" n="1.">
+						<sense xml:id="uuid-c687bffc-bdb1-4157-82f9-c993eb135e97" n="✦">
+							<def xml:id="id">A azvârli, a arunca într-o prăpastie.</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+									<date>1840</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-4cda179a-5eb9-4dd9-85a4-7c1285cbc3b9"/>
+						<xr type="syn" corresp="#uuid-4cda179a-5eb9-4dd9-85a4-7c1285cbc3b9">
+							<ptr target="A adânci"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-4cda179a-5eb9-4dd9-85a4-7c1285cbc3b9">
+							<ptr target="a afunda"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poen</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5b6ff67b-b358-4c67-a17c-5910e1f58920" n="2.">
+						<def xml:id="id"/>
+						<xr type="syn" corresp="#id">
+							<ptr target="A distruge (1)"/>
+							<usg>
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dorinţa expresă a generaţiei de la 1848 a fost categorică, şi nu
+								dv. veţi putea <hi rend="bold">abima</hi> întru ceva marile acte
+								comise de acei bărbaţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda">bacalb</ptr>
+								<date>1892</date>
+								<citedRange>85</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dansezi ca o cizmă, se enervă ea. Îmi <hi rend="bold">abimezi</hi> pantofii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-83610f5b-4b99-3d0a-2333-d8d572af17d8">străin</ptr>
+								<date>1955</date>
+								<citedRange>323</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2b5c750c-6d7f-47d9-bffd-6faab9d19b4e" n="">
+						<def xml:id="uuid-2117b153-fc49-4fe8-acae-5449949aef02"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abimez</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abîmer</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

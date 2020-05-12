@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e7d2db0e-6ed7-49f3-8e1d-b3660b31970f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-07T16:20:03+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abisalism</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABISALÍSM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b75606ca-b87f-45be-a4e6-bd60ff3ded76" n="">
+						<def xml:id="uuid-3ebb9afe-2273-484e-b944-df65ccde9751">Concepție de tip
+							abisal; </def>
+						<usg corresp="#uuid-3ebb9afe-2273-484e-b944-df65ccde9751">
+							<seg type="plev" rend="usg">Rar</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-3ebb9afe-2273-484e-b944-df65ccde9751">
+							<ptr target="abisalitate"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Cartea asta (şi nu numai) e un fel de Pâine albă a lui Dumitru
+								Mircea ... suprarealism socialist în care s-a turnat un ulcior de
+									<hi rend="bold">abisalism</hi> existenţial.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ab9fc272-3299-622a-5abb-420eca455797">gom</ptr>
+								<date>1984</date>
+								<citedRange>104</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-dcce8696-7823-49fd-a92e-7b7581db2f15" n="">
+						<def xml:id="uuid-f53a4113-f863-4227-b8a5-de7dece64c85"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abisal"/><term xml:lang="" type="sufix" subtype="unknown">ism</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -80,6 +80,11 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-82be8fb6-1306-4f63-af26-89ae73d4e437" n="2.">
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
 						<def xml:id="id">Care aparține Abderei sau abderitanilor, care se referă la
 							Abdera sau la abderitani;</def>
 						<xr type="syn" corresp="#id">

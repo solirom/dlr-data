@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d103e30d-8f97-4b01-9584-77ac3a6c5e9b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-23T15:44:42+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABORDA</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-41f6fff1-514d-462d-801d-1e94b4dbdf2a" n="">
+						<def xml:id="uuid-e16d8a28-4b86-459c-b5b9-532902fccb3a"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-683fb20f-b0a2-49fa-9591-0b2ea8de102f" n="">
+						<def xml:id="uuid-435610d1-13b3-4072-9d10-bc27cec85179"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="2">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abordez</form>
+					</form>
+                    <form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abord</form>
+                        <usg>
+                            <seg type="plev" rend="usg">rar</seg>
+                        </usg>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="1">
+						<mood value="conjunct."/>
+						<tns value="prez."/>
+						<per value="pers. 3"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">sa
+							aborde</form>
+                        <stress xml:lang="ro-x-accent-lowcase-vowels">áborde</stress>
+                        <usg>
+                            <seg type="plev" rend="usg">rar</seg>
+                        </usg>
+                        <bibl type="unknown">
+							<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+							<date>2007</date>
+							<citedRange/>
+						</bibl>
+                        <bibl type="unknown">
+							<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+							<date>1975</date>
+							<citedRange/>
+						</bibl>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type=""/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

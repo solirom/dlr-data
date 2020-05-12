@@ -1,81 +1,45 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/tests" owner="tests" group="dba" mode="774" created="2019-04-13T06:07:24+03:00" deduplicate-blobs="false" version="2">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/tests" owner="admin" group="dlr-redactors" mode="774" created="2020-04-09T06:30:12+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="test_trimitere_superscript.xml" owner="tests" group="tests" mode="644" created="2020-02-21T05:42:29+02:00" modified="2020-02-21T05:45:47+02:00" filename="test_trimitere_superscript.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="zzz1_mm_etim_cuv_titlu.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-16T06:47:09+02:00" modified="2020-03-16T06:48:05+02:00" filename="zzz1_mm_etim_cuv_titlu.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="redare_dictionare.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2018-11-11T22:58:04+02:00" modified="2019-03-07T01:14:23+02:00" filename="redare_dictionare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="zzz2_mm_etim_cuv_titlu.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-16T08:13:48+02:00" modified="2020-03-16T09:13:44+02:00" filename="zzz2_mm_etim_cuv_titlu.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="TEST_LAMINA.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:19+03:00" modified="2019-03-08T18:57:12+02:00" filename="TEST_LAMINA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="zzz_175.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-04-08T10:50:27+03:00" modified="2020-04-08T10:53:49+03:00" filename="zzz_175.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="lingura.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:26+03:00" modified="2019-03-08T18:58:17+02:00" filename="lingura.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="zzz.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-19T07:31:18+02:00" modified="2020-03-19T07:49:07+02:00" filename="zzz.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="tst-redare.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:22+03:00" modified="2019-03-08T19:00:56+02:00" filename="tst-redare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="130.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T06:59:49+02:00" modified="2020-03-23T07:01:26+02:00" filename="130.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test_4_oct_2017.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:23+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_4_oct_2017.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="133_134.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:12:56+02:00" modified="2020-03-23T07:17:34+02:00" filename="133_134.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test_varianta1.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_varianta1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="135_140.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:21:38+02:00" modified="2020-03-23T07:23:20+02:00" filename="135_140.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test_scriere.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_scriere.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="136.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:24:39+02:00" modified="2020-03-23T07:36:18+02:00" filename="136.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test_pronuntare2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-08T19:00:07+02:00" filename="test_pronuntare2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="137_138_139.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:38:36+02:00" modified="2020-03-23T07:40:35+02:00" filename="137_138_139.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test_pronuntare.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:22+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_pronuntare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="144_145_146.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T08:34:47+02:00" modified="2020-03-23T08:36:16+02:00" filename="144_145_146.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test-paragr-penultim-MAIUG.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:19+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-paragr-penultim-MAIUG.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="147_148_149_150_151_152_153.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T09:17:39+02:00" modified="2020-03-23T09:20:25+02:00" filename="147_148_149_150_151_152_153.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ind-gram-vb-DA4.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:25+03:00" modified="2019-03-08T18:57:50+02:00" filename="ind-gram-vb-DA4.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="156_157.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T09:37:05+02:00" modified="2020-03-23T09:38:12+02:00" filename="156_157.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="LIBEL-test-DLR.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-08T18:55:09+02:00" filename="LIBEL-test-DLR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="158_160_161_162_163_164_165.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T09:44:42+02:00" modified="2020-04-08T06:46:58+03:00" filename="158_160_161_162_163_164_165.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="test-loc-expr.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-loc-expr.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="DA4ver2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:20+03:00" modified="2020-02-17T08:21:38+02:00" filename="DA4ver2.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="DEBARCA_test_DLR.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-08T18:54:48+02:00" filename="DEBARCA_test_DLR.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test_accentuare.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_accentuare.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test-paragr-penultim-DUMNEALUI.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-paragr-penultim-DUMNEALUI.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test_varianta3.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_varianta3.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test-paragr-penultim-MALAI.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:19+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-paragr-penultim-MALAI.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="LUARE_test_DLR.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:22+03:00" modified="2019-03-08T18:55:25+02:00" filename="LUARE_test_DLR.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="TEST_DIETA.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:20+03:00" modified="2019-03-08T18:56:54+02:00" filename="TEST_DIETA.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test-paragr-penultim-MACIUCA.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:23+03:00" modified="2019-03-07T01:14:23+02:00" filename="test-paragr-penultim-MACIUCA.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="unitati-cu-definitie.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:33:27+03:00" modified="2019-03-07T01:14:23+02:00" filename="unitati-cu-definitie.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test_varianta2.xml" owner="tests" group="dba" mode="774" created="2018-06-12T20:38:21+03:00" modified="2019-03-07T01:14:23+02:00" filename="test_varianta2.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="test_mm_etim.xml" owner="tests" group="tests" mode="644" created="2020-03-16T06:12:08+02:00" modified="2020-03-16T06:14:30+02:00" filename="test_mm_etim.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="167.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T10:36:26+02:00" modified="2020-03-23T10:37:54+02:00" filename="167.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

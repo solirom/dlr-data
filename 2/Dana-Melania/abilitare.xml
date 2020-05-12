@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-42babcdb-09cc-4623-be8a-27b0556062a0" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-01T17:12:34+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abilitare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABILITÁRE </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-652bf246-cdd9-4b15-bd6e-b7390b7a76f5" n="">
+						<sense xml:id="uuid-ece9bd2e-2953-4e07-bbb2-2535667c288a" n="1.">
+							<sense xml:id="uuid-7eda6239-d719-4a86-a50b-3c446979af8d" n="✦">
+								<def xml:id="id">Examen, teză etc. în baza cărora se conferă acest
+									drept.</def>
+								<cit type="unknown">
+									<quote>Înţeleg această măsură şi formele care urmează pentru
+										examenul de <hi rend="bold">abilitare</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-6b0fba85-9081-a24b-2c6f-22e4d5a2806d">discurs</ptr>
+										<date>1898</date>
+										<citedRange>666</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Numirea lui Cotlarciuc şi Şesan (ca profesori
+										universitari la Facultatea de Teologie) a trecut azi prin
+										consiliu şi va fi supusă semnăturii regelui. Lui Cândea i-am
+										telegrafiat să se prezinte la Cernăuţi pentru a îndeplini
+										formele de <hi rend="bold">abilitare</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+										<date>1919</date>
+										<citedRange>367</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Retribuiţi bine, dându-li-se toate posibilităţile ca să
+										muncească și aduşi într-un mediu potrivit pentru o muncă
+										ştiinţifică rodnică, ei [profesorii stagiari] au răgaz în
+										aceşti trei ani, alături de cursurile ce le vor face la
+										Universitate, să prepare <hi rend="bold">abilitarea</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+										<date>1930</date>
+										<citedRange>406</citedRange>
+									</bibl>
+								</cit>
+								<cit type="unknown">
+									<quote>Doi ani am urmat cursurile sale [ale lui Meyer Lübke],
+										pregătind teza de <hi rend="bold">abilitare</hi>.</quote>
+									<bibl type="unknown">
+										<ptr target="#uuid-1c3d1a17-a5d3-134b-7fac-f588046a7e9d">pușc</ptr>
+										<date>1938</date>
+										<citedRange>589</citedRange>
+									</bibl>
+								</cit>
+							</sense>
+							<def xml:id="id">Conferire a dreptului de a practica o anumită
+								profesie;</def>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abilita (1)"/>
+							</xr>
+							<def xml:id="uuid-53f43484-f07e-4bfa-ad20-be91a23b48ce">recunoaştere a
+								unui anumit grad, a unui anumit titlu.</def>
+							<cit type="unknown">
+								<quote>D-sa are de gând să-ţi scrie vrând să se sfătuească cu d-ta
+									despre vreo lucrare ce s-ar potrivi pentru <hi rend="bold">abilitarea</hi> lui la Facultatea noastră de
+									Litere.</quote>
+								<bibl type="în">
+									<ptr target="#uuid-26c23469-3714-7ac0-2382-7b81b2a6905a">doc</ptr>
+									<date>1913</date>
+									<citedRange>99</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toţi membrii promovaţi ai Companiei [ai congregaţiei iezuite]
+									trebuiau să facă studii universitare, să obţină titlul de doctor
+									şi <hi rend="bold">abilitarea</hi> de a preda filosofia,
+									literele (precum şi discipline ştiinţifice) în orice
+									ţară.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimb</ptr>
+									<date>1994</date>
+									<citedRange>309</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ec4a72c8-5a92-4352-be75-813a748a9846" n="2.">
+							<def xml:id="id">Împuternicire pentru săvârşirea unui act juridic.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">JUR.</seg>
+							</usg>
+							<xr type="asoc" corresp="#id">
+								<ptr target="abilita (2)"/>
+							</xr>
+							<cit type="unknown">
+								<quote>Parlamentul poate adopta o lege specială, de <hi rend="bold">abilitare</hi> a Guvernului pentru a emite ordonanţe în
+									domenii care nu fac obiectul legilor anorganice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0fcc69ac-0c44-50f7-37a2-8cfeb11d0a14">const</ptr>
+									<date>1991</date>
+									<citedRange>46</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-0f53a56b-d391-4580-b56e-05115d5099f2">Acţiunea de a (se)
+							abilita şi rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b4eb139d-07b9-4225-ad1a-e2255682a7ff" n="">
+						<def xml:id="uuid-a288d87c-7961-4deb-a4c2-81b01aed0cb1"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abilitări</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>habilitáre</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abilita"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

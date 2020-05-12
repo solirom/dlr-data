@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-463a903b-3614-4908-81ad-750ac4f0e09a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-10T12:52:06+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abisinian</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-63182d2a-ea7b-4b7d-8176-9fc18f7e55b8" n="1.">
+						<sense xml:id="uuid-6f57eb8a-b569-48be-b071-aa172e1e0c94" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="hint" rend="usg">Ca termen de
+									comparație</seg>)</usg>
+							<cit type="unknown">
+								<quote>Noi, Nazareii Sionului, cari luminam mai tare ca zăpada, am
+									ajuns ca nişte <hi rend="bold">abisinieni</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f253ad04-4236-6b56-21ed-c29436c937f4">filocal</ptr>
+									<date>1947</date>
+									<citedRange>26</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m. si f."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-1ef2e0b8-99e1-449f-b25e-26a0d173eada">Persoană care făcea
+							parte din populația de bază a vechii Abisinii sau era originară de
+							acolo;</def>
+						<xr type="syn" corresp="#uuid-1ef2e0b8-99e1-449f-b25e-26a0d173eada">
+							<ptr target="abisin"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>[Evreii] cu ajutorul <hi rend="bold">abisinienilor</hi>, îşi
+								făcură un rege creştin, Abiat, fiul acestuia, voind să surpe
+								idolatria, nu izbuti la Mecca.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c1e72093-4fda-9821-721b-b445d3f23a62">bolint</ptr>
+								<date>1856</date>
+								<citedRange>105</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abisinienii</hi> s-au revoltat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">emin</ptr>
+								<date>1880</date>
+								<citedRange>79</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Rimbaud fusese unul dintre cei dintâi europeni care vândură <hi rend="bold">abisinienilor</hi> armele cu care mai târziu aveau
+								să servească în războiul cu Italia. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-30e82483-8945-3aaf-a60f-608fa2262116">minul</ptr>
+								<date>1908</date>
+								<citedRange>13</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se reproduce groaznicul articol ... care r[e]comanda aţâţarea <hi rend="bold">abisinenilor</hi> contra Italiei. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-670f7d55-0537-3ef0-5edd-6afdfd272fef">rev</ptr>
+								<date>1915</date>
+								<citedRange>sept.-oct., 198</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abisinienii</hi>, rău înarmaţi şi nedeprinşi cu
+								lupta modernă, au fost incapabili să opună o rezistenţă
+								serioasă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856ed535-40f7-2fff-995d-9044da0318fa">diam</ptr>
+								<date>1938</date>
+								<citedRange>226</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-ae8d0b45-7a22-45fe-b882-bc00ffd66680" n="2.">
+						<sense xml:id="uuid-fe046556-58ab-4d39-ba37-d1d56b776010" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Limba abisiniană</term>
+							</form>
+							<def xml:id="id">idiom vorbită de abisinieni.</def>
+							<cit type="unknown">
+								<quote>Limbile <hi rend="bold">abisiniene</hi> sau etiopiene se
+									vorbesc în Abisinia.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-efc667b6-9c8d-779f-4147-ee61f08e56d5">intr</ptr>
+									<date>1958</date>
+									<citedRange>207</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7062d972-5afa-48d2-aea2-57ffd8ae79bd" n="">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
+								<term>Italo-abisinian</term>
+							</form>
+							<def xml:id="id">care se referă la italieni și la abisinieni.</def>
+							<cit type="unknown">
+								<quote>Nu sunt decât cinci oameni în Europa care să cunoască dosarul
+										<hi rend="bold">italo-abisinian</hi>, şi nimeni nu-1
+									cunoaşte ca mine.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+									<date>1936</date>
+									<citedRange>365</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="adj."/>
+							<subc value=""/>
+							<number value=""/>
+						</gramGrp>
+						<def xml:id="id">Care aparținea Abisiniei sau abisinienilor (1), privitor la
+							Abisinia ori la abisinieni.</def>
+						<cit type="unknown">
+							<quote>Mă urmăreşte masca de suferinţă dintr-un fier mâncat de rugină şi
+								cu dungi de var (amintind fie un adolescent <hi rend="bold">abisinian</hi>, fie cine ştie ce opacă presimţire în lacătul ca
+								un heleşteu al inimii).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b920d5e7-139e-335c-4090-42e3f367395d">voron</ptr>
+								<date>1929</date>
+								<citedRange>14</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Anglia este direct interesată în menţinerea statului <hi rend="bold">abisinian</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856ed535-40f7-2fff-995d-9044da0318fa">dictat</ptr>
+								<date>1938</date>
+								<citedRange>265</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dar războiul <hi rend="bold">abisinian</hi> propriu-zis e
+								terminat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">sebast</ptr>
+								<date>1941</date>
+								<citedRange>336</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-29982a58-c0c9-4a85-bc34-a1ffee22c082" n="">
+						<def xml:id="uuid-d34f05c1-9173-43e4-99c3-c1be20182759"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-ní-an</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abisinieni, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abyssinien</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

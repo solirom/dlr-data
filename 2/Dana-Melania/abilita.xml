@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d7c412cf-5819-496d-bb34-6f4ee0df46c3" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-01T15:53:53+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abilita</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABILITÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8eeeb734-9d43-49d6-b3b4-b02ffc04fbf2" n="1.">
+						<sense xml:id="uuid-0aecdf14-55ca-461c-9632-a8c0b89ec15b" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="refl. pas."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<bibl type="author-reference">
+									<author target="Iorga"/>
+								</bibl>
+								<quote>În Bucureşti, pe vremea ocupaţiei ruseşti, ... <hi rend="bold">se abilita</hi> ca farmacist în 1829 Mihaiu
+									Eckhardt.</quote>
+								<bibl type="în">
+									<ptr target="#uuid-37597b06-5765-8386-2117-fcf1b4611dfe">acte</ptr>
+									<date>1904</date>
+									<citedRange>VI [prefață]</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dr. Cândea, care a venit de la Sibiu, <hi rend="bold">abilitându-se</hi> aici, ne-a adus vestea că şi în Ardeal
+									sunt stări analoage.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+									<date>1919</date>
+									<citedRange>354</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Feuerbach <hi rend="bold">se abilitase </hi>ca docent la o
+									universitate germană; dar când a publicat cartea sa „Asupra
+									morţii şi nemuririi” a pierdut această situaţie şi cariera sa
+									universitară s-a închis.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negul</ptr>
+									<date>1934</date>
+									<citedRange>196</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-790a2775-9374-41ea-ad5f-4bd32a3ccff5" n="">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Dar fiecare a dat la topit statuia de bronz a antecesorului.
+									Iată motivele pentru care însăşi istoria şi istoricitatea ...
+									atât de darnice cu noi în genii şi mântuitori de ţară, <hi rend="bold">au</hi>
+									<hi rend="bold">abilitat</hi> ghipsul ca materie expresivă,
+									primă şi ultimă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">adio</ptr>
+									<date>1980</date>
+									<citedRange>243</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-9782a868-7908-430e-86ea-23d1c9fe60db">A conferi cuiva
+							dreptul de a practica o anumită profesie, de a desfăşura o anumită
+							activitate (prin lege sau în urma unei probe, a unui examen).</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Există persoane anume abilitate pentru a le pune în
+								aplicare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter</ptr>
+								<date>1982</date>
+								<citedRange>1982, nr. 12, 4</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-3b28665b-e886-4aa3-88bb-ccb812f9c358" n="2.">
+						<sense xml:id="uuid-75c97f04-bd72-451f-8292-5bce82ab1dbd" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">P. ext.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>În orice caz, „câmpul restrâns” legiferează în problemele
+									literare pentru întreaga societate, fiind singurul <hi rend="bold">abilitat</hi> să confere legitimitatea estetică
+									şi să furnizeze echipamentul de lectură standard.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2be2f94b-8190-0956-3f17-b67f949f1c79">cornea</ptr>
+									<date>1988</date>
+									<citedRange>112</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A împuternici, a face apt pe cineva pentru a săvârşi un act
+							juridic. </def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">JUR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+								<date>1958</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Încălcări ale prevederilor Ordonanţei Generale nr. 44/1997 sau
+								ale caietului de sarcini al licenţei de transport constatate de
+								organele <hi rend="bold">abilitate</hi> să execute ordinul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+								<date>1998</date>
+								<citedRange>X, nr. 50 bis/54</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru asigurarea securităţii şi sănătăţii în muncă, instituţia
+									<hi rend="bold">abilitată</hi> prin lege poate dispune limitarea
+								sau interzicerea fabricării, comercializării, importului sau
+								utilizării cu orice titlu a substanţelor şi preparatelor periculoase
+								pentru salariaţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0ffb1289-1517-2717-a71b-a952a8a25507">muncii</ptr>
+								<date>2003</date>
+								<citedRange>61</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-967adf90-e04f-4241-b052-e541919e06a0" n="3.">
+						<sense xml:id="uuid-4f1831e8-00da-491f-9f3f-b1968565fb02" n="">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Atât ca docent la Zürich (1884), unde <hi rend="bold">s-a
+										abilitat </hi>la vârsta de 23 de ani, cât şi mai târziu ca
+									profesor în Jena (1887), îl vedem [pe Meyer-Lübke] urmărind cu
+									deosebită atenţie filologia românească.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1c3d1a17-a5d3-134b-7fac-f588046a7e9d">pușc</ptr>
+									<date>1938</date>
+									<citedRange>588</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value=""/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A acorda, a obține titlul de docent;</def>
+						<def xml:id="uuid-49fd72d8-3edc-4ccd-9369-e5db388912e6">a recunoaște
+							calitatea de docent.</def>
+						<cit type="unknown">
+							<quote>Cum însă noi nu avem misiunea <hi rend="bold">să abilităm
+								</hi>docenţi privaţi, iar anii din urmă au oprit pe mulţi tineri
+								valoroşi să-şi câştige acest titlu, s-a alcătuit pentru
+								împrejurările de azi un nou tip de profesori, profesorii stagiari,
+								pe care Consiliul Dirigent îi angajează pe timp de trei ani.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+								<date>1919</date>
+								<citedRange>406</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Max Scheler] s-a înscris la Universitatea din acest oraş, apoi a
+								trecut la Berlin, Heidelberg şi Iena, unde a absolvit în 1899, cu
+								Rudolf Eucken. <hi rend="bold">Abilitat</hi> aci trei ani mai
+								târziu, se întoarce în 1907 ca privat-docent de filosofie la
+								Universitatea din München.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a6ed29ab-529f-1f5d-1c7d-bf1f2d4e783d">vulc</ptr>
+								<date>1929</date>
+								<citedRange>192</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-2f48246c-7ef3-48af-8e39-7c39c1bd429a" n="">
+						<def xml:id="uuid-8b580450-d05a-4a84-b9c5-3245b305a42a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>habilitá</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="I"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">habilitieren</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">habiliter</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="la" type="unknown" subtype="unknown">habilitare</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

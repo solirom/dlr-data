@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-02283e47-b923-4d31-8f19-bb1faf24ada5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-06T12:17:14+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abiotic</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIÓTIC</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f7e9c0ee-11a7-4504-94a7-7ad36699342f" n="">
+						<usg corresp="#uuid-f7e9c0ee-11a7-4504-94a7-7ad36699342f">
+							<seg type="dom" rend="usg">BIOL.</seg>
+						</usg>
+						<def xml:id="uuid-b8b644bd-85f1-40f4-8761-a3ffdac450c4">Care este lipsit de
+							viaţă;</def>
+						<def xml:id="uuid-3c046bb4-479e-4b84-8918-e5f3e57b5678">incompatibil cu
+							viaţa.</def>
+						<cit type="unknown">
+							<quote>Distribuţia protozoareler depinde de numeroşi factori <hi rend="bold">abiotici</hi> şi biotici.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f1c43d95-442f-2fc8-8f0b-672f556b0c10">îndru</ptr>
+								<date>1951</date>
+								<citedRange>30</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ecosistemele, ca expresie a conexiunilor indisolubile dintre
+								biocenoze şi mediul <hi rend="bold">abiotic</hi>, reprezintă sisteme
+								deschise autoreglabile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0aec242f-6bd4-9c85-801d-8f7430ce86a8">rog</ptr>
+								<date>1979</date>
+								<citedRange>9</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8397beb7-099a-4f52-84af-97910fafbb95" n="">
+						<def xml:id="uuid-7338e547-017f-43a8-bc1f-6c73cc2459d0"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-bi-o-</pron>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abiotici, -ce</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abiotique</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1998</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

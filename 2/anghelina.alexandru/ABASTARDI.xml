@@ -41,12 +41,20 @@
 						<gramGrp>
 							<pos value="vb."/>
 							<iType value="IV"/>
-							<subc value="tranz. refl."/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="IV"/>
+							<subc value="refl."/>
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="uuid-0e887ce4-3414-42ce-9513-619e7c8d1cf5">A (se) schimba, a
 							(se) degenera.</def>
-						<usg corresp="#uuid-0e887ce4-3414-42ce-9513-619e7c8d1cf5"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<usg corresp="#uuid-0e887ce4-3414-42ce-9513-619e7c8d1cf5">
+                            <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                        </usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -71,7 +79,8 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
 						<mood value="ind."/>
 						<tns value="prez."/>
 						<per value="pers. 1"/>
@@ -79,7 +88,8 @@
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown">abâtardir</term>
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abâtardir</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

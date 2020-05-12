@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-579d37b5-52e7-4f7d-a254-7482523b9a43" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-07T16:48:10+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abisal</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABISÁL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4468339f-8a19-42b2-ab77-7e482bbdbdd9" n="1.">
+						<sense xml:id="uuid-8a0833a1-66c1-46ee-bc59-6672b54558b8" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GEOGR.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Depozite abisale</term>
+							</form>
+							<def xml:id="id">sedimente aflate pe fundul oceanului planetar.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+									<date>1957</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-0b1f2a36-a6b5-4fef-bd91-30366c792f22" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GEOGR.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Groapă abisală</term>
+							</form>
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GEOGR.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<term>Fosă abisală</term>
+							</form>
+							<def xml:id="id">ormă majoră a reliefului fundului oceanelor, cu aspect
+								de groapă sau de şanţ, ale cărei adâncimi depăşesc 6 000 m.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-13df522d-9ee9-450f-96bb-97cac508c7f4" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<seg type="dom" rend="usg">GEOL.</seg>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term> Rocă abisală</term>
+							</form>
+							<def xml:id="id">rocă intrusivă plutonică, consolidată la mari adâncimi
+								ale scoarţei terestre din corpuri batolitice, lacolitice etc.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+									<date>1957</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">term</ptr>
+									<date>1972</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Putem vorbi despre două categorii mari de roci magmatice ...:
+									roci <hi rend="bold">abisale</hi>, sau de adâncime, şi roci
+									efuzive, sau de suprafaţă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-01b204a2-77bc-0210-3cde-88f6b6f2183f">geol</ptr>
+									<date>1962</date>
+									<citedRange>18</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-14022976-394d-4593-b741-dcf840c83855" n="✦">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Nuanţele sensibilităţii <hi rend="bold">abisale</hi> sunt
+									influenţate de dispoziţie în momentul respectiv şi de
+									mobilitatea sufletească.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75a42ba7-3198-6544-1c67-1adb315a9cfa">cior</ptr>
+									<date>1936</date>
+									<citedRange>207</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Francezii nu sunt încă la capătul disperării, în acel adânc
+										<hi rend="bold">abisal</hi> de unde se pare că totul e
+									pierdut.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">iones</ptr>
+									<date>1938</date>
+									<citedRange>230</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să mănânci carnea crudă, carnea animalului urmărit, prins şi
+									sfâşiat cu unghiile? ... Această cădere <hi rend="bold">abisală</hi> în lumea animalelor de pradă poate constitui
+									un şoc psihologic şi spiritual extrem de creator.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">eliad</ptr>
+									<date>1960</date>
+									<citedRange>358</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Se repetau într-un mod obsedant câteva imagini, iar ceea ce
+									rezulta era un efect artistic de tip <hi rend="bold">abisal</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-378d4d8c-4008-1334-0008-ea0763c55bee">blandi</ptr>
+									<date>1992</date>
+									<citedRange>209</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O căsnicie e formată din mici atingeri <hi rend="bold">abisale</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6923b82a-04fe-8238-40de-aff1b0dd56ae">sores</ptr>
+									<date>1992</date>
+									<citedRange>312</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Grobei şi Mihi-bacs sunt, după cum se schimbă unghiul
+									narativ, fie nişte rataţi jalnici, pierduţi într-o provincie <hi rend="bold">abisală</hi>, fie Ioan şi Mântuitorul,
+									înconjuraţi de discipoli cutremuraţi, într-un balet arhetipal
+									fără vârstă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5469dfb6-2ad7-3d8f-3f80-fc3afcba2090">cărt</ptr>
+									<date>1999</date>
+									<citedRange>334</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-0dcecfbd-fb32-4b51-ba88-c32183e9ef26">Care există, care se
+							află sau care trăiește la mari adâncimi în mări și oceane.</def>
+						<cit type="unknown">
+							<quote>Faună <hi rend="bold">abisală</hi> [=] totalitatea animalelor ce
+								se găsesc în adâncimi mari în oceane şi mări.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+								<date>1937</date>
+								<citedRange>12</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adâncimile <hi rend="bold">abisale</hi> ale oceanelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scr</ptr>
+								<date>1939</date>
+								<citedRange>58</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regiune <hi rend="bold">abisală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<date>1949</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regiune <hi rend="bold">abisală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+								<date>1955</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Regiune <hi rend="bold">abisală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">term</ptr>
+								<date>1972</date>
+								<citedRange>1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acest fapt permite animalelor <hi rend="bold">abisale</hi> să
+								suporte greutatea unei densităţi enorme de apă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-63885902-5980-6d32-9731-b6045d6c450d">magaz</ptr>
+								<date>1981</date>
+								<citedRange>nr. 1 239, 5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Viețuitoarele <hi rend="bold">a</hi>[<hi rend="bold">bisale</hi>]
+								sunt adaptate unor condiții speciale: întuneric complet, presiune
+								ridicată etc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e02f49ee-9962-782c-9a2e-7eb0d76f099d">ecol</ptr>
+								<date>1982</date>
+								<citedRange>9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Zonă <hi rend="bold">abisală</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+								<date>1993</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Animal <hi rend="bold">abisal</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+								<date>1993</date>
+								<citedRange>3</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-be161569-11b4-4413-9eec-79f803cd59e0" n="2.">
+						<sense xml:id="uuid-73a96284-8135-4df1-bd22-7832cd4f5c70" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Categorii abisale</term>
+							</form>
+							<def xml:id="id">categorii ale inconştientului care, în concepţia lui L.
+								Blaga, determină stilistic toate creaţiile culturale ale
+								umanităţii.</def>
+							<cit type="unknown">
+								<quote>Pârvan deschidea drumul la <hi rend="bold">categoriile
+										abisale</hi> ale lui Lucian Blaga.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călin</ptr>
+									<date>1941</date>
+									<citedRange>863</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-d366f114-b05e-466f-ba21-f83eb390696d" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Psihologie abisală</term>
+							</form>
+							<def xml:id="id">termen folosit pentru desemnarea curentelor
+								psihanalitice, ale lui S. Freud, A. Adler, C. G. Jung. etc., care
+								îşi propun să studieze straturile cele mai profunde şi mai vechi ale
+								personalităţii care nu sunt direct accesibile conştiinţei.</def>
+							<cit type="unknown">
+								<quote><hi rend="bold">Psihologia abisală</hi> afirmă numai că unele
+									fenomene ale conştiinţei (de ex. visul) se explică mai lesne
+									dacă se admite existenţa alături de conştiinţă a unui
+									inconştient psihic.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+									<date>1935</date>
+									<citedRange>18</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>„Sublimarea” sau „compensarea ” …, care sunt la origini
+									categorii ale <hi rend="bold">psihologiei abisale</hi>, nu pot
+									fi utilizate în acelaşi chip pentru individ sau clase.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-041d132c-9288-1e69-220d-74816e095a5d">gul</ptr>
+									<date>1975</date>
+									<citedRange>110</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sondajul <hi rend="bold">psihologiei abisale</hi> se
+									colorează cu echivalente nefericit alese.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter</ptr>
+									<date>1981</date>
+									<citedRange>nr. 2, 5</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În ceea ce priveşte cunoaşterea unei realităţi atât de
+									angoasante ca şi realitatea lumii externe – omul – postularea
+									necesităţii de a sonda ... subconştientul, individual şi
+									colectiv, a dat naştere <hi rend="bold">psihologiei</hi>
+									<hi rend="bold">abisale</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f1f1d6aa-6c15-7597-317b-0f6581551bc1">pegas</ptr>
+									<date>1985 (†)</date>
+									<citedRange>118</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un construct fantasmatic de substituţie, chemat să răzbune o
+									stare de frustraţie, conceptul are valoare diagnostică pentru
+									analist sau pentru cercetătorul interesat de <hi rend="bold">psihologie abisală.</hi></quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-2be2f94b-8190-0956-3f17-b67f949f1c79">cornea</ptr>
+									<date>1988</date>
+									<citedRange>63</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Încet, încet, înscenări macabre şi enorme, al căror regizor
+									îşi putea permite să-şi omoare actorii cu adevărat, au dezvoltat
+									în noi germenii iraţionalului şi ai urii şi au fost în stare să
+									creeze o <hi rend="bold">psihologie abisală </hi>la scara unui
+									întreg popor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-378d4d8c-4008-1334-0008-ea0763c55bee">blandi</ptr>
+									<date>1990</date>
+									<citedRange>89</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Meandrele, de altfel virgine, ale <hi rend="bold">psihologiei
+										abisale</hi> îi erau străine deoarece, materialist convins,
+									se conducea în tratarea celor pe care-i ancheta ... după
+									teoriile marelui I. P. Pavlov. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4cc9cced-053c-6dbd-a721-e266d2e8300c">cartier</ptr>
+									<date>1994 (†)</date>
+									<citedRange>74</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f75f8181-6bb2-4e35-af46-510126bf8413" n="">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Cultivi sublimul sau <hi rend="bold">abisalul</hi> şi ratezi
+									întâlnirea cu imediatul.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">înger</ptr>
+									<date>2003</date>
+									<citedRange>254</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Care se referă la subconştient, care aparţine
+							subconştientului.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">PSIHITR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Producerea unui stil e un fapt <hi rend="bold">abisal</hi>, de
+								proporţii crepusculare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blag</ptr>
+								<date>1935</date>
+								<citedRange>5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>N-are rost să neglijezi dimensiunea <hi rend="bold">abisală</hi>
+								a culturii româneşti.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-679b177e-1770-31d4-8c74-3b09ff400889">dumit</ptr>
+								<date>1955</date>
+								<citedRange>401</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La îndemnul ... psihologiei moderne ludice, care ne-a deschis
+								ochii asupra determinismului <hi rend="bold">abisal</hi>, trebuie să
+								adăugăm că marxismul este doctrina care a venit, în istoria
+								teoriilor culturii, cu intuiţia genială a „dialecticii Necesitate şi
+								Valoare”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-041d132c-9288-1e69-220d-74816e095a5d">gul</ptr>
+								<date>1975</date>
+								<citedRange>27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aşadar, spaţiul „<hi rend="bold">abisal</hi>” al lui Blaga e un
+								dat filozofic, un fel de absolut.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3783225c-20fc-5409-80e2-349b6bfe4dd0">bănc</ptr>
+								<date>1976</date>
+								<citedRange>104</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adunare şi scădere. Înmulţire şi împărţire, iată erorile
+								cardinale, proliferate de cantitate, aflătoare, numai în cantitate,
+								acte ale geloziei <hi rend="bold">abisale</hi> faţă unicul
+								neposedabil.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7f997232-936a-7c53-5a13-dc7200795b62">stăn</ptr>
+								<date>1982</date>
+								<citedRange>176</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Resortul <hi rend="bold">abisal</hi> al crimei „din repezeală”
+								este bine surprins de Dostoievki în „Crimă şi pedeapsă”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-856e8768-1ca8-4b62-6ad6-c20fe6945842">pian</ptr>
+								<date>1985</date>
+								<citedRange>478</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Multe decenii de acum încolo scriitorii vor fi ocupaţi să
+								găsească cauzele profunde, <hi rend="bold">abisale</hi>, care ne-au
+								făcut să fim şi să ajungem aşa cum suntem.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-378d4d8c-4008-1334-0008-ea0763c55bee">bland</ptr>
+								<date>1991</date>
+								<citedRange>121</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-40e2256f-a480-486a-8e1b-ef003d2c0865" n="3.">
+						<def xml:id="id">De coşmar.</def>
+						<usg corresp="#id">(<seg type="plev" rend="usg">Rar</seg>)</usg>
+						<cit type="unknown">
+							<quote>Ion Răutu, cuprins de oroare în faţa acestor viziuni <hi rend="bold">abismale</hi>, era totuşi parcă fascinat de
+								aspectele unei lumi, în care toate condiţiunile sociale, toate
+								normele morale, toate prescripţiunile religioase, ca şi
+								restricţiunile legale, nu aveau nicio valoare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-720e51ee-6572-5f60-9e27-162b0b2f598b">stere</ptr>
+								<date>1932</date>
+								<citedRange>722</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-76fadf3a-4231-4cf5-b803-9e6d60126058" n="">
+						<def xml:id="uuid-b2c432b2-77c9-4f62-88ed-918f831760d2"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abisali, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abismál, -ă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abyssal</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abysmal</term>
+					<note type="unknown" n="unknown" cert="high">
+						<term/>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+						<date>1957</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">tehn</ptr>
+						<date>1972</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e02f49ee-9962-782c-9a2e-7eb0d76f099d">ecol</ptr>
+						<date>1982</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

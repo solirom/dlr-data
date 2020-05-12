@@ -191,7 +191,7 @@
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 									<term>De-a stânga și de-a dreapta</term>
 								</form>
 								<def xml:id="id"/>
@@ -868,20 +868,6 @@
 									</bibl>
 								</cit>
 							</sense>
-							<sense xml:id="uuid-07a68f90-d260-4f40-bfb7-8af293171d6b" n="✧">
-								<def xml:id="id"/>
-								<usg corresp="#id">
-									<seg type="geo" rend="usg">Reg.</seg> (<seg type="gram" rend="usg">Precedat de prep. „la”, precizează încadrarea
-										unei acțiuni</seg>)</usg>
-								<cit type="unknown">
-									<quote>Amú- la a viŝérna suårile.</quote>
-									<bibl type="unknown">
-										<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
-										<date>&lt;1930–1937&gt;</date>
-										<citedRange>574</citedRange>
-									</bibl>
-								</cit>
-							</sense>
 							<sense xml:id="uuid-39e3b14d-0d54-4918-9d9c-0f7be4d7dc6f" n="✧">
 								<def xml:id="id"/>
 								<usg corresp="#id">
@@ -1230,7 +1216,7 @@
 								</bibl>
 							</cit>
 							<cit type="✧ POP.">
-								<quote>Îmblă pẽ‿sat a mńílă.</quote>
+								<quote>Îmblă pin sat a milă.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-de27f9f4-2bd3-4295-8d25-4861802400fd">alr</ptr>
 									<date>&lt;1930–1937&gt;</date>
@@ -1926,11 +1912,11 @@
 								</bibl>
 							</cit>
 							<cit type="✧ POP.">
-								<quote/>
+								<quote>Trage a moarte.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">alr</ptr>
 									<date>˂1930-1937˃</date>
-									<citedRange>110/216, 334, 353</citedRange>
+									<citedRange>110</citedRange>
 								</bibl>
 							</cit>
 						</sense>
@@ -2466,7 +2452,7 @@
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
-						<date>&lt;1780–1801&gt;</date>
+						<date>1801</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">

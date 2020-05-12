@@ -38,7 +38,7 @@
 					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-79b5927a-2e6d-4423-9ffb-5c7345cae9bd" n="">
+					<sense xml:id="uuid-79b5927a-2e6d-4423-9ffb-5c7345cae9bd" n="1.">
 						<def xml:id="uuid-811af8e1-6777-44ee-9b20-b6570b93c48b">Persoană care se
 							ocupa cu fabricarea sau vânzarea abalei<hi rend="superscript">3</hi>;</def>
 						<def xml:id="uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">persoană care
@@ -270,6 +270,21 @@
 								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr I</ptr>
 								<date/>
 								<citedRange>1 7 47/825</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-38cdfe04-405d-4906-81d6-26e07e5b4b89" n="2.">
+						<def xml:id="id">Croitor.</def>
+						<usg corresp="#id">
+							<seg type="sem" rend="usg">P. gener. </seg>
+							<seg type="geo" rend="usg">Reg.</seg>
+						</usg>
+						<cit type="✧ POP.">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-1b955b58-8e18-86cb-176a-57cc3e3014d2">alr</ptr>
+								<date>&lt;1929–1938&gt;</date>
+								<citedRange>h 521/848</citedRange>
 							</bibl>
 						</cit>
 					</sense>

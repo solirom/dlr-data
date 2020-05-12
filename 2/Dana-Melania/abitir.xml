@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ce4e257c-8935-48e8-9d1a-1cbf9ca419d5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-10T16:15:57+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abitir</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABITÍR</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-cd903597-8dde-4c4d-8d28-ab25f46efa24" n="">
+						<def xml:id="uuid-17d9a8b6-e58b-4afe-b42d-14f85151396d">Și mai și, mai mult,
+							mai bine, mai tare, mai grozav decât...</def>
+						<usg corresp="#uuid-17d9a8b6-e58b-4afe-b42d-14f85151396d"><seg type="register style" rend="usg">Pop.</seg> și <seg type="register style" rend="usg">fam.</seg> (<seg type="plev" rend="usg">Mai ales la comparativ</seg>)</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>: Dar treaba mergea bine, strângeai bani la chimir, Şi chiar
+								decât boerul erai mai <hi rend="bold">abitir</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b46c815-1a2e-75ca-4a5f-4c3af897041c">orășan</ptr>
+								<date>1875</date>
+								<citedRange>20</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pietre de berlant ... lumina năuntrul casei mai <hi rend="bold">abitir</hi> ca sute de lumânări.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-b1f2de38-2e73-5d38-46a1-a68986227b84">ȘIO</ptr>
+								<date>1875</date>
+								<citedRange>6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Are ambiţ băiatul, ca să fie compania noastră ceva mai <hi rend="bold">abitir</hi> din toate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-61d58c69-a06d-a63b-2097-803ef2c38652">noap</ptr>
+								<date>1879</date>
+								<citedRange>18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Băiatul ... s-a văzut acum în braţele unui om, care-l ţinea mai
+									<hi rend="bold">abitir</hi> ca tată-său chiar.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+								<date>1887</date>
+								<citedRange>88</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Simion Butunoiu] munceşte la pământ mai <hi rend="bold">abitir</hi> ca un flăcău.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2cc96c4e-87f7-2304-8b70-824fe04a8e63">rebr</ptr>
+								<date>1920</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Banii voştri sunt asiguraţi mai <hi rend="bold">abitir</hi> ca la
+								bancă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b8b90fd6-27ba-1121-3a21-a7909e681b92">vulpo</ptr>
+								<date>1922</date>
+								<citedRange>130</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Puteam lua vrabia de pe gard mai <hi rend="bold">abitir</hi>
+								decât cu puşca.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7df4c4d4-935e-3d7b-545e-48341d649e76">posad</ptr>
+								<date>1929</date>
+								<citedRange>58</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[O cucoană] parcă ieşise atunci dintr-un coşciug Şi, mai <hi rend="bold">abitir</hi>, Venea din cimitir, Ca o momâie.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1a39b8a7-8191-2a04-57d9-c127ef861ac4">mucig</ptr>
+								<date>1931</date>
+								<citedRange>215</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lăutarii... se frământau mai <hi rend="bold">abitir</hi> ca
+								jucătorii, mutându se de ici-colo, îndemnându-se unul pe
+								altul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">răsc</ptr>
+								<date>1932</date>
+								<citedRange>110</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întors în ţară, banul Nicolae vru să arate lumii că e mai „<hi rend="bold">abitir</hi>” decât ceilalţi neciopliţi de boieri,
+								şi-şi trânti ca atare un parc englezesc de rămaseră Bucureştii cu
+								ochii holbaţi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-99ee3954-5329-8a3a-a115-4d3ead3a383e">amăr</ptr>
+								<date>1943</date>
+								<citedRange>157</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dumitrache apuca mătura de coadă şi mătura casa mai <hi rend="bold">abitir</hi> ca o fată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aee8bbd5-89fb-5a0b-02b8-af29ebc849a3">descu</ptr>
+								<date>1948</date>
+								<citedRange>6</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Boierul] cu harapnicul ne bătea mai <hi rend="bold">abitir</hi>
+								ca bulibaşa.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc933ff9-52b3-9104-5ea9-3c10843d0b18">rădă</ptr>
+								<date>1958</date>
+								<citedRange>118</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vorbeşte <hi rend="bold">abitir</hi>, domnule. Ăsta e bun de
+								dipotat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter</ptr>
+								<date>1982</date>
+								<citedRange>nr. 15, 3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dreptu-i, dedea Vodă la semn mai <hi rend="bold">abitir</hi> ca
+								un arnăut, că dedea şi din pistoale, încă din fuga calului, cu
+								amândouă mâinile şi ţinând frâu-n dinţi, după obiceiul
+								tătăresc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d0cab3c8-3b2d-8cc8-0add-84cfc8501cf7">calp</ptr>
+								<date>1987</date>
+								<citedRange>27</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La noi mamele îşi plâng mai <hi rend="bold">abitir</hi> pe fiii
+								ce sunt înaintaţi vătăşei sau ispravnici, decât pe cei ce pleacă în
+								război când împotriva unuia, când a altuia din veşnicii noştri
+								aliaţi şi prieteni.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">adio</ptr>
+								<date>1992</date>
+								<citedRange>214</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-561bebac-158c-4021-a8b0-073a4a9d6116" n="">
+						<def xml:id="uuid-e0c5496c-2103-4d5e-a620-522b38fc73f2"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="tr" type="unknown" subtype="unknown">beter</term>
+					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
+						<term xml:lang="" type="unknown" subtype="unknown"/>
+						<term xml:lang="" type="unknown" subtype="unknown">„mai rău”</term>
+					</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<date>1887</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1f2de38-2e73-5d38-46a1-a68986227b84">șio</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4ba99c4-7513-7988-675f-cdf568e97001">suci</ptr>
+						<date>2010</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7b4b98ea-dfa6-490d-859d-bab35d90518e" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-02T16:13:49+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ab initio</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">AB INÍTIO</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="loc."/>
+					<subc value="adv."/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-32d10004-ac49-4eae-86f6-47cb03dd299d" n="">
+						<def xml:id="uuid-df12e96a-1a66-404e-a17f-654c60401f8a">De la început;</def>
+						<def xml:id="uuid-c608c5c3-4021-43d1-b3a4-ec9200ca2f16">de la capăt.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+								<date>1822</date>
+								<citedRange>307</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prepoziţiunea „ab”, prin rolul său în „ab antiquo”, „ab ovo”,
+									„<hi rend="bold">ab initio</hi>” mai ales în „abavus”,
+								„abnepos”, „abmatertera”, „ab patruus” etc., îşi dobândise nuanţa de
+								lungă durată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a92bea58-83e5-75ea-78a1-be6d3e9b18f1">hem</ptr>
+								<date>1893</date>
+								<citedRange>2 457</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Când punctele programatice sunt clar fixate şi atribuţiile de
+								muncă determinate după principiul diviziunii travaliului, când
+								echipele de lucru sunt educate şi scăldate de o atmosferă unitară,
+								având norme bine-cunoscute, o morală conturată aproape ca un cod
+								juridic, riscurile şi aventurile sunt eliminate „<hi rend="bold">ab
+									initio</hi>”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8cf00c8-9bd0-8a14-4515-0601aefe4ffc">pandrea</ptr>
+								<date>1945</date>
+								<citedRange>295</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>M[itul] este conceput ca povestirea unei istorii sacre sau a unui
+								eveniment primordial care a avut loc la începutul timpului, <hi rend="bold">ab initio</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c3739564-1aa5-73ee-9946-2ea5a90b94ab">etnol</ptr>
+								<date>1979</date>
+								<citedRange>183</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sursa obligaţiilor divizibile rezidă fie într un act juridic, fie
+								într un fapt juridic: în primul caz, ele dobândesc <hi rend="bold">ab initio</hi> acest caracter, adică se nasc ca atare, iar în
+								cel de al doilea caz, ele rezultă din transformarea unei obligaţii
+								simple în obligaţie complexă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5e91abb8-7a71-5abf-57c8-acfff34298ea">civ</ptr>
+								<date>1980</date>
+								<citedRange>693</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Mitul oului primordial este] foarte răspândit în mai multe
+								variante, clasificabile în două categorii: 1) o u l originar (<hi rend="bold">ab initio</hi>)... 2) Oul confecţionat (ad
+								hoc).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">mitol</ptr>
+								<date>1989</date>
+								<citedRange>447</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Să se considere că nu este de conceput încheierea de către părţi
+								a unui contract care să fie <hi rend="bold">ab initio</hi>
+								nul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f910d9c9-5e49-5707-1798-930b3c3e41db">afac</ptr>
+								<date>1996</date>
+								<citedRange>38</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O grăbită generalizare operată în DLR (VIII/1, s.v. paşte), unde
+								această expresie [a paște bobocii] este pusă pe acelaşi plan cu „a
+								paşte muştele” (una imaginară, ce descrie <hi rend="bold">ab
+									initio</hi> o absurditate).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a0714367-7398-1186-0293-bd151406897b">dumis</ptr>
+								<date>1997</date>
+								<citedRange>50</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+								<date>2006</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-9e97cb86-c439-44b0-8a98-54b750889cb6" n="">
+						<def xml:id="uuid-d2df28d8-c6d3-4c94-95ca-083eec32db60"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="pronunciation" value="">
+					<pron xml:lang="ro-x-accent-lowcase-vowels">-ți-</pron>
+				</form>
+				<form type="abbreviation">
+					<abbr>a.i.</abbr>
+				</form>
+				<etym cert="high">
+					<idno type="loc.lat."/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-a9431bdd-6b49-39c5-3024-10bcde0fa2e2">publ</ptr>
+						<date>1982</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+						<date>1999</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr>
+						<date>2005</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8a23a018-9dd7-18d8-3eba-6dd0be2625e9">fundam</ptr>
+						<date>2008</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6b5944d-2886-5cc0-a498-c34639ff4a57">dgs</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>
