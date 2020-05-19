@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d1eff9a1-964e-4c6a-9863-f0b12d5ae36c" version="3.3.0" source="0.1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-08T10:50:04+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="dlr-variant">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">abă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABẮ1 </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="interj."/>
+				</gramGrp>
+				<ptr type="trimitere" target="abá2"/>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -524,9 +524,7 @@
 				</form>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorbant</term> Pentru sensurile 1, 3, cf.
-					engl. absorbent.<note type="unknown" n="unknown" cert="high">
-						<term/>
-					</note></etym>
+					engl. absorbent.<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-60c9d0f7-7388-4700-b643-98ffc9be9849" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T14:49:58+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablactare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLACTÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c23b6dbf-d3ba-44a2-b3a7-98a4bed4a3f7" n="">
+						<def xml:id="uuid-c845d8fd-665f-4ac4-982c-99f714ea337b">Acţiunea de a
+							ablacta (1) şi rezultatul ei;</def>
+						<usg corresp="#uuid-c845d8fd-665f-4ac4-982c-99f714ea337b">
+							<seg type="dom" rend="usg">MED. </seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-c845d8fd-665f-4ac4-982c-99f714ea337b">
+							<ptr target="ablactaţie"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Înlocuirea laptelui matern prin alte alimente necesare sugarului
+								se numeşte <hi rend="bold">ablactare</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db">belea</ptr>
+								<date>1959</date>
+								<citedRange>658</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Un fapt de observaţie frecventă este scăderea ingestiei de
+								lichide în timpul alăptării; după <hi rend="bold">ablactare</hi>,
+								polidipsia şi poliuria revin la cifrele dinaintea naşterii. </quote>
+							<bibl type="unknown">
+								<ptr target="unknown">MILCU – DĂNILĂ-MUSTER, Tr. Endocr.</ptr>
+								<date>1968</date>
+								<citedRange>377</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c5d0830b-e708-4cc0-9af8-d877f7a663be" n="">
+						<def xml:id="uuid-4bd10e9e-4796-4b8f-a14f-ab153f87391e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablactări</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="ablacta"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7f9455a9-6a6d-47f5-97db-c0a6419d40dc" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-29T13:01:23+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablatival</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLATIVÁL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b9ef66e3-1a5e-48f5-a540-f08cf3958d89" n="">
+						<usg corresp="#uuid-b9ef66e3-1a5e-48f5-a540-f08cf3958d89"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<def xml:id="uuid-3c32fce1-3a57-4256-aecf-9cbf6871bd50">Care aparţine
+							ablativului; </def>
+						<def xml:id="uuid-1e4ba1de-600b-4987-9324-8cb676c8c22a">care se referă la
+							ablativ.</def>
+						<cit type="unknown">
+							<quote>Aseminea cu (în) la întrebarea <hi rend="bold">ablativală</hi> a
+								stărei în loc, undi d[e] e[xemplu] Petrec în Moldova, iară departe
+								fiind cu (la) trăesc la Moldova, iau amână şi în mână, iau aminte şi
+								în minte, es afară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-206a1f59-8d48-14ab-2a89-6ffc90d52c6e">săul</ptr>
+								<date>1833</date>
+								<citedRange>67/4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>După întrebarea câţi ani? Am călătorit doi, tri ani şi optzăci
+								zile, înţălegând (prin), iară după întrebarea <hi rend="bold">ablativală</hi> în cât? cu (în) în patru ani s a făcut.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-206a1f59-8d48-14ab-2a89-6ffc90d52c6e">săul</ptr>
+								<date>1833</date>
+								<citedRange>68/14</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Uzul participiului prezent modal ca echivalent hipercorect al
+								gerunziului <hi rend="bold">ablatival</hi> este frecvent în
+								formulele protocolare de salut de la sfârşitul unor scrisori din
+								secolele XVII-XVIII.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">M. PARASCHIV, Doc. Lat.</ptr>
+								<date>2004</date>
+								<citedRange>200</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-92a14351-7e7e-4f89-a090-3caa841d30ae" n="">
+						<def xml:id="uuid-88a18795-66a3-4896-9cf4-10079f89adca"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablativali, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Ablativ"/><term xml:lang="" type="sufix" subtype="unknown">al</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

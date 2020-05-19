@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0214d55e-33f0-415b-ad7c-1b6fcb789e27" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-02T11:17:35+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abzițui</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABZIȚUI </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-81641a61-17d7-44ba-8b2d-97c7323f525a" n="">
+						<def xml:id="uuid-9652fd9a-10d6-474e-b055-cc21fde73a46">A tăia cu
+							fierăstrăul.</def>
+						<usg corresp="#uuid-9652fd9a-10d6-474e-b055-cc21fde73a46">
+							<seg type="geo" rend="usg">Prin Bucov.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>În Vișeul de Sus, verbul „<hi rend="bold">a abziţui</hi>”
+								înseamnă a tăia (o scândură) cu ferăstrăul numit „abziţ”. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a5ab6f5f-23f8-6945-7370-ff75c44640d9">arvinte</ptr>
+								<date>1957</date>
+								<citedRange>137</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ac16ac59-1fb6-4966-8444-cbb18fa9e02c" n="">
+						<def xml:id="uuid-fe6bfdbf-8fb5-4610-b0d8-1cd5ea6d5ef3"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">?</form>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def> abzăţuí </def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value=""/>
+						<subc value=""/>
+						<subc value=""/>
+						<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abziț"/><term xml:lang="" type="sufix" subtype="unknown">-ui</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

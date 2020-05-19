@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5730a477-6bb0-4e2f-b63d-743389858577" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-15T11:12:13+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abiziană</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABIZIÁNĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f5e35468-7cd6-4843-a727-efaad1e70c28" n="">
+						<def xml:id="uuid-b249e2b3-fc77-497b-84c5-3b6ec91b02ba">Femeie
+							(depravată).</def>
+						<usg corresp="#uuid-b249e2b3-fc77-497b-84c5-3b6ec91b02ba">
+							<def xml:id="uuid-b249e2b3-fc77-497b-84c5-3b6ec91b02ba"><seg type="register style" rend="usg">Arg.</seg>, <seg type="time" rend="usg">ieșit din uz</seg>
+							</def>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a04c379-41c0-47e7-411d-8ab8f7ac64fe">bul</ptr>
+								<date>1938</date>
+								<citedRange>249</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-bca03228-b2fd-4960-97d0-edc8f0ef7b13" n="">
+						<def xml:id="uuid-b51dccc7-1a07-46ab-87c0-683319163c4a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high"><bibl type="unknown">
+						<ptr target="unknown">Bul. Filol.</ptr>
+						<date>1938</date>
+						<citedRange>249</citedRange>
+					</bibl>
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="ru" type="unknown" subtype="unknown">обезъянна</term>
+					<note>„maimuţă”</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6cbe3fbb-f296-4abb-9079-81d2c3042bc4" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T13:52:08+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abnormal</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABNORMÁL</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-5c08ce49-83a0-476f-b35a-89b8dd590ca9" n="1.">
+						<def xml:id="uuid-3a7cf505-3bcf-4e01-b46d-609cf9ae9b6e">Anormal,
+							neobişnuit;</def>
+						<usg corresp="#uuid-3a7cf505-3bcf-4e01-b46d-609cf9ae9b6e">
+							<seg type="time" rend="usg">Astăzi rar</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-3a7cf505-3bcf-4e01-b46d-609cf9ae9b6e">
+							<ptr target="abnorm"/>
+							<usg><seg type="time" rend="usg">înv.</seg>; <seg type="time" rend="usg">astăzi rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Câţiva din funcţionari se apropiară tiptil ... Era evident că se
+								petrecuse ceva, cum se zicea la contabilitate, „<hi rend="bold">abnormal</hi>”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">lina</ptr>
+								<date>1942</date>
+								<citedRange>126</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7439d9a4-6f16-4cd8-8364-20549f03e190" n="2.">
+						<def xml:id="uuid-6f1164d8-eb1a-4462-9fcf-66be18662339"/>
+						<xr type="syn" corresp="#uuid-6f1164d8-eb1a-4462-9fcf-66be18662339">
+							<ptr target="Neregulat (1)"/>
+							<usg>
+								<seg type="time" rend="usg">Astăzi rar</seg>
+							</usg>
+						</xr>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-33b90f16-57d3-4bcd-8d38-a602b68e5c9d" n="">
+						<def xml:id="uuid-8ddf2c70-26b2-445e-a8df-b3e1d182a06a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abnormali, -e</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abnormal</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. r</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

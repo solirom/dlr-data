@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d4c46ab7-3c0e-4342-a0b6-8b7644ca622a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-21T12:31:22+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-cd766ce5-f41f-4d0c-8fe8-ada850d61d1b" n="1">
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+							<term/>
+						</form>
+						<def xml:id="uuid-e9a99c0a-07e2-4e58-92a1-2f8ebc26e261"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-015d0d96-47a5-4fed-89d2-047c54727e24" n="2.">
+						<def xml:id="id">def 1</def>
+						<def xml:id="uuid-4844fb1a-818b-4471-a653-975a67943a61">def 2</def>
+						<xr type="syn" corresp="#uuid-4844fb1a-818b-4471-a653-975a67943a61">
+							<ptr target="sin 2"/>
+						</xr>
+						<xr type="syn" corresp="#id">
+							<ptr target="sin 1"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-7116d4c6-ba9b-438c-8da4-a2b5d37938ae" n="3.">
+						<sense xml:id="uuid-e3886f1e-3800-40f4-a6d1-c22359b926a4" n="aa">
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">def 1</def>
+						<usg corresp="#id">ind 1</usg>
+						<xr type="syn" corresp="#id">
+							<ptr target="sin 1"/>
+						</xr>
+						<xr type="asoc" corresp="#id">
+							<ptr target="asoc1"/>
+						</xr>
+						<def xml:id="uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">def2</def>
+						<usg corresp="#uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">ind fol2</usg>
+						<xr type="syn" corresp="#uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">
+							<ptr target="sin2"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">
+							<ptr target="sin 22"/>
+						</xr>
+						<term xml:lang="la" type="unknown" subtype="unknown">latnesc 22</term>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-0a57126c-abb8-4c0a-bfd5-e76103df1903" n=""/>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1e376f65-389b-4f50-98f2-caee0dba3722" n="">
+						<def xml:id="uuid-d01b489e-1517-4d91-92e1-322402f7d78c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<re type="lexical-variant-section">
+					<def/>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type=""/>
+					</etym>
+				</re>
+				<etym cert="high">
+					<idno type=""/>
+				</etym>
+				<etym cert="high">
+					<idno type=""/>
+				</etym>
+				<etym cert="high">
+					<idno type=""/>
+				</etym>
+				<etym cert="high">
+					<idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/><ptr targetLang="" type="base-word" subtype="unknown" target="a2"/><ptr targetLang="" type="base-word" subtype="unknown" target="ba"/>
+					<note/><note/></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="unknown">argh</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

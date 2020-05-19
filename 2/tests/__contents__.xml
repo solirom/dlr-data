@@ -12,7 +12,7 @@
     <resource type="XMLResource" name="zzz.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-19T07:31:18+02:00" modified="2020-03-19T07:49:07+02:00" filename="zzz.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="130.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T06:59:49+02:00" modified="2020-03-23T07:01:26+02:00" filename="130.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="130.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T06:59:49+02:00" modified="2020-04-24T07:38:23+03:00" filename="130.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="133_134.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:12:56+02:00" modified="2020-03-23T07:17:34+02:00" filename="133_134.xml" mimetype="application/xml">
@@ -40,6 +40,15 @@
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="167.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T10:36:26+02:00" modified="2020-03-23T10:37:54+02:00" filename="167.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Indicatie_silabatie.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-04-22T07:13:51+03:00" modified="2020-04-22T07:17:14+03:00" filename="Indicatie_silabatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="etim_probabil.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-04-30T08:00:03+03:00" modified="2020-04-30T08:06:51+03:00" filename="etim_probabil.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="etim_superscript.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-05-05T14:45:35+03:00" modified="2020-05-05T14:50:40+03:00" filename="etim_superscript.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

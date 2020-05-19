@@ -347,13 +347,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Absorbi"/><term xml:lang="" type="sufix" subtype="unknown">-tor</term>
-					<note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
-						<term xml:lang="fr" type="unknown" subtype="unknown">absorbeur</term>
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-					</note><note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
-						<term xml:lang="en" type="unknown" subtype="unknown">absorber</term>
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-					</note></etym>
+					<note>absorbeur</note><note>absorber</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>

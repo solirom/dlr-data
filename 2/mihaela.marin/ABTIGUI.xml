@@ -296,21 +296,10 @@
 					</bibl>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abziehen </term><note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">abziehen</term>
-						<term xml:lang="" type="unknown" subtype="unknown">„a scădea; a
-							scoate”</term>
-					</note><note type="uuid-88d2379f-a6f3-3929-98b7-3da0a3d42ac0" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">germ. Abzug „deducere”
-						</term>
-					</note></etym>
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abziehen </term><note>cf. abziehen „a scădea; a scoate”</note><note>germ. Abzug „deducere”</note></etym>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">absägen</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">absägen</term>
-						<term xml:lang="" type="unknown" subtype="unknown">„a tăia o scândură cu
-							fierăstrăul”.</term>
-					</note></etym>
+					<note>cf. absägen „a tăia o scândură cu fierăstrăul”.</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>

@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7885409e-8197-48db-a131-99f5194c0b1c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T08:25:15+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abnega</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABNEGÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9cfeb93a-b79e-4ac5-b6ae-31b2366b2563" n="1.">
+						<sense xml:id="uuid-e859917b-63a4-4db7-a5a4-0671af1743de" n="✧">
+							<def xml:id="uuid-d5303e87-0cd3-40e5-82fb-e9821333d10c"/>
+							<usg corresp="#uuid-d5303e87-0cd3-40e5-82fb-e9821333d10c">(<seg type="gram" rend="usg">Cu pronumele în dativ</seg>)</usg>
+							<cit type="unknown">
+								<quote>Românii... trebuia, oare, să ajute pe fireştii lor duşmani?
+										<hi rend="bold">să-şi abnege</hi> însuşi numele? Ba!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e1c19abb-6d99-7141-9584-d87c1edb7ac6">hasde</ptr>
+									<date>1862</date>
+									<citedRange>305</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-eb8b6d79-3643-4baf-87c7-abe7ca729c5a" n="">
+							<def xml:id="uuid-bae9ad16-a1c7-4840-a9a9-3b191dc1a3eb">A nimici cu
+								totul.</def>
+							<usg corresp="#uuid-bae9ad16-a1c7-4840-a9a9-3b191dc1a3eb"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+									<date>1871</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-67902fce-c579-49d9-b3eb-f55f65e4058d"/>
+						<xr type="syn" corresp="#uuid-67902fce-c579-49d9-b3eb-f55f65e4058d">
+							<ptr target="A tăgădui (1)"/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-67902fce-c579-49d9-b3eb-f55f65e4058d">
+							<ptr target=""/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>Având eu cu d-l Gavra din datorinţa slujbei mai de mult[e] ori
+								treabă şi aflându-l lucrând pe lexiconul conversaţionalnic, mi-au
+								cetit articulul aci descris, rugându-mă ca eu să-l espediruiesc
+								domniei-tale. Eu dară, cam ştiind relaţiile încordătoare întră
+								dumneavoastră cam pe de departe, nu i am putut <hi rend="bold">abnega</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-54f7f88d-57f0-93a0-1066-f0390861a3dc">contemp</ptr>
+								<date>1846</date>
+								<citedRange>330</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Până şi Toma Necredinciosul are să se convingă, ca niciodată, că
+								noi încă avem un viitoriu, pe care nicio putere şi nicio silă nu mai
+								e în stare <hi rend="bold">a</hi>-l <hi rend="bold">abnega</hi> sau
+								a-l denega.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-16c1b6df-0049-2e5b-3816-1032b41c4c32">contemp</ptr>
+								<date>1849</date>
+								<citedRange>158</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Între populii luminaţi nimeni nu <hi rend="bold">abneagă</hi>
+								până acolo, nimeni nu sacrifică mult; toţi însă dau câte
+								ceva</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dc59d30b-33c9-7cdc-5ab6-9572849ea6dd">echil</ptr>
+								<date>1865</date>
+								<citedRange>835</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Părinţii şi antecesorii noştri ..., nu a cruţiat nece ostenele,
+								nece jertfe, <hi rend="bold">abnegând</hi> ades chiar şi interesele
+								familiei proprii, numai ca să lupte pe drumul culturei şi fericirei
+								naţional confesională.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bae64b49-53d3-2615-3eca-689810229b1b">acte
+									ș</ptr>
+								<date>1870</date>
+								<citedRange>161</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-2dab874c-f65c-4dad-b9f7-eb612707a9f9" n="2.">
+						<def xml:id="uuid-ffbdce2f-8a65-4461-a621-066d934ecbe5">A se devota, a se
+							consacra în întregime.</def>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="refl."/>
+							<subc value=""/>
+						</gramGrp>
+						<cit type="unknown">
+							<quote>Abnegaţiunea de sine a personalităţii întâmplătoare, care am
+								recunoscut-o ca o condiţie sine qua non a reprezentărei dramatice,
+								primeşte la reprezentarea unui op poetic întreg încă un caracter
+								speţial, acela de-<hi rend="bold">a se abnega</hi> neîntrerupt în
+								interesul întregului şi de-a se coordona în el, ca un membru numai,
+								întru realizarea opului poetic. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-44a55fda-87f2-918d-344d-abf50c5b5298">hurmu</ptr>
+								<date>1879</date>
+								<citedRange>361</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A fi ieşean e <hi rend="bold">a te abnega</hi> şi a vieţui
+								întrucâtva fermecat de un nobil dezinteres.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a10b0064-8d43-3eac-2e58-272fee5f2f42">răsp</ptr>
+								<date>1912</date>
+								<citedRange>76</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Lighioana... cum ar putea să îndure foamea, să se interzică şi
+									<hi rend="bold">să se abnege</hi>?</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9c64ce49-12e0-55f9-61dc-385923ac755d">palm</ptr>
+								<date>1947</date>
+								<citedRange>60</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-eaba1fcb-4d66-4b71-81f6-5ad8fc8feddf" n="">
+						<def xml:id="uuid-1a1779e3-8d57-4f34-88f5-883cd8e85b5b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abnég</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abnegare</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown">abnegare</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1858</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1968</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">dn</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

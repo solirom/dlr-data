@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8f9d2cf4-35fc-45f6-baf2-29c35cf432f5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-15T16:26:41+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abjecta</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABJECTÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a5dc3cf0-1784-44d6-bd6e-0e2d7892e848" n="">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-f56daf44-3fb7-4fe1-b703-5bf8b9f05b8d"/>
+						<xr type="syn" corresp="#uuid-f56daf44-3fb7-4fe1-b703-5bf8b9f05b8d">
+							<ptr target="A dispreţui"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-f56daf44-3fb7-4fe1-b703-5bf8b9f05b8d">
+							<ptr target="a umili2"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-f56daf44-3fb7-4fe1-b703-5bf8b9f05b8d">
+							<ptr target="a înjosi"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ac43ea1a-e625-4d9f-b505-20b9387703ac" n="">
+						<def xml:id="uuid-f6bd375f-bbea-405a-a438-0788260a936a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">?</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="fo"/>
+				</etym>
+				<TEI xml:id="uuid-8429c52a-5e21-4ec7-92cb-3fc6866d830c" version="3.3.0" source="0.21">
+					<text type="editing-mode-dlr">
+						<body>
+							<entry>
+								<note type="bibliographic-references">
+									<bibl type="unknown">
+										<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+										<date>1848</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+										<date>1862</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+										<date>1862</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+										<date>1870</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+										<date>1871</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+										<date>1886</date>
+										<citedRange/>
+									</bibl>
+									<bibl type="unknown">
+										<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+										<date>1905</date>
+										<citedRange/>
+									</bibl>
+								</note>
+							</entry>
+						</body>
+					</text>
+				</TEI>
+			</entry>
+		</body>
+	</text>
+</TEI>

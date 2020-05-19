@@ -39,6 +39,24 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-13671de8-dbdb-4f8e-bc4e-f38d3ff2e996" n="I.">
 						<sense xml:id="uuid-63c2165a-24b0-467b-9cfe-9a522865ad06" n="1.">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="intranz."/>
+								<subc value=""/>
+							</gramGrp>
 							<sense xml:id="uuid-972d7fcd-d079-42f4-87ff-01672cd23078" n="✧">
 								<def xml:id="id">A-și întoarce privirea.</def>
 								<usg corresp="#id"> (<seg type="gram" rend="usg">Cu complementul în
@@ -191,7 +209,6 @@
 							</sense>
 							<def xml:id="id">A (se) îndepărta de la direcţia iniţială, a(-şi)
 								schimba direcţia de deplasare;</def>
-							<usg corresp="#id"><seg type="gram" rend="usg">Tranz.</seg>, <seg type="gram" rend="usg">refl.</seg> şi<seg type="gram" rend="usg"> intranz.</seg></usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="a devia (1)"/>
 							</xr>
@@ -1256,10 +1273,7 @@
 						<citedRange/>
 					</bibl>
 					<idno type="element.extern-trimitere-Cf."/><term type="unknown" subtype="unknown" xml:lang="sla-pro">biti</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„a bate” </term>
-					</note></etym>
+					<note>„a bate”</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-143644dd-4355-76f6-8149-4c49a038a51f">Lex. Sl.-Rom</ptr>

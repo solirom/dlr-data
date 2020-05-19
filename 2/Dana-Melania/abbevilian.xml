@@ -34,6 +34,13 @@
 					<subc value=""/>
 					<number value=""/>
 				</gramGrp>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-643acaa0-a91f-4b40-ab2a-16d8543a4b4a" n="1.">
 						<gramGrp>
@@ -77,6 +84,17 @@
 								<citedRange/>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote>Faciesul <hi rend="bold">abbevillian</hi> a fost identificat de
+								către H. Breuil în 1932, în depunerile nivelurilor inferioare ale
+								terasei înalte de 45 m a râului Somme la Abbeville (în nord-vestul
+								Franţei).</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">CÂRCIUMARU, Paleoliticul</ptr>
+								<date>2006</date>
+								<citedRange>11</citedRange>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -98,6 +116,11 @@
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
 						<number>abbevilieni, -e</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
 					</form>
 				</form>
 				<re type="lexical-variant-section">

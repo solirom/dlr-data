@@ -513,9 +513,7 @@
 				</etym>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="en" type="unknown" subtype="unknown">abysmal</term>
-					<note type="unknown" n="unknown" cert="high">
-						<term/>
-					</note></etym>
+					<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>

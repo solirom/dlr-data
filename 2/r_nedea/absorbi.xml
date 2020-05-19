@@ -425,9 +425,7 @@
 				</dictScrap>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorber</term>
-					<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">sorbi</term>
-					</note></etym>
+					<note>sorbi</note></etym>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absorbere</term>
 				</etym>

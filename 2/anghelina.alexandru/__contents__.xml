@@ -1,81 +1,78 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/anghelina.alexandru" owner="anghelina.alexandru" group="dlr-redactors" mode="774" created="2019-04-16T05:42:14+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="ABAIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:41:37+02:00" modified="2020-02-18T06:41:57+02:00" filename="ABAIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:41:37+02:00" modified="2020-04-14T10:18:18+03:00" filename="ABAIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAIURA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:42:22+02:00" modified="2020-02-18T06:42:43+02:00" filename="ABAIURA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAIURA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:42:22+02:00" modified="2020-04-14T10:18:19+03:00" filename="ABAIURA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAJERIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:42:56+02:00" modified="2020-02-18T06:43:21+02:00" filename="ABAJERIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAJERIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:42:56+02:00" modified="2020-04-14T10:18:21+03:00" filename="ABAJERIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAJOR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:43:36+02:00" modified="2020-02-18T06:43:56+02:00" filename="ABAJOR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAJOR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:43:36+02:00" modified="2020-04-14T10:18:23+03:00" filename="ABAJOR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="A3.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-11-29T08:32:46+02:00" modified="2020-04-13T02:55:14+03:00" filename="A3.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="A3.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-11-29T08:32:46+02:00" modified="2020-05-08T07:05:07+03:00" filename="A3.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAR2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:45:48+02:00" modified="2020-02-18T06:46:08+02:00" filename="ABAR2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARABAR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:47:22+02:00" modified="2020-04-14T10:21:46+03:00" filename="ABARABAR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARABAR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:47:22+02:00" modified="2020-02-18T06:47:47+02:00" filename="ABARABAR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARLAU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:56:48+02:00" modified="2020-04-14T10:21:49+03:00" filename="ABARLAU.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARLAU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:56:48+02:00" modified="2020-02-18T06:57:13+02:00" filename="ABARLAU.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAT.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:57:55+02:00" modified="2020-04-14T10:24:43+03:00" filename="ABAT.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAT.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:57:55+02:00" modified="2020-02-18T06:58:38+02:00" filename="ABAT.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABATAGIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:58:53+02:00" modified="2020-04-14T10:24:44+03:00" filename="ABATAGIU.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABATAGIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:58:53+02:00" modified="2020-02-18T06:59:15+02:00" filename="ABATAGIU.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDONAMENT.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T05:31:05+02:00" modified="2020-04-14T10:21:35+03:00" filename="ABANDONAMENT.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDONAMENT.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T05:31:05+02:00" modified="2020-03-16T09:51:53+02:00" filename="ABANDONAMENT.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDONARE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T05:35:30+02:00" modified="2020-04-23T05:56:15+03:00" filename="ABANDONARE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDONARE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T05:35:30+02:00" modified="2020-04-09T07:45:30+03:00" filename="ABANDONARE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="AB_ABSURDO.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T07:15:38+02:00" modified="2020-04-14T10:14:59+03:00" filename="AB_ABSURDO.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="AB_ABSURDO.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T07:15:38+02:00" modified="2020-02-05T07:11:07+02:00" filename="AB_ABSURDO.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABADON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T08:14:18+02:00" modified="2020-04-14T10:16:54+03:00" filename="ABADON.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABADON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T08:14:18+02:00" modified="2020-03-03T05:29:41+02:00" filename="ABADON.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGERESC_EASCA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T08:33:41+02:00" modified="2020-04-14T10:16:59+03:00" filename="ABAGERESC_EASCA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGERESC_EASCA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T08:33:41+02:00" modified="2020-03-23T05:35:18+02:00" filename="ABAGERESC_EASCA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGERIE1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T09:31:54+02:00" modified="2020-04-14T10:17:01+03:00" filename="ABAGERIE1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGERIE1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-09T09:31:54+02:00" modified="2020-03-16T09:47:05+02:00" filename="ABAGERIE1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="A1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-11-28T05:29:12+02:00" modified="2020-05-14T03:26:07+03:00" filename="A1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="A1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-11-28T05:29:12+02:00" modified="2020-04-13T02:42:14+03:00" filename="A1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDONAT_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T08:33:19+02:00" modified="2020-04-22T06:37:48+03:00" filename="ABANDONAT_A.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDONAT_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-13T08:33:19+02:00" modified="2020-03-16T09:52:19+02:00" filename="ABANDONAT_A.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="AALENIAN.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:27:46+03:00" modified="2020-05-05T10:03:04+03:00" filename="AALENIAN.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="AALENIAN.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:27:46+03:00" modified="2020-03-05T05:21:19+02:00" filename="AALENIAN.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="ABACA.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-12T21:11:20+03:00" modified="2020-02-20T09:18:07+02:00" filename="ABACA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABACA.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-12T21:11:20+03:00" modified="2020-04-14T10:15:53+03:00" filename="ABACA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="A2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-11-29T06:33:17+02:00" modified="2020-02-20T09:13:10+02:00" filename="A2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABA3.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-11T20:37:57+03:00" modified="2020-04-13T03:08:14+03:00" filename="ABA3.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABA3.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-11T20:37:57+03:00" modified="2020-04-15T11:00:11+03:00" filename="ABA3.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="ABAGER.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-19T19:13:02+03:00" modified="2020-03-16T09:30:19+02:00" filename="ABAGER.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABACTERIAN_A.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-17T20:04:33+03:00" modified="2020-02-25T04:21:28+02:00" filename="ABACTERIAN_A.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABACTERIAN_A.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-17T20:04:33+03:00" modified="2020-04-14T10:16:00+03:00" filename="ABACTERIAN_A.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAC.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-12T00:03:22+03:00" modified="2020-03-25T06:01:30+02:00" filename="ABAC.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAC.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-12T00:03:22+03:00" modified="2020-04-15T10:40:35+03:00" filename="ABAC.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABA2.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:47:27+03:00" modified="2020-04-13T02:57:09+03:00" filename="ABA2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABA2.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:47:27+03:00" modified="2020-05-04T12:33:39+03:00" filename="ABA2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="ABAD.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-17T20:10:25+03:00" modified="2020-02-05T07:21:52+02:00" filename="ABAD.xml" mimetype="application/xml">
@@ -84,124 +81,118 @@
     <resource type="XMLResource" name="ABADE.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-17T20:53:34+03:00" modified="2020-02-07T02:44:45+02:00" filename="ABADE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABA1.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:41:30+03:00" modified="2019-12-06T05:30:55+02:00" filename="ABA1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABA1.xml" owner="anghelina.alexandru" group="dba" mode="644" created="2019-06-10T19:41:30+03:00" modified="2020-05-05T15:31:19+03:00" filename="ABA1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGERIE2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:39:14+02:00" modified="2020-03-16T09:47:15+02:00" filename="ABAGERIE2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGERIE2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:39:14+02:00" modified="2020-04-14T10:17:03+03:00" filename="ABAGERIE2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGERITA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:43:05+02:00" modified="2020-03-16T09:48:09+02:00" filename="ABAGERITA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGERITA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:43:05+02:00" modified="2020-04-14T10:17:05+03:00" filename="ABAGERITA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGICA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T02:56:48+02:00" modified="2020-02-07T02:57:25+02:00" filename="ABAGICA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGICA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T02:56:48+02:00" modified="2020-04-14T10:18:06+03:00" filename="ABAGICA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:54:27+02:00" modified="2020-04-13T03:18:27+03:00" filename="ABAGIU.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T03:54:27+02:00" modified="2020-04-14T10:18:08+03:00" filename="ABAGIU.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGIUBA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T06:55:01+02:00" modified="2020-03-03T06:19:25+02:00" filename="ABAGIUBA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGIUBA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T06:55:01+02:00" modified="2020-04-27T04:50:01+03:00" filename="ABAGIUBA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAI.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T07:06:29+02:00" modified="2020-02-25T04:31:39+02:00" filename="ABAI.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAI.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T07:06:29+02:00" modified="2020-04-14T10:18:16+03:00" filename="ABAI.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAJUR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T07:31:10+02:00" modified="2020-02-20T09:24:06+02:00" filename="ABAJUR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAJUR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-10T07:31:10+02:00" modified="2020-04-30T05:43:38+03:00" filename="ABAJUR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANOS.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T04:09:11+02:00" modified="2020-03-03T06:55:27+02:00" filename="ABANOS.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANOS.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T04:09:11+02:00" modified="2020-04-14T10:21:41+03:00" filename="ABANOS.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGEA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T02:46:06+02:00" modified="2020-03-03T05:33:05+02:00" filename="ABAGEA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGEA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T02:46:06+02:00" modified="2020-04-14T10:16:56+03:00" filename="ABAGEA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="AB_ANTIQUO.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T04:59:27+02:00" modified="2020-02-07T04:06:56+02:00" filename="AB_ANTIQUO.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="AB_ANTIQUO.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T04:59:27+02:00" modified="2020-04-14T10:14:56+03:00" filename="AB_ANTIQUO.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALDA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:08:06+02:00" modified="2020-02-07T03:13:18+02:00" filename="ABALDA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABALDA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:08:06+02:00" modified="2020-04-14T10:19:10+03:00" filename="ABALDA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALIENA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:37:12+02:00" modified="2020-03-03T06:24:48+02:00" filename="ABALIENA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABALIENA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:37:12+02:00" modified="2020-04-14T10:19:13+03:00" filename="ABALIENA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALIENARE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:44:39+02:00" modified="2020-03-03T06:32:36+02:00" filename="ABALIENARE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABALIENARE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:44:39+02:00" modified="2020-04-14T10:19:15+03:00" filename="ABALIENARE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDONABIL_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T03:20:34+02:00" modified="2020-03-16T09:51:00+02:00" filename="ABANDONABIL_A.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDONABIL_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T03:20:34+02:00" modified="2020-04-14T10:19:23+03:00" filename="ABANDONABIL_A.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALIENATIUNE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:48:15+02:00" modified="2020-03-03T06:29:46+02:00" filename="ABALIENATIUNE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABALIENATIUNE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:48:15+02:00" modified="2020-04-14T10:19:18+03:00" filename="ABALIENATIUNE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALT.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-11T07:51:43+02:00" modified="2019-12-12T02:58:58+02:00" filename="ABALT.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARABAhR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:42:46+02:00" modified="2020-04-14T10:21:44+03:00" filename="ABARABAhR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAR1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:40:22+02:00" modified="2019-12-17T08:42:04+02:00" filename="ABAR1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARIMON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:51:14+02:00" modified="2020-04-14T10:21:47+03:00" filename="ABARIMON.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARABAhR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:42:46+02:00" modified="2020-03-03T06:56:40+02:00" filename="ABARABAhR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAROGNOZIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:52:51+02:00" modified="2020-04-14T10:24:27+03:00" filename="ABAROGNOZIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARAMU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T04:08:37+02:00" modified="2020-02-07T04:08:54+02:00" filename="ABARAMU.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARNIC_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:54:54+02:00" modified="2020-04-17T05:54:30+03:00" filename="ABARNIC_A.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARIMON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:51:14+02:00" modified="2020-03-03T07:01:13+02:00" filename="ABARIMON.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARNICEALA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:57:17+02:00" modified="2020-04-14T10:24:11+03:00" filename="ABARNICEALA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAROGNOZIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:52:51+02:00" modified="2019-12-17T08:54:34+02:00" filename="ABAROGNOZIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARNICIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:01:29+02:00" modified="2020-04-14T10:24:22+03:00" filename="ABARNICIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARNIC_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:54:54+02:00" modified="2020-03-16T09:58:30+02:00" filename="ABARNIC_A.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABARTICULAR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:03:13+02:00" modified="2020-04-14T10:24:31+03:00" filename="ABARTICULAR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARNICEALA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T08:57:17+02:00" modified="2020-03-16T09:58:59+02:00" filename="ABARNICEALA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABASAN.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T04:39:28+02:00" modified="2020-04-14T10:24:37+03:00" filename="ABASAN.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARNICIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:01:29+02:00" modified="2020-03-16T09:58:52+02:00" filename="ABARNICIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABASID_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:08:27+02:00" modified="2020-04-14T10:24:39+03:00" filename="ABASID_A.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABARTICULAR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:03:13+02:00" modified="2020-03-03T06:58:23+02:00" filename="ABARTICULAR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABALIENATIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-03T06:30:18+02:00" modified="2020-04-14T10:19:17+03:00" filename="ABALIENATIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABASAN.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-07T04:39:28+02:00" modified="2020-02-07T04:39:40+02:00" filename="ABASAN.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABASTARDI.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:27:28+02:00" modified="2020-04-14T10:24:41+03:00" filename="ABASTARDI.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABASID_A.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:08:27+02:00" modified="2020-03-16T10:00:18+02:00" filename="ABASID_A.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABATAJ.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:30:59+02:00" modified="2020-05-08T03:45:50+03:00" filename="ABATAJ.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABALIENATIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-03-03T06:30:18+02:00" modified="2020-03-03T06:30:54+02:00" filename="ABALIENATIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-12T02:59:24+02:00" modified="2020-04-14T10:19:20+03:00" filename="ABANDON.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABASTARDI.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:27:28+02:00" modified="2020-04-02T03:55:08+03:00" filename="ABASTARDI.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABACA1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:36:06+02:00" modified="2020-04-14T10:15:55+03:00" filename="ABACA1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABATAJ.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-17T09:30:59+02:00" modified="2020-03-06T01:44:03+02:00" filename="ABATAJ.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABACA2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:36:36+02:00" modified="2020-04-14T10:15:58+03:00" filename="ABACA2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDON.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-12T02:59:24+02:00" modified="2020-03-03T06:44:28+02:00" filename="ABANDON.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABADESA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:37:57+02:00" modified="2020-04-14T10:16:46+03:00" filename="ABADESA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABACA1.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:36:06+02:00" modified="2020-02-18T06:36:25+02:00" filename="ABACA1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABANDONA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-12T09:22:00+02:00" modified="2020-04-14T10:19:21+03:00" filename="ABANDONA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABACA2.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:36:36+02:00" modified="2020-02-18T06:36:55+02:00" filename="ABACA2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABADIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:38:37+02:00" modified="2020-04-14T10:16:52+03:00" filename="ABADIE.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABADESA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:37:57+02:00" modified="2020-02-18T06:38:17+02:00" filename="ABADESA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGERIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:40:12+02:00" modified="2020-04-14T10:18:02+03:00" filename="ABAGERIU.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABANDONA.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2019-12-12T09:22:00+02:00" modified="2020-03-03T06:48:22+02:00" filename="ABANDONA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAGEU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:40:41+02:00" modified="2020-04-14T10:18:04+03:00" filename="ABAGEU.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABADIE.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:38:37+02:00" modified="2020-02-18T06:38:59+02:00" filename="ABADIE.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="Untitled.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-04-06T07:27:01+03:00" modified="2020-04-23T06:18:40+03:00" filename="Untitled.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ABAGERIU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:40:12+02:00" modified="2020-02-18T06:40:31+02:00" filename="ABAGERIU.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="ABAGEU.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:40:41+02:00" modified="2020-02-18T06:40:58+02:00" filename="ABAGEU.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="Untitled.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-04-06T07:27:01+03:00" modified="2020-04-06T07:27:56+03:00" filename="Untitled.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ABAR.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-02-18T06:45:48+02:00" modified="2020-04-14T10:21:43+03:00" filename="ABAR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

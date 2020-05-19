@@ -523,9 +523,7 @@
                     <idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/>
                     <ptr targetLang="" type="base-word" subtype="unknown" target="de^1^"/>
                     <ptr targetLang="" type="base-word" subtype="unknown" target="sătul"/>
-                    <note type="unknown" n="unknown" cert="high">
-                        <term/>
-                    </note>
+                    <note/>
                 </etym>
             </entry>
         </body>

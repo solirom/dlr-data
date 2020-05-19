@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-dbf4b84a-32e8-49c6-8af2-4887e35830a8" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T20:51:42+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuzivitate</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZIVITÁTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6661ea7a-1d98-4684-af92-9c862f2f8f4a" n="">
+						<def xml:id="uuid-9e84781a-9d03-495f-ae09-79706e787a18">Caracter abuziv,
+							injust;</def>
+						<xr type="remote-syn" corresp="#uuid-9e84781a-9d03-495f-ae09-79706e787a18">
+							<ptr target="încălcare a drepturilor legale ale cuiva."/>
+						</xr>
+						<cit type="unknown">
+							<quote>În „Amintirile” sale ... Brăescu anexează și un sector nou al
+								moravurilor, raporturile dintre stăpâni și slugi într-o anumită lume
+								moldovenească spre sfârșitul veacului trecut, amestec de
+								patriarhalism și abuzivitate medievală. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a7192fd5-26ee-0cf1-55b7-d4bdde04698c">vianu</ptr>
+								<date>1941</date>
+								<citedRange>247</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şi care era de o <hi rend="bold">abuzivitate</hi> de nedescris.
+								Dacă se va ocupa cineva de abuzurile pe care le făceau membrii
+								privilegiaţi ai acestei caste o să tragă nişte concluzii într-adevăr
+								uluitoare.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date>1996</date>
+								<citedRange>171</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-686dafa8-4821-4ac8-8636-e52b9ce29724" n="">
+						<def xml:id="uuid-569e092e-ae8c-417c-9b8a-beebe4a8b0bb"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown"> abusività</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

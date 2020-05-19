@@ -550,9 +550,7 @@
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/>abstraire<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">trage</term>
-					</note></etym>
+					<idno type="element.extern-împrumut-etimon.sigur"/>abstraire<note>trage</note></etym>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abstrahere</term>
 				</etym>

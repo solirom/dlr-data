@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4ee29a79-6037-4943-8100-9870235a8ad2" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T08:20:17+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abminți</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABMINŢÍ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="IV"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-61c42c76-c469-4fd6-b4b4-a8c8858659c7" n="">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="IV"/>
+							<subc value=""/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-4b539920-5940-4a49-bf4e-de0f3a64965e"/>
+						<xr type="syn" corresp="#uuid-4b539920-5940-4a49-bf4e-de0f3a64965e">
+							<ptr target="A minţi"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costines</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-ce2fa89f-85bd-4064-b185-12c5fa24112b" n="">
+						<def xml:id="uuid-b440aab8-d712-46d4-aa5b-98a57a76944a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">?</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.prefix"/><term xml:lang="" type="prefix" subtype="unknown">ab-</term><ptr targetLang="" type="base-word" subtype="unknown" target="minţi"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

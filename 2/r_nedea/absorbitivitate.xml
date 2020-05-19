@@ -119,9 +119,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">absorptivité</term>
-					<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">absorbitiv</term>
-					</note></etym>
+					<note>absorbitiv</note></etym>
 			</entry>
 		</body>
 	</text>

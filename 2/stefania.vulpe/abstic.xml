@@ -110,10 +110,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstich</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„tăiere, lovire”</term>
-					</note></etym>
+					<note>„tăiere, lovire”</note></etym>
 			</entry>
 		</body>
 	</text>

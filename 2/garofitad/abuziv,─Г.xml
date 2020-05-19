@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4eb3b979-beed-4e1c-84f4-843e939f77e7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T16:11:25+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuziv, -ă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZÍV, -Ă</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a6677a47-b4d2-4fc3-9014-934295528376" n="1.">
+						<def xml:id="uuid-91c6ddf4-ef65-4493-bb8f-ddbacd35a68f">Care abuzează de
+							calitatea sau de puterea sa; </def>
+						<usg corresp="#uuid-91c6ddf4-ef65-4493-bb8f-ddbacd35a68f">(<seg type="hint" rend="usg">Despre oameni sau despre acțiunile, manifestările
+								lor</seg>) </usg>
+						<xr type="syn" corresp="#uuid-91c6ddf4-ef65-4493-bb8f-ddbacd35a68f">
+							<ptr target="arbitrar"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-91c6ddf4-ef65-4493-bb8f-ddbacd35a68f">
+							<ptr target="ilegal"/>
+						</xr>
+						<xr type="remote-syn" corresp="#uuid-91c6ddf4-ef65-4493-bb8f-ddbacd35a68f">
+							<ptr target=" care se face prin încălcarea unor norme şi reguli"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenar</ptr>
+								<date>1840</date>
+								<citedRange>s. v.<hi rend="italic"> abusif</hi></citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Asemenea se vor pedepsi și ofițerii... pentru<hi rend="bold">
+									abuziva</hi> întrebuințare a puterei lor. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cbad78d2-93c9-11ce-69be-1d64335698c3">cond.
+									pen.</ptr>
+								<date>1852</date>
+								<citedRange>36/14</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Oprirea a nu lua cartea preoților, se rapoartă la maniera <hi rend="bold">abusivă</hi> a dabilarilor, cu care ei, spre a
+								strâmtora pe preoți și a-i sili să le plătească dările... le luau
+								Molitvelnicul fără de care ei nu puteau să săvârșească datoriile
+								religioase.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0967fa53-47bb-6f06-8172-099f110f990d">chron.
+									h</ptr>
+								<date>1869</date>
+								<citedRange>124</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pre funcționarii<hi rend="bold"> abuzivi</hi> n-a fost în stare
+								să-i pedepsească în scurtul timp al nouei sale domnii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6f32dc3b-2192-1d60-6db1-5e3dfefe9f45">urechia</ptr>
+								<date>1896</date>
+								<citedRange>112</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Fapta d-lui Vernescu era așa de abuzivă, încât d. Cantacuzin,
+								îndată ce a primit ordonanța de neurmărire, a acționat la rândul său
+								pe d. Vernescu dinaintea Tribunalului Ilfov.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-acb2341f-3b98-3f4a-11bb-ff063b1005cb">maiorescu</ptr>
+								<date>1897</date>
+								<citedRange>400</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Totuși, în actuala stare a legilor nu se poate crea un drept de
+								recurs la Curtea de Casațiune, această Curte neavând dreptul și
+								competința de a anula orice act administrativ nul sau <hi rend="bold">abusiv</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod.
+									pen.</ptr>
+								<date>1906</date>
+								<citedRange>32</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din nefericire, nu se găsesc mai niciodată oameni care să reziste
+								suveranilor <hi rend="bold">abuzivi</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd73987d-9114-2eec-8e7d-e97610814a9d">negulescu</ptr>
+								<date>1914</date>
+								<citedRange>369</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toți oamenii noștri culți ... se unesc totuși cu duioasă frăție
+								intelectuală în aceeași părere: că burghezia română este o clasă
+								parazitară și<hi rend="bold"> abuzivă</hi>, că ea trăiește numai din
+								privilegii ce și-a acordat în dauna țărănimii. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-130e5fc2-83a6-8ea6-5b70-2d7b6a6054f5">zeletin</ptr>
+								<date>1923</date>
+								<citedRange>108</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Clasa conducătoare... ceru, încă din a doua jumătate a sec.
+								XVIII, libertatea negoțului și renunțarea Turciei la privilegiile ei
+									<hi rend="bold">abuzive</hi> de aprovizionare din
+								Principate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-107c7352-5c9d-1f74-8547-0184a6c13eeb">filitti</ptr>
+								<date>1925</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Japonia ia astfel aerul unui stat tiran,<hi rend="bold">
+									abuziv</hi> și provocator, ceea ce contrazice perfect imaginea
+								Japoniei de la 1919.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-33ca71d7-18fc-6549-196c-a331781b516e">sebastian</ptr>
+								<date>1933</date>
+								<citedRange>33</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dările lui Isaac Anghelos și felul <hi rend="bold">abuziv </hi>în
+								care fuseseră strânse au produs o mare nemulțumire printre vlahii
+								cari locuiau muntele Haemus.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ff6bd210-9993-9837-99ad-748ee9e1444c">c. c.
+									giurescu</ptr>
+								<date>1935</date>
+								<citedRange>296</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aceste drepturi ea [națiunea română] nu le-a pierdut prin vreo
+								lege valabilă, ci numai prin vitregia vremurilor, printr-o
+								nesocotire sau răstălmăcire<hi rend="bold"> abuzivă</hi> a legilor
+								țării. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a69bca72-89c8-07c7-3c16-f88b6dad61ea">prodan</ptr>
+								<date>1967 (1948)</date>
+								<citedRange>23</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dimitrie Cantemir își revarsă ura persistentă contra<hi rend="bold"> abuzivului</hi> nabab și a aliaților săi, munteni
+								și moldoveni.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-739e6bb8-17e6-59a3-742e-0ecc2f034ae0">cioculesc</ptr>
+								<date>1973</date>
+								<citedRange>83</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Situația [generată de răscoala țărănească din 1795] era
+								alimentată și de ura față de dinastia alogenă, care, deși își
+								părăsise limba, obiceiurile, deprinderile războinice, cu toate că
+								asimilase cultura chineză, nu renunțase la privilegiile ei <hi rend="bold">abuzive</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">drimba</ptr>
+								<date>1984</date>
+								<citedRange>323</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sunt incompatibile cu calitatea de membru al Consiliului de
+								administrație persoanele care au suferit condamnări pentru...
+								arestare nelegală și cercetare <hi rend="bold">abuzivă</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">MO</ptr>
+								<date>1992</date>
+								<citedRange>264</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>O altă formulare a paradoxului enunţat mai sus este următoarea:
+									deşi<hi rend="bold"> abuzivă </hi>în drept şi mistificatorie,
+								puterea este în fapt acceptată de majoritatea electoratului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">patapiev</ptr>
+								<date>1995</date>
+								<citedRange>143</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4c437174-3207-465b-93b2-329144d4c8de" n="">
+						<def xml:id="uuid-0b1ebc8a-9cb7-48dd-b23a-63be64c57ef5"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

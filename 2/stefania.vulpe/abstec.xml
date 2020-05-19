@@ -99,18 +99,10 @@
 				</form>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstecken </term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„a trasa, a marca, a
-							desface, a desprinde” </term>
-					</note></etym>
+					<note>„a trasa, a marca, a desface, a desprinde”</note></etym>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">abstechen </term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„a tăia, a scoate dintr-o
-							suprafață”</term>
-					</note></etym>
+					<note>„a tăia, a scoate dintr-o suprafață”</note></etym>
 			</entry>
 		</body>
 	</text>

@@ -31,15 +31,12 @@
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="adj."/>
-					<subc value=""/>
-					<number value=""/>
-				</gramGrp>
-				<gramGrp>
-					<pos value=""/>
+					<pos value="subst."/>
+					<number value="sg."/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-97e6d4b2-3589-45f9-990a-bf796b59ada4" n="1.">
+						<usg corresp="#uuid-97e6d4b2-3589-45f9-990a-bf796b59ada4"/>
 						<sense xml:id="uuid-66ad98db-c5af-40b0-94b6-69d1de3b0ef3" n="✦">
 							<def xml:id="id">Eroare care constă în exagerarea unui fapt, a unei
 								păreri etc.</def>
@@ -59,15 +56,16 @@
 						<gramGrp>
 							<pos value="s."/>
 							<gen value="n."/>
-							<number value=""/>
+							<number value="sg."/>
 							<case value=""/>
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="uuid-850802e9-d1f5-47a2-92f1-523103e303de">Întrebuințare
 							greșită a unui lucru, mod incorect de a se folosi de o stare de fapt, de
 							o situație etc.;</def>
-						<def xml:id="uuid-b5c6d9b0-a846-4c87-8ba7-9b3873f17d54">faptă
-							incorectă.</def>
+						<xr type="remote-syn" corresp="#uuid-850802e9-d1f5-47a2-92f1-523103e303de">
+							<ptr target="faptă incorectă."/>
+						</xr>
 						<cit type="unknown">
 							<quote>La această pronunție [a lui e] a intrat un <hi rend="bold">abuz
 								</hi>neiertat, mai vârtos la muntenii noștri, cari prea ridică
@@ -240,6 +238,14 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
+							<quote>Prințul străin este singurul leac de a scăpa de <hi rend="bold">abuzurile</hi> trecute.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">bolli</ptr>
+								<date>1857</date>
+								<citedRange>130</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
 							<quote><hi rend="bold">Abuzul </hi>berii însă tâmpeşte mintea, încarcă
 								corpul cu o grăsime nesănătoasă şi-l dispune la trândăvie. </quote>
 							<bibl type="unknown">
@@ -334,16 +340,559 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-5de7aa04-b281-4ae9-b156-f325fd07ea34" n="3.">
-						<def xml:id="id"/>
+						<sense xml:id="uuid-da1a8cc1-1ec2-4a39-bd1f-c2fbfe95c2d3" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de autoritate</term>
+							</form>
+							<def xml:id="id">delict săvârşit de un funcţionar sau de un organ
+								administrativ prin depăşirea atribuţiilor sale</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg"/>
+								<hi rend="italic">JUR.</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Ca toți muritorii făcând <hi rend="bold">abuzu din
+										puternicia</hi> sa cerească și pământească, pentru a i se
+									pune stavila eccesului se ridică asupra sa opoziții.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6befbd90-5c1d-7bf4-9a20-246c0cfa1366">săulescu</ptr>
+									<date>1837</date>
+									<citedRange>16/19</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sunt agenți provocatori aceia cari, prin daruri, promisiuni,
+										amenințări,<hi rend="bold"> abus de autoritate</hi>, sau <hi rend="bold">de putere</hi>, uneltiri culpabile, vor fi
+									provocat la o infracțiune sau vor fi dat instrucțiune spre a o
+									comite.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75ac80c8-155d-6764-33cf-d1bba6ea6740">cod</ptr>
+									<date>1864</date>
+									<citedRange>64</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De vreme ce trebuia să pledeze în contra a ceea ce era dator
+									să considere ca un <hi rend="bold">abuz de putere </hi>al Curiei
+									Romane, nu era nimic mai firesc decât să ia partea conciliului
+									în contra Papei. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negul</ptr>
+									<date>1910</date>
+									<citedRange>167</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Consiliul de revizie a casat sentința fără trimitere la alt
+									consiliu de război decât numai pentru delictul de <hi rend="bold">abuz de putere </hi>care nu putea trage după
+									sine decât cel mult 6 luni închisoare, fără pierderea
+									gradului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+									<date>1937</date>
+									<citedRange>127</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Reglementarea<hi rend="bold"> abuzului de putere</hi>
+									constituie un mare progres în evoluția dreptului de libertate
+									individuală.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.
+										ag</ptr>
+									<date>1937</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Aceste <hi rend="bold">abuzuri de putere</hi> [ale vătafilor
+									de plai], deși în ordinea firească a administrației, luau uneori
+									forme atât de alarmante, încât vornicia simțea nevoia să
+									intervină.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțetea</ptr>
+									<date>1945</date>
+									<citedRange>76</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sunt un om bolnav: faci un <hi rend="bold">abuz de
+										putere</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+									<date>1964 (†) VINEA</date>
+									<citedRange>476</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nicio definiție ambiguă nu va fi permisă, tocmai pentru a
+									putea preîntâmpina paralelismul, imixtiunea, <hi rend="bold">abuzurile de funcție și atribuții</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">viața
+										me</ptr>
+									<date>1991</date>
+									<citedRange>III, nr. 60, 1</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Am cunoscut de aproape situația nenorociților, condamnați
+									prin <hi rend="bold">abuz de putere</hi> la o prelungire de
+									pedeapsă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d5e3d83f-6bac-96e3-a3c5-5364a1710133">constante</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În absența unei justificări obiective, un refuz reprezintă de
+									obicei un<hi rend="bold"> abuz de poziție dominantă </hi>pe
+									piața de acces.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+									<date>2004</date>
+									<citedRange>nr. 288, 47</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-aea57b6f-26ea-4fc4-8e83-864f52f78d1a" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de putere</term>
+							</form>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="dom" rend="usg">JUR.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-7334ad64-9948-4d6e-8e1b-0887ad1cd24b" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de funcție și atribuții</term>
+							</form>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">
+									<hi rend="italic">JUR.</hi>
+								</seg>
+								<seg type="plev" rend="usg">rar</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-18ddcd64-7fc1-4cdf-ae7d-5e2e4d243c90" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de poziție dominantă</term>
+							</form>
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="dom" rend="usg">JUR.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-f4707102-7287-4355-976a-b3aee4cad1c6" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de încredere</term>
+							</form>
+							<def xml:id="id">delict constând în însuşirea, înstrăinarea sau refuzul
+								de restituire a unui bun mobil încredinţat unei persoane cu
+								obligaţia de restituire.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">
+									<hi rend="italic">JUR.</hi>
+								</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>În delictul de <hi rend="bold">abuz de încredere</hi>, când
+									valoarea pretinsă achitată excede suma de 150 lei vechi, proba
+									testimonială e inadmisibilă, ea nu se poate face decât printr-un
+									act scris. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75ac80c8-155d-6764-33cf-d1bba6ea6740">cod.
+										pen</ptr>
+									<date>1864</date>
+									<citedRange>273</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Disposițiunile art. 307 se vor aplica și la casul de <hi rend="bold">abus de încredere</hi> urmat între persoanele
+									acolo arătate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-75ac80c8-155d-6764-33cf-d1bba6ea6740">cod.
+										pen.</ptr>
+									<date>1864</date>
+									<citedRange>275</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>S-ar fi cuvenit să fii la poarta verde, pentru delictul care
+									se chiamă <hi rend="bold">abuz de încredere</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-e4715047-28e3-9067-13b6-3e5042219d18">sadov</ptr>
+									<date>1935</date>
+									<citedRange>165</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>[Scrisoarea] cuprindea câteva cuvinte tari la adresa lui Titu
+									Maiorescu; ... deși nu le socotesc nereproductibile, mă sfiesc
+									să le transcriu, ca nu cumva procedarea să treacă drept<hi rend="bold"> abuz de încredere</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-72e96c2e-120b-88bf-2d03-0c45faa875a8">ciocul</ptr>
+									<date>1946</date>
+									<citedRange>299</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abuzul de încredere</hi> săvârșit în paguba
+									avutului obștesc se pedepsește cu închisoarea corecțională de la
+									6 luni la 4 ani.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c94c1d82-7db2-7d5b-0243-8181e394776f">BO</ptr>
+									<date>1953</date>
+									<citedRange>nr. 166</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-78a4c1e3-40c4-4d95-b8fa-5e8b848994bb" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz în serviciu</term>
+							</form>
+							<def xml:id="id">delict comis de un funcționar în exercițiul
+								atribuțiilor sale de serviciu.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg"/>
+								<hi rend="italic">JUR.</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Sunt incompatibile cu calitatea de împuterniciți...
+									persoanele care, potrivit legii, au fost condamnate pentru...
+										<hi rend="bold">abuz în serviciu</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+									<date>1992</date>
+									<citedRange>271</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Tot astfel, pătrunderea agenților publici în domiciliul unei
+									persoane, în afara cazurilor ori cu nerespectarea regulilor
+									prevăzute în legi, constituie o infracțiune de care ne vom ocupa
+									mai târziu −<hi rend="bold"> abuz în serviciu </hi>contra
+									intereselor persoanelor, infracțiune prevăzută în art. 246 C.
+									pen.</quote>
+								<bibl type="unknown">
+									<ptr target="">diaconescu</ptr>
+									<date>1997</date>
+									<citedRange>250</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-28932e9d-268f-44d3-a476-7fdb182e85bc" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz de drept</term>
+							</form>
+							<def xml:id="id">delict constând în exercitarea unui drept cu
+								nesocotirea scopului său</def>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="dom" rend="usg">JUR.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Printre principalele tendințe ale Dreptului actual se poate
+									observa... o apropiere între Drept și Morală. O găsim în
+									desvoltarea dată de jurisprudență obligațiilor naturale precum
+									și în teoria <hi rend="bold">abusului de drept</hi>, creată de
+									doctrina recentă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hamangiu</ptr>
+									<date>1930</date>
+									<citedRange>8</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Referitor la instituția<hi rend="bold"> abuzului de
+										drept</hi>, în prezent se impune o sinteză între teoria
+									finalistă și teoria existenței greșelii (culpei), fără însă a se
+									confunda abuzul cu răspunderea civilă delictuală, deoarece
+									natura răspunderii generată de săvârșirea unui abuz va fi
+									determinată de însăși natura dreptului exercitat abuziv.</quote>
+								<bibl type="unknown">
+									<ptr target="">ignătescu</ptr>
+									<date>2013</date>
+									<citedRange>90</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-23334c81-0404-440d-b5cc-5131e5ca326e" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>abuz sexual</term>
+							</form>
+							<def xml:id="id">delict constând în întreținere de relații sexuale
+								impuse prin constrângere fizică sau psihică.</def>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="dom" rend="usg">JUR.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote><hi rend="bold">Abuzul sexual</hi> este la ordinea zilei. În
+									ţări ca SUA, Canada, Ţările de Jos, Norvegia etc., deci ţări
+									bogate –, un sfert din totalul femeilor declară că au suferit de
+									abuz sexual.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown">ioanid</ptr>
+									<date>2002</date>
+									<citedRange>143</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Toate victimele <hi rend="bold">abuzului sexual</hi> suferă
+									în plan emoţional, însă numărul și gravitatea urmărilor acestui
+									tip de abuz variază de la victimă la victimă.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown">petr</ptr>
+									<date>2011</date>
+									<citedRange>353</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cc82bc0a-6cf6-426b-a940-04b78f56ad98" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>prin abuz</term>
+							</form>
+							<def xml:id="id">în mod abuziv.</def>
+							<cit type="unknown">
+								<quote>Și văzând sântele monastiri ale țerei și pe preoții servitori
+									ai religiei supuși<hi rend="bold"> prin abus</hi> a da dări la
+									visteria țerei, am suprimat aceasta ca lucru
+									necuviincios.</quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-9fe72e5e-75ae-692b-1015-2d679d4598ad">sion</ptr>
+									<date>1775</date>
+									<citedRange>121</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Comandirul, care <hi rend="bold">prin abuz </hi>va da pe
+									soldații cei buni de front între cei nedestoinici sau jumătate
+									destoinici, se va degrada.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-cbad78d2-93c9-11ce-69be-1d64335698c3">cond. </ptr>
+									<date>1852</date>
+									<citedRange>35/18</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Interpretarea bună a suferit mai mult din partea doamnei
+										Giurgea,<hi rend="bold"> printr-un abuz</hi> de
+									ingenuitate.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">arghezi</ptr>
+									<date>1913</date>
+									<citedRange>89</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote> Prin abuz şi înșelând ţara, regele şi-a însuşit întreaga
+									putere în stat. Prin<hi rend="bold"> abuz</hi> şi bătându-și joc
+									de oameni, regele m-a numit ministru al Justiţiei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-d3780af1-61da-0640-3f1c-4979664390d9">stancu</ptr>
+									<date>1958</date>
+									<citedRange>58</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>După o scurtă perioadă, practica juridică a abandonat acest
+									punct de vedere, revenind la primul, potrivit căruia ordonanţa
+									preşedinţială este admisibilă în vederea restituirii unor bunuri
+									mobile luate prin <hi rend="bold">abuz</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="unknown">ordonanță</ptr>
+									<date>1997 (1976)</date>
+									<citedRange>163</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-cc0f4f39-31d4-4e00-b8e2-184ab09dfe51" n="✦">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<term>printr-un abuz</term>
+							</form>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Încălcare a legalităţii, trecere peste anumite drepturi,
+							depăşire a unor norme, a unor reguli;</def>
 						<usg corresp="#id">
-							<seg type="dom" rend="usg">JUR.</seg>
+							<hi rend="italic">
+								<seg type="dom" rend="usg">JUR.</seg>
+							</hi>
 						</usg>
+						<def xml:id="uuid-64c82a3b-f332-4db3-a55f-2178c31268fa">faptă ilegală;</def>
+						<usg corresp="#uuid-64c82a3b-f332-4db3-a55f-2178c31268fa">
+							<seg type="sem" rend="usg">(concr.)</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-64c82a3b-f332-4db3-a55f-2178c31268fa">
+							<ptr target=" ilegalitate"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-64c82a3b-f332-4db3-a55f-2178c31268fa">
+							<ptr target="injustiţie"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-64c82a3b-f332-4db3-a55f-2178c31268fa">
+							<ptr target="catahrisis"/>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg>
+							</usg>
+						</xr>
 						<cit type="unknown">
-							<quote/>
+							<quote>Neîngrijirea și <hi rend="bold">abuzurile</hi> (catahrisurile)
+								vor fi pedepsite după toată strășnicia legilor.</quote>
 							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
+								<ptr target="#uuid-7e707efe-9547-a2e3-2bfe-49c6bb3f7015">curierul</ptr>
+								<date>1829</date>
+								<citedRange>294</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Este adevărat că acum ne silim a împuțina aceste <hi rend="bold">abuzuri</hi> prin oarecare îndeletniciri religioase.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8a597850-72bb-72fb-11ad-29c2fb278780">negulici</ptr>
+								<date>1844</date>
+								<citedRange>77/9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Românii numai aşa vor fi mulţumiţi şi vor sprigini ministeriul,
+								dacă s-o da Cancelaria în mâna de român, având odată şi noi o bază
+								şi un spriginitoriu drept naintea Împăratului, care să descoperă
+									toate<hi rend="bold"> abuzele</hi>.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
+									contemp</ptr>
+								<date>1861</date>
+								<citedRange>141</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> În jurispr. e micşiorarea substanţei unui lucru.<hi rend="bold">
+									Abusul</hi> poate fi în fiinţa lucrului (la lucruri consumibili)
+								s. numai pentru proprietar (precum la bani).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange>16</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Țeara era datoare să dea Turciei... preste 439.500, sumă
+								importantă care țeara trebuea să o plătească pe lângă spesele atât
+								de sporite ale administrațiunei și justiției, sporite prin
+								creațiunea de lefi, cari în mintea lui Alexandru Ipsilante aveau să
+								împuțineze <hi rend="bold">abuzurile</hi> funcționarilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-891682ce-4df6-6905-a0e7-fbdf8df3503e">urechia</ptr>
+								<date>1891</date>
+								<citedRange>115</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acestui<hi rend="bold"> abuz </hi>și acestei încercări de a
+								angaja pe scriitori în serviciul unuia sau altuia dintre partidele
+								politice trebuie să se pună capăt.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f9011b58-45a1-3f7c-89ab-e08c129a2cc0">chendi</ptr>
+								<date>1907</date>
+								<citedRange>180</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Față cu manifestările tot mai accentuate de nemulțumire, din
+								sânul chiar al boerimii celei mari conducătoare s-au ridicat glasuri
+								împotriva <hi rend="bold">abuzurilor</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e81deab4-1eab-8865-8bb7-ac54215747df">filitti</ptr>
+								<date>1929</date>
+								<citedRange>30</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu vremea, oamenii liberi... au devenit pradă <hi rend="bold">abuzului</hi>, au devenit singurul element impozabil.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f2f9ee56-5823-006b-3b81-e5fc3657080e">sadov</ptr>
+								<date>1937</date>
+								<citedRange>134</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>E mai probabil că o grea criză se abătuse asupra pieței
+								Botoșanilor, cauzată de ocupația rusească și depopularea țării
+									prin<hi rend="bold"> abuzurile</hi> și cumplitele jafuri ale
+								armatei de ocupație.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavl</ptr>
+								<date>1939</date>
+								<citedRange>206</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Întorcând foaia, iobagii se plâng de darea împăratului, de
+								metodele de încasare, execuțiile, <hi rend="bold">abuzurile</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9e93481b-0603-5bd6-632c-616a12db8454">prodan</ptr>
+								<date>1944</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Termenul oficial, „Das Toleranzpatent” (13 octombrie 1871),
+								introduce în ideologia și limbajul epocii un element efectiv nou,
+								modern, în contrast evident cu un întreg trecut de <hi rend="bold">abuzuri</hi> și persecuții religioase.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+								<date>2005 (†) </date>
+								<citedRange>36</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -361,41 +910,99 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="writing">
+					<oVar>abus</oVar>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenar</ptr>
+						<date>1840 </date>
+						<citedRange/>
+					</bibl>
+				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
-						<mood value="ind."/>
-						<tns value=""/>
-						<per value=""/>
-						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abuzuri</number>
+					</form><form type="grammatical-information-for-plural" corresp="">
+						<number>abuze</number>
+						<usg><seg type="time" rend="usg">înv.</seg>
+							<seg type="plev" rend="usg">rar</seg></usg>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg/>
 					<def/>
 					<gramGrp>
 						<pos value="s."/>
-						<gen value="f."/>
+						<gen value=""/>
 						<number value=""/>
 						<case value=""/>
 						<subc value=""/>
 					</gramGrp>
 				</re>
-				<re type="lexical-variant-section">
-					<def/>
-					<gramGrp>
-						<pos value=""/>
-					</gramGrp>
-				</re>
 				<etym cert="high">
-					<idno type="comp"/>
+					<idno type="element.extern-trimitere-După"/><term xml:lang="fr" type="unknown" subtype="unknown">abus</term>
 				</etym>
 				<etym cert="high">
-					<idno type="lat"/>
+					<idno type="element.extern-trimitere-După"/><term xml:lang="la" type="unknown" subtype="unknown">abusus</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-84326128-616f-547d-0a10-20af3b25a725">zamfirescu</ptr>
-						<date/>
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenar</ptr>
+						<date>1840</date>
+						<citedRange>s. v. <hi rend="italic">abus</hi></citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown"><ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">DN</ptr><date>1966</date><hi rend="superscript"/></bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-98fc6a0b-5bb5-876d-2413-b26fbba82e4e">D. Dr.</ptr>
+						<date>1983</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831">MD</ptr>
+						<date>1986</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d. dr. m</ptr>
+						<date>1997</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12c5f9cd-0e02-925e-64ff-bfb5790a32bc">d. dro</ptr>
+						<date>2000</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d. dr. civ</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dic</ptr>
+						<date>2011</date>
 						<citedRange/>
 					</bibl>
 				</note>

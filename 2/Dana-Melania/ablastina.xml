@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-53705286-bccd-4f37-9030-e13c9b0f34ea" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T18:15:18+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablastină</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLASTÍNĂ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a13d85b7-3959-4eeb-be2a-f44f4bc48255" n="">
+						<def xml:id="uuid-b9352426-d07e-4b32-bf41-3a0a5866f9a3">Anticorp care are
+							proprietatea de a opri înmulţirea microorganismelor prin blocarea
+							diviziunii celulare a acestora. </def>
+						<usg corresp="#uuid-b9352426-d07e-4b32-bf41-3a0a5866f9a3">
+							<seg type="dom" rend="usg">MED. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medi</ptr>
+								<date>1969</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4b815662-2645-4619-876d-507702f94ad5" n="">
+						<def xml:id="uuid-abcba3f1-a6d5-4db0-92cf-50fe6c2b655b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">ablastine</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -181,7 +181,7 @@
 							<bibl type="unknown">
 								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">alr</ptr>
 								<date>&lt;1930-1937&gt;</date>
-								<citedRange>MN 3 911/182, 405, 666, 987</citedRange>
+								<citedRange>MN p. 142/3 911/182, 405, 646, 666, 987</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -210,10 +210,7 @@
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
 						<number>abajururi</number>
-					</form>
-				</form>
-				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					</form><form type="grammatical-information-for-plural" corresp="">
 						<number>abajure</number>
 						<usg><seg type="plev" rend="usg">rar</seg></usg>
 					</form>
@@ -224,7 +221,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
-						<citedRange>MN 3911/182</citedRange>
+						<citedRange>MN p. 142/3911/182</citedRange>
 					</bibl>
 					<gramGrp>
 						<pos value="s."/>
@@ -240,7 +237,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
-						<citedRange>MN 3911/405</citedRange>
+						<citedRange>MN p. 142/3911/405</citedRange>
 					</bibl>
 					<gramGrp>
 						<pos value="s."/>
@@ -256,7 +253,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
-						<citedRange>MN 3911/987</citedRange>
+						<citedRange>MN p. 142/3911/987</citedRange>
 					</bibl>
 					<gramGrp>
 						<pos value="s."/>
@@ -268,7 +265,7 @@
 				</re>
 				<re type="lexical-variant-section">
 					<usg><seg type="register style" rend="usg">reg.</seg></usg>
-					<def>bujuór</def>
+					<def>bjuór</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>

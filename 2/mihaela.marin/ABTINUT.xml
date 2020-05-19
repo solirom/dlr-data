@@ -125,9 +125,7 @@
 				</form>
 				<etym cert="high">
 					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
-					<note type="unknown" n="unknown" cert="high">
-						<term/>
-					</note></etym>
+					<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>

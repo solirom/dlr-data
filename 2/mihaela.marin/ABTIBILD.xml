@@ -339,9 +339,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abziehbild</term>
-					<note type="unknown" n="unknown" cert="high">
-						<term/>
-					</note></etym>
+					<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>

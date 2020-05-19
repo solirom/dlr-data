@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6912d87a-78e9-4b9b-9412-efe36d15e0e8" version="3.3.0" source="0.1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-713176f5-e677-41e4-b5c5-708c7a01f55c" version="3.3.0" source="0.1">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>Dana-Melania</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-02-18T13:45:55+0200"/>
+				<date when-iso="2020-05-08T10:44:02+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,19 +24,15 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="2">abar</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁR</stress>
+					<orth n="">abatoriu</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABATÓRIU</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="s."/>
-					<gen value="n."/>
-					<number value=""/>
-					<case value=""/>
-					<subc value=""/>
+					<pos value=""/>
 				</gramGrp>
-				<ptr type="trimitere" target="habar"/>
+				<ptr type="trimitere" target="abator"/>
 			</entry>
 		</body>
 	</text>

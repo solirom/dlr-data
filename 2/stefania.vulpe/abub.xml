@@ -132,11 +132,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="cuvânt.internațional"/><term xml:lang="" type="Cuv. ebr." subtype="unknown"/>
-					<note type="uuid-9d0f4561-7312-3d4c-8db5-119c6a852071" n="unknown" cert="high">
-						<usg/>
-						<term xml:lang="fr" type="unknown" subtype="unknown">abub</term>
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-					</note>
+					<note>abub</note>
 				</etym>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/>

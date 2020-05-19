@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ad46c1ed-7af1-41c3-83e3-6be0a0791d2d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T23:10:31+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abzicere</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABZÍCERE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value="sg."/>
+					<case value="gen.-dat. și"/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-6babebf7-20d9-4ee3-a0bd-11a997f3db43" n="">
+						<sense xml:id="uuid-16fd766f-b961-4793-99db-f0e226679062" n="1.">
+							<def xml:id="id">Demisie.</def>
+							<usg corresp="#id"><seg type="time" rend="usg">Înv</seg>. și<seg type="register style" rend="usg"> pop.</seg></usg>
+							<cit type="unknown">
+								<quote>Acolo, în bibliotecă, între alte momentoase acte originali,
+									de neamul nostru atârnătoare, cari încă nu s-au publicat, se mai
+									află și protocolul orig[inal] ultim al ep[isco]pului Clain, în
+									care sunt cuprinse cauzele <hi rend="bold">abzicerei</hi> sale. </quote>
+								<bibl type="ap.">
+									<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">b.
+										contemp.</ptr>
+									<date>1874</date>
+									<citedRange>332</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Vă rog ca: a) să binevoiți a-mi primi, respective a face să
+									mi se primească<hi rend="bold"> abzicerea</hi> din casariat și
+									b)... să nu mă considerați mai departe membru al Societății
+									Teatrale Române.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+									<date>1931</date>
+									<citedRange>104</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-6154c115-2c8e-48b9-bd89-d7ba82eb4acd" n="2.">.<def xml:id="id">Renunțare la ceva.</def><usg corresp="#id"><seg type="time" rend="usg">Înv.</seg></usg><cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit></sense>
+						<def xml:id="uuid-f4766b40-5db3-4867-96fe-c9b3d20fb9e0">Acțiunea de a abzice
+							și rezultatul ei.</def>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b8f7c265-de08-442e-ae25-2bb9e0ea5f5f" n="">
+						<def xml:id="uuid-a5435780-d114-45ef-b88d-62f2d32d6cf1"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+						<case value="gen.-dat. și">abzicerei</case>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					<def>abzâcere</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-0f8326a5-0338-3187-6e7b-561186dc9b97">Teaha</ptr>
+						<date>1961</date>
+						<citedRange>127</citedRange>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="Abzice"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+						<date>1959</date>
+						<citedRange>nr. 3</citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

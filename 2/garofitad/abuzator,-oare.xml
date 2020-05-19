@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-640b7ce6-18a8-4efd-8241-dbebd86241ab" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T16:02:53+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuzator, -oare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZATÓR, -OÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2f424bea-c57f-416a-b2e8-802089cd920e" n="">
+						<def xml:id="uuid-f8467594-5283-45f0-bfc6-53feb8b7dbfb">Persoană care comite
+							abuzuri (3).</def>
+						<usg corresp="#uuid-f8467594-5283-45f0-bfc6-53feb8b7dbfb">
+							<hi rend="italic">
+								<seg type="dom" rend="usg">JUR.</seg>
+							</hi>
+						</usg>
+						<cit type="unknown">
+							<quote> Când un om subtilizează o valoare ce i s-a încredințat și caută
+								să nu dea seama de ea, se numește <hi rend="bold">abuzator</hi> de
+								încredere.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f8d87ce-0ebb-9df5-4927-8bd1304d58a8">CARAGIALE</ptr>
+								<date>1885</date>
+								<citedRange>800</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Justiția nu poate să-și facă datoria, pentru că <hi rend="bold">abuzatorii </hi>și mituiții, de la notarul de sat până la
+								treptele cele mai nalte administrative, sunt organizați și
+								constituiți într-un fel de bandă împrăștiată pe tot pământul
+								românesc.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">EMINESCU</ptr>
+								<date>1879</date>
+								<citedRange>258</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sindromul Stockholm, cunoscut în psihologie ca fenomenul prin
+								care victima exprimă adulaţie, gratitudine şi alte sentimente
+								pozitive faţă de <hi rend="bold">abuzator</hi>, aparent iraţional,
+								în lumina pericolului şi a riscurilor suportate de către victimă
+								(descoperit iniţial la ostatici). </quote>
+							<bibl type="unknown">
+								<ptr target="unknown">Hotărâri</ptr>
+								<date>2011</date>
+								<citedRange>64</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8c9025e2-d0c0-4aa5-9d53-6a85aaa3e75b" n="">
+						<def xml:id="uuid-2ba631a3-1c7b-4253-be35-b38e290ec54c"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abuzatori, -oare</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abuza"/><term xml:lang="" type="sufix" subtype="unknown">-tor</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

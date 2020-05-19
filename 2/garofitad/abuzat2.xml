@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5488fa4f-d6af-4253-aada-17bf30e3b423" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T00:46:42+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuzat2, -ă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZÁT2, -Ă</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-8612a553-3016-4711-9018-e2ebc47a0e28" n="1.">
+						<sense xml:id="uuid-c8e05fe7-b0ba-4112-95fb-c0939945c93c" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="sem" rend="usg">P. ext.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Mitropolia, cu prea cunoscuta ospitalitate românească, uneori
+										<hi rend="bold">abuzată</hi>, i-a împrumutat comunităţii
+									temporar altarul bisericii brâncoveneşti. </quote>
+								<bibl type="unknown">
+									<ptr target="unknown">arghezi</ptr>
+									<date>1947</date>
+									<citedRange>1328</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-488bd2ff-d16a-4eda-a9ef-f3c243269e2d">Care a fost supus
+							abuzului. </def>
+						<cit type="unknown">
+							<quote>În această privință, nouă ne pare că în poeziile române de astăzi
+								sunt mai ales trei imagini așa de uzate și <hi rend="bold">abuzate</hi>, încât poeții cei tineri ar face bine să se
+								ferească de ele: aceste sunt florile, stelele și filomelele.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-287ad18f-8716-111c-6c06-1a4dcfcb6dcd">maiorescu</ptr>
+								<date>1867</date>
+								<citedRange>24</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>E dureros a vedea limba între atâta <hi rend="bold">abuzată
+								</hi>și schimosită.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e7df1e03-8d84-73e0-6bee-95514c7c5efa">familia</ptr>
+								<date>1872</date>
+								<citedRange>322</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-fa4d2e04-8e05-41b3-a741-8e1f9138396d" n="">
+						<def xml:id="id">Care a fost agresat, violat.</def>
+						<usg corresp="#id">(<seg type="hint" rend="usg">Despre persoane</seg>)</usg>
+						<cit type="unknown">
+							<quote>În privinţa formelor de violenţă, din raport a reieşit că 45% din
+								femei se consideră abuzate verbal, 29%<hi rend="bold"> abuzate</hi>
+								fizic şi 7% abuzate sexual de către partenerul actual sau de un
+								ex-partener la un moment dat în viaţa lor.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">roth</ptr>
+								<date>2005</date>
+								<citedRange>281</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Uneori copilul abuzat refuză să-și schimbe hainele de faţă cu
+								alte persoane (o pudoare excesivă), alteori face o obsesie din a se
+								spăla și a fi curat (are sentimentul că ceea ce i s-a întâmplat l-a
+								„murdărit“), din a fi un copil bun și ascultător.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">petrea</ptr>
+								<date>2011</date>
+								<citedRange>352</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Primăria sare în ajutorul victimelor<hi rend="bold">
+								abuzate</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-857a718c-e926-4ba7-8a0e-e0a1ffd27013" n="">
+						<def xml:id="uuid-e3e32adf-bcc3-4489-abcd-c5b4cef1d38a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar> abusat, -ă.</oVar>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number> abuzaţi, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abuza"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DIC</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

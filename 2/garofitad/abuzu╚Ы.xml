@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a9ad9623-a937-4509-8f0b-c990b1e3255a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T21:38:02+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuzuț</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZÚȚ </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-22127804-1ec9-47bb-bd28-b47b61eb43f5" n="">
+						<def xml:id="uuid-c74b19a5-dc99-4438-844d-aa52660ffd07">Diminutiv al lui
+							abuz.</def>
+						<usg corresp="#uuid-c74b19a5-dc99-4438-844d-aa52660ffd07"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg></usg>
+						<cit type="unknown">
+							<quote>Apoi pe protopopi d-ta încă nu-i socotești oameni, din partea
+								cărora să se întâmple câte un abuzuț?</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
+									Contemp.</ptr>
+								<date>1846</date>
+								<citedRange>CIPARIU, 256</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6ab6cd45-5c9d-462c-8919-753f8ce9f33e" n="">
+						<def xml:id="uuid-ce249017-f31c-4466-b59c-df07a7f4b58e"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="abuz"/><term xml:lang="" type="sufix" subtype="unknown">-uț</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

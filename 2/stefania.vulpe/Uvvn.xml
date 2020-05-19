@@ -33,8 +33,15 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-67bcc82e-a260-4451-8f9e-b7141a9d60aa" n="">
+					<sense xml:id="uuid-67bcc82e-a260-4451-8f9e-b7141a9d60aa" n="1.">
 						<def xml:id="uuid-a24a6d7d-b1c2-443f-add5-7f751ad4af44"/>
+						<def xml:id="uuid-07f3d95f-ce72-4759-bbe6-08156c24636b">care bla bla</def>
+						<xr type="syn" corresp="#uuid-07f3d95f-ce72-4759-bbe6-08156c24636b">
+							<ptr target="caiet"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-a24a6d7d-b1c2-443f-add5-7f751ad4af44">
+							<ptr target="carte"/>
+						</xr>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -83,6 +90,11 @@
 						<date/>
 						<citedRange/>
 					</bibl>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term/>
+					</form>
 				</form>
 				<etym cert="high">
 					<idno type="unknown"/>

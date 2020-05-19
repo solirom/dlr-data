@@ -65,9 +65,7 @@
                 <etym cert="high">
                     <idno type="formație.internă-trimitere-Din-etimon.atestat"/>
                     <ptr targetLang="" type="unknown" subtype="unknown" target="acetil"/>
-                    <note type="unknown" n="unknown" cert="high">
-                        <term/>
-                    </note>
+                    <note/>
                 </etym>
             </entry>
         </body>

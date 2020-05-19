@@ -1,14 +1,13 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d8d58119-c7d6-4f8c-a45b-b8b4255111fa" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4d277868-c0e5-4849-9c35-0b14ca3dba21" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>Dana-Melania</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Romanian Academy, Philology and Literature Section</publisher>
-				<idno type="project">dlr2</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<p>born digital</p>
@@ -16,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2019-12-11T14:52:04+0200"/>
+				<date when-iso="2020-05-01T17:31:28+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -25,38 +24,38 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">abalț</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁLȚ</stress>
+					<orth n="">abluenție</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLUÉNŢIE</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
 					<pos value="s."/>
-					<gen value="m."/>
+					<gen value="f."/>
 					<number value=""/>
 					<case value=""/>
 					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-788049f4-6d31-4cd6-ab85-62a741ce3fdc" n="">
-						<def xml:id="uuid-5990da0e-27cf-4d9f-bc45-dad0147264c0">Cecel.</def>
-						<usg corresp="#uuid-5990da0e-27cf-4d9f-bc45-dad0147264c0">
-							<seg type="geo" rend="usg">Reg.</seg>
-						</usg>
+					<sense xml:id="uuid-462ca081-c3ed-4b40-b593-2fde4c674daf" n="">
+						<def xml:id="uuid-d36f2f4a-2ab6-4ff3-af83-791138ed1eb3"/>
+						<xr type="syn" corresp="#uuid-d36f2f4a-2ab6-4ff3-af83-791138ed1eb3">
+							<ptr target="Purgativ"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
 						<cit type="unknown">
-							<quote>Mai demult înșira icușari, atârna dă ureche cu <hi rend="bold">abalți</hi>.</quote>
+							<quote>Abluenție [=] doctorie de curățenie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9a8f6d82-2c14-0c97-6277-b8913de17617">alr
-									(s</ptr>
-								<date>&lt;1929–1938&gt;</date>
-								<citedRange>h 1 201</citedRange>
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange>13</citedRange>
 							</bibl>
 						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-7564e18e-1c4c-40b2-a0c4-8fcf5d162d9c" n="">
-						<def xml:id="uuid-5eced400-16ad-41b2-bc3e-b12a18646e80"/>
+					<sense xml:id="uuid-3fdfb181-972b-48cf-ba39-9bf5463386cc" n="">
+						<def xml:id="uuid-152b179b-d023-4f1f-b660-ea74b7079a0b"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -69,11 +68,11 @@
 				</dictScrap>
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
-						<number>abalți</number>
+						<number>?</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.necunoscut"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abluentia</term>
 				</etym>
 			</entry>
 		</body>

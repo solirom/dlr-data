@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2742703f-126b-41a9-b2f5-ba91edbbd213" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T16:04:39+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablaidaci</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLAIDACI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-58560000-9868-41a7-9d45-88d76963df6c" n="">
+						<def xml:id="uuid-0b5da658-c135-4a0e-a6a3-00344100c10b">Populație antică
+							aparținând unui trib celtic care trăia în Peninsula Iberică, înainte de
+							cucerirea romană. </def>
+						<usg corresp="#uuid-0b5da658-c135-4a0e-a6a3-00344100c10b"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>La ceeaşi familie cu locuitorii cei vechi ai Uxamei şi ai
+								Saguntului aparţineau şi neamurile sau ginţile numite în
+								inscripţiunile romane ambirodaci, <hi rend="bold">ablaidaci</hi>,
+								longeidoci, arronidaeci. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c5bdcd7-6391-1369-9095-ea3dbe953772">dacia</ptr>
+								<date>1911 (†)</date>
+								<citedRange>701</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-6bee4745-dee8-4bb8-bd4a-52952a0a5c25" n="">
+						<def xml:id="uuid-18314101-d4fe-440a-a079-9ff56efde4e7"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">Ablaidaci, -orum</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

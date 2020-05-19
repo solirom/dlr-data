@@ -80,9 +80,7 @@
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/>
                     <term xml:lang="de" type="unknown" subtype="unknown">abteil</term>
-					<note type="unknown" n="unknown" cert="high">
-						<term>„secțiune”</term>
-					</note>
+					<note>„secțiune”</note>
                 </etym>
 			</entry>
 		</body>

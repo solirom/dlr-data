@@ -199,10 +199,7 @@
 				</dictScrap>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/><term xml:lang="tr" type="unknown" subtype="unknown">beter</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„mai rău”</term>
-					</note></etym>
+					<note>„mai rău”</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>

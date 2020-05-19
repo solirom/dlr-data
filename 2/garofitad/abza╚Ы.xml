@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-e647a71f-eb0e-43ce-afa9-002a5ddd80a5" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T22:15:11+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abzaț</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABZAȚ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2e822079-0c0c-4405-92e0-4d2eabdd5392" n="1.">
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<term>Corn în abzaț</term>
+						</form>
+						<def xml:id="uuid-3bb6bc9d-e419-41c6-9128-b0eba6407618">= căprior la
+							acoperișul casei, care iese în afara peretelui aproximativ 80 cm. </def>
+						<usg corresp="#uuid-3bb6bc9d-e419-41c6-9128-b0eba6407618">
+							<hi rend="italic">
+								<seg type="dom" rend="usg">CONSTR.</seg>
+							</hi>
+							<seg type="geo" rend="usg"> Prin Bucov.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-a5ab6f5f-23f8-6945-7370-ff75c44640d9">arvinte</ptr>
+								<date>1957</date>
+								<citedRange>137</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-be3366a1-de4d-41c0-9855-fcce4074909b" n="2.">
+						<def xml:id="id">Spaţiu alb care marchează începutul de alineat.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">
+								<hi rend="italic">TIPOGR.</hi>
+							</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+								<date>1974</date>
+								<citedRange>471</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-53522b08-f814-4aa2-a80c-673dc18d1abb" n="">
+						<def xml:id="uuid-0cb1dd98-8aca-43d0-974b-1993c2de7eb9"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Absatz</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-După"/><term xml:lang="de" type="unknown" subtype="unknown">absätzig „care iese în afară”</term>  (1958 St. C. Şt.
+					Iaşi, nr. 1–2, 174).<note/></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+						<date>1974</date>
+						<citedRange>131</citedRange>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

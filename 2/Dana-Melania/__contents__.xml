@@ -12,7 +12,7 @@
     <resource type="XMLResource" name="abdominal.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-24T06:45:59+02:00" modified="2020-02-24T08:11:45+02:00" filename="abdominal.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abatere.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-16T04:44:29+02:00" modified="2020-04-10T06:31:58+03:00" filename="abatere.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abatere.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-16T04:44:29+02:00" modified="2020-04-29T08:51:28+03:00" filename="abatere.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abalar.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-31T06:34:59+02:00" modified="2020-02-03T08:19:01+02:00" filename="abalar.xml" mimetype="application/xml">
@@ -27,7 +27,7 @@
     <resource type="XMLResource" name="abeliti.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-02T04:36:39+02:00" modified="2020-03-02T05:36:45+02:00" filename="abeliti.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abdicant.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-17T07:11:07+02:00" modified="2020-02-18T04:56:40+02:00" filename="abdicant.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abdicant.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-17T07:11:07+02:00" modified="2020-04-15T04:35:46+03:00" filename="abdicant.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abdominalgie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-25T05:29:12+02:00" modified="2020-02-25T05:50:54+02:00" filename="abdominalgie.xml" mimetype="application/xml">
@@ -51,7 +51,7 @@
     <resource type="XMLResource" name="abdominoscopie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-25T06:21:53+02:00" modified="2020-02-25T06:25:38+02:00" filename="abdominoscopie.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abarlau.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-03T05:29:41+02:00" modified="2020-02-03T07:00:59+02:00" filename="abarlau.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abarlau.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-03T05:29:41+02:00" modified="2020-05-19T04:40:58+03:00" filename="abarlau.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abduce.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-25T06:26:13+02:00" modified="2020-03-04T06:49:36+02:00" filename="abduce.xml" mimetype="application/xml">
@@ -93,13 +93,13 @@
     <resource type="XMLResource" name="abehertui.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-27T06:11:01+02:00" modified="2020-02-27T06:19:02+02:00" filename="abehertui.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abbevilian.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-04T07:34:36+02:00" modified="2020-02-04T07:51:36+02:00" filename="abbevilian.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abbevilian.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-04T07:34:36+02:00" modified="2020-04-29T05:52:38+03:00" filename="abbevilian.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abehertung.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-27T06:19:34+02:00" modified="2020-03-27T06:28:14+02:00" filename="abehertung.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abelia.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-27T06:42:18+02:00" modified="2020-02-27T07:19:57+02:00" filename="abelia.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abelia.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-27T06:42:18+02:00" modified="2020-05-19T04:40:58+03:00" filename="abelia.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abavant.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-27T06:17:01+02:00" modified="2020-01-29T05:44:34+02:00" filename="abavant.xml" mimetype="application/xml">
@@ -168,7 +168,7 @@
     <resource type="XMLResource" name="aberoscop.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-10T07:54:51+02:00" modified="2020-03-10T08:28:51+02:00" filename="aberoscop.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abes.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-10T08:58:56+02:00" modified="2020-03-10T09:30:38+02:00" filename="abes.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abes.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-10T08:58:56+02:00" modified="2020-05-19T04:40:58+03:00" filename="abes.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abesiv.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-10T08:59:58+02:00" modified="2020-03-10T09:04:03+02:00" filename="abesiv.xml" mimetype="application/xml">
@@ -186,10 +186,10 @@
     <resource type="XMLResource" name="abhaziana.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-10T10:49:34+02:00" modified="2020-03-12T06:37:13+02:00" filename="abhaziana.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abate2.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-07T04:13:35+02:00" modified="2020-04-01T09:21:38+03:00" filename="abate2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abate2.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-07T04:13:35+02:00" modified="2020-05-19T04:40:58+03:00" filename="abate2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abate1.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-07T03:43:16+02:00" modified="2020-02-20T06:46:31+02:00" filename="abate1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abate1.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-07T03:43:16+02:00" modified="2020-04-27T07:30:49+03:00" filename="abate1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abhazic.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-12T06:39:38+02:00" modified="2020-03-12T06:44:40+02:00" filename="abhazic.xml" mimetype="application/xml">
@@ -228,7 +228,7 @@
     <resource type="XMLResource" name="abderit.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-11T08:15:05+02:00" modified="2020-02-11T09:04:26+02:00" filename="abderit.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abdomen.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-20T04:51:52+02:00" modified="2020-04-09T07:10:20+03:00" filename="abdomen.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abdomen.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-02-20T04:51:52+02:00" modified="2020-04-27T09:19:28+03:00" filename="abdomen.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abhorare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-03-12T07:41:22+02:00" modified="2020-03-12T07:46:11+02:00" filename="abhorare.xml" mimetype="application/xml">
@@ -258,7 +258,7 @@
     <resource type="XMLResource" name="abazie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-29T05:48:07+02:00" modified="2020-01-29T06:04:08+02:00" filename="abazie.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abazin.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-29T06:04:32+02:00" modified="2020-04-10T06:24:46+03:00" filename="abazin.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abazin.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-29T06:04:32+02:00" modified="2020-04-27T04:19:56+03:00" filename="abazin.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abagiua.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-01-29T06:58:12+02:00" modified="2020-01-29T07:04:53+02:00" filename="abagiua.xml" mimetype="application/xml">
@@ -330,7 +330,7 @@
     <resource type="XMLResource" name="abilita.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-01T08:53:50+03:00" modified="2020-04-01T10:12:16+03:00" filename="abilita.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abilitare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-01T10:12:30+03:00" modified="2020-04-01T11:51:10+03:00" filename="abilitare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abilitare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-01T10:12:30+03:00" modified="2020-04-22T03:03:10+03:00" filename="abilitare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abilitat.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-01T11:51:25+03:00" modified="2020-04-01T11:54:54+03:00" filename="abilitat.xml" mimetype="application/xml">
@@ -396,7 +396,7 @@
     <resource type="XMLResource" name="abis.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-06T08:10:36+03:00" modified="2020-04-07T05:40:34+03:00" filename="abis.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abisa.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T05:43:14+03:00" modified="2020-04-07T05:59:34+03:00" filename="abisa.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abisa.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T05:43:14+03:00" modified="2020-04-15T09:50:37+03:00" filename="abisa.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abisalism.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T09:19:48+03:00" modified="2020-04-07T09:28:39+03:00" filename="abisalism.xml" mimetype="application/xml">
@@ -405,7 +405,7 @@
     <resource type="XMLResource" name="abisalitate.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T09:29:37+03:00" modified="2020-04-07T09:47:29+03:00" filename="abisalitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abisal.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T09:47:55+03:00" modified="2020-04-09T09:52:19+03:00" filename="abisal.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abisal.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-07T09:47:55+03:00" modified="2020-05-19T04:40:58+03:00" filename="abisal.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abisin.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-09T09:53:53+03:00" modified="2020-04-10T09:52:39+03:00" filename="abisin.xml" mimetype="application/xml">
@@ -432,10 +432,265 @@
     <resource type="XMLResource" name="abitant.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-10T08:13:04+03:00" modified="2020-04-10T08:19:11+03:00" filename="abitant.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abitatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-10T08:20:03+03:00" modified="2020-04-10T09:14:52+03:00" filename="abitatie.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abitatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-10T08:20:03+03:00" modified="2020-05-19T04:40:58+03:00" filename="abitatie.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abitir.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-10T09:15:35+03:00" modified="2020-04-10T09:49:22+03:00" filename="abitir.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abitir.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-10T09:15:35+03:00" modified="2020-05-19T04:40:58+03:00" filename="abitir.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abiturient.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T03:30:48+03:00" modified="2020-04-15T04:35:04+03:00" filename="abiturient.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abiziana.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T04:12:13+03:00" modified="2020-05-19T04:40:58+03:00" filename="abiziana.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abject.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T04:39:25+03:00" modified="2020-04-15T06:20:32+03:00" filename="abject.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjecta.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T09:26:41+03:00" modified="2020-04-15T09:52:11+03:00" filename="abjecta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjectare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T09:52:58+03:00" modified="2020-04-22T03:02:31+03:00" filename="abjectare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjectie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T09:57:09+03:00" modified="2020-04-15T11:32:11+03:00" filename="abjectie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjudeca.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T02:46:49+03:00" modified="2020-04-22T03:01:14+03:00" filename="abjudeca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjudecare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T03:01:37+03:00" modified="2020-04-22T03:28:27+03:00" filename="abjudecare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjudecat.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T03:28:54+03:00" modified="2020-04-22T03:40:38+03:00" filename="abjudecat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjunctiune.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T03:41:12+03:00" modified="2020-04-22T03:48:42+03:00" filename="abjunctiune.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjunge.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T03:49:18+03:00" modified="2020-04-22T03:56:11+03:00" filename="abjunge.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjura.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-22T03:56:31+03:00" modified="2020-04-23T07:30:37+03:00" filename="abjura.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjurare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T02:06:46+03:00" modified="2020-04-27T02:59:16+03:00" filename="abjurare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjurat%201.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T03:08:23+03:00" modified="2020-04-27T03:16:46+03:00" filename="abjurat 1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjurat%202%20.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T03:15:04+03:00" modified="2020-04-27T03:21:06+03:00" filename="abjurat 2 .xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjuratie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T03:22:28+03:00" modified="2020-04-27T04:13:05+03:00" filename="abjuratie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abjurator.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T04:14:28+03:00" modified="2020-04-27T04:57:04+03:00" filename="abjurator.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablaca.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T05:42:50+03:00" modified="2020-04-27T06:05:05+03:00" filename="ablaca.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablacta.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T06:28:10+03:00" modified="2020-04-27T07:48:57+03:00" filename="ablacta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablactare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T07:49:58+03:00" modified="2020-04-27T07:58:24+03:00" filename="ablactare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablactat.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T07:58:45+03:00" modified="2020-04-27T08:03:35+03:00" filename="ablactat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablactatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T08:05:20+03:00" modified="2020-04-27T08:58:05+03:00" filename="ablactatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablaidaci.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T09:04:39+03:00" modified="2020-04-27T09:24:17+03:00" filename="ablaidaci.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablas.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T09:24:59+03:00" modified="2020-05-19T04:40:58+03:00" filename="ablas.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T09:26:11+03:00" modified="2020-04-27T09:33:13+03:00" filename="ablare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablastie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T10:15:45+03:00" modified="2020-04-27T11:14:53+03:00" filename="ablastie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablastina.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-27T11:15:19+03:00" modified="2020-04-27T11:17:41+03:00" filename="ablastina.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablativ%201%20.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T04:23:05+03:00" modified="2020-04-29T05:39:04+03:00" filename="ablativ 1 .xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablativ%202.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T05:40:08+03:00" modified="2020-04-29T05:58:06+03:00" filename="ablativ 2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablatival.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T06:01:17+03:00" modified="2020-04-29T06:19:47+03:00" filename="ablatival.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T08:14:48+03:00" modified="2020-04-29T09:37:32+03:00" filename="ablatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablaut.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T09:37:48+03:00" modified="2020-04-29T09:48:11+03:00" filename="ablaut.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablaz.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T09:48:45+03:00" modified="2020-04-29T09:51:45+03:00" filename="ablaz.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablagau.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-29T09:52:22+03:00" modified="2020-04-29T10:00:00+03:00" filename="ablagau.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablefarie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T01:15:03+03:00" modified="2020-04-30T01:26:14+03:00" filename="ablefarie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablega.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T01:26:29+03:00" modified="2020-04-30T01:44:43+03:00" filename="ablega.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablegare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T01:45:06+03:00" modified="2020-04-30T01:53:45+03:00" filename="ablegare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablegat.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T01:54:12+03:00" modified="2020-04-30T02:31:14+03:00" filename="ablegat.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablegatorxml.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T02:32:35+03:00" modified="2020-05-07T01:06:59+03:00" filename="ablegatorxml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablegatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T02:40:59+03:00" modified="2020-04-30T02:54:41+03:00" filename="ablegatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablepsie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T03:33:30+03:00" modified="2020-04-30T05:24:06+03:00" filename="ablepsie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abliele.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T05:25:03+03:00" modified="2020-04-30T05:37:07+03:00" filename="abliele.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablestor.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-30T05:37:27+03:00" modified="2020-05-19T04:40:58+03:00" filename="ablestor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablet.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T09:52:10+03:00" modified="2020-05-01T09:55:40+03:00" filename="ablet.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablezi.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T09:56:04+03:00" modified="2020-05-01T10:10:20+03:00" filename="ablezi.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablezit.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T10:11:19+03:00" modified="2020-05-01T10:14:54+03:00" filename="ablezit.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablu.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T10:15:55+03:00" modified="2020-05-01T10:19:37+03:00" filename="ablu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablucrare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T10:24:48+03:00" modified="2020-05-19T04:40:58+03:00" filename="ablucrare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abluentie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T10:31:20+03:00" modified="2020-05-01T10:37:23+03:00" filename="abluentie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abluinta.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-01T10:38:21+03:00" modified="2020-05-01T10:41:12+03:00" filename="abluinta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablutiune.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T00:24:33+03:00" modified="2020-05-07T00:56:07+03:00" filename="ablutiune.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablutomanie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T00:56:39+03:00" modified="2020-05-07T01:05:40+03:00" filename="ablutomanie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ablutor.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T01:07:32+03:00" modified="2020-05-07T01:14:36+03:00" filename="ablutor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abmacerare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T01:15:11+03:00" modified="2020-05-07T01:19:48+03:00" filename="abmacerare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abminti.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T01:20:10+03:00" modified="2020-05-07T01:24:42+03:00" filename="abminti.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnega.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T01:25:07+03:00" modified="2020-05-07T01:53:05+03:00" filename="abnega.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnegarexml.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T01:54:14+03:00" modified="2020-05-15T10:31:25+03:00" filename="abnegarexml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnegatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T02:19:30+03:00" modified="2020-05-07T05:30:31+03:00" filename="abnegatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnegativ.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T02:20:46+03:00" modified="2020-05-15T10:32:01+03:00" filename="abnegativ.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnegatoriu.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T02:26:44+03:00" modified="2020-05-07T02:31:27+03:00" filename="abnegatoriu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnopteza.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T05:43:37+03:00" modified="2020-05-07T05:47:28+03:00" filename="abnopteza.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnorm.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T05:53:18+03:00" modified="2020-05-07T06:53:54+03:00" filename="abnorm.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnormal.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T06:52:00+03:00" modified="2020-05-07T07:00:19+03:00" filename="abnormal.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnormalitate.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:00:38+03:00" modified="2020-05-07T07:06:10+03:00" filename="abnormalitate.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnormitate.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:06:27+03:00" modified="2020-05-07T07:44:12+03:00" filename="abnormitate.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnuta.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:44:30+03:00" modified="2020-05-07T07:50:01+03:00" filename="abnuta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnutare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:51:21+03:00" modified="2020-05-07T07:54:06+03:00" filename="abnutare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnutatie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:54:37+03:00" modified="2020-05-07T07:57:18+03:00" filename="abnutatie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abnuta%C8%9Bie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T07:58:00+03:00" modified="2020-05-07T08:02:55+03:00" filename="abnutație.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abo.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T08:03:13+03:00" modified="2020-05-07T08:09:18+03:00" filename="abo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboala.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T08:14:56+03:00" modified="2020-05-07T08:42:48+03:00" filename="aboala.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboare.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T08:36:06+03:00" modified="2020-05-07T08:59:26+03:00" filename="aboare.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abocluzie.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T08:59:52+03:00" modified="2020-05-07T09:04:38+03:00" filename="abocluzie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abodriti.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T09:04:56+03:00" modified="2020-05-07T09:20:50+03:00" filename="abodriti.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abolani.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-07T09:22:09+03:00" modified="2020-05-15T10:32:38+03:00" filename="abolani.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abola.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:09:12+03:00" modified="2020-05-08T03:11:09+03:00" filename="abola.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abateasa.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:39:44+03:00" modified="2020-05-08T03:40:49+03:00" filename="abateasa.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abateta.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:41:38+03:00" modified="2020-05-08T03:42:21+03:00" filename="abateta.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abatita.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:42:43+03:00" modified="2020-05-08T03:43:25+03:00" filename="abatita.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abatoriu.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:43:54+03:00" modified="2020-05-08T03:44:27+03:00" filename="abatoriu.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abatur.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:44:55+03:00" modified="2020-05-08T03:45:36+03:00" filename="abatur.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abatiale.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:47:19+03:00" modified="2020-05-08T03:47:52+03:00" filename="abatiale.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="abauf.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:48:25+03:00" modified="2020-05-08T03:48:54+03:00" filename="abauf.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="ab%C4%832.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:51:35+03:00" modified="2020-05-08T03:53:15+03:00" filename="abă2.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aba1.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-05-08T03:49:56+03:00" modified="2020-05-08T03:50:40+03:00" filename="aba1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

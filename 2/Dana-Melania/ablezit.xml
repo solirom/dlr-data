@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-4ca6965c-75c4-4e6c-af1e-342e2f8c3c87" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T17:11:28+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablezit</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLEZÍT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c445d36e-2114-48d7-bf25-25bf472664d4" n="">
+						<def xml:id="uuid-bff210cf-6398-442e-8b79-db15f53f1d9b"/>
+						<xr type="syn" corresp="#uuid-bff210cf-6398-442e-8b79-db15f53f1d9b">
+							<ptr target="Alungat"/>
+							<usg>
+								<seg type="geo" rend="usg">Prin Maram.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-bff210cf-6398-442e-8b79-db15f53f1d9b">
+							<ptr target="îndepărtat"/>
+							<usg>
+								<seg type="geo" rend="usg">Prin Maram.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-bff210cf-6398-442e-8b79-db15f53f1d9b">
+							<ptr target="gonit"/>
+							<usg>
+								<seg type="geo" rend="usg">Prin Maram.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">reg</ptr>
+								<date>1967</date>
+								<citedRange>109</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-dfe17762-0f24-46c6-9617-14d792f6757d" n="">
+						<def xml:id="uuid-06a76f52-10f1-4668-975b-011ffead94ff"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ableziți, -te</number>
+					</form>
+				</form>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="ablezi"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

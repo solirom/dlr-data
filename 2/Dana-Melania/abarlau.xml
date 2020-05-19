@@ -128,16 +128,10 @@
 				</re>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="hu" type="unknown" subtype="unknown">abárló</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">vas de opărit</term>
-					</note></etym>
+					<note>vas de opărit</note></etym>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="hu" type="unknown" subtype="unknown">abáló</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">vas de opărit</term>
-					</note></etym>
+					<note>vas de opărit</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>

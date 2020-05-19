@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bb5e51a8-aec6-4506-896e-9166e91335fe" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-30T08:45:12+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablegare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLEGÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-f081e986-1e09-4038-aed3-4a65d70da2be" n="">
+						<def xml:id="uuid-e5255be0-e19a-4d87-ac0b-c215e85de2b5">Acțiunea de a ablega
+							și rezultatul ei.</def>
+						<usg corresp="#uuid-e5255be0-e19a-4d87-ac0b-c215e85de2b5">
+							<seg type="time" rend="usg">Înv. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>În fine ne mai luăm cutezare a așterne cu genunchi plecați încă o
+								a doua rogaminte preaumilită aici alăturată, care se îndrepta din
+								Sibiiu de cătră mai multe notabilități romane, cu același scop leal,
+								încă înainte de <hi rend="bold">ablegarea</hi> noastră la prea nalta
+								Vostră Maiestate. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b6fd0d6a-30fe-2c02-1231-3c2a9419a514">F. M.
+									Lit.</ptr>
+								<date>1860</date>
+								<citedRange>nr. 49–50</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-634c5a65-6b89-4691-967a-ab8458d8fe20" n="">
+						<def xml:id="uuid-147dfcd4-d454-42d5-8626-0cd8cd1b1956"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="ablega"/>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

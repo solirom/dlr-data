@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-1753cc36-d600-4556-a627-deece06022b8" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T16:05:04+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abodriți</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABODRÍŢI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-debf9b8f-51ed-4c6d-98c7-477e3ffe8e31" n="">
+						<def xml:id="uuid-b5da1162-cbb3-4913-aea3-80a4c474bedf">Populație aparținând
+							unor triburi slave stabilite în sec. VI d. Hr. în regiunile din nord
+							estul Germaniei actuale.</def>
+						<usg corresp="#uuid-b5da1162-cbb3-4913-aea3-80a4c474bedf">
+							<seg type="time" rend="usg">Înv. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Carol cel Mare, bunăoară, în luptele sale cu saxonii, ... lua la
+								fiecare dată câte zece mii dintr-înșii și-i așeza în alte părți ale
+								imperiului. Iar în locul lor punea uneori slavi, ca <hi rend="bold">abodriții</hi> bunăoară.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">genez</ptr>
+								<date>1934</date>
+								<citedRange>274</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Omurtag (814–831) ... are în schimb conflicte cu francii, din
+								cauza unor triburi slave de la hotarul de nord-vest al statului său,
+								anume timocianii (din valea Timocului) şi <hi rend="bold">abodriţii</hi> şi kutcianii din Banat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ff6bd210-9993-9837-99ad-748ee9e1444c">giure</ptr>
+								<date>1935</date>
+								<citedRange>275</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-7149a98c-0b9d-43af-9f46-9308655289d0" n="">
+						<def xml:id="uuid-e90b1dee-6c97-4e5b-abf1-3c213d63f7e1"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abodriten</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

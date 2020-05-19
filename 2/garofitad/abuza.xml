@@ -1,0 +1,806 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c46cf885-4e53-4d63-a1ce-e8b30a420342" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-03-09T13:14:01+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuza</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a40b69b1-3906-40f0-8b54-ad49bb0c7abb" n="1.">
+						<sense xml:id="uuid-08df5780-651d-4e45-9fa2-973697f03aa8" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Infractorul <hi rend="bold">a abuzat</hi> o tânără.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+									<date>2011</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="uuid-9ce15bf2-e00d-41d0-9021-fc1345783c9e">A profita fizic sau
+							emoţional de cineva;</def>
+						<xr type="syn" corresp="#uuid-9ce15bf2-e00d-41d0-9021-fc1345783c9e">
+							<ptr target="a agresa"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-9ce15bf2-e00d-41d0-9021-fc1345783c9e">
+							<ptr target="a viola (3)"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Puteam, puteam, Florică, puteam, dar nu voeam. De sacra ta
+								roșință <hi rend="bold">s-abuz</hi> oricând puteam.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-db5e8b65-a6f2-468c-774d-d15328324fff">aricescu</ptr>
+								<date>1847</date>
+								<citedRange>72/16</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A, nu, fetițo! Dacă tu ești proastă, mai suntem și noi pe aici,
+								că ești minoră... Un hodorog care <hi rend="bold">abuzează</hi> de
+								naivitatea unei fete trebuie să se ocupe de ea... Scrie și-n Codul
+								penal. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2520e2f7-2d8a-9697-7975-3b7294701203">MUȘATE</ptr>
+								<date>1937</date>
+								<citedRange>346</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-e9af615b-ea30-4492-9646-9299ef2ac4db" n="2.">
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A profita de o situaţie, de un titlu sau de putere, de
+							propria influență sau de propriile drepturi.</def>
+						<cit type="unknown">
+							<quote>Austria dar<hi rend="bold"> ar fi abuzat </hi>de protecția ei,
+								aceea ce ar fi silit pe români a se arunca din nou în brațele
+								turcilor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1218469b-584b-539a-8718-05a3b41544de">bălcescu</ptr>
+								<date>&lt;1849–1852&gt;</date>
+								<citedRange>181</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Alegătorii sunt corupți și<hi rend="bold"> abuză</hi> de dreptul
+								ce li s-a dat.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d304abc6-6e26-28db-2e84-4ba72ee645a3">bolintineanu</ptr>
+								<date>1862</date>
+								<citedRange>309</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Jupânu Joe, zeul rege, sta pe tronu-i de mărire... Nu<hi rend="bold"> abusă</hi> de puterea-i, pe niciunul nu
+								gonește.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b46c815-1a2e-75ca-4a5f-4c3af897041c">orășa</ptr>
+								<date>1875</date>
+								<citedRange>38</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Colecțiunile „Românului” sunt de față spre a dovedi că aceia cari
+								au uzat și <hi rend="bold">au abuzat</hi> mai mult de libertatea
+								presei în România au fost redactorii de pe vremuri ai acestei
+								foi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">eminescu</ptr>
+								<date>1882</date>
+								<citedRange>249</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prietena mea nu <hi rend="bold">abuzează</hi> niciodată de
+								influența nemărginită ce știe bine că exercită asupră-mi.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-011accf2-56a1-56ed-6b47-67caba067a5e">caragia</ptr>
+								<date>1901</date>
+								<citedRange>306</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Cine are puterea este tentat <hi rend="bold">să abuzeze </hi>de
+								ea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">barnoschi</ptr>
+								<date>1922</date>
+								<citedRange>21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Patriotism însemnează atunci [la începutul secolului al XIX-lea]
+								dreptul rezervat boierimii naționale de a deținea și, firește,
+									de-<hi rend="bold">a abuza</hi> de putere.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-107c7352-5c9d-1f74-8547-0184a6c13eeb">filitti</ptr>
+								<date>1925</date>
+								<citedRange>14</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cele douăsprezece table au organizat un „crimen suspecti
+								tutoris”, având de scop înlăturarea tutorului ce <hi rend="bold">abuzează</hi> de puterile sale. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hamangiu</ptr>
+								<date>1930</date>
+								<citedRange>345</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abuzați</hi> în chip laș de situația în care vă
+								aflați.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f706c711-5e83-860d-7658-fcfed23c91e7">ciprian</ptr>
+								<date>1940</date>
+								<citedRange>197</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru ca <hi rend="bold">să</hi> nu <hi rend="bold">abuzeze</hi>
+								de aceste privilegii și să se proclame independenți, domnii erau
+								mutați dintr-o țară într-alta. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțetea</ptr>
+								<date>1945</date>
+								<citedRange>31</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Asta-i situația. Iar dumneata poți fi liniștit: <hi rend="bold">abuzezi</hi> de ea din toate puterile. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+									rom</ptr>
+								<date>1954</date>
+								<citedRange>nr. 6, 98</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>E prepotent, ... e bătrânul care uzează și <hi rend="bold">abuzează</hi> de calitatea sa senilă, un Geronte sublim. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-297a32e7-5f88-57ae-1cd0-4af4cf2e05be">călinescu</ptr>
+								<date>1964</date>
+								<citedRange>127</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ei vor spune că el<hi rend="bold"> a abuzat </hi>de puterea sa și
+								pentru acest abuz ei pe bună dreptate vor să-l ucidă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0b399833-3b4e-3aff-9341-1be43bdb101b">d. r.
+									Popescu</ptr>
+								<date>1968</date>
+								<citedRange>215</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Andrei n-<hi rend="bold">a abuzat</hi> niciodată de poziția mea
+								prezentă sau viitoare. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-54a2e0a9-2cfc-156a-6106-7a98cf0523ad">buzura</ptr>
+								<date>1977</date>
+								<citedRange>175</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-a010f88c-d91c-41ae-a728-a8abf944890e" n="3.">
+						<sense xml:id="uuid-409a9acf-8c3f-445c-bdf8-49ec8dd08460" n="✦">
+							<def xml:id="id">A se folosi de cineva.</def>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="sem" rend="usg">P. ext.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">argetoianu</ptr>
+									<date>1936</date>
+									<citedRange>363</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dar, deși autorul cam<hi rend="bold"> abuzează</hi> de ei [de
+									coconii prezenți în opera sa], în principiu au un rost, iar
+									stereotipia și vacuitatea lor sunt necesare, impuse de funcția
+									lor care este introductivă și ceremonioasă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-207a7a70-957b-0e18-6159-762821045fc2">paleologu</ptr>
+									<date>1978</date>
+									<citedRange>29</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>De cele mai multe ori omul e o cârpă moale, de care <hi rend="bold">abuzează</hi> toate operele de artă și, evident,
+									cele mai mediocre au cel mai constant succes.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">arghezi</ptr>
+									<date>1914</date>
+									<citedRange>178</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Profesorii pretind... că [Matei] se bate mereu cu copiii la
+									școală, că îi insultă. Probabil însă și aceia <hi rend="bold">abuzează</hi> pentru că Matei este un băiat bun.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">R.
+										Petrescu</ptr>
+									<date>1970</date>
+									<citedRange>6</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-514e12f2-6a11-4784-acbd-54d3605fb0eb" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value="I"/>
+								<subc value="refl."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se abuzează</hi> d-acest cuvânt [naturalism]
+									și nu voi fi niciodată de partea acelora cari or să facă dintr-o
+									vorbă scuza tutulor ticăloșiilor omenești.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b044ba3b-0d02-7df0-0c83-bf27f39e7f78">delavrancea</ptr>
+									<date>1883</date>
+									<citedRange>404</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Au rămas de șters încă multe cuvinte care nu însemnează nimic
+									și de care<hi rend="bold"> se abuzează</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda">bacalba</ptr>
+									<date>1892</date>
+									<citedRange>63</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se abuzează</hi> în piesă de cuvântul
+									„coarne” și de derivatul lui, atunci când singur uzul suferă de
+									o vulgaritate specială.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">arghezi</ptr>
+									<date>1912</date>
+									<citedRange>37</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Atât<hi rend="bold"> se abuza </hi>atunci de latinisme în
+									literatură, în limbă, în nume proprii și chiar în teorii de
+									drept public, încât o reacțiune se produse pe nesimțite.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-71ad635d-8ab2-5ef5-99b3-b95320179b9e">i.
+										negruzzi</ptr>
+									<date>1919</date>
+									<citedRange>72</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se abuzează</hi> de lux și de veselie în
+									București. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">rebre</ptr>
+									<date>1932</date>
+									<citedRange>263</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În satele cu populație mixtă,<hi rend="bold"> se abuza</hi>
+									de procedeul comasării în dezavantajul românilor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9b63f60a-3cef-2704-5142-8aeec6e1094d">blaga</ptr>
+									<date>&lt;1945–1946&gt;</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Se abuzează </hi>de construcția cu ,,acela
+									care”.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date>1954</date>
+									<citedRange>210</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-33ff2dc9-a0f7-4afb-ba10-fd2d5bebad12" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="register style" rend="usg">Personificat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Până când stânci neclintite, <hi rend="bold">veți abuza</hi>
+									de răbdarea noastră? </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">bogza</ptr>
+									<date>1945</date>
+									<citedRange>62</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-c4d27ac0-c2da-4253-97ac-a2573086e263" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="register style" rend="usg">Fig.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Paganini, ca <hi rend="bold">să</hi> nu <hi rend="bold">abuzeze</hi> de bunătatea făcătorului său de bine, pe dată
+									ce săvârși concertul se duce a-i da instrumentul înapoi.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filimon</ptr>
+									<date>1858</date>
+									<citedRange>317</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ertați că <hi rend="bold">abuzez </hi>de tempul d-voastră și
+									fiți bun a vă aduce aminte că aveți și în Bucovina un amic
+									sincer și călduros.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3767bd90-35c0-3403-6bbc-0a673ad547f0">st.
+										doc.</ptr>
+									<date>1874</date>
+									<citedRange>253</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Generosul meu companion îmi propusese locuința sa, dar n‑am
+										voit<hi rend="bold"> să abusez</hi> d-atâta urbanitate și
+									bine voință.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">rucăreanu</ptr>
+									<date>1886</date>
+									<citedRange>17</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nu <hi rend="bold">voi abuza</hi> mult timp de răbdarea
+									domniilor-voastre în această cestiune care preocup deopotrivă pe
+									orice român.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda">bacalba</ptr>
+									<date>1892</date>
+									<citedRange>84</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Sper... că mă veți ierta dacă <hi rend="bold">abuzez</hi>
+									prea mult de bunăvoința dv. </quote>
+								<bibl type="în">
+									<ptr target="#uuid-26c23469-3714-7ac0-2382-7b81b2a6905a">st.
+										doc. lit</ptr>
+									<date>1908</date>
+									<citedRange>IOSIF, 289</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>N-<hi rend="bold">o să</hi> mai <hi rend="bold">abuzez</hi>
+									decât de propria mea răbdare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9bd2aa1d-5a70-6568-5680-64e7ecf12ba1">blaga</ptr>
+									<date>1925</date>
+									<citedRange>153</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Și-apoi ar însemna<hi rend="bold"> să abuzăm </hi>de
+									bunătatea jupânului.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-29bfeafc-8718-03cc-40a2-5c21f68e516f">ciprian</ptr>
+									<date>1947</date>
+									<citedRange>258</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Peste o oră va începe o dramă-comică în care, în final,... la
+									un simplu telefon al tovarășului ministru va fi demascat
+									directorul general ce <hi rend="bold">a abuzat</hi> de
+									încrederea maselor largi de angajați. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">sîrbu</ptr>
+									<date>1980</date>
+									<citedRange>119</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A uza de ceva în mod excesiv, a folosi (conştient) fără
+							măsură;</def>
+						<xr type="remote-syn" corresp="#id">
+							<ptr target="a face abuz (2). "/>
+						</xr>
+						<cit type="unknown">
+							<quote>Nu numai de arsenic și de mercuriu abuză medicina
+								scolastică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brezoianu</ptr>
+								<date>1852</date>
+								<citedRange>57</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Natura n-a dat omului numai limbă și glas ca să-și arate sau să
+								explice ideile și gândurile sale, dar încă temându-se nu cumva<hi rend="bold"> să abuze</hi>, a vrut să-i vorbească.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02cb6ef0-8c88-1e5e-6de7-5153b72411c1">ciocanelli</ptr>
+								<date>1855</date>
+								<citedRange>71/5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Veninele pe care le întrebuința... baronul de Trenk, de cari<hi rend="bold"> a abuzat</hi> [sic!] așa de mult drama modernă și
+								romanul... era [sic!] niște obiecte de artă.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2bd61632-8ee7-6121-7452-2116b9fd00d7">baronzi</ptr>
+								<date>1857</date>
+								<citedRange>134/9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote> Pardon și mă ieartă, domnule primar, Vreo două minute<hi rend="bold"> să abus</hi> măcar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-623fd4e5-6b75-97ff-8e83-ecc3a67634d3">orășanu</ptr>
+								<date>1875</date>
+								<citedRange>151</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Murzuc pare că <hi rend="bold">abuzează </hi>de cafea nu numai
+								pentru a-și zugrăvi chipul de maur.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f8d87ce-0ebb-9df5-4927-8bd1304d58a8">caragiale</ptr>
+								<date>1885</date>
+								<citedRange>787</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A muri de oftică e destul de natural, însă... cei mai mulți
+								romantici <hi rend="bold">au abuzat </hi>de această crudă boală până
+								la ridicul. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-47aefa64-0d51-7d97-9d6b-b698f6428bf6">demetrescu</ptr>
+								<date>1889</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poporul se hrănește cu mâncări indigestibile, numai prin
+								obicinuință compatibile cu sănătatea, dar de băuturi spirtoase <hi rend="bold">abuzează</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">crăiniceanu</ptr>
+								<date>1895</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cunoscând slăbiciunea armamentului nostru și imposibilitatea,
+								pentru noi, de a răspunde la mitralieră cu mitralieră, germanii au
+								uzat și<hi rend="bold"> au abuzat</hi> de mașina lor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a8606e86-3b51-8c24-0a17-00b1e9449e88">zamfirescu</ptr>
+								<date>1917</date>
+								<citedRange>228</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Această burghezie <hi rend="bold">abuzează </hi>de dramele
+								pasionale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0fee98d2-246b-10b2-9a63-3dc8766e086d">camil
+									petrescu</ptr>
+								<date>1923</date>
+								<citedRange>199</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Monotonia ritmului [la Maupassant] vine în mare parte și de la
+								mania repetării, un mijloc retoric din cele mai triviale, de care nu
+									cred<hi rend="bold"> să</hi> mai <hi rend="bold">fi abuzat</hi>
+								cineva în grad atât de exasperant ca acest stilist veșnic grăbit și
+								expeditiv.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+								<date>1931</date>
+								<citedRange>303</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Tata a fost cam bolnav ... nu are voie<hi rend="bold"> să
+									abuzeze</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e99004ea-1c4a-94bf-076a-79f36a59926f">călinescu</ptr>
+								<date>1938</date>
+								<citedRange>219</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Îmi exaltam libertatea ca un vis, dar nu<hi rend="bold">
+									abuzam</hi> de ea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9b63f60a-3cef-2704-5142-8aeec6e1094d">blaga</ptr>
+								<date>&lt;1945–1946&gt; </date>
+								<citedRange>139</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>,,Dulce” apare de nenumărate ori la Eminescu, Alecsandri şi
+								Bolintineanu. Este unul dintre epitetele de care epoca nu numai a
+								uzat, dar <hi rend="bold">a</hi> şi <hi rend="bold">abuzat</hi>. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eb7153fc-380e-73e5-724a-8254e3fb3ea2">vianu</ptr>
+								<date>1954</date>
+								<citedRange>420</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mulți <hi rend="bold">abuzează</hi> însă de pornirea firească a
+								spectatorului dornic să se amuze.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">conte</ptr>
+								<date>1971</date>
+								<citedRange>nr. 1 307, 5</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu vreau <hi rend="bold">să abuzez</hi> de cifre și
+								comparații.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scâ</ptr>
+								<date>1977</date>
+								<citedRange> nr. 11 004</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Băieții <hi rend="bold">abuzează </hi>de clișee.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-eecca819-8a6f-2a98-75e7-89e3a7b87988">eliade</ptr>
+								<date>1979</date>
+								<citedRange>169</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Luați din scurt, nu știm să spunem nimic coerent despre o
+								vocabulă de care <hi rend="bold">abuzăm</hi> clipă de clipă. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">pleșu</ptr>
+								<date>2003</date>
+								<citedRange>52</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5da7bab4-0b11-435a-921b-38e44b7cd704" n="4.">
+						<sense xml:id="uuid-5b8c7aef-e10e-45e1-830f-2952452d9a2a" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<hi rend="italic">
+									<seg type="register style" rend="usg">Fig.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>În lipsă de text formal, e refuzată pe cale penală protejarea
+									persoanelor puse sub consiliu judiciar contra acelora ce <hi rend="bold">abusează </hi>de slăbiciune spiritului
+									lor.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod.
+										pen.</ptr>
+									<date>1898</date>
+									<citedRange>269</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Spiritul Occidentului <hi rend="bold">a abuzat</hi> de
+									Antichitate ca de un stupefiant.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-05c99405-2fe6-7a8c-55bd-d6f23fa45a88">zarifopol</ptr>
+									<date>1931</date>
+									<citedRange>261</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Domnul Catargiu crede că orgoliul este o virtute și <hi rend="bold">abuzează</hi> de el ca de un păcat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-5ddf4a65-7684-43bd-6d89-efce7bf70baf">d.
+										dumitriu</ptr>
+									<date>1984</date>
+									<citedRange>246</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="intranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<def xml:id="id">A se folosi de ceva în mod inadecvat. </def>
+						<cit type="unknown">
+							<quote>Pe directorul școalei l-au schimbat, înlocuindu-l cu un ofițer
+								subaltern, Costescu, fiul lui Costea cavafu, de puțină importanță,
+								ba pot zice și imoral, căci <hi rend="bold">abuza</hi> chiar de
+								hrana copiilor reducându-i la hrana soldaților.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-2d11da73-653c-0bd7-7132-c885f56c2ba8">lăcusteanu</ptr>
+								<date>1874</date>
+								<citedRange>134</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-27292d75-2bf0-9f6f-3360-c31e62136a74">column</ptr>
+								<date>1882</date>
+								<citedRange>CLIMESCU, I, nr. 7–9, 421</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-4d503a18-843f-4c91-a3d3-203e8c17bed3" n="5.">
+						<def xml:id="id">A se înșela.</def>
+						<usg corresp="#id">
+							<hi rend="italic"><seg type="time" rend="usg">Înv.</seg>;<seg type="plev" rend="usg"> rar</seg></hi>
+						</usg>
+						<cit type="unknown">
+							<quote>Potemkin aduse de la Petersburg germenele sigur al unei morți
+								grabnice, dar <hi rend="bold">abusându-se</hi> însuși asupra stărei
+								seale, el nu ținu în nicio seamă, ba respinse cu brutalitate
+								consiliele medicilor din Iași. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-869e334d-9a41-0fa2-888c-fbb0fe396791">urechia</ptr>
+								<date>1892</date>
+								<citedRange>167</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-4d763e8e-7612-4414-8e45-ee9b75952d40" n="">
+						<def xml:id="uuid-731b9a80-0e1c-4181-aeed-061af51bc224"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>abusa</oVar>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abuzez</form>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value="pers. 1"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abuz</form>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-După"/><term xml:lang="fr" type="unknown" subtype="unknown">abuser</term></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown"/>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">DN</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d. dr. muncii</ptr>
+						<date>1997</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">d. dr. pri</ptr>
+						<date>1997</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d. dr. ci</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DIC</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

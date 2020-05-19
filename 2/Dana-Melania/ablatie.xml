@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-58d68f4b-4460-4e5d-bc2e-f28a6850e868" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-29T15:14:53+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablație</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLÁȚIE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-9d03832d-5cd4-4681-bc94-f1750dedcb95" n="1.">
+						<sense xml:id="uuid-30fafd21-2835-4f15-8e77-2c3b5f448918" n="✦">
+							<def xml:id="id">Îndepărtare a unui obiect inutil.</def>
+							<usg corresp="#id"><seg type="sem" rend="usg">P. ext. </seg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+									<date>1848</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-478a361d-e1c2-4240-96a6-c3832be8a440">Operație
+							chirurgicală care constă în îndepărtarea totală sau parțială a unui
+							organ, a unui membru al corpului unei ființe, a unui țesut patologic
+							etc.;</def>
+						<usg corresp="#uuid-478a361d-e1c2-4240-96a6-c3832be8a440">
+							<seg type="dom" rend="usg">CHIRURG. </seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-478a361d-e1c2-4240-96a6-c3832be8a440">
+							<ptr target="exereză"/>
+							<usg>
+								<seg type="dom" rend="usg">CHIRURG. </seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-478a361d-e1c2-4240-96a6-c3832be8a440">
+							<ptr target="tăiere (1)"/>
+							<usg>
+								<seg type="dom" rend="usg">CHIRURG. </seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Operațiune</hi> a ablațiunii (tăierii) și
+								curațiunii ranelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brez</ptr>
+								<date>1852</date>
+								<citedRange>362</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dacă facem <hi rend="bold">ablațiunea</hi> unei emisfere a
+								creerului, broasca [operată] nu se deosebește aproape în nimic de o
+								broască normală.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d6773f88-2ad6-0475-85ad-c29d595422c3">iași</ptr>
+								<date>1890</date>
+								<citedRange>II, 300</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am găsit intactă coloana intermedio-laterală, care păstrează de
+								asemenea structura normală după secționarea nervului rușinos.
+								Dimpotrivă, am spus ... că ea reacționează după <hi rend="bold">ablația</hi> ganglionilor sacrați.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fdbd2f84-228b-1f9f-1f3a-0995119f5cb4">parh</ptr>
+								<date>1907</date>
+								<citedRange>192</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>De aceea <hi rend="bold">ablațiunea</hi> unei părți, de pildă
+								coada unei șopârle, dă naștere de cele mai multe ori la o
+								regenerare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-371e6a7f-52fc-7762-9b9e-7f1672378ce9">rale</ptr>
+								<date>1924</date>
+								<citedRange>74</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Perrazi efectuează de asemenea grefe homoplastice şi autoplastice
+								la femei ce au suferit histerectomii cu <hi rend="bold">ablaţia</hi>
+								ovarelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3b2a87b7-1e07-29a7-0018-99b37a0d48fe">parh</ptr>
+								<date>1927</date>
+								<citedRange>559</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mijloace chirurgicale cuprind: <hi rend="bold">ablaţiunea</hi>
+								cornului din jurul plăgii pentru a descoperi vegetaţiunile,
+								exciziunea fisurilor şi vegetaţiunilor şi cauterizarea cu fierul
+								roşu.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-72dd243b-8d0a-3be2-6921-89875826a61d">agr</ptr>
+								<date>1938</date>
+								<citedRange>209</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Medicii arabi ... au perfecţionat ... operaţii foarte complicate,
+								ca, de exemplu, <hi rend="bold">ablaţia</hi> cristalinului
+								opac.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f8406ad0-9cb6-9f29-404c-4a7542698ac5">drim</ptr>
+								<date>1990</date>
+								<citedRange>251</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Reacții modelante constau în încercarea de a reda osului o
+								aparență apropiată de normal, prin <hi rend="bold">ablația</hi>
+								parcelară a leziunii.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">medic</ptr>
+								<date>1991</date>
+								<citedRange>III, nr. 56, 3</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Progrese recente permit uneori <hi rend="bold">ablația</hi>
+								adenomului paratiroidian localizat prin scintigrafie de foarte mare
+								calitate.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9aa5c5aa-901f-07e4-7ad6-d1e6e3b35754">liti</ptr>
+								<date>2000</date>
+								<citedRange>134</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-1ed93e4c-9b16-4b9d-8337-ef27c23e929a" n="2.">
+						<def xml:id="id">Perioada dintre două accese de febră.</def>
+						<usg corresp="#id"><seg type="dom" rend="usg">MED.</seg><seg type="time" rend="usg"> Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-995b67cb-a440-4a85-8d79-ffc8281eda75" n="3.">
+						<sense xml:id="uuid-87dee41a-bb57-488b-a21c-77d48417d2d0" n="✦">
+							<def xml:id="id">Reducere a masei unui gheţar sau a zăpezii prin topire,
+								evaporare şi defliaţie.</def>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">GEOGR. </seg>
+							</usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. </ptr>
+									<date>1898</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-1fa0aaa6-1f2e-4f37-bfe0-25bd765f453f" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">
+								<seg type="sem" rend="usg">Fig. </seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Ghețarii în <hi rend="bold">ablații</hi> sub tălpile mirilor,
+									zile Mă-ntâmpină sferic: cu șolduri visând abordaje Ca năvi de
+									pirați, și cu inimi ca știucile-n vârșe. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-932c8dbf-2d0d-4259-58cb-a33b99842795">alfab</ptr>
+									<date>&lt;1941-1948&gt;</date>
+									<citedRange>203</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Proces de îndepărtare a particulelor fine, rezultate în
+							urma dezagregării, de pe suprafaţa solului şi a rocilor prin procesul de
+							spălare în suprafaţă.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">GEOGR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablațiune</hi>, spălarea vrunui loc sau coborârea
+								solului în urma influinței disolvatoare a apei și a aerului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+								<date>1898</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Vegetaţia apare pe unele hărţi ale proceselor actuale ca element
+								de fond, în funcţie de care se diferenţiază, ca areal şi ritm,
+								procesele de <hi rend="bold">ablaţie</hi>, şiroaie, torențialitate
+								etc.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">T. MORARIU – VELCEA, Pr. Geogr. Fiz.</ptr>
+								<date>1971</date>
+								<citedRange>50</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-107cf6c6-2357-49b8-be40-46f95b4ceb40" n="4.">
+						<sense xml:id="uuid-3bbed6b7-faa1-4120-b1ff-1be439353f32" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Scut de ablație</term>
+							</form>
+							<def xml:id="id">dispozitiv construit din materiale speciale care
+								protejează navele cosmice împotriva ablației (4).</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+									<date>1993</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Fenomen fizic prin care un corp care străbate atmosfera cu
+							mare viteză pierde din substanță, din cauza încălzirii sale până la
+							incandescență prin frecare cu aerul.</def>
+						<usg corresp="#id">
+							<seg type="dom" rend="usg">ASTRON. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+								<date>1993</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-3e706968-48e9-4687-b000-f391f9d964b2" n="5.">
+						<sense xml:id="uuid-c9419bb7-2901-4b81-9371-119a9908d30a" n="✦">
+							<def xml:id="id">Drept prin care contravenientul are posibilitatea de a
+								achita, în anumite situații, jumătate din minimul amenzii prevăzut
+								de lege, indiferent de cuantumul efectiv al amenzii stabilite de
+								către agentul constatator.</def>
+							<usg corresp="#id"><seg type="dom" rend="usg">JUR. </seg>(<seg type="coloc" rend="usg">În forma ablațiune</seg>) </usg>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="id">Prevedere în dreptul penal, conform căreia un furt este
+							împlinit după predarea obiectului furat.</def>
+						<usg corresp="#id"><seg type="dom" rend="usg">JUR. </seg><seg type="time" rend="usg">Înv.</seg> (<seg type="coloc" rend="usg">În forma
+								ablațiune</seg>) </usg>
+						<cit type="unknown">
+							<quote>În dreptul penal după teoria <hi rend="bold">a</hi>[<hi rend="bold">blaţiunii</hi>] un furt este împlinit după ducerea
+								obiectului furat, în vreme ce după teoria aprehensiunei furtul
+								împlinit deja prin luarea şi însuşirea obiectului. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+								<date>1898</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e84b2cb6-313d-4e7f-8f65-42675c148147" n="">
+						<def xml:id="uuid-b08ac65a-06b9-42f5-85e9-89af559b2cef"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablații</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">astăzi rar</seg></usg>
+					<def>ablaţiúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<def>ablățiúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="pronunciation" value="">
+						<pron xml:lang="ro-x-accent-lowcase-vowels">-ți-u-</pron>
+					</form>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">ablation</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">ablatio, -onis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<date>1949</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+						<date>1969</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zoot</ptr>
+						<date>1969</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">tehn</ptr>
+						<date>1972</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e02f49ee-9962-782c-9a2e-7eb0d76f099d">ecol</ptr>
+						<date>1982</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6b5944d-2886-5cc0-a498-c34639ff4a57">dgs</ptr>
+						<date>2013</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

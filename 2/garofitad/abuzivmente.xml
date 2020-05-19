@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-13d3d7bc-7171-4b95-b80f-c3d6c8dbc8f7" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>garofitad</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-01T21:07:12+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abuzivmente</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABUZIVMÉNTE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adv."/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-4b908f01-fa19-4609-b7b0-29ab1c034677" n="">
+						<def xml:id="uuid-2a38c86d-ed4b-43b7-9792-5458d6c49202">În mod abuziv.</def>
+						<usg corresp="#uuid-2a38c86d-ed4b-43b7-9792-5458d6c49202"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Astrologhii sau maghii... au aplicat-o<hi rend="bold">
+									abuzivmente</hi> (cu rea întrebuințare).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02cb6ef0-8c88-1e5e-6de7-5153b72411c1">ciocanelli</ptr>
+								<date>1855</date>
+								<citedRange>14/29</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-a133d073-7a75-4098-9468-bb7ebb834af2" n="">
+						<def xml:id="uuid-1d5537be-7165-4026-8a79-92414a924137"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abuziv"/><term xml:lang="" type="sufix" subtype="unknown">-mente</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="fr" type="unknown" subtype="unknown"> abusivement</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-927e2a5b-06ac-4eeb-b710-f5051516214a" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-30T12:25:09+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abliele</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLIÉLE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7df77d49-c42d-4a3b-a0a7-b0652f9f4108" n="">
+						<def xml:id="uuid-8a919e0f-b802-4c54-b0fb-b3a9ea87d621"/>
+						<xr type="syn" corresp="#uuid-8a919e0f-b802-4c54-b0fb-b3a9ea87d621">
+							<ptr target="Săpunariță "/>
+							<usg>
+								<seg type="dom" rend="usg">BOT. </seg>
+								<seg type="geo" rend="usg">Reg. </seg>
+							</usg>
+						</xr>
+						<term xml:lang="la" type="unknown" subtype="unknown">(Saponaria
+							officianalis)</term>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<date>&lt;1930-1937&gt;</date>
+								<citedRange>1 911/77 (Vermeș – Buziaș)</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-bf3e5fd8-803e-4359-90bd-bb1f82ea51e2" n="">
+						<def xml:id="uuid-8e2d4ed1-fabf-4ae5-801b-6a54c4a07253"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="De la albele"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

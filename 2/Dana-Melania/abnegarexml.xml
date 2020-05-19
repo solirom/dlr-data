@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-b48954a6-0304-4462-ac9d-ebea32637cbf" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T08:54:21+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abnegare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABNEGÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-484accd5-dd7a-44a8-b270-4786eaeb3d65" n="">
+						<def xml:id="uuid-cb3c9e58-29a9-42d5-94f4-3f7cdfe12934">Acțiunea de a (se)
+							abnega și rezultatul ei;</def>
+						<def xml:id="uuid-63ee11cb-c6d5-40fb-b4b6-4cdba9f0dccc">jertfă de sine,
+							lepădare de sine; </def>
+						<xr type="syn" corresp="#uuid-63ee11cb-c6d5-40fb-b4b6-4cdba9f0dccc">
+							<ptr target="renunțare"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-63ee11cb-c6d5-40fb-b4b6-4cdba9f0dccc">
+							<ptr target="sacrificiu (2)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-63ee11cb-c6d5-40fb-b4b6-4cdba9f0dccc">
+							<ptr target="abnegație"/>
+						</xr>
+						<cit type="unknown">
+							<quote>Patria primitivă a literelor şi a belelor-arte, pământ proverbial
+								pentru eroismul şi <hi rend="bold">abnegarea</hi> fiilor lui, ...
+								dete lumei pe pateticul maestru Bellini.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filim</ptr>
+								<date>1859</date>
+								<citedRange>310</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Iezuiţii] goniră din inima tinerilor elevi amorul de patrie, <hi rend="bold">abnegarea</hi> pentru binele comun şi alte virtuţi
+								civile.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-751d3d72-4748-5f4a-33ab-d3ec96c52732">filim</ptr>
+								<date>1861</date>
+								<citedRange>236</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Iată ce înseamnă amorul exilaţilor pentru pământul natal. … O
+								patrie … unde tot răsuflă <hi rend="bold">abnegare</hi>, sacrifice
+								pentru o idee mare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c1e72093-4fda-9821-721b-b445d3f23a62">bolint</ptr>
+								<date>1863</date>
+								<citedRange>297</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Astfeli se fini acea serbare, a căreia amintire va rămânea
+								neştearsă din inimile române şi de la care, credem, fiecare s-a
+								întors cu mai multă tărie în suflet, cu mai mult respect pentru
+								eroii trecutului nostru şi cu mai multă <hi rend="bold">abnegare</hi> în ceea ce priveşte interesele noastre
+								comune.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">emin</ptr>
+								<date>1871</date>
+								<citedRange>497</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Nu dar prin prescripţiuni de <hi rend="bold">abnegare</hi> se
+								întemeiază politica.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-242183fe-6eb9-9889-1b36-b3ae16e522c6">maiore</ptr>
+								<date>1874</date>
+								<citedRange>147</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mărturisesc ... că nu mai am nicio nădejde în îndreptarea
+								generaţiei noastre, a generaţiei tinere, a stratului nou, în care
+								sângele vieţii de 20 de ani dă avânturi nobile, simţimânte eroice,
+								generozitate, voinicie, <hi rend="bold">abnegare</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1fdd41a7-11f9-43d6-80c5-1c8bcc1f8e1f">zamfire</ptr>
+								<date>1883</date>
+								<citedRange>204</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A cultiva simpatia pentru Rusia în poporul nostru, a căuta să-l
+								apropii de ruşi, de care de altfeliu e prea aproape prin aceeaşi
+								credinţă, mi să pare că ar fi o politică ce ne-ar duce la urma
+								urmelor la o <hi rend="bold">abnegare</hi> a individualităţii
+								noastre naţionale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3767bd90-35c0-3403-6bbc-0a673ad547f0">st.</ptr>
+								<date>1889</date>
+								<citedRange>234</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>[Elitei paşoptiste] i-ar fi trebuit mult tact, multă <hi rend="bold">abnegare</hi>, şi mai ales multă vreme, ca să poată
+								înţălege poporul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">barno</ptr>
+								<date>1922</date>
+								<citedRange>328</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru o reformă fundamentală şi integrală a naţiunii româneşti
+								se impune o disciplină ... purificată până la ascetism prin credinţa
+								în sine ... şi prin sacrificiul persoanei proprii şi a voinţei
+								eroice de <hi rend="bold">abnegare</hi> pentru o muncă culturală
+								fără odihnă şi pasionată.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-497ff649-1886-75bb-71cd-73023ce66144">gusti</ptr>
+								<date>1938</date>
+								<citedRange>306</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Şaizeci de ani de osârdie şt canon echivalează cu o epocă de
+								zdruncin, <hi rend="bold">abnegare</hi> şi jertfă de sine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f7f8aa5e-4c75-1973-68e2-fc3101895512">schiț</ptr>
+								<date>1959</date>
+								<citedRange>140</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-1ea4815f-04ea-44a1-82bc-d1a628d8f7ed" n="">
+						<def xml:id="uuid-de755a43-5eba-4fee-954e-601efec50fc6"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="low">
+					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abnega"/></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

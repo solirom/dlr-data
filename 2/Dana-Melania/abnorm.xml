@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-52855f30-413c-4cad-81a2-d8198c9510de" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T12:53:26+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abnorm</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABNÓRM</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-c7ae639e-f961-4082-922b-d17e74924156" n="">
+						<sense xml:id="uuid-3ce0780c-ea5c-4c43-b7c4-ddc4c3385959" n="✧">
+							<def xml:id="uuid-d4e40a47-583d-4c1a-87af-8204d11ad2b5"/>
+							<usg corresp="#uuid-d4e40a47-583d-4c1a-87af-8204d11ad2b5">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Proprietatea mare, mijlocie şi cea mică din Ungaria şi ţările
+									anexe se află, mai vârtos de la dualism încoace, într-o stare
+										<hi rend="bold">abnormă</hi> şi critică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">bariț</ptr>
+									<date>1884</date>
+									<citedRange>184</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Unde este timpul? Când întorci binoclul, [lucrurile] ţi se
+									par într-o <hi rend="bold">abnormă</hi> depărtare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-66c6a3f7-4cb8-3d5e-1507-6586072557ce">emine</ptr>
+									<date>1889 (†)</date>
+									<citedRange>282</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Personalitatea artistului nu mai poate fi geneza operei sale
+									decât cu condiţiunea de a fi artistul un producător <hi rend="bold">abnorm</hi>, un rezultat al hazardului şi al
+									nebuniei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1fdd41a7-11f9-43d6-80c5-1c8bcc1f8e1f">zamfire</ptr>
+									<date>1892</date>
+									<citedRange>377</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Situaţia a fost recunoscută ca <hi rend="bold">abnormă</hi>
+									în însăşi Marea Britanie, şi ... au căutat ... să remedieze
+									răul, să reducă întinderea latifundiilor şi să creeze o
+									proprietate ţărănească cât mai întinsă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f2e9f3d5-8179-94f0-442e-1312ffac8cba">ster</ptr>
+									<date>1908</date>
+									<citedRange>486</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-675533b1-a7c4-438d-997d-f38804ee3b29" n="✧">
+							<def xml:id="uuid-13a6a3dd-8d3b-4800-9cab-ca79b523da46"/>
+							<usg corresp="#uuid-13a6a3dd-8d3b-4800-9cab-ca79b523da46">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
+							<cit type="unknown">
+								<quote>Există neîndoielnic o dilataţie spontană spre <hi rend="bold">abnorm</hi> în orice român cu sentimentul unităţii sale
+									etnice.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">patap</ptr>
+									<date>1995</date>
+									<citedRange>9</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-5e7b684d-8233-4a8f-871f-3d4aa5249fdf">Anormal,
+							neobişnuit;</def>
+						<usg corresp="#uuid-5e7b684d-8233-4a8f-871f-3d4aa5249fdf">
+							<seg type="time" rend="usg">Astăzi rar</seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-5e7b684d-8233-4a8f-871f-3d4aa5249fdf">
+							<ptr target="abnormal"/>
+							<usg>
+								<seg type="time" rend="usg">astăzi rar</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>[Rutilul] să găsește pe drumuri în stânci <hi rend="bold">abnorme</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5f89fb56-6e22-a6e3-1951-00cfe7dc5030">ciha</ptr>
+								<date>1837</date>
+								<citedRange>458</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Am găsit că de multe ori copiii se nasc cu un ficat sau cu un
+								rinichi <hi rend="bold">abnorm</hi>, deformat, lobulat, de multe ori
+								micşorat sau indurat, aceste organe având însă o cantitate tocmai
+								suficientă de elemente active, pentru satisfacerea
+								trebuinţelor.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3bf51352-9c2f-4ba3-0f0c-9069469993db">babeș</ptr>
+								<date>1904</date>
+								<citedRange>152</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e193db22-0501-45fe-bc00-e82956d67933" n="">
+						<def xml:id="uuid-a19d85c0-bece-4be8-aee0-5174399ec61f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abnormi, -e</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def>anórm</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">abnorm</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abnormis, -e</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="unknown"/>
+						<date/>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<date>1949</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

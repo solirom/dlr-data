@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2efd1856-b447-4def-bbfd-06a2269b082f" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-15T10:30:48+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abiturient</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABITURIÉNT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m. si f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-71bc2e94-7a4e-4fcb-8418-d21db7699892" n="">
+						<def xml:id="uuid-03964087-dd8e-4714-84e5-e400016a77d4">Elev care susţine
+							sau a susţinut examenul de bacalaureat; absolvent al unui liceu.</def>
+						<usg corresp="#uuid-03964087-dd8e-4714-84e5-e400016a77d4"><seg type="time" rend="usg">Înv.</seg>, <seg type="time" rend="usg">ieșit din
+								uz</seg></usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Clarisime! Îţi trămit alăturatele atestate, pentru d[omnul] <hi rend="bold">abituriente</hi>, fiul d-tale, în 8
+								exemplarie.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">contemp</ptr>
+								<date>1866</date>
+								<citedRange>253</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>A treia legendă a cucului, ... comunicată de vărul meu Ştefan Fl.
+								Marian, <hi rend="bold">abiturient</hi>, suna în modul următoriu
+								[...].</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-021c0ee3-7761-5ab7-a3c3-6412667d1835">marian</ptr>
+								<date>1883</date>
+								<citedRange>7</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Arareori te vei întîlni cu un <hi rend="bold">abiturient</hi>
+								care să cunoască literatura grecească clasică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<date>1895</date>
+								<citedRange>133</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Studierea cântărilor liturgice trebue an de an de nou începută,
+								din cauza schimbului necontenit al cântăreţilor provenit ... prin
+								depărtarea <hi rend="bold">abiturienţilor</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-bae64b49-53d3-2615-3eca-689810229b1b">șch</ptr>
+								<date>1901</date>
+								<citedRange>360</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>F[ondul] <hi rend="bold">abiturienţilor</hi> din 1896. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-06b7e6d7-74b6-1b8d-75d4-ea131bcf99c4">ghib</ptr>
+								<date>1915</date>
+								<citedRange>189</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ca „<hi rend="bold">abiturient</hi>” a petrecut vacanţa în
+								consfătuiri şi neînţelegeri cu mamă-sa şi cu protopopul
+								Groza.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-1d9627a2-3cf2-3c6f-93b5-6c8457be6c1c">spân</ptr>
+								<date>1922</date>
+								<citedRange>35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Toţi <hi rend="bold">abiturienţii</hi> au fost siliţi să le
+								înveţe [temele] pe de rost.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3578dced-9118-9474-42d8-74c0008b6bef">stere</ptr>
+								<date>1932</date>
+								<citedRange>452</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0d9811a2-3617-431a-b539-5f5bd7e6ddbb" n="">
+						<def xml:id="uuid-598534e4-9b8a-4088-b886-f54ff89f847b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abiturienţi, -te</number>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abituriénte</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="m."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abiturient</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="ru" type="unknown" subtype="unknown">Abiturient</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

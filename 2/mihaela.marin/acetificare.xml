@@ -71,9 +71,7 @@
                 <etym cert="low">
                     <idno type="formație.internă-trimitere-V."/>
                     <ptr targetLang="" type="unknown" subtype="unknown" target="acetifica"/>
-                    <note type="unknown" n="unknown" cert="high">
-                        <term/>
-                    </note>
+                    <note/>
                 </etym>
             </entry>
         </body>

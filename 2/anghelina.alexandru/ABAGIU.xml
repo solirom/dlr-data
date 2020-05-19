@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -279,7 +279,7 @@
 							<seg type="sem" rend="usg">P. gener. </seg>
 							<seg type="geo" rend="usg">Reg.</seg>
 						</usg>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-1b955b58-8e18-86cb-176a-57cc3e3014d2">alr</ptr>

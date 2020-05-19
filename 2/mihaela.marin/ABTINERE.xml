@@ -521,9 +521,7 @@
 				</re>
 				<etym cert="high">
 					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
-					<note type="unknown" n="unknown" cert="high">
-						<term/>
-					</note></etym>
+					<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>

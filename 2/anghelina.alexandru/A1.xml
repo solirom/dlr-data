@@ -45,19 +45,11 @@
 								<term>De la a până la z</term>
 							</form>
 							<form type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 								<term>De la a la zed</term>
 							</form>
 							<def xml:id="id">de la început până la sfârşit; totul, în
 								întregime.</def>
-							<cit type="unknown">
-								<quote/>
-								<bibl type="unknown">
-									<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
-									<date>1955</date>
-									<citedRange/>
-								</bibl>
-							</cit>
 							<cit type="unknown">
 								<quote>Pătrund cu ea în casele cu adevărat boiereşti. Sunt cel mult
 									două duzini în toată ţara. E vorba de nişte oameni scăpătaţi.
@@ -68,15 +60,6 @@
 									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunatec</ptr>
 									<date>1964 (†)</date>
 									<citedRange>95</citedRange>
-								</bibl>
-							</cit>
-							<cit type="▭">
-								<quote>Obiective turistice <hi rend="bold">de la a la
-									z</hi>.</quote>
-								<bibl type="unknown">
-									<ptr target="unknown"/>
-									<date/>
-									<citedRange/>
 								</bibl>
 							</cit>
 						</sense>

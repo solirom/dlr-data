@@ -739,9 +739,7 @@
                 <etym cert="high">
                     <idno type="element.extern-împrumut-etimon.sigur"/>
                     <term xml:lang="v. sl." type="unknown" subtype="unknown">даръ</term>
-                    <note type="explicații.etimon-prin.analogie.cu.cuvinte.de.origine" n="cf." cert="high">
-                        <term xml:lang="" type="unknown" subtype="unknown">da4</term>
-                    </note>
+                    <note>cf. da4</note>
                 </etym>
             </entry>
         </body>

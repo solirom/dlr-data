@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-41ec9ffb-9cae-4463-90fc-e7ce12eec53e" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-29T16:48:50+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablaz</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLÁZ </stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value=""/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-b828a030-8db6-41c7-b26c-34770af2f09c" n="">
+						<def xml:id="uuid-3e126d0c-186e-48ff-beb9-b3f189902930">Schimbare de
+							gardă.</def>
+						<usg corresp="#uuid-3e126d0c-186e-48ff-beb9-b3f189902930">
+							<seg type="geo" rend="usg">Reg. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-3d4d0ab7-784c-8ccb-9e36-4d3e91fb682b">vorbi</ptr>
+								<date>1952</date>
+								<citedRange>nr. 3, 42</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c72fa643-1fa0-40af-bb93-be45aa2d0f66" n="">
+						<def xml:id="uuid-de5f2042-0ef3-4992-a955-c5c06da3c24a"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">Ablösung</term>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

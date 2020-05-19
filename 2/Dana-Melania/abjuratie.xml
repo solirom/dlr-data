@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-28d7fa05-7fe6-4755-91d2-bb644d018034" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T10:22:28+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abjurație</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABJURÁŢIE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-ac592388-38e7-4247-a9ba-ad6a8252c1db" n="">
+						<def xml:id="uuid-cfb2f2d0-6c4c-4766-b805-c3609592437a"/>
+						<xr type="syn" corresp="#uuid-cfb2f2d0-6c4c-4766-b805-c3609592437a">
+							<ptr target="Abjurare"/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-cfb2f2d0-6c4c-4766-b805-c3609592437a">
+							<ptr target="lepădare (5)"/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-cfb2f2d0-6c4c-4766-b805-c3609592437a">
+							<ptr target="apostazie"/>
+							<usg>
+								<seg type="time" rend="usg">Înv.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">goles</ptr>
+								<date>c. 1832</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Abate (preotul) ... au fost în vro câteva rânduri la prințul,
+								carile dimineața în ziua răposării au iscălit formalnică <hi rend="bold">abjurație</hi> (lepedare) înaintea multor
+								martori.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albin</ptr>
+								<date>1838</date>
+								<citedRange>181<hi rend="superscript">1</hi>/9</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Războiul încetase; o <hi rend="bold">abjuraţie</hi> solemnelă
+								dete iarăşi pe Henri IV Franţei.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ca9621c5-1069-82bd-41aa-dc11514a2a0f">educ</ptr>
+								<date>1846</date>
+								<citedRange>22/18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ruşinea acestei <hi rend="bold">abjuraţiuni</hi> nu cade asupra
+								mărinimiei tale, ci cade asupra intoleranţiei ... neamului întunecat
+								în care ai trăit. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-001d5e43-1815-2868-673e-ab77d1080907">minune</ptr>
+								<date>1852</date>
+								<citedRange>76</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pentru faptul <hi rend="bold">abjuraţiunei</hi> sale, Anton primi
+								o pensiune de 500 livre, pe cari i le liberă clerul francez.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20">călă</ptr>
+								<date>1906</date>
+								<citedRange>43</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-8d1cf55f-0125-45d3-8e9c-093f877aab95" n="">
+						<def xml:id="uuid-85f15bcd-0d79-4baa-a9f9-90f26e1fe383"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abjuraţii</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>)</usg>
+					<def>abjuraţiúne</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+							<case value="gen.-dat.">abjurațiunei</case>
+							<usg><seg type="time" rend="usg">(înv.</seg>)</usg>
+						</form>
+					</form>
+				</re>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abjurăţiúne </def>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abjuration</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abjuratio, -onis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<date>1842</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">Lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">DN </ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu </ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,14 +1,13 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-6c3681af-f90a-412d-95db-ed5c2507fe5b" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a53671dd-a298-4a34-898a-901381a4ee33" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>Dana-Melania</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Romanian Academy, Philology and Literature Section</publisher>
-				<idno type="project">dlr2</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<p>born digital</p>
@@ -16,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2019-12-17T15:40:49+0200"/>
+				<date when-iso="2020-04-30T12:37:34+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -25,37 +24,38 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="1">abar</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABÁR</stress>
+					<orth n="">ablestor</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLESTOR</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
 					<pos value="s."/>
-					<gen value="m."/>
+					<gen value=""/>
 					<number value=""/>
 					<case value=""/>
 					<subc value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-11b63748-a38d-4479-88a6-27a8a1cf0f99" n="">
-						<def xml:id="uuid-8a587d58-c131-40b1-8eb8-03b0b3d70ac5">Abagiu.</def>
-						<usg corresp="#uuid-8a587d58-c131-40b1-8eb8-03b0b3d70ac5">
-							<seg type="geo" rend="usg">Reg.</seg>
-						</usg>
+					<sense xml:id="uuid-cdebef78-a545-47dd-8fb1-50fe514390d5" n="">
+						<def xml:id="uuid-7d62e753-6960-4af0-bd67-99debb254f33"/>
+						<xr type="syn" corresp="#uuid-7d62e753-6960-4af0-bd67-99debb254f33">
+							<ptr target="Spălător"/>
+							<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
-								<date/>
-								<citedRange>1 792/934. (Militari) București</citedRange>
+								<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">STEINBERG</ptr>
+								<date>1886</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-6b83a7a6-be7e-42bb-ab73-cf1dcc99a81f" n="">
-						<def xml:id="uuid-3e885539-1cb7-4087-a917-213d9b5a510d"/>
+					<sense xml:id="uuid-f6c3e84b-1af5-4cc5-919c-d4b829b8b071" n="">
+						<def xml:id="uuid-82c17f6d-857e-4bed-9da7-b5cc72f8fc43"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -66,14 +66,17 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="accentuation-variant">
+					<stress xml:lang="ro-x-accent-lowcase-vowels"/>
+				</form>
 				<form type="grammatical-information">
 					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
-						<number>abari</number>
+						<number>?</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Aba3"/><term xml:lang="" type="sufix" subtype="unknown">ar</term>
-				</etym>
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="la" type="unknown" subtype="unknown">alingere</term>
+					<note>„a spăla ochii”</note></etym>
 			</entry>
 		</body>
 	</text>

@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a50a22d2-60af-4782-9424-d6cc9c734db9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T07:24:38+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abluțiune</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLUŢIÚNE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-7fd9ad1a-84b6-4904-aff8-246d0d3cd4f3" n="1.">
+						<def xml:id="uuid-87a731cc-a09b-40af-bdff-dc789e748f48">Gest ritual făcut de
+							preotul catolic, după împărtășanie, constând în vărsarea de vin și apă
+							pe degetele sale și pe caliciu. </def>
+						<usg corresp="#uuid-87a731cc-a09b-40af-bdff-dc789e748f48">
+							<seg type="dom" rend="usg">BIS. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-5e6957c7-ce2f-47ac-afe7-69f60de0875f" n="2.">
+						<def xml:id="uuid-6f1361ee-17ff-476a-8d93-41072c6788a9">Spălare rituală
+							totală sau parțială, la anumite ore, a corpului, prescrisă de unele
+							religii în vederea purificării, înainte de rugăciune.</def>
+						<usg corresp="#uuid-6f1361ee-17ff-476a-8d93-41072c6788a9">
+							<seg type="dom" rend="usg">RELIG. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavr</ptr>
+								<date>1847</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abluțiune</hi>, subst[antiv] fem[inin], „spălare
+								legiută”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-89bdf10e-0db2-27a0-4131-bdbffefc22db">isaa</ptr>
+								<date>1856</date>
+								<citedRange>194</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Sunt mai multe turbe …, făntâna d-<hi rend="bold">abluţiuni</hi>
+								(spălare) şi intrarea principală a marelui peristyl.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">viag</ptr>
+								<date>1886</date>
+								<citedRange>48</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În mijlocul atriumului [basilicii] se află obicinuit o fântână,
+								necesară <hi rend="bold">abluţiunilor</hi> rituale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c8a108f7-029e-2fd0-8ab4-1f794e5aa659">opres</ptr>
+								<date>1943</date>
+								<citedRange>41</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În mijlocul curţii se găseşte fântâna pentru <hi rend="bold">abluţiuni</hi>, iar pe latura în care se fac rugăciunile cu
+								faţa spre Mecca – corpul de clădire numit „haram”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătăș</ptr>
+								<date>1967</date>
+								<citedRange>170</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-9dcf94cb-0000-4570-a228-fd6bc637f64c" n="3.">
+						<def xml:id="uuid-51aa1640-3f36-4727-98f1-e6682e6b15bc">Spălare sau îmbăiere
+							parțială sau totală a corpului, ca măsură de igienă, ca metodă de
+							tratament sau ca practică religioasă.</def>
+						<usg corresp="#uuid-51aa1640-3f36-4727-98f1-e6682e6b15bc">
+							<seg type="sem" rend="usg">P. ext. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abluţiunile</hi> cu apă antirâioasă în faţa
+								primăriei din Cicârci aduceau pe tapet abluţiunile prescrise de A.
+								Coran. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9ad0f89e-81b0-3c83-5926-29e0d23c792b">polit</ptr>
+								<date>1886</date>
+								<citedRange>131</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În mijlocul casei, pe câteva saltele, ... sta întins mortul, pe
+								care, după obicinuita <hi rend="bold">abluţie</hi>, l-au îmbrăcat cu
+								cele mai frumoase haine ce a avut. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">lib</ptr>
+								<date>1888</date>
+								<citedRange>nr. 3 148, 2</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cinci decenii de solemnităţi constituţionale au consacrat dreptul
+								exclusiv al centrului capitalei la <hi rend="bold">abluţiuni</hi>
+								municipale şi la pudră galbenă de deserturi în dauna mahalalelor,
+								aceste mădulare dispreţuite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8">vine</ptr>
+								<date>1926</date>
+								<citedRange>365</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Dar nu pot nega că am salvat unii bolnavi, cari aproape erau în
+								preajma morţii, stropindu-i cu apă rece, făcându-le <hi rend="bold">abluţiuni</hi> şi împachetări reci, urmând metoda lui
+								Caspar.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">bici</ptr>
+								<date>2002</date>
+								<citedRange>184</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-bbe7a67b-66e6-43f0-8ded-a3eb726998cc" n="4.">
+						<def xml:id="uuid-b81885d6-106d-4d33-9494-556d59b624ea">Eroziune exercitată
+							de curenţii marini de adâncime asupra fundului bazinelor marine sau
+							oceanice.</def>
+						<usg corresp="#uuid-b81885d6-106d-4d33-9494-556d59b624ea">
+							<seg type="dom" rend="usg">GEOL. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+								<date>1978</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-c24c314f-f8a9-45d4-ae05-ba73a8adc906" n="">
+						<def xml:id="uuid-3f518c91-ff0b-46d2-a5a4-d149daf15d3f"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abluţiuni</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<def>ablúție</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">ablution</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">ablutio, -onis</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

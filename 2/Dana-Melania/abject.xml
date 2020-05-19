@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-390e3548-8742-444d-a9df-1d60d374a20b" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-15T11:39:25+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abject</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABJÉCT</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="adj."/>
+					<subc value=""/>
+					<number value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-3a7f697e-be39-4067-8594-803c0209e8b7" n="">
+						<sense xml:id="uuid-3ad5b786-1484-451f-be5c-e63572e88175" n="✦">
+							<def xml:id="id">Care inspiră repulsie, dispreț, dezgust.</def>
+							<usg corresp="#id">(<seg type="hint" rend="usg">Despre acţiuni,
+									sentimente, manifestări etc. ale oamenilor</seg>) </usg>
+							<cit type="unknown">
+								<quote>Poate însă face cineva din aur un vas umilit şi <hi rend="bold">abject</hi>, ci preţul intrensec al aurului e
+									tot acela.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f3a8b56c-680c-7b89-0fa6-98155d7c453b">biblic</ptr>
+									<date>1858</date>
+									<citedRange>115</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Zvârcolindu-se în noaptea sărăciei negre şi a ignoranţei <hi rend="bold">abjecte</hi>, el [poporul] nu mai poate; i-aţi
+									sleit toată vlaga, l-aţi stors ca pe o lămâie.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f2e9f3d5-8179-94f0-442e-1312ffac8cba">stere</ptr>
+									<date>1893</date>
+									<citedRange>342</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Naturalul nu e frumos decât cu condiţia de a fi ales,
+									estetic, menit a produce plăcerea, iar nu a copia maşinaliceşte
+									tot ce se produce în natură şi sub orice formă, chiar <hi rend="bold">abjectă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-1f749326-1575-9c1d-40af-2e7304de6e1b">arta</ptr>
+									<date>1899</date>
+									<citedRange>20</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ce păcat că idei atât de poetice, frumoase cu toată
+									ciudăţenia lor, sunt întunecate adeseori de o notă patologică,
+									de acel senzualism nesănătos, care imprimă poeziilor erotice un
+									caracter <hi rend="bold">abject</hi>!</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f56bf0e7-15fd-1796-9655-edb8af3e4ed7">chend</ptr>
+									<date>1903</date>
+									<citedRange>74</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Să culegi tot ce omenirea are mai <hi rend="bold">abject</hi>
+									ca origine, mai degradat ca vicii, mai rapace şi mai călcător de
+									orice simţiminte omeneşti, pentru a le arunca pe acest bun
+									pământ ospitalier [românesc], este ... [un act] de nebunie
+									istorică.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8e7aa8d0-156f-2a7c-337d-7a7b42e74912">iorg</ptr>
+									<date>1916</date>
+									<citedRange>353</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>La început, secretar general mânuitor de fonduri secrete:
+									pentru un politician pretenţios, bătrân şi cu trecut <hi rend="bold">abject</hi>, postul era modest.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-27d5af20-43bd-2d40-63b5-0edcda5c91fc">vine</ptr>
+									<date>1920</date>
+									<citedRange>167</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Dezgustătorul viorist mai are încă şi „ceva parizian” în
+									persoana lui; şi Poznicev zice curent: „maimuţele şi
+									parizienii”, pentru a exprima în două cuvinte cea mai <hi rend="bold">abjectă</hi> stricăciune.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarif</ptr>
+									<date>1931</date>
+									<citedRange>239</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>O furie <hi rend="bold">abjectă</hi>, o poftă de scandal îi
+									copleşise Lizei simţirea.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f4da134a-406c-2079-30d2-78c221e82fe4">prozei</ptr>
+									<date>1937</date>
+									<citedRange>206</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Este ceva aşa de umilitor şi de <hi rend="bold">abject</hi>,
+									încât răneşte tot ce am putut crede cândva despre
+									oameni.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">sebas</ptr>
+									<date>1939</date>
+									<citedRange>198</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Un du-te-vino inutil, dizgraţios, <hi rend="bold">abject</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-bdfcf838-0c5e-26c6-6734-1a2ab8227866">cipr</ptr>
+									<date>1958</date>
+									<citedRange>289</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Noţiunea de „provincie” este... înţeleasă [de Hortensia
+									Papadat Bengescu] în sensul antecedentei noastre istorii
+									apropiate, adică în sensul de localitate blestemată, urâtă,
+									murdară şi <hi rend="bold">abjectă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b85328f1-8046-87b6-42e7-f109337ea058">papu</ptr>
+									<date>1977</date>
+									<citedRange>187</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Noţiunea de „provincie” este... înţeleasă [de Hortensia
+									Papadat Bengescu] în sensul antecedentei noastre istorii
+									apropiate, adică în sensul de localitate blestemată, urâtă,
+									murdară şi <hi rend="bold">abjectă</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a1c5a1a8-3f96-05fc-8282-1c2af35b1e6f">zenob</ptr>
+									<date>1985</date>
+									<citedRange>12</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-b75d4016-78af-44fc-9804-9ac2a02936e5" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>) </usg>
+							<cit type="unknown">
+								<quote>Catastrofa a trecut peste orice răbdare omenească şi dincolo
+									de <hi rend="bold">abject</hi>: paralitic, Luchian a fost
+									arestat în pat.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">pensul</ptr>
+									<date>1955</date>
+									<citedRange>380</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<usg corresp="#uuid-3a7f697e-be39-4067-8594-803c0209e8b7">(<seg type="hint" rend="usg">Despre oameni</seg>)</usg>
+						<def xml:id="uuid-22362051-e10c-42bf-baec-671a27cfb505">Care comite fapte
+							reprobabile;</def>
+						<xr type="syn" corresp="#uuid-22362051-e10c-42bf-baec-671a27cfb505">
+							<ptr target="josnic"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-22362051-e10c-42bf-baec-671a27cfb505">
+							<ptr target="netrebnic (3)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-22362051-e10c-42bf-baec-671a27cfb505">
+							<ptr target="ticălos (3)"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-22362051-e10c-42bf-baec-671a27cfb505">
+							<ptr target="mizerabil (3)"/>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Această credinţă merge de la cele din urmă la cele dintâi ranguri
+								ale soțietăţii; de la acea gloată <hi rend="bold">abjectă</hi> care
+								priveşte în sus ... cu trebuinţele ambiţiei, la ceealaltă gloată, nu
+								mai puţin abjectă, care, spre a-și păstra măririle ei, îngenuchie pe
+								rând dinaintea fiecăria puteri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ca9621c5-1069-82bd-41aa-dc11514a2a0f">negul</ptr>
+								<date>1846</date>
+								<citedRange>291/4</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<bibl type="author-reference">
+								<author target="CIPARIU"/>
+							</bibl>
+							<quote>Nu cumva socoteşti că canonicii din Blaş sunt oamenii aşa de vili
+								şi de <hi rend="bold">abiecţi</hi>, cât le poate da oricine cu
+								piciorul.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">contemp</ptr>
+								<date>1855</date>
+								<citedRange>310</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Pedeapsa cu moartea ... este de ajuns a opri pe oamenii cei mai
+								puţin culţi şi mai <hi rend="bold">abjecţi</hi> de la cele mai mari
+								crime.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-59acd60d-9937-05fa-27ff-d3090fc97364">cont</ptr>
+								<date>&lt;1876–1877&gt;</date>
+								<citedRange>154</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>D. Holban … susţine că <hi rend="bold">abjectul</hi> Schopenhauer
+								e materialist.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">emin</ptr>
+								<date>1878</date>
+								<citedRange>76</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cu preţul de a deveni o fiinţă atât de <hi rend="bold">abjectă</hi>, aş refuza nu numai milionul lui Docan, dar chiar
+								şi miliardele lui Rotschild.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4584d196-3c4d-8167-5177-537606807cff">pătr</ptr>
+								<date>1912</date>
+								<citedRange>249</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ascultaţi de ce-i în stare virginala şi <hi rend="bold">abjecta</hi> făptură a poetului.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-213869dc-59ab-78bb-32fc-d332bd9f5cdb">spin</ptr>
+								<date>1920</date>
+								<citedRange>175</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abject</hi>, abulic, lucid, cu reacţiuni efemere
+								de demnitate umană, el [consulul] este o umbră mai palidă a
+								degradaţilor lui Dostoievski.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călin</ptr>
+								<date>1941</date>
+								<citedRange>690</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Mai stupefiantă este revelarea că acel ins, mult mai <hi rend="bold">abject</hi> decât majoritatea celor de o teapă cu
+								el, se depăşea pe sine şi depăşea în omenie pe mulţi dintre
+								deţinuţii cărora nici prin gând nu le-ar fi trecut să devină
+								turnători asemeni lui!</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-49fe83de-2fa2-414e-14ef-3f62f0c42c66">rădul</ptr>
+								<date>1998</date>
+								<citedRange>69</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-715a9b3a-659e-447d-a380-1b3ae17f135d" n="">
+						<def xml:id="uuid-0c401458-1cbb-4422-bb50-7547434d0cad"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>abjecţi, -te</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abiéct, -ă</def>
+					<gramGrp>
+						<pos value="adj."/>
+						<subc value=""/>
+						<number value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abject</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abjectus, -a, -um</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange>s. v. abiectu</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<date>1900</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hod</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scri</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

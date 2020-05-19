@@ -175,9 +175,7 @@
 				</form>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Abricht(hobelmaschine)</term>
-					<note n="unknown" cert="high" type="">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-					</note></etym>
+					<note/></etym>
 			</entry>
 		</body>
 	</text>

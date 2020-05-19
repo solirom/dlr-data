@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a1d16daa-047c-4bc8-86a4-f1cfc8199984" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T16:24:59+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablas</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLAS</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-48710c32-29d0-49b8-a522-7962bf0db04b" n="">
+						<def xml:id="uuid-703d0104-68fe-4e15-8049-c4251557411c">Nume dat birnicilor
+							de la sate, înainte de 1859. </def>
+						<usg corresp="#uuid-703d0104-68fe-4e15-8049-c4251557411c"><seg type="time" rend="usg">Înv.</seg>; <seg type="geo" rend="usg">în Mehedinți
+							</seg></usg>
+						<cit type="unknown">
+							<quote>Cea mai de pe urmă tabelă despre populațiunea județului Mehedinți
+								a fost următoarea: 27.300 birnici români din sate, zis <hi rend="bold">ablași</hi>, 290 birnici români din târguri.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b45b22da-26c6-9cbc-0b3d-29ba56cb90da">mehed</ptr>
+								<date>1868</date>
+								<citedRange>185</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablas</hi> [=] se numeau astfel până la Unire –
+								1859 – birnicii în jud. Mehedinţi. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+								<date>1937</date>
+								<citedRange>14</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d3defe91-c29e-4698-89f1-862e203e0dc4" n="">
+						<def xml:id="uuid-83eba389-b95d-49f2-a84c-461f9db5451d"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="unknown-accentuation"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablaşi</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-trimitere-Cf."/><term xml:lang="de" type="unknown" subtype="unknown">Ablass</term>
+					<note>„indulgență”</note></etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">cior</ptr>
+						<date>1966</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-c4a0c5fc-af65-4e2f-a12d-553a4b68e859" version="3.3.0" source="0.1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-7d1e8e41-7931-4b03-90b1-3d3a06de8c85" version="3.3.0" source="0.1">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-02-07T11:08:37+0200"/>
+				<date when-iso="2020-05-08T10:51:44+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,15 +24,19 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">abaramu</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABARAMU</stress>
+					<orth n="2">abă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ÁBĂ</stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="interj."/>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
 				</gramGrp>
-				<ptr type="trimitere" target="avaramu"/>
+				<ptr type="trimitere" target="aba3"/>
 			</entry>
 		</body>
 	</text>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0c824e6d-02f6-49c0-8df0-6ec1822630d9" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-27T16:26:11+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-2e40a988-83de-41fa-b60d-d4f0b56a6079" n="">
+						<def xml:id="uuid-38d987d1-3e99-4e3b-9c24-fe1746e442d0"/>
+						<xr type="syn" corresp="#uuid-38d987d1-3e99-4e3b-9c24-fe1746e442d0">
+							<ptr target="Ablație."/>
+							<usg>
+								<seg type="dom" rend="usg">MED.</seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>Este de amintit că timusul nu este singura glandă a cărei ablaţie
+								nu are aceleaşi consecinţe la toate speciile animale. Astfel <hi rend="bold">ablarea</hi> tiroidei are consecinţe importante
+								pentru multe specii animale, cu excepţia cobaiului. </quote>
+							<bibl type="unknown">
+								<ptr target="unknown">1964 RUSESCU et alli, Timusul</ptr>
+								<date>1964</date>
+								<citedRange>99</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-d82f8fb1-cd59-4668-9ffe-6188dbdf4851" n="">
+						<def xml:id="uuid-e2d71ffc-47ab-4445-9cfb-a9fc17b56069"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="ablație"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

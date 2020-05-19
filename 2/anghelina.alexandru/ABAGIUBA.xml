@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -47,8 +47,6 @@
 							<seg type="dom" rend="usg">BOT.</seg>
 							<seg type="time" rend="usg">Înv. </seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">Ligustrum
-							vulgare</term>
 						<xr type="syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
 							<ptr target="măliniță"/>
 							<usg>
@@ -60,6 +58,8 @@
 						<xr type="remote-syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
 							<ptr target="lemn-câinesc"/>
 						</xr>
+						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">Ligustrum
+							vulgare</term>						
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -84,7 +84,9 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abagiube</number>
 					</form>
 				</form>

@@ -225,19 +225,12 @@
 					<idno type="formație.internă-derivat-cu.sufix"/>
                     <ptr targetLang="" type="base-word" subtype="unknown" target="abunda"/>
                     <term xml:lang="" type="sufix" subtype="unknown">-(ă)tiv</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">a trasa, a marca, a
-							desface, a desprinde</term>
-					</note>
+					<note>a trasa, a marca, a desface, a desprinde</note>
                 </etym>
 				<etym cert="high">
 					<idno type="element.extern-trimitere-Cf."/>
                     <term xml:lang="de" type="unknown" subtype="unknown">abtech</term>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">hfsja</term>
-					</note>
+					<note>hfsja</note>
                 </etym>
 			</entry>
 		</body>

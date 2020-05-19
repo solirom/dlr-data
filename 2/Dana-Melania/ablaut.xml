@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-2c4c57c5-e04e-46b1-9b4b-b0aac90cea35" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-29T16:37:53+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">ablaut</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-a19e2f2f-7fa6-43cb-bfa8-4ec684f339e1" n="">
+						<def xml:id="uuid-7e40f5e6-2fdc-4c86-8742-080147a50941">Alternanță
+							vocalică;</def>
+						<usg corresp="#uuid-7e40f5e6-2fdc-4c86-8742-080147a50941">
+							<seg type="dom" rend="usg">LINGV. </seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-7e40f5e6-2fdc-4c86-8742-080147a50941">
+							<ptr target="apofonie"/>
+							<usg>
+								<seg type="dom" rend="usg">LINGV. </seg>
+							</usg>
+						</xr>
+						<cit type="unknown">
+							<quote>Tipul unei mari părţi a flecţiunii germane (bazate pe ceea ce
+								numesc ei „Umlaut”, nu „<hi rend="bold">Ablaut</hi>”) s-ar strica
+								dacă sunetele ä, ö, ü s-ar scrie prin alte semne.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-287ad18f-8716-111c-6c06-1a4dcfcb6dcd">maiore</ptr>
+								<date>1866</date>
+								<citedRange>362</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablaut</hi> îş are rădăcinile în timpurile de
+								primitivă existenţă a limbilor indogermane, însă nu aparţine
+								excluziv acelui timp.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">phil</ptr>
+								<date>1894</date>
+								<citedRange>226</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-dfe1caf6-e157-44cc-9e1c-34fa5e19ba74" n="">
+						<def xml:id="uuid-205d3739-4596-4904-b8f1-ca884da7c274"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablauturi</number>
+					</form>
+				</form>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Ablaut</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<date>1978</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

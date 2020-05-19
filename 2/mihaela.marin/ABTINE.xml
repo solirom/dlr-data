@@ -657,9 +657,7 @@
 				</etym>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abstinere</term>
-					<note type="uuid-48bf2fe1-fea2-318f-ad80-2a950def2744" n="unknown" cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown">ţine</term>
-					</note></etym>
+					<note>ţine</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">băl</ptr>

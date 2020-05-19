@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8636cfd9-6fd0-4c7b-86ac-3ec7cb3bb938" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T16:22:16+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abolani</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABOLÁNI</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="m."/>
+					<number value="pl."/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-e8216909-94b8-4bac-be7b-9624d74d6ed9" n="">
+						<def xml:id="uuid-4dbacb7d-a57e-4f45-bc8e-6116e74fbcab">Populaţie care
+							locuia în Antichitate în Latium, din Italia centrală de azi.</def>
+						<usg corresp="#uuid-4dbacb7d-a57e-4f45-bc8e-6116e74fbcab">
+							<seg type="time" rend="usg">Înv. </seg>
+						</usg>
+						<cit type="unknown">
+							<quote>În anticitatea preistorică au esistat numai două grupe mari de
+								pelasgi ... la care aparțineau locuitorii Lațiului (albani, bolani,
+									<hi rend="bold">abolani</hi>).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c5bdcd7-6391-1369-9095-ea3dbe953772">dacia</ptr>
+								<date>1911 (†)</date>
+								<citedRange>912</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-0e30ea3b-1239-41e2-b311-e532ff6bb449" n="">
+						<def xml:id="uuid-57968f16-8cf7-442e-bf75-e68d2f8395e6"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">Abolani, -orum</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<date>2002</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

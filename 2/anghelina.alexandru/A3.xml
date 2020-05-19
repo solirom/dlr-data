@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -391,7 +391,9 @@
 									<term>De-a rostogolul</term>
 								</form>
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+									<usg>
+										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg>
+									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
 									<term>De-a rostogol</term>
 								</form>
@@ -823,7 +825,7 @@
 									<citedRange>320</citedRange>
 								</bibl>
 							</cit>
-							<cit type="✧ POP.">
+							<cit type="unknown">
 								<bibl type="author-reference">
 									<author target="BIBICESCU"/>
 								</bibl>
@@ -2023,7 +2025,11 @@
 							</sense>
 							<sense xml:id="uuid-37fad64b-6715-4f56-8c92-d897ac5437aa" n="✧">
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi></seg></usg>
+									<usg>
+										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">
+											<hi rend="italic">pop.</hi>
+										</seg>
+									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 									<term>A-bușile</term>
 								</form>

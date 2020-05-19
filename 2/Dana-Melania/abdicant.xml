@@ -73,6 +73,11 @@
 						<number>abdicanţi, -te</number>
 					</form>
 				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+						<term>-Ă</term>
+					</form>
+				</form>
 				<etym cert="high">
 					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abdica"/><term xml:lang="" type="sufix" subtype="unknown">ant</term>
 				</etym>

@@ -79,9 +79,7 @@
                 <etym cert="high">
                     <idno type="element.extern-trimitere-După"/>
                     <term xml:lang="fr" type="unknown" subtype="unknown">acétifier</term>
-                    <note type="unknown" n="unknown" cert="high">
-                        <term/>
-                    </note>
+                    <note/>
                 </etym>
             </entry>
         </body>

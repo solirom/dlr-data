@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-622dadd0-0e69-4142-8a7b-afabcd074d0c" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-29T11:23:10+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="1">ablativ</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABLATÍV</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="n."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-707b9a2a-d93f-49bc-8c5e-fa86506cc58e" n="">
+						<sense xml:id="uuid-5e154082-a296-4681-b2ab-a99871246c34" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Ablativ absolut</term>
+							</form>
+							<def xml:id="id">construcţie sintactică specifică limbii latine,
+								alcătuită dintr-un substantiv sau un pronume şi un participiu în
+								cazul ablativ, cu rol de propoziţie circumstanţială.</def>
+							<cit type="unknown">
+								<quote>Această partiţipo-gherundie, ca un <hi rend="bold">ablativ</hi>
+									<hi rend="bold">absolut</hi> se înformă în timpul preazent:
+									Activ: Zidind romanii Roma. Pasiv: Zidindu-se Roma.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-206a1f59-8d48-14ab-2a89-6ffc90d52c6e">săul</ptr>
+									<date>1833</date>
+									<citedRange>106/6</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În <hi rend="bold">ablativul absolut</hi> limba latină avea
+									un raport de atribut.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">phili</ptr>
+									<date>1894</date>
+									<citedRange>205</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Interpretarea <hi rend="bold">ablativului absolut</hi> „salva
+									substantia rerum” din definiţiune a dat naştere la o subtilă
+									controversă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hama</ptr>
+									<date>1930</date>
+									<citedRange>609</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Participiul trecut apare neobișnuit de des în construcții
+									absolute, după modelul limbilor franceză și italiană, care au
+									imitat, de timpuriu,<hi rend="bold"> ablativul absolut </hi>din
+									latinește.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f37965fd-2f70-a4a1-0abe-61265e8b8758">iorda</ptr>
+									<date>1943</date>
+									<citedRange>455</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold">Ablativul absolut</hi> este o construcţie
+									frecventă în toate epocile literare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-dcc4cf6b-570d-38a9-63c0-b4eaaa711583">ist</ptr>
+									<date>1965</date>
+									<citedRange>372</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>În realitate, este vorba aici de un <hi rend="bold">ablativ
+										absolut</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f6d49dac-6c44-5ede-040a-85fff7e9887e">petol</ptr>
+									<date>2010</date>
+									<citedRange>98</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-4fac3cfd-0336-4dfd-a3a7-96c8bad56bf8" n="✦">
+							<def xml:id="id">Care indică ablativul.</def>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adjectival</seg>) <seg type="time" rend="usg">Înv. </seg>(<seg type="hint" rend="usg">Despre cazuri</seg>) </usg>
+							<cit type="unknown">
+								<quote>Să pună ... căderea <hi rend="bold">ablativă</hi> iarăşi
+									înainte.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a46a9c10-1a71-3f83-6fc5-556f6a415c68">văcăr</ptr>
+									<date>1787</date>
+									<citedRange>99</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Cei ce nu ştiu gramatică nu vor înţelege ce e cazu nominativ
+									şi <hi rend="bold">ablativ</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-198c092e-1b08-3302-02b3-8fd7f5dc0a20">iorgo</ptr>
+									<date>1799</date>
+									<citedRange>155</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Adăogând tot la căderea numitoare propunerea „de la”, să mai
+									iveşte altă cădere ce o putem numi <hi rend="bold">ablativă</hi>, adică aducătoare sau dă aducere, sau luătoare
+									sau dă luare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-8ef22877-7368-6b16-73e6-2730c894a002">goles</ptr>
+									<date>1840</date>
+									<citedRange>18</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-ce2330d6-6e52-4de8-94cb-ed76a964507b" n="✦">
+							<def xml:id="id">Care arată că acţiunea porneşte de la subiect către
+								cineva sau către ceva.</def>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Adjectival</seg>) <seg type="plev" rend="usg">Rar</seg> (<seg type="hint" rend="usg">Despre verbe</seg>) </usg>
+							<cit type="unknown">
+								<quote>Dintre verbele <hi rend="bold">ablative</hi> fac parte „a
+									da”, „a lăsa”, „a vinde”.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+									<date>2006</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-ef14e625-0b9c-4ad4-9a44-34615d40d2f1">Caz în unele limbi
+							cu declinare, care indică punctul de plecare, originea, îndepărtarea,
+							instrumentul sau agentul;</def>
+						<usg corresp="#uuid-ef14e625-0b9c-4ad4-9a44-34615d40d2f1">
+							<seg type="dom" rend="usg">GRAM. </seg>
+						</usg>
+						<xr type="syn" corresp="#uuid-ef14e625-0b9c-4ad4-9a44-34615d40d2f1">
+							<ptr target="luătoriu"/>
+							<usg><seg type="time" rend="usg"> înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-ef14e625-0b9c-4ad4-9a44-34615d40d2f1">
+							<ptr target="luvătoriu"/>
+							<usg><seg type="time" rend="usg"> înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablathiv</hi> respunde întrebarei de la
+								cine.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d1e30ebd-998b-2b3b-5c21-00bff3a20e56">gram</ptr>
+								<date>1783</date>
+								<citedRange>179</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cazuri sunt șase ... <hi rend="bold">Ablativ</hi> –
+								luvătoriul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-95480737-4d96-a033-1ed3-d7a55cfc9f4b">loga</ptr>
+								<date>1822</date>
+								<citedRange>35</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablativul</hi> (luătoriul).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-5c625a96-8a0b-907a-9dda-53191fbf0978">săule</ptr>
+								<date>1833</date>
+								<citedRange>26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Substantivul este în <hi rend="bold">ablativ</hi> când ...
+								răspunde la întrebarea: de la cine sau de cine? </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-ccca8118-0dbf-1b4a-1a44-e403b8ea8e58">grăm</ptr>
+								<date>1835</date>
+								<citedRange>7/26</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablativus</hi> se pune după întrebările cu ce?
+								prin ce? </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-6d8d0619-8ee7-5731-5e11-9ff9637d4892">paulini</ptr>
+								<date>1840</date>
+								<citedRange>11/21</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablativul</hi> seau luătoriul.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-0bf74983-6997-a3bc-6a4d-50101a938672">bălă</ptr>
+								<date>1848</date>
+								<citedRange>12</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Prepoziţia nu-ncetează a cere <hi rend="bold">ablativul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">emin</ptr>
+								<date>1880</date>
+								<citedRange>404</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Din înscripţiunile populare de pe vremea Imperiului Roman, din
+								cartele merovingiene se ştie că mai întâi regimul prepoziţiilor a
+								început a fi foarte nesigur şi că mai mult acuzativul se construia
+								cu toate prepoziţiile, ceea ce a dus la pieirea <hi rend="bold">ablativului</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-88b021d7-13da-5cde-a330-c5ad48b89cef">lambr</ptr>
+								<date>1882</date>
+								<citedRange>97</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Adjectivele participiale, derivate de la a 2-a şi a 3-a conjugare
+								latină, fac după regula precedinte, nominativul ca <hi rend="bold">ablativul</hi> latin.</quote>
+							<bibl type="ap.">
+								<ptr target="#uuid-7b0064b3-2e10-8620-51c3-986a66363479">panu</ptr>
+								<date>1908</date>
+								<citedRange>100</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La acuzativul sing[ular] fem[inin] „henc” şi la <hi rend="bold">ablativul</hi> sing[ular] fem[inin] „haec” avem probabil a face
+								cu o influinţă analogică din partea nominativului „haec”. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-3de42786-1c63-69fc-9d34-9d1b95217f3a">phili</ptr>
+								<date>1923</date>
+								<citedRange>497</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>La toate declinările şi în amândouă numerile avem o singură formă
+								pentru nominativul, acuzativul şi <hi rend="bold">ablativul</hi>
+								latin.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușc</ptr>
+								<date>1940</date>
+								<citedRange>237</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablativul</hi> arăta mai cu seamă punctul de
+								plecare.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-b6090ac1-5551-3619-6763-205ff58c9166">gram</ptr>
+								<date>1954</date>
+								<citedRange>114</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Ablativul</hi> ... e folosit mai ales în
+								exprimarea complementelor circumstanţiale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-efc667b6-9c8d-779f-4147-ee61f08e56d5">intr</ptr>
+								<date>1958</date>
+								<citedRange>150</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>I-am învăţat, pe loc şi pe viaţă, toate prepoziţiile cu <hi rend="bold">ablativul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d364b05c-4b80-2c79-46b6-2f3d48939602">roto</ptr>
+								<date>1983</date>
+								<citedRange>100</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>„Java mishi”: săptămâna de carne (<hi rend="bold">ablativ</hi> în
+								albaneză, caz prepoziţional în română).</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-414f5a39-42e8-a2dd-8212-7cee18759eb7">brâncu</ptr>
+								<date>2012</date>
+								<citedRange>99</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-44459712-15ea-4386-aca1-07ebab782035" n="">
+						<def xml:id="uuid-067cae3c-2514-4440-84e6-620ccfa43e47"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="writing">
+					<oVar>ablathiv</oVar>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<number>ablative</number>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg>(formă latinizantă)</usg>
+					<def>ablatívus</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="n."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">ablatif</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">ablativus</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+						<date>1839</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stama</ptr>
+						<date>1851</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<date>1857</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<date>1898</date>
+						<citedRange>s. v. ablativus</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<date>1913</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<date>1930</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
+						<date>1997</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>

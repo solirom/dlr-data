@@ -97,10 +97,7 @@
 				</re>
 				<etym cert="low">
 					<idno type="element.necunoscut"/>
-					<note type="uuid-3da5e0a5-9c68-3bb8-b68a-69151380ca62" n="cf." cert="high">
-						<term xml:lang="" type="unknown" subtype="unknown"/>
-						<term xml:lang="" type="unknown" subtype="unknown">„credință”</term>
-					</note></etym>
+					<note>cf. „credință”</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>

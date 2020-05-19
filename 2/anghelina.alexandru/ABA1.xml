@@ -3,7 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -36,11 +36,19 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-f656aab8-8526-4db1-b768-93d8fdaf5dd5" n="">
-						<def xml:id="uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">În grabă,
-							repede.</def>
-						<usg corresp="#uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">
-							<seg type="geo" rend="usg">prin nord-estul Olt.</seg>
-						</usg>
+						<def xml:id="uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1"/>
+						<xr type="syn" corresp="#uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">
+							<ptr target="În grabă"/>
+							<usg>
+								<seg type="geo" rend="usg">Prin nord-estul Olt.</seg>
+							</usg>
+						</xr>
+						<xr type="syn" corresp="#uuid-99d26ae5-e5b7-4c3b-96ca-98abea830ac1">
+							<ptr target="repede"/>
+							<usg>
+								<seg type="geo" rend="usg">Prin nord-estul Olt.</seg>
+							</usg>
+						</xr>
 						<cit type="unknown">
 							<quote>Mă silesc <hi rend="bold">aba</hi> să gat.</quote>
 							<bibl type="unknown">

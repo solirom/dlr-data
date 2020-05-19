@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-61f702d5-017c-4ace-8ead-5e08e7f98371" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-05-07T08:15:18+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abmacerare</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABMACERÁRE</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="s."/>
+					<gen value="f."/>
+					<number value=""/>
+					<case value=""/>
+					<subc value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-972b87e6-512f-4403-9366-d46107295fc5" n="">
+						<def xml:id="uuid-547adea6-1f6b-4a18-8eef-c10155678286"/>
+						<xr type="syn" corresp="#uuid-547adea6-1f6b-4a18-8eef-c10155678286">
+							<ptr target="Istovire"/>
+							<usg><seg type="geo" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						</xr>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b8e9d6ba-6d85-482d-b845-f184d4fd8a90" n="">
+						<def xml:id="uuid-42db6b9e-ce05-4c7c-8ca4-ac15a3a6406b"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="formație.internă-derivat-cu.prefix"/><term xml:lang="" type="prefix" subtype="unknown">ab-</term><ptr targetLang="" type="base-word" subtype="unknown" target="macera"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

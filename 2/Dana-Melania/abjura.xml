@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-01f61853-9d63-4781-bdac-bc341c80d355" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author>Dana-Melania</author>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-04-22T10:56:31+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="">abjura</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABJURÁ</stress>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value="vb."/>
+					<iType value="I"/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-be002851-fc55-4137-b723-3dc1eaccaa12" n="">
+						<sense xml:id="uuid-f98751dd-24a6-4251-ad36-da416208710d" n="✧">
+							<def xml:id="id"/>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Cu complementul în
+									dativ</seg>)</usg>
+							<cit type="unknown">
+								<quote>Învins de amor, <hi rend="bold">îşi abgiur</hi>ă credinţa. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-72432072-7a24-5049-1ac7-e46c36bb84fb">ierus</ptr>
+									<date>1852</date>
+									<citedRange>98/24</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote><hi rend="bold"/>Tiranii [calvini] cereau de la Gheorghe sume
+									mari de răscumpărare pentru capul mitropolitului, iar de alta pe
+									acesta-l forţa ca <hi rend="bold">să-și abjure </hi>credinţa sa
+									religioasă.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-276ece08-0be1-8e1c-7394-e12ea1e91f0e">bariț</ptr>
+									<date>1875</date>
+									<citedRange>172</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Nicicând regele sau regina n-au văzut în ţara noastră ... un
+									om mai prosternat dinaintea mărimii lor pământeşti, mai gata de
+									a-şi renega tot trecutul, de <hi rend="bold">a-și abjura</hi>
+									principiile ... decât pe acest republican.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-62db2471-25b4-99e9-361f-89b3041514a9">Emin</ptr>
+									<date>1881</date>
+									<citedRange>353</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Giordano Bruno ..., ţinând la adevăr mai mult ca la viaţă, a
+									refuzat <hi rend="bold">să-şi abjure </hi>ideile dinaintea
+									tribunalului Inchiziţiei şi s-a lăsat să fie ars pe rug.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negul</ptr>
+									<date>1934</date>
+									<citedRange>204</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>:A fost prea întreţesută fiinţa poetului cu epoca pentru a
+									presupune că el <hi rend="bold">şi-ar fi abjurat </hi>crezul. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+									<date>1984</date>
+									<citedRange>mai, 43</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-fb43d07f-b3b9-47f6-b7ce-ce81eb03293c" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="intranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<def xml:id="id"/>
+							<cit type="unknown">
+								<quote>Anton Estienne ... după ce studie la Lyon trecu la Paris,
+									unde <hi rend="bold">abjurând</hi> de la credinţa reformistă la
+									1612, fu numit tipograful regelui la 1615.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20">ionesc</ptr>
+									<date>1906</date>
+									<citedRange>43</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<gramGrp>
+							<pos value="vb."/>
+							<iType value="I"/>
+							<subc value="tranz."/>
+							<subc value=""/>
+						</gramGrp>
+						<usg corresp="#uuid-be002851-fc55-4137-b723-3dc1eaccaa12">(<seg type="gram" rend="usg">Folosit și absol.</seg>)</usg>
+						<def xml:id="uuid-92922d5c-1792-4a8d-98f2-516f41cb339e">A renega în mod
+							solemn, public o credinţă religioasă;</def>
+						<def xml:id="uuid-ba0a1567-0f37-45fb-bb38-7c5b5ae1b126">a renunța public la
+							o doctrină, o opinie etc.</def>
+						<usg corresp="#uuid-ba0a1567-0f37-45fb-bb38-7c5b5ae1b126">
+							<seg type="sem" rend="usg">p. ext.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Dacă inima mea ar fi fost aşa de amăgitoare după cum tu cugeţi …
+								n-aş fi avut decât <hi rend="bold">a abjura</hi> credinţa
+								mea.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<date>1840</date>
+								<citedRange>94<hi rend="superscript">2</hi>/11</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Ce e mai trist pe lume? ̶ Un om care <hi rend="bold">abjură</hi>
+								Principii de dreptate, ce-o dată-a profesat. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8b46c815-1a2e-75ca-4a5f-4c3af897041c">orăș</ptr>
+								<date>&lt;1859–1868&gt;</date>
+								<citedRange>39</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Acel june era Mitică Râmătorian ... care, dupe ce trădase pe cei
+								mai de frunte patrioţi şi <hi rend="bold">abjurase</hi> sacrul
+								principiu al libertăţii, venea acum să-i dea ultima lovire prin
+								mincinosul şi esageratul său patriotism.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-751d3d72-4748-5f4a-33ab-d3ec96c52732">filim</ptr>
+								<date>1861</date>
+								<citedRange>329</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cei care <hi rend="bold">abjurau</hi> uniunea erau incriminaţi de
+								apostazie, închiși şi condamnați.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">bariț</ptr>
+								<date>1889</date>
+								<citedRange>409</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Giordano Bruno ... refuză să <hi rend="bold">abjure</hi>
+								credinţele sale filosofice.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negul</ptr>
+								<date>1910</date>
+								<citedRange>21 [Introducere]</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Poate, fără voia lor, [ţărăniştii] au fost scutiţi de <hi rend="bold">a abjura </hi>vechiul lor angajament împotriva
+								Constituţiei şi a legislaţiei liberale.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8">vinea</ptr>
+								<date>1926</date>
+								<citedRange>235</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Aceste femei care se lăsau arse pe rug, fără <hi rend="bold">să
+									abjure</hi> sau să denunţe, aveau un „mare secret”.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5">eliade</ptr>
+								<date>1962</date>
+								<citedRange>441</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-dcdc1c66-ad55-4b22-b59b-89a809c307c1" n="">
+						<def xml:id="uuid-1004d7a5-dece-4b27-8967-168382e33247"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="ind."/>
+						<tns value="prez."/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abjúr</form>
+					</form>
+				</form>
+				<re type="lexical-variant-section">
+					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
+					<def>abgiurá</def>
+					<gramGrp>
+						<pos value="vb."/>
+						<iType value="I"/>
+						<subc value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abjurer</term>
+				</etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abjurare</term>
+				</etym>
+				<note type="bibliographic-references">
+					<bibl type="unknown">
+						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<date>1840</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<date>1848</date>
+						<citedRange>s. v. abjurare</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<date>1859</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protop</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">Antone</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<date>1862</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<date>1868</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<date>1871</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<date>1886</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<date>1893</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<date>1896</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<date>1903</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<date>1905</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<date>1924</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<date>1929</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
+						<date>1931</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<date>1939</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<date>1955</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<date>1958</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<date>1961</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<date>1975</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<date>1993</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<date>2001</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<date>2006</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<date>2007</date>
+						<citedRange/>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<date>2011</date>
+						<citedRange/>
+					</bibl>
+				</note>
+			</entry>
+		</body>
+	</text>
+</TEI>
