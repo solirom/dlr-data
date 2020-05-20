@@ -87,11 +87,11 @@
 							</sense>
 							<def xml:id="id">Conferire a dreptului de a practica o anumită
 								profesie;</def>
-							<xr type="asoc" corresp="#id">
-								<ptr target="abilita (1)"/>
-							</xr>
 							<def xml:id="uuid-53f43484-f07e-4bfa-ad20-be91a23b48ce">recunoaştere a
 								unui anumit grad, a unui anumit titlu.</def>
+							<xr type="asoc">
+								<ptr target="abilita (1)"/>
+							</xr>								
 							<cit type="unknown">
 								<quote>D-sa are de gând să-ţi scrie vrând să se sfătuească cu d-ta
 									despre vreo lucrare ce s-ar potrivi pentru <hi rend="bold">abilitarea</hi> lui la Facultatea noastră de
@@ -120,7 +120,7 @@
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">JUR.</seg>
 							</usg>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abilita (2)"/>
 							</xr>
 							<cit type="unknown">
@@ -159,7 +159,9 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abilitări</number>
 					</form>
 				</form>
@@ -180,7 +182,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abilita"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abilita"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

@@ -95,7 +95,7 @@
 							<xr type="remote-syn" corresp="#id">
 								<ptr target="lepădare (II 1)"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abandona (1)"/>
 							</xr>
 							<cit type="unknown">
@@ -241,10 +241,10 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="nepăsare"/>
 							</xr>
-							<xr type="analog" corresp="#id">
+							<xr type="analog">
 								<ptr target="apatie"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abandona (2)"/>
 							</xr>
 							<cit type="unknown">

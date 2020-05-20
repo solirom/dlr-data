@@ -82,7 +82,7 @@
 						<usg corresp="#uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">
 							<seg type="dom" rend="usg">Bot.</seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">Musa
+						<term xml:lang="la" type="unknown" subtype="unknown">Musa
 							textilis</term>
 						<cit type="unknown">
 							<quote>Ca plantă textilă e cultivată pe o scară foarte întinsă M.[usa]
@@ -125,7 +125,9 @@
 						<number>abaca</number>
 					</form>
 				</form>
-				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">astăzi rar</seg></usg>
+				<re type="lexical-variant-section"> , <usg>
+                        <seg type="time" rend="usg">astăzi rar</seg>
+                    </usg>
 					<def>abácă</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>

@@ -1,18 +1,18 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/FlorinV" owner="FlorinV" group="dlr-redactors" mode="774" created="2019-04-16T05:42:11+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="lua1.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:41+03:00" modified="2019-10-19T06:20:46+03:00" filename="lua1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="lua1.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:41+03:00" modified="2020-05-19T06:02:42+03:00" filename="lua1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="DESTUL.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:38+03:00" modified="2019-10-19T06:20:46+03:00" filename="DESTUL.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="DESTUL.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:38+03:00" modified="2020-05-19T06:04:31+03:00" filename="DESTUL.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="dare.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:38+03:00" modified="2019-10-19T06:20:46+03:00" filename="dare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="dare.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:38+03:00" modified="2020-05-19T06:06:08+03:00" filename="dare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="dadaa2.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:37:07+03:00" modified="2019-10-19T06:20:46+03:00" filename="dadaa2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="lua.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:40+03:00" modified="2019-10-19T06:20:46+03:00" filename="lua.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="lua.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:40+03:00" modified="2020-05-19T06:09:44+03:00" filename="lua.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="adresaa.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:37:00+03:00" modified="2020-05-19T04:40:58+03:00" filename="adresaa.xml" mimetype="application/xml">
@@ -24,7 +24,7 @@
     <resource type="XMLResource" name="limburush.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:39+03:00" modified="2019-10-19T06:20:46+03:00" filename="limburush.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="DESTUL1.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:39+03:00" modified="2020-05-19T04:40:58+03:00" filename="DESTUL1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="DESTUL1.xml" owner="FlorinV" group="dba" mode="774" created="2018-06-12T20:34:39+03:00" modified="2020-05-19T06:15:07+03:00" filename="DESTUL1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

@@ -42,7 +42,7 @@
 							<def xml:id="id">Reţinere, privare, înfrânare de la consumarea unor
 								anumite alimente sau băuturi, de la satisfacerea unor plăceri, a
 								unor acte fiziologice sau deprinderi.</def>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abţine (2)"/>
 							</xr>
 							<cit type="unknown">
@@ -162,7 +162,8 @@
 									<ptr target="#uuid-7dbae051-8268-19e9-1d70-55a6f169145a">enc.
 										simb</ptr>
 									<date>2005</date>
-									<citedRange>s. v. <hi rend="italic">post</hi></citedRange>
+									<citedRange>s. v. <hi rend="italic">post</hi>
+                                    </citedRange>
 								</bibl>
 							</cit>
 						</sense>
@@ -172,7 +173,8 @@
 								<def xml:id="uuid-f048981f-f2a8-499a-b8f9-ec43645109aa"> vot care
 									exprimă o astfel de atitudine.</def>
 								<usg corresp="#uuid-f048981f-f2a8-499a-b8f9-ec43645109aa">
-									<seg type="sem" rend="usg"><hi rend="italic">concr</hi>.</seg>
+									<seg type="sem" rend="usg">
+                                        <hi rend="italic">concr</hi>.</seg>
 								</usg>
 								<cit type="unknown">
 									<quote>Pe lângă 5 voturi constituţionali contra adresei mai sunt
@@ -305,7 +307,7 @@
 								discuţie;</def>
 							<def xml:id="uuid-58835bf3-8f0d-4d81-bced-c573f0542aa1">neexprimare a
 								părerii în privinţa cuiva sau a ceva.</def>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abţine (2)"/>
 							</xr>
 							<cit type="unknown">
@@ -450,7 +452,8 @@
 								situaţiile prevăzute de lege, solicită înlocuirea lor cu alte
 								persoane având aceeaşi calitate.</def>
 							<usg corresp="#id">
-								<seg type="dom" rend="usg"><hi rend="italic">JUR</hi>.</seg>
+								<seg type="dom" rend="usg">
+                                    <hi rend="italic">JUR</hi>.</seg>
 							</usg>
 							<cit type="unknown">
 								<quote/>
@@ -487,18 +490,26 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abţineri</number>
 					</form>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
 						<case value="gen.-dat. și">abţinerei</case>
-						<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>, <seg type="sem" rend="usg">rar</seg>)</hi></usg>
+						<usg>
+                            <hi rend="italic">(<seg type="time" rend="usg">înv.</seg>, <seg type="sem" rend="usg">rar</seg>)</hi>
+                        </usg>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi></usg>
+					<usg>
+                        <hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi>
+                    </usg>
 					<def>abstináre</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -509,7 +520,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi></usg>
+					<usg>
+                        <hi rend="italic">(<seg type="time" rend="usg">înv.</seg>)</hi>
+                    </usg>
 					<def>absțínere</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -520,8 +533,10 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
-					<note/></etym>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abţine"/>
+					<note/>
+                </etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>

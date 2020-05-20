@@ -48,8 +48,11 @@
 						</usg>
 						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
 							<ptr target="abager"/>
-							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">pop.</hi>
-								</seg></usg>
+							<usg>
+                                <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">
+                                    <hi rend="italic">pop.</hi>
+								</seg>
+                            </usg>
 						</xr>
 						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
 							<ptr target="piuar"/>
@@ -63,10 +66,10 @@
 								<seg type="geo" rend="usg">reg.</seg>
 							</usg>
 						</xr>
-						<xr type="asoc" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<xr type="asoc">
 							<ptr target="șalvaragiu"/>
 						</xr>
-						<xr type="asoc" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<xr type="asoc">
 							<ptr target="sumănar"/>
 						</xr>
 						<cit type="unknown">
@@ -182,7 +185,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abagiii</hi> făceau tuzluci, pantaloni (nădragi),
+							<quote>
+                                <hi rend="bold">Abagiii</hi> făceau tuzluci, pantaloni (nădragi),
 								mintene scurte până la brâu.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">igiena</ptr>
@@ -248,7 +252,8 @@
 							</bibl>
 						</cit>
 						<cit type="✧ POP.">
-							<quote><hi rend="bold">Habagiul</hi> cu capace Toată noaptea nu-mi dă
+							<quote>
+                                <hi rend="bold">Habagiul</hi> cu capace Toată noaptea nu-mi dă
 								pace, Tot mă pișcă și mă trage Și mă roagă să-l sărut.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-70974a0b-97c9-1226-333a-50c32f974b76">hore</ptr>
@@ -303,12 +308,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abagii</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>abăgíu</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -319,7 +328,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>abagéu</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -330,7 +341,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>habagíu</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -341,7 +354,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="tr" type="unknown" subtype="unknown">abağy</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="tr" type="unknown" subtype="unknown">abağy</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

@@ -34,10 +34,34 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-e113917d-4f35-4101-b7ba-186edcebcb62" n="">
-						<def xml:id="uuid-0c6b9832-8dea-4c9b-8e57-37de5d9ea516"/>
+						<xr type="syn" xml:id="uuid-535bafd8-3501-46ea-b40e-28fb0d93ce01">
+							<ptr target="unknown"/>
+						</xr>
+						<term xml:lang="la" type="unknown" subtype="unknown"/>
 						<xr type="analog">
 							<ptr target="unknown"/>
 						</xr>
+						<xr type="asoc">
+							<ptr target="unknown"/>
+						</xr>
+						<ptr type="trimitere" target="unknown"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<re type="lexical-variant-section">
+							<def/>
+							<gramGrp>
+								<pos value=""/>
+							</gramGrp>
+						</re>
+						<etym cert="high">
+							<idno type="unknown"/>
+						</etym>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">

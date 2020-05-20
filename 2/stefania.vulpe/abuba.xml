@@ -44,7 +44,7 @@
 							<seg type="dom" rend="usg">MED.</seg>
 							<seg type="register style" rend="usg">Pop. </seg>
 						</usg>
-						<xr type="analog" corresp="#uuid-424225f3-e468-4bda-b160-d8237d246885">
+						<xr type="analog">
 							<ptr target="abces"/>
 						</xr>
 						<cit type="unknown">
@@ -60,7 +60,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abubă</hi> [=] umflare dureroasă a gurii la
+							<quote>
+                                <hi rend="bold">Abubă</hi> [=] umflare dureroasă a gurii la
 								prunci.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">d.
@@ -70,7 +71,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abubă</hi> [=] Bubă vânătă, negricoasă,
+							<quote>
+                                <hi rend="bold">Abubă</hi> [=] Bubă vânătă, negricoasă,
 								înveninată și foarte dureroasă, care se face mai adesea în
 								gură.</quote>
 							<bibl type="unknown">
@@ -107,7 +109,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abubă</hi>. (Abces alveolar) Umflarea gingiilor
+							<quote>
+                                <hi rend="bold">Abubă</hi>. (Abces alveolar) Umflarea gingiilor
 								și a obrazului din pricina unui dinte stricat.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-187b9735-57d6-7f02-3b86-130d27107cd9">boli</ptr>
@@ -144,7 +147,8 @@
 							</bibl>
 						</cit>
 						<cit type="✧ POP.">
-							<quote><hi rend="bold">Abubă </hi>[=] buba rea.</quote>
+							<quote>
+                                <hi rend="bold">Abubă </hi>[=] buba rea.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-5a4b537f-8cec-3827-1374-d5b0ec7c852c">vâlcea</ptr>
 								<date>1910</date>
@@ -167,15 +171,20 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abube</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/><ptr targetLang="" type="component-element" subtype="unknown" target="Pron. a"/><ptr targetLang="" type="base-word" subtype="unknown" target="bubă"/>
+					<idno type="formație.internă-compus-element.de.compunere.+.cuvânt.bază"/>
+                    <ptr targetLang="" type="component-element" subtype="unknown" target="Pron. a"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="bubă"/>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term xml:lang="" type="unknown" subtype="unknown"/>
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term xml:lang="" type="unknown" subtype="unknown"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
@@ -191,7 +200,8 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">D. etim</ptr>
 						<date>1966</date>
-						<citedRange>s.v. <hi rend="italic">bubă</hi></citedRange>
+						<citedRange>s.v. <hi rend="italic">bubă</hi>
+                        </citedRange>
 					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>

@@ -40,10 +40,10 @@
                         <sense xml:id="uuid-0885915a-099a-423b-b2aa-5cdb99d34c66" n="1.">
                             <def xml:id="uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">A apuca (cu mâna) pentru a ţine sau a folosi, pentru a duce cu
                                 sine sau a muta în altă parte. </def>
-                            <xr type="analog" corresp="#uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">
+                            <usg corresp="#uuid-edc6194f-ee71-410e-91f7-b68d58e8b033"><seg type="hint" rend="usg">complementul indică un obiect</seg></usg>
+                            <xr type="analog">
                                 <ptr target=" p r i n d e  (1 1)"/>
-                            </xr>
-                            <dictScrap corresp="#uuid-edc6194f-ee71-410e-91f7-b68d58e8b033">complementul indică un obiect</dictScrap>
+                            </xr>                            
                             <cit type="unknown">
                                 <quote>Luo brâul lui Pavelu şi-ş legă picioarele sale. </quote>
                                 <bibl type="unknown">
@@ -205,7 +205,7 @@
                             <sense xml:id="uuid-2860cc2c-33bd-414d-874d-085c2d95fecf" n="◊">
                                 <sense xml:id="uuid-9f0a41bb-bc29-475e-8ede-8e77b1320e59" n="a)">
                                     <def xml:id="uuid-51e67070-9064-46b4-af1a-f093a2c27742">a deveni proprietar; a se face stăpân. </def>
-                                    <xr type="analog" corresp="#uuid-51e67070-9064-46b4-af1a-f093a2c27742">
+                                    <xr type="analog">
                                         <ptr target="stăpânire (*1*)."/>
                                     </xr>
                                     <cit type="unknown">
@@ -264,12 +264,16 @@
                                 <form type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                     <term>a lua întru stăpânire (ceva sau pe cineva)</term>
-                                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                    </usg>
                                 </form>
                                 <form type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                     <term>a lua întru posesiune (ceva sau pe cineva)</term>
-                                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                                    <usg>
+                                        <seg type="time" rend="usg">înv.</seg>
+                                    </usg>
                                 </form>
                                 <def xml:id="uuid-635f6037-fa2a-4833-b304-fdbf5e1237f0"/>
                                 <cit type="unknown">
@@ -364,7 +368,7 @@
                                     <term>a lua două piei de pe o oaie</term>
                                 </form>
                                 <def xml:id="uuid-cca2a23b-5c55-46c1-b374-8838e9053796">a urmări sau a obţine un câştig exagerat. </def>
-                                <xr type="analog" corresp="#uuid-cca2a23b-5c55-46c1-b374-8838e9053796">
+                                <xr type="analog">
                                     <ptr target="o a i e (1). "/>
                                 </xr>
                                 <cit type="unknown">
@@ -391,7 +395,7 @@
                                 </form>
                                 <def xml:id="uuid-c24c40d6-0636-436d-9acf-8ed19900fec6">a-şi pierde vremea cu lucruri fară rost, fară importanţă
                                     sau imposibil de găsit. </def>
-                                <xr type="analog" corresp="#uuid-c24c40d6-0636-436d-9acf-8ed19900fec6">
+                                <xr type="analog">
                                     <ptr target="p o t c o a v ă (1). "/>
                                 </xr>
                                 <cit type="unknown">
@@ -506,7 +510,7 @@
                                 </form>
                                 <def xml:id="uuid-890649a4-454e-47d8-81a5-b161f551700a">se spune despre cineva (sau despre ceva) care nu se mai
                                     găseşte acolo unde era mai înainte, care este de negăsit. </def>
-                                <xr type="analog" corresp="#uuid-890649a4-454e-47d8-81a5-b161f551700a">
+                                <xr type="analog">
                                     <ptr target=" un d e ( I 1 ) ."/>
                                 </xr>
                                 <cit type="unknown">
@@ -612,7 +616,7 @@
                             <xr type="syn" corresp="#uuid-2125b4dd-446c-45a7-8981-dce0c8836f72">
                                 <ptr target="a cumpăra"/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-2125b4dd-446c-45a7-8981-dce0c8836f72">
+                            <xr type="analog">
                                 <ptr target="târgui (2)."/>
                             </xr>
                             <cit type="unknown">
@@ -665,7 +669,9 @@
                 <form type="pronunciation" value="bisyllabic">
                     <pRef xml:lang="ro-x-accent-lowcase-vowels"> lu-a</pRef>
                     <pRef xml:lang="ro-x-accent-lowcase-vowels">lua</pRef>
-                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
                 </form>
                 <form type="writing">
                     <oVar>luoa</oVar>
@@ -683,7 +689,9 @@
                         <tns value="prez."/>
                         <per value="pers. 1"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ieu</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -699,8 +707,14 @@
                         <tns value="prez."/>
                         <per value="pers. 2"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">iai</form>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -716,7 +730,9 @@
                         <tns value="prez."/>
                         <per value="pers. 3"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ie</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -732,8 +748,14 @@
                         <tns value="prez."/>
                         <per value="pers. 4"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luom</form>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -758,7 +780,9 @@
                         <tns value="prez."/>
                         <per value="pers. 6"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ieu</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -783,8 +807,14 @@
                         <tns value="perf. s."/>
                         <per value="pers. 3"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luo</form>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -809,7 +839,9 @@
                         <tns value="m. m. perf."/>
                         <per value="pers. 2"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luasei</form>
-                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                        <usg>
+                            <seg type="register style" rend="usg">popular</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -825,7 +857,9 @@
                         <tns value=""/>
                         <per value="pers. 1"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ieu</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -841,8 +875,14 @@
                         <tns value=""/>
                         <per value=""/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să iai</form>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -858,21 +898,27 @@
                         <tns value=""/>
                         <per value="pers. 3"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să iaie</form>
-                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                        </usg>
                     </form>
                     <form type="grammatical-information-for-verb" corresp="">
                         <mood value="conjunct."/>
                         <tns value=""/>
                         <per value="pers. 3"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ieie</form>
-                        <usg><seg type="register style" rend="usg">popular</seg></usg>
+                        <usg>
+                            <seg type="register style" rend="usg">popular</seg>
+                        </usg>
                     </form>
                     <form type="grammatical-information-for-verb" corresp="">
                         <mood value="conjunct."/>
                         <tns value=""/>
                         <per value="pers. 3"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să ie</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -888,8 +934,14 @@
                         <tns value=""/>
                         <per value="pers. 4"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să luom</form>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -905,7 +957,9 @@
                         <tns value=""/>
                         <per value="pers. 2"/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">ie</form>
-                        <usg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <form type="grammatical-information">
@@ -930,7 +984,9 @@
                         <tns value=""/>
                         <per value=""/>
                         <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">luund</form>
-                        <usg><seg type="time" rend="usg">înv.</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                        </usg>
                     </form>
                 </form>
                 <re type="lexical-variant-section">
@@ -941,8 +997,14 @@
                         <subc value=""/>
                         <subc value=""/>
                     </gramGrp>
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
                     <form type="grammatical-information">
                         <idno type="grammatical-information-type-for-vb"/>
                         <form type="grammatical-information-for-verb" corresp="">

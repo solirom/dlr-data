@@ -886,14 +886,15 @@
                                 </bibl>
                             </cit>
                         </sense>
-                        <sense xml:id="uuid-3b78a0b4-b1ce-4e39-9161-b0f4cef0cdb3" n="15."><def xml:id="uuid-16302f8a-fd44-4bef-bc1d-cff244b27ca4">Fiecare dintre
+                        <sense xml:id="uuid-3b78a0b4-b1ce-4e39-9161-b0f4cef0cdb3" n="15.">
+                            <def xml:id="uuid-16302f8a-fd44-4bef-bc1d-cff244b27ca4">Fiecare dintre
                                 părţile de la roata morii în care loveşte apa.</def>
-                            <xr type="asoc" corresp="#uuid-16302f8a-fd44-4bef-bc1d-cff244b27ca4">
-                                <ptr target="pişcoie"/>
-                            </xr>
                             <usg corresp="#uuid-16302f8a-fd44-4bef-bc1d-cff244b27ca4">
                                 <seg type="geo" rend="usg">regional</seg>
                             </usg>
+                            <xr type="asoc">
+                                <ptr target="pişcoie"/>
+                            </xr>                            
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
@@ -1006,7 +1007,7 @@
                                 lucidum).</def>(<xr type="syn" corresp="#uuid-b1a9f1d8-a573-43c3-b4fe-9a2a01fabb8e">
                                 <ptr target="linguriţa-zânei"/>
                             </xr>
-                            <xr type="asoc" corresp="#uuid-b1a9f1d8-a573-43c3-b4fe-9a2a01fabb8e">
+                            <xr type="asoc">
                                 <ptr target="linguriţă (5)"/>
                             </xr>
                             <cit type="unknown">
@@ -1134,13 +1135,13 @@
                             <xr type="syn" corresp="#uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">
                                 <ptr target="linguruş (1)"/>
                             </xr>
-                            <xr type="asoc" corresp="#uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">
-                                <ptr target="v. linguriţă (4)"/>
-                            </xr>
                             <usg corresp="#uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">
                                 <seg type="dom" rend="usg">Zool.</seg>
                                 <seg type="geo" rend="usg">Transilv.</seg>
                             </usg>
+                            <xr type="asoc">
+                                <ptr target="v. linguriţă (4)"/>
+                            </xr>                            
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
@@ -1200,8 +1201,14 @@
                     </form>
                     <form type="grammatical-information-for-plural" corresp="">
                         <number>lingure</number>
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
-                        <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>și
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>
+                            <seg type="geo" rend="usg">regional</seg>
+                        </usg>
                     </form>
                 </form>
                 <re type="lexical-variant-section">
@@ -1213,7 +1220,9 @@
                         <case value=""/>
                         <subc value=""/>
                     </gramGrp>
-                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
                 </re>
                 <re type="lexical-variant-section">
                     <def xml:id="uuid-eabdef9e-eda1-4015-abe8-a4306f6403ce">lúngulă</def>
@@ -1224,7 +1233,9 @@
                         <case value=""/>
                         <subc value=""/>
                     </gramGrp>
-                    <usg><seg type="geo" rend="usg">regional</seg></usg>
+                    <usg>
+                        <seg type="geo" rend="usg">regional</seg>
+                    </usg>
                 </re>
                 <etym cert="high">
                     <idno type="element.moştenit-etimon.atestat"/>

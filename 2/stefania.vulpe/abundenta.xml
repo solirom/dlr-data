@@ -51,11 +51,12 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="prisos"/>
 							</xr>
-							<xr type="analog" corresp="#id">
+							<xr type="analog">
 								<ptr target="unknown"/>
 							</xr>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abondanță </hi>[=] adică bilșug, îmbelșugare,
+								<quote>
+                                    <hi rend="bold">Abondanță </hi>[=] adică bilșug, îmbelșugare,
 									ceea ce e dă prisos, piste trebuință.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
@@ -145,7 +146,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abundenţa</hi> de aur şi pietre preţioase e
+								<quote>
+                                    <hi rend="bold">Abundenţa</hi> de aur şi pietre preţioase e
 									incomparabil mai puţin demnă de uimire decât bărcile sparte, din
 									lemn primitiv, cu care faraonii își închipuiau că vor călători
 									după moarte.</quote>
@@ -385,7 +387,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Cornul abondanței</hi> [=] cel dă unde curge
+								<quote>
+                                    <hi rend="bold">Cornul abondanței</hi> [=] cel dă unde curge
 									toate cele bune. </quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
@@ -615,7 +618,8 @@
 					<sense xml:id="uuid-38256fed-2b1d-4db4-ab57-01e30d3066c6" n="3.">
 						<def xml:id="id">Proporţie în care elementele chimice sunt răspândite în
 							scoarţa Pământului, în atmosferă şi în univers.</def>
-						<usg corresp="#id"><seg type="dom" rend="usg">CHIM.</seg>, <seg type="dom" rend="usg">ASTRON.</seg>
+						<usg corresp="#id">
+                            <seg type="dom" rend="usg">CHIM.</seg>, <seg type="dom" rend="usg">ASTRON.</seg>
 						</usg>
 						<cit type="unknown">
 							<quote/>
@@ -737,9 +741,15 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abundențe</number>
-						<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg><hi rend="italic">)</hi></usg>
+						<usg>
+                            <hi rend="italic">(</hi>
+                            <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                            <hi rend="italic">)</hi>
+                        </usg>
 						<bibl type="unknown">
 							<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
 							<date>1862</date>
@@ -748,7 +758,10 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar<hi rend="italic"/></seg><hi rend="italic">)</hi></usg>
+					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar<hi rend="italic"/>
+                        </seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abundánță</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -759,7 +772,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abondénță</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -770,7 +787,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abondánță</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -781,7 +802,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abundínță</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -792,7 +817,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abondínță</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -803,7 +832,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abundáție</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -814,7 +847,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abondáție</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -825,7 +862,11 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><hi rend="italic">(</hi><seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg><hi rend="italic">)</hi></usg>
+					<usg>
+                        <hi rend="italic">(</hi>
+                        <seg type="time" rend="usg">înv.</seg>,<seg type="plev" rend="usg"> rar</seg>
+                        <hi rend="italic">)</hi>
+                    </usg>
 					<def>abundánție</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -836,10 +877,12 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abondance</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abondance</term>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abundantia, -ae</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abundantia, -ae</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

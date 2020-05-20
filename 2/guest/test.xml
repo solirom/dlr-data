@@ -87,9 +87,6 @@
 						<xr type="syn" corresp="#id">
 							<ptr target="sin 1"/>
 						</xr>
-						<xr type="asoc" corresp="#id">
-							<ptr target="asoc1"/>
-						</xr>
 						<def xml:id="uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">def2</def>
 						<usg corresp="#uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">ind fol2</usg>
 						<xr type="syn" corresp="#uuid-9bc33663-5b99-4d56-aa9e-c17efbb062cf">
@@ -99,6 +96,9 @@
 							<ptr target="sin 22"/>
 						</xr>
 						<term xml:lang="la" type="unknown" subtype="unknown">latnesc 22</term>
+						<xr type="asoc">
+							<ptr target="asoc1"/>
+						</xr>						
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -142,8 +142,12 @@
 					<idno type=""/>
 				</etym>
 				<etym cert="high">
-					<idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/><ptr targetLang="" type="base-word" subtype="unknown" target="a2"/><ptr targetLang="" type="base-word" subtype="unknown" target="ba"/>
-					<note/><note/></etym>
+					<idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="a2"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="ba"/>
+					<note/>
+                    <note/>
+                </etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="unknown">argh</ptr>

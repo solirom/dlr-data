@@ -62,7 +62,7 @@
                         <xr type="syn" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
                             <ptr target="a (se) reduce"/>
                         </xr>
-                        <xr type="analog" corresp="#uuid-c50c94d6-f3b1-43c4-b091-79ab11c7c766">
+                        <xr type="analog">
                             <ptr target="scădea (**1**)"/>
                         </xr>
                         <cit type="unknown">
@@ -113,7 +113,7 @@
 							(), a se
 							împuţina.<hi rend="bold">3), a se reduc e (II 1), a se micşora (III</hi>
                         </def>
-                        <xr type="analog" corresp="#uuid-ac2e8dab-787b-4009-9484-8c0955d9d910">
+                        <xr type="analog">
                             <ptr target="scădea (**2**)"/>
                         </xr>
                         <cit type="unknown">
@@ -324,7 +324,9 @@
                     </form>
                 </form>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
                     <def xml:id="uuid-25f6d3f8-86b1-4ecd-8f32-1aa1d4f1e662">diminuí</def>
                     <gramGrp>
                         <pos value="vb."/>
@@ -334,7 +336,9 @@
                     </gramGrp>
                 </re>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
                     <def xml:id="uuid-cd14d9aa-bae4-4223-832c-1f7b4ebb6c14">deminuí</def>
                     <gramGrp>
                         <pos value="vb."/>

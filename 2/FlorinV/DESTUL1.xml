@@ -186,10 +186,10 @@
                             <xr type="syn" corresp="#uuid-d0af40bb-b6f0-4d87-9965-05e85f08462b">
                                 <ptr target="suficient (1)"/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-d0af40bb-b6f0-4d87-9965-05e85f08462b">
+                            <xr type="analog">
                                 <ptr target="î n de a j uns"/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-d0af40bb-b6f0-4d87-9965-05e85f08462b">
+                            <xr type="analog">
                                 <ptr target="bungăd "/>
                             </xr>
                             <cit type="unknown">
@@ -252,10 +252,10 @@
                             <xr type="syn" corresp="#uuid-4539d512-4e0b-44ef-97eb-869106c520cd">
                                 <ptr target="suficient (1)"/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-4539d512-4e0b-44ef-97eb-869106c520cd">
+                            <xr type="analog">
                                 <ptr target=" î n d e a j u n s "/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-4539d512-4e0b-44ef-97eb-869106c520cd">
+                            <xr type="analog">
                                 <ptr target="b u n g ă d"/>
                             </xr>
                             <cit type="unknown">
@@ -348,7 +348,7 @@
                         <usg corresp="#uuid-6009cc11-8f4f-48cd-b441-301ed45ba069">
                             <seg type="hint" rend="usg">despre distanţe</seg>
                         </usg>
-                        <xr type="analog" corresp="#uuid-6009cc11-8f4f-48cd-b441-301ed45ba069">
+                        <xr type="analog">
                             <ptr target="V. lung."/>
                         </xr>
                         <cit type="unknown">
@@ -430,10 +430,10 @@
                         <usg corresp="#uuid-31287f5a-e6f2-455a-b47f-2f7e6341d766">
                             <seg type="plev" rend="usg">mai ales la abstracte</seg>
                         </usg>
-                        <xr type="analog" corresp="#uuid-31287f5a-e6f2-455a-b47f-2f7e6341d766">
+                        <xr type="analog">
                             <ptr target=" m a r e ^1^ (IV), "/>
                         </xr>
-                        <xr type="analog" corresp="#uuid-31287f5a-e6f2-455a-b47f-2f7e6341d766">
+                        <xr type="analog">
                             <ptr target="mult (2). "/>
                         </xr>
                         <cit type="unknown">
@@ -455,7 +455,7 @@
                         <usg corresp="#uuid-65dce40b-d91e-41ee-994c-cfc391aa0a05">
                             <seg type="time" rend="usg">înv.</seg>, <seg type="hint" rend="usg">în construcția din destul</seg>
                         </usg>
-                        <xr type="analog" corresp="#uuid-65dce40b-d91e-41ee-994c-cfc391aa0a05">
+                        <xr type="analog">
                             <ptr target="mul t  (2). "/>
                         </xr>
                         <cit type="unknown">
@@ -500,8 +500,14 @@
                     </form>
                 </form>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>și
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="register style" rend="usg">popular</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="register style" rend="usg">popular</seg>
+                    </usg>
                     <def xml:id="uuid-3c9c890d-9bff-4d14-9d3b-436e207ba715">dăstúl</def>
                     <gramGrp>
                         <pos value="adj."/>
@@ -510,8 +516,14 @@
                     </gramGrp>
                 </re>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>,
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="plev" rend="usg">rar</seg>
+                    </usg>,
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="plev" rend="usg">rar</seg>
+                    </usg>
                     <def xml:id="uuid-c41fd96c-284f-4493-bced-587b03e7b70e">desătúl</def>
                     <gramGrp>
                         <pos value="adj."/>

@@ -47,7 +47,7 @@
 							<xr type="syn" corresp="#uuid-db300485-862d-4bfd-b6c5-44ef5af6f3af">
 								<ptr target="diversiune (2)"/>
 							</xr>
-							<xr type="asoc" corresp="#uuid-db300485-862d-4bfd-b6c5-44ef5af6f3af">
+							<xr type="asoc">
 								<ptr target="abate2 (I 2)"/>
 							</xr>
 							<cit type="unknown">
@@ -150,7 +150,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abaterile</hi> de la aceste deprinderi
+								<quote>
+                                    <hi rend="bold">Abaterile</hi> de la aceste deprinderi
 									primitive se pot număra uşor.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-fbb7b3ab-a12d-3a95-09f0-6912dcfc03d4">contemp</ptr>
@@ -282,7 +283,10 @@
 						<sense xml:id="uuid-a1bbc441-74dd-4634-baaf-9a872ef233de" n="3.">
 							<sense xml:id="uuid-c4ecdccb-fc4e-44a3-a488-6093ff39a984" n="✦">
 								<def xml:id="id"/>
-								<usg corresp="#id"><seg type="dom" rend="usg">GRAM.</seg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg></usg>
+								<usg corresp="#id">
+                                    <seg type="dom" rend="usg">GRAM.</seg>
+                                    <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg>
+                                </usg>
 								<xr type="syn" corresp="#id">
 									<ptr target="Declinare (1)"/>
 								</xr>
@@ -405,7 +409,7 @@
 								normală;</def>
 							<def xml:id="uuid-b5245bea-03a0-477a-a46b-6370769710ca">schimbare,
 								modificare a direcției.</def>
-							<xr type="asoc" corresp="#uuid-b5245bea-03a0-477a-a46b-6370769710ca">
+							<xr type="asoc">
 								<ptr target="abate2 (I 1)"/>
 							</xr>
 							<cit type="unknown">
@@ -479,7 +483,9 @@
 							</sense>
 							<sense xml:id="uuid-7fc3edce-04a0-4e59-a9ef-45cc121e201e" n="✧">
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg></usg>
+									<usg>
+                                        <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg>
+                                    </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Abatere de la vorbă</term>
 								</form>
@@ -503,7 +509,7 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="poposire"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abate2 (I 3)"/>
 							</xr>
 							<cit type="unknown">
@@ -517,7 +523,9 @@
 						</sense>
 						<sense xml:id="uuid-823072c6-14ef-400d-bc0c-c9785a26035b" n="6.">
 							<def xml:id="id"/>
-							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<usg corresp="#id">
+                                <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                            </usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="Înclinaţie"/>
 							</xr>
@@ -607,7 +615,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abaterea</hi> trunchiului acestui copac [al
+								<quote>
+                                    <hi rend="bold">Abaterea</hi> trunchiului acestui copac [al
 									credinţelor păgâne] sub ascuţişul securii nouălor credinţe nu a
 									putut împiedica lăstare nouă ca să se ivească.</quote>
 								<bibl type="unknown">
@@ -671,7 +680,8 @@
 							</sense>
 							<sense xml:id="uuid-360bfe26-3a41-4603-b740-a994740f0ac1" n="✧">
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="dom" rend="usg">ECON.</seg>, <seg type="dom" rend="usg">ECOL.</seg>
+									<usg>
+                                        <seg type="dom" rend="usg">ECON.</seg>, <seg type="dom" rend="usg">ECOL.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Abatere-standard </term>
@@ -712,7 +722,8 @@
 								</bibl>
 							</cit>
 						</sense>
-						<def xml:id="uuid-b104f1a2-302b-42a8-a404-33d543d483b2">Acţiunea de <hi rend="spaced">a (se) abate</hi><hi rend="superscript">2</hi> şi
+						<def xml:id="uuid-b104f1a2-302b-42a8-a404-33d543d483b2">Acţiunea de <hi rend="spaced">a (se) abate</hi>
+                            <hi rend="superscript">2</hi> şi
 							rezultatul ei.</def>
 						<cit type="unknown">
 							<quote/>
@@ -751,12 +762,15 @@
 					</bibl>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abateri</number>
 					</form>
 				</form>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abate2"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abate2"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

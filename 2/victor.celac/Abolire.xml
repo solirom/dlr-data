@@ -41,7 +41,7 @@
 						<sense xml:id="uuid-f1279371-41c5-4619-a0f9-d3c65b2b373c" n="1.">
 							<def xml:id="id">Scoatere din uz, desființare a unor anumite obiceiuri,
 								privilegii, instituții etc.</def>
-							<xr type="analog" corresp="#id">
+							<xr type="analog">
 								<ptr target="Cf. aboli (1)"/>
 							</xr>
 							<cit type="unknown">
@@ -117,7 +117,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abolirea </hi>prostituției e un titlu de
+								<quote>
+                                    <hi rend="bold">Abolirea </hi>prostituției e un titlu de
 									înaltă cinste omenească și un drept netăgăduit la recunoștința
 									întregei omeniri.</quote>
 								<bibl type="unknown">
@@ -137,7 +138,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abolirea </hi>dictaturii și a stărilor
+								<quote>
+                                    <hi rend="bold">Abolirea </hi>dictaturii și a stărilor
 									excepționale, succesul financiar, asanarea monedei s-au săvârșit
 									în chip firesc prin simpla venire la putere a Partidului
 									Național Țărănesc.</quote>
@@ -167,7 +169,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abolirea </hi>breslelor de către
+								<quote>
+                                    <hi rend="bold">Abolirea </hi>breslelor de către
 									Regulamentele Organice a fost urmată de luarea unor măsuri
 									pentru înființarea de corporații.</quote>
 								<bibl type="unknown">
@@ -210,9 +213,10 @@
 								normative.</def>
 							<usg corresp="#id">
 								<seg type="dom" rend="usg">JUR.<seg type="plev" rend="usg">(În
-										opoziție cu <hi rend="spaced">adoptare</hi>)</seg></seg>
+										opoziție cu <hi rend="spaced">adoptare</hi>)</seg>
+                                </seg>
 							</usg>
-							<xr type="analog" corresp="#id">
+							<xr type="analog">
 								<ptr target="Cf. aboli (2)."/>
 							</xr>
 							<cit type="unknown">
@@ -295,7 +299,7 @@
 							</sense>
 							<def xml:id="id">Dispariție, reducere drastică a importanței acordate
 								unor noțiuni, doctrine, opinii etc.</def>
-							<xr type="analog" corresp="#id">
+							<xr type="analog">
 								<ptr target="Cf. aboli (3)."/>
 							</xr>
 							<cit type="unknown">

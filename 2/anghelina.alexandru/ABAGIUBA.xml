@@ -58,7 +58,7 @@
 						<xr type="remote-syn" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">
 							<ptr target="lemn-câinesc"/>
 						</xr>
-						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-2b80e895-e1ca-4d1c-b9a0-8e97019c84c7">Ligustrum
+						<term xml:lang="la" type="unknown" subtype="unknown">Ligustrum
 							vulgare</term>						
 						<cit type="unknown">
 							<quote/>

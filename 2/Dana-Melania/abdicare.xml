@@ -53,7 +53,7 @@
 									<seg type="time" rend="usg">înv.</seg>
 								</usg>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="abdica (1)"/>
 							</xr>
 							<cit type="unknown">
@@ -306,7 +306,7 @@
 							<ptr target="paretisire"/>
 							<usg>înv.</usg>
 						</xr>
-						<xr type="asoc" corresp="#uuid-750acf54-e15d-44bc-890e-f806ac1f2e03">
+						<xr type="asoc">
 							<ptr target="abdica (1)"/>
 						</xr>
 						<cit type="unknown">
@@ -333,12 +333,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abdicări</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>abdícere</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -349,7 +353,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abdica"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abdica"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

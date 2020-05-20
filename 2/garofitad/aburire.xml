@@ -44,7 +44,7 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="Evaporare (1)"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="aburi (2)"/>
 							</xr>
 							<cit type="unknown">
@@ -208,7 +208,7 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="emanație (1)"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="aburi (1)"/>
 							</xr>
 							<cit type="unknown">
@@ -303,7 +303,7 @@
 							</sense>
 							<def xml:id="id"> Exalare, împrăştiere de aburi de la mâncăruri sau
 								băuturi.</def>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target="aburi (4)"/>
 							</xr>
 							<cit type="unknown">
@@ -401,7 +401,7 @@
 							<xr type="syn" corresp="#id">
 								<ptr target="Adiere"/>
 							</xr>
-							<xr type="asoc" corresp="#id">
+							<xr type="asoc">
 								<ptr target=" aburi (10)"/>
 							</xr>
 							<cit type="unknown">
@@ -475,12 +475,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>aburiri</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg> şi<seg type="register style" rend="usg"> pop.</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg> şi<seg type="register style" rend="usg"> pop.</seg>
+                    </usg>
 					<def>aburáre</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -491,7 +495,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
 					<def> aboríre</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -502,7 +508,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target=" aburi"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target=" aburi"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

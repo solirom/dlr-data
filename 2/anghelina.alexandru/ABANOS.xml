@@ -58,7 +58,7 @@
 						<usg corresp="#uuid-7913f7c7-730b-4f16-b4d4-a400da53be51">
 							<seg type="dom" rend="usg">BOT.</seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-7913f7c7-730b-4f16-b4d4-a400da53be51">Diospyros
+						<term xml:lang="la" type="unknown" subtype="unknown">Diospyros
 							ebenum</term>
 						<cit type="unknown">
 							<quote>Acolo [în Etiopia] iaste aur mult și pili și copacii toți
@@ -374,12 +374,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="1">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="1">
 						<number>abanoși</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="register style" rend="usg">pop.</seg></usg>
+					<usg>
+                        <seg type="register style" rend="usg">pop.</seg>
+                    </usg>
 					<def>abănós</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -390,7 +394,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="tr" type="unknown" subtype="unknown">abanoz</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="tr" type="unknown" subtype="unknown">abanoz</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

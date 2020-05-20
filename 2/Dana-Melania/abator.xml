@@ -151,10 +151,10 @@
 								<seg type="time" rend="usg">înv.</seg>
 							</usg>
 						</xr>
-						<xr type="analog" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+						<xr type="analog">
 							<ptr target="meserniţă (1)"/>
 						</xr>
-						<xr type="analog" corresp="#uuid-f3f65d61-7c84-4963-a342-adb40f8f7641">
+						<xr type="analog">
 							<ptr target="măcelărie (1)"/>
 						</xr>
 						<cit type="unknown">
@@ -188,7 +188,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abatoriul</hi> s-a reparat.</quote>
+							<quote>
+                                <hi rend="bold">Abatoriul</hi> s-a reparat.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-89c36ee1-6ea3-1c1a-1a9e-2b2b7bfe7bf0">oastei</ptr>
 								<date>1888</date>
@@ -222,7 +223,8 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abatoarele</hi> sau „salhanalele” plăteau de zece
+							<quote>
+                                <hi rend="bold">Abatoarele</hi> sau „salhanalele” plăteau de zece
 								ori mai mult ca magaziile mari, adică 30 de lei.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-dc770045-7834-5b1e-9f55-ad037c6f8b7c">giur</ptr>
@@ -292,12 +294,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abatoare</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                    </usg>
 					<def>abatóriu</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
@@ -313,7 +319,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					<usg>
+                        <seg type="geo" rend="usg">reg.</seg>
+                    </usg>
 					<def>abătór</def>
 					<bibl type="unknown">
 						<ptr target="unknown">alrr</ptr>
@@ -329,7 +337,9 @@
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="geo" rend="usg">reg.</seg></usg>
+					<usg>
+                        <seg type="geo" rend="usg">reg.</seg>
+                    </usg>
 					<def>abatúr</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -340,7 +350,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abattoir</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abattoir</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

@@ -41,7 +41,7 @@
 						<usg corresp="#uuid-92d15e1d-b508-4714-99b8-4e852ace3563">
 							<seg type="time" rend="usg">Înv. </seg>și <seg type="register style" rend="usg">popular</seg>
 						</usg>
-						<xr type="analog" corresp="#uuid-92d15e1d-b508-4714-99b8-4e852ace3563">
+						<xr type="analog">
 							<ptr target="abo"/>
 						</xr>
 						<cit type="unknown">
@@ -170,14 +170,20 @@
 					</sense>
 				</dictScrap>
 				<re type="lexical-variant-section">
-					<usg><seg type="register style" rend="usg"><hi rend="italic">pop</hi>.</seg></usg>
+					<usg>
+                        <seg type="register style" rend="usg">
+                            <hi rend="italic">pop</hi>.</seg>
+                    </usg>
 					<def>abắ</def>
 					<gramGrp>
 						<pos value="interj."/>
 					</gramGrp>
 				</re>
 				<re type="lexical-variant-section">
-					<usg><seg type="register style" rend="usg"><hi rend="italic">pop</hi>.</seg></usg>
+					<usg>
+                        <seg type="register style" rend="usg">
+                            <hi rend="italic">pop</hi>.</seg>
+                    </usg>
 					<def>habá </def>
 					<gramGrp>
 						<pos value="interj."/>

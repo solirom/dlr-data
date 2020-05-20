@@ -92,15 +92,15 @@
                             <xr type="syn" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
                                 <ptr target="suficient (1)."/>
                             </xr>
-                            <xr type="analog" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
-                                <ptr target=" î n de a j uns , "/>
-                            </xr>
-                            <xr type="analog" corresp="#uuid-6fb0dc7d-d475-4b65-84ee-d8bf6801fd73">
-                                <ptr target="bungăd. "/>
-                            </xr>
                             <def xml:id="uuid-f4735aae-d6cf-40ef-8d67-b3e45c7e5696">atât cât este
                                 necesar, cât se cuvine pentru a corespunde sau a satisface o
                                 cerinţă, anumite norme etc.</def>
+                            <xr type="analog">
+                                <ptr target=" î n de a j uns , "/>
+                            </xr>
+                            <xr type="analog">
+                                <ptr target="bungăd. "/>
+                            </xr>                                
                             <cit type="unknown">
                                 <quote>Sădesc vii, carele rodesc rod destul.</quote>
                                 <bibl type="unknown">
@@ -188,7 +188,7 @@
                             <usg corresp="#uuid-442b8728-ed91-4317-b8a6-54472f96bc52">
                                  și <seg type="time" rend="usg">înv.</seg>, <seg type="hint" rend="usg">în construcțiile de, din, cu destul</seg>
                             </usg>
-                            <xr type="analog" corresp="#uuid-442b8728-ed91-4317-b8a6-54472f96bc52">
+                            <xr type="analog">
                                 <ptr target="V. mullt (2)."/>
                             </xr>
                             <cit type="unknown">
@@ -226,7 +226,7 @@
                             <usg corresp="#uuid-e1fa7d0d-e30d-469a-b969-2153ace66f3b">
                                 <seg type="hint" rend="usg">despre distanţe</seg>
                             </usg>
-                            <xr type="analog" corresp="#uuid-e1fa7d0d-e30d-469a-b969-2153ace66f3b">
+                            <xr type="analog">
                                 <ptr target="lung"/>
                             </xr>
                             <cit type="unknown">
@@ -333,7 +333,7 @@
                                 <usg corresp="#uuid-d9de831f-a12a-4cab-a97d-ea1fb59dc560">
                                     <seg type="gram" rend="usg">adverbial</seg>
                                 </usg>
-                                <xr type="analog" corresp="#uuid-d9de831f-a12a-4cab-a97d-ea1fb59dc560">
+                                <xr type="analog">
                                     <ptr target="m u 1t (2). "/>
                                 </xr>
                                 <cit type="unknown">
@@ -386,7 +386,7 @@
                             <def xml:id="uuid-d587c8bc-3d62-41c8-8a6a-139dd31b6c03">în mare măsură; </def>
                             <def xml:id="uuid-3ce16dfa-b9ae-472b-be01-d478d5de2d22">în mod
                                 stăruitor. </def>
-                            <xr type="analog" corresp="#uuid-3ce16dfa-b9ae-472b-be01-d478d5de2d22">
+                            <xr type="analog">
                                 <ptr target=" mul t (2). "/>
                             </xr>
                             <cit type="unknown">
@@ -419,7 +419,7 @@
                             <subc value=""/>
                         </gramGrp>
                         <def xml:id="uuid-bcac3a5b-bf7b-48a0-afd2-5ac6e280b726">(Care este) mai mult decât trebuie, prea mult. </def>
-                        <xr type="analog" corresp="#uuid-bcac3a5b-bf7b-48a0-afd2-5ac6e280b726">
+                        <xr type="analog">
                             <ptr target="excesiv."/>
                         </xr>
                         <cit type="unknown">
@@ -460,8 +460,14 @@
                     </form>
                 </form>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>și
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="register style" rend="usg">popular</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="register style" rend="usg">popular</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="register style" rend="usg">popular</seg>
+                    </usg>
                     <def xml:id="uuid-7011e201-debe-42d8-938a-cbbade0f9b7f">dăstúl,</def>
                     <gramGrp>
                         <pos value="adj."/>
@@ -470,8 +476,14 @@
                     </gramGrp>
                 </re>
                 <re type="lexical-variant-section">
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>și
-                    <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="plev" rend="usg">rar</seg>
+                    </usg>și
+                    <usg>
+                        <seg type="time" rend="usg">înv.</seg>
+                        <seg type="plev" rend="usg">rar</seg>
+                    </usg>
                     <def xml:id="uuid-02b022d7-c8b0-46c2-814f-3f8942b56f43">desătúl</def>
                     <gramGrp>
                         <pos value="adj."/>

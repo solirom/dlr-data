@@ -39,7 +39,9 @@
 						<sense xml:id="uuid-5d9a18ed-9516-467e-a9f5-afe2626704f2" n="✦">
 							<def xml:id="id"> Care este acoperit cu aburi proveniți din procese
 								fiziologice;</def>
-							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<usg corresp="#id">
+								<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+							</usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="umed"/>
 							</xr>
@@ -215,7 +217,8 @@
 							</bibl>
 						</cit>
 					</sense>
-					<sense xml:id="uuid-47d11a28-7025-44ef-a3a0-b8f22ab4e7f8" n="2."><sense xml:id="uuid-3e34aff8-3cd7-42ea-bd74-b06343b98185" n="✧">
+					<sense xml:id="uuid-47d11a28-7025-44ef-a3a0-b8f22ab4e7f8" n="2.">
+						<sense xml:id="uuid-3e34aff8-3cd7-42ea-bd74-b06343b98185" n="✧">
 							<def xml:id="id"/>
 							<usg corresp="#id">(<seg type="gram" rend="usg">Adverbial</seg>) </usg>
 							<cit type="unknown">
@@ -230,7 +233,9 @@
 							</cit>
 						</sense>
 						<def xml:id="id">Asemănător cu aburul;</def>
-						<usg corresp="#id"><seg type="register style" rend="usg">Livr</seg>., <seg type="plev" rend="usg">rar</seg></usg>
+						<usg corresp="#id">
+							<seg type="register style" rend="usg">Livr</seg>., <seg type="plev" rend="usg">rar</seg>
+						</usg>
 						<xr type="syn" corresp="#id">
 							<ptr target="diafan"/>
 						</xr>
@@ -246,13 +251,17 @@
 								<citedRange>73</citedRange>
 							</bibl>
 						</cit>
-						<etym cert="high"><bibl type="unknown">
+						<etym cert="high">
+							<bibl type="unknown">
 								<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
 								<date>1913</date>
 								<citedRange/>
 							</bibl>
-							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon   "/></etym>
-						fr. vaporeux</sense>
+							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
+							<ptr targetLang="" type="unul.sau.mai.multe.sensuri-sensul" target=""/>
+							<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">vaporeux</term>
+						</etym>
+					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-6bc53310-c391-489c-954f-5312e4cf9e14" n="">
@@ -268,7 +277,9 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>aburoși, -oase</number>
 					</form>
 				</form>
@@ -282,7 +293,9 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Aburi"/><term xml:lang="" type="sufix" subtype="unknown">-os</term>
+					<idno type="formație.internă-derivat-cu.sufix"/>
+                    <ptr targetLang="" type="base-word" subtype="unknown" target="Aburi"/>
+                    <term xml:lang="" type="sufix" subtype="unknown">-os</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

@@ -119,7 +119,7 @@
                                 <xr type="syn" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
                                     <ptr target="paradosire (2)."/>
                                 </xr>
-                                <xr type="analog" corresp="#uuid-776c2e39-7dbb-43a5-b81a-0792c3a6a2e0">
+                                <xr type="analog">
                                     <ptr target=" d a 3  (I  1)."/>
                                 </xr>
                                 <cit type="unknown">

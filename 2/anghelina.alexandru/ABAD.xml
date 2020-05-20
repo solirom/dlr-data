@@ -41,10 +41,11 @@
 					<sense xml:id="uuid-faf2750c-2e63-4c9d-915e-fd9cc5ffc27a" n="">
 						<def xml:id="uuid-463c0976-d2d9-434d-8c37-b367d4133216">Rinocer din
 							India</def>
-						<usg corresp="#uuid-463c0976-d2d9-434d-8c37-b367d4133216"><seg type="dom" rend="usg">ZOOL.</seg>
+						<usg corresp="#uuid-463c0976-d2d9-434d-8c37-b367d4133216">
+                            <seg type="dom" rend="usg">ZOOL.</seg>
 							<seg type="register style" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown" corresp="#uuid-463c0976-d2d9-434d-8c37-b367d4133216">Rhinoceros
+						<term xml:lang="la" type="unknown" subtype="unknown">Rhinoceros
 							unicornes</term>
 						<cit type="unknown">
 							<quote/>
@@ -70,12 +71,15 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>?</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abada</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abada</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
