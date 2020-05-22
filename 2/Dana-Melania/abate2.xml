@@ -62,7 +62,8 @@
 								<usg corresp="#id"> (<seg type="gram" rend="usg">Cu complementul în
 										dativ</seg>) </usg>
 								<cit type="unknown">
-									<quote>Nu-<hi rend="bold">ţi </hi><hi rend="bold">abate</hi>
+									<quote>Nu-<hi rend="bold">ţi </hi>
+                                        <hi rend="bold">abate</hi>
 										ochii, taina ce-mi ascunzi e prea uşoară.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-920177bd-3d06-0f81-464e-92643d8e1917">davila</ptr>
@@ -71,7 +72,8 @@
 									</bibl>
 								</cit>
 								<cit type="▭">
-									<quote>Fii atent, nu-<hi rend="bold">ţi </hi><hi rend="bold">abate</hi> privirea.</quote>
+									<quote>Fii atent, nu-<hi rend="bold">ţi </hi>
+                                        <hi rend="bold">abate</hi> privirea.</quote>
 									<bibl type="unknown">
 										<ptr target="unknown"/>
 										<date/>
@@ -87,7 +89,8 @@
 									<subc value=""/>
 								</gramGrp>
 								<def xml:id="id">A se desprinde din...</def>
-								<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg>(<seg type="gram" rend="usg">Subiectul este drumul</seg>) </usg>
+								<usg corresp="#id">
+                                    <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg>(<seg type="gram" rend="usg">Subiectul este drumul</seg>) </usg>
 								<cit type="unknown">
 									<quote>Pe drumul care <hi rend="bold">abate</hi> din şosea
 										încoace se aud venind paşi de cai.</quote>
@@ -118,7 +121,8 @@
 								<def xml:id="uuid-b755ba5c-c7c1-4f4e-8282-ed87019a95d0">a face să-și
 									schimbe orientarea, destinația etc.</def>
 								<cit type="unknown">
-									<quote><hi rend="bold">Să abătu</hi> Israil de la
+									<quote>
+                                        <hi rend="bold">Să abătu</hi> Israil de la
 										dânsul.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-c52ee0b5-743c-a21e-7938-60424e9f0d5b">biblia</ptr>
@@ -308,7 +312,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abatem</hi> la stânga şi urcăm pe podişuri
+								<quote>
+                                    <hi rend="bold">Abatem</hi> la stânga şi urcăm pe podişuri
 									verzi, înecate de soare.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-4e860496-a39a-62e5-03f3-6d114e8e7cad">vlahu</ptr>
@@ -317,7 +322,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abătură</hi> cătră stânga, la mănăstire, şi
+								<quote>
+                                    <hi rend="bold">Abătură</hi> cătră stânga, la mănăstire, şi
 									poposiră tocmai la slujba de sară, între lumini şi
 									cântări.</quote>
 								<bibl type="unknown">
@@ -387,7 +393,8 @@
 								<seg type="sem" rend="usg">Fig.</seg>
 							</usg>
 							<cit type="unknown">
-								<quote><hi rend="bold">Mă abătuiu</hi> în gârla dulceţii şi afundaiu
+								<quote>
+                                    <hi rend="bold">Mă abătuiu</hi> în gârla dulceţii şi afundaiu
 									în tina fărălegilor meale.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-08b70019-19c3-9375-163c-aedad5785cb8">ceaslov</ptr>
@@ -406,7 +413,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Ne-am abătut</hi> cu toţii din calea
+								<quote>
+                                    <hi rend="bold">Ne-am abătut</hi> cu toţii din calea
 									dreptăţii şi împreună ne am netrebuit, după cum zice David şi nu
 									sântem până întru unul a cunoaşte şi a cerca pre Domnul.</quote>
 								<bibl type="unknown">
@@ -425,7 +433,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Au abătut</hi> din cesta în cesta, însă
+								<quote>
+                                    <hi rend="bold">Au abătut</hi> din cesta în cesta, însă
 									drojdiile lui [ale vinului] nu s-au deșărtat.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-1eb8ef8c-4293-65ad-330a-e8dceb557603">bibl</ptr>
@@ -454,7 +463,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abătându-să</hi> cineva din ceaia ce iaste
+								<quote>
+                                    <hi rend="bold">Abătându-să</hi> cineva din ceaia ce iaste
 									îndatorit, să nasc jalobele asupra celor ce greşesc ... greşind
 									cătră alţii prin faptele lor aducătoare şi pricinuitoare de
 									pagubă.</quote>
@@ -532,7 +542,9 @@
 									<subc value=""/>
 								</gramGrp>
 								<def xml:id="id"/>
-								<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>,<seg type="plev" rend="usg"> rar</seg></usg>
+								<usg corresp="#id">
+                                    <seg type="time" rend="usg">Înv.</seg>,<seg type="plev" rend="usg"> rar</seg>
+                                </usg>
 								<cit type="unknown">
 									<quote>Mai <hi rend="bold">abate</hi> pe la câte-o
 										cârciumă.</quote>
@@ -608,7 +620,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote>Trebuia să găsesc numai vreme potrivită ca <hi rend="bold">s</hi><hi rend="bold">ă mă abat</hi> o zi prin părţile
+								<quote>Trebuia să găsesc numai vreme potrivită ca <hi rend="bold">s</hi>
+                                    <hi rend="bold">ă mă abat</hi> o zi prin părţile
 									astea.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-ce023112-3b2e-2aaf-338b-4bd3cb971e2b">cocor</ptr>
@@ -968,7 +981,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Li se abătea</hi> împăraţilor, după chef, să
+								<quote>
+                                    <hi rend="bold">Li se abătea</hi> împăraţilor, după chef, să
 									bată o ţară şi o luau la bătaie: cadouri nupţiale sau daruri la
 									naşterea unei prinţese. Omenirea nu mai putea să îndure
 									adversităţile create de asemenea monstruoase
@@ -988,8 +1002,10 @@
 								<subc value=""/>
 							</gramGrp>
 							<def xml:id="id"/>
-							<usg corresp="#id"><seg type="sem" rend="usg">Fig.</seg>
-								<seg type="time" rend="usg">Înv.</seg> şi <seg type="register style" rend="usg">pop.</seg></usg>
+							<usg corresp="#id">
+                                <seg type="sem" rend="usg">Fig.</seg>
+								<seg type="time" rend="usg">Înv.</seg> şi <seg type="register style" rend="usg">pop.</seg>
+                            </usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="A-şi da silinţa"/>
 							</xr>
@@ -1015,7 +1031,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abătu</hi> într-aceeaşi dzi, de mărită şi
+								<quote>
+                                    <hi rend="bold">Abătu</hi> într-aceeaşi dzi, de mărită şi
 									fata a doua.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373">varlaam</ptr>
@@ -1044,7 +1061,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abate</hi>, de porneşte.</quote>
+								<quote>
+                                    <hi rend="bold">Abate</hi>, de porneşte.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
 									<date>1825</date>
@@ -1086,7 +1104,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Se abătu</hi> cu faţa la pământ: cu
+									<quote>
+                                        <hi rend="bold">Se abătu</hi> cu faţa la pământ: cu
 										mâinile întinse pe lângă cap, înaintă până la picioarele
 										bătrânului.</quote>
 									<bibl type="unknown">
@@ -1238,7 +1257,6 @@
 						</cit>
 						<etym cert="high">
 							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
-							<ptr targetLang="" type="unul.sau.mai.multe.sensuri-sensul" target="II"/>
 							<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">abattre</term>
 						</etym>
 					</sense>
@@ -1257,7 +1275,8 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
 						<mood value="ind."/>
 						<tns value="prez."/>
 						<per value=""/>
@@ -1265,15 +1284,19 @@
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.moştenit-etimon.atestat"/><term xml:lang="la" type="unknown" subtype="unknown">abbattere</term>
+					<idno type="element.moştenit-etimon.atestat"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abbattere</term>
 				</etym>
-				<etym cert="high"><bibl type="unknown">
+				<etym cert="high">
+                    <bibl type="unknown">
 						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
-					<idno type="element.extern-trimitere-Cf."/><term type="unknown" subtype="unknown" xml:lang="sla-pro">biti</term>
-					<note>„a bate”</note></etym>
+					<idno type="element.extern-trimitere-Cf."/>
+                    <term type="unknown" subtype="unknown" xml:lang="sla-pro">biti</term>
+					<note>„a bate”</note>
+                </etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-143644dd-4355-76f6-8149-4c49a038a51f">Lex. Sl.-Rom</ptr>

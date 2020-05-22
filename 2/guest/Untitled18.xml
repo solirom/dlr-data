@@ -33,8 +33,31 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-fd95f158-052b-4c5a-ad59-c8e966ee0023" n=""/>
-					<sense xml:id="uuid-ba5f1705-b0a9-4155-87c7-ee495be87269" n=""/>
+					<sense xml:id="uuid-fd95f158-052b-4c5a-ad59-c8e966ee0023" n="">
+						<def xml:id="uuid-77a116bd-594c-4659-8e65-95bc53c01ee6">def1</def>
+						<xr type="syn" corresp="#uuid-77a116bd-594c-4659-8e65-95bc53c01ee6">
+							<ptr target="sin1"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-77a116bd-594c-4659-8e65-95bc53c01ee6">
+							<ptr target="sin2"/>
+						</xr>
+						<xr type="remote-syn" corresp="#uuid-77a116bd-594c-4659-8e65-95bc53c01ee6">
+							<ptr target="sininsep1"/>
+						</xr>
+						<xr type="remote-syn" corresp="#uuid-77a116bd-594c-4659-8e65-95bc53c01ee6">
+							<ptr target="sininsep2"/>
+						</xr>
+						<xr type="asoc">
+							<ptr target="asoc1"/>
+						</xr>
+						<xr type="analog">
+							<ptr target="anaog1"/>
+						</xr>
+					</sense>
+					<sense xml:id="uuid-ba5f1705-b0a9-4155-87c7-ee495be87269" n="2.">
+						<def xml:id="uuid-08685e92-be75-4d4b-b81c-22da4773ac19">sdada</def>
+						<def xml:id="uuid-339e2a19-94e6-4a78-a731-7163e9f023c2">sadasda</def>
+					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-f9036569-8994-40b4-8a33-f4ca240c8b8f" n="">
@@ -49,6 +72,7 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="pronunciation" value="bisyllabic"/>
 				<etym cert="high">
 					<idno type="unknown"/>
 				</etym>
