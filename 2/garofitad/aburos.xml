@@ -258,7 +258,7 @@
 								<citedRange/>
 							</bibl>
 							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
-							<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">vaporeux</term>
+							<ptr targetLang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf." target="vaporeux"/>
 						</etym>
 					</sense>
 				</dictScrap>

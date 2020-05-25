@@ -2421,7 +2421,7 @@
 							</cit>
 							<etym cert="high">
 								<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
-								<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">à</term>
+								<ptr targetLang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf." target="à"/>
 							</etym>
 						</sense>
 						<def xml:id="id"/>

@@ -1257,7 +1257,7 @@
 						</cit>
 						<etym cert="high">
 							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
-							<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">abattre</term>
+							<ptr targetLang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf." target="abattre"/>
 						</etym>
 					</sense>
 				</dictScrap>

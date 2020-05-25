@@ -36,7 +36,7 @@
 					<sense xml:id="uuid-e113917d-4f35-4101-b7ba-186edcebcb62" n="">
 						<etym cert="high">
 							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
-							<term xml:lang="fr" type="unul.sau.mai.multe.sensuri-sensul-cf.">abur</term>
+							<ptr targetLang="ro" type="unul.sau.mai.multe.sensuri-sensul-cf." target="unknown"/>
 						</etym>
 					</sense>
 				</dictScrap>
@@ -54,7 +54,7 @@
 					</sense>
 				</dictScrap>
 				<etym cert="high">
-					<idno type="unknown"/></etym>
+					<idno type=""/></etym>
 			</entry>
 		</body>
 	</text>
