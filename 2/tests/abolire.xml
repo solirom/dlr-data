@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-543453da-765a-4f36-a4fe-777e12d4d102" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ec90f11-7d53-4740-ac1c-210897d246b8" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author>tests</author>
+				<author/>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-23T13:24:41+0200"/>
+				<date when-iso="2020-06-09T18:47:34+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,8 +24,8 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">verice</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">VERICE</stress>
+					<orth n="">abolire</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABOLIRE</stress>
 					<syll/>
 					<pron/>
 				</form>
@@ -33,21 +33,11 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-af4b6ff8-ead3-4036-8dba-5abdee0fe25c" n="">
-						<def xml:id="uuid-c56bef1e-81d8-4b1c-92fd-2b4451f46358"/>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
-							</bibl>
-						</cit>
-					</sense>
+					<sense xml:id="uuid-0908736d-5a12-47cd-bdce-fe10854bb661" n=""/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-dbf05eb3-654e-477d-880f-abe0c18432d4" n="">
-						<def xml:id="uuid-80d558ff-414c-48bd-91ac-9e9fac1d6589"/>
+					<sense xml:id="uuid-a259a949-554f-4d3a-b5dc-336cbdbed847" n="">
+						<def xml:id="uuid-867ab7f1-f00b-4742-98ee-6698d165189f"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,7 +48,12 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="pronunciation" value="bisyllabic"/>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+						<case value="gen.-dat. și">abolirei</case>
+						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					</form>
+				</form>
 				<etym cert="high">
 					<idno type="unknown"/>
 				</etym>

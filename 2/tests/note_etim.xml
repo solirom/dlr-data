@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-543453da-765a-4f36-a4fe-777e12d4d102" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-bcba23d0-1240-4193-908d-49d8941a0a5d" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author>tests</author>
+				<author/>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-23T13:24:41+0200"/>
+				<date when-iso="2020-06-12T11:22:44+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,8 +24,8 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">verice</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">VERICE</stress>
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
 					<syll/>
 					<pron/>
 				</form>
@@ -33,21 +33,11 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-af4b6ff8-ead3-4036-8dba-5abdee0fe25c" n="">
-						<def xml:id="uuid-c56bef1e-81d8-4b1c-92fd-2b4451f46358"/>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
-							</bibl>
-						</cit>
-					</sense>
+					<sense xml:id="uuid-68eac6a6-6ea6-452b-b52a-1299a1ecbe83" n=""/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-dbf05eb3-654e-477d-880f-abe0c18432d4" n="">
-						<def xml:id="uuid-80d558ff-414c-48bd-91ac-9e9fac1d6589"/>
+					<sense xml:id="uuid-583c2d80-d2bf-4265-ba65-3c2969617c20" n="">
+						<def xml:id="uuid-162cd690-3f66-4e5a-b035-fd1e9a79b25f"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -58,10 +48,12 @@
 						</cit>
 					</sense>
 				</dictScrap>
-				<form type="pronunciation" value="bisyllabic"/>
 				<etym cert="high">
-					<idno type="unknown"/>
-				</etym>
+					<idno type="element.necunoscut"/>
+					<note>Probabil <hi rend="bold">a<hi rend="superscript">3</hi></hi> + element de
+						substrat (cf. alb. <hi rend="spaced"><hi rend="bold">besë</hi></hi>
+						„credință”) (<hi rend="bold">1887</hi> HEM, I, 91;<hi rend="bold">1983</hi>
+						BRÂNCUȘ, Vocab. Autoh., 131)</note></etym>
 			</entry>
 		</body>
 	</text>

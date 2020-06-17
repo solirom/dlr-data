@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-a47d8204-a151-474a-8139-30d6e90b56e5" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0cf96f5e-db82-40ee-93b8-afaa558a6f5c" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author/>
+				<author>anghelina.alexandru</author>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-05-04T12:49:31+0300"/>
+				<date when-iso="2020-06-16T11:35:18+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -30,26 +30,19 @@
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="adv."/>
+					<pos value="adj."/>
+					<gen value=""/>
 					<subc value=""/>
+					<number value=""/>
+					<usg><hi rend="italic"><seg type="plev" rend="usg">rar</seg></hi></usg>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-e113917d-4f35-4101-b7ba-186edcebcb62" n="">
-						<def xml:id="uuid-bf1ca2fe-34a8-4c7c-86e9-c8c1ec0ea2f7"/>
-						<ptr type="trimitere" target="unknown"/>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
-							</bibl>
-						</cit>
-					</sense>
+					<sense xml:id="uuid-76a85ead-1061-4229-b1e5-7bbcd513459a" n=""/>
+					<sense xml:id="uuid-f6dba7c2-cd52-482d-997d-7120f1e33a0c" n=""/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-1985aa22-e9b7-45d1-bbe3-80985936b5d0" n="">
-						<def xml:id="uuid-281bf146-1c8d-4919-a5c2-ae89146a7007"/>
+					<sense xml:id="uuid-e985f929-1ff5-472a-898c-9a6eaefff35e" n="">
+						<def xml:id="uuid-d96426f4-98ef-46fb-aa8f-0816c1d3c5be"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -64,12 +57,11 @@
 						<ptr target="unknown"/>
 						<date/>
 						<citedRange/>
-					</bibl><bibl type="unknown">
-						<ptr target="unknown"/>
-						<date/>
-						<citedRange/>
 					</bibl>
-					<idno type=""/></etym>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="bg" type="unknown" subtype="unknown">dsfgdr</term>
+					<note>
+						<hi rend="italic">er</hi>
+						<hi rend="bold">egr</hi></note></etym>
 			</entry>
 		</body>
 	</text>

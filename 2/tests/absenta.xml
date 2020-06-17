@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d815532f-51d6-4259-b4b5-d758e7fa5b27" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-04dd7608-e7c3-4d70-aaed-1317d5d1efda" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author>tests</author>
+				<author/>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-03-23T15:37:05+0200"/>
+				<date when-iso="2020-06-09T18:34:44+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,8 +24,8 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n=""/>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABORDA</stress>
+					<orth n="">absenta</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABSENTA</stress>
 					<syll/>
 					<pron/>
 				</form>
@@ -33,21 +33,11 @@
 					<pos value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
-					<sense xml:id="uuid-083fc404-6852-4020-a95a-703e0f7b5719" n="">
-						<def xml:id="uuid-8bed59e3-11af-4067-8dd7-4a67c73d6d38"/>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date/>
-								<citedRange/>
-							</bibl>
-						</cit>
-					</sense>
+					<sense xml:id="uuid-f88c516e-d1b9-4f64-8598-fe873bc6250b" n=""/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
-					<sense xml:id="uuid-eec7c89a-0b73-4a7e-8bd3-435284ba231a" n="">
-						<def xml:id="uuid-b034cb09-f1c4-42b1-a3d2-ffc87e69e511"/>
+					<sense xml:id="uuid-b061d1f0-d2f9-416b-abde-c5195ddeed19" n="">
+						<def xml:id="uuid-c9b6c476-69ae-4ec8-a59f-ebd818bb38f2"/>
 						<cit>
 							<quote/>
 							<bibl type="unknown">
@@ -63,12 +53,16 @@
 						<mood value="ind."/>
 						<tns value="prez."/>
 						<per value=""/>
-						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abordez</form>
-					</form><form type="grammatical-information-for-verb" corresp="">
-						<mood value="ind."/>
-						<tns value="prez."/>
-						<per value=""/>
-						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">abord</form><usg><seg type="time" rend="usg">inv.</seg></usg>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">absentez</form>
+					</form>
+				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value="conjunct."/>
+						<tns value=""/>
+						<per value="pers. 3 şi"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">să
+								absente</form><usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					</form>
 				</form>
 				<etym cert="high">

@@ -209,7 +209,8 @@
 							<def xml:id="id">abces însoţit de durere cu caracter pulsatil, căldură
 								locală, congestie, febră.</def>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abcesele</hi>
+								<quote>
+                                    <hi rend="bold">Abcesele</hi>
 									<hi rend="bold">calde</hi> sau <hi rend="bold">acute</hi> – vin
 									întotdeauna în urma frigului, a loviturilor, a
 									înţepăturilor.</quote>
@@ -239,7 +240,8 @@
 							<def xml:id="id">abces, de obicei tuberculos, cu evoluţie lentă,
 								caracterizat de absenţa inflamaţiei.</def>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abcesele reci</hi> – Se arată mai des la
+								<quote>
+                                    <hi rend="bold">Abcesele reci</hi> – Se arată mai des la
 									oamenii debili, scrufuloşi, tuberculoşi şi la aceia care
 									locuiesc în bordeie sau case umede şi mănâncă rău.</quote>
 								<bibl type="unknown">
@@ -267,7 +269,9 @@
 							</form>
 							<def xml:id="id">abces care complică o infecţie a glandei mamare.</def>
 							<cit type="unknown">
-								<quote><hi rend="bold">Abcesele</hi><hi rend="bold"> de lapte</hi>.
+								<quote>
+                                    <hi rend="bold">Abcesele</hi>
+                                    <hi rend="bold"> de lapte</hi>.
 									Aceste sunt întotdeauna rezultatul unei inflamaţii a
 									ţâţelor.</quote>
 								<bibl type="unknown">
@@ -285,13 +289,16 @@
 								</bibl>
 							</cit>
 						</sense>
-						<sense xml:id="uuid-68a4685b-489a-40d5-8b19-236ff2251fe4" n="✧"><form type="unitate-semantică-subsumată">
+						<sense xml:id="uuid-68a4685b-489a-40d5-8b19-236ff2251fe4" n="✧">
+                            <form type="unitate-semantică-subsumată">
 								<usg>MED.</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abces dentar</term>
-							</form><def xml:id="id">colecţie purulentă cu punct de plecare dentar,
+							</form>
+                            <def xml:id="id">colecţie purulentă cu punct de plecare dentar,
 								dezvoltată în părţile moi perimaxilare cu evoluţie submucoasă sau
-								cutanată.</def><cit type="unknown">
+								cutanată.</def>
+                            <cit type="unknown">
 								<quote>: Mi se întâmpla uneori, având o stare febrilă sau subfebrilă
 									– a<hi rend="bold">bces dentar</hi>, gripă etc. – să intru seara
 									într-o cameră cu lumina stinsă.</quote>
@@ -299,7 +306,8 @@
 									<ptr target="#uuid-54143e87-298d-7e36-4838-c1adf38b00b2">parhon</ptr>
 									<date>1927</date>
 								</bibl>
-							</cit><cit type="unknown">
+							</cit>
+                            <cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
 									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
@@ -601,12 +609,15 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abcese</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 					</usg>
 					<def>abscés</def>
 					<gramGrp>
@@ -617,7 +628,9 @@
 						<subc value=""/>
 					</gramGrp>
 					<form type="grammatical-information">
-						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+						<idno type="grammatical-information-type-for-adj-et-al"/>
+                        <idno type="grammatical-information-subtype-for-pl"/>
+                        <form type="grammatical-information-for-plural" corresp="">
 							<number>abscesuri</number>
 						</form>
 					</form>
@@ -637,14 +650,17 @@
 						<subc value=""/>
 					</gramGrp>
 					<etym cert="high">
-						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="de" type="unknown" subtype="unknown">Abszess</term>
+						<idno type="variantă-directă-etimon.variantă-atestat"/>
+                        <term xml:lang="de" type="unknown" subtype="unknown">Abszess</term>
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abcès</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abcès</term>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abscessus</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">abscessus</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

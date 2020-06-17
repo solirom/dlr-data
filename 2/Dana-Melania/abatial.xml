@@ -53,18 +53,20 @@
 						<cit type="unknown">
 							<quote>Concesiunea pe care trebuie totuşi să o facem teoriei lui Bédier
 								e că mânăstirile marilor drumuri de pelerinaj au pus stăpânire pe
-								„chansons de geste” existente, le¬ au pecetluit cu pecetea lor <hi rend="bold">abaţială</hi>.</quote>
+								„chansons de geste” existente, le-au pecetluit cu pecetea lor <hi rend="bold">abaţială</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-976561d9-6adf-9ea1-7273-a6d7ed8905d2">tradiția</ptr>
 								<date>1945</date>
 								<citedRange>36</citedRange>
 							</bibl>
+						</cit>
+						<cit type="unknown">
 							<quote>În spatele acestuia [al lui Voltaire], Raţiunea şi Nebunia,
 								întâia în veşmânt auster <hi rend="bold">abaţial</hi>, a doua cu
 								botfori, păr vâlvoi, făcând gesturi extravagante.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-8f45b473-7b75-3b4f-3ede-868165fd3074">călinescu</ptr>
-								<date>&lt;1963–1964&gt;</date>
+								<date>&lt;1963-1964&gt;</date>
 								<citedRange>357</citedRange>
 							</bibl>
 						</cit>
@@ -114,17 +116,23 @@
 					<bibl/>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
 						<term>-Ă</term>
 					</form>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abaţiali, -e</number>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>abațiale </def>
 					<gramGrp>
 						<pos value="adj."/>
@@ -141,10 +149,12 @@
 					</form>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="it" type="unknown" subtype="unknown">abbaziale</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="it" type="unknown" subtype="unknown">abbaziale</term>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abbatial</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">abbatial</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

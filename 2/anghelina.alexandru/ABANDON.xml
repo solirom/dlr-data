@@ -41,7 +41,9 @@
 					<sense xml:id="uuid-9d5f4458-78b3-4c1a-be4e-ef66d2576764" n="1.">
 						<sense xml:id="uuid-d5c15557-7ded-4717-ac8e-763370d1e2f0" n="✦">
 							<def xml:id="id">Faliment.</def>
-							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+							<usg corresp="#id">
+                                <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                            </usg>
 							<cit type="unknown">
 								<quote>Se zice că un concordat e făcut prin abandon, sau cu clausă
 									de <hi rend="bold">abandon</hi>, când se oferă creditorilor un
@@ -124,7 +126,8 @@
 									calităţii de soţ, avea obligaţia de asistenţă morală sau
 									materială, lăsându-i prin aceasta expuşi mizeriei fizice sau
 									morale, comite delictul de <hi rend="bold">abandon
-										familial.</hi></quote>
+										familial.</hi>
+                                </quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
 										pen</ptr>
@@ -145,7 +148,8 @@
 								<quote>Revocarea suspendării condiţionate nu are loc decât în cazul
 									când, în cursul termenului de încercare, condamnatul săvârşeşte
 									din nou o infracţiune de <hi rend="bold">abandon de
-										familie.</hi></quote>
+										familie.</hi>
+                                </quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-785dc6ec-821f-09dd-7f6d-ecc267a81545">cod.
 										pen</ptr>
@@ -431,7 +435,8 @@
 							<seg type="dom" rend="usg">MAR.</seg>
 						</usg>
 						<cit type="unknown">
-							<quote><hi rend="bold">Abandon</hi> maritim.</quote>
+							<quote>
+                                <hi rend="bold">Abandon</hi> maritim.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-f8e05887-7b0b-06f3-5e21-f6ca09564f1c">panțu</ptr>
 								<date>1897</date>
@@ -454,12 +459,15 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abandonuri</number>
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abandon</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown" target="https://dictionnaire-academie.fr/article/A1A0002-01">abandon</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
@@ -515,12 +523,14 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr. priv</ptr>
 						<date>1997</date>
-						<citedRange>s. v. <hi rend="italic">motive de divorț</hi></citedRange>
+						<citedRange>s. v. <hi rend="italic">motive de divorț</hi>
+                        </citedRange>
 					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">dr. civ</ptr>
 						<date>2007</date>
-						<citedRange>s. v. <hi rend="italic">motive de divorț</hi></citedRange>
+						<citedRange>s. v. <hi rend="italic">motive de divorț</hi>
+                        </citedRange>
 					</bibl>
 				</note>
 			</entry>

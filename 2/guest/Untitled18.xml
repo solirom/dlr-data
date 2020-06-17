@@ -30,7 +30,10 @@
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
+					<pos value="adj."/>
+					<gen value=""/>
+					<subc value=""/>
+					<number value=""/>
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-fd95f158-052b-4c5a-ad59-c8e966ee0023" n="">
@@ -58,6 +61,9 @@
 						<def xml:id="uuid-08685e92-be75-4d4b-b81c-22da4773ac19">sdada</def>
 						<def xml:id="uuid-339e2a19-94e6-4a78-a731-7163e9f023c2">sadasda</def>
 					</sense>
+					<sense xml:id="uuid-5b41f842-fc21-4063-9d80-2f4b35d1659d" n=""/>
+					<sense xml:id="uuid-4b55377f-957b-41e2-ac36-cdbd2920d3f7" n=""/>
+					<sense xml:id="uuid-6b8b816d-dd6b-4b44-970d-83a3b7630ff9" n="5"/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-f9036569-8994-40b4-8a33-f4ca240c8b8f" n="">
@@ -73,8 +79,32 @@
 					</sense>
 				</dictScrap>
 				<form type="pronunciation" value="bisyllabic"/>
+				<re type="lexical-variant-section">
+					<def>abencerágiu</def>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+					<form type="writing">
+						<oVar>abencerragiu</oVar>
+					</form>
+					<form type="grammatical-information">
+						<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+							<number>abencerangi</number>
+						</form>
+					</form>
+					<bibl type="unknown">
+						<ptr target="#uuid-2d43bbad-30a3-16f3-08b2-e28da52a955c">asac</ptr>
+						<date/>
+						<citedRange/>
+					</bibl>
+				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="element.necunoscut"/>
+					<note>Probabil <hi rend="bold">a<hi rend="superscript">3</hi>
+						</hi>+ element de substrat (cf. alb. <hi rend="spaced">besë</hi> „credință”)
+						(1983 BRÂNCUȘ, Vocab. Autoh., 131)</note></etym>
+				<etym cert="high">
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="cs" type="unknown" subtype="unknown"/>
 				</etym>
 			</entry>
 		</body>
