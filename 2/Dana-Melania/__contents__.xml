@@ -441,7 +441,7 @@
     <resource type="XMLResource" name="abiturient.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T03:30:48+03:00" modified="2020-04-15T04:35:04+03:00" filename="abiturient.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abiziana.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T04:12:13+03:00" modified="2020-05-19T04:40:58+03:00" filename="abiziana.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abiziana.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T04:12:13+03:00" modified="2020-06-29T02:58:54+03:00" filename="abiziana.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="abject.xml" owner="Dana-Melania" group="Dana-Melania" mode="644" created="2020-04-15T04:39:25+03:00" modified="2020-04-15T06:20:32+03:00" filename="abject.xml" mimetype="application/xml">
