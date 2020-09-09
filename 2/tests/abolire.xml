@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ec90f11-7d53-4740-ac1c-210897d246b8" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-0ec90f11-7d53-4740-ac1c-210897d246b822" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -49,9 +49,13 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-case"/><form type="grammatical-information-for-case" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="">
 						<case value="gen.-dat. și">abolirei</case>
-						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<usg>
+                            <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                        </usg>
 					</form>
 				</form>
 				<etym cert="high">

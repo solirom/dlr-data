@@ -42,18 +42,25 @@
 						<usg corresp="#uuid-b5922f73-ae64-4c79-95d6-a53d75412530">
 							<seg type="dom" rend="usg">Biol.</seg>
 						</usg>
-						<def xml:id="uuid-edbcb8dc-4b40-4c16-b3d9-ea3545896a63">fără bacterii</def>
 						<cit type="unknown">
-							<quote>[Nefrită] interstițială ... se poate prezenta sub una dintre
+							<quote>[Nefrita] interstițială ... se poate prezenta sub una dintre
 								următoarele 3 forme: nesupurată, de regulă <hi rend="bold">abacteriană</hi> (toxică, toxicalergică, imunoalergică,
 								virotică); supurată, de etiologie bacteriană nespecifică;
 								granulomatoasă, de etiologie bacteriană specifică micotică,
 								metaplazică ş.a.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">d.
+								<ptr target="#uuid-79deba6d-6c48-9033-7ac5-f5a216741cee">d.
 									medical</ptr>
 								<date>1969</date>
-								<citedRange>s. v. <hi rend="italic">nefrită</hi></citedRange>
+								<citedRange>238</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Antigen bacterian sau <hi rend="bold">abacterian</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">reumat</ptr>
+								<date>1952</date>
+								<citedRange>264</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -88,9 +95,6 @@
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/>
 					<term xml:lang="fr" type="unknown" subtype="unknown">abactérien</term>
-				</etym>
-				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/><term xml:lang="en" type="unknown" subtype="unknown">abacterial</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

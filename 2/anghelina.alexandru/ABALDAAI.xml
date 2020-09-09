@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-161ca326-e36a-4327-9e92-1a12fdf5a283" version="3.3.0" source="0.1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-5fd5441d-de80-495a-928e-7576e8456bc6" version="3.3.0" source="0.1">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title/>
-				<author>anghelina.alexandru</author>
+				<author/>
 				<editor role="reviewer"/>
 			</titleStmt>
 			<publicationStmt>
@@ -15,7 +15,7 @@
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when-iso="2020-02-18T13:38:44+0200"/>
+				<date when-iso="2020-08-14T15:20:44+0300"/>
 			</creation>
 		</profileDesc>
 		<revisionDesc/>
@@ -24,19 +24,16 @@
 		<body>
 			<entry>
 				<form type="headword">
-					<orth n="">abadie</orth>
-					<stress xml:lang="ro-x-accent-upcase-vowels">ABADÍE</stress>
+					<orth n="">abaldâi</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels">ABALDÂÍ </stress>
 					<syll/>
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value="s."/>
-					<gen value="f."/>
-					<number value=""/>
-					<case value=""/>
-					<subc value=""/>
+					<pos value="vb."/>
+					<iType value="IV"/>
 				</gramGrp>
-				<ptr type="trimitere" target="abație"/>
+				<ptr type="trimitere" target="baldisi"/>
 			</entry>
 		</body>
 	</text>

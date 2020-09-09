@@ -64,6 +64,22 @@
 								<citedRange>259</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillan</ptr>
+								<date>1839</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">

@@ -39,10 +39,13 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-0bf8d1be-1305-4898-bbba-4120fbc39c43" n="">
-						<sense xml:id="uuid-67562d5f-47ee-44f8-b491-dc13d0db1e52" n="">
-							<def xml:id="id">Mulțime de haine confecționate din aba<hi rend="superscript">3</hi>.</def>
-							<usg corresp="#id">(<seg type="hint" rend="usg">Cu sens
-								colectiv</seg>)</usg>
+						<usg corresp="#uuid-0bf8d1be-1305-4898-bbba-4120fbc39c43"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
+						<sense xml:id="uuid-67562d5f-47ee-44f8-b491-dc13d0db1e52" n="✦">
+							<usg corresp="#uuid-67562d5f-47ee-44f8-b491-dc13d0db1e52">(<seg type="gram" rend="usg">Cu sens colectiv</seg>)</usg>
+							<def xml:id="uuid-cffc9331-7dc3-4876-83e7-a657a119634c">Mulțime de haine
+								confecționate din aba<hi rend="superscript">3</hi></def>
+							<def xml:id="uuid-04456813-7df5-4060-8bec-c979550399cd">produse de
+									abagerie<hi rend="superscript">1</hi></def>
 							<cit type="unknown">
 								<quote>Hagi Enache, fratele Stami jăluitorul, cu Hagi Ivan soţul
 									Hagicăi, au avut tovărăşie ca 24 de ani la prăvălii de <hi rend="bold">abagerie</hi>, ţiind amândoi o pungă și o
@@ -94,19 +97,33 @@
 									<citedRange>204</citedRange>
 								</bibl>
 							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+									<date>1839</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+									<date>1859</date>
+									<citedRange/>
+								</bibl>
+							</cit>
 						</sense>
 						<def xml:id="uuid-0a42e76f-dd8e-42ab-ab19-58cc31c032d4">Atelier sau fabrică
-							unde se produceau haine de aba3; prăvălie unde se vindeau haine de
-								aba<hi rend="superscript">3</hi>.</def>
-						<usg corresp="#uuid-0a42e76f-dd8e-42ab-ab19-58cc31c032d4">
-							<hi rend="italic"><seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">pop</seg>. </hi>
-						</usg>
+							unde se produceau abaua și hainele de aba<hi rend="superscript">3</hi></def>
+						<def xml:id="uuid-f858489f-a0b1-4635-8e82-163cc9550a1f">prăvălie unde se
+							vindeau abaua și hainele de aba<hi rend="superscript">3</hi></def>
 						<cit type="unknown">
 							<quote>Duca-Vodă... au fost la dugheană, la <hi rend="bold">abăgerie</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-881ef2a8-57f5-035e-2c8d-7c3b44fa22f7">racov</ptr>
 								<date>&lt;1705-1732&gt;</date>
-								<citedRange>19</citedRange>
+								<citedRange>9/34</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -151,6 +168,46 @@
 								<ptr target="#uuid-5f50793d-793f-1bbd-944b-57fc1f235ad1">un om</ptr>
 								<date>1955</date>
 								<citedRange>459</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-64d2a30c-399d-a4d6-4336-de3b68780cf4">cihac</ptr>
+								<date>1879</date>
+								<citedRange>541</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1893</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -199,21 +256,6 @@
 					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/><term xml:lang="" type="sufix" subtype="unknown">-ărie</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
-						<date>1839</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-64d2a30c-399d-a4d6-4336-de3b68780cf4">cihac</ptr>
-						<date>1879</date>
-						<citedRange>541</citedRange>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
-						<date>1893</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
 						<date>1924</date>

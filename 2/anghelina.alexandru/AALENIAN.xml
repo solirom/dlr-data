@@ -52,16 +52,23 @@
 							<subc value=""/>
 						</gramGrp>
 						<def xml:id="uuid-78639275-960a-4b27-b8d6-d95d04a21722">Etaj al jurasicului
-							mediu, caracterizat prin cinci zone cu amoniţi şi lamelibranhiatul <hi rend="italic">Trigonia navis</hi>.</def>
-						<usg corresp="#uuid-78639275-960a-4b27-b8d6-d95d04a21722">
-							<seg type="dom" rend="usg">Geol.</seg>
-						</usg>
+							mediu</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
 								<date>1949</date>
 								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Roca fundamentală a <hi rend="bold">Aalenianului</hi> este un
+								calcar marnos, cenușiu închis, pe alocuri aproape negru și cu pete
+								de alterație galbene, care îi dau nota caracteristică.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-d48e37b8-2c4e-02ea-59a6-ddab51a886fd">onces</ptr>
+								<date>1959</date>
+								<citedRange>407</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -73,14 +80,20 @@
 						</gramGrp>
 						<def xml:id="uuid-777a59dc-8c41-4b14-929b-72a6d95dc307">Care aparţine
 							aalenianului (1), privitor la aalenian.</def>
-						<usg corresp="#uuid-777a59dc-8c41-4b14-929b-72a6d95dc307">
-							<seg type="dom" rend="usg">GEOL.</seg>
-						</usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
 								<date>1975</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Cercetările noastre au arătat că blocurile de sedimente <hi rend="bold">aaleniene</hi> au o răspândire relativ largă și sunt
+								mult mai bogate în faună decât s-a crezut.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown">geol</ptr>
+								<date>1976</date>
 								<citedRange/>
 							</bibl>
 						</cit>

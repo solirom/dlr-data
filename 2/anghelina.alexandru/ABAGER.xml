@@ -41,7 +41,7 @@
 					<sense xml:id="uuid-29988005-908b-4b55-acc5-3dd665d07f2b" n="">
 						<sense xml:id="uuid-3dc96d19-c263-4aa9-8b52-d509533b3d9b" n="✧">
 							<def xml:id="id"/>
-							<usg corresp="#id">(Atribuind calitatea ca un adjectiv)</usg>
+							<usg corresp="#id">(Adjectival)</usg>
 							<cit type="unknown">
 								<quote>S-au găsât breasla negustorilor <hi rend="bold">abăgeri</hi>
 									pe cari i-am primit alăturați cititori ca însăși noi, dându-le
@@ -153,7 +153,7 @@
 								<citedRange>178</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote><hi rend="bold">Abageriu</hi>, negustor de sumani şi de alte
 								stofe de natura abalei.</quote>
 							<bibl type="unknown">
@@ -162,12 +162,20 @@
 								<citedRange>125</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-5913be44-79f2-6fca-312b-6abb2b1487a5">gl.
 									ol</ptr>
 								<date>1967</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1893</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -240,7 +248,7 @@
 				<etym cert="high">
 					<idno type="formație.internă-derivat-cu.sufix"/>
 					<ptr targetLang="" type="base-word" subtype="unknown" target="Abagiu"/>
-					<term xml:lang="" type="sufix" subtype="unknown">-er</term>
+					<term xml:lang="" type="sufix" subtype="unknown">-ar</term>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

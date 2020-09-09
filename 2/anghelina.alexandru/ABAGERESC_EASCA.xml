@@ -51,6 +51,14 @@
 								<citedRange>192</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1893</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -77,7 +85,7 @@
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abăgerésc, -ească</def>
 					<gramGrp>
 						<pos value="adj."/>
@@ -89,11 +97,6 @@
 					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abager"/><term xml:lang="" type="sufix" subtype="unknown">-esc</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
-						<date>1893</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
 						<date>2001</date>

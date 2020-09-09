@@ -46,13 +46,12 @@
 						</gramGrp>
 						<def xml:id="uuid-284d10ee-bad9-42c2-a64e-27f18def22ca">A înstrăina.</def>
 						<usg corresp="#uuid-284d10ee-bad9-42c2-a64e-27f18def22ca">
-							<hi rend="italic">JUR.</hi>
-						</usg>
+							<seg type="dom" rend="usg"><hi rend="italic">JUR.</hi></seg>, <hi rend="italic"><seg type="time" rend="usg">înv.</seg></hi></usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
-								<date>1939</date>
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+								<date>1859</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -84,7 +83,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">form. cuv</ptr>
+						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<date>1939</date>
+						<citedRange>44</citedRange>
+					</bibl>
+					<bibl type="unknown">
+						<ptr target="#uuid-d94b6eea-149d-812e-1ddb-1e045801388c">form. cu</ptr>
 						<date>1978</date>
 						<citedRange>44</citedRange>
 					</bibl>
@@ -96,7 +100,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
 						<date>2011</date>
-						<citedRange>s. v. <hi rend="italic">aliena</hi>.</citedRange>
+						<citedRange>60</citedRange>
 					</bibl>
 				</note>
 			</entry>

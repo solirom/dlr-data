@@ -58,8 +58,7 @@
 						<usg corresp="#uuid-7913f7c7-730b-4f16-b4d4-a400da53be51">
 							<seg type="dom" rend="usg">BOT.</seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown">Diospyros
-							ebenum</term>
+						<term xml:lang="la" type="unknown" subtype="unknown">Diospyros ebenum</term>
 						<cit type="unknown">
 							<quote>Acolo [în Etiopia] iaste aur mult și pili și copacii toți
 								sălbatici și <hi rend="bold">abanos</hi>. </quote>
@@ -95,7 +94,7 @@
 								<citedRange>150</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>Verde foaie <hi rend="bold">abanos</hi>, Rămâi taică
 								sănătos.</quote>
 							<bibl type="unknown">
@@ -105,7 +104,7 @@
 								<citedRange>498</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>Frunzuliță d-<hi rend="bold">abanos</hi>, Trece sara pe din
 								dos.</quote>
 							<bibl type="unknown">
@@ -115,12 +114,86 @@
 								<citedRange>235</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>Frundză verdi di-<hi rend="bold">abănos</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-ec81040c-0937-96e6-22e8-c02ae78f9f2c">vasiliu</ptr>
 								<date>1897</date>
 								<citedRange>109</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În fundul salei era o estradă încunjurată cu o balustradă de lemn
+								de <hi rend="bold">abanos</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e5b3265c-8ea4-0183-5389-88158b06a646">leon</ptr>
+								<date>1821</date>
+								<citedRange>30/1</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În fundul salei era o stradă ceva mai înaltă, ocolită cu grile de
+								lemn de <hi rend="bold">abanos</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-45b56266-0136-75b4-9c21-812dd55659ea">coliba</ptr>
+								<date>1850</date>
+								<citedRange>17</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcia</ptr>
+								<date>1868</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinea</ptr>
+								<date>1896</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Avea două bufete vaste de lemn de <hi rend="bold">abanos</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-8227364b-7cfc-73a8-5323-d328797b50e9">galaction</ptr>
+								<date>1832</date>
+								<citedRange>47</citedRange>
 							</bibl>
 						</cit>
 					</sense>
@@ -209,15 +282,6 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>În fundul salei era o estradă încunjurată cu o balustradă de lemn
-								de <hi rend="bold">abanos</hi>.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-e5b3265c-8ea4-0183-5389-88158b06a646">asachi</ptr>
-								<date>1821</date>
-								<citedRange>30/1</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
 							<quote>Locuia pe liniştita stradă a Modei, la catul al doilea al unei
 								clădiri ce aparţinea regelui Carol, la o franţuzoaică bătrână care-i
 								închiriase două încăperi, bogat mobilate în gustul greoi de acum
@@ -244,15 +308,6 @@
 								<ptr target="#uuid-2ddfa547-a65b-6aeb-0a06-2dc7795968d9">indiana</ptr>
 								<date>1847</date>
 								<citedRange>5/25</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>În fundul salei era o stradă ceva mai înaltă, ocolită cu grile de
-								lemn de <hi rend="bold">abanos</hi>.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-45b56266-0136-75b4-9c21-812dd55659ea">coliba</ptr>
-								<date>1850</date>
-								<citedRange>17</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -297,14 +352,6 @@
 									rose</ptr>
 								<date>1922</date>
 								<citedRange>407</citedRange>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote>Avea două bufete vaste de lemn de <hi rend="bold">abanos</hi>.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-8227364b-7cfc-73a8-5323-d328797b50e9">mahmud</ptr>
-								<date>1932</date>
-								<citedRange>47</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -358,6 +405,39 @@
 								<citedRange>30</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote>Egiptenii … se neguțătoria pe Marea Roșie ... și aducea avoriu,
+									<hi rend="bold">abanos</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e4440564-0b1c-5257-6004-b43e9efda768">genilie</ptr>
+								<date>1835</date>
+								<citedRange>10/18</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -395,19 +475,9 @@
 				</re>
 				<etym cert="high">
 					<idno type="element.extern-împrumut-etimon.sigur"/>
-                    <term xml:lang="tr" type="unknown" subtype="unknown">abanoz</term>
+					<term xml:lang="tr" type="unknown" subtype="unknown">abanos</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
 						<date>1900</date>

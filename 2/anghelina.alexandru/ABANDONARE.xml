@@ -47,16 +47,6 @@
 									<seg type="dom" rend="usg">JUR.</seg>
 								</usg>
 								<cit type="unknown">
-									<quote>Jean Guéret e fals în toată atitudinea şi hotărârea lui
-										de <hi rend="bold">abandonare</hi> a căminului, a soţiei şi
-										a copilei.</quote>
-									<bibl type="unknown">
-										<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">cortina</ptr>
-										<date>1913</date>
-										<citedRange>129</citedRange>
-									</bibl>
-								</cit>
-								<cit type="unknown">
 									<quote>Cauzele de drept penal. Ele aparțin dreptului bizantin:
 										a) expunerea copiilor și <hi rend="bold">abandonarea</hi>
 										lor; b) prostituarea unei fiice de către tatăl său.</quote>
@@ -94,6 +84,7 @@
 							</xr>
 							<xr type="remote-syn" corresp="#id">
 								<ptr target="lepădare (II 1)"/>
+								<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 							</xr>
 							<xr type="asoc">
 								<ptr target="abandona (1)"/>
@@ -227,6 +218,32 @@
 										tc</ptr>
 									<date>2009</date>
 									<citedRange>383</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășe</ptr>
+									<date>1859</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+									<date>1868</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Jean Guéret e fals în toată atitudinea şi hotărârea lui de
+										<hi rend="bold">abandonare</hi> a căminului, a soţiei şi a
+									copilei.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">arghezi</ptr>
+									<date>1913</date>
+									<citedRange>129</citedRange>
 								</bibl>
 							</cit>
 						</sense>
@@ -413,36 +430,6 @@
                     <ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
-						<date>1848</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășesc</ptr>
-						<date>1859</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-db994243-75a0-8ec8-58ea-7ef28e3f725b">barcianu</ptr>
-						<date>1868</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">COSTINESCU</ptr>
-						<date>1870</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">steinber</ptr>
-						<date>1886</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
 						<date>1905</date>

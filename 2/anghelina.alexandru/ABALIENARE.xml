@@ -41,8 +41,7 @@
 					<sense xml:id="uuid-bf69ba4c-54c8-485c-b389-8afc81220249" n="1.">
 						<def xml:id="uuid-371e548d-bd1f-4d9e-87a5-9b52413c61bb">Faptul de <hi rend="spaced">a abaliena.</hi></def>
 						<usg corresp="#uuid-371e548d-bd1f-4d9e-87a5-9b52413c61bb">
-							<seg type="dom" rend="usg">JUR.</seg>
-						</usg>
+							<hi rend="italic"><seg type="dom" rend="usg">JUR.</seg></hi>, <seg type="time" rend="usg"><hi rend="italic">înv.</hi></seg></usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -66,6 +65,10 @@
 								<citedRange/>
 							</bibl>
 						</cit>
+						<etym cert="high">
+							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
+							<ptr targetLang="en" type="unul.sau.mai.multe.sensuri-sensul-cf." target="abalienation"/>
+						</etym>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -82,8 +85,8 @@
 					</sense>
 				</dictScrap>
 				<etym cert="high">
-					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="abaliena"/>
-				</etym>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">abalienatio, -onis</term>
+					<note>(cu echivalarea sufixului)</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
 						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>

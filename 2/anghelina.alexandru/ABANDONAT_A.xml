@@ -40,10 +40,11 @@
 						<sense xml:id="uuid-79172d68-7eb8-48bf-9e02-9b28dc7bf3c6" n="✦">
 							<def xml:id="id">Care a fost părăsit de cel care avea obligația de
 								întreținere</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">JUR.</seg> (<seg type="hint" rend="usg">Despre copii, familie, persoane
-									asistate</seg>)</usg>
+							<usg corresp="#id">
+								<seg type="dom" rend="usg">JUR.</seg> (<seg type="hint" rend="usg">Despre copii, familie, persoane asistate</seg>)</usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="lepădat2 (4)"/>
+								<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 							</xr>
 							<cit type="unknown">
 								<quote>Sau, în alte cazuri... [femeile] se consacră operelor de
@@ -64,15 +65,6 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote>Apoi începu să geamă, asemenea unui copil <hi rend="bold">abandonat</hi>.</quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
-										rom</ptr>
-									<date>1950</date>
-									<citedRange>aprilie, nr. 4, 192</citedRange>
-								</bibl>
-							</cit>
-							<cit type="unknown">
 								<quote>Dar cum mai departe nu va mai scoate niciun cuvânt, se va
 									crede că este un copil <hi rend="bold">abandonat</hi>.</quote>
 								<bibl type="unknown">
@@ -90,9 +82,18 @@
 								</bibl>
 							</cit>
 						</sense>
+						<sense xml:id="uuid-50f83600-d2f0-48b9-8006-1fd0679d0fd2" n="✧">
+							<usg corresp="#uuid-50f83600-d2f0-48b9-8006-1fd0679d0fd2">(<seg type="gram" rend="usg">Ca termen de comparație</seg>)</usg>
+							<cit type="unknown">
+								<quote>Apoi începu să geamă, asemenea unui copil <hi rend="bold">abandonat</hi>. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+									<date>1950</date>
+									<citedRange>nr. 4, 192</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<sense xml:id="uuid-c30c816d-1ed3-4595-87f7-018fa262441b" n="✧">
-							<def xml:id="id"/>
-							<usg corresp="#id">(<seg type="gram" rend="usg">Substantivat</seg>)</usg>
 							<cit type="unknown">
 								<quote>Într-o asemenea împrejurare viața este o pedeapsă nesuferită
 									și <hi rend="bold">abandonatul</hi> numai în moarte vede
@@ -114,18 +115,23 @@
 							</cit>
 						</sense>
 						<def xml:id="uuid-5a4cf4aa-21f4-402b-8e54-a735a584081c">Care a fost părăsit,
-							lăsat deoparte;</def>
+							lăsat deoparte</def>
 						<def xml:id="uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">la care s-a
-							renunțat;</def>
+							renunțat</def>
 						<xr type="syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
 							<ptr target="lepădat2 (I)"/>
+							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 						</xr>
 						<xr type="remote-syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
 							<ptr target="părăsit (I 1)"/>
 						</xr>
 						<xr type="remote-syn" corresp="#uuid-b848d1ae-10e6-4bca-9c1a-64c862756afc">
 							<ptr target="năpustit2"/>
-							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg"><hi rend="italic">reg.</hi></seg></usg>
+							<usg>
+								<seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">
+									<hi rend="italic">reg.</hi>
+								</seg>
+							</usg>
 						</xr>
 						<cit type="unknown">
 							<quote/>
@@ -181,6 +187,22 @@
 								<citedRange>94</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -197,17 +219,22 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
 						<term>-Ă</term>
 					</form>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="">
 						<number>abandonaţi, -te</number>
 					</form>
 				</form>
 				<etym cert="low">
-					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
+					<idno type="formație.internă-trimitere-V."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="abandona"/>
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">

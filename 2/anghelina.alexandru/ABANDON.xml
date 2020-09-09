@@ -39,86 +39,99 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-9d5f4458-78b3-4c1a-be4e-ef66d2576764" n="1.">
-						<sense xml:id="uuid-d5c15557-7ded-4717-ac8e-763370d1e2f0" n="✦">
-							<def xml:id="id">Faliment.</def>
-							<usg corresp="#id">
-                                <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
-                            </usg>
-							<cit type="unknown">
-								<quote>Se zice că un concordat e făcut prin abandon, sau cu clausă
-									de <hi rend="bold">abandon</hi>, când se oferă creditorilor un
-									garant, care chezăşueste învoiala concordatara, dar în schimb
-									falitul îi abandonează activul său.</quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
-									<date>1898</date>
-									<citedRange/>
-								</bibl>
-							</cit>
-						</sense>
-						<sense xml:id="uuid-6fc3b305-cfd2-4086-aa5b-0b6c1db4c9f7" n="✧">
-							<def xml:id="id"/>
-							<usg corresp="#id">
-								<seg type="sem" rend="usg">Fig.</seg>
-							</usg>
-							<cit type="unknown">
-								<quote>Nu se poate entuziasm mai bine tăiat pe talie... [decât cel
-									din „Rugăciunea pe Akropolis” a lui Renan]. Epitete sonore, dar
-									şi istoric exacte; unul chiar cu arătare precisă a numărului
-									inscripţiei unde se găseşte. Un <hi rend="bold">„abandon”</hi>
-									delicios, o combinaţie de solemn cu familiar
-									încântătoare.</quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
-									<date>1934</date>
-									<citedRange>345</citedRange>
-								</bibl>
-							</cit>
-							<cit type="unknown">
-								<quote>Ce frumos apoi cad liniile şi cât <hi rend="bold">„abandon”</hi> în mâinile legate, care dau din nou impresia
-									unor tulpine de floare.</quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-833217b7-95a7-44e6-514b-08b733b2290d">oprescu</ptr>
-									<date>1946</date>
-									<citedRange>171</citedRange>
-								</bibl>
-							</cit>
-						</sense>
-						<sense xml:id="uuid-2cf50d12-0c14-439d-98a3-63ef6b8dcd07" n="">
-							<form type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
-								<term>Abandon școlar</term>
-							</form>
-							<def xml:id="id">formă de abandon constând în încetarea frecventării
-								școlii înainte de încheierea anului de studiu început.</def>
-							<cit type="▭">
-								<quote>Se iau măsuri pentru stoparea <hi rend="bold">abandonului
-										școlar</hi>.</quote>
-								<bibl type="unknown">
-									<ptr target="unknown"/>
-									<date/>
-									<citedRange/>
-								</bibl>
-							</cit>
-						</sense>
-						<sense xml:id="uuid-ce53ce3d-5e24-4adb-a3fd-c10ca6f9cf4f" n="✧">
+						<def xml:id="uuid-ef823ce2-72db-4f81-bf92-0cbd54e8244a">Cesiune a bunurilor
+							unui debitor către creditori, până la achitarea datoriilor</def>
+						<usg corresp="#uuid-ef823ce2-72db-4f81-bf92-0cbd54e8244a">
+							<hi rend="italic">
+								<seg type="dom" rend="usg">JUR.</seg>
+							</hi>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote><hi rend="bold">Abandonul</hi> vasului se poate face către toți
+								creditorii sau numai către unii dintr-înșii. </quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6e3eeb4-52ef-4d6b-1ae9-9907aea76486">cod.
+									comer</ptr>
+								<date>1887</date>
+								<citedRange>172</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Se zice că un concordat e făcut prin abandon, sau cu clausă de
+								abandon, când se oferă creditorilor un garant, care chezăşuește
+								învoiala concordatară, dar în schimb falitul îi abandonează activul
+								său cu condițiune de a dispune de el până la complecta achitare a
+								cuotelor convenite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+									rom</ptr>
+								<date>1898</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-050c1c71-220c-48e4-9d38-c435d3bee3a1" n="2.">
+						<def xml:id="uuid-59acb3be-b463-49d8-8bfe-d82182697ea2">Renunțare la
+							exercitarea unui drept sau unei acțiuni juridice în termenul legal</def>
+						<usg corresp="#uuid-59acb3be-b463-49d8-8bfe-d82182697ea2">
+							<seg type="dom" rend="usg">JUR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+								<date>1896</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-10d121c9-a323-4aec-a264-2e8aee228150" n="3.">
+						<sense xml:id="uuid-41e43f94-bb4f-4a10-94a6-d8fbccff9bf9" n="✧">
 							<form type="unitate-semantică-subsumată">
 								<usg>
-									<seg type="dom" rend="usg">JUR.</seg>
+									<hi rend="italic">
+										<seg type="dom" rend="usg">JUR.</seg>
+									</hi>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abandon familial </term>
 							</form>
 							<form type="unitate-semantică-subsumată">
 								<usg>
-									<seg type="dom" rend="usg">JUR.</seg>
+									<hi rend="italic">
+										<seg type="dom" rend="usg">JUR.</seg>
+									</hi>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 								<term>Abandon de familie </term>
 							</form>
-							<def xml:id="id">delict care constă în părăsirea copiilor, a familiei, a
-								celor asistați de către persoana care are obligația legală de a-i
-								întreține.</def>
+							<def xml:id="uuid-0e321113-5b85-4b5a-a1b9-899d3e214944">delict care
+								constă în părăsirea copiilor, a familiei, a celor asistați de către
+								persoana care are obligația legală de a-i întreține.</def>
 							<cit type="unknown">
 								<quote>Acela care, cu rea voinţă, se îndepărtează de la domiciliul
 									familiei, lăsând în părăsire pe aceia faţă de care, în virtutea
@@ -126,8 +139,7 @@
 									calităţii de soţ, avea obligaţia de asistenţă morală sau
 									materială, lăsându-i prin aceasta expuşi mizeriei fizice sau
 									morale, comite delictul de <hi rend="bold">abandon
-										familial.</hi>
-                                </quote>
+									familial</hi>.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
 										pen</ptr>
@@ -139,22 +151,10 @@
 								<quote>Eroul mitic se caracterizează: printr-o biografie mirifică în
 									care intră naşterea miraculoasă, copilăria în <hi rend="bold">abandon familial</hi>, iniţierea.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c757b125-428d-3f7a-3722-ea6e585e894d">vulcănescu</ptr>
+									<ptr target="#uuid-c757b125-428d-3f7a-3722-ea6e585e894d">mitol.
+										rom</ptr>
 									<date>1985</date>
 									<citedRange>578</citedRange>
-								</bibl>
-							</cit>
-							<cit type="unknown">
-								<quote>Revocarea suspendării condiţionate nu are loc decât în cazul
-									când, în cursul termenului de încercare, condamnatul săvârşeşte
-									din nou o infracţiune de <hi rend="bold">abandon de
-										familie.</hi>
-                                </quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-785dc6ec-821f-09dd-7f6d-ecc267a81545">cod.
-										pen</ptr>
-									<date>2004</date>
-									<citedRange>???</citedRange>
 								</bibl>
 							</cit>
 							<cit type="unknown">
@@ -162,20 +162,56 @@
 									a unei infracţiuni care lezează relaţiile de familie (incest,
 										<hi rend="bold">abandon familial</hi>, viol etc.).</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">dr.
-										civ</ptr>
+									<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d. dr.
+										ci</ptr>
 									<date>2007</date>
 									<citedRange>633</citedRange>
 								</bibl>
 							</cit>
 						</sense>
-						<def xml:id="uuid-ef823ce2-72db-4f81-bf92-0cbd54e8244a">Renunțare la ceva
-							sau la cineva.</def>
+						<sense xml:id="uuid-edc2a703-59c2-4fce-937b-24db270b5161" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abandon școlar</term>
+							</form>
+							<def xml:id="uuid-776ada3d-26d2-4a42-aee7-9d7784c2f627">formă de abandon
+								constând în încetarea frecventării școlii înainte de încheierea
+								anului de studiu început.</def>
+							<cit type="▭">
+								<quote>Se iau măsuri pentru stoparea <hi rend="bold">abandonului
+										școlar</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="unknown"/>
+									<date/>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-d65a5276-ba6c-4f81-a297-98f160e111a4">Părăsire a cuiva sau
+							a ceva, față de care există o obligație, o legătură</def>
+						<def xml:id="uuid-d83cbfe6-9f83-48b5-ad9f-95a81ed38c6c">renunțare la ceva
+							sau la cineva</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
-								<date>1842</date>
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -192,9 +228,9 @@
 						</cit>
 						<cit type="unknown">
 							<quote>Un refuz în asemenea împrejurări ar fi fost un act de laşitate şi
-								un <hi rend="bold">abandon</hi> al ţării mele.</quote>
+								un abandon al ţării mele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-66027c05-0298-1fb4-8d12-d8e0acf97f4e">argetoianu</ptr>
+								<ptr target="#uuid-dfd82d10-81da-1f8f-5b03-347268af1fe6">argetoianu</ptr>
 								<date>1940</date>
 								<citedRange>395</citedRange>
 							</bibl>
@@ -209,9 +245,9 @@
 						</cit>
 						<cit type="unknown">
 							<quote>Prin acceptarea a ceea ce există, inclusiv suferinţa, eu înţeleg
-								angajarea, care e o acţiune şi nu un <hi rend="bold">abandon</hi>. </quote>
+								angajarea, care e o acţiune şi nu un abandon. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5bda1e3a-4573-19a0-8aea-14b20b50684a">risipitorii</ptr>
+								<ptr target="#uuid-5bda1e3a-4573-19a0-8aea-14b20b50684a">risipitor</ptr>
 								<date>1962</date>
 								<citedRange>695</citedRange>
 							</bibl>
@@ -220,13 +256,14 @@
 							<quote>Nu există poate o plăcere atât de mare ca acea sinteză, aproape
 								monstruoasă, între nelinişte şi dorinţa de <hi rend="bold">abandon</hi>, de a rămâne numai cu el.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">ivasiuc</ptr>
+								<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">interval</ptr>
 								<date>1968</date>
 								<citedRange>90</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>Această renunţare la… lume, şi la tine însuţi, acest <hi rend="bold">abandon</hi>… mă face să râd. </quote>
+							<quote>Această renunţare la… lume, şi la tine însuţi, acest abandon… mă
+								face să râd. </quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-d6829673-1e41-6367-7339-e0f1526054d5">tiron</ptr>
 								<date>1982</date>
@@ -234,7 +271,7 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>Repetatele tentative de a începe măcar... romanul cu Adam și Eva
+							<quote>Repetatele tentative de a începe măcar ... romanul cu Adam și Eva
 								au eșuat. Iar dacă trece prea mult timp de la <hi rend="bold">abandon</hi>, imposibilă reluarea.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-435cce9f-36b7-5dcf-51c7-026517ae714f">goma</ptr>
@@ -246,26 +283,129 @@
 							<quote>Acesta [fundalul biblic] tinde să apară din ce în ce mai estompat
 								în creaţiile din ultima perioadă – semn nu de <hi rend="bold">abandon</hi>, ci de o minunată asimilare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-28611808-23c3-2b94-66e4-7f0cea2d469a">biblia
-									lit</ptr>
+								<ptr target="#uuid-28611808-23c3-2b94-66e4-7f0cea2d469a">jinga</ptr>
 								<date>2001</date>
 								<citedRange>81</citedRange>
 							</bibl>
 						</cit>
 					</sense>
-					<sense xml:id="uuid-e364da60-31ac-4207-b725-49b7cecedf45" n="2.">
-						<def xml:id="id">Uitare de sine;</def>
-						<xr type="syn" corresp="#id">
+					<sense xml:id="uuid-cbce0cb5-168d-48df-a00a-a063811bc0e1" n="4.">
+						<sense xml:id="uuid-6a1525dc-6d89-454b-8b21-02bf0a1cdb43" n="✧">
+							<form type="unitate-semantică-subsumată">
+								<usg>
+									<hi rend="italic">
+										<seg type="dom" rend="usg">JUR.</seg>
+									</hi>
+								</usg>
+								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<term>Abandon maritim</term>
+							</form>
+							<ptr type="trimitere" target="abandon (3)"/>
+							<cit type="unknown">
+								<quote>Abandonez, las, me retrag, părăsesc, renunţ; abandon,
+									renunţare, d. e. asiguratul renunţă la restul de marfă avariată;
+										<hi rend="bold">abandon maritim</hi>.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-f8e05887-7b0b-06f3-5e21-f6ca09564f1c">panțu</ptr>
+									<date>1897</date>
+									<citedRange>287</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<sense xml:id="uuid-fe8a3d12-788b-4af8-88fb-3027e38013c6" n="✦">
+							<def xml:id="uuid-2f8cc7de-5ed2-45c9-a682-e6587f279c27">Părăsire a navei
+								de către echipaj în caz de pericol extrem.</def>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-44d323b6-7a9e-40ea-2d32-f8ded7415f28">d.
+										marin</ptr>
+									<date>1982</date>
+									<citedRange/>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-3ca4007d-1386-4722-890f-3b7dadd3c5fa">Renunțarea, în
+							vederea încasării asigurării, la dreptul de proprietate asupra bunului
+							asigurat, navă sau marfa transportată, în condiții expres prevăzute de
+							lege, în favoarea asiguratorului.</def>
+						<usg corresp="#uuid-3ca4007d-1386-4722-890f-3b7dadd3c5fa">
+							<seg type="dom" rend="usg">MAR.</seg>
+						</usg>
+						<cit type="unknown">
+							<quote>Asiguratul poate face <hi rend="bold">abandonul</hi> chiar fără
+								să fie ţinut a proba pierderea vasului, dacă în călătoriile cu lung
+								curs a trecut un an, şi în celelalte călătorii au trecut şase luni,
+								din ziua plecării vasului sau din ziua la care se referă ultimele
+								ştiri primite.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6e3eeb4-52ef-4d6b-1ae9-9907aea76486">cod.
+									comer</ptr>
+								<date>1887</date>
+								<citedRange>172</citedRange>
+							</bibl>
+						</cit>
+					</sense>
+					<sense xml:id="uuid-52d9c7d4-d8ab-4bc4-80b0-9ce5bd9f24f5" n="5.">
+						<sense xml:id="uuid-d6375b42-4132-4c39-af1a-1e3f95b1fcc7" n="✧">
+							<usg corresp="#uuid-d6375b42-4132-4c39-af1a-1e3f95b1fcc7">
+								<hi rend="italic">
+									<seg type="sem" rend="usg">Fig.</seg>
+								</hi>
+							</usg>
+							<cit type="unknown">
+								<quote>Nu se poate entuziasm mai bine tăiat pe talie ... [decât cel
+									din „Rugăciunea pe Akropolis” a lui Renan]. Epitete sonore, dar
+									şi istoric exacte; unul chiar cu arătare precisă a numărului
+									inscripţiei unde se găseşte. Un <hi rend="bold">„abandon”</hi>
+									delicios, o combinaţie de solemn cu familiar
+									încântătoare.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarif</ptr>
+									<date>1934</date>
+									<citedRange>345</citedRange>
+								</bibl>
+							</cit>
+							<cit type="unknown">
+								<quote>Ce frumos apoi cad liniile şi cât <hi rend="bold">„abandon”</hi> în mâinile legate, care dau din nou impresia
+									unor tulpine de floare. </quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-833217b7-95a7-44e6-514b-08b733b2290d">oprescu</ptr>
+									<date>1934</date>
+									<citedRange>171</citedRange>
+								</bibl>
+							</cit>
+						</sense>
+						<def xml:id="uuid-076cd432-5db0-43b3-b7b6-7923bcd69b79">Uitare de sine,
+							acceptare necondiționată</def>
+						<xr type="syn" corresp="#uuid-076cd432-5db0-43b3-b7b6-7923bcd69b79">
 							<ptr target="delăsare (2)"/>
 						</xr>
-						<xr type="remote-syn" corresp="#id">
+						<xr type="remote-syn" corresp="#uuid-076cd432-5db0-43b3-b7b6-7923bcd69b79">
 							<ptr target="nepăsare (2)"/>
 						</xr>
 						<cit type="unknown">
+							<quote>Dacă câte o dată era cam strâmtorată în <hi rend="bold">abandonul</hi> său, era căci nu era încă deprinsă bine cu noua
+								sa resoluție.</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<date>&lt;1844-1847&gt;</date>
+								<citedRange>V, 341</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
 								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -282,7 +422,7 @@
 							<quote>Rezemată acum de fotoliu, cu mâinile atârnându-i într-un săvârşit
 									<hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-85596dbb-200a-283a-287f-4400ca4e1ae4">anișoara</ptr>
+								<ptr target="#uuid-85596dbb-200a-283a-287f-4400ca4e1ae4">anișoa</ptr>
 								<date>1929</date>
 								<citedRange>94</citedRange>
 							</bibl>
@@ -300,7 +440,7 @@
 							<quote>Ce om întreg, ce calm adevărat de om de rasă domnitoare, ce
 								complet <hi rend="bold">abandon</hi> în voia lui Dumnezeu! </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">VOINESCU</ptr>
 								<date>1948</date>
 								<citedRange>508</citedRange>
 							</bibl>
@@ -309,7 +449,7 @@
 							<quote>Idila a ținut câteva luni, cu <hi rend="bold">abandonul</hi>
 								total al fetei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bc70e524-94d7-94b3-1a8b-e210e9d378d0">nuntă</ptr>
+								<ptr target="unknown">nuntă</ptr>
 								<date>1952</date>
 								<citedRange>58</citedRange>
 							</bibl>
@@ -318,7 +458,7 @@
 							<quote>Ca să scăpăm de el, nu avem decât o soluţie: <hi rend="bold">abandonul</hi> în infinit, cum e în cazul ideii de
 								Dumnezeu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d9dacd53-574b-71f6-8b1c-bb336d5ca131">băncilă</ptr>
+								<ptr target="#uuid-d9dacd53-574b-71f6-8b1c-bb336d5ca131">spațiul</ptr>
 								<date>1959</date>
 								<citedRange>295</citedRange>
 							</bibl>
@@ -339,7 +479,7 @@
 								pentru a-i sugera nemulţumirea.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">m.
-									ilie</ptr>
+									iliesc</ptr>
 								<date>1970</date>
 								<citedRange>150</citedRange>
 							</bibl>
@@ -355,14 +495,14 @@
 							</bibl>
 						</cit>
 						<cit type="unknown">
-							<quote>De obicei somnul la ea era izolare, retragere... Acum era o
+							<quote>De obicei somnul la ea era izolare, retragere ... Acum era o
 								prelungire a dulcelui <hi rend="bold">abandon</hi> din timpul
 								serii.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-e517589e-64d0-546c-791c-015555a8383f">cel
 									iubi</ptr>
 								<date>1980</date>
-								<citedRange>497</citedRange>
+								<citedRange>1 497</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -371,7 +511,7 @@
 								noastre.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">cerul</ptr>
-								<date>1995 (&lt;1992-1994&gt;)</date>
+								<date>1995</date>
 								<citedRange>314</citedRange>
 							</bibl>
 						</cit>
@@ -398,49 +538,21 @@
 							</bibl>
 						</cit>
 					</sense>
-					<sense xml:id="uuid-9c40199f-5856-41bc-be5f-7612c98e31d8" n="3.">
-						<def xml:id="id">Renunțare la participarea sau la continuarea participării
-							într-o competiție sportivă.</def>
-						<usg corresp="#id">
-							<seg type="dom" rend="usg">SPORT</seg>
+					<sense xml:id="uuid-860a2ae5-f557-4808-bf57-426636760d65" n="6.">
+						<def xml:id="uuid-81ecadec-cf43-4c35-9418-fd4bac0ec88f">Renunțare la
+							participarea sau la continuarea participării într-o competiție
+							sportivă</def>
+						<usg corresp="#uuid-81ecadec-cf43-4c35-9418-fd4bac0ec88f">
+							<hi rend="italic">
+								<seg type="dom" rend="usg">SPORT</seg>
+							</hi>
 						</usg>
 						<cit type="unknown">
 							<quote>[Pentagon]: Învins la puncte! [Bălălău]: Knock-out prin <hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-f706c711-5e83-860d-7658-fcfed23c91e7">ciprian</ptr>
-								<date>1940</date>
-								<citedRange>113</citedRange>
-							</bibl>
-						</cit>
-					</sense>
-					<sense xml:id="uuid-b3b2b339-12c6-4a31-b8a1-1f4eb42fa0a0" n="4.">
-						<def xml:id="id">Renunțare la un bun în schimbul asigurării.</def>
-						<usg corresp="#id">
-							<seg type="dom" rend="usg">COMERȚ</seg>
-						</usg>
-						<cit type="unknown">
-							<quote>Clauza «fără de avarie» liberează pe asigurător de orice avarie
-								comună sau particulară, exceptându-se cazurile de <hi rend="bold">abandon</hi>.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-fc3f9a11-a173-2414-7044-a5a4559f89fa">cod.
-									comer</ptr>
-								<date>1887</date>
-								<citedRange>206</citedRange>
-							</bibl>
-						</cit>
-					</sense>
-					<sense xml:id="uuid-ea4edac2-ab5d-4ce7-88b3-426f87a1250f" n="5.">
-						<def xml:id="id">Părăsire a unei nave aflate în pericol de scufundare.</def>
-						<usg corresp="#id">
-							<seg type="dom" rend="usg">MAR.</seg>
-						</usg>
-						<cit type="unknown">
-							<quote>
-                                <hi rend="bold">Abandon</hi> maritim.</quote>
-							<bibl type="unknown">
-								<ptr target="#uuid-f8e05887-7b0b-06f3-5e21-f6ca09564f1c">panțu</ptr>
-								<date>1897</date>
-								<citedRange>287</citedRange>
+								<date>1946</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -470,11 +582,6 @@
                     <term xml:lang="fr" type="unknown" subtype="unknown" target="https://dictionnaire-academie.fr/article/A1A0002-01">abandon</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
 						<date>1905</date>
@@ -523,14 +630,12 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr. priv</ptr>
 						<date>1997</date>
-						<citedRange>s. v. <hi rend="italic">motive de divorț</hi>
-                        </citedRange>
+						<citedRange>633</citedRange>
 					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">dr. civ</ptr>
 						<date>2007</date>
-						<citedRange>s. v. <hi rend="italic">motive de divorț</hi>
-                        </citedRange>
+						<citedRange>633</citedRange>
 					</bibl>
 				</note>
 			</entry>

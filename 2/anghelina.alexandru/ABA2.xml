@@ -36,8 +36,7 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-d156a9ae-4e9e-4793-b1d5-b44286bb26e8" n="">
 						<def xml:id="uuid-92d15e1d-b508-4714-99b8-4e852ace3563">Exclamație care
-							exprimă mirarea sau atrage atenția cuiva atunci când i se
-							vorbește.</def>
+							exprimă mirarea sau atrage atenția cuiva atunci când i se vorbește</def>
 						<usg corresp="#uuid-92d15e1d-b508-4714-99b8-4e852ace3563">
 							<seg type="time" rend="usg">Înv. </seg>și <seg type="register style" rend="usg">popular</seg>
 						</usg>
@@ -73,7 +72,7 @@
 								<citedRange>19</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">A-ba</hi>, neică! de ce mai vorbești și
 								d-ta?</quote>
@@ -83,7 +82,7 @@
 								<citedRange>79</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Haba</hi>: cucoană Varvară, Iea poftim pe
 								prispă-afară.</quote>
@@ -93,7 +92,7 @@
 								<citedRange>311</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi>, fă, nevastă fa, Nu mi-ai văzut
 								luleaua?</quote>
@@ -103,7 +102,7 @@
 								<citedRange>453</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi>, fine, dumneata Cum s-ar putea vorba așa Să
 								se taie nășia Să rămâie finia?</quote>
@@ -114,7 +113,7 @@
 								<citedRange>60</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi>, mă, mi-o făcuși?!</quote>
 							<bibl type="unknown">
@@ -123,7 +122,7 @@
 								<citedRange>3</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi>, mamă mama mea, Ieu te adăst să vii râzând
 								Șî tu vii mai rău plângând.</quote>
@@ -134,7 +133,7 @@
 								<citedRange>522</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi> mă zău, mi-o făcuși.</quote>
 							<bibl type="unknown">
@@ -143,7 +142,7 @@
 								<citedRange>7</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote>
 								<hi rend="bold">Aba</hi> fa, cumnata mea ascultă la
 								mine-ncoa.</quote>
@@ -169,6 +168,9 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="writing">
+					<oVar>a-ba</oVar>
+				</form>
 				<re type="lexical-variant-section">
 					<usg>
                         <seg type="register style" rend="usg">
@@ -190,14 +192,9 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="formație.internă-onomatopee"/>
+					<idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/><ptr targetLang="" type="base-word" subtype="unknown" target="A2"/><ptr targetLang="" type="base-word" subtype="unknown" target="ba"/>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenaru</ptr>
-						<date>1840</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
 						<date>1924</date>

@@ -98,7 +98,7 @@
 						<term xml:lang="la" type="unknown" subtype="unknown">latnesc 22</term>
 						<xr type="asoc">
 							<ptr target="asoc1"/>
-						</xr>						
+						</xr>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
@@ -107,6 +107,13 @@
 								<citedRange/>
 							</bibl>
 						</cit>
+					</sense>
+					<sense xml:id="uuid-18c57c62-b371-49e9-a900-08bbd5d249ce" n="4.">
+						<def xml:id="uuid-77b69fb9-1ce4-4a27-834a-2efefebbce35"/>
+						<etym cert="high">
+							<idno type="element.extern-împrumut-etimon.sigur"/>
+							<term xml:lang="sq" type="unknown" subtype="unknown">xxx</term>
+						</etym>
 					</sense>
 					<sense xml:id="uuid-0a57126c-abb8-4c0a-bfd5-e76103df1903" n=""/>
 				</dictScrap>
@@ -123,13 +130,16 @@
 						</cit>
 					</sense>
 				</dictScrap>
+				<form type="accentuation-variant">
+					<stress xml:lang="ro-x-accent-lowcase-vowels">aaaaa</stress>
+				</form>
 				<re type="lexical-variant-section">
 					<def/>
 					<gramGrp>
 						<pos value=""/>
 					</gramGrp>
 					<etym cert="high">
-						<idno type=""/>
+						<idno type="variantă-directă-etimon.variantă-prin.hiperurbanism"/>
 					</etym>
 				</re>
 				<etym cert="high">

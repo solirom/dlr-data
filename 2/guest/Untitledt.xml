@@ -44,6 +44,13 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-1631e269-6b0d-4f20-aafa-e0fccaad858e" n="1."/>
+					<sense xml:id="uuid-8130571d-cfa2-42e2-a2ea-1bcfa15f5ef0" n="">
+						<form type="unitate-semantică-subsumată">
+							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+							<term/>
+							<term type="etym" targetLang="sq" subtype="element.extern-calc">hdg</term>
+						</form>
+					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-c68a588a-023a-41e8-b392-635a385306b0" n="">
@@ -59,7 +66,7 @@
 					</sense>
 				</dictScrap>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="formație.internă-compus-din.mai.multe.cuvinte.de.bază"/><ptr targetLang="" type="base-word" subtype="unknown" target="unknown"/><ptr targetLang="" type="base-word" subtype="unknown" target="unknown"/>
 				</etym>
 			</entry>
 		</body>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-04dd7608-e7c3-4d70-aaed-1317d5d1efda" version="3.3.0" source="0.21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-04dd7608-e7c3-4d70-aaed-1317d5d1efda17" version="3.3.0" source="0.21">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -49,16 +49,21 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+					<idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
 						<mood value="ind."/>
 						<tns value="prez."/>
 						<per value=""/>
 						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">absólv</form>
-					</form><form type="grammatical-information-for-verb" corresp="">
+					</form>
+                    <form type="grammatical-information-for-verb" corresp="">
 						<mood value="ind."/>
 						<tns value="prez."/>
 						<per value=""/>
-						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">absolvesc</form><usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">ieșit din uz</seg></usg>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">absolvesc</form>
+                        <usg>
+                            <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">ieșit din uz</seg>
+                        </usg>
 					</form>
 				</form>
 				<etym cert="high">

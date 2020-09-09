@@ -18,7 +18,7 @@
     <resource type="XMLResource" name="133_134.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:12:56+02:00" modified="2020-05-27T11:56:40+03:00" filename="133_134.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="135_140.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:21:38+02:00" modified="2020-05-27T11:56:56+03:00" filename="135_140.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="135_140.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:21:38+02:00" modified="2020-07-08T10:16:47+03:00" filename="135_140.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="136.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-03-23T07:24:39+02:00" modified="2020-05-27T11:57:50+03:00" filename="136.xml" mimetype="application/xml">
@@ -54,13 +54,13 @@
     <resource type="XMLResource" name="red_etim_sns.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-06-09T03:55:20+03:00" modified="2020-06-09T03:55:25+03:00" filename="red_etim_sns.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absolvi.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:34:35+03:00" modified="2020-06-09T11:39:27+03:00" filename="absolvi.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absolvi.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:34:35+03:00" modified="2020-07-07T07:23:18+03:00" filename="absolvi.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absenta.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:41:34+03:00" modified="2020-06-09T11:43:23+03:00" filename="absenta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absenta.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:41:34+03:00" modified="2020-07-07T07:25:10+03:00" filename="absenta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abolire.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:47:25+03:00" modified="2020-06-09T11:48:24+03:00" filename="abolire.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abolire.xml" owner="stefania.vulpe" group="stefania.vulpe" mode="644" created="2020-06-09T11:47:25+03:00" modified="2020-07-07T07:26:09+03:00" filename="abolire.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="note_etim.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-06-12T04:22:44+03:00" modified="2020-06-12T04:47:18+03:00" filename="note_etim.xml" mimetype="application/xml">
@@ -70,6 +70,15 @@
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="testCM.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-06-16T04:33:23+03:00" modified="2020-06-16T04:46:26+03:00" filename="testCM.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Delimitatori-definitie.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-07-02T05:18:32+03:00" modified="2020-07-02T05:28:41+03:00" filename="Delimitatori-definitie.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Ref-red-etim-sns.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-07-02T05:30:43+03:00" modified="2020-07-02T05:41:38+03:00" filename="Ref-red-etim-sns.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bug_mutare%20_sns.xml" owner="anghelina.alexandru" group="anghelina.alexandru" mode="644" created="2020-08-20T06:25:05+03:00" modified="2020-08-20T06:26:27+03:00" filename="bug_mutare _sns.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

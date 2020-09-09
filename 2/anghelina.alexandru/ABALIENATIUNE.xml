@@ -42,7 +42,7 @@
 						<def xml:id="uuid-b99e4db5-47e6-4461-9bad-3cecf7a5addb">Înstrăinare</def>
 						<usg corresp="#uuid-b99e4db5-47e6-4461-9bad-3cecf7a5addb">
 							<seg type="dom" rend="usg">JUR.</seg>
-							<seg type="time" rend="usg">Ieșit din uz</seg>
+							<seg type="time" rend="usg">Înv.</seg>
 						</usg>
 						<cit type="unknown">
 							<quote/>
@@ -68,7 +68,7 @@
 					</sense>
 				</dictScrap>
 				<re type="lexical-variant-section">
-					<usg><seg type="plev" rend="usg">rar.</seg></usg>
+					<usg><hi rend="italic"><seg type="time" rend="usg">înv.</seg></hi></usg>
 					<def>abalienáție</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
@@ -90,7 +90,7 @@
 					<bibl type="unknown">
 						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
 						<date>2011</date>
-						<citedRange>s. v. <hi rend="italic">aliena</hi>. </citedRange>
+						<citedRange>60</citedRange>
 					</bibl>
 				</note>
 			</entry>

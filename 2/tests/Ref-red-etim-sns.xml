@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-973652bf-5176-4198-939c-60de906232af" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-07-02T12:32:54+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-dc69a560-abe6-4633-9bf8-b896b7103d6f" n="1.">
+						<etym cert="high">
+							<idno type="element.extern-împrumut-etimon.sigur"/>
+							<term xml:lang="en" type="unknown" subtype="unknown">test</term>
+						</etym>
+					</sense>
+					<sense xml:id="uuid-782b8094-e29b-4d07-acf0-52e108b569bd" n="2.">
+						<etym cert="high">
+							<idno type="unul.sau.mai.multe.sensuri-explicarea.sensului-cf..izvor"/>
+							<ptr targetLang="" type="unknown" subtype="unknown" target="unknown"/>
+							<bibl type="cf.">
+								<ptr target="#uuid-5c141897-0b66-4060-6c1e-431e8dbd1a3a">arghezi</ptr>
+								<date>1930</date>
+								<citedRange/>
+							</bibl>
+						</etym>
+					</sense>
+					<sense xml:id="uuid-e03f0778-c797-4c76-8d9b-c8ad12c64d92" n="3.">
+						<etym cert="high">
+							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
+							<ptr targetLang="en" type="unul.sau.mai.multe.sensuri-sensul-cf." target="test"/>
+						</etym>
+					</sense>
+					<sense xml:id="uuid-46e731c4-f8ae-47fc-bbf7-bc5fe084d1d1" n="4.">
+						<etym cert="high">
+							<idno type="unul.sau.mai.multe.sensuri-sensul-cf..și.etimon"/>
+							<ptr targetLang="en" type="unul.sau.mai.multe.sensuri-sensul-cf." target="test"/>
+						</etym>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-faf5602a-1307-41f5-bfa4-124fe9665648" n="">
+						<def xml:id="uuid-64ea45dc-04de-4c13-9e2f-302915309edd"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

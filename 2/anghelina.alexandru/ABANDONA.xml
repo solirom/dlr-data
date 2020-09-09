@@ -58,21 +58,6 @@
 								</bibl>
 							</cit>
 						</sense>
-						<sense xml:id="uuid-7c726e0e-a2ec-4c5c-b60e-29e99ba2aaa6" n="✧">
-							<def xml:id="id"/>
-							<usg corresp="#id">
-								<seg type="sem" rend="usg">Fig.</seg>
-							</usg>
-							<cit type="unknown">
-								<quote>Picioarele-i subțiri să cadă <hi rend="bold">abandonate</hi>
-									peste bara mușchiuloasă a brațului său drept.</quote>
-								<bibl type="unknown">
-									<ptr target="#uuid-37abb81d-a152-487b-900e-a1933dbba3f3">otiliei</ptr>
-									<date>1938</date>
-									<citedRange>21</citedRange>
-								</bibl>
-							</cit>
-						</sense>
 						<sense xml:id="uuid-779b9fc4-9a04-4d6e-af20-0bbd1811fb9f" n="✧">
 							<gramGrp>
 								<pos value="vb."/>
@@ -92,9 +77,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Se abandonează</hi> proiectul Kog. şi
-									pietrele rămân expuse pe unde se poate, cum sunt şi până
-									azi.</quote>
+								<quote><hi rend="bold">Se abandonează</hi> proiectul ... şi pietrele
+									rămân expuse pe unde se poate, cum sunt şi până azi.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-95d94add-5c45-0e9a-a603-33c0acf72709">arh.
 										ol</ptr>
@@ -137,10 +121,11 @@
 								</etym>
 							</sense>
 							<def xml:id="id">A părăsi, lăsând fără sprijin sau ajutor:</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">JUR.</seg> (<seg type="gram" rend="usg">Complementul indică copii, familie,
-									persoane asistate</seg>)</usg>
+							<usg corresp="#id">(<seg type="gram" rend="usg">Complementul indică
+									copii, familie, persoane asistate</seg>)</usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="a lepăda (II 1)"/>
+								<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 							</xr>
 							<cit type="unknown">
 								<quote>Iată omul fuge de locu-i natal, <hi rend="bold">Abandonă</hi>
@@ -190,6 +175,14 @@
 									<citedRange>124</citedRange>
 								</bibl>
 							</cit>
+							<cit type="unknown">
+								<quote/>
+								<bibl type="unknown">
+									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<date>1862</date>
+									<citedRange/>
+								</bibl>
+							</cit>
 						</sense>
 						<gramGrp>
 							<pos value="vb."/>
@@ -205,7 +198,7 @@
 							<bibl type="unknown">
 								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
 								<date>&lt;1842-1844&gt;</date>
-								<citedRange>127<hi rend="superscript">2</hi>/15</citedRange>
+								<citedRange>IV, 127<hi rend="superscript">2</hi>/15</citedRange>
 							</bibl>
 						</cit>
 						<cit type="unknown">
@@ -401,8 +394,92 @@
 								<citedRange>261</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+								<date>1859</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+								<date>1868</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 					<sense xml:id="uuid-08876e9a-9c89-473e-b54d-0c9b868276ed" n="2.">
+						<sense xml:id="uuid-dc45cffe-bcf0-4f2e-ad37-59a0c592fdbd" n="✧">
+							<gramGrp>
+								<pos value="vb."/>
+								<iType value=""/>
+								<subc value="tranz."/>
+								<subc value=""/>
+							</gramGrp>
+							<usg corresp="#uuid-dc45cffe-bcf0-4f2e-ad37-59a0c592fdbd">
+								<seg type="sem" rend="usg">Fig.</seg>
+							</usg>
+							<cit type="unknown">
+								<quote>Picioarele-i subțiri să cadă <hi rend="bold">abandonate</hi>
+									peste bara mușchiuloasă a brațului său drept.</quote>
+								<bibl type="unknown">
+									<ptr target="#uuid-c9e604c9-4718-5597-49a5-73922d3a42d7">nunții</ptr>
+									<date>1933</date>
+									<citedRange>21</citedRange>
+								</bibl>
+							</cit>
+						</sense>
 						<gramGrp>
 							<pos value="vb."/>
 							<iType value="I"/>
@@ -500,6 +577,30 @@
 								<citedRange>58</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 					<sense xml:id="uuid-51e34821-16b9-4c2a-af1a-aac8d8e42aa8" n="3.">
 						<gramGrp>
@@ -594,16 +695,6 @@
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abandonner</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
-						<date>1870</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
 						<date>1905</date>

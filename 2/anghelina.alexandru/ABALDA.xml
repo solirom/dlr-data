@@ -41,13 +41,70 @@
 					<sense xml:id="uuid-0961d59e-820e-49c7-900e-72d56dab8470" n="">
 						<def xml:id="uuid-5f7f019e-0b5f-47ef-b03f-8659e68e678d">Magazie, loc unde se
 							depozitau mărfurile.</def>
-						<usg corresp="#uuid-5f7f019e-0b5f-47ef-b03f-8659e68e678d"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<usg corresp="#uuid-5f7f019e-0b5f-47ef-b03f-8659e68e678d"><seg type="geo" rend="usg">Transilv.</seg>, <seg type="time" rend="usg">înv.</seg>,
+								<seg type="plev" rend="usg">rar</seg></usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
 								<date>1801</date>
 								<citedRange>190</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+								<date>1825</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+								<date>1850</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
+								<date>1870</date>
+								<citedRange>188</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1983</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown">philip</ptr>
+								<date>&lt;1897-1905&gt; </date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -74,21 +131,6 @@
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Ablade[raum]</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
-						<date>1850</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
-						<date>1870</date>
-						<citedRange>s. v. <hi rend="italic">pace</hi></citedRange>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-f2c6c82b-5ef1-158b-4529-dadec7e660ff">philippide</ptr>
-						<date>&lt;1897–1905&gt;</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
 						<date>1905</date>

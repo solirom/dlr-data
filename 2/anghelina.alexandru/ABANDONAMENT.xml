@@ -39,13 +39,12 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-0d8cc031-2b4b-4a37-ab5f-72a6aa0e63b2" n="">
-						<def xml:id="uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"/>
-						<usg corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
-						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
-							<ptr target="Părăsire (4)"/>
+						<usg corresp="#uuid-0d8cc031-2b4b-4a37-ab5f-72a6aa0e63b2"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+						<xr type="syn" xml:id="uuid-390f8825-5225-413c-b22d-61bf87e47280">
+							<ptr target="Abandonare"/>
 						</xr>
-						<xr type="syn" corresp="#uuid-a442da25-1bbc-472b-94e5-bbc6d77f4dfe">
-							<ptr target="Renunțare"/>
+						<xr type="syn">
+							<ptr target="renunțare"/>
 						</xr>
 						<cit type="unknown">
 							<bibl type="author-reference">
@@ -58,6 +57,38 @@
 									contem</ptr>
 								<date>1847</date>
 								<citedRange>271</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1862</date>
+								<citedRange>8</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -80,21 +111,24 @@
 						<number>?</number>
 					</form>
 				</form>
+				<re type="lexical-variant-section">
+					<def>abandonemấnt</def>
+					<bibl type="unknown">
+						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<date>1870</date>
+						<citedRange/>
+					</bibl>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-etimon.variantă-cu.românizarea.sufixului"/>
+					</etym>
+				</re>
 				<etym cert="high">
-					<idno type="formație.internă-derivat-cu.sufix"/><ptr targetLang="" type="base-word" subtype="unknown" target="Abandona"/><term xml:lang="" type="sufix" subtype="unknown">-ment</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abandonnement</term>
 				</etym>
-				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
-						<date>1848</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopescu</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
-				</note>
+				<note type="bibliographic-references"/>
 			</entry>
 		</body>
 	</text>

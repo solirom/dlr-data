@@ -53,13 +53,37 @@
 						<def xml:id="uuid-0e887ce4-3414-42ce-9513-619e7c8d1cf5">A (se) schimba, a
 							(se) degenera.</def>
 						<usg corresp="#uuid-0e887ce4-3414-42ce-9513-619e7c8d1cf5">
-                            <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
-                        </usg>
+							<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+						</usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
 								<date>1848</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<date>1962</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<date>1862</date>
 								<citedRange/>
 							</bibl>
 						</cit>
@@ -88,16 +112,9 @@
 					</form>
 				</form>
 				<etym cert="high">
-					<idno type="element.extern-trimitere-Cf."/>
-                    <term xml:lang="fr" type="unknown" subtype="unknown">abâtardir</term>
-				</etym>
-				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopopes</ptr>
-						<date>1862</date>
-						<citedRange/>
-					</bibl>
-				</note>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abâtardir </term>
+					<note>(adaptat după <hi rend="italic">bastard</hi>)</note></etym>
+				<note type="bibliographic-references"/>
 			</entry>
 		</body>
 	</text>

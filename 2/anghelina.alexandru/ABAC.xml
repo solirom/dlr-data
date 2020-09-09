@@ -103,6 +103,22 @@
 								<citedRange>7/15</citedRange>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<date>1842</date>
+								<citedRange>6<hi rend="superscript">1</hi>/34</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 					<sense xml:id="uuid-ad0f31e6-0598-4add-92e0-ec303dec4b56" n="2. ">
 						<def xml:id="uuid-a2794528-668d-4d6e-a0db-d1a77e272100">Instrument format
@@ -231,16 +247,38 @@
 								<citedRange>362</citedRange>
 							</bibl>
 						</cit>
-						<re type="lexical-variant-section">
-							<def>abácă</def>
-							<gramGrp>
-								<pos value="s."/>
-								<gen value="f."/>
-								<number value=""/>
-								<case value=""/>
-								<subc value=""/>
-							</gramGrp>
-						</re>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenaru</ptr>
+								<date>1840</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinean</ptr>
+								<date>1896</date>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -263,7 +301,16 @@
 						<number>abace</number>
 					</form>
 				</form>
-				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+				<re type="lexical-variant-section"> ,  <def>abácă</def>
+					<gramGrp>
+						<pos value="s."/>
+						<gen value="f."/>
+						<number value=""/>
+						<case value=""/>
+						<subc value=""/>
+					</gramGrp>
+				</re>
+				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>ambác</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -276,7 +323,7 @@
 						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="el" type="unknown" subtype="unknown">άμπακος</term>
 					</etym></re>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>hambác</def>
 					<gramGrp>
 						<pos value="s."/>
@@ -286,7 +333,7 @@
 						<subc value=""/>
 					</gramGrp>
 				</re>
-				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
+				<re type="lexical-variant-section"> , <usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>hâmbác</def>
 					<bibl type="unknown">
 						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
@@ -310,16 +357,6 @@
 					<term xml:lang="la" type="unknown" subtype="unknown">abacus</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
-						<date>1842</date>
-						<citedRange>6<hi rend="superscript">1</hi>/34</citedRange>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stamati</ptr>
-						<date>1851</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmeri</ptr>
 						<date>1924</date>

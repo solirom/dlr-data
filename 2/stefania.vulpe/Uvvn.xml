@@ -92,8 +92,11 @@
 					</bibl>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
-						<term/>
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value=""/>
+						<tns value=""/>
+						<per value="pers. 2"/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
 					</form>
 				</form>
 				<etym cert="high">

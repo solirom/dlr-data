@@ -39,28 +39,27 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-79b5927a-2e6d-4423-9ffb-5c7345cae9bd" n="1.">
-						<def xml:id="uuid-811af8e1-6777-44ee-9b20-b6570b93c48b">Persoană care se
-							ocupa cu fabricarea sau vânzarea abalei<hi rend="superscript">3</hi>;</def>
-						<def xml:id="uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">persoană care
-							confecționa haine de aba<hi rend="superscript">3</hi>;</def>
-						<usg corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<def xml:id="uuid-25be06d3-cd1b-4889-960f-6ae0fb0c1662">Persoană care se
+							ocupa cu fabricarea sau vânzarea abalei<hi rend="superscript">3</hi></def>
+						<usg corresp="#uuid-25be06d3-cd1b-4889-960f-6ae0fb0c1662">
+							<seg type="time" rend="usg">Înv.</seg>
+						</usg>
+						<def xml:id="uuid-df4c213c-ec07-4a93-958c-cf7b2c5f9049">persoană care
+							confecționa haine de aba<hi rend="superscript">3</hi></def>
+						<usg corresp="#uuid-df4c213c-ec07-4a93-958c-cf7b2c5f9049">
 							<seg type="sem" rend="usg">p. restr.</seg>
 						</usg>
-						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<xr type="syn" corresp="#uuid-df4c213c-ec07-4a93-958c-cf7b2c5f9049">
 							<ptr target="abager"/>
-							<usg>
-                                <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">
-                                    <hi rend="italic">pop.</hi>
-								</seg>
-                            </usg>
+							<usg><seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">pop.</seg></usg>
 						</xr>
-						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<xr type="syn" corresp="#uuid-df4c213c-ec07-4a93-958c-cf7b2c5f9049">
 							<ptr target="piuar"/>
 							<usg>
 								<seg type="geo" rend="usg">reg.</seg>
 							</usg>
 						</xr>
-						<xr type="syn" corresp="#uuid-b02b7c2a-50ee-4854-a794-d24bbb32c082">
+						<xr type="syn" corresp="#uuid-df4c213c-ec07-4a93-958c-cf7b2c5f9049">
 							<ptr target="abar"/>
 							<usg>
 								<seg type="geo" rend="usg">reg.</seg>
@@ -186,7 +185,7 @@
 						</cit>
 						<cit type="unknown">
 							<quote>
-                                <hi rend="bold">Abagiii</hi> făceau tuzluci, pantaloni (nădragi),
+								<hi rend="bold">Abagiii</hi> făceau tuzluci, pantaloni (nădragi),
 								mintene scurte până la brâu.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-793f49ed-40b1-6a08-2e82-70f275883f1d">igiena</ptr>
@@ -253,15 +252,15 @@
 						</cit>
 						<cit type="✧ POP.">
 							<quote>
-                                <hi rend="bold">Habagiul</hi> cu capace Toată noaptea nu-mi dă
-								pace, Tot mă pișcă și mă trage Și mă roagă să-l sărut.</quote>
+								<hi rend="bold">Habagiul</hi> cu capace Toată noaptea nu-mi dă pace,
+								Tot mă pișcă și mă trage Și mă roagă să-l sărut.</quote>
 							<bibl type="unknown">
 								<ptr target="#uuid-70974a0b-97c9-1226-333a-50c32f974b76">hore</ptr>
 								<date>1907 (†) </date>
 								<citedRange>156</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
@@ -269,12 +268,78 @@
 								<citedRange>1 729/727</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr I</ptr>
 								<date/>
 								<citedRange>1 7 47/825</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>Și la văînzare aceștie moșie tăîmplatu-se-eu mulțe oamene bune și
+								bătrăne anum[e] Dumentru diiacon ... Dumitru <hi rend="bold">abageul</hi>, Iane <hi rend="bold">abagiul</hi> ... și Manul
+									<hi rend="bold">habagiul</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date>1642</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+								<date>1839</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășes</ptr>
+								<date>1859</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
+								<date>1862</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinesc</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<date>1871</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<date>1893</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinea</ptr>
+								<date>1896</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -358,26 +423,6 @@
                     <term xml:lang="tr" type="unknown" subtype="unknown">abağy</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
-						<date>1839</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășe</ptr>
-						<date>1859</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
-						<date>1893</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom</ptr>
-						<date>1898</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
 						<date>1931</date>

@@ -66,6 +66,33 @@
 								<citedRange/>
 							</bibl>
 						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<date>1870</date>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote>În Filipine este larg răspândită producţia meşteşugărească
+								(brodatul, împletitul pălăriilor de paie, ceramica etc.). Exportă
+								zahăr, cafea, <hi rend="bold">abaca</hi>, ulei de cocos, lemn,
+								tutun,</quote>
+							<bibl type="unknown">
+								<ptr target="#uuid-c5fab402-93d8-68d2-10d1-2be43ed077a8">DER</ptr>
+								<date>1964</date>
+								<citedRange>386</citedRange>
+							</bibl>
+						</cit>
+						<cit type="▭">
+							<quote>Fibre din nucă de cocos, de <hi rend="bold">abaca</hi>.</quote>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
 					</sense>
 					<sense xml:id="uuid-6e4a10cd-dc07-4334-b784-627256c9d948" n="2.">
 						<gramGrp>
@@ -82,8 +109,7 @@
 						<usg corresp="#uuid-415b67b9-3cdf-4e35-9f62-0010082868dc">
 							<seg type="dom" rend="usg">Bot.</seg>
 						</usg>
-						<term xml:lang="la" type="unknown" subtype="unknown">Musa
-							textilis</term>
+						<term xml:lang="la" type="unknown" subtype="unknown">Musa textilis</term>
 						<cit type="unknown">
 							<quote>Ca plantă textilă e cultivată pe o scară foarte întinsă M.[usa]
 								textilis Née sau <hi rend="bold">Abaca</hi>, a cărei patrie e în
@@ -101,6 +127,14 @@
 								<ptr target="#uuid-8745fec6-0238-5b9d-8176-6297903295cb">der</ptr>
 								<date>1965</date>
 								<citedRange>185</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<date>1848</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -156,16 +190,6 @@
                     <term xml:lang="fr" type="unknown" subtype="unknown">abaca</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
-						<date>1870</date>
-						<citedRange/>
-					</bibl>
-					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom</ptr>
-						<date>1898</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-7505c824-4f9b-72be-423d-5428fc8516ef">vamal</ptr>
 						<date>1930</date>

@@ -47,7 +47,8 @@
 						<def xml:id="uuid-b6e9ca55-58a1-4ee3-9603-c0c9732cf4ef">Persoană care făcea
 							parte din dinastia de califi arabi (750–1258) care s-au stabilit la
 							Bagdad, după înlăturarea omeiazilor și care au întemeiat un vast imperiu
-							musulman cu o civilizație strălucită.</def>
+							musulman</def>
+						<usg corresp="#uuid-b6e9ca55-58a1-4ee3-9603-c0c9732cf4ef">(<seg type="gram" rend="usg">Mai ales la pl.</seg>)</usg>
 						<cit type="unknown">
 							<quote>Abderaman cel Mare transplanta în Cordova săminţele cele mai
 								delicate a culturei Orientului şi, rival a <hi rend="bold">abasizilor</hi>, dedu impuls tutulor elementelor civilizaţiei
@@ -95,6 +96,14 @@
 									istor</ptr>
 								<date>1999</date>
 								<citedRange>47</citedRange>
+							</bibl>
+						</cit>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinean</ptr>
+								<date>1869</date>
+								<citedRange/>
 							</bibl>
 						</cit>
 					</sense>
@@ -162,11 +171,6 @@
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">Abbaside</term>
 				</etym>
 				<note type="bibliographic-references">
-					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăineanu</ptr>
-						<date>1896</date>
-						<citedRange/>
-					</bibl>
 					<bibl type="unknown">
 						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
 						<date>1993</date>

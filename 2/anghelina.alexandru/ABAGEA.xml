@@ -37,6 +37,11 @@
 						<def xml:id="uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">Deschizătură în
 							formă de ferestruică în acoperișul caselor țărănești, al unei șuri etc.,
 							care servește drept horn;</def>
+						<usg corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">
+							<hi rend="italic">
+								<seg type="register style" rend="usg">Pop.</seg>
+							</hi>
+						</usg>
 						<xr type="syn" corresp="#uuid-fe080cb7-e9fc-4017-9be7-fca25e4d62c6">
 							<ptr target="bageac"/>
 						</xr>
@@ -51,7 +56,7 @@
 								<citedRange>20</citedRange>
 							</bibl>
 						</cit>
-						<cit type="✧ POP.">
+						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
 								<ptr target="#uuid-08560d92-8a44-368e-8d70-ff47d20f1c04">coman</ptr>
@@ -104,8 +109,8 @@
 					</gramGrp>
 				</re>
 				<etym cert="high">
-					<idno type="formație.internă-trimitere-Cf."/><ptr targetLang="ro" type="formație.internă-trimitere-Cf." target="bageac"/>
-				</etym>
+					<idno type="formație.internă-derivat.îndepărtat"/><ptr targetLang="" type="unknown" subtype="unknown" target="bagea"/>
+					<note>(cu a protetic)</note></etym>
 			</entry>
 		</body>
 	</text>

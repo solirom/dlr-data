@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-db3944dd-6287-4588-a03f-ba498636e39d" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-07-02T12:20:43+0300"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n=""/>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-95796f8e-132e-4084-a840-2f5f21bd3e95" n="1.">
+						<def xml:id="uuid-20592b02-181a-452c-a1b3-aaaefe7c1f34">Care a fost părăsit,
+							lăsat deoparte</def>
+					</sense>
+					<sense xml:id="uuid-addd2384-835e-4d0a-9c9c-e3a8bf33b28c" n="2.">
+						<def xml:id="uuid-5e55e669-3418-4d39-a731-9f55658e4372">Care a fost părăsit,
+							lăsat deoparte</def>
+						<xr type="syn" corresp="#uuid-5e55e669-3418-4d39-a731-9f55658e4372">
+							<ptr target="lepădat2 (I)"/>
+						</xr>
+					</sense>
+					<sense xml:id="uuid-d8552403-c9da-4fba-bdba-edf8a6d7c942" n="3a">
+						<def xml:id="uuid-154adbe9-732c-4eb1-9a07-36ce9db43d3b">Care a fost părăsit,
+							lăsat deoparte</def>
+						<def xml:id="uuid-94f4bc30-b3ae-43c8-866c-9f8f920cff81">la care s-a
+							renunțat</def>
+						<def xml:id="uuid-911e13f9-255a-4353-8a22-7f271ae67f4e">care nu a mai fost
+							dorit</def>
+					</sense>
+					<sense xml:id="uuid-e1a238bd-c178-48cc-9b0e-dab621880fe5" n="3b">
+						<def xml:id="uuid-933ccc73-d309-4e88-986d-da5f7fbd23c3">Care a fost părăsit,
+							lăsat deoparte</def>
+						<xr type="syn" corresp="#uuid-933ccc73-d309-4e88-986d-da5f7fbd23c3">
+							<ptr target="părăsit"/>
+						</xr>
+						<def xml:id="uuid-88ce6cf9-d3f8-457b-93f2-7060d063a309">la care s-a
+							renunțat</def>
+						<xr type="syn" corresp="#uuid-88ce6cf9-d3f8-457b-93f2-7060d063a309">
+							<ptr target="năpustit"/>
+						</xr>
+						<def xml:id="uuid-ca779b14-c602-464a-8449-4904ded25248">care nu a mai fost
+							dorit</def>
+						<xr type="syn" corresp="#uuid-ca779b14-c602-464a-8449-4904ded25248">
+							<ptr target="uitat"/>
+						</xr>
+					</sense>
+					<sense xml:id="uuid-97091a75-e1ad-4934-bae7-a299a2e17531" n="3c">
+						<def xml:id="uuid-a309369a-62eb-40a9-a34a-be198c95566a">Care a fost părăsit,
+							lăsat deoparte</def>
+						<def xml:id="uuid-71b145c4-b7b6-4dbf-ae5e-8f0d29bbbf42">la care s-a
+							renunțat</def>
+						<def xml:id="uuid-e1d5dfa3-61a2-4eee-bf72-10a9e548c1a9">care nu a mai fost
+							dorit</def>
+						<xr type="syn" corresp="#uuid-e1d5dfa3-61a2-4eee-bf72-10a9e548c1a9">
+							<ptr target="uitat"/>
+						</xr>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-b68afae0-769e-4bc5-803a-c4005d0cf0cf" n="">
+						<def xml:id="uuid-a467de62-a045-4b37-a30f-0992d3416969"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>
