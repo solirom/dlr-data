@@ -191,10 +191,10 @@
 							<def xml:id="id">Primul element dintr-o enumerare, dintr-o serie
 								etc.</def>
 							<cit type="unknown">
-								<quote>Să presupunem că fiecare din imaginile „<hi rend="bold">a</hi>”, „b”, „c”, produce emoţiunea „<hi rend="bold">A</hi>”. În acest caz e natural ca această emoţiune fiind
-									odată deşteptată, de către „<hi rend="bold">a</hi>”, să deştepte
-									şi ea la rândul său pe celelalte corelative ale sale, adică pe
-									imaginea „b” sau „c”.</quote>
+								<quote>Să presupunem că fiecare din imaginile „<hi rend="bold">a</hi>”, „b”, „c” produce emoţiunea „<hi rend="bold">A</hi>”. În acest caz e natural ca, această emoţiune fiind
+									odată deşteptată de către „a”, să deştepte şi ea la rândul său
+									pe celelalte corelative ale sale, adică pe imaginea „b” sau
+									„c”.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
 									<date>&lt;1875-1876&gt;</date>
@@ -204,8 +204,7 @@
 							<cit type="unknown">
 								<quote>Fiind dat un unghi <hi rend="bold">A</hi> al triunghiului ABC
 									... din vârful <hi rend="bold">A</hi> descriem un cerc de rază
-									egală cu unitatea şi fie M, N punctele de intersecţie ale
-									cercului cu laturile triunghiului.</quote>
+									egală cu unitatea.</quote>
 								<bibl type="unknown">
 									<ptr target="unknown">teleman</ptr>
 									<date>1967</date>
@@ -220,8 +219,8 @@
 							</usg>
 							<cit type="unknown">
 								<quote>Un curent de 1 <hi rend="bold">A</hi>. care trece printr-o
-									soluție de azotat de argint în apă, depune 0,001118 grgr. argint
-									pe secundă.</quote>
+									soluție de azotat de argint în apă depune 0,001118 grgr. [sic!]
+									argint pe secundă.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-7286ef75-8bfb-6883-75ca-2b55c78888c0">cade</ptr>
 									<date>1931</date>
@@ -231,7 +230,7 @@
 							<cit type="unknown">
 								<quote>În acest sens, un ampermetru de pe pupitrul de comandă al
 									unui aparat de Roentgenterapie este notat în schema electrică de
-									principiu sau cea generală, printr-un cerc în care se înscrie
+									principiu sau cea generală printr-un cerc în care se înscrie
 									litera <hi rend="bold">A</hi> (Amper).</quote>
 								<bibl type="unknown">
 									<ptr target="unknown"/>
@@ -315,12 +314,11 @@
 					</form><form type="grammatical-information-for-plural" corresp="">
 						<number>a-uri</number>
 						<gramGrp>
-							<pos value="s."/>
-							<gen value="n."/>
-							<number value=""/>
-							<case value=""/>
-							<subc value=""/>
+							<pos value=""/>
 						</gramGrp>
+						<usg>(<hi rend="italic"><seg type="register style" rend="usg">rar,</seg></hi>
+							<seg type="gram" rend="usg">n.</seg>)</usg>
+						<bibl type="unknown"><ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr><date>2005</date><citedRange/></bibl>
 					</form>
 				</form>
 				<etym cert="high">

@@ -165,17 +165,17 @@
 					</sense>
 				</dictScrap>
 				<re type="lexical-variant-section">
-					<def/>
+					<def>varianta</def>
 					<gramGrp>
 						<pos value=""/>
 					</gramGrp>
 					<etym cert="high">
-						<idno type="variantă-directă-etimon.variantă-cu.românizarea.sufixului"/>
+						<idno type=""/>
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="et..nes."/>
-                </etym>
+					<idno type="formație.internă-trimitere-De.la-s..pr."/><ptr targetLang="" type="unknown" subtype="unknown" target="unknown"/>
+				</etym>
 			</entry>
 		</body>
 	</text>

@@ -78,10 +78,13 @@
 				</dictScrap>
 				<form type="unknown-accentuation"/>
 				<etym cert="high">
-					<idno type="formație.internă-trimitere-De.la-n..pr."/><ptr targetLang="" type="unknown" subtype="unknown" target="Abel"/><gramGrp>
+					<idno type="formație.internă-trimitere-De.la-s..pr."/>
+                    <ptr targetLang="" type="unknown" subtype="unknown" target="Abel"/>
+                    <gramGrp>
 						<pos value="s. pr."/>
 						<subc value=""/>
-					</gramGrp></etym>
+					</gramGrp>
+                </etym>
 			</entry>
 		</body>
 	</text>

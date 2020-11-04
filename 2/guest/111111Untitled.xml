@@ -30,10 +30,11 @@
 					<pron/>
 				</form>
 				<gramGrp>
-					<pos value=""/>
-				</gramGrp>
+					<pos value="vb."/>
+					<iType value=""/></gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-73fff873-a8dd-4faa-b1ef-6ebd78a0f579" n="1.">
+						<sense xml:id="uuid-bb18de00-6c69-4681-83d2-92027bcaa269" n=""/>
 						<form type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="construction"/>
 							<term>asd</term>
@@ -52,6 +53,42 @@
 							<term xml:lang="sq" type="unknown" subtype="unknown">zzz</term>
 						</etym>
 					</sense>
+					<sense xml:id="uuid-0a474c59-c190-49d7-a6ab-a74a6332426f" n="3">
+						<def xml:id="uuid-5733e7c5-25dc-4463-bb41-1e8a4239a253"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="#uuid-d0938539-112f-9f10-9cae-72033b1e3ef8">aaron</ptr>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+						<etym cert="high">
+							<idno type="element.extern-împrumut-etimon.sigur"/>
+							<term xml:lang="bg" type="unknown" subtype="unknown">asdf</term>
+						</etym>
+					</sense>
+					<sense xml:id="uuid-350480d5-3ac4-45d1-afcd-256b59e1d684" n="4.">
+						<def xml:id="uuid-ff212e95-5575-4c5a-9aff-2e53603bd4ba">def 1</def>
+						<xr type="syn" corresp="#uuid-ff212e95-5575-4c5a-9aff-2e53603bd4ba">
+							<ptr target="sn2"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-ff212e95-5575-4c5a-9aff-2e53603bd4ba">
+							<ptr target="sn2"/>
+						</xr>
+					</sense>
+					<sense xml:id="uuid-01a28b76-8e0b-4304-a2cb-38e4c91f13f7" n="5.">
+						<def xml:id="uuid-217cf98e-e6d7-4c7b-8e8d-c5e1feecd7b8">def</def>
+						<xr type="syn" corresp="#uuid-217cf98e-e6d7-4c7b-8e8d-c5e1feecd7b8">
+							<ptr target="s1"/>
+						</xr>
+						<xr type="syn" corresp="#uuid-217cf98e-e6d7-4c7b-8e8d-c5e1feecd7b8">
+							<ptr target="s2"/>
+						</xr>
+					</sense>
+					<sense xml:id="uuid-26ed4f53-6b86-4309-8fbd-3042584ecd06" n=""/>
+					<sense xml:id="uuid-1c17b074-f3b9-40ca-9db6-bdfd1361fb38" n=""/>
+					<sense xml:id="uuid-36839f83-94b4-4680-b77f-ae248c17046f" n=""/>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
 					<sense xml:id="uuid-43ac01ee-75c0-4fe8-875d-bdec23390f1d" n="">
@@ -67,14 +104,47 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="">
+					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="2222">
 						<number>1</number>
+						<gramGrp>
+							<pos value="s."/>
+							<gen value="m."/>
+							<number value=""/>
+							<case value=""/>
+							<subc value=""/>
+						</gramGrp>
 					</form><form type="grammatical-information-for-plural" corresp="">
 						<number>2</number>
 					</form>
 				</form>
+				<form type="grammatical-information">
+					<idno type="grammatical-information-type-for-vb"/><form type="grammatical-information-for-verb" corresp="">
+						<mood value=""/>
+						<tns value=""/>
+						<per value=""/>
+						<form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb"/>
+					</form>
+				</form>
 				<re type="lexical-variant-section">
-					<def/>
+					<def>asd3</def>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-prin.apropiere.de"/><ptr targetLang="" type="unknown" subtype="unknown" target="unknown"/>
+					</etym>
+				</re>
+				<re type="lexical-variant-section">
+					<def>asd3</def>
+					<gramGrp>
+						<pos value=""/>
+					</gramGrp>
+					<etym cert="high">
+						<idno type="variantă-directă-prin.apropiere.de"/><ptr targetLang="" type="unknown" subtype="unknown" target="unknown"/>
+					</etym>
+				</re>
+				<re type="lexical-variant-section">
+					<def>asd3</def>
 					<gramGrp>
 						<pos value=""/>
 					</gramGrp>
@@ -83,7 +153,7 @@
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="unknown"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="" type="unknown" subtype="unknown">asd3</term>
 				</etym>
 			</entry>
 		</body>
