@@ -51,7 +51,8 @@
 						<sense xml:id="uuid-d5de8d71-04f9-4fcc-b27d-56713d9f72fd" n="1.">
 							<def xml:id="id">Care este independent, care nu intră în relație cu un
 								complement direct;</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">GRAM.</seg>
+							<usg corresp="#id">
+                                <seg type="dom" rend="usg">GRAM.</seg>
 								<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg> (<seg type="gram" rend="usg">Despre verbele
 									intranzitive</seg>)</usg>
 							<xr type="syn" corresp="#id">
@@ -94,9 +95,11 @@
 						<sense xml:id="uuid-a6a5aa9d-8315-42c7-95fc-d3cc52165d66" n="2.">
 							<sense xml:id="uuid-273affaa-7823-44a1-9738-6285a5367598" n="✧">
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="dom" rend="usg">IST.</seg>, <seg type="dom" rend="usg">LINGV.</seg> (<seg type="hint" rend="usg">În
+									<usg>
+                                        <seg type="dom" rend="usg">IST.</seg>, <seg type="dom" rend="usg">LINGV.</seg> (<seg type="hint" rend="usg">În
 											opoziţie cu <hi rend="italic">cronologie
-											relativă</hi></seg>)</usg>
+											relativă</hi>
+                                        </seg>)</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Cronologie absolută</term>
 								</form>
@@ -205,7 +208,8 @@
 							<def xml:id="id">Care este independent de orice condiţii şi relaţii,
 								care nu se supune niciunei restricţii sau rezerve, care nu comportă
 								nicio excepție;</def>
-							<usg corresp="#id"> (<seg type="hint" rend="usg">În opoziţie cu <hi rend="italic">relativ</hi></seg>) </usg>
+							<usg corresp="#id"> (<seg type="hint" rend="usg">În opoziţie cu <hi rend="italic">relativ</hi>
+                                </seg>) </usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="total (1)"/>
 							</xr>
@@ -671,7 +675,8 @@
 								<form type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">POLIT.</seg> (<seg type="hint" rend="usg">În opoziție cu <hi rend="italic">monarhie
-												constituțională</hi></seg>) </usg>
+												constituțională</hi>
+                                        </seg>) </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Monarhie absolută </term>
 								</form>
@@ -687,7 +692,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Monarhiile</hi> nerestrinse sau <hi rend="bold">absolute</hi> sânt acelea, unde domnitoriul
+									<quote>
+                                        <hi rend="bold">Monarhiile</hi> nerestrinse sau <hi rend="bold">absolute</hi> sânt acelea, unde domnitoriul
 										are drept nu numai a chivernisi statul, dară a da şi legi
 										după plăcere.</quote>
 									<bibl type="unknown">
@@ -814,7 +820,9 @@
 							</sense>
 							<sense xml:id="uuid-062e4ad9-6165-46cb-97dc-ce6b89e10fd8" n="✧">
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+									<usg>
+                                        <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                                    </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Mandat absolut </term>
 								</form>
@@ -1258,7 +1266,8 @@
 										<seg type="sem" rend="usg">P. ext.</seg>
 									</usg>
 									<cit type="unknown">
-										<quote><hi rend="bold">Majoritatea absolută</hi> a
+										<quote>
+                                            <hi rend="bold">Majoritatea absolută</hi> a
 											chimiştilor-experţi tălmăcesc textul regulamentului în
 											chip de a-l considera, referindu-se la aldehida formică,
 											la aldehida acetică, etc, produse chimice cari nu se
@@ -1283,7 +1292,8 @@
 										</bibl>
 									</cit>
 									<cit type="unknown">
-										<quote><hi rend="bold">Majoritatea absolută</hi> a
+										<quote>
+                                            <hi rend="bold">Majoritatea absolută</hi> a
 											inscripţiilor slave vechi identificate la Murfatlar sunt
 											scrise în alfabet chirilic.</quote>
 										<bibl type="unknown">
@@ -1293,7 +1303,8 @@
 										</bibl>
 									</cit>
 									<cit type="unknown">
-										<quote><hi rend="bold">Majoritatea absolută</hi> a
+										<quote>
+                                            <hi rend="bold">Majoritatea absolută</hi> a
 											mormintelor sunt dacice.</quote>
 										<bibl type="unknown">
 											<ptr target="#uuid-762a8ac0-2258-91c9-703c-7d0ae2ea0df5">d. enc.</ptr>
@@ -1311,7 +1322,8 @@
 										</bibl>
 									</cit>
 									<cit type="unknown">
-										<quote><hi rend="bold">Majoritatea absolută</hi> o
+										<quote>
+                                            <hi rend="bold">Majoritatea absolută</hi> o
 											reprezintă însă cuplul soț-soție.</quote>
 										<bibl type="unknown">
 											<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">d. enc.</ptr>
@@ -1325,7 +1337,9 @@
 									<term>Majoritate absolută</term>
 								</form>
 								<form type="unitate-semantică-subsumată">
-									<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+									<usg>
+                                        <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                                    </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Maioritate absolută </term>
 								</form>
@@ -1468,7 +1482,8 @@
 										</bibl>
 									</cit>
 									<cit type="unknown">
-										<quote><hi rend="bold">Premieră absolută</hi> în faţa
+										<quote>
+                                            <hi rend="bold">Premieră absolută</hi> în faţa
 											publicului.</quote>
 										<bibl type="unknown">
 											<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flacăra</ptr>
@@ -1566,7 +1581,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Campioană absolută</hi> la sol.</quote>
+									<quote>
+                                        <hi rend="bold">Campioană absolută</hi> la sol.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
 										<date>2007</date>
@@ -2000,7 +2016,8 @@
 										</bibl>
 									</cit>
 									<cit type="unknown">
-										<quote><hi rend="bold">Valoarea absolută</hi> a sporurilor
+										<quote>
+                                            <hi rend="bold">Valoarea absolută</hi> a sporurilor
 											în cuantumul stabilit pentru fiecare persoană existentă
 											în evidențele unității în ultima zi a lunii octombrie:
 											Sporurile stabilite în procente se vor determina ca
@@ -2032,7 +2049,8 @@
 								<sense xml:id="uuid-e1df5948-d5d3-48e8-82af-333f1a18fc31" n="b)">
 									<def xml:id="id">Care depinde și de sistemul de referință la
 										care este raportat.</def>
-									<usg corresp="#id"><seg type="dom" rend="usg">FIZ.</seg> (<seg type="hint" rend="usg">Despre relații</seg>)</usg>
+									<usg corresp="#id">
+                                        <seg type="dom" rend="usg">FIZ.</seg> (<seg type="hint" rend="usg">Despre relații</seg>)</usg>
 									<cit type="unknown">
 										<quote>Sarcina pozitivă ar fi uniform distribuită în volumul
 											atomului, <hi rend="bold">valoarea</hi> ei <hi rend="bold">absolută</hi> fiind egală cu suma
@@ -2178,7 +2196,8 @@
 								<def xml:id="id">deplasarea unui corp faţă de un sistem de referinţă
 									fix.</def>
 								<cit type="unknown">
-									<quote><hi rend="bold">Mişcarea</hi> este <hi rend="bold">absolută</hi> când corpul îşi schimbă locul său în
+									<quote>
+                                        <hi rend="bold">Mişcarea</hi> este <hi rend="bold">absolută</hi> când corpul îşi schimbă locul său în
 										spaţiu faţă cu un alt corp.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-6395b18b-4219-61fc-37c7-633006e74cec">poni</ptr>
@@ -2247,7 +2266,8 @@
 									exprimată în grame, necesară aprecierii calităţii seminţelor şi
 									stabilirii normelor de semănat.</def>
 								<cit type="unknown">
-									<quote>Se ia ca bază <hi rend="bold">greutăţile absolut</hi><hi rend="bold">e</hi> ale bumbacului.</quote>
+									<quote>Se ia ca bază <hi rend="bold">greutăţile absolut</hi>
+                                        <hi rend="bold">e</hi> ale bumbacului.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-51aac52c-070e-6afa-4ac8-962fc9676ea6">ionescu</ptr>
 										<date>1947</date>
@@ -2326,7 +2346,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Temperaturi absolute</hi> de 200–300
+									<quote>
+                                        <hi rend="bold">Temperaturi absolute</hi> de 200–300
 										grade.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
@@ -2346,14 +2367,11 @@
 								<def xml:id="id">timpul în care durata unui fenomen e independentă
 									de starea cinematică a sistemului de referinţă la care e
 									raportată.</def>
-								<cit type="unknown">
-									<quote/>
-									<bibl type="unknown">
-										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
-										<date>1949</date>
-										<citedRange>8</citedRange>
-									</bibl>
-								</cit>
+								<bibl type="unknown" subtype="bibl-for-def">
+									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<date>1949</date>
+									<citedRange>8</citedRange>
+								</bibl>
 								<cit type="unknown">
 									<quote>Mecanica clasică admitea ... un <hi rend="bold">timp
 											absolut</hi>.</quote>
@@ -2432,7 +2450,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Vitesa absolută</hi> de intrare V<hi rend="subscript">x</hi> face unghiul δ<hi rend="subscript">1</hi> cu tangenta la circonferinţa
+									<quote>
+                                        <hi rend="bold">Vitesa absolută</hi> de intrare V<hi rend="subscript">x</hi> face unghiul δ<hi rend="subscript">1</hi> cu tangenta la circonferinţa
 										exterioară a roţii de rază r<hi rend="subscript">1</hi>.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-12465c42-3445-67a7-8d0b-c5dbf41a2164">carafoli</ptr>
@@ -2606,7 +2625,8 @@
 							</sense>
 							<def xml:id="id">A cărui valoare nu depinde de condiţiile în care a fost
 								măsurat sau de sistemul la care este raportat.</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">MAT.</seg>, <seg type="dom" rend="usg">FIZ.</seg> (<seg type="hint" rend="usg">Despre mărimi</seg>)</usg>
+							<usg corresp="#id">
+                                <seg type="dom" rend="usg">MAT.</seg>, <seg type="dom" rend="usg">FIZ.</seg> (<seg type="hint" rend="usg">Despre mărimi</seg>)</usg>
 							<cit type="unknown">
 								<quote>Într-acest chip se poate găsi preţuirea <hi rend="bold">absolută</hi> a unui unghi făcându-se comparaţia între acul
 									care-i slujaște drept măsură şi între circonferenţa
@@ -2742,7 +2762,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Alcoolul absolut</hi> este dimpotrivă, cu
+								<quote>
+                                    <hi rend="bold">Alcoolul absolut</hi> este dimpotrivă, cu
 									totul lipsit de apă.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brezoianu</ptr>
@@ -2751,7 +2772,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Alcoolul absolut</hi>, care este cu totul
+								<quote>
+                                    <hi rend="bold">Alcoolul absolut</hi>, care este cu totul
 									lipsit de apă, să prepară lăsând alcoolul concentrat în contact
 									cu calce vie timp de 24 ore înainte de a-l distila din
 									nou.</quote>
@@ -2771,7 +2793,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Alcoolul absolut</hi> este foarte higroscopic
+								<quote>
+                                    <hi rend="bold">Alcoolul absolut</hi> este foarte higroscopic
 									şi din acest motiv trebuie păstrat în sticle ermetic
 									închise.</quote>
 								<bibl type="unknown">
@@ -2795,7 +2818,8 @@
 						<sense xml:id="uuid-cf4f53ec-b280-4741-9330-fcba036be96a" n="9.">
 							<sense xml:id="uuid-ce0cd0ad-56af-4e19-beb4-409971b9ab55" n="✦">
 								<def xml:id="id">Care este accentuat.</def>
-								<usg corresp="#id"><seg type="time" rend="usg">Ieșit din uz</seg>
+								<usg corresp="#id">
+                                    <seg type="time" rend="usg">Ieșit din uz</seg>
 										(<seg type="hint" rend="usg">Despre pronume</seg>) </usg>
 								<cit type="unknown">
 									<quote>Forma <hi rend="bold">absolută</hi> a pronumelui [în
@@ -2978,7 +3002,8 @@
 									obiect, fără stabilirea vreunei relaţii directe între acesta şi
 									alte obiecte.</def>
 								<cit type="unknown">
-									<quote><hi rend="bold">Superlativul absolut</hi> al adverbelor
+									<quote>
+                                        <hi rend="bold">Superlativul absolut</hi> al adverbelor
 										de mod se formează, în vorbirea familiară şi populară cu
 										sinonimele afective ... ale lui „foarte”.</quote>
 									<bibl type="unknown">
@@ -2988,7 +3013,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Superlativul absolut</hi> este indicat,
+									<quote>
+                                        <hi rend="bold">Superlativul absolut</hi> este indicat,
 										în limba curentă, printr-un adverb care, prin
 										gramaticalizarea lui, şi-a pierdut forţa expresivă.</quote>
 									<bibl type="unknown">
@@ -3016,7 +3042,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Superlativul absolut</hi> a avut desigur
+									<quote>
+                                        <hi rend="bold">Superlativul absolut</hi> a avut desigur
 										mai multe modalităţi de exprimare, căci aromâna s-a oprit la
 										„multu” + pozitivul adjectivului, pe când dacoromâna la
 										„foarte” + pozitivul adjectivului, ca structuri
@@ -3028,7 +3055,8 @@
 									</bibl>
 								</cit>
 								<cit type="unknown">
-									<quote><hi rend="bold">Superlativul absolut</hi> este o
+									<quote>
+                                        <hi rend="bold">Superlativul absolut</hi> este o
 										subcategorie dinamică în tot cursul istoriei limbii.</quote>
 									<bibl type="unknown">
 										<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
@@ -3059,7 +3087,8 @@
 								</cit>
 							</sense>
 							<def xml:id="id">Care este independent.</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">GRAM.</seg>
+							<usg corresp="#id">
+                                <seg type="dom" rend="usg">GRAM.</seg>
 								<seg type="time" rend="usg">Înv.</seg> (<seg type="hint" rend="usg">Despre propoziţii principale</seg>)</usg>
 							<cit type="unknown">
 								<quote>Felurile propoziţiunilor: principală, <hi rend="bold">absolută</hi> şi relativă, incidentă, splicătorie şi
@@ -3122,7 +3151,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Dreptul absolut</hi> al stăpânului de moșie
+								<quote>
+                                    <hi rend="bold">Dreptul absolut</hi> al stăpânului de moșie
 									... e limitat pe două treimi din domeniu de dreptul de posesorat
 									al țăranului.</quote>
 								<bibl type="unknown">
@@ -3247,7 +3277,8 @@
 							</sense>
 							<def xml:id="id">Care este primul într-o trupă de operă, într-un
 								ansamblu coral etc.</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">MUZ.</seg> (<seg type="hint" rend="usg">Despre soliști</seg>)</usg>
+							<usg corresp="#id">
+                                <seg type="dom" rend="usg">MUZ.</seg> (<seg type="hint" rend="usg">Despre soliști</seg>)</usg>
 							<cit type="unknown">
 								<quote>D-na Constanza Manzini, primadona serie <hi rend="bold">absolută</hi>, ... accentuează notele bine.</quote>
 								<bibl type="unknown">
@@ -3342,12 +3373,15 @@
 						<sense xml:id="uuid-85b538d6-7955-45cc-bab7-5955f922bf81" n="13.">
 							<def xml:id="id">Care a absolvit toate cursurile unei instituţii de
 								învăţământ, dar nu și a luat încă diploma;</def>
-							<usg corresp="#id"><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi rar</seg></usg>
+							<usg corresp="#id">
+                                <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">astăzi rar</seg>
+                            </usg>
 							<xr type="syn" corresp="#id">
 								<ptr target="absolvent"/>
 							</xr>
 							<cit type="unknown">
-								<bibl type="author-reference">laurian<author/></bibl>
+								<bibl type="author-reference">laurian<author/>
+                                </bibl>
 								<quote>În urma acestor dispoziţii, au să se organizeze seminarele
 									supt îngrijirea Logofeţiei bisericeşti; numai seminariştii <hi rend="bold">absoluţi</hi> să se facă preoţi pe viitor;
 									preoţii să fie mântuiţi de toate taxele episcopale, de cârjă, de
@@ -4195,7 +4229,8 @@
 						</sense>
 						<sense xml:id="uuid-35be3604-87f6-4bad-97b7-fbfd2c3480d0" n="3.">
 							<def xml:id="id">Cu siguranţă;</def>
-							<usg corresp="#id"><seg type="register style" rend="usg">Fam.</seg>
+							<usg corresp="#id">
+                                <seg type="register style" rend="usg">Fam.</seg>
 									(<seg type="register style" rend="usg">Ca răspuns la o
 									întrebare</seg>)</usg>
 							<xr type="syn" corresp="#id">
@@ -4365,7 +4400,8 @@
 							</sense>
 							<def xml:id="id">Ceea ce există independent de orice condiționare,
 								reprezentare sau raportare la alt lucru.</def>
-							<usg corresp="#id"><seg type="dom" rend="usg">FILOS.</seg> (<seg type="gram" rend="usg">De obicei articulat</seg>)</usg>
+							<usg corresp="#id">
+                                <seg type="dom" rend="usg">FILOS.</seg> (<seg type="gram" rend="usg">De obicei articulat</seg>)</usg>
 							<cit type="unknown">
 								<quote>Din aceste încercări himerice în principele lor ... unele au
 									produs ... şciinţa <hi rend="bold">absolutului</hi> a lui
@@ -4404,7 +4440,8 @@
 								</bibl>
 							</cit>
 							<cit type="unknown">
-								<quote><hi rend="bold">Absolutul</hi>, dacă va fi existând cumva,
+								<quote>
+                                    <hi rend="bold">Absolutul</hi>, dacă va fi existând cumva,
 									scapă observaţiei noastre, care ne învârtim într-o lume de
 									relativităţi.</quote>
 								<bibl type="unknown">
@@ -4627,7 +4664,8 @@
 								<ptr target="perfecțiune (1)"/>
 							</xr>
 							<cit type="unknown">
-								<quote><hi rend="bold">Absolutul</hi> în artă e peste
+								<quote>
+                                    <hi rend="bold">Absolutul</hi> în artă e peste
 									putinţă.</quote>
 								<bibl type="unknown">
 									<ptr target="#uuid-deb6a4cd-354c-38b5-69e5-77e7a13d9b1d">gherea</ptr>
@@ -4739,12 +4777,16 @@
 					</sense>
 				</dictScrap>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="I">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="I">
 						<number>absoluţi, -te</number>
 					</form>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-pl"/><form type="grammatical-information-for-plural" corresp="III">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="III">
 						<number>absoluturi</number>
 						<gramGrp>
 							<pos value="s."/>
@@ -4756,12 +4798,16 @@
 					</form>
 				</form>
 				<form type="grammatical-information">
-					<idno type="grammatical-information-type-for-adj-et-al"/><idno type="grammatical-information-subtype-for-fem-sg"/><form type="grammatical-information-for-fem-sg">
+					<idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
 						<term>-Ă</term>
 					</form>
 				</form>
 				<re type="lexical-variant-section">
-					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
+					<usg>
+                        <seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
+                    </usg>
 					<def>absolúte</def>
 					<gramGrp>
 						<pos value="adj."/>
@@ -4777,14 +4823,17 @@
 						<number value=""/>
 					</gramGrp>
 					<etym cert="high">
-						<idno type="variantă-directă-etimon.variantă-atestat"/><term xml:lang="it" type="unknown" subtype="unknown">assoluto</term>
+						<idno type="variantă-directă-etimon.variantă-atestat"/>
+                        <term xml:lang="it" type="unknown" subtype="unknown">assoluto</term>
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="la" type="unknown" subtype="unknown">absolutus, -a, um</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="la" type="unknown" subtype="unknown">absolutus, -a, um</term>
 				</etym>
 				<etym cert="high">
-					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="de" type="unknown" subtype="unknown">Absolut</term>
+					<idno type="element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="de" type="unknown" subtype="unknown">Absolut</term>
 				</etym>
 			</entry>
 		</body>

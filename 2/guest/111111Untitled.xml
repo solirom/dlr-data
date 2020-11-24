@@ -31,7 +31,7 @@
 				</form>
 				<gramGrp>
 					<pos value="vb."/>
-					<iType value=""/></gramGrp>
+					<iType value="II"/></gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-73fff873-a8dd-4faa-b1ef-6ebd78a0f579" n="1.">
 						<sense xml:id="uuid-bb18de00-6c69-4681-83d2-92027bcaa269" n=""/>
@@ -85,6 +85,10 @@
 						<xr type="syn" corresp="#uuid-217cf98e-e6d7-4c7b-8e8d-c5e1feecd7b8">
 							<ptr target="s2"/>
 						</xr>
+						<etym cert="high">
+							<idno type="element.extern-împrumut-etimon.sigur"/>
+							<term xml:lang="bg" type="unknown" subtype="unknown">asd</term>
+						</etym>
 					</sense>
 					<sense xml:id="uuid-26ed4f53-6b86-4309-8fbd-3042584ecd06" n=""/>
 					<sense xml:id="uuid-1c17b074-f3b9-40ca-9db6-bdfd1361fb38" n=""/>
