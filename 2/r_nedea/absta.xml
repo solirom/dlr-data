@@ -55,7 +55,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+								<ptr target="#A104144">costine</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -65,7 +65,7 @@
 								acţiune şi … <hi rend="bold">să abstăm</hi> de la acţiunea noastră
 								mai departe, greşită şi dăunoasă fiind.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<ptr target="#A100204">chendi</ptr>
 								<date>1895</date>
 								<citedRange>131</citedRange>
 							</bibl>
@@ -98,7 +98,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">form</ptr>
+						<ptr target="#A101725">form</ptr>
 						<date>1978</date>
 						<citedRange>43</citedRange>
 					</bibl>

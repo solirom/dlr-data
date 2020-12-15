@@ -44,7 +44,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-02ca253b-17c1-4665-28dc-d528f63a2425">tudoran</ptr>
+									<ptr target="#A101102">tudoran</ptr>
 									<date>1954</date>
 									<citedRange>45</citedRange>
 								</bibl>
@@ -60,7 +60,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<ptr target="#A100539">corbea</ptr>
 								<date>&lt;1691–1697&gt;</date>
 								<citedRange>534</citedRange>
 							</bibl>
@@ -86,7 +86,7 @@
 						<cit type="unknown">
 							<quote>Aburitor textile.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5e91a62a-3195-3fb8-4649-98abf8f87962">st.
+								<ptr target="#A100219">st.
 									form.</ptr>
 								<date>1969</date>
 								<citedRange>22</citedRange>
@@ -95,7 +95,7 @@
 						<cit type="unknown">
 							<quote>Aburitor plută.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5e91a62a-3195-3fb8-4649-98abf8f87962">st.
+								<ptr target="#A100219">st.
 									form.</ptr>
 								<date>1969</date>
 								<citedRange/>
@@ -124,7 +124,7 @@
 				<re type="lexical-variant-section">
 					<def>aburitóriu, -ie </def>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
@@ -146,12 +146,12 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

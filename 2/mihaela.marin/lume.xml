@@ -40,20 +40,20 @@
                     <sense xml:id="uuid-05e44a90-e415-414c-92ca-049039966dde" n="A.">
                         <sense xml:id="uuid-6dc1a3c0-ce38-4675-897e-32dc0e11be52" n="1.">
                             <sense xml:id="uuid-d0c6243b-b37f-48a6-a6b7-896ddd3b6891" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A ieși la lume/a ieși la lumea de sus</term>
-                                </form>
-                                <form type="unitate-semantică-subsumată">
+                                </re>
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A ieşi în lume/A ieşi în lumea de sus</term>
                                     <usg><seg type="plev" rend="usg">rar</seg></usg>
-                                </form>
-                                <form type="unitate-semantică-subsumată">
+                                </re>
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A ieşi pe lume/A ieşi pe lumea de sus</term>
                                     <usg><seg type="register style" rend="usg">popular</seg></usg>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-3f507a62-7f8b-4f8d-a7d3-38367696b6d2">a ajunge la loc larg, deschis, luminos</def>
                                 <def xml:id="uuid-a96ad8df-d0cd-483c-a6d1-bcf7d24b1429">a vedea lumina zilei</def>
                                 <usg corresp="#uuid-a96ad8df-d0cd-483c-a6d1-bcf7d24b1429">
@@ -70,18 +70,18 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-81843850-034a-4226-a7d4-88421f2f2c68" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                     <term>Lumea ochiului</term>
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
-                                </form>
-                                <form type="unitate-semantică-subsumată">
+                                </re>
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                     <term>Lumina ochilor</term>
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-2436d5b9-82bc-4b0a-a5ec-6d0005a090c0">pupilă, lumina ochiului</def>
                                 <usg corresp="#uuid-2436d5b9-82bc-4b0a-a5ec-6d0005a090c0">
                                     <seg type="plev" rend="usg">mai ales ca termen de comparaţie pentru ceva de foarte mare preţ</seg>
@@ -108,7 +108,7 @@
                                                 pădure, ca doar d-o găsi vro potecă, care să o
                                                 scoaţă la lume.</quote>
                                             <bibl type="unknown">
-                                                <ptr target="#uuid-df5e535f-8f10-80c4-a53f-600cdc0d90f0"/>
+                                                <ptr target="#A103923"/>
                                                 <date/>
                                                 <citedRange>396</citedRange>
                                             </bibl>
@@ -126,11 +126,11 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A scoate pe cineva la lume/A scoate ceva la
                                             lume</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-e9d1758d-7fcd-42dc-9fb8-7c809a4ae11e"/>
                                     <cit type="unknown">
                                         <quote/>
@@ -142,10 +142,10 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0c46bf14-f5f7-4d30-a51d-04d0b3c3b9ea" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A vedea lumea</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-391a8620-9832-4518-ae96-13464fe91cc9">a fi eliberat din temniţă</def>
                                     <def xml:id="uuid-9938e926-d267-49b1-87e2-8b0fc950597a">a vedea lumina zilei</def>
                                     <cit type="unknown">
@@ -173,11 +173,11 @@
                                         </cit>
                                     </sense>
                                     <sense xml:id="uuid-4135471e-6cc3-4799-91ef-f3e29ea01240" n="◊">
-                                        <form type="unitate-semantică-subsumată">
+                                        <re type="unitate-semantică-subsumată">
                                             <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                             <term>A întuneca lumea</term>
                                             <usg><seg type="time" rend="usg">înv.</seg></usg>
-                                        </form>
+                                        </re>
                                         <def xml:id="uuid-73dfb15b-606b-46dc-9b56-0e37f16af07e">a acoperi lumina zilei</def>
                                         <cit type="unknown">
                                             <quote>Şi au început a să bate pre vrăjmaş, cât
@@ -196,7 +196,7 @@
                                                   pace, că nu-mi văd lumea înaintea ochilor la
                                                   necaz</quote>
                                                 <bibl type="unknown">
-                                                    <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                                    <ptr target="#A102671"/>
                                                     <date/>
                                                     <citedRange>190</citedRange>
                                                 </bibl>
@@ -204,7 +204,7 @@
                                             <cit type="unknown">
                                                 <quote/>
                                                 <bibl type="cf.">
-                                                    <ptr target="#uuid-f75b293f-1b8a-4e1a-227d-8308eaa72da8"/>
+                                                    <ptr target="#A102979"/>
                                                     <date/>
                                                     <citedRange>73</citedRange>
                                                 </bibl>
@@ -233,17 +233,17 @@
                                     </sense>
                                 </sense>
                                 <sense xml:id="uuid-4c68c74c-1221-434d-aa58-b442ac4899f9" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A ise întuneca (cuiva) lumea ochilor</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-7769fa87-5e26-4c70-b80e-347127edd985">a fi foarte mânios</def>
                                     <def xml:id="uuid-fce6e3be-b45a-482a-90ab-9de1e8450baf">a fierbe de mânie</def>
                                     <cit type="unknown">
                                         <quote>Când dă iar de Ivan, i se întunecă lumea înaintea
                                             ochilor</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                            <ptr target="#A102671"/>
                                             <date/>
                                             <citedRange>317</citedRange>
                                         </bibl>
@@ -256,16 +256,16 @@
                                             <quote>Nu vedeam lumea înaintea ochilor, de flămând ce
                                                 eram.</quote>
                                             <bibl type="unknown">
-                                                <ptr target="#uuid-d175e1a8-62fe-24ca-4e45-450296204dda"/>
+                                                <ptr target="#A101190"/>
                                                 <date/>
                                                 <citedRange>144</citedRange>
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                         <term>A nu(-şi) vedea lumea înaintea ochilor</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-fc8587f2-476e-40e1-8f67-b9c24a3ac49e"/>
                                     <cit type="unknown">
                                         <quote/>
@@ -284,17 +284,17 @@
                                         <quote>I-am mai dat o păreche paftale de argint... şi un
                                             inel de aur cu lume</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-52716dbc-2c6c-7ce4-52d1-e548e1f75613"/>
+                                            <ptr target="#A102567"/>
                                             <date>1785</date>
                                             <citedRange>159</citedRange>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0d1b37ce-775e-4fe0-a9d3-029f075ddff9" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A se afla la lume</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-1d0debdf-23f7-4829-bec2-d12031e351b6">a fi cunoscut</def>
                                     <def xml:id="uuid-095f62d1-6b9b-482b-93f0-bc6861927ab6">a ieşi la iveală</def>
                                     <cit type="unknown">
@@ -329,7 +329,7 @@
                                 <quote>Şi el face şi scoate ca lumea dereptatea ta şi judeţul tău ca
                                     amiazăzi de zi. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-6999b371-00a3-0906-57b2-418e3ed3771c"/>
+                                    <ptr target="#A102851"/>
                                     <date/>
                                     <citedRange>93</citedRange>
                                 </bibl>
@@ -346,7 +346,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765"/>
+                                    <ptr target="#A102434"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -369,10 +369,10 @@
                         <sense xml:id="uuid-a70bd33b-0b8d-43ea-801c-464c36e053e2" n="I.">
                             <sense xml:id="uuid-e6604d9b-f98d-4b61-aeb2-616a0eae8af9" n="1.">
                                 <sense xml:id="uuid-54b95cd4-89d7-4764-b744-4a93341248bf" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                         <term/>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-d910c1ba-2123-4826-8dec-2444fed7044f"/>
                                     <usg corresp="#uuid-d910c1ba-2123-4826-8dec-2444fed7044f">
                                         <seg type="coloc" rend="usg">determinat prin (Determinat prin „întreagă” sau „toată”)</seg>
@@ -381,7 +381,7 @@
                                         <quote>A sa fiinţă pătrunde pământ, cer şi lumea toată, Le
                                             umple, le sprijineşte, le ţine în starea dată. </quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-6c781bb6-0138-5f36-057b-fbc1d3526269"/>
+                                            <ptr target="#A100618"/>
                                             <date/>
                                             <citedRange>272</citedRange>
                                         </bibl>
@@ -406,17 +406,17 @@
                                     <cit type="unknown">
                                         <quote>Privirea teologică, ştiinţifică şi poetică a lumei </quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                            <ptr target="#A101752"/>
                                             <date/>
                                             <citedRange>IV, 123</citedRange>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-9cec9b3c-d294-49b5-803f-7e0878d8cd88" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Lumea siderală </term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-01bd1e9d-1062-4952-9d36-c4b2612d8e98">sistem de aştri sau de galaxii; ansamblul stelelor </def>
                                     <cit type="unknown">
                                         <quote>Dacă privim regularitatea fenomenelor lumii siderale
@@ -431,24 +431,24 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-491cd363-27e2-4a4d-94c9-1e6d33f633a1" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Concepţie despre lume </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Concepţie despre viaţă</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Concept despre lume</term>
                                         <usg><seg type="time" rend="usg">înv.</seg></usg>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Concept despre viaţă</term>
                                         <usg><seg type="time" rend="usg">înv.</seg></usg>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-1535c9a4-2ee9-4809-bd65-bef4f1e39fb0">viziune de ansamblu (reprezentare şi teorie) asupra
                                         mediului înconjurător, asupra existenţei umane, scop
                                         fundamental al cunoaşterii şi filosofiei </def>
@@ -461,18 +461,18 @@
                                             tracică, tot aşa şi viaţa lor familiară şi concepţia lor
                                             despre lume şi viaţă. </quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-f97dc69c-2c45-048b-01ad-cd68fa601af9"/>
+                                            <ptr target="#A103029"/>
                                             <date/>
                                             <citedRange>147</citedRange>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-49e16313-e7ec-4e26-b7c0-335820fad17e" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Boierul lumii</term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-89cb53b9-c1bc-4758-8552-b1e56551c7f6">diavolul</def>
                                     <cit type="unknown">
                                         <quote/>
@@ -492,30 +492,30 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-06754e7f-a2ab-40e9-a198-326ce33e1ce9" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când lumea </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când lumea şi pământul </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când e lumea </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când e lumea şi pământul </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când cu lumea </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când cu lumea şi pământul </term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-f030538b-ebb6-4559-93fa-d2e4daae7a5d">de foarte multă vreme</def>
                                     <def xml:id="uuid-75b17612-6eab-46c4-ae49-e886c9431f88">de totdeauna, dintotdeauna</def>
                                     <def xml:id="uuid-07d2444c-e31a-42a9-8fe4-00de199e683e">vreodată</def>
@@ -534,18 +534,18 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d235a4b2-990e-45a7-bee5-a4d59499ca30" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când e lumea lume</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când a fost lumea lume </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>De când lumea e lume </term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-31ad90db-cd4c-4289-a29f-e3e27c9871aa">dintotdeauna</def>
                                     <def xml:id="uuid-5e380331-a8ab-4fb6-914f-c9386521207a">niciodată</def>
                                     <usg corresp="#uuid-5e380331-a8ab-4fb6-914f-c9386521207a">
@@ -555,25 +555,25 @@
                                         <quote>De când lumea e lume, ce carte omenească Putu de
                                             fapte rele pe oameni să oprească </quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-20a51cdc-261f-48b0-2c5d-8cec15421b73"/>
+                                            <ptr target="#A104583"/>
                                             <date/>
                                             <citedRange>181</citedRange>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8915f283-b51d-40d0-be0d-0765c773c244" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>Cât lumea şi pământul</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>Cât e lumea şi pământul</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>Cât va fi lumea şi pământul</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-f3527a9f-6fe4-4aa3-bc13-ebf655128f88">fără limită, fără sfârşit (în spaţiu şi timp)</def>
                                     <def xml:id="uuid-9e57bc42-a735-45bf-8f7a-f2a0a0cab065">din belşug</def>
                                     <def xml:id="uuid-eaa797d8-d6f2-4f24-b7c6-e02e48a23096">niciodată</def>
@@ -591,20 +591,20 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-14f3aeaf-8d7c-44f6-a92b-22a9208f3a17" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>Până-i lumea lume ori până-i lumea şi pământul, până-i
                                             lume </term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                         <term>Până-i lumea şi pământul </term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                         <term> Până-i lume</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-c2f8b85e-1781-4b51-9771-8b25f881e16c">veşnic</def>
                                     <def xml:id="uuid-644dd5de-831e-4be2-8ad0-eb8da028b634">foarte mult</def>
                                     <def xml:id="uuid-771908bf-d193-47a6-abcc-778106cf769c">niciodată</def>
@@ -614,25 +614,25 @@
                                     <cit type="unknown">
                                         <quote>Unul ca acela a se pocăi!... Până-i lumea!</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-e29b5ac6-1164-7fd7-4e0e-4278e1375bed"/>
+                                            <ptr target="#A102753"/>
                                             <date/>
                                             <citedRange>318/22</citedRange>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-3dcff8af-9cfd-4aed-80a1-8ade82842351" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A fi bătrân ca lumea</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A fi bătrân cât lumea</term>
-                                    </form>
-                                    <form type="unitate-semantică-subsumată">
+                                    </re>
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>A fi bătrân de când lumea</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-039c159a-e29e-47f9-a29a-24608af31437">(a fi) foarte bătrân</def>
                                     <cit type="unknown">
                                         <quote>Cărarea... era umbrită pe amândouă laturile de brazi
@@ -645,11 +645,11 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-1648d2fb-1210-4fb2-9efa-1a2a07f6a417" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                         <term>Câte-s în lume, toate</term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-9b9793b1-1fc2-436b-ba47-77e659c18740">tot ce există, tot ce se poate închipui</def>
                                     <cit type="unknown">
                                         <quote>Îmi imputa câte-s în lume, toate</quote>
@@ -701,7 +701,7 @@
                                     <quote>Mai multe lumi decât aceasta ce lăcuim poate să
                                         zidească</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <ptr target="#A103023"/>
                                         <date/>
                                         <citedRange>19</citedRange>
                                     </bibl>
@@ -720,7 +720,7 @@
                                         ateismul ... zicând că ipotesul de lumea simţită este
                                         înşălăciune</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-d760d380-040b-714c-23d7-6b74f74c0f11"/>
+                                        <ptr target="#A104837"/>
                                         <date/>
                                         <citedRange>64/19</citedRange>
                                     </bibl>
@@ -733,7 +733,7 @@
                                     <cit type="unknown">
                                         <quote>Această lume de urme trebuie reînviată</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                            <ptr target="#A101752"/>
                                             <date/>
                                             <citedRange>IV, 41</citedRange>
                                         </bibl>
@@ -747,7 +747,7 @@
                                         <cit type="unknown">
                                             <quote>În va mai caut lumea în obositu-mi creier</quote>
                                             <bibl type="unknown">
-                                                <ptr target="#uuid-3a6bd1dd-08a6-026e-3def-ce2262e21478"/>
+                                                <ptr target="#A102417"/>
                                                 <date/>
                                                 <citedRange>79</citedRange>
                                             </bibl>
@@ -758,7 +758,7 @@
                                         <cit type="unknown">
                                             <quote>Vino în lumea gândurilor mele</quote>
                                             <bibl type="unknown">
-                                                <ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be"/>
+                                                <ptr target="#A101752"/>
                                                 <date/>
                                                 <citedRange>IV, 17</citedRange>
                                             </bibl>
@@ -776,7 +776,7 @@
                                         <quote>Toţi alţii ziditori de lumi vin la o nimică
                                             filosofască cărora lipseşte de a fi în putere</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-073857c9-6a6a-a56a-988f-4782518a59c0"/>
+                                            <ptr target="#A103717"/>
                                             <date/>
                                             <citedRange>20v/5</citedRange>
                                         </bibl>
@@ -792,7 +792,7 @@
                                     <quote>Poporul cată a cuprinde în puţine cuvinte o lume de
                                         idei</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-f737f9a4-9941-2903-82f2-a79903c73303"/>
+                                        <ptr target="#A101007"/>
                                         <date/>
                                         <citedRange>187</citedRange>
                                     </bibl>
@@ -839,7 +839,7 @@
                                     <cit type="unknown">
                                         <quote>Răsăritul şi apusul însămneadză toată lumea</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                            <ptr target="#A102039"/>
                                             <date/>
                                             <citedRange>170</citedRange>
                                         </bibl>
@@ -852,7 +852,7 @@
                                         <quote>Domnul Hristos cu crucea patru margini a lumiei
                                             ţine</quote>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                            <ptr target="#A102039"/>
                                             <date/>
                                             <citedRange>80</citedRange>
                                         </bibl>
@@ -923,7 +923,7 @@
                                     <quote>Împlu lumea de fala izbândelor sale şi pe păgâni de
                                         teroare</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-240f6506-59fc-9196-16b9-e3e746cd7083"/>
+                                        <ptr target="#A104086"/>
                                         <date/>
                                         <citedRange>208</citedRange>
                                     </bibl>

@@ -46,7 +46,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+								<ptr target="#A101244">micu</ptr>
 								<date>1801</date>
 								<citedRange>190</citedRange>
 							</bibl>
@@ -54,7 +54,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+								<ptr target="#A102434">lb</ptr>
 								<date>1825</date>
 								<citedRange/>
 							</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+								<ptr target="#A105107">iser</ptr>
 								<date>1850</date>
 								<citedRange/>
 							</bibl>
@@ -70,7 +70,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+								<ptr target="#A101803">pontbri</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -78,7 +78,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
+								<ptr target="#A103452">cihac</ptr>
 								<date>1870</date>
 								<citedRange>188</citedRange>
 							</bibl>
@@ -86,7 +86,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<ptr target="#A102406">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -94,7 +94,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<ptr target="#A102459">ddrf</ptr>
 								<date>1983</date>
 								<citedRange/>
 							</bibl>
@@ -132,22 +132,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc. agr</ptr>
+						<ptr target="#A100171">enc. agr</ptr>
 						<date>1937</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-425ec52b-0345-750d-4dbe-ba0db004a2b2">arhais</ptr>
+						<ptr target="#A104672">arhais</ptr>
 						<date>2005</date>
 						<citedRange/>
 					</bibl>

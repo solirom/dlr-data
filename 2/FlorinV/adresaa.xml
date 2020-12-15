@@ -48,10 +48,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-d08306a1-5228-4a75-8602-99fece927b9c" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>Adresă bibliografică </term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-f56407f4-0a3a-4f30-8b64-0781bb7964f6"> totalitatea datelor privind apariţia unei cărţi</def>
                             <cit type="unknown">
                                 <quote/>
@@ -62,10 +62,10 @@
                                 </bibl>
                             </cit>
                         </sense>
-                        <sense xml:id="uuid-74fc29d5-57c3-459f-8b24-ee68d102e984" n="">♦ <form type="unitate-semantică-subsumată">
+                        <sense xml:id="uuid-74fc29d5-57c3-459f-8b24-ee68d102e984" n="">♦ <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
                                 <term>La adresa</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-85f542f9-34dc-4a7d-9dac-bd95d59b2a5d"> referitor la cineva sau ceva.</def>
                             <cit type="unknown">
                                 <quote>Scrisoarea … am primit-o… Am văzut cele coprinse într-însa la
@@ -78,10 +78,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-202ed73a-926d-412a-b346-3d3cc29fe03c" n="♦">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A greşi adresa</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-06fed652-d502-456b-b13f-72e465e1075d">a) a nimeri în alt loc sau la altă persoană decât cea
                                 indicată</def>
                             <def xml:id="uuid-11f72302-94fe-46d4-a4b3-4ae344414310">b) a avea o părere greşită despre cineva sau ceva, a se înşela
@@ -99,10 +99,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-1fb91c7c-29f2-44f5-b5a1-eeb25148b363" n="♦">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A greşi adresa</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-0c165155-3cda-4005-a566-bcd574170ba4">b) a avea o părere greşită despre cineva sau ceva, a se înşela
                                     asupra cuiva.</def>
                             <usg corresp="#uuid-0c165155-3cda-4005-a566-bcd574170ba4">
@@ -125,7 +125,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+                                    <ptr target="#A102700"/>
                                     <date>1848</date>
                                     <citedRange/>
                                 </bibl>
@@ -138,7 +138,7 @@
                                 <quote> Începe a strânge arcanul învârtindu-l ca nişte colace pe
                                     după mâini şi aruncându-l cu multă adresă. </quote>
                                 <bibl type="ap.">
-                                    <ptr target="#uuid-3d0ae70a-6c1d-89c2-867c-b2999f447ecc"/>
+                                    <ptr target="#A104902"/>
                                     <date>1863</date>
                                     <citedRange>75</citedRange>
                                 </bibl>
@@ -174,7 +174,7 @@
                             <quote>Învăţaţi pre prunci a pecetlui scrisoarea şi a scrie adresul pre
                                 ia. </quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-92c986b1-5fe9-2831-9e42-342e1b5e395f"/>
+                                <ptr target="#A100084"/>
                                 <date>1818</date>1<citedRange>310/25.</citedRange>
                             </bibl>
                         </cit>
@@ -198,7 +198,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88"/>
+                                    <ptr target="#A102700"/>
                                     <date>1848</date>
                                     <citedRange/>
                                 </bibl>
@@ -220,7 +220,7 @@
                             <quote> Stăpânirea vremelnică au trimis oştii franţozeşti acest
                                 următoriu atres.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-3b2c3512-871e-530a-55a9-62d168ba7e7a"/>
+                                <ptr target="#A103515"/>
                                 <date>1814</date>
                                 <citedRange>12/2</citedRange>
                             </bibl>
@@ -266,7 +266,7 @@
                         <seg type="time" rend="usg">învechit</seg>
                     </usg>
                     <bibl type="unknown">
-                        <ptr target="#uuid-bc28729a-4861-7004-4541-87a3f5388aa4"/>
+                        <ptr target="#A101763"/>
                         <date/>
                         <citedRange/>
                     </bibl>
@@ -307,7 +307,7 @@
                         <seg type="geo" rend="usg">Transilv.</seg>
                     </usg>
                     <bibl type="unknown">
-                        <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                        <ptr target="#A101545"/>
                         <date/>
                         <citedRange> 53, 155</citedRange>
                     </bibl>

@@ -90,17 +90,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
@@ -110,12 +110,12 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

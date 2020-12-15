@@ -45,17 +45,17 @@
 							<case value=""/>
 							<subc value=""/>
 						</gramGrp>
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 							<term/>
-						</form>
+						</re>
 						<def xml:id="uuid-5b5f80f1-4a05-4177-beb8-b124732feea2"/>
 						<usg corresp="#uuid-5b5f80f1-4a05-4177-beb8-b124732feea2"><seg type="geo" rend="usg">Ban.</seg> (<seg type="coloc" rend="usg">În
 							constr.</seg>)</usg>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-13033f4b-15f1-250e-3cac-29e154204244">costin</ptr>
+								<ptr target="#A103694">costin</ptr>
 								<date>1934</date>
 								<citedRange>34</citedRange>
 							</bibl>

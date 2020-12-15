@@ -41,7 +41,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">DN</ptr>
+								<ptr target="#A104626">DN</ptr>
 								<date>1978</date>
 								<citedRange/>
 							</bibl>
@@ -82,27 +82,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+						<ptr target="#A100818">medic</ptr>
 						<date>1969</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d94b6eea-149d-812e-1ddb-1e045801388c">form</ptr>
+						<ptr target="#A101158">form</ptr>
 						<date>1978</date>
 						<citedRange>45</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0d7e2efa-3e4d-291d-22c2-0be470dd7fe0">biol</ptr>
+						<ptr target="#A105145">biol</ptr>
 						<date>1989</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

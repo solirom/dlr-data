@@ -42,7 +42,7 @@
 							<quote><hi rend="bold">Asolutamente</hi> mobile e numai acela carea e
 								unul din multe şi nemărginite.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa80f9f1-555e-a5a1-6267-8fc655c39870">bărnuțiu</ptr>
+								<ptr target="#A100800">bărnuțiu</ptr>
 								<date>&lt;1855–1864&gt;</date>
 								<citedRange>96</citedRange>
 							</bibl>
@@ -50,7 +50,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">st.
+								<ptr target="#A101725">st.
 									form.</ptr>
 								<date>1865</date>
 								<citedRange>189</citedRange>
@@ -61,7 +61,7 @@
 								„Avanti-Carolina”! Era un caz <hi rend="bold">absolutamente</hi>
 								identic cu revolta de la 8 august: o glumă antidinastică.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5c985c39-9b50-9920-6603-d30fc7f12c19">hasdeu</ptr>
+								<ptr target="#A102362">hasdeu</ptr>
 								<date>1870</date>
 								<citedRange>135</citedRange>
 							</bibl>
@@ -72,7 +72,7 @@
 								necesarii în resolvarea osebitelor materii de care avea să se
 								ocupe.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a530cee9-4b55-2e78-84b3-eb6d257b0fe3">brezoianu</ptr>
+								<ptr target="#A105281">brezoianu</ptr>
 								<date>1882</date>
 								<citedRange>222</citedRange>
 							</bibl>
@@ -81,7 +81,7 @@
 							<quote>Poliţie-n Constantinopole, ni se respunse, există numai de nume,
 								de fapt <hi rend="bold">absolutamente</hi> nu există.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">rucăreanu</ptr>
+								<ptr target="#A101611">rucăreanu</ptr>
 								<date>1886</date>
 								<citedRange>57</citedRange>
 							</bibl>
@@ -91,7 +91,7 @@
 								absurdisim e făcut şi de Kant, marele preot al
 								apriorismului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">dobrogeanu</ptr>
+								<ptr target="#A104304">dobrogeanu</ptr>
 								<date>1891</date>
 								<citedRange>270</citedRange>
 							</bibl>
@@ -101,7 +101,7 @@
 								circumstanţie, contrarul meu Duşan conclude, „derisorio modo”, la
 								oarece „turpis causa”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+								<ptr target="#A102965">bănuț</ptr>
 								<date>1931</date>
 								<citedRange>95</citedRange>
 							</bibl>
@@ -109,7 +109,7 @@
 						<cit type="unknown">
 							<quote>Magistratura noastră este compusă din judecători <hi rend="bold">absolutamente</hi> corupţi, chiar dacă nu toţi.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+								<ptr target="#A101955">românia</ptr>
 								<date>2004</date>
 								<citedRange/>
 							</bibl>
@@ -118,7 +118,7 @@
 							<quote>Pentru doamna Rădulescu – о minte <hi rend="bold">absolutamente</hi> deschisă – graniţele nu înseamnă
 								nimic.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+								<ptr target="#A101955">românia</ptr>
 								<date>2009</date>
 								<citedRange/>
 							</bibl>
@@ -141,7 +141,7 @@
 				<re type="lexical-variant-section">
 					<def>absolutâmínte</def>
 					<bibl type="în">
-						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">st. form.</ptr>
+						<ptr target="#A101725">st. form.</ptr>
 						<date>1863</date>
 						<citedRange>194</citedRange>
 					</bibl>
@@ -164,27 +164,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-40ef8c33-41ce-68b4-6333-2cf7a0c25d09">galr</ptr>
+						<ptr target="#A103604">galr</ptr>
 						<date>2005</date>
 						<citedRange>588</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<ptr target="#A102212">dn</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2014</date>
 						<citedRange/>
 					</bibl>

@@ -38,11 +38,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-f5644df6-b365-483c-9ff1-e81673698d9a" n="22">
 						<usg corresp="#uuid-f5644df6-b365-483c-9ff1-e81673698d9a">usg</usg>
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<usg/>
 							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 							<term/>
-						</form>
+						</re>
 						<def xml:id="uuid-170564e8-b55f-4976-b690-5a7a36506d81">def 1;</def>
 						<def xml:id="uuid-df02cabd-6bc4-493f-88b5-acc86b22a297">def 2.</def>
 						<cit type="unknown">

@@ -51,7 +51,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<ptr target="#A100914">LTR</ptr>
 								<date>1949</date>
 								<citedRange/>
 							</bibl>
@@ -67,7 +67,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-32b88b9f-8501-2cb2-769a-7005d1608887">mil</ptr>
+								<ptr target="#A100110">mil</ptr>
 								<date>1980</date>
 								<citedRange/>
 							</bibl>
@@ -97,22 +97,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<ptr target="#A104520">DL</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<ptr target="#A101317">DN</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>

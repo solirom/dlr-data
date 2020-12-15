@@ -56,7 +56,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<ptr target="#A100914">ltr</ptr>
 								<date>1949</date>
 								<citedRange/>
 							</bibl>
@@ -66,7 +66,7 @@
 								calcar marnos, cenușiu închis, pe alocuri aproape negru și cu pete
 								de alterație galbene, care îi dau nota caracteristică.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d48e37b8-2c4e-02ea-59a6-ddab51a886fd">onces</ptr>
+								<ptr target="#A101181">onces</ptr>
 								<date>1959</date>
 								<citedRange>407</citedRange>
 							</bibl>
@@ -83,7 +83,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+								<ptr target="#A102930">DEX</ptr>
 								<date>1975</date>
 								<citedRange/>
 							</bibl>
@@ -130,17 +130,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

@@ -62,7 +62,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-72d06301-1b0f-06dc-9663-6a49101662fd"/>
+                                    <ptr target="#A103760"/>
                                     <date/>
                                     <citedRange>h 217/839</citedRange>
                                 </bibl>
@@ -86,7 +86,7 @@
                         <cit type="unknown">
                             <quote>Aolică, dodo fa , Au tu mi-ai făcut ceva De nu te mai poci uita? </quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-2a46df1d-3a14-994d-60f5-55ab4fad777f"/>
+                                <ptr target="#A100809"/>
                                 <date/>
                                 <citedRange>315.</citedRange>
                             </bibl>
@@ -144,10 +144,10 @@
                                 </bibl>
                             </cit>
                         </sense>
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                             <term>Dodă nică cu furnică</term>
-                        </form>
+                        </re>
                         <def xml:id="uuid-837729ee-d34f-4337-b397-f4080eb95d0a">numele unui joc de copii nedefinit mai îndeaproape. </def>
                         <usg corresp="#uuid-837729ee-d34f-4337-b397-f4080eb95d0a">
                             <seg type="geo" rend="usg">regional</seg>, <seg type="hint" rend="usg">în forma dodă</seg>

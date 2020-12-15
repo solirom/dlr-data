@@ -42,7 +42,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+								<ptr target="#A101803">pontbriant</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -70,12 +70,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<ptr target="#A104144">costinescu</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>

@@ -44,7 +44,7 @@
 							<quote>Stârnește <hi rend="bold">abuzirea</hi>, Gonește
 								fatalismul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6911785-9281-8632-7174-c89c361140a7">aricescu</ptr>
+								<ptr target="#A102554">aricescu</ptr>
 								<date>1859</date>
 								<citedRange>9/18</citedRange>
 							</bibl>
@@ -56,7 +56,7 @@
 								spiritul întregei cărţi, prin urmare nici spiritul locurilor citate,
 								ci numai petece de fraze ce se potrivesc cu ceea ce voim a dovedi. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">emine</ptr>
+								<ptr target="#A100334">emine</ptr>
 								<date>1878</date>
 								<citedRange>109</citedRange>
 							</bibl>
@@ -69,7 +69,7 @@
 									abuzare </hi>de încredere a fost prezentat domnului ministru
 								Chiţu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b3e5ae9a-1127-6899-4ba4-ff79d401220e">kogălnic</ptr>
+								<ptr target="#A104021">kogălnic</ptr>
 								<date>1883</date>
 								<citedRange>558</citedRange>
 							</bibl>
@@ -79,7 +79,7 @@
 								angajamentului înscris de victimă, angajament smuls prin<hi rend="bold"> abusarea</hi> de slăbiciune, porniri și alte
 								trebuințe, se mai cere formal ca victima să fie minoră.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod. pen.
+								<ptr target="#A104322">cod. pen.
 									(1864)</ptr>
 								<date>1898</date>
 								<citedRange>269</citedRange>
@@ -90,7 +90,7 @@
 								dumitale, că acum orice atenţie ar fi o <hi rend="bold">abuzare</hi>
 								de situaţia ei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e99004ea-1c4a-94bf-076a-79f36a59926f">călinescu</ptr>
+								<ptr target="#A100679">călinescu</ptr>
 								<date>1938</date>
 								<citedRange>159</citedRange>
 							</bibl>
@@ -129,12 +129,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<ptr target="#A102837">MDA</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>

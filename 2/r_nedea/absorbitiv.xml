@@ -46,7 +46,7 @@
 								<quote>Sărutarea … merge până la forma <hi rend="bold">absorbitivă</hi> a băutului: „Nu voiu vinuri bălsămite,
 									Căci am sufletu-ţi a bea!”</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+									<ptr target="#A102181">călinescu</ptr>
 									<date>1941</date>
 									<citedRange>220</citedRange>
 								</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+								<ptr target="#A102700">neguli</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -73,7 +73,7 @@
 								amestec gazos a unor componenţi prețioşi, sau se separă componenți
 								nocivi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+								<ptr target="#A101547">ltr</ptr>
 								<date>1957</date>
 								<citedRange>21</citedRange>
 							</bibl>
@@ -117,7 +117,7 @@
 						</form>
 					</form>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
@@ -144,27 +144,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<ptr target="#A101929">bălășescu</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<ptr target="#A104144">costinescu</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-2ca4092a-0d5c-17d2-2b17-f8c7fe278f84">st. form.</ptr>
+						<ptr target="#A103069">st. form.</ptr>
 						<date>1967</date>
 						<citedRange>93</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<ptr target="#A101486">ndu</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

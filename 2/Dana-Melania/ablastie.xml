@@ -47,7 +47,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+								<ptr target="#A100818">medic</ptr>
 								<date>1969</date>
 								<citedRange/>
 							</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+								<ptr target="#A103264">dexi</ptr>
 								<date>2007</date>
 								<citedRange/>
 							</bibl>
@@ -92,7 +92,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<ptr target="#A100981">dn</ptr>
 						<date>2002</date>
 						<citedRange/>
 					</bibl>

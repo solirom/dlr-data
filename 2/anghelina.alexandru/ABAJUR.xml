@@ -54,7 +54,7 @@
 							<quote><hi rend="bold">Abajurul</hi> unei lampe făcea salonul să fie
 								scufundat într-un semiîntuneric.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aba7adb6-73ec-38e6-06d1-ce7def690aa6">matilda</ptr>
+								<ptr target="#A102035">matilda</ptr>
 								<date>1845</date>
 								<citedRange>602</citedRange>
 							</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote>În colțurile din fund... se află câte-o lampă mare, cu <hi rend="bold">abajur</hi> roșu. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-898d8591-5021-3b6c-9480-4f4bfa4e45c6">ascanio</ptr>
+								<ptr target="#A100752">ascanio</ptr>
 								<date>1883</date>
 								<citedRange>189</citedRange>
 							</bibl>
@@ -72,7 +72,7 @@
 								numai pe masa mea de scris, lăsând celelalte unghiere în
 								întuneric.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9824637e-561e-2a7c-5eac-5f4fb2c09fc8">ciurea</ptr>
+								<ptr target="#A102618">ciurea</ptr>
 								<date>1898</date>
 								<citedRange>196</citedRange>
 							</bibl>
@@ -82,7 +82,7 @@
 								ieşită ca din mâna unui lampagiu patentat. Are şi abajur, şi nici
 								firul conducător de curent nu lipseşte.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">pensula</ptr>
+								<ptr target="#A101895">pensula</ptr>
 								<date>1911</date>
 								<citedRange>21</citedRange>
 							</bibl>
@@ -92,7 +92,7 @@
 								mai întâi introduși sub un <hi rend="bold">abat-jour</hi>
 								enorm.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3a3cb766-0836-696f-1cd0-6b5d0cec2830">urmuz</ptr>
+								<ptr target="#A103043">urmuz</ptr>
 								<date>1922</date>
 								<citedRange>14</citedRange>
 							</bibl>
@@ -101,7 +101,7 @@
 							<quote>Căţelul de porţelan, un Rick sau Rack... mă priveşte speriat
 								peste <hi rend="bold">abajurul</hi> lăsat direct pe hârtie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<ptr target="#A102455">voinescu</ptr>
 								<date>1939</date>
 								<citedRange>140</citedRange>
 							</bibl>
@@ -110,7 +110,7 @@
 							<quote>Se aprindeau lumini trandafirii sub lămpi înalte, cu <hi rend="bold">abajururi</hi> de mătase, în casa de lângă Biserica
 								Albă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a3b4d94f-83c0-a17c-6e27-c4c6420c1ead">sf.
+								<ptr target="#A101224">sf.
 									veac</ptr>
 								<date>1944</date>
 								<citedRange>283</citedRange>
@@ -120,7 +120,7 @@
 							<quote>Aprinse lampa de petrol cu un <hi rend="bold">abajur</hi> mare de
 								porțelan alb.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a0c894e2-676b-8a5f-0857-969d6d61a32b">cron.
+								<ptr target="#A102262">cron.
 									fam</ptr>
 								<date>1955</date>
 								<citedRange>154</citedRange>
@@ -130,7 +130,7 @@
 							<quote>Pe un piedestal subţiratec, o zveltă lampă de cobalt cu sticlă de
 								cristal şi <hi rend="bold">abajur</hi> verde.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunate</ptr>
+								<ptr target="#A103840">lunate</ptr>
 								<date>1964 (†)</date>
 								<citedRange>35</citedRange>
 							</bibl>
@@ -138,7 +138,7 @@
 						<cit type="unknown">
 							<quote>Cătălina se trudea să găsească priza micii lămpi cu <hi rend="bold">abatjour</hi> japonez de lângă divan.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e18efc7f-3d37-138e-08f3-3559a53f1e7f">sânziene</ptr>
+								<ptr target="#A101051">sânziene</ptr>
 								<date>1971</date>
 								<citedRange>223</citedRange>
 							</bibl>
@@ -146,7 +146,7 @@
 						<cit type="unknown">
 							<quote>Lampa are un <hi rend="bold">abajur</hi> cenușiu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b361567d-607e-2c6b-96aa-ee9e83235c52">bălăi</ptr>
+								<ptr target="#A104146">bălăi</ptr>
 								<date>1975</date>
 								<citedRange>252</citedRange>
 							</bibl>
@@ -154,7 +154,7 @@
 						<cit type="unknown">
 							<quote>Ghica se învârte în jurul măsuţei dominate de <hi rend="bold">abajurul</hi> lămpii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5ddf4a65-7684-43bd-6d89-efce7bf70baf">dumitriu</ptr>
+								<ptr target="#A101283">dumitriu</ptr>
 								<date>1984</date>
 								<citedRange>98</citedRange>
 							</bibl>
@@ -163,7 +163,7 @@
 							<quote>Vitrinele aprinse ale magazinului de mobilă arătau obiectele
 								ştiute, liniştitoare: fotolii şi canapele, birouri, lămpi cu <hi rend="bold">abajur</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44">orbitor</ptr>
+								<ptr target="#A104617">orbitor</ptr>
 								<date>1996</date>
 								<citedRange>221</citedRange>
 							</bibl>
@@ -171,7 +171,7 @@
 						<cit type="unknown">
 							<quote>Lampa avea <hi rend="bold">abajurul</hi> spart.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+								<ptr target="#A104110">gheție</ptr>
 								<date>2002</date>
 								<citedRange>204</citedRange>
 							</bibl>
@@ -179,7 +179,7 @@
 						<cit type="✧ POP.">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">alr</ptr>
+								<ptr target="#A104276">alr</ptr>
 								<date>&lt;1930-1937&gt;</date>
 								<citedRange>MN p. 142/3 911/182, 405, 646, 666, 987</citedRange>
 							</bibl>
@@ -219,7 +219,7 @@
 					<usg><hi rend="italic"><seg type="register style" rend="usg">reg.</seg></hi></usg>
 					<def>abajór</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<ptr target="#A103785">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
 						<citedRange>MN p. 142/3911/182</citedRange>
 					</bibl>
@@ -235,7 +235,7 @@
 					<usg><hi rend="italic"><seg type="register style" rend="usg">reg.</seg></hi></usg>
 					<def>abăjúr</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<ptr target="#A103785">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
 						<citedRange>MN p. 142/3911/405</citedRange>
 					</bibl>
@@ -251,7 +251,7 @@
 					<usg><seg type="register style" rend="usg">reg.</seg></usg>
 					<def>ambajúr</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<ptr target="#A103785">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
 						<citedRange>MN p. 142/3911/987</citedRange>
 					</bibl>
@@ -267,7 +267,7 @@
 					<usg><seg type="register style" rend="usg">reg.</seg></usg>
 					<def>bjuór</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-4a173045-160d-07eb-1232-6053b10ba601">alr II</ptr>
+						<ptr target="#A103785">alr II</ptr>
 						<date>&lt;1930–1937&gt; </date>
 						<citedRange>MN 3911/666</citedRange>
 					</bibl>
@@ -284,37 +284,37 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<ptr target="#A104520">DL</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<ptr target="#A102972">DM</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<ptr target="#A101317">DN</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+						<ptr target="#A100914">LTR</ptr>
 						<date>1950</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

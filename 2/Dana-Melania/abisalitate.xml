@@ -43,7 +43,7 @@
 							<cit type="unknown">
 								<quote><hi rend="bold">Abisalitatea</hi> foselor oceanice.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+									<ptr target="#A104645">ndu</ptr>
 									<date>2006</date>
 									<citedRange>21</citedRange>
 								</bibl>
@@ -56,7 +56,7 @@
 								adevăratelea, <hi rend="bold">abisalitatea</hi> posibilă a eroilor
 								săi îl lasă în fond indiferent.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter</ptr>
+								<ptr target="#A101955">liter</ptr>
 								<date>1969</date>
 								<citedRange>nr. 27, 8</citedRange>
 							</bibl>
@@ -65,7 +65,7 @@
 							<quote>Aceste absconzități și <hi rend="bold">abisalități</hi> crispate
 								nu merită calificativul de literatură dificilă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<ptr target="#A105067">viața</ptr>
 								<date>1971</date>
 								<citedRange>IX, 77</citedRange>
 							</bibl>
@@ -73,7 +73,7 @@
 						<cit type="unknown">
 							<quote>Dar de unde vine această <hi rend="bold">abisalitate</hi>?</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7deeb077-06c2-7c2a-42af-80f2053b3812">paleo</ptr>
+								<ptr target="#A101143">paleo</ptr>
 								<date>1997</date>
 								<citedRange>132</citedRange>
 							</bibl>
@@ -82,7 +82,7 @@
 							<quote>Moderniştii vor folosi din limbajul lor <hi rend="bold">abisalitatea</hi> imaginii arhetipale, sintetice, ca şi
 								abandonarea totală a convenţiilor referenţialităţii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5469dfb6-2ad7-3d8f-3f80-fc3afcba2090">postmo</ptr>
+								<ptr target="#A103063">postmo</ptr>
 								<date>1999</date>
 								<citedRange>270</citedRange>
 							</bibl>
@@ -112,7 +112,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

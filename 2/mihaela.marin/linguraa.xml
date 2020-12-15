@@ -47,7 +47,7 @@
                             <cit type="unknown">
                                 <quote>A amestecat-o cu lingură de dulce</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-2f6c0bd9-9854-0b55-2296-99987ef265b2"/>
+                                    <ptr target="#A100724"/>
                                     <date/>
                                     <citedRange>IV, 303</citedRange>
                                 </bibl>
@@ -63,11 +63,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-22bdea11-8d39-4b42-ab8e-ea490326cb14" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>(Şi în sintagma) lingură
                                 mare</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-82d12c16-3812-4a7d-a053-56380953bc11">V. LINGURĂ (I)</def>
                             <cit type="unknown">
                                 <quote/>
@@ -79,11 +79,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-d282a1a4-cd71-438a-a3f0-dd43c27daf37" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A începe de la lingură de
                                 lemn</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-3203915c-d9cc-4d76-b656-6a4c751ed243">v. lemn</def>
                             <cit type="unknown">
                                 <quote/>
@@ -95,11 +95,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-402f217b-808d-48e8-82f2-01b8be2918b4" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="saying"/>
                                 <term>Unde nu-ţi fierbe oala, nu-ţi
                                 băga lingura!. </term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-ff06519c-99fc-45b7-a7a6-d087471230a4">, se spune unei persoane care se amestecă în treburi care n-o
                                 privesc</def>
                             <cit type="unknown">
@@ -112,10 +112,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ec5c35f4-4628-4ccf-841d-62aa5a3704b9" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Cu lingura (cea mare)</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-31e4b2fc-1e25-482e-82bc-0e4fa9c101f7">în cantintate mare,</def>
                             <def xml:id="uuid-aad27f76-9973-48e7-b266-d07e9e31f6b4">foarte mult</def>
                             <cit type="unknown">
@@ -134,18 +134,18 @@
                                 <quote>Al lui Drăculea are avere s-o mănânce cu lingura şi tot n-o
                                     termină</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-aee8bbd5-89fb-5a0b-02b8-af29ebc849a3"/>
+                                    <ptr target="#A101522"/>
                                     <date/>
                                     <citedRange>102</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-8b91bbf0-7a3f-42e4-b5fd-4fa7721f04c3" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A(-i) pune cuiva lingura (sau
                                 lingurile) la (sau în, de) brâu</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-4b00c709-58ac-49ea-a16c-6e1934b4653b">a lăsa pe cineva nemâncat (pentru că a întârziat la
                                 masă)</def>
                             <def xml:id="uuid-80e30af5-5b88-4474-bea3-cd9f162ea981">a se certa cu o persoană care a întârziat,</def>
@@ -157,18 +157,18 @@
                                 <quote>Când să ne deie bucate, giupânul bucătar ne spânzură
                                     lingurile la brâu şi se duce la plimbare.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-050d6405-a7a2-0e5a-8aab-be336c1f8e87"/>
+                                    <ptr target="#A102170"/>
                                     <date/>
                                     <citedRange>40</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-039f87bc-bd52-420c-bddf-46c12a7a8d99" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i pune cuiva lingura (sau
                                 lingurile) la gât</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-43297a09-628f-4d8a-8353-e3095515a185">a lăsa pe cineva nemâncat (pentru că a întârziat la masă); </def>
                             <def xml:id="uuid-85571075-2c82-4490-b488-4724949676df">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <cit type="unknown">
@@ -181,28 +181,28 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-0fdd66ea-1c0c-429b-807b-5937aa3f780d" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i atârna cuiva ligura (sau
                                 lingurile) la (în, de) brâu</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-22ec88d8-3cf2-47aa-b87e-271c9378b101">a lăsa pe cineva nemâncat (pentru că a întârziat la masă); </def>
                             <def xml:id="uuid-507657ed-c23c-4d4f-bd91-0a10c916cd8e">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <cit type="unknown">
                                 <quote>Vrei să ne atârne lingurile de gât? </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-586771be-4380-018b-a2ac-b44f3c828a66"/>
+                                    <ptr target="#A103295"/>
                                     <date/>
                                     <citedRange>129</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a53dad6a-0941-489b-9061-93052ba07749" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i atârna cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-15ecc87b-9353-47c1-90cf-b3e3f5764444">a lăsa pe cineva nemâncat (pentru că a întârziat la masă); </def>
                             <def xml:id="uuid-352e845d-928f-477f-8ab1-bc13ceaa61b8">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <cit type="unknown">
@@ -215,11 +215,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-724e3fe7-24d6-4ac8-93ba-e74940134d8f" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i spânzura cuiva lingura (sau
                                 lingurile) la (în, de) brâu</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-71c7f87b-22a4-49a7-9230-fce479815b72">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <def xml:id="uuid-3f0556ac-53d9-45f3-9ffe-f3cc6fd11d8a">a lăsa pe cineva nemâncat (pentru că a întârziat la
                                 masă)</def>
@@ -233,11 +233,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-94e21c6e-4251-4af2-8753-47d19fea8fa8" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i lega cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-50079a9f-5643-4114-aef1-dc308c736653">a lăsa pe cineva nemâncat (pentru că a întârziat la masă); </def>
                             <def xml:id="uuid-318638c8-43c3-42e9-94a2-c46937946170">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <cit type="unknown">
@@ -250,11 +250,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a2d71a28-bea0-4b95-8ca8-8792c0ca4012" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>A-i lega cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-520e8ccc-f123-4f82-ac96-f36c94ac1be9">a lăsa pe cineva nemâncat (pentru că a întârziat la masă); </def>
                             <def xml:id="uuid-14e1b4b0-d3e0-4cbf-9cd7-05cc5a0bac7e">a se certa, a rupe relaţiile cu o persoană care a întârziat. </def>
                             <cit type="unknown">
@@ -267,11 +267,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-553f5213-1389-4391-b225-233bebd1f4b5" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Cu lingura/ cu lingura cea
                                 mare</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-557a6ee9-2109-4133-a881-b66b19b6eb2e">în cantitate mare, foarte mult.</def>
                             <cit type="unknown">
                                 <quote>Am păţit multe şi cu lingura cea mare am înghiţit
@@ -284,12 +284,12 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-252904c4-d4c4-422a-a15a-c9dd67cdfb40" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A mânca banii cu lingura/ a-i
                                 mânca cuiva banii cu lingura/ a-i mânca cuiva aurul cu lingura/a-i
                                 mânca cuiva averea cu lingura</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-18903903-f3ea-47aa-bfea-bb36f2b72ba4">a-i risipi cuiva averea, banii</def>
                             <usg corresp="#uuid-18903903-f3ea-47aa-bfea-bb36f2b72ba4">
                                 <seg type="register style" rend="usg">popular</seg>
@@ -305,11 +305,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a11f4869-2755-4a97-a102-eb9b28a1066d" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A mânca averea cu lingura/A
                                 mânca leafa cu lingura</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-8a4dfdca-baba-4c0b-a260-f7eb950eb144">a cheltui (avere, bani) foarte mult (şi repede) </def>
                             <cit type="unknown">
                                 <quote>de unde ar mai mânca ei lefurile cu lingura? </quote>
@@ -321,11 +321,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-8c861226-03c2-4616-a112-7860950dc9e5" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A se lăsa de lingură/ A lăsa
                                 lingura</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-5062b3c2-a919-47d2-98cf-ed3af4f502b8">a muri</def>
                             <usg corresp="#uuid-5062b3c2-a919-47d2-98cf-ed3af4f502b8">
                                 <seg type="register style" rend="usg">popular</seg>
@@ -333,17 +333,17 @@
                             <cit type="unknown">
                                 <quote>De mândra io m-oi lăsa Când oi lăsa lingura</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-1c0f8fcf-a4b2-4bea-2f6f-f61ec1104136"/>
+                                    <ptr target="#A100577"/>
                                     <date/>
                                     <citedRange>90</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-2f83bf69-8e32-426b-8512-1e69ebc96473" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A fi cât lingura</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-b2c63f2b-fb80-4379-84d7-ac646c336534">a fi mic de tot</def>
                             <cit type="unknown">
                                 <quote> Moaşa... i-a tăiat buricul când era numai cât lingura. </quote>
@@ -359,7 +359,7 @@
                             <cit type="unknown">
                                 <quote>Loviturile mânilor făcute lingură, a d a m , s. 193. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8f735df7-2423-5d8d-3234-dfbed822a396"/>
+                                    <ptr target="#A104974"/>
                                     <date/>
                                     <citedRange>193</citedRange>
                                 </bibl>
@@ -370,7 +370,7 @@
                                 </bibl>
                                 <quote>Cu mânile făcute lingură</quote>
                                 <bibl type="ap.">
-                                    <ptr target="#uuid-db3ae5df-4a11-3734-4f4b-fb009db02f7f"/>
+                                    <ptr target="#A102290"/>
                                     <date/>
                                     <citedRange> IV, 731.</citedRange>
                                 </bibl>
@@ -386,7 +386,7 @@
                                     (fierea-pământului), fiartă într-o litră de apă şi amestecată cu
                                     trei Unguri de miere</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-7ffe1e6d-17eb-0d32-2112-01876d3d1e39"/>
+                                    <ptr target="#A105269"/>
                                     <date/>
                                     <citedRange>96</citedRange>
                                 </bibl>
@@ -409,18 +409,18 @@
                             <cit type="unknown">
                                 <quote>Trudise ... să aibă o lingură de zeamă</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-df7b25ef-7a57-7914-3116-3e98cc9a7496"/>
+                                    <ptr target="#A103251"/>
                                     <date/>
                                     <citedRange>161</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-59f083e7-fced-4f59-9936-acfcae7df64b" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                                 <term>Cu o lingură de miere prinzi
                                 mai multe muşte ecât cu două butoaie de oţet</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-ea5458b7-8f93-46cd-ace8-00c15a8d8235">Cu puţină blândeţese obţin mai multe înlesniri decât cu multă
                                 asprime.</def>
                             <cit type="unknown">
@@ -456,11 +456,11 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>Cât ar bea o lingură de apă/cum
                                 ar bea o lingură de apă</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-37444d8e-5e6b-4968-8e84-4aab5db6033d"/>
                             <cit type="unknown">
                                 <quote/>
@@ -472,11 +472,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-748f1d6b-6de6-4030-bc59-cce4b6208214" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>Să o sorbi într-o lingură de
                                 apă sau ca dintr-o lingură de apă</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-fae7dad1-9d96-4c98-989f-5ec6efee6c65"/>
                             <usg corresp="#uuid-fae7dad1-9d96-4c98-989f-5ec6efee6c65">
                                 <seg type="register style" rend="usg">popular</seg>
@@ -485,37 +485,37 @@
                                 <quote>Îi venea flăcăului, de drag, să o soarbă într-o lingură de
                                     apă</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-df5e535f-8f10-80c4-a53f-600cdc0d90f0"/>
+                                    <ptr target="#A103923"/>
                                     <date/>
                                     <citedRange>35</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-50605108-0ce0-4c89-aab3-40681b9ea4ca" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>L-ar sorbi într-o lingură de
                                 apă/L-ar sorbi într-o lingură de sorbitură/L-ar înghiţi într-o
                                 lingură de apă/L-ar înghiţi într-o lingură de sorbitură</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-def037eb-7902-4cb8-ab49-53f864250277">se spune cu referire la o persoană nedorită, nesuferită</def>
                             <cit type="unknown">
                                 <quote>Chimu ... ajunsese să-l duşmănească aşa de tare pe Mitru,
                                     încât l-ar fi sorbit, într-o lingură, pentru că el socotea că
                                     Mitru i-a luat locul.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-a27eb36e-a235-0542-926f-da9d0da3095e"/>
+                                    <ptr target="#A101223"/>
                                     <date/>
                                     <citedRange>144</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ddd5c817-c7bf-478c-a912-e8321fbf3c11" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A împărţi lingură cu
                                 lingură</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-bdd7c45b-6911-490c-9c6f-3b5e41aad45a">A împărţi frăţeşte o avere moştenită</def>
                             <usg corresp="#uuid-bdd7c45b-6911-490c-9c6f-3b5e41aad45a">
                                 <seg type="geo" rend="usg">Regional</seg>
@@ -523,7 +523,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-ec7ac94a-5c14-65ef-071b-9306360514cd"/>
+                                    <ptr target="#A102182"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -551,17 +551,17 @@
                     </sense>
                     <sense xml:id="uuid-b2af54c8-c701-48f1-bd3c-9395f2dd6d76" n="II.">
                         <sense xml:id="uuid-3e48eb55-6368-4f43-b733-e7e7efb8d31b" n="1.">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>(Şi în sintagma) Lingura cea
                                 mare</term>
-                            </form>n<def xml:id="uuid-450893d1-104d-4258-ae5c-c09c12dc1cbd">Unealtă de forma unei linguri de dimensiuni
+                            </re>n<def xml:id="uuid-450893d1-104d-4258-ae5c-c09c12dc1cbd">Unealtă de forma unei linguri de dimensiuni
                                 mari, folosită de ciobani pentru a amesteca laptele pus la închegat,
                                 pentru a a aduna urda şi jintiţa, sau ca măsură pentru lapte.</def>
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8d041731-0e0a-4bfb-1cfd-5b9cb9fe70f3"/>
+                                    <ptr target="#A104957"/>
                                     <date/>
                                     <citedRange>118</citedRange>
                                 </bibl>
@@ -569,7 +569,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8d041731-0e0a-4bfb-1cfd-5b9cb9fe70f3"/>
+                                    <ptr target="#A104957"/>
                                     <date/>
                                     <citedRange>325</citedRange>
                                 </bibl>
@@ -577,7 +577,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-daf9e999-0626-084e-3eba-3a618e644d06"/>
+                                    <ptr target="#A101719"/>
                                     <date/>
                                     <citedRange>16</citedRange>
                                 </bibl>
@@ -585,7 +585,7 @@
                             <cit type="unknown">
                                 <quote>Urda din căldare se ia cu lingura cea mare.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-455269ca-9d28-1d39-82e3-20323de76cf6"/>
+                                    <ptr target="#A100258"/>
                                     <date/>
                                     <citedRange>15</citedRange>
                                 </bibl>
@@ -599,17 +599,17 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe"/>
+                                        <ptr target="#A100563"/>
                                         <date/>
                                         <citedRange>6 644/928</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>Lingură de car/lingură de
                                 roţi/lingură mare</term>
-                            </form>n<def xml:id="uuid-15139e72-df08-4212-bffd-c692fd26c548">Unealtă de rotărie sau de dogărie
+                            </re>n<def xml:id="uuid-15139e72-df08-4212-bffd-c692fd26c548">Unealtă de rotărie sau de dogărie
                                 folosită pentru a găuri butucul roţii sau pentru a face vrane la
                                 butoaie</def>
                             <xr type="syn" corresp="#uuid-15139e72-df08-4212-bffd-c692fd26c548">
@@ -620,25 +620,25 @@
                                     sus, servindu-se cu instrumentele următoare: toporul, barda, ...
                                     lingura, dalta</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-b45b22da-26c6-9cbc-0b3d-29ba56cb90da"/>
+                                    <ptr target="#A100640"/>
                                     <date/>
                                     <citedRange>711</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7bce2132-b089-473b-bbf9-4a33a52cda7c" n="3.">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>(Şi în sintagmele) Lingură de
                                 văcălit/ lingură de mătărit/lingură de maltăr</term>
-                            </form>n<def xml:id="uuid-552eeef7-f72b-4366-acfe-ec19cf19ed67">Unealtă de zidărie cu care se ia tencuiala.</def>
+                            </re>n<def xml:id="uuid-552eeef7-f72b-4366-acfe-ec19cf19ed67">Unealtă de zidărie cu care se ia tencuiala.</def>
                             <xr type="syn" corresp="#uuid-552eeef7-f72b-4366-acfe-ec19cf19ed67">
                                 <ptr target="mistrie"/>
                             </xr>
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-0f8326a5-0338-3187-6e7b-561186dc9b97"/>
+                                    <ptr target="#A104302"/>
                                     <date/>
                                     <citedRange>239</citedRange>
                                 </bibl>
@@ -659,7 +659,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-9013cb72-3fd7-95c0-93d7-c3949c171294"/>
+                                    <ptr target="#A102692"/>
                                     <date/>
                                     <citedRange>136</citedRange>
                                 </bibl>
@@ -668,18 +668,18 @@
                                 <quote>Pentru paiele mărnte, pleavă etc. se întrebuinţează o furcă
                                     cu reţea numită lingură.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-7ffe1e6d-17eb-0d32-2112-01876d3d1e39"/>
+                                    <ptr target="#A105269"/>
                                     <date/>
                                     <citedRange>143</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-37ffd533-8b77-4564-ad12-aefe84356e7a" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>(Şi în sintagma) Lingură de
                                 metezit</term>
-                            </form>n<def xml:id="uuid-702eabde-e426-42fd-844c-7633c8202db8">Unealtă de zidărie cu care se netezeşte
+                            </re>n<def xml:id="uuid-702eabde-e426-42fd-844c-7633c8202db8">Unealtă de zidărie cu care se netezeşte
                                 tencuiala. </def>
                             <xr type="syn" corresp="#uuid-702eabde-e426-42fd-844c-7633c8202db8">
                                 <ptr target="mistrie"/>
@@ -687,7 +687,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-0f8326a5-0338-3187-6e7b-561186dc9b97"/>
+                                    <ptr target="#A104302"/>
                                     <date/>
                                     <citedRange>239</citedRange>
                                 </bibl>
@@ -702,18 +702,18 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-eb9462f4-02a9-403f-93b2-81e82531893a" n="5.">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>Lingură de licărit/lingură de
                                 curăţat</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-d6668122-631f-49e6-a187-a0e656fac77e">Tub cilindric, închis la capătul de jos cu unul sau cu două
                                 ventile, folosit la sonde pentru extracţia unei cantităţi mici de
                                 ţiţei, la curăţirea găurii de sondă sau la cimentat.</def>
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300"/>
+                                    <ptr target="#A104836"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -722,7 +722,7 @@
                                 <quote>Trebuia ... să ridice o lingură pentru sonda la care lucra
                                     el. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc"/>
+                                    <ptr target="#A105030"/>
                                     <date>1945</date>
                                     <citedRange>nr. 1 320</citedRange>
                                 </bibl>
@@ -738,7 +738,7 @@
                             <cit type="unknown">
                                 <quote>Aveau ... </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426"/>
+                                    <ptr target="#A101422"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -747,7 +747,7 @@
                                 <quote>Aveau ... linguri pentru vărsat păcură în capul
                                     duşmanilor.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-297a32e7-5f88-57ae-1cd0-4af4cf2e05be"/>
+                                    <ptr target="#A103175"/>
                                     <date/>
                                     <citedRange>47</citedRange>
                                 </bibl>
@@ -762,7 +762,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326"/>
+                                    <ptr target="#A102325"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -778,17 +778,17 @@
                                     împletită sunt, pentru părţile Ardealului, lingura sau
                                     liungura.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-7ffe1e6d-17eb-0d32-2112-01876d3d1e39"/>
+                                    <ptr target="#A105269"/>
                                     <date/>
                                     <citedRange>68</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-f820bb7e-e471-437b-a90c-e4b2f7dcf5f7" n="9.">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>Lingura pieptului</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-7a37be2a-da91-4ff9-815a-cd1a76dd8e3d">furca pieptului</def>
                             <xr type="syn" corresp="#uuid-7a37be2a-da91-4ff9-815a-cd1a76dd8e3d">
                                 <ptr target="lingurea (2)"/>
@@ -803,7 +803,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589"/>
+                                    <ptr target="#A103452"/>
                                     <date/>
                                     <citedRange>143</citedRange>
                                 </bibl>
@@ -836,7 +836,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe"/>
+                                    <ptr target="#A100563"/>
                                     <date/>
                                     <citedRange>6 141/53</citedRange>
                                 </bibl>
@@ -850,7 +850,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-f5a04a1b-5b3d-17bd-335f-0c73e9e73f30"/>
+                                    <ptr target="#A104417"/>
                                     <date/>
                                     <citedRange>h 174/95</citedRange>
                                 </bibl>
@@ -880,7 +880,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-f5a04a1b-5b3d-17bd-335f-0c73e9e73f30"/>
+                                    <ptr target="#A104417"/>
                                     <date/>
                                     <citedRange>h 181/53</citedRange>
                                 </bibl>
@@ -898,7 +898,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-20b515c5-809c-4f5e-02ec-cab5f8ee61b8"/>
+                                    <ptr target="#A103241"/>
                                     <date/>
                                     <citedRange>143</citedRange>
                                 </bibl>
@@ -913,7 +913,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe"/>
+                                    <ptr target="#A100563"/>
                                     <date/>
                                     <citedRange>4 278/365</citedRange>
                                 </bibl>
@@ -930,7 +930,7 @@
                                     sau doi se aşezau tot în sania noastră, unul pe lingura săniei
                                     totdeauna. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-f88546db-a235-5e68-796e-971eba006b96"/>
+                                    <ptr target="#A104236"/>
                                     <date/>
                                     <citedRange>18</citedRange>
                                 </bibl>
@@ -946,7 +946,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8dfc3a99-1736-5597-5dc9-95eed6361e9c"/>
+                                    <ptr target="#A102350"/>
                                     <date/>
                                     <citedRange>156/64</citedRange>
                                 </bibl>
@@ -961,7 +961,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8dfc3a99-1736-5597-5dc9-95eed6361e9c"/>
+                                    <ptr target="#A102350"/>
                                     <date/>
                                     <citedRange>156/64</citedRange>
                                 </bibl>
@@ -976,7 +976,7 @@
                                 <quote>Le aruncăm în apă fiartă, ... pe urmă ... curăţim lâna cu o
                                     lingură.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-68590409-18c7-6211-8958-4e5f5c1b7379"/>
+                                    <ptr target="#A101113"/>
                                     <date/>
                                     <citedRange>32</citedRange>
                                 </bibl>
@@ -998,10 +998,10 @@
                     </sense>
                     <sense xml:id="uuid-55c666a6-05fd-4794-b3c7-ff988b2e8268" n="III.">
                         <sense xml:id="uuid-ca8b645e-536f-409b-8c20-035254986aa0" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>Lingura-zânelor/lingura-zânei/lingura-frumoaselor</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-b1a9f1d8-a573-43c3-b4fe-9a2a01fabb8e">Numele unei specii de ciuperci lemnoase, de culoare brună-roşcată,
                                 care creşte pe trunchiul şi pe şi pe rădăcinile arborilor (Ganoderma
                                 lucidum).</def>(<xr type="syn" corresp="#uuid-b1a9f1d8-a573-43c3-b4fe-9a2a01fabb8e">
@@ -1021,7 +1021,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-50104d27-789c-7eba-07b5-bdc3188938bd"/>
+                                    <ptr target="#A104348"/>
                                     <date/>
                                     <citedRange>70</citedRange>
                                 </bibl>
@@ -1030,17 +1030,17 @@
                                 <quote>[De sperietură] bea vin alb în care s-a plămădit
                                     lingura-zânei. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-9e930c08-42ea-3ad8-040b-fee56a4ea463"/>
+                                    <ptr target="#A100356"/>
                                     <date/>
                                     <citedRange>23</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ae210721-4519-4102-bfa3-3cd7fc4f09dc" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>lingura-popii</term>
-                            </form>i<def xml:id="uuid-e579883f-9360-47c6-a8f7-95be78404952">popilnic (1) (Asarum europaeum)</def>
+                            </re>i<def xml:id="uuid-e579883f-9360-47c6-a8f7-95be78404952">popilnic (1) (Asarum europaeum)</def>
                             <usg corresp="#uuid-e579883f-9360-47c6-a8f7-95be78404952">
                                 <seg type="geo" rend="usg">regional</seg>
                             </usg>
@@ -1054,10 +1054,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7bec9a35-0149-41c1-abad-8a695742bc1f" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>linura-Maicii-Domnului</term>
-                            </form>i<def xml:id="uuid-6bd44483-8c27-4517-9213-f9f0fd906bd7">lingurea (II) (Cochlearia
+                            </re>i<def xml:id="uuid-6bd44483-8c27-4517-9213-f9f0fd906bd7">lingurea (II) (Cochlearia
                                 officinalis)</def>
                             <usg corresp="#uuid-6bd44483-8c27-4517-9213-f9f0fd906bd7">
                                 <seg type="geo" rend="usg">regional</seg>
@@ -1065,17 +1065,17 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-187b9735-57d6-7f02-3b86-130d27107cd9"/>
+                                    <ptr target="#A105264"/>
                                     <date/>
                                     <citedRange>382</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-66c04cd8-28ef-4829-be61-c8fec90bc161" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>lingura-Maicii-Preceşte/lingura-strigoaicei</term>
-                            </form>u<def xml:id="uuid-060a0805-7676-4100-becf-85f4aed9d7b5">nume
+                            </re>u<def xml:id="uuid-060a0805-7676-4100-becf-85f4aed9d7b5">nume
                                 dat unor specii de bureţi mici neomestibili, de culoare roşiatică
                                 (Fomes lucidus)</def>
                             <xr type="syn" corresp="#uuid-060a0805-7676-4100-becf-85f4aed9d7b5">
@@ -1094,9 +1094,9 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-1f63dd54-9539-49c6-846c-23aca5479062" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <term>lingură-vântoasă</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-b03c918f-78d0-43c0-8985-c4aac4a4a8e0">nume dat unei specii de ciuperci (<hi rend="italic">Clavaria delphus pistillaris</hi>).</def>
                             <usg corresp="#uuid-b03c918f-78d0-43c0-8985-c4aac4a4a8e0">
                                 <seg type="geo" rend="usg">regional</seg>
@@ -1104,34 +1104,34 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <ptr target="#A102044"/>
                                     <date/>
                                     <citedRange>192</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-0eb029d8-5604-4305-a1df-ee06c539fc0c" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>lingura-plugului</term>
-                            </form>u<def xml:id="uuid-c9fad835-5cdb-4e36-a93e-08994b839b01">nume dat unei plante nedefinite mai îndeaproape.</def>
+                            </re>u<def xml:id="uuid-c9fad835-5cdb-4e36-a93e-08994b839b01">nume dat unei plante nedefinite mai îndeaproape.</def>
                             <usg corresp="#uuid-c9fad835-5cdb-4e36-a93e-08994b839b01">
                                 <seg type="geo" rend="usg">regional</seg>
                             </usg>
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-50104d27-789c-7eba-07b5-bdc3188938bd"/>
+                                    <ptr target="#A104348"/>
                                     <date/>
                                     <citedRange>70</citedRange>
                                 </bibl>
                             </cit>
                         </sense>
                         <sense xml:id="uuid-e5d0295d-729c-421f-b5f2-508ab5dbe845" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>lingura-popii</term>
-                            </form>o<def xml:id="uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">mormoloc (1)</def>
+                            </re>o<def xml:id="uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">mormoloc (1)</def>
                             <xr type="syn" corresp="#uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">
                                 <ptr target="linguruş (1)"/>
                             </xr>
@@ -1152,10 +1152,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-75dc8cb5-186c-496e-8758-22ecfaec47b4" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="compound"/>
                                 <term>Lingurile-vântului</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-e1b440a0-8944-4e89-8515-80daa67b8660">vânturătoare (<hi rend="bold">II 1</hi>).</def>
                             <usg corresp="#uuid-e1b440a0-8944-4e89-8515-80daa67b8660">
                                 <seg type="dom" rend="usg">Tehn.</seg>
@@ -1163,7 +1163,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-0f8326a5-0338-3187-6e7b-561186dc9b97"/>
+                                    <ptr target="#A104302"/>
                                     <date/>
                                     <citedRange>239</citedRange>
                                 </bibl>

@@ -1,9 +1,9 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/victor.celac" owner="victor.celac" group="dlr-redactors" mode="774" created="2019-04-16T05:42:10+03:00" deduplicate-blobs="false" version="2">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/victor.celac" owner="admin" group="dba" mode="774" created="2019-04-15T22:42:10+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Aboli.xml" owner="victor.celac" group="victor.celac" mode="644" created="2019-11-13T06:44:04+02:00" modified="2020-02-03T09:48:07+02:00" filename="Aboli.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="Aboli.xml" owner="admin" group="dba" mode="644" created="2019-11-12T16:44:04+02:00" modified="2020-12-10T04:01:52+02:00" filename="Aboli.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="Abolire.xml" owner="victor.celac" group="victor.celac" mode="644" created="2020-02-03T09:26:16+02:00" modified="2020-05-19T06:35:39+03:00" filename="Abolire.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="Abolire.xml" owner="admin" group="dba" mode="644" created="2020-02-02T19:26:16+02:00" modified="2020-12-10T04:01:22+02:00" filename="Abolire.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

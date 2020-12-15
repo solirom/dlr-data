@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-79b7ad6e-44f3-65dc-2f9a-018442fa382b">val.</ptr>
+								<ptr target="#A102306">val.</ptr>
 								<date>c. 1650</date>
 								<citedRange/>
 							</bibl>
@@ -55,7 +55,7 @@
 								zădar. De asemenea, unul vorbind ceva, celalalt afirmă vorba zicând:
 								abeş!...</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<ptr target="#A102873">hem</ptr>
 								<date>1887</date>
 								<citedRange/>
 							</bibl>
@@ -63,7 +63,7 @@
 						<cit type="unknown">
 							<quote>Rom. „<hi rend="bold">abéș</hi>” în adevăr, cu adevărat.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cfb35605-30c1-2b01-20a4-2d8c12a20dd2">orig.</ptr>
+								<ptr target="#A103441">orig.</ptr>
 								<date>1928</date>
 								<citedRange>695</citedRange>
 							</bibl>
@@ -87,7 +87,7 @@
 					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>abéz</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
@@ -100,17 +100,17 @@
 					<note>cf. „credință”</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>

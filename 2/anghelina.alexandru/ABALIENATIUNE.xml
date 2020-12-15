@@ -47,7 +47,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+								<ptr target="#A104836">scriban</ptr>
 								<date>1939</date>
 								<citedRange/>
 							</bibl>
@@ -71,7 +71,7 @@
 					<usg><hi rend="italic"><seg type="time" rend="usg">înv.</seg></hi></usg>
 					<def>abalienáție</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
@@ -88,7 +88,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange>60</citedRange>
 					</bibl>

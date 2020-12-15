@@ -61,12 +61,12 @@
 				<form type="accentuation-variant">
 					<stress xml:lang="ro-x-accent-lowcase-vowels">asd</stress>
 					<bibl type="unknown">
-						<ptr target="#uuid-99cd80ae-38e8-919d-9251-522699e01310">a</ptr>
+						<ptr target="#A101679">a</ptr>
 						<date>1999</date>
 						<citedRange>22</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7a68c0b9-2214-63f6-7931-f02203c019db">b</ptr>
+						<ptr target="#A104966">b</ptr>
 						<date>1999</date>
 						<citedRange>22</citedRange>
 					</bibl>

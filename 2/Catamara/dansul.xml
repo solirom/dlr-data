@@ -56,7 +56,7 @@
                                         agiungându-se în Moldova la pădurea Băcăului, dânsele n-au
                                         stat la bătaie.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-6eabb999-4e19-7279-a6fe-729d0d2e6ed0"/>
+                                        <ptr target="#A103536"/>
                                         <date/>
                                         <citedRange>327/22</citedRange>
                                     </bibl>
@@ -87,7 +87,7 @@
                                     <quote>O, şopteşte-mi - zice dânsul - tu cu ochii plini d-eres
                                         Dulci cuvinte ne-nţelese, însă pline de-nţeles.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-3a6bd1dd-08a6-026e-3def-ce2262e21478"/>
+                                        <ptr target="#A102417"/>
                                         <date/>
                                         <citedRange>82</citedRange>
                                     </bibl>
@@ -150,7 +150,7 @@
                                     <quote>Şi nu credzură jidovii dinsu c-au fost orb şi
                                         veade.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <ptr target="#A102039"/>
                                         <date/>
                                         <citedRange>121</citedRange>
                                     </bibl>
@@ -220,17 +220,17 @@
                                     <quote>Nu-i atâta de mare păcatul, căci că-i om deopotrivă ca şi
                                         dâns. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <ptr target="#A102039"/>
                                         <date/>
                                         <citedRange>27</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-3ea5086d-72ad-4df0-ac3f-49e0845cb6c6" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                     <term>Ca pe dânsul</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-d3d7049b-a3a3-4b6b-8d6c-7453db9c3f4b"/>
                                 <usg corresp="#uuid-d3d7049b-a3a3-4b6b-8d6c-7453db9c3f4b">
                                     <seg type="time" rend="usg">înv.</seg> și <seg type="register style" rend="usg">popular</seg>
@@ -245,10 +245,10 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-b9ca5c2e-03e4-47a5-afa6-fef5f6dcb1cd" n="">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                     <term>sau ca pe dânsa</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">straşnic (1)</def>
                                 <xr type="syn" corresp="#uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">
                                     <ptr target="grozav."/>
@@ -260,7 +260,7 @@
                                     <quote>Trânteşte baba în mijlocul casei şi-o frământă cu
                                         picioarele, şi-o ghigoseşte ca pe dânsa. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-dd222d65-978b-25c0-06ed-d015c1ac81c9"/>
+                                        <ptr target="#A102671"/>
                                         <date/>
                                         <citedRange>13.</citedRange>
                                     </bibl>
@@ -273,7 +273,7 @@
                                 <quote>Că de la Dumnedzeu e mila multă, de la Dins
                                     mântuirea.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-0e55e396-19ec-14a5-5727-005e2697013f"/>
+                                    <ptr target="#A102195"/>
                                     <date/>
                                     <citedRange>192</citedRange>
                                 </bibl>
@@ -281,7 +281,7 @@
                             <cit type="unknown">
                                 <quote>Tabachera o scos ai, Tabac din dânsa luai. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-50bad9fe-7db8-407c-0489-b16bf04a27ed"/>
+                                    <ptr target="#A102049"/>
                                     <date/>
                                     <citedRange>159</citedRange>
                                 </bibl>
@@ -333,7 +333,7 @@
                             <cit type="unknown">
                                 <quote>Să ştii că dânsu-al meu e supărat! </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8be874c2-76c0-62e5-0bb3-ea1cf7c8269f"/>
+                                    <ptr target="#A105234"/>
                                     <date/>
                                     <citedRange>103</citedRange>
                                 </bibl>
@@ -357,7 +357,7 @@
                             <cit type="unknown">
                                 <quote>Dânsele sau ielele, spun babele, sunt foarte rele. Au putere de a lua cuiva minţile ... să-l facă din om neom. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-d5b4bac8-89e4-86e0-a3da-48ee37688653"/>
+                                    <ptr target="#A101344"/>
                                     <date/>
                                     <citedRange>64</citedRange>
                                 </bibl>
@@ -365,10 +365,10 @@
                         </sense>
                         <sense xml:id="uuid-3abca09d-8926-4bf9-9d5c-9bc64477e53c" n="3.">
                             <sense xml:id="uuid-81688849-8174-454d-a6b1-cfe4be621720" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                     <term>De dânsele</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">Dânsul (II 3).</def>
                                 <usg corresp="#uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">
                                     <seg type="register style" rend="usg">popular</seg>
@@ -381,7 +381,7 @@
                                         însă, după cum spune poporul, e cu mult mai periculos,
                                         fiindcă se întinde peste tot corpul </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-caf8ed82-4383-9191-57f7-4c3424c6910c"/>
+                                        <ptr target="#A100900"/>
                                         <date/>
                                         <citedRange>91</citedRange>
                                     </bibl>
@@ -410,10 +410,10 @@
                         </sense>
                         <sense xml:id="uuid-02a7cf3f-ccf4-4979-954a-e03bf1c2f450" n="4.">
                             <sense xml:id="uuid-f99fd2a8-5092-4fb7-89d5-d5b6d022c271" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                     <term>De dânsele</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-8e8854b2-e3c1-433b-82cd-1defcb063838">Dânsul (II 4).</def>
                                 <xr type="trimitere" corresp="#uuid-8e8854b2-e3c1-433b-82cd-1defcb063838">
                                     <ptr target="dânsul (II 4)"/>
@@ -435,7 +435,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                        <ptr target="#A102044"/>
                                         <date/>
                                         <citedRange>64</citedRange>
                                     </bibl>
@@ -449,7 +449,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-fc9e5b4b-6cb3-6229-375c-5537f7c34426"/>
+                                        <ptr target="#A104778"/>
                                         <date/>
                                         <citedRange>87</citedRange>
                                     </bibl>
@@ -494,7 +494,7 @@
                                 <quote>Românul din toate unghiurile ţării, când e nevoit să
                                     vorbească de lup... zice: dânsul, pădurarul sau hoţul. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-8e94d50c-01fe-4552-4f6d-7f2f47f49f5b"/>
+                                    <ptr target="#A104664"/>
                                     <date/>
                                     <citedRange>263</citedRange>
                                 </bibl>

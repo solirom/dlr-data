@@ -48,7 +48,7 @@
 								creaţiuni <hi rend="bold">aberative</hi> ale acestei epoce de
 								demenţă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d8f1173b-3a56-0528-09aa-9b8a9c800c1f">zamfires</ptr>
+								<ptr target="#A100387">zamfires</ptr>
 								<date>1916</date>
 								<citedRange>207</citedRange>
 							</bibl>
@@ -58,7 +58,7 @@
 									<hi rend="bold">aberativ</hi>, stăpânite de imaginea vegetală a
 								cepei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călin</ptr>
+								<ptr target="#A102181">călin</ptr>
 								<date>1941</date>
 								<citedRange>707</citedRange>
 							</bibl>
@@ -67,7 +67,7 @@
 							<quote>Pesimismul ca atare e ceva greşit, dar nu e chiar ceva <hi rend="bold">aberativ</hi>, decât când ajunge în studiul
 								filozofului antic [Benda] de mai sus.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c18dd4f6-8d4d-2285-7f39-8702f0474882">băncil</ptr>
+								<ptr target="#A103107">băncil</ptr>
 								<date>1952</date>
 								<citedRange>48</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 								literar, la care Davidescu ajunge, constrâns fiind de premisele
 								politice, nu s-a terminat.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8d281a1e-611e-39a6-5aa2-ac5c9812169c">strein</ptr>
+								<ptr target="#A103196">strein</ptr>
 								<date>1968</date>
 								<citedRange>255</citedRange>
 							</bibl>
@@ -112,32 +112,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">DELR</ptr>
+						<ptr target="#A103438">DELR</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

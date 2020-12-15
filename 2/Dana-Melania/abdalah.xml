@@ -47,7 +47,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -71,7 +71,7 @@
 				<form type="writing">
 					<oVar>abdallah</oVar>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<ptr target="#A101929">bălă</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
@@ -92,13 +92,13 @@
 					<form type="writing">
 						<oVar>abdallas</oVar>
 						<bibl type="unknown">
-							<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonesc</ptr>
+							<ptr target="#A102594">antonesc</ptr>
 							<date>1862</date>
 							<citedRange/>
 						</bibl>
 					</form>
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
@@ -108,27 +108,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<ptr target="#A104011">asachi</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<ptr target="#A101929">bălă</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<ptr target="#A104144">costin</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>

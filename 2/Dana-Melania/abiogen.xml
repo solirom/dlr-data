@@ -47,7 +47,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-63540be5-6f6a-876e-00b0-0a2d4ad99c87">dex</ptr>
+								<ptr target="#A103920">dex</ptr>
 								<date>1988</date>
 								<citedRange/>
 							</bibl>
@@ -85,12 +85,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
@@ -100,7 +100,7 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<ptr target="#A102212">dn</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

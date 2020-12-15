@@ -36,18 +36,18 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-ae765c72-1440-4946-9cce-93b239fbc71c" n="">
 						<sense xml:id="uuid-df93e1f9-194c-4f8b-b58c-6917b3fb7439" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="geo" rend="usg">Prin Maram.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
 								<term>De-abcialuca</term>
-							</form>
+							</re>
 							<def xml:id="id">de abia</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-f95e6299-05e4-0f80-4295-934c544593a7">papah</ptr>
+									<ptr target="#A101263">papah</ptr>
 									<date>1925</date>
 									<citedRange>2</citedRange>
 								</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote>Ștopătáză <hi rend="bold">abĝelúcă</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">ALR</ptr>
+								<ptr target="#A104276">ALR</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>h 75/228</citedRange>
 							</bibl>

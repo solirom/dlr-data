@@ -58,7 +58,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+								<ptr target="#A100837">vaill</ptr>
 								<date>1839</date>
 								<citedRange/>
 							</bibl>
@@ -66,17 +66,17 @@
 					</sense>
 					<sense xml:id="uuid-fb6903c9-8843-423a-a5db-5e57665a29a7" n="2.">
 						<sense xml:id="uuid-d4e022e9-f0fd-487d-b054-8d6e2d25301a" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
 								<term>Italo-abisin</term>
-							</form>
+							</re>
 							<def xml:id="id">care se referă și la italieni și la abisini.</def>
 							<cit type="unknown">
 								<quote>Comisia de trei, întrunită vineri nu poate scoate căruţa din
 									nămol şi războiul <hi rend="bold">italo-abisin</hi> pare mai
 									sigur ca oricând.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+									<ptr target="#A101386">arget</ptr>
 									<date>1935</date>
 									<citedRange>111</citedRange>
 								</bibl>
@@ -98,7 +98,7 @@
 							<quote>Guvernul <hi rend="bold">abisin</hi> va garanta libertatea
 								comerţului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">români</ptr>
+								<ptr target="#A101579">români</ptr>
 								<date>1888</date>
 								<citedRange>nr. 3 168, 3</citedRange>
 							</bibl>
@@ -132,7 +132,7 @@
 					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
 					<def>abiseán,-ă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+						<ptr target="#A100837">vailla</ptr>
 						<date>1839</date>
 						<citedRange/>
 					</bibl>

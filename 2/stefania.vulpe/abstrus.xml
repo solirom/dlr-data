@@ -48,7 +48,7 @@
 									transparent şi prin el s-ar fi zărit construcţii din altă lume,
 									împovărate de amurg şi statui.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7"/>
+									<ptr target="#A100299"/>
 									<date>2007</date>
 									<citedRange>204</citedRange>
 								</bibl>
@@ -65,7 +65,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2"/>
+								<ptr target="#A102594"/>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -74,7 +74,7 @@
 							<quote>Această prețioasă carte de critică și statistică, în care multe
 								... se dau într-o formă greoaie și obscură, de un clasicism <hi rend="bold">abstrus</hi> … n-a ieșit niciodată în întregime. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f487388a-400e-051f-526b-75354b7f612a"/>
+								<ptr target="#A104254"/>
 								<date>1901</date>
 								<citedRange>107</citedRange>
 							</bibl>
@@ -84,7 +84,7 @@
 								asupra originii îngerești a sufletelor, ce-și au originea în câte o
 								stea.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb"/>
+								<ptr target="#A102181"/>
 								<date>1941</date>
 								<citedRange>389</citedRange>
 							</bibl>
@@ -94,7 +94,7 @@
 								pana lui cam artificială, pierdută în asociaţii <hi rend="bold">abstruse</hi>, în alegorii, în întrebări fără răspuns,
 								versurile din „Alion Ciobanul”. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3b4c65e3-11ce-15c5-76ff-904421ab46ed"/>
+								<ptr target="#A105238"/>
 								<date>1945</date>
 								<citedRange>221</citedRange>
 							</bibl>
@@ -104,7 +104,7 @@
 									<hi rend="bold">abstruse</hi> pagini ale lui Heidegger, ar
 								începe să caște după zece-cincisprezece minute. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c9c4747-9aa9-387f-2d53-3c26914504a5"/>
+								<ptr target="#A103475"/>
 								<date>1947</date>
 								<citedRange>105</citedRange>
 							</bibl>
@@ -113,7 +113,7 @@
 							<quote>Întreaga filozofie … poate fi considerată ca o sforţare tot mai
 								complicată şi subtilă, tot mai puţin naivă, tot mai <hi rend="bold">abstrusă</hi>, neobosită, de a căuta căi noi. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cd0207c5-9477-4758-4904-c1c4744c8e4a"/>
+								<ptr target="#A102288"/>
 								<date>1960 (†) </date>
 								<citedRange>225</citedRange>
 							</bibl>
@@ -123,7 +123,7 @@
 								(şi el <hi rend="bold">abstrus</hi>), ceea ce ne prăbuşeşte în
 								labirintul paralel al psihozei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45"/>
+								<ptr target="#A105067"/>
 								<date>1974</date>
 								<citedRange>octombrie, 62</citedRange>
 							</bibl>
@@ -167,7 +167,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<ptr target="#A102977">barcianu</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
@@ -177,27 +177,27 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2000</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-76a65176-0b84-3e0f-41d7-94deacd874c5">den</ptr>
+						<ptr target="#A101341">den</ptr>
 						<date>2009</date>
 						<citedRange/>
 					</bibl>

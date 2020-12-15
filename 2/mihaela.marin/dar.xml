@@ -41,10 +41,10 @@
                         <sense xml:id="uuid-351ca35f-bada-4636-812b-17b0bf7cfdeb" n="1.">
                             <sense xml:id="uuid-36f7ad14-2d52-40fc-8ae5-9bde13300eb5" n="♦">
                                 <sense xml:id="uuid-574194ac-4b8f-466b-a8a8-b201e78d0d5a" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Darul miresei</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-a75b630a-0fb4-488a-b495-4a63b1694348">sumă de bani pe care mireasa o primeşte personal în
                                         timp ce dansează o horă, asemănătoare periniţei</def>
                                     <usg corresp="#uuid-a75b630a-0fb4-488a-b495-4a63b1694348">
@@ -53,18 +53,18 @@
                                     <cit type="unknown">
                                         <quote/>
                                         <bibl type="unknown">
-                                            <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                            <ptr target="#A104349"/>
                                             <date/>
                                             <citedRange/>
                                         </bibl>
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-b35df675-f4f0-450b-9d48-3a3dd3411e86" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                         <term>Darul
                                         bucătarului</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-d1f75315-be15-4ce5-aa6c-25aa5700baf0">bacşiş</def>
                                     <usg corresp="#uuid-d1f75315-be15-4ce5-aa6c-25aa5700baf0">
                                         <seg type="geo" rend="usg">regional</seg>
@@ -72,17 +72,17 @@
                                     <cit type="unknown">
                                         <quote/>
                                         <bibl type="cf.">
-                                            <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                            <ptr target="#A104349"/>
                                             <date/>
                                             <citedRange/>
                                         </bibl>
                                     </cit>
                                     <sense xml:id="uuid-42c01cec-66af-4022-ba4f-c99c5e908241" n="♦">
-                                        <form type="unitate-semantică-subsumată">
+                                        <re type="unitate-semantică-subsumată">
                                             <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                             <term>Sfintele Daruri/
                                             Darul lui Dumnezeu</term>
-                                        </form>
+                                        </re>
                                         <def xml:id="uuid-c76a0671-fa08-4b83-9981-494cc4aa9e5d">Vinul şi prescura sfinţite pentru împărtăşanie în
                                             cursul liturghiei şi purtate de preot în potir.</def>
                                         <usg corresp="#uuid-c76a0671-fa08-4b83-9981-494cc4aa9e5d">
@@ -92,7 +92,7 @@
                                             <quote>Când iase preotul cu darurile, toţi se se plece
                                                 cătră pământ sau se îngenunche.</quote>
                                             <bibl type="unknown">
-                                                <ptr target="#uuid-14315922-58e3-1474-1db9-89de819b74b5"/>
+                                                <ptr target="#A104803"/>
                                                 <date/>
                                                 <citedRange>84/23</citedRange>
                                             </bibl>
@@ -112,7 +112,7 @@
                                 <cit type="unknown">
                                     <quote>Apoi se strigară darurile.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-d45d1450-6a3f-7c11-736c-31764422a6fe"/>
+                                        <ptr target="#A101311"/>
                                         <date/>
                                         <citedRange>43</citedRange>
                                     </bibl>
@@ -135,7 +135,7 @@
                                     <quote>Au intrat în casă, punând darurile sau cinstea adusă pe
                                         masă dinaintea miresii.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-2871e3fc-1684-0fc9-548a-cc55488f72f4"/>
+                                        <ptr target="#A104426"/>
                                         <date/>
                                         <citedRange>309</citedRange>
                                     </bibl>
@@ -149,7 +149,7 @@
                                 <cit type="unknown">
                                     <quote>logodna se numeşte dar</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-0bc7b11f-54c0-65cd-07a8-fa107edc0928"/>
+                                        <ptr target="#A102871"/>
                                         <date/>
                                         <citedRange>III, 52</citedRange>
                                     </bibl>
@@ -162,18 +162,18 @@
                                         primele fructe coapte ... considerate ca daruri ale
                                         pământului.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-743bf539-5272-a65b-0b66-e9e2aae815eb"/>
+                                        <ptr target="#A103215"/>
                                         <date/>
                                         <citedRange>12</citedRange>
                                     </bibl>
                                 </cit>
                                 <sense xml:id="uuid-4cd058aa-c96d-4810-a95e-adf1202c9712" n="◊">
-                                    <form type="unitate-semantică-subsumată">
+                                    <re type="unitate-semantică-subsumată">
                                         <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
                                         <term>A aduce cuiva daruri/a
                                         da cuiva daruri/a duce cuiva daruri/a lăsa cuiva
                                         daruri</term>
-                                    </form>
+                                    </re>
                                     <def xml:id="uuid-beb77238-2be3-4369-9c81-35845ead8b72">a dărui</def>
                                     <cit type="unknown">
                                         <quote>Împăraţii Tarsisului ... darure (daruri H)
@@ -214,10 +214,10 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-c2ec36fa-b15c-4c69-9ef5-fedd5800cb74" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                     <term>Dar manual</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-f4a17c83-e1e4-4866-b96c-2545a5713de3">donaţie exceptată de la formele obişnuite cerute pentru
                                     validitatea donaţiei, având drept obiect bunuri mobile corporale
                                     şi efectuându-se prin predarea bunului de la mână la mână</def>
@@ -225,7 +225,7 @@
                                     <quote>Darul manual scapă, deci formalităţii
                                         autentificării.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-675cfb62-905a-6578-4ca9-2ba1d1f308ad"/>
+                                        <ptr target="#A101935"/>
                                         <date/>
                                         <citedRange>275</citedRange>
                                     </bibl>
@@ -233,7 +233,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831"/>
+                                        <ptr target="#A102496"/>
                                         <date/>
                                         <citedRange/>
                                     </bibl>
@@ -276,10 +276,10 @@
                                 </sense>
                             </sense>
                             <sense xml:id="uuid-476523a2-3e36-46f1-909d-424bc9256ec7" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
                                     <term>De dar</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-fd584a2a-e569-4121-9de1-f69dfbf97e41">primit gratuit</def>
                                 <cit type="unknown">
                                     <quote>Măgarul de dar nu să caută pe dinţi.</quote>
@@ -308,10 +308,10 @@
                                 </sense>
                             </sense>
                             <sense xml:id="uuid-86e21aee-71ca-404c-90d7-56456d598d03" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                     <term>În dar</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-953ba9e6-8b5a-44f3-94f9-c6d5e131b4d5">fără plată, în mod gratuit;</def>
                                 <def xml:id="uuid-78422907-e70d-418a-a836-2ccdf36369fa">fără nimic în schimb, drept cadou;</def>
                                 <def xml:id="uuid-91088903-c1c9-4a90-ad8c-b3aa18d2c4d0">pe foarte puţin</def>
@@ -378,10 +378,10 @@
                         </sense>
                         <sense xml:id="uuid-4ec9394f-831e-4830-86bc-1e85b87c1555" n="3.">
                             <sense xml:id="uuid-e04b76db-9a3d-49d9-8db1-7abb2a3316fa" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
                                     <term>A cădea la daruri</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-c9384ecf-1f0f-48c9-96ca-031c67a85499">a mitui;</def>
                                 <def xml:id="uuid-6b3a6df2-49c8-4360-bece-0a623fd8cd08">a face o investiţie;</def>
                                 <def xml:id="uuid-cf22d83b-460b-4568-8475-778d54eaba25">a plăti</def>
@@ -393,7 +393,7 @@
                                     <quote>Să nu-mi cobeşti ..., că o dată te blestem! Să nu cad la
                                         daruri, Chiriţo!</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-d45d1450-6a3f-7c11-736c-31764422a6fe"/>
+                                        <ptr target="#A101311"/>
                                         <date/>
                                         <citedRange>181</citedRange>
                                     </bibl>
@@ -410,7 +410,7 @@
                                 <quote>Doctorii din Ţara Românească nu vor bani, dar aşteaptă
                                     daruri</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-099a367f-50a7-2f44-9b05-e4a967e950ae"/>
+                                    <ptr target="#A101238"/>
                                     <date>1804</date>
                                     <citedRange>208</citedRange>
                                 </bibl>
@@ -429,7 +429,7 @@
                                 <quote>Vor vedea slava svinţilor şi darurele minunată şi frâmseaţe
                                     ... dulceaţa şi bunătatea</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-eb954596-8779-2651-80d9-2f1fd96f61eb"/>
+                                    <ptr target="#A103187"/>
                                     <date/>
                                     <citedRange>222</citedRange>
                                 </bibl>
@@ -437,10 +437,10 @@
                         </sense>
                         <sense xml:id="uuid-702bef10-cd90-4e3d-94e9-b5e213a94d79" n="5.">
                             <sense xml:id="uuid-f9d1dade-ea39-471f-8230-8bec14b52bc5" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A face darul cuiva</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-6c182243-fdeb-4b04-8725-d824c89ed8ff">a face o favoare cuiva</def>
                                 <usg corresp="#uuid-6c182243-fdeb-4b04-8725-d824c89ed8ff">
                                     <seg type="register style" rend="usg">ironic</seg>
@@ -448,7 +448,7 @@
                                 <cit type="unknown">
                                     <quote>Îmi face darul de a-şi lua drepturi asupra mea.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-eb5c1090-6c27-5b17-88de-db6834366433"/>
+                                        <ptr target="#A103668"/>
                                         <date/>
                                         <citedRange>161</citedRange>
                                     </bibl>
@@ -463,7 +463,7 @@
                                 <quote>Cela ce va fi scutealnic să nu plătească vamă, de vreme ce
                                     i-au dat Dumnedzău un dar ca acesta.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-88488b46-97fd-9888-72f8-e1566f803d25"/>
+                                    <ptr target="#A100535"/>
                                     <date/>
                                     <citedRange>49</citedRange>
                                 </bibl>
@@ -475,18 +475,18 @@
                                 <cit type="unknown">
                                     <quote>E darul lui Dumnezeu.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-8abba10b-a4da-87f4-874d-ead2659e5e6e"/>
+                                        <ptr target="#A101830"/>
                                         <date/>
                                         <citedRange>471</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-ea4a97e5-e93e-4f0e-8bea-1b0f2b2744b5" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>În starea darului/ A fi în
                                     starea darului</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-14bac4c0-5676-455a-806e-368e2ac77230">(a fi) gravidă</def>
                                 <usg corresp="#uuid-14bac4c0-5676-455a-806e-368e2ac77230">
                                     <seg type="geo" rend="usg">prin Transilv.</seg> și <seg type="geo" rend="usg">prin Bucov.</seg>
@@ -495,7 +495,7 @@
                                     <quote>Femeia care se află în stare binecuvântată se numeşte în
                                         limba poporului ... şi în starea darului.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-b335e6ed-7156-7d02-0112-656fe82c1c38"/>
+                                        <ptr target="#A104153"/>
                                         <date/>
                                         <citedRange>10</citedRange>
                                     </bibl>
@@ -511,7 +511,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300"/>
+                                        <ptr target="#A104836"/>
                                         <date/>
                                         <citedRange/>
                                     </bibl>
@@ -525,7 +525,7 @@
                             <cit type="unknown">
                                 <quote>Darul lui Dumnezeu nu se poate vinde pe bani.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-50e3ede2-795e-9de1-2677-720149a5a7a0"/>
+                                    <ptr target="#A100326"/>
                                     <date>1701</date>
                                     <citedRange>XXXVII</citedRange>
                                 </bibl>
@@ -539,17 +539,17 @@
                                         fire înzestrată cu atâtea daruri spre nutrirea şi desfătarea
                                         lăcuitorilor.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-b3252980-4093-64c4-0956-a3a9305c4564"/>
+                                        <ptr target="#A102580"/>
                                         <date/>
                                         <citedRange>244/22</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-93f33749-ef2e-4570-a09c-33df2736a23e" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
                                     <term>Cu dar</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-86555213-ac19-42cd-b9d6-7ad9cca889b0">cu calităţi deosebite</def>
                                 <cit type="unknown">
                                     <quote>Să pici în sat de foame, om cu dar, cu meşteşug.</quote>
@@ -561,18 +561,18 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-7898bff8-4944-4a4a-a823-0633c94f5393" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A avea darul să .../ A avea
                                     darul de a .../ A avea darul de...</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-ba5f32dd-9647-4218-a6f2-a0dc1dd02688">a avea puterea, capacitatea, priceperea, calitatea,
                                     efectul să ...</def>
                                 <def xml:id="uuid-a92651fe-6a79-4edb-8d81-99f849794a8f">a fi în stare de a...</def>
                                 <cit type="unknown">
                                     <quote>A avea darul de a înţelege limba dobitoacelor</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-0ecdec4f-a4dd-04bd-5006-3e2215201cbd"/>
+                                        <ptr target="#A104631"/>
                                         <date/>
                                         <citedRange>15/18</citedRange>
                                     </bibl>
@@ -587,7 +587,7 @@
                                     <quote>Nu e dar pe lume mai trist, înjositoriu, Cadarul de beţie
                                         la bietul muritoriu.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-29c6bd8b-86b8-0356-912c-ab3aca8c95cd"/>
+                                        <ptr target="#A101147"/>
                                         <date/>
                                         <citedRange>29</citedRange>
                                     </bibl>
@@ -613,7 +613,7 @@
                             <cit type="unknown">
                                 <quote>Darul învăţăturii este atâta şi atâta.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-bd921d5e-8279-1a88-5653-0f1a7d6b3d74"/>
+                                    <ptr target="#A104502"/>
                                     <date>1765</date>
                                     <citedRange>272</citedRange>
                                 </bibl>
@@ -641,7 +641,7 @@
                                     <quote>În legea dariului a Mântuitoriului nostru I[i]sus
                                         H[risto]s sf[â]nta bisearică ţine şapte taine.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-23e8f2c7-77cb-4340-8b06-1509880243b9"/>
+                                        <ptr target="#A103640"/>
                                         <date/>
                                         <citedRange>1r/9</citedRange>
                                     </bibl>
@@ -661,10 +661,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-533469a6-bee3-4634-a40d-cdb69625eaed" n="2.">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>Darul preoţiei</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-fbad7a75-4bdc-476d-a34b-d679edf2ee77">Har conferit preoţilor la hirotonisire</def>
                             <def xml:id="uuid-282ca83c-1e5f-4133-a23e-64ff3f39533e">drept de a oficia actele de cult;</def>
                             <def xml:id="uuid-dde281fb-a331-4230-a0ad-86bf5f7495b0">funcţie de preot</def>
@@ -676,7 +676,7 @@
                                 <quote>Preoţii sânt îmbrăcaţi cu darul ca să slujească numai
                                     sf[â]nta liturghie</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-23e8f2c7-77cb-4340-8b06-1509880243b9"/>
+                                    <ptr target="#A103640"/>
                                     <date/>
                                     <citedRange>37r/19</citedRange>
                                 </bibl>
@@ -687,7 +687,7 @@
                             <cit type="unknown">
                                 <quote>Şapte darure-s D[u]hului S[fânt]</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-b9e18280-5b8a-7993-7a89-0fe0de490dcf"/>
+                                    <ptr target="#A104213"/>
                                     <date>1639</date>
                                     <citedRange>252</citedRange>
                                 </bibl>

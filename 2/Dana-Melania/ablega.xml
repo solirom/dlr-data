@@ -51,7 +51,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+								<ptr target="#A101929">bălă</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -60,7 +60,7 @@
 							<quote><hi rend="bold">Ablegare</hi> [=] (Mai în gen[eral]) a depărta un
 								fiu din casa părintească pentru un an.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+								<ptr target="#A102594">antones</ptr>
 								<date>1962</date>
 								<citedRange>12</citedRange>
 							</bibl>
@@ -90,7 +90,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+								<ptr target="#A102700">neguli</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -110,7 +110,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -143,27 +143,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<ptr target="#A100981">dn</ptr>
 						<date>2002</date>
 						<citedRange/>
 					</bibl>

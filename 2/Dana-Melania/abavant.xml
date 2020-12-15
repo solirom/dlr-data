@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -76,7 +76,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>

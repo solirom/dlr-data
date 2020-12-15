@@ -53,7 +53,7 @@
 							<quote>Știi d-ta ce simț io și trebuie să simtă oricine care cât de
 								puțin ș-au studiat limba istoricește? Greață! <hi rend="bold">abandonament</hi>! abandonare! etc. </quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">b.
+								<ptr target="#A100444">b.
 									contem</ptr>
 								<date>1847</date>
 								<citedRange>271</citedRange>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -70,7 +70,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<ptr target="#A102594">antonescu</ptr>
 								<date>1862</date>
 								<citedRange>8</citedRange>
 							</bibl>
@@ -78,7 +78,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<ptr target="#A100126">pake</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -86,7 +86,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -114,7 +114,7 @@
 				<re type="lexical-variant-section">
 					<def>abandonemấnt</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<ptr target="#A104144">costinescu</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>

@@ -39,10 +39,10 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-733af58d-b173-4ee7-97b0-ce0e4c8fea97" n="1.">
 						<sense xml:id="uuid-1fc31710-481d-465a-9976-3efb94bb413a" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
 								<term>O abureală de</term>
-							</form>
+							</re>
 							<def xml:id="id">cantitate mică (din ceva).</def>
 							<usg corresp="#id">
 								<seg type="geo" rend="usg">Prin vestul Munt.</seg>
@@ -51,7 +51,7 @@
 								<quote>Nu e așa frig, dar o <hi rend="bold">abureală </hi>de căldură
 									nu strică.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9">udrescu</ptr>
+									<ptr target="#A104349">udrescu</ptr>
 									<date>1967</date>
 									<citedRange/>
 								</bibl>
@@ -73,7 +73,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+								<ptr target="#A102434">lb</ptr>
 								<date>1825</date>
 								<citedRange/>
 							</bibl>
@@ -82,7 +82,7 @@
 							<quote>Pătimesc cei mai mulți [bolnavi] de încuetura mistuielii, a
 								udului și a <hi rend="bold">aburelii</hi> trupului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d115ea1b-4782-020b-1e55-383624425eaa">episcupes</ptr>
+								<ptr target="#A100410">episcupes</ptr>
 								<date>1846</date>
 								<citedRange>114/26</citedRange>
 							</bibl>
@@ -91,7 +91,7 @@
 							<quote>Se simte [sic!] miresmele răcoroase ale codrilor și, ca să zic
 								așa, abureala pătrunzătoare a fiarelor sălbatice.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6349e717-1fa1-663c-6f2e-ea5d09f51ab7">pseud</ptr>
+								<ptr target="#A102261">pseud</ptr>
 								<date>1874</date>
 								<citedRange>148</citedRange>
 							</bibl>
@@ -102,7 +102,7 @@
 								despuiate, în liniștea imensității simțurile nu mai percepeau decât
 								contrastele de lumină și umbră.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-66027c05-0298-1fb4-8d12-d8e0acf97f4e">argeto</ptr>
+								<ptr target="#A102562">argeto</ptr>
 								<date>1939</date>
 								<citedRange>298</citedRange>
 							</bibl>
@@ -110,7 +110,7 @@
 						<cit type="unknown">
 							<quote>Puiul fript exală o dulce <hi rend="bold">abureală</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8f45b473-7b75-3b4f-3ede-868165fd3074">călinescu</ptr>
+								<ptr target="#A102274">călinescu</ptr>
 								<date>1963</date>
 								<citedRange>218</citedRange>
 							</bibl>
@@ -126,7 +126,7 @@
 						<cit type="unknown">
 							<quote>Orce umflătură e mai bine s-o moi, s-o răsufli, cu <hi rend="bold">abureală </hi>de bozii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-af66267f-51fe-177f-20dd-3c35bc899a5e">delavranc</ptr>
+								<ptr target="#A101064">delavranc</ptr>
 								<date>1885</date>
 								<citedRange>98</citedRange>
 							</bibl>
@@ -136,7 +136,7 @@
 								spală rănile, să pun oblojeli, să face gargară; să mai fac <hi rend="bold">abureli</hi> în cazuri de durere de urechi (năjit
 								sau otită).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bianu</ptr>
+								<ptr target="#A104442">bianu</ptr>
 								<date>1910</date>
 								<citedRange/>
 							</bibl>
@@ -154,7 +154,7 @@
 							<quote>Cuvinte care erau din vechi: <hi rend="bold">Abureala</hi>
 								zefirului. Cum se înțeleg astăzi: adiere, abia trage vântul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b1fb04f2-2436-970d-2a41-041fa44a2884">stamati</ptr>
+								<ptr target="#A102593">stamati</ptr>
 								<date>1868</date>
 								<citedRange>485</citedRange>
 							</bibl>
@@ -163,7 +163,7 @@
 							<quote>Văi și coline sunt înecate de soarele arzător de iuliu și nici
 									<hi rend="bold">abureală </hi>de vânt.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4e860496-a39a-62e5-03f3-6d114e8e7cad">românia
+								<ptr target="#A102266">românia
 									pit</ptr>
 								<date>1901</date>
 								<citedRange>99</citedRange>
@@ -173,7 +173,7 @@
 							<quote>O ușoară <hi rend="bold">abureală</hi> de vânt... nu ne dădea
 								niciun pic de răcoare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-eb5c1090-6c27-5b17-88de-db6834366433">adela</ptr>
+								<ptr target="#A103668">adela</ptr>
 								<date>1933</date>
 								<citedRange>117</citedRange>
 							</bibl>
@@ -184,7 +184,7 @@
 								păserilor, la mirosul florilor, la <hi rend="bold">abureala</hi>
 								aerului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1e6260c6-6e84-78ce-0371-0757ada3662c">sbiera</ptr>
+								<ptr target="#A104588">sbiera</ptr>
 								<date>1886</date>
 								<citedRange>90</citedRange>
 							</bibl>
@@ -192,7 +192,7 @@
 						<cit type="✧ POP.">
 							<quote>Când vântul suflă foarte puțin... avem <hi rend="bold">abureală</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fd83c6ab-45ae-17bf-23df-16aa316e909d">șez</ptr>
+								<ptr target="#A100112">șez</ptr>
 								<date>1898</date>
 								<citedRange>140</citedRange>
 							</bibl>
@@ -205,7 +205,7 @@
 								<quote>Umbre uriașe pășeau agale peste întreg cuprinsul ... și apoi
 									se prăpădeau în zările scăldate-n <hi rend="bold">abureală</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b93c9be3-a1f9-4189-3866-9ac3ed151733">rebreanu</ptr>
+									<ptr target="#A103270">rebreanu</ptr>
 									<date>1910</date>
 									<citedRange>21</citedRange>
 								</bibl>
@@ -225,7 +225,7 @@
 							<cit type="unknown">
 								<quote>Fața ei gingașă îmi păru că strălucește într-o <hi rend="bold">abureală</hi> aurie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-fa6c40f6-1bfc-8719-8f56-892cc86665a9">sadoveanu</ptr>
+									<ptr target="#A101571">sadoveanu</ptr>
 									<date>1904</date>
 									<citedRange>160</citedRange>
 								</bibl>
@@ -234,7 +234,7 @@
 								<quote>O tu, lucire-a lunei pline, ... Din <hi rend="bold">abureli</hi> savante mintea-mi scoasă Să-mi răcoresc în
 									roua-ți sănătoasă!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b62c5d14-732d-0156-3283-3b956e3810fb">gorun</ptr>
+									<ptr target="#A103745">gorun</ptr>
 									<date>1906</date>
 									<citedRange>20</citedRange>
 								</bibl>
@@ -244,7 +244,7 @@
 									nimica... Dar din adânc de oglindă în față, mi-a zâmbit În
 									jilțul ei – ca-n vremea când eram mic – bunica.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5ca9a095-3d67-9e71-2964-375f42597f3f">pillat</ptr>
+									<ptr target="#A102319">pillat</ptr>
 									<date>1925</date>
 									<citedRange>25</citedRange>
 								</bibl>
@@ -255,7 +255,7 @@
 									adevăr, el nu vedea înaintea lui decât pe tovarășul șăgalnic,
 									totdeauna voios și drag.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-720e51ee-6572-5f60-9e27-162b0b2f598b">stere</ptr>
+									<ptr target="#A102725">stere</ptr>
 									<date>1932</date>
 									<citedRange>628</citedRange>
 								</bibl>
@@ -268,7 +268,7 @@
 									ce putem face e să întindem mâna şi s-o ştergem din când în când
 									de <hi rend="bold">abureală</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-03952b3d-0b9e-2c8f-005c-2a23e044927f">sfere</ptr>
+									<ptr target="#A100550">sfere</ptr>
 									<date>1969</date>
 									<citedRange>135</citedRange>
 								</bibl>
@@ -280,7 +280,7 @@
 							<quote>E rece: se cunoaște după <hi rend="bold">abureala</hi>
 								paharului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ac917b3d-2ed8-6721-8a9e-00d40edd81c5">întuneric</ptr>
+								<ptr target="#A102271">întuneric</ptr>
 								<date>1912</date>
 								<citedRange>67</citedRange>
 							</bibl>
@@ -289,7 +289,7 @@
 							<quote>Gândurile se șterseră ca și <hi rend="bold">abureala</hi>
 								geamului peste care a trecut mâna.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-750f8dc3-1053-098d-2548-afc6b2559d1f">viermii</ptr>
+								<ptr target="#A100168">viermii</ptr>
 								<date>1933</date>
 								<citedRange>52</citedRange>
 							</bibl>
@@ -297,7 +297,7 @@
 						<cit type="unknown">
 							<quote>Nu se putea dezlipi de geam și ștergea <hi rend="bold">abureala</hi> mereu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">păsările</ptr>
+								<ptr target="#A103162">păsările</ptr>
 								<date>1961</date>
 								<citedRange>174</citedRange>
 							</bibl>
@@ -312,7 +312,7 @@
 							<quote>Scherzoul este un vals ţesut de sonorităţi variate, într-o <hi rend="bold">abureală </hi>polifonică, care evocă balul unei
 								societăţi rafinate.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e0d50307-a08d-1bb8-12b0-c8f01d726bb1">arpegii</ptr>
+								<ptr target="#A104705">arpegii</ptr>
 								<date>1947</date>
 								<citedRange>175</citedRange>
 							</bibl>
@@ -333,7 +333,7 @@
 							<cit type="unknown">
 								<quote>Reducerile din supermarketuri, doar o <hi rend="bold">abureală</hi> de aprilie.</quote>
 								<bibl type="în">
-									<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+									<ptr target="#A102996">dcr</ptr>
 									<date>2009</date>
 									<citedRange/>
 								</bibl>
@@ -345,7 +345,7 @@
 							<quote>Socoteala a fost că sigur din <hi rend="bold">abureala</hi> asta
 								pică la partid un ce electoral.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<ptr target="#A102996">dcr</ptr>
 								<date>2004</date>
 								<citedRange/>
 							</bibl>
@@ -355,7 +355,7 @@
 								obișnuita <hi rend="bold">abureală</hi> cu care se face trecerea de
 								la prezentarea artistului la paharul cu șampanie.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<ptr target="#A102996">dcr</ptr>
 								<date>2006</date>
 								<citedRange/>
 							</bibl>
@@ -384,12 +384,12 @@
 					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 					<def>aboreálă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">lb</ptr>
+						<ptr target="#A102434">lb</ptr>
 						<date>1825</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<ptr target="#A105107">iser</ptr>
 						<date>1850</date>
 						<citedRange/>
 					</bibl>
@@ -406,12 +406,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<ptr target="#A105107">iser</ptr>
 						<date>1850</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">d. etim</ptr>
+						<ptr target="#A101422">d. etim</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
@@ -421,17 +421,17 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+								<ptr target="#A102458">stein</ptr>
 								<date>1886</date>
 								<citedRange/>
 							</bibl>
@@ -74,7 +74,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

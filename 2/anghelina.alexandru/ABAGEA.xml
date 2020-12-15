@@ -59,7 +59,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-08560d92-8a44-368e-8d70-ff47d20f1c04">coman</ptr>
+								<ptr target="#A103744">coman</ptr>
 								<date/>
 								<citedRange/>
 							</bibl>
@@ -67,7 +67,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-224bee0c-a38e-971f-3023-489526b49634">anchete</ptr>
+								<ptr target="#A102193">anchete</ptr>
 								<date>&lt;1956-1958&gt; </date>
 								<citedRange>28, 33, 35.</citedRange>
 							</bibl>
@@ -96,7 +96,7 @@
 					<usg>(<seg type="gram" rend="usg">cu schimbare de suf.</seg>)</usg>
 					<def>abagícă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-224bee0c-a38e-971f-3023-489526b49634">anchete</ptr>
+						<ptr target="#A102193">anchete</ptr>
 						<date/>
 						<citedRange>28, 33, 35</citedRange>
 					</bibl>

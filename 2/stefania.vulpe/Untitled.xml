@@ -84,12 +84,12 @@
 					<stress xml:lang="ro-x-accent-lowcase-vowels">casa</stress>
 					<usg><seg type="geo" rend="usg">Ban.</seg></usg>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-feb0c798-6bc9-9f5f-0657-7549c49a28ed">dex</ptr>
+						<ptr target="#A104449">dex</ptr>
 						<date>2003</date>
 						<citedRange/>
 					</bibl>

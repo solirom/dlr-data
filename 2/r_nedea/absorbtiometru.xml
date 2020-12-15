@@ -51,7 +51,7 @@
 							<quote><hi rend="bold">Absorbțiometrul</hi> lui Bunsen [pentru măsurarea
 								absorbțiunei gazelor].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.</ptr>
+								<ptr target="#A100171">enc.</ptr>
 								<date>1937</date>
 								<citedRange>20</citedRange>
 							</bibl>
@@ -59,7 +59,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+								<ptr target="#A100914">ltr</ptr>
 								<date>1949</date>
 								<citedRange/>
 							</bibl>
@@ -67,7 +67,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+								<ptr target="#A101547">ltr</ptr>
 								<date>1957</date>
 								<citedRange>22</citedRange>
 							</bibl>
@@ -75,7 +75,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">chim</ptr>
+								<ptr target="#A102231">chim</ptr>
 								<date>1964</date>
 								<citedRange/>
 							</bibl>
@@ -83,7 +83,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+								<ptr target="#A100818">medical</ptr>
 								<date>1969</date>
 								<citedRange>18</citedRange>
 							</bibl>
@@ -121,7 +121,7 @@
 					<usg><seg type="time" rend="usg">ieşit din uz</seg></usg>
 					<def>absorpţiométru</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<ptr target="#A100914">ltr</ptr>
 						<date>1949</date>
 						<citedRange/>
 					</bibl>
@@ -136,7 +136,7 @@
 				<re type="lexical-variant-section">
 					<def>absorţiométru</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
@@ -156,7 +156,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

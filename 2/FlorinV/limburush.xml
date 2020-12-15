@@ -39,10 +39,10 @@
                 <dictScrap xml:id="dlr-senses">
                     <sense xml:id="uuid-5ffc7705-5f01-4b70-91d0-73f16c0092e6" n="1.">
                         <sense xml:id="uuid-39e3ed72-d842-4346-9a69-a6b1ad849015" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A avea limburuş</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-22b49ab7-605b-4f75-b2c7-92fe9e736f0b">A fi peltic.</def>
                             <cit type="unknown">
                                 <quote/>
@@ -95,7 +95,7 @@
                             <quote>încă se mai află în goliciunea gurei ceriul gurii, limba şi
                                 limburuşul.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-412a4b14-37a2-1440-4a87-99e57a7a2a19"/>
+                                <ptr target="#A100061"/>
                                 <date/>
                                 <citedRange>36/10</citedRange>
                             </bibl>
@@ -103,7 +103,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f"/>
+                                <ptr target="#A104850"/>
                                 <date/>
                                 <citedRange/>
                             </bibl>
@@ -111,7 +111,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589"/>
+                                <ptr target="#A103452"/>
                                 <date/>
                                 <citedRange>I, 143</citedRange>
                             </bibl>
@@ -233,7 +233,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                    <ptr target="#A104349"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -291,7 +291,7 @@
                     </form>
                     <form type="grammatical-information-for-plural" corresp="">
                         <bibl type="unknown">
-                            <ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f"/>
+                            <ptr target="#A104850"/>
                             <date/>
                             <citedRange/>
                         </bibl>
@@ -301,11 +301,11 @@
                             <citedRange/>
                         </bibl>
                         <bibl type="unknown">
-                            <ptr target="#uuid-b303d2b1-3f59-8771-7d91-d1cd86236e2a"/>
+                            <ptr target="#A103981"/>
                             <date/>
                         </bibl>
                         <bibl type="unknown">
-                            <ptr target="#uuid-c8856d4f-1ac3-7e21-a51f-2844121e78cd"/>
+                            <ptr target="#A100423"/>
                             <date/>
                             <citedRange/>
                         </bibl>
@@ -315,7 +315,7 @@
                         <number>limburuşi</number>
                         <gen value="m."/>
                         <bibl type="unknown">
-                            <ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765"/>
+                            <ptr target="#A102434"/>
                             <date/>
                             <citedRange/>
                         </bibl>
@@ -330,7 +330,7 @@
                             <citedRange/>
                         </bibl>
                         <bibl type="unknown">
-                            <ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f"/>
+                            <ptr target="#A100593"/>
                             <date/>
                             <citedRange/>
                         </bibl>

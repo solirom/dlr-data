@@ -46,7 +46,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627"/>
+								<ptr target="#A101929"/>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -56,7 +56,7 @@
 								periclitată prin faptul că se răspândește tot mai mult instrucția
 								superioară?</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ad3fbf9d-2012-2b1c-899e-ceb815dc5fac"/>
+								<ptr target="#A102959"/>
 								<date>1895</date>
 								<citedRange>264</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 								şi demonism, amoralism, <hi rend="bold">absurdism</hi>... sunt
 								filozofi pervertiţi. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c18dd4f6-8d4d-2285-7f39-8702f0474882"/>
+								<ptr target="#A103107"/>
 								<date>1951</date>
 								<citedRange>41</citedRange>
 							</bibl>
@@ -111,7 +111,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

@@ -59,7 +59,7 @@
 								mai viteji; b) lesghinei păgâni; c) <hi rend="bold">abazinei</hi>;
 								d) cercajii; e) cabardinii şi e) truhmanii.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">contemp</ptr>
+								<ptr target="#A100073">contemp</ptr>
 								<date>1844</date>
 								<citedRange>65</citedRange>
 							</bibl>
@@ -72,15 +72,15 @@
 							<number value=""/>
 						</gramGrp>
 						<sense xml:id="uuid-818a6589-3239-4afd-9420-69647eca5c45" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Limba abazină </term>
-							</form>
+							</re>
 							<def xml:id="id">limbă din familia caucaziană înrudită cu abhaza.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-d019c87c-26f3-8ba9-77e8-eefb276779c3">lumii</ptr>
+									<ptr target="#A103816">lumii</ptr>
 									<date>1981</date>
 									<citedRange>15</citedRange>
 								</bibl>

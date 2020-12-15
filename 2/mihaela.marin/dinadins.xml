@@ -75,7 +75,7 @@
                                     <quote>Şi aşa să-l întrebe cu dinadinsul ... şi să-i îngăduiască
                                         până ce-i va răspunde [duhovnicului].</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <ptr target="#A103023"/>
                                         <date>1710</date>
                                         <citedRange>234</citedRange>
                                     </bibl>
@@ -84,7 +84,7 @@
                                     <quote>S-au orânduit la 9 ceasuri dimineaţa spre a face în tărie
                                         o cercetare cu dinadinsul.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <ptr target="#A102555"/>
                                         <date>1829</date>
                                         <citedRange>27<hi rend="superscript">2</hi>/8</citedRange>
                                     </bibl>
@@ -97,7 +97,7 @@
                                     <quote>O , prea iubitul mieu fiu, ia seama cu dinadânsul întru
                                         toată curgerea vieţii tale!</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-7b07048b-29b6-842d-a4cb-4e32104940f6"/>
+                                        <ptr target="#A101937"/>
                                         <date>1843</date>
                                         <citedRange>I, 25</citedRange>
                                     </bibl>
@@ -122,16 +122,16 @@
                                 <cit type="unknown">
                                     <quote>Se hotărî se se ţină după dânsele cu dinadinsul.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-df5e535f-8f10-80c4-a53f-600cdc0d90f0"/>
+                                        <ptr target="#A103923"/>
                                         <date>1896</date>
                                         <citedRange>236</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Cu dinadinsul</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-729df483-ac01-45ab-ab77-d352bff9b67a"/>
                             <cit type="unknown">
                                 <quote/>
@@ -150,7 +150,7 @@
                                 <cit type="unknown">
                                     <quote>Iată că vi-l spui cu tot dinadinsul [adevărul]. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-dcd5c71e-5800-3a08-5c52-b7845f491f80"/>
+                                        <ptr target="#A102045"/>
                                         <date>1820</date>
                                         <citedRange>7/5</citedRange>
                                     </bibl>
@@ -193,7 +193,7 @@
                                         nu avea alt cuget decât numai să apuce, negoţiaţiille lor nu
                                         era decât o curmare de războiu.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-75064a65-0cbe-1ec6-030f-4c356cb33f9d"/>
+                                        <ptr target="#A103682"/>
                                         <date>1820</date>
                                         <citedRange>59/25</citedRange>
                                     </bibl>
@@ -202,7 +202,7 @@
                                     <quote>Supăratu-s-a oare cineva cu tot dinadinsul pe Coco al
                                         nostru de la Paris?</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-4f6d9e02-1824-9700-1519-bb1e039b5f40"/>
+                                        <ptr target="#A102250"/>
                                         <date>1930</date>
                                         <citedRange>29</citedRange>
                                     </bibl>
@@ -231,7 +231,7 @@
                                     <quote>Luând seama cu tot denadinsul sfârşitul acestui lucru,
                                         foarte mă întristez.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6"/>
+                                        <ptr target="#A103023"/>
                                         <date>1710</date>
                                         <citedRange>40</citedRange>
                                     </bibl>
@@ -249,10 +249,10 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Cu tot dinadinsul</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-d24fecf7-b9ab-40b5-ac24-005460a11abd"/>
                             <cit type="unknown">
                                 <quote/>
@@ -286,7 +286,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300"/>
+                                        <ptr target="#A104836"/>
                                         <date>1939</date>
                                         <citedRange/>
                                     </bibl>
@@ -309,16 +309,16 @@
                                     <quote>Se aşază mai cu denadinsul la anumite două
                                         ponturi.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <ptr target="#A102555"/>
                                         <date>1829</date>
                                         <citedRange>138<hi rend="superscript">1</hi>/26</citedRange>
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Mai cu dinadinsul</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-dee8aeb6-bf69-4b25-83be-a31beadba007"/>
                             <cit type="unknown">
                                 <quote/>
@@ -344,10 +344,10 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
                                 <term>Prin dinadins</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-d879b88e-dd0a-4bd9-85fd-e5320f4d71df"/>
                             <cit type="unknown">
                                 <quote/>
@@ -365,7 +365,7 @@
                                 <quote>Neascultarea dinadins a pruncilor totdeauna să se
                                     pedepsească.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-92c986b1-5fe9-2831-9e42-342e1b5e395f"/>
+                                    <ptr target="#A100084"/>
                                     <date>1835</date>
                                     <citedRange>49/3</citedRange>
                                 </bibl>
@@ -381,7 +381,7 @@
                             <quote>Lucrurile, denadins care să fac, nădăjduiesc binele unii
                                 ţără.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-d5363aba-4360-98d5-4d69-90c9a2ef59ff"/>
+                                <ptr target="#A105282"/>
                                 <date>1703</date>
                                 <citedRange>146</citedRange>
                             </bibl>
@@ -389,7 +389,7 @@
                         <cit type="unknown">
                             <quote>Ca să aibă marea cu ce face clăbuci.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-93d45a85-8ab3-3547-8a89-03dc59398c70"/>
+                                <ptr target="#A103965"/>
                                 <date>1970</date>
                                 <citedRange>63</citedRange>
                             </bibl>
@@ -397,7 +397,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831"/>
+                                <ptr target="#A102496"/>
                                 <date>1975</date>
                                 <citedRange/>
                             </bibl>
@@ -405,7 +405,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="unknown">
-                                <ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8"/>
+                                <ptr target="#A102930"/>
                                 <date>1975</date>
                                 <citedRange/>
                             </bibl>

@@ -48,7 +48,7 @@
 							<quote>Toți lucrătorii cari metahirisesc meseria <hi rend="bold">abageriei</hi> și a pânzăriei de aici din politia
 								Bucureștilor.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-b1f2de38-2e73-5d38-46a1-a68986227b84">șio</ptr>
+								<ptr target="#A104210">șio</ptr>
 								<date>1775</date>
 								<citedRange>5</citedRange>
 							</bibl>
@@ -59,7 +59,7 @@
 								poate, şi sumănari, nu-l găsim alcătuit în breaslă decât la
 								Roman.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">pavlescu</ptr>
+								<ptr target="#A100201">pavlescu</ptr>
 								<date>1939</date>
 								<citedRange>259</citedRange>
 							</bibl>
@@ -67,7 +67,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaillan</ptr>
+								<ptr target="#A100837">vaillan</ptr>
 								<date>1839</date>
 								<citedRange/>
 							</bibl>
@@ -75,7 +75,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<ptr target="#A102406">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -100,27 +100,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<ptr target="#A102977">barcianu</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<ptr target="#A105256">hodoș</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-425ec52b-0345-750d-4dbe-ba0db004a2b2">arhais</ptr>
+						<ptr target="#A104672">arhais</ptr>
 						<date>2005</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

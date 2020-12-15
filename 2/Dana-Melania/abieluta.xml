@@ -36,18 +36,18 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-cde7d740-498d-41d7-9f9b-7445566811e4" n="">
 						<sense xml:id="uuid-c8bebab1-55cb-4a9d-a18c-c49f774b915a" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg><seg type="geo" rend="usg">Reg</seg>.</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
 								<term>D-abiuţa</term>
-							</form>
+							</re>
 							<def xml:id="id">cu foarte mare greutate</def>
 							<cit type="unknown">
 								<quote>La stână laptele-l închiagă în caș și urdă, adecă laptele să
 									încălzește <hi rend="bold">d-abiuța</hi> și în el să pune
 									„chiag”.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5a7a8c3f-4ed8-6d8e-4a80-9852ac0980bd">măid</ptr>
+									<ptr target="#A100079">măid</ptr>
 									<date>1895</date>
 									<citedRange>111</citedRange>
 								</bibl>
@@ -60,7 +60,7 @@
 							<quote>Plini de sânge, plini de rane, <hi rend="bold">abieluța</hi>
 								răsuflând, Au străbătut pânʼ la Luvra bătându-să şi luptând.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5c7a4aed-042c-6e5d-34ab-777612084bd7">pogor</ptr>
+								<ptr target="#A104305">pogor</ptr>
 								<date>1838</date>
 								<citedRange>107</citedRange>
 							</bibl>
@@ -69,7 +69,7 @@
 							<quote><hi rend="bold">Agheluţa</hi> (abia) esî băetu în lumi, şi-i
 								şirăt şi rău.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b76cdbdf-889b-3c05-9dfb-a44a330a9aa5">șez</ptr>
+								<ptr target="#A103571">șez</ptr>
 								<date>1893</date>
 								<citedRange>189</citedRange>
 							</bibl>
@@ -102,32 +102,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<ptr target="#A102873">hem</ptr>
 						<date>1887</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange>s.v. abia</citedRange>
 					</bibl>

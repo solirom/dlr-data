@@ -48,7 +48,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8"/>
+								<ptr target="#A100914"/>
 								<date>1949</date>
 								<citedRange/>
 							</bibl>
@@ -58,7 +58,7 @@
 								origine germană ca: <hi rend="bold">abștic</hi>, abtaig, aincuplăr,
 								ainpruc, ainșivăr, ainștraih, apau, apștiolnă, apțigăr etc. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a9260242-53a0-4849-150a-fc8b490e25a0"/>
+								<ptr target="#A100406"/>
 								<date>1958</date>
 								<citedRange>147</citedRange>
 							</bibl>
@@ -66,7 +66,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb">d.
+								<ptr target="#A100910">d.
 									term</ptr>
 								<date>1972</date>
 								<citedRange/>
@@ -96,7 +96,7 @@
 					<usg><seg type="plev" rend="usg">rar</seg></usg>
 					<def>abștíh</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-18bbefef-7a0f-1cea-546c-fba79fbf2afb"/>
+						<ptr target="#A100910"/>
 						<date>1972</date>
 						<citedRange/>
 					</bibl>

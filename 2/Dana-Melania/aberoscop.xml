@@ -49,7 +49,7 @@
 								observare a defectului de distorsiune vizuală, inventat de
 								Tscherning.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<ptr target="#A100914">LTR</ptr>
 								<date>1949</date>
 								<citedRange>5</citedRange>
 							</bibl>
@@ -82,27 +82,27 @@
 			<entry>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-cb3b873c-1b2f-94ff-1cb4-e3b5c71049b3">dn</ptr>
+						<ptr target="#A101142">dn</ptr>
 						<date>1966</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+								<ptr target="#A102594">antones</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -53,7 +53,7 @@
 							<quote>[Regele] i-a chiemat pe toți <hi rend="bold">abencerragii</hi> în
 								Alhambra și i-a ucis.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">Enc</ptr>
+								<ptr target="#A101816">Enc</ptr>
 								<date>1898</date>
 								<citedRange>6</citedRange>
 							</bibl>
@@ -63,7 +63,7 @@
 								tragica istorie a <hi rend="bold">abencerajilor</hi> ... arabii au
 								rezistat eroic.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2a31ce02-0e00-6770-1275-c5560fcf32ad">ralea</ptr>
+								<ptr target="#A103503">ralea</ptr>
 								<date>1931</date>
 								<citedRange>351</citedRange>
 							</bibl>
@@ -99,22 +99,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<ptr target="#A102458">stein</ptr>
 						<date>1886</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<ptr target="#A101394">șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<ptr target="#A102212">dn</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

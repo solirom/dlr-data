@@ -43,7 +43,7 @@
 								materia sublimată, cu liniile ţâşnite spre cer… înseamnă înainte de
 								orice un elan spiritual de jos în sus.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+								<ptr target="#A102911">blaga</ptr>
 								<date>1936</date>
 								<citedRange>157</citedRange>
 							</bibl>
@@ -54,7 +54,7 @@
 								narativ, în morfologie prevalent hieratic şi <hi rend="bold">abstractizat</hi>, un stil caracteristic pentru concepţiile
 								artei feudale din această fază.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătăș</ptr>
+								<ptr target="#A101842">vătăș</ptr>
 								<date>1967</date>
 								<citedRange>206</citedRange>
 							</bibl>
@@ -63,7 +63,7 @@
 							<quote>Idealismului speculativ, care lucra cu un om <hi rend="bold">abstractizat</hi>, cu o „conştiinţă” fără carne şi sânge,
 								Feuerbach i-a opus o antropologie materialistă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-041d132c-9288-1e69-220d-74816e095a5d">gulian</ptr>
+								<ptr target="#A100413">gulian</ptr>
 								<date>1975</date>
 								<citedRange>239</citedRange>
 							</bibl>
@@ -73,7 +73,7 @@
 								„nonfigurativ”, acest tip de literatură a împins la extrem premizele
 								modernităţii, practic epuizându-le.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-105c9f65-637b-1daf-3b57-90b9bdd25127">nedelciu</ptr>
+								<ptr target="#A100923">nedelciu</ptr>
 								<date>1979</date>
 								<citedRange>17</citedRange>
 							</bibl>
@@ -108,12 +108,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<ptr target="#A101486">ndu</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

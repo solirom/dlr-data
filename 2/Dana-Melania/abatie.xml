@@ -50,7 +50,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corbea</ptr>
+								<ptr target="#A100539">corbea</ptr>
 								<date>&lt;1691–1697&gt;</date>
 								<citedRange>s. v. abbatia</citedRange>
 							</bibl>
@@ -58,7 +58,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-a3598d55-1c76-3a59-4519-07e55e601bd7">putnea</ptr>
+								<ptr target="#A102604">putnea</ptr>
 								<date>&lt;1770–1780&gt;</date>
 								<citedRange>99</citedRange>
 							</bibl>
@@ -67,7 +67,7 @@
 							<quote>Matiaș craiul ... dăruise ... gubernatorului <hi rend="bold">abbatiei</hi> din Cherț sororei lui, Elisavetei, și nepoților
 								Petru și Elia, Galtiul din comitatei Albei și Ardealului. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6eabb999-4e19-7279-a6fe-729d0d2e6ed0">șincai</ptr>
+								<ptr target="#A103536">șincai</ptr>
 								<date>1816 (†)</date>
 								<citedRange>43</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 								vechea arhimăndrie, sau <hi rend="bold">abaţia</hi>, în acăreia
 								beserică se îngroapă familiea crăiască.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b3252980-4093-64c4-0956-a3a9305c4564">rus</ptr>
+								<ptr target="#A102580">rus</ptr>
 								<date>1842</date>
 								<citedRange>216</citedRange>
 							</bibl>
@@ -87,7 +87,7 @@
 								Cherţ, pe care eu am esplicat-o mai bine în articolul meu despre
 								vechimea românilor în Ardeal.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-16c1b6df-0049-2e5b-3816-1032b41c4c32">contemp</ptr>
+								<ptr target="#A103024">contemp</ptr>
 								<date>1846</date>
 								<citedRange>294</citedRange>
 							</bibl>
@@ -97,7 +97,7 @@
 									<hi rend="bold">abatia</hi> sântului Gotard, dispune prin actul
 								său de întemeiere ca să se primească în ea la studii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-135f3d76-7e45-4e4f-06a4-b3e458d02025">odobescu</ptr>
+								<ptr target="#A105081">odobescu</ptr>
 								<date>1861</date>
 								<citedRange>136</citedRange>
 							</bibl>
@@ -105,7 +105,7 @@
 						<cit type="unknown">
 							<quote>N-avem decât a aminti că dintre cele 21 de <hi rend="bold">abaţii</hi> … şase numai sunt fundaţiuni ruso-bulgare</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">eminescu</ptr>
+								<ptr target="#A100334">eminescu</ptr>
 								<date>1878</date>
 								<citedRange>93</citedRange>
 							</bibl>
@@ -114,7 +114,7 @@
 							<quote>Gobelinus, un abate foarte renumit al acelei <hi rend="bold">abatii</hi> [din Făgăraş], avea adeseori mare influinţă chiar
 								şi în afacerile ţării.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">turcu</ptr>
+								<ptr target="#A101458">turcu</ptr>
 								<date>1896</date>
 								<citedRange>90</citedRange>
 							</bibl>
@@ -124,7 +124,7 @@
 								mărturiseşte o severitate de disciplină pe care Vezelay-ul nu o
 								trădează deloc.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<ptr target="#A102455">voinescu</ptr>
 								<date>1930</date>
 								<citedRange/>
 							</bibl>
@@ -136,7 +136,7 @@
 								Saône a <hi rend="bold">abaţiei</hi> de la Cluny, în care era
 								călugăr.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a8978b17-9a35-1f73-8a8e-ed5abf156b96">pietre</ptr>
+								<ptr target="#A100510">pietre</ptr>
 								<date>1943</date>
 								<citedRange>217</citedRange>
 							</bibl>
@@ -146,7 +146,7 @@
 								desprind dintr-o ferecătură de evangheliar, un „codex aureus”al
 								Bibliotecii de Stat din München ... dar al lui Carol Pleşuvul <hi rend="bold">abaţiei</hi> din St. Denis.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătășianu</ptr>
+								<ptr target="#A101842">vătășianu</ptr>
 								<date>1967</date>
 								<citedRange>136</citedRange>
 							</bibl>
@@ -156,7 +156,7 @@
 								12 dioceze şi arhidioceze importante ... şi beneficiar al
 								veniturilor a nu mai puţin de 9 <hi rend="bold">abaţii</hi>!</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+								<ptr target="#A104931">drimba</ptr>
 								<date>1994</date>
 								<citedRange>278</citedRange>
 							</bibl>
@@ -165,7 +165,7 @@
 							<quote>Vine ziua fatală (nu mai ţin minte data exactă, din luna mai
 								1973): fusesem la un concert de muzică religioasă la <hi rend="bold">abaţia</hi> de la Royaumont.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3">goma</ptr>
+								<ptr target="#A101605">goma</ptr>
 								<date>2003</date>
 								<citedRange>526</citedRange>
 							</bibl>
@@ -191,12 +191,12 @@
 				<form type="writing">
 					<oVar>abbaţie </oVar>
 					<bibl type="unknown">
-						<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+						<ptr target="#A103756">gavra</ptr>
 						<date>1847</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<ptr target="#A102654">LMD</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
@@ -212,7 +212,7 @@
 				<re type="lexical-variant-section">
 					<def>abadíe </def>
 					<bibl type="unknown">
-						<ptr target="#uuid-a3598d55-1c76-3a59-4519-07e55e601bd7">putneanul</ptr>
+						<ptr target="#A102604">putneanul</ptr>
 						<date>&lt;1770–1780&gt;</date>
 						<citedRange>99v</citedRange>
 					</bibl>
@@ -227,7 +227,7 @@
 				<re type="lexical-variant-section">
 					<def>avație </def>
 					<bibl type="unknown">
-						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+						<ptr target="#A102434">LB</ptr>
 						<date>1825</date>
 						<citedRange/>
 					</bibl>
@@ -244,77 +244,77 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+						<ptr target="#A100354">drlu</ptr>
 						<date>1822</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+						<ptr target="#A102434">LB</ptr>
 						<date>1825</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr>
+						<ptr target="#A103756">gavra</ptr>
 						<date>1847</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<ptr target="#A102700">negul</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<ptr target="#A101929">bălăș</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbriant</ptr>
+						<ptr target="#A101803">pontbriant</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcian</ptr>
+						<ptr target="#A105061">barcian</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinean</ptr>
+						<ptr target="#A101394">șăinean</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<ptr target="#A105256">hodoș</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
@@ -324,52 +324,52 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<ptr target="#A104520">DL</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<ptr target="#A102972">DM</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-c2f56bf1-9c34-8c26-8f36-95dc60bd0288">tdrg</ptr>
+						<ptr target="#A104642">tdrg</ptr>
 						<date>1986</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<ptr target="#A102837">MDA</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

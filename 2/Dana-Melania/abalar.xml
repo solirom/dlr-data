@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6ef2bad-7f84-5afd-3377-3545e4f94cb2">NALR</ptr>
+								<ptr target="#A100633">NALR</ptr>
 								<date>&lt;1963–1964&gt;</date>
 								<citedRange/>
 							</bibl>
@@ -83,7 +83,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-c5dc2876-3f78-671a-720d-2d61256f9bd8">dgds</ptr>
+						<ptr target="#A102599">dgds</ptr>
 						<date>2009</date>
 						<citedRange/>
 					</bibl>

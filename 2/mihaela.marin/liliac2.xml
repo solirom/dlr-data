@@ -58,7 +58,7 @@
                             <cit type="unknown">
                                 <quote>Liliacul vulgar.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-5f89fb56-6e22-a6e3-1951-00cfe7dc5030"/>
+                                    <ptr target="#A104724"/>
                                     <date/>
                                     <citedRange>41/22</citedRange>
                                 </bibl>
@@ -82,7 +82,7 @@
                             <cit type="unknown">
                                 <quote>Liliacull urecheat</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3"/>
+                                    <ptr target="#A101144"/>
                                     <date/>
                                     <citedRange>28</citedRange>
                                 </bibl>
@@ -90,7 +90,7 @@
                             <cit type="unknown">
                                 <quote>liliac de noapte</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3"/>
+                                    <ptr target="#A101144"/>
                                     <date/>
                                     <citedRange>28</citedRange>
                                 </bibl>
@@ -98,7 +98,7 @@
                             <cit type="unknown">
                                 <quote>des întâlnit la noi este liliacul urecheat</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-5b7c6173-4abd-14da-73ab-dc137bc37fa1"/>
+                                    <ptr target="#A104663"/>
                                     <date/>
                                     <citedRange>18</citedRange>
                                 </bibl>
@@ -113,11 +113,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-5d7fd3f7-60de-4834-9783-1d9f154ce09f" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="saying"/>
                                 <term>Umblă noaptea ca
                                 lililecii</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-17045b04-f708-43bc-bf59-848ee5559d2f">se zice despre cei răi şi desfrânaţi</def>
                             <cit type="unknown">
                                 <quote/>
@@ -129,10 +129,10 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7f21088e-df55-4b16-a21d-823e132d1242" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="saying"/>
                                 <term>Stă ascuns ca un liliac</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-88122c29-b83d-4e31-bc6e-db647b6f4d14">se zice despre cei care duc o viaţă retrasă</def>
                             <cit type="unknown">
                                 <quote/>
@@ -241,14 +241,14 @@
                     </gramGrp>
                     <usg><seg type="time" rend="usg">înv.</seg></usg>
                     <bibl type="unknown">
-                        <ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92"/>
+                        <ptr target="#A101803"/>
                         <date/>
                         <citedRange/>
                     </bibl>
                 </re>
                 <re type="lexical-variant-section">
                     <bibl type="unknown">
-                        <ptr target="#uuid-84aa5d82-1319-2815-821f-e9f5680923de"/>
+                        <ptr target="#A101533"/>
                         <date/>
                         <citedRange/>
                     </bibl>

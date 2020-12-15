@@ -60,7 +60,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">goles</ptr>
+								<ptr target="#A101120">goles</ptr>
 								<date>c. 1832</date>
 								<citedRange/>
 							</bibl>
@@ -70,7 +70,7 @@
 								carile dimineața în ziua răposării au iscălit formalnică <hi rend="bold">abjurație</hi> (lepedare) înaintea multor
 								martori.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albin</ptr>
+								<ptr target="#A102555">albin</ptr>
 								<date>1838</date>
 								<citedRange>181<hi rend="superscript">1</hi>/9</citedRange>
 							</bibl>
@@ -79,7 +79,7 @@
 							<quote>Războiul încetase; o <hi rend="bold">abjuraţie</hi> solemnelă
 								dete iarăşi pe Henri IV Franţei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ca9621c5-1069-82bd-41aa-dc11514a2a0f">educ</ptr>
+								<ptr target="#A105053">educ</ptr>
 								<date>1846</date>
 								<citedRange>22/18</citedRange>
 							</bibl>
@@ -89,7 +89,7 @@
 								mărinimiei tale, ci cade asupra intoleranţiei ... neamului întunecat
 								în care ai trăit. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-001d5e43-1815-2868-673e-ab77d1080907">minune</ptr>
+								<ptr target="#A100791">minune</ptr>
 								<date>1852</date>
 								<citedRange>76</citedRange>
 							</bibl>
@@ -98,7 +98,7 @@
 							<quote>Pentru faptul <hi rend="bold">abjuraţiunei</hi> sale, Anton primi
 								o pensiune de 500 livre, pe cari i le liberă clerul francez.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa30e1c9-9a1c-7de2-0135-b483bf367d20">călă</ptr>
+								<ptr target="#A102874">călă</ptr>
 								<date>1906</date>
 								<citedRange>43</citedRange>
 							</bibl>
@@ -144,7 +144,7 @@
 					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
 					<def>abjurăţiúne </def>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<ptr target="#A101803">pont</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
@@ -164,77 +164,77 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<ptr target="#A104011">asachi</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<ptr target="#A102700">neguli</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<ptr target="#A101929">bălă</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<ptr target="#A101803">pont</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">Lmd</ptr>
+						<ptr target="#A102654">Lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<ptr target="#A101394">șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">DN </ptr>
+						<ptr target="#A104626">DN </ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu </ptr>
+						<ptr target="#A104645">ndu </ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

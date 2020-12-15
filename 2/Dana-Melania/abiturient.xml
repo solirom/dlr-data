@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange/>
 							</bibl>
@@ -54,7 +54,7 @@
 							<quote>Clarisime! Îţi trămit alăturatele atestate, pentru d[omnul] <hi rend="bold">abituriente</hi>, fiul d-tale, în 8
 								exemplarie.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">contemp</ptr>
+								<ptr target="#A100073">contemp</ptr>
 								<date>1866</date>
 								<citedRange>253</citedRange>
 							</bibl>
@@ -64,7 +64,7 @@
 								Marian, <hi rend="bold">abiturient</hi>, suna în modul următoriu
 								[...].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-021c0ee3-7761-5ab7-a3c3-6412667d1835">marian</ptr>
+								<ptr target="#A103884">marian</ptr>
 								<date>1883</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -73,7 +73,7 @@
 							<quote>Arareori te vei întîlni cu un <hi rend="bold">abiturient</hi>
 								care să cunoască literatura grecească clasică.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+								<ptr target="#A100204">chendi</ptr>
 								<date>1895</date>
 								<citedRange>133</citedRange>
 							</bibl>
@@ -83,7 +83,7 @@
 								din cauza schimbului necontenit al cântăreţilor provenit ... prin
 								depărtarea <hi rend="bold">abiturienţilor</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bae64b49-53d3-2615-3eca-689810229b1b">șch</ptr>
+								<ptr target="#A104615">șch</ptr>
 								<date>1901</date>
 								<citedRange>360</citedRange>
 							</bibl>
@@ -91,7 +91,7 @@
 						<cit type="unknown">
 							<quote>F[ondul] <hi rend="bold">abiturienţilor</hi> din 1896. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-06b7e6d7-74b6-1b8d-75d4-ea131bcf99c4">ghib</ptr>
+								<ptr target="#A103944">ghib</ptr>
 								<date>1915</date>
 								<citedRange>189</citedRange>
 							</bibl>
@@ -101,7 +101,7 @@
 								consfătuiri şi neînţelegeri cu mamă-sa şi cu protopopul
 								Groza.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1d9627a2-3cf2-3c6f-93b5-6c8457be6c1c">spân</ptr>
+								<ptr target="#A102403">spân</ptr>
 								<date>1922</date>
 								<citedRange>35</citedRange>
 							</bibl>
@@ -110,7 +110,7 @@
 							<quote>Toţi <hi rend="bold">abiturienţii</hi> au fost siliţi să le
 								înveţe [temele] pe de rost.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3578dced-9118-9474-42d8-74c0008b6bef">stere</ptr>
+								<ptr target="#A104579">stere</ptr>
 								<date>1932</date>
 								<citedRange>452</citedRange>
 							</bibl>
@@ -159,37 +159,37 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<ptr target="#A101394">șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
@@ -199,27 +199,27 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

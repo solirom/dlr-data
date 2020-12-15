@@ -61,7 +61,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -69,7 +69,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -80,7 +80,7 @@
 								zahăr, cafea, <hi rend="bold">abaca</hi>, ulei de cocos, lemn,
 								tutun,</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c5fab402-93d8-68d2-10d1-2be43ed077a8">DER</ptr>
+								<ptr target="#A103674">DER</ptr>
 								<date>1964</date>
 								<citedRange>386</citedRange>
 							</bibl>
@@ -115,7 +115,7 @@
 								textilis Née sau <hi rend="bold">Abaca</hi>, a cărei patrie e în
 								insulele Filipine.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4ff8667f-670c-8806-57c3-ec0d17de2b5c">enc.
+								<ptr target="#A100727">enc.
 									agr</ptr>
 								<date>1942</date>
 								<citedRange>99</citedRange>
@@ -124,7 +124,7 @@
 						<cit type="unknown">
 							<quote>Culturi de orez, de trestie de zahăr, de tutun, de <hi rend="bold">abaca</hi> (cânepă de Manila).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8745fec6-0238-5b9d-8176-6297903295cb">der</ptr>
+								<ptr target="#A102948">der</ptr>
 								<date>1965</date>
 								<citedRange>185</citedRange>
 							</bibl>
@@ -132,7 +132,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -164,12 +164,12 @@
                     </usg>
 					<def>abácă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<ptr target="#A102700">negulici</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">enc. mar</ptr>
+						<ptr target="#A102831">enc. mar</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
@@ -191,32 +191,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7505c824-4f9b-72be-423d-5428fc8516ef">vamal</ptr>
+						<ptr target="#A102984">vamal</ptr>
 						<date>1930</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<ptr target="#A102361">d. enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">enc. mar</ptr>
+						<ptr target="#A102831">enc. mar</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">DAN</ptr>
+						<ptr target="#A104351">DAN</ptr>
 						<date>2013</date>
 						<citedRange/>
 					</bibl>

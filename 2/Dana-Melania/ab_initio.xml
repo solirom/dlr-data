@@ -40,7 +40,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+								<ptr target="#A100354">drlu</ptr>
 								<date>1822</date>
 								<citedRange>307</citedRange>
 							</bibl>
@@ -51,7 +51,7 @@
 								„abnepos”, „abmatertera”, „ab patruus” etc., îşi dobândise nuanţa de
 								lungă durată.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a92bea58-83e5-75ea-78a1-be6d3e9b18f1">hem</ptr>
+								<ptr target="#A102279">hem</ptr>
 								<date>1893</date>
 								<citedRange>2 457</citedRange>
 							</bibl>
@@ -64,7 +64,7 @@
 								juridic, riscurile şi aventurile sunt eliminate „<hi rend="bold">ab
 									initio</hi>”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a8cf00c8-9bd0-8a14-4515-0601aefe4ffc">pandrea</ptr>
+								<ptr target="#A101535">pandrea</ptr>
 								<date>1945</date>
 								<citedRange>295</citedRange>
 							</bibl>
@@ -73,7 +73,7 @@
 							<quote>M[itul] este conceput ca povestirea unei istorii sacre sau a unui
 								eveniment primordial care a avut loc la începutul timpului, <hi rend="bold">ab initio</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c3739564-1aa5-73ee-9946-2ea5a90b94ab">etnol</ptr>
+								<ptr target="#A103831">etnol</ptr>
 								<date>1979</date>
 								<citedRange>183</citedRange>
 							</bibl>
@@ -84,7 +84,7 @@
 								cel de al doilea caz, ele rezultă din transformarea unei obligaţii
 								simple în obligaţie complexă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5e91abb8-7a71-5abf-57c8-acfff34298ea">civ</ptr>
+								<ptr target="#A101640">civ</ptr>
 								<date>1980</date>
 								<citedRange>693</citedRange>
 							</bibl>
@@ -94,7 +94,7 @@
 								variante, clasificabile în două categorii: 1) o u l originar (<hi rend="bold">ab initio</hi>)... 2) Oul confecţionat (ad
 								hoc).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">mitol</ptr>
+								<ptr target="#A100785">mitol</ptr>
 								<date>1989</date>
 								<citedRange>447</citedRange>
 							</bibl>
@@ -104,7 +104,7 @@
 								a unui contract care să fie <hi rend="bold">ab initio</hi>
 								nul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f910d9c9-5e49-5707-1798-930b3c3e41db">afac</ptr>
+								<ptr target="#A100700">afac</ptr>
 								<date>1996</date>
 								<citedRange>38</citedRange>
 							</bibl>
@@ -115,7 +115,7 @@
 								paşte muştele” (una imaginară, ce descrie <hi rend="bold">ab
 									initio</hi> o absurditate).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a0714367-7398-1186-0293-bd151406897b">dumis</ptr>
+								<ptr target="#A104427">dumis</ptr>
 								<date>1997</date>
 								<citedRange>50</citedRange>
 							</bibl>
@@ -123,7 +123,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+								<ptr target="#A104645">ndu</ptr>
 								<date>2006</date>
 								<citedRange/>
 							</bibl>
@@ -154,52 +154,52 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-a9431bdd-6b49-39c5-3024-10bcde0fa2e2">publ</ptr>
+						<ptr target="#A104967">publ</ptr>
 						<date>1982</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+						<ptr target="#A102765">jur</ptr>
 						<date>1999</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr>
+						<ptr target="#A101959">doom</ptr>
 						<date>2005</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+						<ptr target="#A102212">dn</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-8a23a018-9dd7-18d8-3eba-6dd0be2625e9">fundam</ptr>
+						<ptr target="#A104312">fundam</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<ptr target="#A104351">dan</ptr>
 						<date>2013</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6b5944d-2886-5cc0-a498-c34639ff4a57">dgs</ptr>
+						<ptr target="#A103557">dgs</ptr>
 						<date>2013</date>
 						<citedRange/>
 					</bibl>

@@ -50,7 +50,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -58,7 +58,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<ptr target="#A102594">antonescu</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -66,7 +66,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<ptr target="#A100126">pake</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -74,7 +74,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -107,7 +107,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">scl</ptr>
+						<ptr target="#A101376">scl</ptr>
 						<date>1960</date>
 						<citedRange>I, 60</citedRange>
 					</bibl>

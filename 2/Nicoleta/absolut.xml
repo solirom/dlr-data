@@ -75,7 +75,7 @@
 									dânsele, dar fără trecere dă lucrare în vreun termenu altu, sau
 									zicere, cum: „intru în casă”, „căzu în tină” şi altele.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a46a9c10-1a71-3f83-6fc5-556f6a415c68">văcărescu</ptr>
+									<ptr target="#A101982">văcărescu</ptr>
 									<date>1787</date>
 									<citedRange>120</citedRange>
 								</bibl>
@@ -86,7 +86,7 @@
 										remâind<hi rend="bold"> absolut</hi>, adică
 									neatârnat.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-206a1f59-8d48-14ab-2a89-6ffc90d52c6e">săulescu</ptr>
+									<ptr target="#A103060">săulescu</ptr>
 									<date>1834</date>
 									<citedRange>105/6</citedRange>
 								</bibl>
@@ -94,7 +94,7 @@
 						</sense>
 						<sense xml:id="uuid-a6a5aa9d-8315-42c7-95fc-d3cc52165d66" n="2.">
 							<sense xml:id="uuid-273affaa-7823-44a1-9738-6285a5367598" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
                                         <seg type="dom" rend="usg">IST.</seg>, <seg type="dom" rend="usg">LINGV.</seg> (<seg type="hint" rend="usg">În
 											opoziţie cu <hi rend="italic">cronologie
@@ -102,7 +102,7 @@
                                         </seg>)</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Cronologie absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">cronologie care determină cu exactitate anul, luna,
 									ziua sau chiar ora la care a avut loc un eveniment, un fenomen
 									etc., fără a depinde de alţi factori.</def>
@@ -111,7 +111,7 @@
 										unei <hi rend="bold">cronologii absolute</hi> (adică ani
 										solari) a perioadelor străvechi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8708fdf2-4872-7515-3b1b-32cb6d2da3ec">Ist. româniei</ptr>
+										<ptr target="#A103188">Ist. româniei</ptr>
 										<date>1960</date>
 										<citedRange>XLV</citedRange>
 									</bibl>
@@ -121,7 +121,7 @@
 											absolută</hi>, mergând cu precizie până la secvențe mici
 										de timp.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c3739564-1aa5-73ee-9946-2ea5a90b94ab">d.
+										<ptr target="#A103831">d.
 											etnol.</ptr>
 										<date>1979</date>
 										<citedRange>81</citedRange>
@@ -132,7 +132,7 @@
 										sau <hi rend="bold">absolută </hi>a numeroase procese
 										lingvistice din epocile preliterare.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-97998761-2bb4-a7a2-13a1-55e8875a5c99">ivănescu</ptr>
+										<ptr target="#A102174">ivănescu</ptr>
 										<date>1980</date>
 										<citedRange>21</citedRange>
 									</bibl>
@@ -142,20 +142,20 @@
 										atestării unui fenomen este considerată drept limită
 										temporală superioară a apariţiei acestuia.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+										<ptr target="#A102465">dsl</ptr>
 										<date>2001</date>
 										<citedRange>149</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-630f491b-eae5-4049-938d-7c37536d7730" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FILOS.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Adevăr absolut</term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="adevăr"/>
 								<cit type="unknown">
@@ -168,13 +168,13 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-4fcca1a0-b118-49c1-be82-8a7d33a3c131" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">EC.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Plusvaloare absolută </term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="plusvaloare"/>
 								<cit type="unknown">
@@ -187,19 +187,19 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-cc68ab1c-57c4-4c9c-bccb-5af33d9e86f4" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">PSIH.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Prag senzorial absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">limita inferioară şi superioară până la care
 									funcţionează sensibilitatea de o anumită modalitate.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+										<ptr target="#A103264">dexi</ptr>
 										<date>2007</date>
 										<citedRange/>
 									</bibl>
@@ -226,7 +226,7 @@
 								<quote>Numărul lăcuitorilor se zice împoporare, carea se împarte în
 										<hi rend="bold">absolută</hi> şi rălativă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b3252980-4093-64c4-0956-a3a9305c4564">rus</ptr>
+									<ptr target="#A102580">rus</ptr>
 									<date>1842</date>
 									<citedRange>98</citedRange>
 								</bibl>
@@ -235,7 +235,7 @@
 								<quote>Stenia şi astenia sunt două deosebite, <hi rend="bold">absolute</hi> şi relative acte ale vieţii
 									organismului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d115ea1b-4782-020b-1e55-383624425eaa">episcupescul</ptr>
+									<ptr target="#A100410">episcupescul</ptr>
 									<date>1846</date>
 									<citedRange>107/4</citedRange>
 								</bibl>
@@ -246,7 +246,7 @@
 									localităţile, ne fuse peste putinţă de a ne conforma la
 									început.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a7acf5ac-8235-05d2-a0a6-8ebaac822ec2">brezoianu</ptr>
+									<ptr target="#A100823">brezoianu</ptr>
 									<date>1848</date>
 									<citedRange>86</citedRange>
 								</bibl>
@@ -255,7 +255,7 @@
 								<quote>Libertatea <hi rend="bold">absolută</hi> este cu neputinţă în
 									lume fără o deplină transformare a neamului omenesc.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f737f9a4-9941-2903-82f2-a79903c73303">russo</ptr>
+									<ptr target="#A101007">russo</ptr>
 									<date>1859 (†)</date>
 									<citedRange>184</citedRange>
 								</bibl>
@@ -265,7 +265,7 @@
 									nimeni nici mai boier, nici mai bogat, nici mai învăţat decât
 									mine.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1051e694-7630-a278-687c-59e01db29d2a">ghica</ptr>
+									<ptr target="#A102358">ghica</ptr>
 									<date>1860</date>
 									<citedRange>49</citedRange>
 								</bibl>
@@ -273,7 +273,7 @@
 							<cit type="unknown">
 								<quote>Libertatea conştiinţei este <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7b6c923b-340b-2cd9-97cb-4e40ea027f4f">const.</ptr>
+									<ptr target="#A102834">const.</ptr>
 									<date>1866</date>
 									<citedRange>XVI</citedRange>
 								</bibl>
@@ -281,7 +281,7 @@
 							<cit type="unknown">
 								<quote>Ideile abstracte se mai împart şi în alte două clase, în <hi rend="bold">absolute</hi> şi relative.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<ptr target="#A105088">conta</ptr>
 									<date>&lt;1875–1876&gt;</date>
 									<citedRange>64</citedRange>
 								</bibl>
@@ -293,7 +293,7 @@
 									de Regat ... totuşi n-ar fi nimic în toate acestea care ar putea
 									justifica cea mai mică aprehensiune.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">eminescu</ptr>
+									<ptr target="#A102329">eminescu</ptr>
 									<date>1880</date>
 									<citedRange>72</citedRange>
 								</bibl>
@@ -306,7 +306,7 @@
 									raporturi intime şi <hi rend="bold">absolute</hi> cu faptul
 									pedepsit de legea penală.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod.
+									<ptr target="#A104322">cod.
 										pen.</ptr>
 									<date>1885</date>
 									<citedRange>238</citedRange>
@@ -319,7 +319,7 @@
 									sunt nişte simpli amploiaţi particulari şi că nu intră în
 									termenii <hi rend="bold">absoluţi</hi> ai art. 144.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-942e2537-a641-4d25-4107-2be12ac50f2c">cod.
+									<ptr target="#A104322">cod.
 										pen.</ptr>
 									<date>1889</date>
 									<citedRange>140</citedRange>
@@ -331,7 +331,7 @@
 									şi mai mare interes pentru <hi rend="bold">absoluta</hi>
 									libertate a strâmtorilor ca poporul român.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a8606e86-3b51-8c24-0a17-00b1e9449e88">zamfirescu</ptr>
+									<ptr target="#A100411">zamfirescu</ptr>
 									<date>1918</date>
 									<citedRange>88</citedRange>
 								</bibl>
@@ -341,7 +341,7 @@
 									mai adânc, bestia de care mă apărasem, până atunci, cu lacrămile
 									și cu fuga pe maidan, în soare și în libertatea <hi rend="bold">absolută</hi> a jocului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d38f97bb-07ff-0dee-3f34-cac77c180e89">g. m.
+									<ptr target="#A104531">g. m.
 										zamfirescu</ptr>
 									<date>1935</date>
 									<citedRange>25</citedRange>
@@ -351,7 +351,7 @@
 								<quote>Mergerea Voevodului la vânătoare înfăţişează o regresiune în
 									mediul pastoral şi apoi într-o natură <hi rend="bold">absolută</hi>, abstrasă oricărei umanităţi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinescu</ptr>
+									<ptr target="#A102181">călinescu</ptr>
 									<date>1941</date>
 									<citedRange>557</citedRange>
 								</bibl>
@@ -360,7 +360,7 @@
 								<quote>În fiecare judeţ erau doi [ispravnici], unul român şi unul
 									grec. Dar regula nu era <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4ace733d-63c2-406c-6004-ee562a5e4992">oțetea</ptr>
+									<ptr target="#A102612">oțetea</ptr>
 									<date>1945</date>
 									<citedRange>50</citedRange>
 								</bibl>
@@ -369,7 +369,7 @@
 								<quote>O origine <hi rend="bold">absolută</hi> [a metaforei] nu este
 									cu putinţă de stabilit.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<ptr target="#A103266">vianu</ptr>
 									<date>1957</date>
 									<citedRange>209</citedRange>
 								</bibl>
@@ -378,7 +378,7 @@
 								<quote>Mărturisirea ortodoxă nu este neştiută ... cu fanatismul
 									propriu credinţelor într-o pretinsă doctrină <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8a826689-2fef-2da5-7a76-e1ba73023fb0">blaga</ptr>
+									<ptr target="#A103704">blaga</ptr>
 									<date>1961 (†)</date>
 									<citedRange>101</citedRange>
 								</bibl>
@@ -386,7 +386,7 @@
 							<cit type="unknown">
 								<quote>Răul este <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+									<ptr target="#A102864">teatrul</ptr>
 									<date>1969</date>
 									<citedRange>februarie, 80</citedRange>
 								</bibl>
@@ -395,7 +395,7 @@
 								<quote>Fiinţa nu are nevoie, spre a se împlini, de instanţe <hi rend="bold">absolute</hi>, şi chiar împăraţii din basme …
 									recurg în cele din urmă la instanţe mai apropiate.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c6969a5d-80e5-7dbb-9c36-22fdadfd4c9e">noica</ptr>
+									<ptr target="#A101620">noica</ptr>
 									<date>1978</date>
 									<citedRange>114</citedRange>
 								</bibl>
@@ -404,7 +404,7 @@
 								<quote>Nu ne facem decât datoria <hi rend="bold">absolută</hi> de a
 									fi suflet în sufletul celor ce ne-au crescut.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flacăra</ptr>
+									<ptr target="#A102493">flacăra</ptr>
 									<date>1985</date>
 									<citedRange>nr. 4, 15</citedRange>
 								</bibl>
@@ -417,7 +417,7 @@
 									s-a dus nu numai la nivel doctrinar, dar şi, într-o oarecare
 									măsură, la nivel parlamentar.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-abcbd07f-5a0f-2d76-8d54-1ce0b304981c">djuvara</ptr>
+									<ptr target="#A103867">djuvara</ptr>
 									<date>1999</date>
 									<citedRange>213</citedRange>
 								</bibl>
@@ -428,7 +428,7 @@
 									personală şi reflectă, mai mult ori mai puţin explicit, viziunea
 									autorului narator.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+									<ptr target="#A102465">dsl</ptr>
 									<date>2001</date>
 									<citedRange>334</citedRange>
 								</bibl>
@@ -438,7 +438,7 @@
 									coincidenţă <hi rend="bold">absolută</hi> cu trăirea reală pe
 									care vrea să o comunice.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-57fb8696-3cfb-3fca-4a2e-25ac0eac13c5">djuvara</ptr>
+									<ptr target="#A100549">djuvara</ptr>
 									<date>2004</date>
 									<citedRange>23</citedRange>
 								</bibl>
@@ -448,7 +448,7 @@
 									mare mit, al superiorităţii <hi rend="bold">absolute</hi> a
 									cărţii străine asupra celei româneşti.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+									<ptr target="#A100940">marino</ptr>
 									<date>2005 (†)</date>
 									<citedRange>132</citedRange>
 								</bibl>
@@ -468,7 +468,7 @@
 									dobitoceștile sale instincturi, se înfățoșază la nenorocitul
 									bolnav toate adevăratele însușiri animale.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">albineț</ptr>
+									<ptr target="#A100383">albineț</ptr>
 									<date>1838</date>
 									<citedRange>13/23</citedRange>
 								</bibl>
@@ -479,7 +479,7 @@
 									se cercetează direcția osului fără a-l compara cu celelalte oase
 									din schelet.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kretzulescu</ptr>
+									<ptr target="#A103303">kretzulescu</ptr>
 									<date>1843</date>
 									<citedRange>17</citedRange>
 								</bibl>
@@ -488,7 +488,7 @@
 								<quote>În timpul sarcinii are loc o scădere <hi rend="bold">absolută</hi> şi relativă a numărului limfocitelor
 									T-helper.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">viața
+									<ptr target="#A104207">viața
 										medic.</ptr>
 									<date>1991</date>
 									<citedRange>III, nr. 55, 3</citedRange>
@@ -497,7 +497,7 @@
 							<cit type="unknown">
 								<quote>Prevalența poate fi exprimată în cifre <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">d.
+									<ptr target="#A102325">d.
 										medical</ptr>
 									<date>2007</date>
 									<citedRange>839</citedRange>
@@ -514,7 +514,7 @@
 										<quote>Să fie subordinaţi toţi sub o singură magistratură
 											fără responsabilitate, întărită cu <hi rend="bold">absolută</hi> putere.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">aristia</ptr>
+											<ptr target="#A103762">aristia</ptr>
 											<date>1857</date>
 											<citedRange>359/14</citedRange>
 										</bibl>
@@ -526,26 +526,26 @@
 											plenipotenţiarul pe care celălalt şef de stat îl va
 											desemna, toate acordurile.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-a9431bdd-6b49-39c5-3024-10bcde0fa2e2">d. dr.</ptr>
+											<ptr target="#A104967">d. dr.</ptr>
 											<date>1982</date>
 											<citedRange>113</citedRange>
 										</bibl>
 									</cit>
 								</sense>
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Putere absolută </term>
-								</form>
-								<form type="unitate-semantică-subsumată">
+								</re>
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Autoritate absolută </term>
-								</form>
+								</re>
 								<def xml:id="id">putere sau autoritate care nu cunoaşte limite, fără
 									control.</def>
 								<cit type="unknown">
 									<quote>Diana semăna că are o autoritate <hi rend="bold">absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+										<ptr target="#A101958">curier</ptr>
 										<date>1842</date>
 										<citedRange>271<hi rend="superscript">2</hi>/30</citedRange>
 									</bibl>
@@ -555,7 +555,7 @@
 										a întemeia o putere <hi rend="bold">absolută</hi>, micşorând
 										puterea semeţilor vasali.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a2e06563-72b4-90c5-74eb-fdd0c3773329">florian</ptr>
+										<ptr target="#A104082">florian</ptr>
 										<date>1845</date>
 										<citedRange>104/17</citedRange>
 									</bibl>
@@ -566,7 +566,7 @@
 										cel mai deplin al cuvântului. Despotismul asiatic, iată
 										caracterul domniei româneşti.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e64caadd-6b57-9a77-9653-0b635ba91faf">xenopol</ptr>
+										<ptr target="#A104436">xenopol</ptr>
 										<date>1890</date>
 										<citedRange>161</citedRange>
 									</bibl>
@@ -574,7 +574,7 @@
 								<cit type="unknown">
 									<quote>Oficiile erau legate de puterea <hi rend="bold">absolută</hi> a statului.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chendi</ptr>
+										<ptr target="#A100204">chendi</ptr>
 										<date>1899</date>
 										<citedRange>288</citedRange>
 									</bibl>
@@ -582,7 +582,7 @@
 								<cit type="unknown">
 									<quote>Domnitorul, în principiu, avea autoritate <hi rend="bold">absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">barnoschi</ptr>
+										<ptr target="#A102844">barnoschi</ptr>
 										<date>1922</date>
 										<citedRange>10</citedRange>
 									</bibl>
@@ -592,7 +592,7 @@
 										trebuie căutat în înseşi împrejurările în care s-au format
 										Principatele.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e81deab4-1eab-8865-8bb7-ac54215747df">filitti</ptr>
+										<ptr target="#A102552">filitti</ptr>
 										<date>1929</date>
 										<citedRange>7</citedRange>
 									</bibl>
@@ -603,7 +603,7 @@
 										Ele apar ca un simbol al forţei dominatoare a Papilor sau a
 										suveranilor cu putere <hi rend="bold">absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d70fc9f4-05ba-116e-75a9-216763f46e94">oprescu</ptr>
+										<ptr target="#A101643">oprescu</ptr>
 										<date>1945</date>
 										<citedRange>13</citedRange>
 									</bibl>
@@ -612,7 +612,7 @@
 									<quote>Țarul urmărea stabilirea unui stat centralizat, cu
 										caracter laic, bazat pe autoritatea <hi rend="bold">absolută</hi> a monarhului.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8fda3e49-5357-7844-4167-23dbfa5515b0">ist. lit.</ptr>
+										<ptr target="#A100442">ist. lit.</ptr>
 										<date>1964</date>
 										<citedRange>631</citedRange>
 									</bibl>
@@ -622,7 +622,7 @@
 										formula prin care în Basilicale era definită puterea <hi rend="bold">absolută</hi> a guver¬natorului de
 										provincie.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a82d83aa-4820-129c-7ca7-20c319494da9">georgescu</ptr>
+										<ptr target="#A103564">georgescu</ptr>
 										<date>1981</date>
 										<citedRange>25</citedRange>
 									</bibl>
@@ -630,7 +630,7 @@
 								<cit type="unknown">
 									<quote>Domnul exercita o putere <hi rend="bold">absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d.
+										<ptr target="#A103998">d.
 											inst.</ptr>
 										<date>1988</date>
 										<citedRange>170</citedRange>
@@ -640,7 +640,7 @@
 									<quote>Zeii nu au putere <hi rend="bold">absolută</hi>, putând
 										fi amăgiţi de alţi zei sau chiar de oameni.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+										<ptr target="#A100785">d.
 											mitol.</ptr>
 										<date>1989</date>
 										<citedRange>374</citedRange>
@@ -654,7 +654,7 @@
 										modificări profunde în psihologia ofiţerilor de
 										securitate.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44">cărtărescu</ptr>
+										<ptr target="#A104617">cărtărescu</ptr>
 										<date>1996</date>
 										<citedRange>281</citedRange>
 									</bibl>
@@ -665,28 +665,28 @@
 										guvern cu putere <hi rend="bold">absolută</hi>. Există
 										parlament, există opinie publică.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-abcbd07f-5a0f-2d76-8d54-1ce0b304981c">djuvara</ptr>
+										<ptr target="#A103867">djuvara</ptr>
 										<date>1999</date>
 										<citedRange>254</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-a0eab17b-9480-4d5f-a847-2f403d0a73b7" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">POLIT.</seg> (<seg type="hint" rend="usg">În opoziție cu <hi rend="italic">monarhie
 												constituțională</hi>
                                         </seg>) </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Monarhie absolută </term>
-								</form>
+								</re>
 								<def xml:id="id">formă de guvernare a statului în care monarhul are
 									puteri nelimitate.</def>
 								<cit type="unknown">
 									<quote>Dictatura … este un feliu de <hi rend="bold">monarhie
 											„absolută”</hi> [Notă de subsol].</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e216d68f-73d6-48ba-12b0-898c5a9045f2">budai</ptr>
+										<ptr target="#A103095">budai</ptr>
 										<date>1812</date>
 										<citedRange>375</citedRange>
 									</bibl>
@@ -697,7 +697,7 @@
 										are drept nu numai a chivernisi statul, dară a da şi legi
 										după plăcere.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b3252980-4093-64c4-0956-a3a9305c4564">rus</ptr>
+										<ptr target="#A102580">rus</ptr>
 										<date>1842</date>
 										<citedRange>107</citedRange>
 									</bibl>
@@ -709,7 +709,7 @@
 										constituţiune cu două camere şi guvern directorial, la
 										1799.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-9c694572-18a0-00de-3f49-ec4465251d00">maiorescu</ptr>
+										<ptr target="#A103054">maiorescu</ptr>
 										<date>1867</date>
 										<citedRange>465</citedRange>
 									</bibl>
@@ -719,7 +719,7 @@
 											<hi rend="bold">monarhii absolute</hi> înmuiate prin
 										reforme rezultânde din revoluţiuni.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">bolliac</ptr>
+										<ptr target="#A104668">bolliac</ptr>
 										<date>1870</date>
 										<citedRange>272</citedRange>
 									</bibl>
@@ -728,7 +728,7 @@
 									<quote>Tirania <hi rend="bold">monarhiei absolute</hi> ...
 										oprimă poporul.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-6ecc73b4-1709-1961-9a71-055f740d07c4">lahovari</ptr>
+										<ptr target="#A104809">lahovari</ptr>
 										<date>1889</date>
 										<citedRange>227</citedRange>
 									</bibl>
@@ -739,7 +739,7 @@
 										dezvoltat în <hi rend="bold">monarhiile
 										absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bf779331-7a1f-491d-1ee3-ed783e022073">delavrancea</ptr>
+										<ptr target="#A100528">delavrancea</ptr>
 										<date>1897</date>
 										<citedRange>308</citedRange>
 									</bibl>
@@ -749,7 +749,7 @@
 										nelimitate, subordonând adesea puterile publice şi chiar
 										interesele naţionale.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d0fca518-3013-4365-670e-79621b875ada">bart</ptr>
+										<ptr target="#A101989">bart</ptr>
 										<date>1926</date>
 										<citedRange>396</citedRange>
 									</bibl>
@@ -758,7 +758,7 @@
 									<quote>De la urcarea pe tron a lui Diocleţian, imperiul devine o
 											<hi rend="bold">monarchie absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-dfafff9a-0d97-7840-78da-aa3fd8549e9f">hamangiu</ptr>
+										<ptr target="#A103286">hamangiu</ptr>
 										<date>1930</date>
 										<citedRange>106</citedRange>
 									</bibl>
@@ -770,7 +770,7 @@
 										care poate nu existau în realitate, dar care le va creşte
 										prestigiul pentru cei care le priveau imaginea.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d70fc9f4-05ba-116e-75a9-216763f46e94">oprescu</ptr>
+										<ptr target="#A101643">oprescu</ptr>
 										<date>1945</date>
 										<citedRange>30</citedRange>
 									</bibl>
@@ -780,7 +780,7 @@
 										contemporani ai <hi rend="bold">monarhiei
 										absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8fda3e49-5357-7844-4167-23dbfa5515b0">ist. lit.</ptr>
+										<ptr target="#A100442">ist. lit.</ptr>
 										<date>1964</date>
 										<citedRange>281</citedRange>
 									</bibl>
@@ -789,7 +789,7 @@
 									<quote>Generalul-stat … nu a rezistat ca <hi rend="bold">monarhie absolută</hi> nici măcar în anii
 										regimului.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+										<ptr target="#A105067">viața</ptr>
 										<date>1982</date>
 										<citedRange>iulie, 51</citedRange>
 									</bibl>
@@ -800,7 +800,7 @@
 										informaţiile necesare în scopul realizării operei de reforme
 										pe care o urmăreau.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d.
+										<ptr target="#A103998">d.
 											inst.</ptr>
 										<date>1988</date>
 										<citedRange>121</citedRange>
@@ -811,7 +811,7 @@
 										activitatea executivă se realizează exclusiv de către
 										suveran şi un consiliu de coroană numit de acesta.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c5e4a58f-7117-08a7-005a-ad9ab5408318">d.
+										<ptr target="#A100881">d.
 											adm.</ptr>
 										<date>2000</date>
 										<citedRange>96</citedRange>
@@ -819,19 +819,19 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-062e4ad9-6165-46cb-97dc-ce6b89e10fd8" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
                                         <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
                                     </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Mandat absolut </term>
-								</form>
+								</re>
 								<def xml:id="id">mandat de la îndeplinirea căruia nu se poate
 									sustrage nimeni.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. rom.</ptr>
+										<ptr target="#A101816">enc. rom.</ptr>
 										<date>1898</date>
 										<citedRange/>
 									</bibl>
@@ -846,7 +846,7 @@
 									<quote>Oltul cunoaşte acum o altă măreţie: aceea a câmpiei <hi rend="bold">absolute</hi>. Cât poate cuprinde ochiul ea
 										se întinde nemărginită, ca suprafaţa mării.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">bogza</ptr>
+										<ptr target="#A101781">bogza</ptr>
 										<date>1945</date>
 										<citedRange>383</citedRange>
 									</bibl>
@@ -865,7 +865,7 @@
 										când la cel cosmic având drept de folosire liberă toate
 										statele.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">d.
+										<ptr target="#A102508">d.
 											astron.</ptr>
 										<date>1977</date>
 										<citedRange>124</citedRange>
@@ -877,7 +877,7 @@
 										ivit între S.U.A. şi Mexic în legătură cu utilizarea apelor
 										fluviului Rio Grande.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a9431bdd-6b49-39c5-3024-10bcde0fa2e2">d.
+										<ptr target="#A104967">d.
 											dr.</ptr>
 										<date>1982</date>
 										<citedRange>118</citedRange>
@@ -888,7 +888,7 @@
 										condiţii (cum ar fi superioritatea <hi rend="bold">absolută</hi> faţă de adversar), un factor important
 										fiind raportul de putere între părţi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-1f813652-98fc-362f-6fca-5bb7fe256171">d.
+										<ptr target="#A103994">d.
 											com.</ptr>
 										<date>2007</date>
 										<citedRange>139</citedRange>
@@ -906,7 +906,7 @@
 											desfrânarea e de toţi văzută, Dincolea ruşinea de mult
 											timp s-a dus.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e1c84733-88b8-8c86-a0c6-3f0f8c5c1a2d">orășanu</ptr>
+											<ptr target="#A102894">orășanu</ptr>
 											<date>1858</date>
 											<citedRange>7/1</citedRange>
 										</bibl>
@@ -914,7 +914,7 @@
 									<cit type="unknown">
 										<quote>Apele rămân ... stăpâne <hi rend="bold">absolute</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">bogza</ptr>
+											<ptr target="#A101781">bogza</ptr>
 											<date>1945</date>
 											<citedRange>79</citedRange>
 										</bibl>
@@ -930,7 +930,7 @@
 											început pe proprietarul <hi rend="bold">absolut</hi> al
 											casei şi a tot ce-i aparţine, „capul familiei”.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-27292d75-2bf0-9f6f-3360-c31e62136a74">columna</ptr>
+											<ptr target="#A101184">columna</ptr>
 											<date>1882</date>
 											<citedRange>III, nr. 6, 367</citedRange>
 										</bibl>
@@ -938,7 +938,7 @@
 									<cit type="unknown">
 										<quote>Asta înseamnă că eşti stăpân <hi rend="bold">absolut</hi> pe filele ce trimit.</quote>
 										<bibl type="în">
-											<ptr target="#uuid-1e1b8ed2-5135-3c53-6407-49fcbefa6300">ST. DOC.</ptr>
+											<ptr target="#A101680">ST. DOC.</ptr>
 											<date>1907</date>
 											<citedRange>129</citedRange>
 										</bibl>
@@ -947,7 +947,7 @@
 										<quote>Învechit şi ridicol i se părea obiceiul de a da
 											raportul zilnic către soţul-şef, suveran <hi rend="bold">absolut</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-3516f253-93a9-38b7-0d9c-3962e2870da8">bart</ptr>
+											<ptr target="#A103667">bart</ptr>
 											<date>1933</date>
 											<citedRange>101</citedRange>
 										</bibl>
@@ -960,7 +960,7 @@
 											le construiau după bunul lor plac şi în care se simţeau
 											stăpâni <hi rend="bold">absoluţi</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negulescu</ptr>
+											<ptr target="#A104066">negulescu</ptr>
 											<date>1934</date>
 											<citedRange>78</citedRange>
 										</bibl>
@@ -969,7 +969,7 @@
 										<quote>Iată cum, Grigore Alexandrescu poate consuna
 											sensibilităţii noastre estetice şi morale, ca liric <hi rend="bold">absolut</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-725668dc-7afb-81ef-4563-55b2e84a8483">negoițescu</ptr>
+											<ptr target="#A100229">negoițescu</ptr>
 											<date>1966</date>
 											<citedRange>65</citedRange>
 										</bibl>
@@ -977,7 +977,7 @@
 									<cit type="unknown">
 										<quote>Soţul se considera stăpân <hi rend="bold">absolut</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+											<ptr target="#A101955">românia</ptr>
 											<date>1982</date>
 											<citedRange>2, nr. 15, 7</citedRange>
 										</bibl>
@@ -993,7 +993,7 @@
 									<quote>Acel om cu un suflet aşa mare Şi proprietăţi neasămănate
 										Să să facă apoi, prin o tâmplare, Monarh <hi rend="bold">absolut </hi>într-o cetate.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e216d68f-73d6-48ba-12b0-898c5a9045f2">budai</ptr>
+										<ptr target="#A103095">budai</ptr>
 										<date>1812</date>
 										<citedRange>339</citedRange>
 									</bibl>
@@ -1003,7 +1003,7 @@
 										chipul regelui celui mai <hi rend="bold">absolu</hi>t,
 										Ludovic XIV.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-cf3f6bb8-93a0-11bb-03ca-f0e98bd23bfd">codru</ptr>
+										<ptr target="#A101544">codru</ptr>
 										<date>1842</date>
 										<citedRange>165</citedRange>
 									</bibl>
@@ -1011,7 +1011,7 @@
 								<cit type="unknown">
 									<quote>Un aşa domnitoriu se zice monarh nerăstrâns sau <hi rend="bold">absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b3252980-4093-64c4-0956-a3a9305c4564">rus</ptr>
+										<ptr target="#A102580">rus</ptr>
 										<date>1842</date>
 										<citedRange>107</citedRange>
 									</bibl>
@@ -1024,7 +1024,7 @@
 										pământ, dar şi peste tot ce slujea a-l esploata, ... ei erau
 										foarte slabi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fd4fa00e-a624-5970-8c5f-3673e1be2c56">bălcescu</ptr>
+										<ptr target="#A100984">bălcescu</ptr>
 										<date>1844</date>
 										<citedRange>155</citedRange>
 									</bibl>
@@ -1036,7 +1036,7 @@
 										pentru noi, n-a apucat să se familiariseze nici cu limba
 										vorbitoare din sânul său.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-18dd370b-7736-2301-379c-1fd4f4ac07d7">orășanu</ptr>
+										<ptr target="#A104743">orășanu</ptr>
 										<date>1858</date>
 										<citedRange>5</citedRange>
 									</bibl>
@@ -1045,7 +1045,7 @@
 									<quote>Pe ţeranii cei liberi se arunca dări după voinţa şi
 										trebuinţele domnilor, care erau <hi rend="bold">absoluţi</hi> întru aceasta.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-9fe72e5e-75ae-692b-1015-2d679d4598ad">sion</ptr>
+										<ptr target="#A102752">sion</ptr>
 										<date>1863</date>
 										<citedRange>46</citedRange>
 									</bibl>
@@ -1056,7 +1056,7 @@
 										dreptul împăraţi, însă cu o umbră de aparinţă republicană,
 										succesorii lor rămân împăraţi <hi rend="bold">absoluţi</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-9c694572-18a0-00de-3f49-ec4465251d00">maiorescu</ptr>
+										<ptr target="#A103054">maiorescu</ptr>
 										<date>1867</date>
 										<citedRange>466</citedRange>
 									</bibl>
@@ -1065,7 +1065,7 @@
 									<quote>Ce este domnul în această Constituţiune ? – Suveran <hi rend="bold">absolut</hi>, infailibil, inviolabil,
 										nereponsabil de nicio faptă a sa.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">bolliac</ptr>
+										<ptr target="#A104668">bolliac</ptr>
 										<date>1870</date>
 										<citedRange>269</citedRange>
 									</bibl>
@@ -1078,7 +1078,7 @@
 										din urne decât creaturi ale unei persoane, ale unui singur
 										om, ale despotului, ale d-lui I. Brătianu.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bb2c7d7e-a5b7-2bf0-9de7-6403c27481dd">eminesc</ptr>
+										<ptr target="#A104357">eminesc</ptr>
 										<date>1882</date>
 										<citedRange>213</citedRange>
 									</bibl>
@@ -1087,7 +1087,7 @@
 									<quote>Fiecare magnat este domn <hi rend="bold">absolut</hi> ca
 										şi un principe.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+										<ptr target="#A103315">barițiu</ptr>
 										<date>1889</date>
 										<citedRange>78</citedRange>
 									</bibl>
@@ -1096,7 +1096,7 @@
 									<quote>Cum spuneam, vătaful e stăpân <hi rend="bold">absolut</hi>. El are toate veniturile, el concesionează
 										toate negustoriile.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-84435b80-4ac1-6948-0083-e4ee518a0028">damian</ptr>
+										<ptr target="#A101459">damian</ptr>
 										<date>1932</date>
 										<citedRange>26</citedRange>
 									</bibl>
@@ -1106,7 +1106,7 @@
 										că Führer-ul e stăpân <hi rend="bold">absolut</hi> şi
 										necontestat pe spiritul maselor.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">argetoianu</ptr>
+										<ptr target="#A101386">argetoianu</ptr>
 										<date>1936</date>
 										<citedRange>437</citedRange>
 									</bibl>
@@ -1120,7 +1120,7 @@
 										înşişi, despre menirea, persoana şi rostul lor în
 										lume.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d70fc9f4-05ba-116e-75a9-216763f46e94">oprescu</ptr>
+										<ptr target="#A101643">oprescu</ptr>
 										<date>1945</date>
 										<citedRange>75</citedRange>
 									</bibl>
@@ -1129,7 +1129,7 @@
 									<quote>Un monarh <hi rend="bold">absolut</hi>, chiar dacă ar
 										avea toate virtuţile nu trăieşte veşnic.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8a826689-2fef-2da5-7a76-e1ba73023fb0">blaga</ptr>
+										<ptr target="#A103704">blaga</ptr>
 										<date>1961 (†)</date>
 										<citedRange>218</citedRange>
 									</bibl>
@@ -1137,7 +1137,7 @@
 								<cit type="unknown">
 									<quote>Recunoaşte drept legitimă existenţa unui monarh <hi rend="bold">absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b1033b48-40db-676e-9711-cd7ec46a7c5a">teatrul</ptr>
+										<ptr target="#A102864">teatrul</ptr>
 										<date>1969</date>
 										<citedRange>ianuarie, 107</citedRange>
 									</bibl>
@@ -1145,7 +1145,7 @@
 								<cit type="unknown">
 									<quote>Iniţial, regele era conducătorul <hi rend="bold">absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">drimba</ptr>
+										<ptr target="#A101931">drimba</ptr>
 										<date>1984</date>
 										<citedRange>75</citedRange>
 									</bibl>
@@ -1154,7 +1154,7 @@
 									<quote>Împăratul era şeful <hi rend="bold">absolut</hi> al
 										armatei, al administraţiei şi al tezaurului.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c5e4a58f-7117-08a7-005a-ad9ab5408318">d.
+										<ptr target="#A100881">d.
 											adm.</ptr>
 										<date>2000</date>
 										<citedRange>56</citedRange>
@@ -1172,7 +1172,7 @@
 									interesul şi atenţia; unul general mare şi răsboinic viteas ...
 									Celalt viteas şi înţelept ... care prin despotismul cel mai <hi rend="bold">absolut</hi> civiliza o naţie sălbatică.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-96e4ed93-0037-77a9-50a7-4977c7f8126c">alexandrescu</ptr>
+									<ptr target="#A100831">alexandrescu</ptr>
 									<date>1842</date>
 									<citedRange>XXXII</citedRange>
 								</bibl>
@@ -1183,7 +1183,7 @@
 									directorial, la 1799, constituţiune consulară, la 1804, imperiu
 										<hi rend="bold">absolut</hi>, la 1814.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9c694572-18a0-00de-3f49-ec4465251d00">maiorescu</ptr>
+									<ptr target="#A103054">maiorescu</ptr>
 									<date>1867</date>
 									<citedRange>465</citedRange>
 								</bibl>
@@ -1193,7 +1193,7 @@
 									anevoie îşi pot da şi câştiga o educaţiune politică
 									sănătoasă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-08409e73-4e1b-3471-1700-a9e3fce61bc7">barițiu</ptr>
+									<ptr target="#A103269">barițiu</ptr>
 									<date>1890</date>
 									<citedRange>620</citedRange>
 								</bibl>
@@ -1202,7 +1202,7 @@
 								<quote>Domnia <hi rend="bold">absolută</hi> este aceea cari nu-i
 									normată şi nu recunoaşte niciun fel de lege positivă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+									<ptr target="#A101816">enc.
 										rom.</ptr>
 									<date>1898</date>
 									<citedRange>12</citedRange>
@@ -1212,7 +1212,7 @@
 								<quote>El [Eminescu] dezvoltă acum pe larg teoria domniei <hi rend="bold">absolute</hi>, singura formă bună de
 									guvernământ.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8e88a321-085e-2e76-23e3-b7ef47100283">ibrăileanu</ptr>
+									<ptr target="#A101560">ibrăileanu</ptr>
 									<date>1908</date>
 									<citedRange>1 017</citedRange>
 								</bibl>
@@ -1221,7 +1221,7 @@
 								<quote>Tot hotarul era în stăpânirea <hi rend="bold">absolută</hi> a
 									vechilor locuitori.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-eeb57517-67b9-6278-1afa-2b6804f17446">păcală</ptr>
+									<ptr target="#A100475">păcală</ptr>
 									<date>1915</date>
 									<citedRange>51</citedRange>
 								</bibl>
@@ -1232,7 +1232,7 @@
 									totuși niciodată atât de <hi rend="bold">absolută</hi> ca în
 									celelalte țări ale Europei Orientale.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8bbacc14-98f1-7844-3256-78141bd51d99">brătianu</ptr>
+									<ptr target="#A103770">brătianu</ptr>
 									<date>1940</date>
 									<citedRange>113</citedRange>
 								</bibl>
@@ -1240,7 +1240,7 @@
 							<cit type="unknown">
 								<quote>Lovitura de stat a însemnat şi drumul către ... dictatura <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+									<ptr target="#A105067">viața
 										rom.</ptr>
 									<date>1982</date>
 									<citedRange>noiembrie, 46</citedRange>
@@ -1251,7 +1251,7 @@
 									pragmatism dur, destinat în primul rând să justifice divinitatea
 									regalităţii <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+									<ptr target="#A100785">d.
 										mitol</ptr>
 									<date>1989</date>
 									<citedRange>391</citedRange>
@@ -1273,7 +1273,7 @@
 											la aldehida acetică, etc, produse chimice cari nu se
 											găsesc în natură, ci trebue fabricate.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-90d0782a-2063-8e69-471e-05b71ff49ac2">angelescu</ptr>
+											<ptr target="#A103976">angelescu</ptr>
 											<date>1904</date>
 											<citedRange>33</citedRange>
 										</bibl>
@@ -1286,7 +1286,7 @@
 											ridicat la <hi rend="bold">majoritate
 											absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-9e93481b-0603-5bd6-632c-616a12db8454">prodan</ptr>
+											<ptr target="#A102730">prodan</ptr>
 											<date>1944</date>
 											<citedRange>13</citedRange>
 										</bibl>
@@ -1297,7 +1297,7 @@
 											inscripţiilor slave vechi identificate la Murfatlar sunt
 											scrise în alfabet chirilic.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-549a91b1-0aa7-5d18-476f-6db377664a13">mihăilă</ptr>
+											<ptr target="#A101256">mihăilă</ptr>
 											<date>1972</date>
 											<citedRange>99</citedRange>
 										</bibl>
@@ -1307,7 +1307,7 @@
                                             <hi rend="bold">Majoritatea absolută</hi> a
 											mormintelor sunt dacice.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-762a8ac0-2258-91c9-703c-7d0ae2ea0df5">d. enc.</ptr>
+											<ptr target="#A104212">d. enc.</ptr>
 											<date>1980</date>
 											<citedRange>217</citedRange>
 										</bibl>
@@ -1316,7 +1316,7 @@
 										<quote>Aprinderea unui foc nu se hotăra decât prin vot, şi
 											anume dacă propunerea „pentru” obţinea o <hi rend="bold">majoritate absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d075226c-2c70-7d40-67fc-10b6030346d7">blandiana</ptr>
+											<ptr target="#A101203">blandiana</ptr>
 											<date>1982</date>
 											<citedRange>147</citedRange>
 										</bibl>
@@ -1326,23 +1326,23 @@
                                             <hi rend="bold">Majoritatea absolută</hi> o
 											reprezintă însă cuplul soț-soție.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">d. enc.</ptr>
+											<ptr target="#A102556">d. enc.</ptr>
 											<date>1984</date>
 											<citedRange>709</citedRange>
 										</bibl>
 									</cit>
 								</sense>
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Majoritate absolută</term>
-								</form>
-								<form type="unitate-semantică-subsumată">
+								</re>
+								<re type="unitate-semantică-subsumată">
 									<usg>
                                         <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
                                     </usg>
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Maioritate absolută </term>
-								</form>
+								</re>
 								<def xml:id="id">majoritate egală cu jumătate plus unu din numărul
 									total de voturi valabil exprimate în urma unui scrutin.</def>
 								<cit type="unknown">
@@ -1352,7 +1352,7 @@
 										cu dreptul că n-are origină, că născătorii ei n au fost
 										nobili.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-5aa4b4d7-78b6-5879-0e34-e5b375e552ec">bolliac</ptr>
+										<ptr target="#A104668">bolliac</ptr>
 										<date>1858</date>
 										<citedRange>144</citedRange>
 									</bibl>
@@ -1361,7 +1361,7 @@
 									<quote>Comitetul nostru districtuale constă din 64 membri, între
 										cari 44 români, 2 saşi; prin urmare avem <hi rend="bold">maioritate absolută</hi>.</quote>
 									<bibl type="ap.">
-										<ptr target="#uuid-8e51aece-810f-423a-6d77-c493cf7973bd">b.
+										<ptr target="#A104740">b.
 											contemp.</ptr>
 										<date>1865</date>
 										<citedRange>227</citedRange>
@@ -1372,7 +1372,7 @@
 										ieşind din urnă, care nu ştiu daca la întâia votare vor
 										întruni <hi rend="bold">majoritatea absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-4bbb0c99-2911-9283-6c72-643f06354004">kogălniceanu</ptr>
+										<ptr target="#A100888">kogălniceanu</ptr>
 										<date>1873</date>
 										<citedRange>334</citedRange>
 									</bibl>
@@ -1380,7 +1380,7 @@
 								<cit type="unknown">
 									<quote>Rezultatul votului este: votanţi ... 52 <hi rend="bold">majoritatea absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+										<ptr target="#A101950">mo</ptr>
 										<date>1878</date>
 										<citedRange>nr. 24, 1 021</citedRange>
 									</bibl>
@@ -1389,7 +1389,7 @@
 									<quote>În cazul în care nu s-ar obține o <hi rend="bold">majoritate absolută</hi>, se va putea proceda la
 										alegere și cu majoritate relativă.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-0c21e14f-4671-8e87-09e7-8c6275419cfd">argetoianu</ptr>
+										<ptr target="#A104308">argetoianu</ptr>
 										<date>1941</date>
 										<citedRange>116</citedRange>
 									</bibl>
@@ -1399,7 +1399,7 @@
 										(jumătate plus unu) nici la consiliul Facultăţii, nici la
 										Senat.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-3447b573-2f10-0337-6245-2ca97f974937">iordan</ptr>
+										<ptr target="#A105284">iordan</ptr>
 										<date>1977</date>
 										<citedRange>190</citedRange>
 									</bibl>
@@ -1408,7 +1408,7 @@
 									<quote>Fiecare candidat trebuie să obţină, pentru a fi ales, <hi rend="bold">majoritatea absolută</hi> de voturi a
 										fiecărui organ.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a9431bdd-6b49-39c5-3024-10bcde0fa2e2">d.
+										<ptr target="#A104967">d.
 											dr.</ptr>
 										<date>1982</date>
 										<citedRange>19</citedRange>
@@ -1421,7 +1421,7 @@
 										Parlament ori, dacă nu există o asemenea majoritate, a
 										partidelor reprezentate în Parlament.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-0fcc69ac-0c44-50f7-37a2-8cfeb11d0a14">const.</ptr>
+										<ptr target="#A102038">const.</ptr>
 										<date>1991</date>
 										<citedRange>41</citedRange>
 									</bibl>
@@ -1430,7 +1430,7 @@
 									<quote>Colegiul ia hotărâri cu <hi rend="bold">majoritatea
 											absolută</hi> a membrilor ce îl compun.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-f910d9c9-5e49-5707-1798-930b3c3e41db">d.
+										<ptr target="#A100700">d.
 											dr.</ptr>
 										<date>1996</date>
 										<citedRange>422</citedRange>
@@ -1440,7 +1440,7 @@
 									<quote>Hotărârile se iau de acţionari care deţin <hi rend="bold">majoritatea absolută</hi> din capitalul social
 										reprezentat în adunare.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+										<ptr target="#A100630">d.
 											dr.</ptr>
 										<date>1997</date>
 										<citedRange>36</citedRange>
@@ -1451,7 +1451,7 @@
 										referă la jumătate plus unu din numărul total al voturilor
 										ce se pot exprima.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c5e4a58f-7117-08a7-005a-ad9ab5408318">d.
+										<ptr target="#A100881">d.
 											adm.</ptr>
 										<date>2000</date>
 										<citedRange>92</citedRange>
@@ -1467,7 +1467,7 @@
 												absolută</hi> pentru Grecia) a capodoperei lui
 											George Enescu, „Oedip”.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+											<ptr target="#A102040">contemp.</ptr>
 											<date>1966</date>
 											<citedRange>nr. 10, 1</citedRange>
 										</bibl>
@@ -1476,7 +1476,7 @@
 										<quote>O piesă densă ... prezentată în<hi rend="bold">
 												premieră absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+											<ptr target="#A102040">contemp.</ptr>
 											<date>1981</date>
 											<citedRange>nr. 8, 9</citedRange>
 										</bibl>
@@ -1486,7 +1486,7 @@
                                             <hi rend="bold">Premieră absolută</hi> în faţa
 											publicului.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flacăra</ptr>
+											<ptr target="#A102493">flacăra</ptr>
 											<date>1981</date>
 											<citedRange>nr. 44, 24</citedRange>
 										</bibl>
@@ -1495,7 +1495,7 @@
 										<quote>S-au transmis piese în <hi rend="bold">premieră
 												absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+											<ptr target="#A101955">românia</ptr>
 											<date>1981</date>
 											<citedRange>nr. 6, 16</citedRange>
 										</bibl>
@@ -1505,7 +1505,7 @@
 											Brăila a fost deschisă cu <hi rend="bold">premiera
 												absolută</hi> a piesei „Pânda”.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-dc772c7b-568e-2ff5-1a82-1eb63dde252a">luceafărul</ptr>
+											<ptr target="#A103418">luceafărul</ptr>
 											<date>1986</date>
 											<citedRange>nr. 5, 5</citedRange>
 										</bibl>
@@ -1522,7 +1522,7 @@
 											acest an de uzina «Tehnoutilaj» din Odorheiul
 											Secuiesc.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+											<ptr target="#A101955">românia</ptr>
 											<date>1973</date>
 											<citedRange>în DCR<hi rend="superscript">3</hi>,
 												157</citedRange>
@@ -1533,16 +1533,16 @@
 											istoria tehnicii drept <hi rend="bold">premiere
 												absolute</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e8b9de67-a672-03e6-9730-2f259c223ac7">drimba</ptr>
+											<ptr target="#A104931">drimba</ptr>
 											<date>1994</date>
 											<citedRange>212</citedRange>
 										</bibl>
 									</cit>
 								</sense>
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Premieră absolută</term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<cit type="unknown">
 									<quote/>
@@ -1554,17 +1554,17 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-9222ebdb-1ca3-47bf-8cc2-70cb1e0739de" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">SPORT</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Campion mondial absolut</term>
-								</form>
-								<form type="unitate-semantică-subsumată">
+								</re>
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 									<term>Campion absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">concurent căruia i se acordă cel mai înalt titlu al
 									sezonului sportiv în disciplina respectivă.</def>
 								<cit type="unknown">
@@ -1574,7 +1574,7 @@
 										celebre frica lui Freud de a călători cu trenul sau frica de
 										avion a fostului <hi rend="bold">campion</hi> mondial <hi rend="bold">absolut</hi> la box Cassius Clay.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-58a0859c-046d-6832-04d5-ed80c7aa7495">d.
+										<ptr target="#A104932">d.
 											enc.</ptr>
 										<date>1988</date>
 										<citedRange>381</citedRange>
@@ -1584,7 +1584,7 @@
 									<quote>
                                         <hi rend="bold">Campioană absolută</hi> la sol.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+										<ptr target="#A103264">dexi</ptr>
 										<date>2007</date>
 										<citedRange/>
 									</bibl>
@@ -1601,7 +1601,7 @@
 							<cit type="unknown">
 								<quote>Lume ale cărei prejudiţii sânt <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2ddfa547-a65b-6aeb-0a06-2dc7795968d9">teulescu</ptr>
+									<ptr target="#A101973">teulescu</ptr>
 									<date>1847</date>
 									<citedRange>35/31</citedRange>
 								</bibl>
@@ -1613,7 +1613,7 @@
 									dezvoltarea <hi rend="bold">absolută</hi> a cugetării şi a
 									lucrării omeneşti în timp şi în spaţiu.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1218469b-584b-539a-8718-05a3b41544de">bălcescu</ptr>
+									<ptr target="#A103277">bălcescu</ptr>
 									<date>&lt;1849–1852&gt;</date>
 									<citedRange>11</citedRange>
 								</bibl>
@@ -1624,7 +1624,7 @@
 									elementele vieţei interioare și publice afişate de D. de
 									Villefort.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2bd61632-8ee7-6121-7452-2116b9fd00d7">baronzi</ptr>
+									<ptr target="#A102958">baronzi</ptr>
 									<date>1857</date>
 									<citedRange>61/21</citedRange>
 								</bibl>
@@ -1637,7 +1637,7 @@
 									adunaţi, apoi se aleseră 4 deputaţi p[entru] Miercurea, din
 									maioritatea ce votă pentru abstinenţă <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="în">
-									<ptr target="#uuid-329b7f36-9f5f-393c-47b5-b72f011d4aea">b.
+									<ptr target="#A100844">b.
 										contemp.</ptr>
 									<date>1869</date>
 									<citedRange>190</citedRange>
@@ -1648,7 +1648,7 @@
 									sunt sprijinit de un sentiment penibil de gol, care mă oboseşte
 									cumplit şi în sfârşit mă face de ameţesc.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<ptr target="#A105088">conta</ptr>
 									<date>&lt;1875–1876&gt;</date>
 									<citedRange>76</citedRange>
 								</bibl>
@@ -1661,7 +1661,7 @@
 									mai folositoare şi mai spornică decât precupeţirea
 									spirtului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-62db2471-25b4-99e9-361f-89b3041514a9">eminescu</ptr>
+									<ptr target="#A101229">eminescu</ptr>
 									<date>1881</date>
 									<citedRange>444</citedRange>
 								</bibl>
@@ -1670,7 +1670,7 @@
 								<quote>Să se recunoască <hi rend="bold">absoluta</hi>, imperioasa
 									necesitate de a duce tinerimea la neşte şcoale undeva.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">barițiu</ptr>
+									<ptr target="#A103315">barițiu</ptr>
 									<date>1898</date>
 									<citedRange>401</citedRange>
 								</bibl>
@@ -1679,7 +1679,7 @@
 								<quote>O trebuinţă <hi rend="bold">absolută</hi> de a-l vedea,
 									prinse fiinţă în sufletul ei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0debe162-9574-1dc3-5bf6-a921dded4042">zamfirescu</ptr>
+									<ptr target="#A103799">zamfirescu</ptr>
 									<date>1911</date>
 									<citedRange>624</citedRange>
 								</bibl>
@@ -1687,7 +1687,7 @@
 							<cit type="unknown">
 								<quote>Muncitorimea luptă pentru ideea de justiţie <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7588d4ac-3e0a-7394-02b7-fe9566747333">camil</ptr>
+									<ptr target="#A101461">camil</ptr>
 									<date>1918</date>
 									<citedRange>278</citedRange>
 								</bibl>
@@ -1696,7 +1696,7 @@
 								<quote>Dar autoritatea criticilor este, după cum se vede, o
 									fatalitate <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<ptr target="#A100757">zarifopol</ptr>
 									<date>1926</date>
 									<citedRange>144</citedRange>
 								</bibl>
@@ -1706,7 +1706,7 @@
 									sine, ci, cu toată neschimbarea dogmelor sale, ea inundă în
 									suflete.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f0d968d0-563c-3021-a42f-3768d94e3a4a">stăniloae</ptr>
+									<ptr target="#A101477">stăniloae</ptr>
 									<date>1937</date>
 									<citedRange>34</citedRange>
 								</bibl>
@@ -1715,7 +1715,7 @@
 								<quote>[Guvernantele] ne priveau de sus, din înnălţimea rasei, şi ne
 									dispreţuiau, tocmai pentru încrederea <hi rend="bold">absolută</hi> pe care le-ai acordat-o.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">arghezi</ptr>
+									<ptr target="#A100631">arghezi</ptr>
 									<date>1942</date>
 									<citedRange>67</citedRange>
 								</bibl>
@@ -1724,7 +1724,7 @@
 								<quote>Mado care era serios îndrăgostită de el, … [î]şi făcuse din
 									el idealul unic, <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bc70e524-94d7-94b3-1a8b-e210e9d378d0">eftimiu</ptr>
+									<ptr target="#A101191">eftimiu</ptr>
 									<date>1952</date>
 									<citedRange>58</citedRange>
 								</bibl>
@@ -1733,7 +1733,7 @@
 								<quote>Nu am certitudinea <hi rend="bold">absolută</hi> a ...
 									confuziei lui Iordanes.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c439c08d-3cca-12f2-2d50-02a0def6043f">daicoviciu</ptr>
+									<ptr target="#A104639">daicoviciu</ptr>
 									<date>1965</date>
 									<citedRange>92</citedRange>
 								</bibl>
@@ -1741,7 +1741,7 @@
 							<cit type="unknown">
 								<quote>În realitate Anglia suferise o înfrângere <hi rend="bold">absolută</hi> şi totală.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">preda</ptr>
+									<ptr target="#A102333">preda</ptr>
 									<date>1975</date>
 									<citedRange>129</citedRange>
 								</bibl>
@@ -1751,7 +1751,7 @@
 									există nici concurenţa pură, aşa cum este ea descrisă în teoria
 									economică, nici monopol <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-56cf603c-909d-2f31-a464-f544557f3d65">abc</ptr>
+									<ptr target="#A102893">abc</ptr>
 									<date>1991</date>
 									<citedRange>27</citedRange>
 								</bibl>
@@ -1761,7 +1761,7 @@
 									chiar ridicolă, pretenţiunea de a te dedica unei mari cercetări?
 									Operei <hi rend="bold">absolute</hi>!?!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23">adameșteanu</ptr>
+									<ptr target="#A100122">adameșteanu</ptr>
 									<date>1997 (1983)</date>
 									<citedRange>127</citedRange>
 								</bibl>
@@ -1770,7 +1770,7 @@
 								<quote>Viteza vântului este redusă până la calm <hi rend="bold">absolut</hi> pe suprafeţe întinse din partea centrală a
 									anticiclonului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d85bebef-4e76-33a9-522e-2f1e39ab6f4c">ciulache</ptr>
+									<ptr target="#A102999">ciulache</ptr>
 									<date>2003</date>
 									<citedRange>105</citedRange>
 								</bibl>
@@ -1780,7 +1780,7 @@
 									coincidenţă <hi rend="bold">absolută</hi> cu trăirea reală pe
 									care vrea să o comunice.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-57fb8696-3cfb-3fca-4a2e-25ac0eac13c5">djuvara</ptr>
+									<ptr target="#A100549">djuvara</ptr>
 									<date>2004</date>
 									<citedRange>23</citedRange>
 								</bibl>
@@ -1791,7 +1791,7 @@
 									(„k”, „g”) şi consoanelor urmate de („i”) asilabic, prezente în
 									finală <hi rend="bold">absolută</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+									<ptr target="#A103471">d.
 										logop.</ptr>
 									<date>2011</date>
 									<citedRange>103</citedRange>
@@ -1817,7 +1817,7 @@
 									înfrunta puterea ..., <hi rend="bold">absoluţi</hi> ei însuşi în
 									proprietăţile lor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-96e4ed93-0037-77a9-50a7-4977c7f8126c">alexandrescu</ptr>
+									<ptr target="#A100831">alexandrescu</ptr>
 									<date>1842</date>
 									<citedRange>LVII</citedRange>
 								</bibl>
@@ -1831,7 +1831,7 @@
 									pentru patrie ca să se apropie printr-înşii mai mult de cele ce
 									dorea şi ţara.</quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-a82d83aa-4820-129c-7ca7-20c319494da9">georgescu</ptr>
+									<ptr target="#A103564">georgescu</ptr>
 									<date>1857</date>
 									<citedRange>25</citedRange>
 								</bibl>
@@ -1840,7 +1840,7 @@
 								<quote>Acest om ar fi jucat un mare rol politic dacă nu ar fi fost
 										<hi rend="bold">absolut</hi> în ideile sale.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe">ghica</ptr>
+									<ptr target="#A101178">ghica</ptr>
 									<date>1881</date>
 									<citedRange>215</citedRange>
 								</bibl>
@@ -1850,7 +1850,7 @@
 									compune din esteţi <hi rend="bold">absoluţi</hi> şi
 									pasionaţi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<ptr target="#A100757">zarifopol</ptr>
 									<date>1926</date>
 									<citedRange>76</citedRange>
 								</bibl>
@@ -1860,7 +1860,7 @@
 									naturii căreia i se suprapune creaţia <hi rend="bold">absolută</hi>, viziunea personală, eminamente suverană pe
 									resursele ei interioare.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b550a618-8322-0cb7-3f95-29396cd95889">constantinescu</ptr>
+									<ptr target="#A102282">constantinescu</ptr>
 									<date>&lt;1926–1928&gt;</date>
 									<citedRange>251</citedRange>
 								</bibl>
@@ -1868,7 +1868,7 @@
 							<cit type="unknown">
 								<quote>Cuvintele rostite exprimau un simţământ sincer, <hi rend="bold">absolut</hi>, total.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-db4a01b3-7b5c-7461-a19e-3fb46b1c0cba">petrescu</ptr>
+									<ptr target="#A102639">petrescu</ptr>
 									<date>1931</date>
 									<citedRange>69</citedRange>
 								</bibl>
@@ -1877,7 +1877,7 @@
 								<quote>În Ştefan cel Mare este exemplificată cu un rar noroc
 									psihologia autocratului, a tatălui de familie <hi rend="bold">absolut</hi> şi în sfârşit a bătrânului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-cecb5888-97e5-33e3-986d-921dfca896fb">călinesc</ptr>
+									<ptr target="#A102181">călinesc</ptr>
 									<date>1941</date>
 									<citedRange>506</citedRange>
 								</bibl>
@@ -1886,7 +1886,7 @@
 								<quote>Femeile sunt <hi rend="bold">absolute</hi> în
 									dragoste.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-59f1699b-8514-2a93-985d-cfcd20de0a61">vlasiu</ptr>
+									<ptr target="#A100226">vlasiu</ptr>
 									<date>1947</date>
 									<citedRange>315</citedRange>
 								</bibl>
@@ -1895,7 +1895,7 @@
 								<quote>[În schele] sunt şefii puternici şi <hi rend="bold">absoluţi</hi> care fac armată cu oamenii din serviciul
 									lor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-98ff2ee1-10a4-6bda-2b3e-f086b90a02d6">bogza</ptr>
+									<ptr target="#A100310">bogza</ptr>
 									<date>1953</date>
 									<citedRange>43</citedRange>
 								</bibl>
@@ -1905,7 +1905,7 @@
 									Spiritul <hi rend="bold">absolut</hi> al lui Eminescu se
 									trădează şi aci.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+									<ptr target="#A104526">călinescu</ptr>
 									<date>1964 (1932)</date>
 									<citedRange>185</citedRange>
 								</bibl>
@@ -1913,7 +1913,7 @@
 							<cit type="unknown">
 								<quote>Era prizonierul absolut al stării lui de spirit.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+									<ptr target="#A103162">ivasiuc</ptr>
 									<date>1970</date>
 									<citedRange>105</citedRange>
 								</bibl>
@@ -1921,7 +1921,7 @@
 							<cit type="unknown">
 								<quote>Deposedat de tot, să fie dascăl sau învins absolut.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+									<ptr target="#A101955">românia</ptr>
 									<date>1983</date>
 									<citedRange>nr. 44, 9</citedRange>
 								</bibl>
@@ -1935,7 +1935,7 @@
 									<quote>Uniunile unei fracţii sânt ecvale între ele şi, <hi rend="bold">absolut</hi> socotite, au tot acele
 										proprietăţi ca şi numerile întregi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-7d28bb55-7ce9-577c-5435-ef30579227c7">asachi</ptr>
+										<ptr target="#A102931">asachi</ptr>
 										<date>1836</date>
 										<citedRange>68/9</citedRange>
 									</bibl>
@@ -1945,7 +1945,7 @@
 										intervalul de temperatură, în general crescând cu acest
 										interval.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">marian</ptr>
+										<ptr target="#A100691">marian</ptr>
 										<date>1948</date>
 										<citedRange>93</citedRange>
 									</bibl>
@@ -1963,7 +1963,7 @@
 											unei câtimi algebrice, valoarei numerice a acestei
 											câtimi luată fără niciun semn.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-b54b8268-113f-09f9-3cb8-d2d96d6f6193">culianu</ptr>
+											<ptr target="#A101055">culianu</ptr>
 											<date>1872</date>
 											<citedRange>7</citedRange>
 										</bibl>
@@ -1972,7 +1972,7 @@
 										<quote>Rezultatele determinărilor de azot, fosfor şi
 											potasiu, accesibil plantelor, nu au o <hi rend="bold">valoare absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-78c43e43-6dff-9a62-2322-da5fb0f163d7">agrotehnica</ptr>
+											<ptr target="#A102890">agrotehnica</ptr>
 											<date>1958</date>
 											<citedRange>323</citedRange>
 										</bibl>
@@ -1981,7 +1981,7 @@
 										<quote>Primul factor este rădăcina pătrată din <hi rend="bold">valoarea absolută</hi> a numărului
 											negativ.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-90845155-9e5e-4402-5abf-88fb97344005">man.</ptr>
+											<ptr target="#A100718">man.</ptr>
 											<date>1962</date>
 											<citedRange>278</citedRange>
 										</bibl>
@@ -1989,7 +1989,7 @@
 									<cit type="unknown">
 										<quote>Unghiurile de rotaţie au aceeaşi <hi rend="bold">valoare absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d. chim.</ptr>
+											<ptr target="#A102231">d. chim.</ptr>
 											<date>1964</date>
 											<citedRange>100</citedRange>
 										</bibl>
@@ -1999,7 +1999,7 @@
 											tangent la sfera cerească se poate determina numai în
 												<hi rend="bold">valoare absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">d. astron.</ptr>
+											<ptr target="#A102508">d. astron.</ptr>
 											<date>1977</date>
 											<citedRange>393</citedRange>
 										</bibl>
@@ -2010,7 +2010,7 @@
 											în <hi rend="bold">valoare absolută</hi>, distanţele
 											punctului faţă de două axe perpendiculare.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d. e.</ptr>
+											<ptr target="#A102051">d. e.</ptr>
 											<date>1978</date>
 											<citedRange>68</citedRange>
 										</bibl>
@@ -2024,7 +2024,7 @@
 											valoare absolută la salariul de bază luat în calcul
 											conform lit. a).</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+											<ptr target="#A101950">mo</ptr>
 											<date>1992</date>
 											<citedRange>3</citedRange>
 										</bibl>
@@ -2032,7 +2032,7 @@
 									<cit type="unknown">
 										<quote>Principiul libertăţii părţilor nu are însă <hi rend="bold">valoare absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-2cc0410c-73ef-2fc6-8247-079709a140c4">d. dr.</ptr>
+											<ptr target="#A103353">d. dr.</ptr>
 											<date>1998</date>
 											<citedRange>74</citedRange>
 										</bibl>
@@ -2040,7 +2040,7 @@
 									<cit type="unknown">
 										<quote>Când un număr este rotunjit prin adaos, <hi rend="bold">valoarea</hi> sa <hi rend="bold">absolută</hi> nu descreşte.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-9dba8051-1809-9f54-4a9b-b3d4501f6935">dex</ptr>
+											<ptr target="#A104670">dex</ptr>
 											<date>2000</date>
 											<citedRange>149</citedRange>
 										</bibl>
@@ -2056,7 +2056,7 @@
 											atomului, <hi rend="bold">valoarea</hi> ei <hi rend="bold">absolută</hi> fiind egală cu suma
 											sarcinilor electronilor. </quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">sanielevici</ptr>
+											<ptr target="#A104973">sanielevici</ptr>
 											<date>1956 (1944)</date>
 											<citedRange>32</citedRange>
 										</bibl>
@@ -2066,7 +2066,7 @@
 											exterior un lucru mecanic egal (în <hi rend="bold">valoare absolută</hi>) cu cantitatea de căldură
 											cedată de maşină izvorului rece.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d. fiz</ptr>
+											<ptr target="#A104288">d. fiz</ptr>
 											<date>1972</date>
 											<citedRange>56</citedRange>
 										</bibl>
@@ -2086,7 +2086,7 @@
 											vitezei acestuia, ci profilul (forma) curbei vitezei
 											sunetului în adâncime.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">d. enc</ptr>
+											<ptr target="#A102831">d. enc</ptr>
 											<date>2006</date>
 											<citedRange>527</citedRange>
 										</bibl>
@@ -2101,7 +2101,7 @@
 										<quote>[Eminescu] pare că el însuşi e cuprins uneori de un
 											perspicace scepticism în privinţa <hi rend="bold">valorii</hi> lui <hi rend="bold">absolute</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d820e6ba-4740-9e39-19ef-736f88bca52e">galaction</ptr>
+											<ptr target="#A101333">galaction</ptr>
 											<date>1911</date>
 											<citedRange>74</citedRange>
 										</bibl>
@@ -2111,7 +2111,7 @@
 											de Alexandru Riecevski …, o veritabilă operă de artă de
 											o <hi rend="bold">valoare absolută</hi> în sine.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6">botta</ptr>
+											<ptr target="#A100697">botta</ptr>
 											<date>1930</date>
 											<citedRange>207</citedRange>
 										</bibl>
@@ -2122,7 +2122,7 @@
 											trebuiesc să decurgă toate celelalte valori ale vieţii
 											naţionale.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">crainic</ptr>
+											<ptr target="#A103476">crainic</ptr>
 											<date>1936</date>
 											<citedRange>164</citedRange>
 										</bibl>
@@ -2134,7 +2134,7 @@
 												<hi rend="bold">valorilor absolute</hi> sau
 											neputinţa acceptării radicalismului.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-d85bf052-8eb5-28b6-034f-838f134e0770">pandrea</ptr>
+											<ptr target="#A103009">pandrea</ptr>
 											<date>1946</date>
 											<citedRange>104</citedRange>
 										</bibl>
@@ -2143,7 +2143,7 @@
 										<quote>Gigi ... n-avea acea linişte a omului încrezător în
 												<hi rend="bold">valoarea</hi> sa <hi rend="bold">absolută</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-9acb0abe-6a2c-a073-9f97-b9d0ec0f23d2">călinescu</ptr>
+											<ptr target="#A104219">călinescu</ptr>
 											<date>1963 (1960)</date>
 											<citedRange>433</citedRange>
 										</bibl>
@@ -2154,7 +2154,7 @@
 												<hi rend="bold">valoare absolută</hi> împotriva
 											celui căruia îi fusese încredinţată paza sa.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">lovinescu</ptr>
+											<ptr target="#A100725">lovinescu</ptr>
 											<date>1984 (†)</date>
 											<citedRange>16</citedRange>
 										</bibl>
@@ -2165,16 +2165,16 @@
 											pseudo-valori, <hi rend="bold">valori</hi> relative, în
 											locul celor <hi rend="bold">absolute</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-28611808-23c3-2b94-66e4-7f0cea2d469a">jinga</ptr>
+											<ptr target="#A102366">jinga</ptr>
 											<date>2001</date>
 											<citedRange>95</citedRange>
 										</bibl>
 									</cit>
 								</sense>
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Valoare absolută</term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<cit type="unknown">
 									<quote/>
@@ -2186,13 +2186,13 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-326b1e6f-853b-40e1-9d62-4f3549fc4ad5" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Mişcare absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">deplasarea unui corp faţă de un sistem de referinţă
 									fix.</def>
 								<cit type="unknown">
@@ -2200,7 +2200,7 @@
                                         <hi rend="bold">Mişcarea</hi> este <hi rend="bold">absolută</hi> când corpul îşi schimbă locul său în
 										spaţiu faţă cu un alt corp.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-6395b18b-4219-61fc-37c7-633006e74cec">poni</ptr>
+										<ptr target="#A104134">poni</ptr>
 										<date>1891</date>
 										<citedRange>7</citedRange>
 									</bibl>
@@ -2209,7 +2209,7 @@
 									<quote>Să constatăm, pe de altă parte, că potenţialul φ
 										reprezintă <hi rend="bold">mişcarea absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-ecc9cd5b-5121-40d0-94e7-981ef6833cb1">carafoli</ptr>
+										<ptr target="#A100439">carafoli</ptr>
 										<date>1951</date>
 										<citedRange>360</citedRange>
 									</bibl>
@@ -2220,7 +2220,7 @@
 										noţiune lipsită de sens, iar viteza luminii în vid în
 										oricare sistem inerţial este o constantă.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										<ptr target="#A104288">d.
 											fiz</ptr>
 										<date>1972</date>
 										<citedRange>176</citedRange>
@@ -2228,17 +2228,17 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-fe71a196-62a6-460a-9ece-8861d8533018" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Altitudine absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">înălțimea unui punct de pe suprafața scoarței
 									terestre față de nivelul mediu al Oceanului Planetar.</def>
 								<cit type="unknown">
 									<quote>Un relief de maturitate, găsindu-se acum la <hi rend="bold">altitudinea absolută</hi> de 600–700 m, pare
 										a coincide cu terasa superioară.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b9f5fa04-113e-7766-6368-e076797c3aab">vâlsan</ptr>
+										<ptr target="#A103073">vâlsan</ptr>
 										<date>1915</date>
 										<citedRange>245</citedRange>
 									</bibl>
@@ -2247,7 +2247,7 @@
 									<quote>[Forma de relief] este caracterizată prin <hi rend="bold">altitudine absolută</hi> mare, de obicei peste 800
 										m.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-59df1f00-a0ab-4b61-47c7-fe85ba8ba5b5">d.
+										<ptr target="#A101529">d.
 											geomorf</ptr>
 										<date>1974</date>
 										<citedRange>117</citedRange>
@@ -2255,13 +2255,13 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-77bb7b78-7687-4cb9-966a-15e03d1dc6be" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">AGRIC.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Greutate absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">greutate a unui număr de 1 000 de seminţe,
 									exprimată în grame, necesară aprecierii calităţii seminţelor şi
 									stabilirii normelor de semănat.</def>
@@ -2269,7 +2269,7 @@
 									<quote>Se ia ca bază <hi rend="bold">greutăţile absolut</hi>
                                         <hi rend="bold">e</hi> ale bumbacului.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-51aac52c-070e-6afa-4ac8-962fc9676ea6">ionescu</ptr>
+										<ptr target="#A103724">ionescu</ptr>
 										<date>1947</date>
 										<citedRange>52</citedRange>
 									</bibl>
@@ -2279,27 +2279,27 @@
 										acoperite cu peri albicioşi. Boabele mari, cu <hi rend="bold">greutate absolută</hi> de 170 gr. Soi bogat
 										în ulei.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bab6605c-8878-11e0-79d2-4207383e122d">flora</ptr>
+										<ptr target="#A105211">flora</ptr>
 										<date>1957</date>
 										<citedRange>451</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-09e4ad18-f236-4dd9-b168-bdaa564bf55b" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Temperatură absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">temperatură exprimată în grade Kelvin, pornind de
 									la zero absolut.</def>
 								<cit type="unknown">
 									<quote>La temperaturi foarte joase, ea [căldura] creşte cam
 										proporţional cu puterea a treia a <hi rend="bold">temperaturii absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">țițeica</ptr>
+										<ptr target="#A100691">țițeica</ptr>
 										<date>1948</date>
 										<citedRange>98</citedRange>
 									</bibl>
@@ -2309,7 +2309,7 @@
 										cu 6° temperatura în grade Celsius vom avea, pentru
 										viscozitatea aerului μ = 0,0000176.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-12465c42-3445-67a7-8d0b-c5dbf41a2164">carafoli</ptr>
+										<ptr target="#A104956">carafoli</ptr>
 										<date>1952</date>
 										<citedRange>13</citedRange>
 									</bibl>
@@ -2318,7 +2318,7 @@
 									<quote>Pentru substanţele paramagnetice, susceptibilitatea
 										magnetică (x) este invers proporţională cu <hi rend="bold">temperatura absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+										<ptr target="#A102231">d.
 											chim</ptr>
 										<date>1964</date>
 										<citedRange>210</citedRange>
@@ -2328,7 +2328,7 @@
 									<quote>„P” este presiunea gazului, „n” numărul particulelor pe
 										unitatea de volum, „k” constanta lui Boltzmann, iar „T”<hi rend="bold"> temperatura absolută</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-29e83fc1-97b3-7226-68da-e0f272ae8ff6">d.
+										<ptr target="#A102508">d.
 											astron</ptr>
 										<date>1977</date>
 										<citedRange>130</citedRange>
@@ -2339,7 +2339,7 @@
 										ioni, molecule) determină <hi rend="bold">temperatura
 											absolută</hi> a corpului respectiv.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d.
+										<ptr target="#A102051">d.
 											e.</ptr>
 										<date>1978</date>
 										<citedRange>12</citedRange>
@@ -2350,25 +2350,25 @@
                                         <hi rend="bold">Temperaturi absolute</hi> de 200–300
 										grade.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+										<ptr target="#A102040">contemp</ptr>
 										<date>1981</date>
 										<citedRange>nr. 8, 5</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-509dba0c-259f-42d2-af12-538a570967cc" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Timp absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">timpul în care durata unui fenomen e independentă
 									de starea cinematică a sistemului de referinţă la care e
 									raportată.</def>
 								<bibl type="unknown" subtype="bibl-for-def">
-									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<ptr target="#A100914">ltr</ptr>
 									<date>1949</date>
 									<citedRange>8</citedRange>
 								</bibl>
@@ -2376,27 +2376,27 @@
 									<quote>Mecanica clasică admitea ... un <hi rend="bold">timp
 											absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<ptr target="#A102835">dumitriu</ptr>
 										<date>1975 (1969)</date>
 										<citedRange> 545</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-87dacc98-3b48-4585-85d2-207ddbbf60c6" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Spaţiu absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">spaţiul fizic euclidian în care dimensiunile
 									corpurilor sunt independente de starea cinematică a sistemului
 									de referinţă la care sunt raportate.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+										<ptr target="#A100914">ltr</ptr>
 										<date>1949</date>
 										<citedRange>8</citedRange>
 									</bibl>
@@ -2405,46 +2405,46 @@
 									<quote>Mecanica clasică admitea ... un <hi rend="bold">spaţiu
 											absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<ptr target="#A102835">dumitriu</ptr>
 										<date>1975 (1969)</date>
 										<citedRange>545</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-32fcb390-3cbd-4179-8529-067f4f1c8901" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">AV.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Înălţime absolută de zbor</term>
-								</form>
+								</re>
 								<def xml:id="id">înălţime la care se găseşte aeronava faţă de
 									nivelul mării, când efectuează un zbor de fotografiere asupra
 									unei regiuni date.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+										<ptr target="#A100914">ltr</ptr>
 										<date>1949</date>
 										<citedRange>8</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-c0692ea3-b21f-4509-99bd-5362eedcc0e0" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Viteză absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">viteza unui corp considerată în ea însăşi.</def>
 								<cit type="unknown">
 									<quote>W<hi rend="subscript">k</hi> este <hi rend="bold">vitesa
 											absolută</hi> a punctului omolog de pe cerc.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-ecc9cd5b-5121-40d0-94e7-981ef6833cb1">carafoli</ptr>
+										<ptr target="#A100439">carafoli</ptr>
 										<date>1951</date>
 										<citedRange>47</citedRange>
 									</bibl>
@@ -2454,7 +2454,7 @@
                                         <hi rend="bold">Vitesa absolută</hi> de intrare V<hi rend="subscript">x</hi> face unghiul δ<hi rend="subscript">1</hi> cu tangenta la circonferinţa
 										exterioară a roţii de rază r<hi rend="subscript">1</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-12465c42-3445-67a7-8d0b-c5dbf41a2164">carafoli</ptr>
+										<ptr target="#A104956">carafoli</ptr>
 										<date>1952</date>
 										<citedRange>114</citedRange>
 									</bibl>
@@ -2465,39 +2465,39 @@
 											<hi rend="bold">viteza absolută</hi> a pământului (faţă
 										de eter).</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-968a7396-5d02-01f1-2100-662da6519f7f">dumitriu</ptr>
+										<ptr target="#A102835">dumitriu</ptr>
 										<date>1975 (1969)</date>
 										<citedRange>545</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-91d462e3-8256-4fea-9bbc-2e0d31664a2a" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Deviaţie absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">diferenţa dintre un element şi un punct dat.</def>
 								<cit type="unknown">
 									<quote>Unghiurile ... reprezintă <hi rend="bold">deviaţiile
 											absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">sanielevici</ptr>
+										<ptr target="#A104973">sanielevici</ptr>
 										<date>1956 (1944)</date>
 										<citedRange>158</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-7102e864-8d77-424a-8d30-bfced11328f8" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Eroare absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">valoarea absolută a diferenței dintre valoarea
 									exactă a unei mărimi și cea obținută în urma unei măsurări sau a
 									calculului.</def>
@@ -2505,7 +2505,7 @@
 									<quote>Raportul dintre <hi rend="bold">eroarea absolută</hi> şi
 										valoarea mărimii determinate.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+										<ptr target="#A102231">d.
 											chim</ptr>
 										<date>1964</date>
 										<citedRange>278</citedRange>
@@ -2516,7 +2516,7 @@
 										valoarea reală (sau valoarea medie) poartă numele de eroare
 										relativă.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										<ptr target="#A104288">d.
 											fiz</ptr>
 										<date>1972</date>
 										<citedRange>172</citedRange>
@@ -2524,13 +2524,13 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-14976adb-a7e2-459c-9d36-05d4defabf20" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Corp absolut negru</term>
-								</form>
+								</re>
 								<def xml:id="id">corp care absoarbe toată cantitatea de energie
 									radiantă ce cade pe suprafaţa sa.</def>
 								<cit type="unknown">
@@ -2539,7 +2539,7 @@
 										sa, se numeşte <hi rend="bold">corp absolut
 										negru</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">țițeica</ptr>
+										<ptr target="#A100691">țițeica</ptr>
 										<date>1948</date>
 										<citedRange>194</citedRange>
 									</bibl>
@@ -2550,7 +2550,7 @@
 										luminoasă normală a unui centimetru pătrat de <hi rend="bold">corp absolut negru</hi>, la temperatura de
 										solidificare a platinei.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+										<ptr target="#A102231">d.
 											chim</ptr>
 										<date>1964</date>
 										<citedRange>157</citedRange>
@@ -2563,7 +2563,7 @@
 										această proprietate), numite surse care se supun legii
 										Lambert.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+										<ptr target="#A104288">d.
 											fiz</ptr>
 										<date>1972</date>
 										<citedRange>266</citedRange>
@@ -2574,7 +2574,7 @@
 										energie radiantă ce cade pe suprafaţa sa poartă numele de
 											<hi rend="bold">corp absolut negru</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d85bebef-4e76-33a9-522e-2f1e39ab6f4c">ciulache</ptr>
+										<ptr target="#A102999">ciulache</ptr>
 										<date>2003</date>
 										<citedRange>39</citedRange>
 									</bibl>
@@ -2603,16 +2603,16 @@
 										<quote>E comod să fii un <hi rend="bold">zero
 											absolut</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+											<ptr target="#A103840">vinea</ptr>
 											<date>1964 (†)</date>
 											<citedRange>100</citedRange>
 										</bibl>
 									</cit>
 								</sense>
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Zero absolut</term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<cit type="unknown">
 									<quote/>
@@ -2632,7 +2632,7 @@
 									care-i slujaște drept măsură şi între circonferenţa
 									întreagă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e50e4af5-7d03-6c00-5020-13b8324c37fd">poenaru</ptr>
+									<ptr target="#A102435">poenaru</ptr>
 									<date>1837</date>
 									<citedRange>81/4</citedRange>
 								</bibl>
@@ -2643,7 +2643,7 @@
 									altul tot de un feliu cu dânsul. Câtimea <hi rend="bold">absolută</hi> a materiei unui trup nu se poate
 									spune.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ccbb325f-83e7-4adc-612b-8b3b58b52701">stamati</ptr>
+									<ptr target="#A104201">stamati</ptr>
 									<date>1849</date>
 									<citedRange>9/18</citedRange>
 								</bibl>
@@ -2653,7 +2653,7 @@
 									aflători în aer e cu atât mai mică, cu cât ne vom urca mai sus
 									în atmosferă peste suprafaţa mării.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima</ptr>
+									<ptr target="#A104856">sima</ptr>
 									<date>1890</date>
 									<citedRange>74</citedRange>
 								</bibl>
@@ -2661,7 +2661,7 @@
 							<cit type="unknown">
 								<quote>În timpul verii se adună cea mai mare cantitate <hi rend="bold">absolută</hi> de apă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-827fe820-6d9d-7d64-895d-f9b80b852ef3">păcală</ptr>
+									<ptr target="#A101144">păcală</ptr>
 									<date>1915</date>
 									<citedRange>11</citedRange>
 								</bibl>
@@ -2670,7 +2670,7 @@
 								<quote>Balanţa pentru numere <hi rend="bold">absolute</hi> se
 									aseamănă cu balanţa Schopper.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-51aac52c-070e-6afa-4ac8-962fc9676ea6">ionescu</ptr>
+									<ptr target="#A103724">ionescu</ptr>
 									<date>1947</date>
 									<citedRange>54</citedRange>
 								</bibl>
@@ -2678,7 +2678,7 @@
 							<cit type="unknown">
 								<quote>Sarcina electrică şi entropia sunt mărimi <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<ptr target="#A100914">ltr</ptr>
 									<date>1949</date>
 									<citedRange>8</citedRange>
 								</bibl>
@@ -2687,7 +2687,7 @@
 								<quote>Eliminarea lui α, β între invarianţii relativi conduce la
 									invarianţii <hi rend="bold">absoluţi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-58cc49c6-291e-5f80-5b58-c15765f040d0">vrănceanu</ptr>
+									<ptr target="#A102859">vrănceanu</ptr>
 									<date>1951</date>
 									<citedRange>132</citedRange>
 								</bibl>
@@ -2697,7 +2697,7 @@
 									sensibil egal cu raportul numerelor de masă ... putem scrie
 									relaţia.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">sanielevici</ptr>
+									<ptr target="#A104973">sanielevici</ptr>
 									<date>1956 (1944)</date>
 									<citedRange>204</citedRange>
 								</bibl>
@@ -2705,7 +2705,7 @@
 							<cit type="unknown">
 								<quote>Lungimea şi durata nu sunt mărimi <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d.
+									<ptr target="#A102051">d.
 										e.</ptr>
 									<date>1978</date>
 									<citedRange>304</citedRange>
@@ -2715,7 +2715,7 @@
 								<quote>Aceasta [pierderea de curs valutar] este exprimată în cifre
 										<hi rend="bold">absolute</hi> sau în procente.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c75dd412-9b80-6c22-0d40-fecc71513064">d.
+									<ptr target="#A101489">d.
 										ec.</ptr>
 									<date>1994</date>
 									<citedRange>127</citedRange>
@@ -2725,7 +2725,7 @@
 								<quote>Soldul contului … reprezintă o situaţie matematică privind
 									evidenţa la zi, în cifre <hi rend="bold">absolute</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f910d9c9-5e49-5707-1798-930b3c3e41db">d.
+									<ptr target="#A100700">d.
 										dr.</ptr>
 									<date>1996</date>
 									<citedRange>261</citedRange>
@@ -2734,7 +2734,7 @@
 							<cit type="unknown">
 								<quote>Temp. aerului în ian. este de –34° C, atingând şi minima <hi rend="bold">absolută</hi> de –61° C.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bad2a4e2-572c-a6a9-55e1-e3be5134425f">d.
+									<ptr target="#A102831">d.
 										enc.</ptr>
 									<date>2006</date>
 									<citedRange>292</citedRange>
@@ -2742,13 +2742,13 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-3f027a26-c620-4a6d-974d-8147efd8d999" n="8.">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="dom" rend="usg">CHIM.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Alcool absolut</term>
-							</form>
+							</re>
 							<def xml:id="id">alcool (etilic) lipsit de apă şi de alte impurităţi,
 								care are un conţinut de alcool de minimum 99,8% în greutate;</def>
 							<def xml:id="uuid-b0feab99-a111-4836-b4cc-26d966d8e90f">alcool curat,
@@ -2756,7 +2756,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+									<ptr target="#A102657">da</ptr>
 									<date>1913</date>
 									<citedRange/>
 								</bibl>
@@ -2766,7 +2766,7 @@
                                     <hi rend="bold">Alcoolul absolut</hi> este dimpotrivă, cu
 									totul lipsit de apă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brezoianu</ptr>
+									<ptr target="#A101650">brezoianu</ptr>
 									<date>1852</date>
 									<citedRange>114/25</citedRange>
 								</bibl>
@@ -2778,7 +2778,7 @@
 									cu calce vie timp de 24 ore înainte de a-l distila din
 									nou.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bianu</ptr>
+									<ptr target="#A104442">bianu</ptr>
 									<date>1910</date>
 									<citedRange>32</citedRange>
 								</bibl>
@@ -2786,7 +2786,7 @@
 							<cit type="unknown">
 								<quote>[În industria spirtului] se va produce cu 34% mai mult <hi rend="bold">alcool absolut</hi> decât în 1848.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-48754b6d-6aba-4f41-8698-9c3b2c427695">leg.
+									<ptr target="#A102910">leg.
 										ec</ptr>
 									<date>1949</date>
 									<citedRange>39</citedRange>
@@ -2798,7 +2798,7 @@
 									şi din acest motiv trebuie păstrat în sticle ermetic
 									închise.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<ptr target="#A100914">ltr</ptr>
 									<date>1949</date>
 									<citedRange>8</citedRange>
 								</bibl>
@@ -2808,7 +2808,7 @@
 										<hi rend="bold">alcool absolut</hi> (anhidru), fiind gradate
 									în procente dc volum.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e569926f-13bd-a658-78b4-74ed583c9212">d.
+									<ptr target="#A102231">d.
 										chim</ptr>
 									<date>1964</date>
 									<citedRange>75</citedRange>
@@ -2826,7 +2826,7 @@
 										dialectul istro-român] se întrebuinţează în locul celei
 										conjuncte: „ no ntrębę (nu întreabă)”.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+										<ptr target="#A104747">pușcariu</ptr>
 										<date>1940</date>
 										<citedRange>231</citedRange>
 									</bibl>
@@ -2835,7 +2835,7 @@
 									<quote>Pronumele personal are altă înfăţişare când e <hi rend="bold">absolut</hi> şi alta când e conjunct („pe
 										mine nu mă vede”).</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+										<ptr target="#A104747">pușcariu</ptr>
 										<date>1940</date>
 										<citedRange>54</citedRange>
 									</bibl>
@@ -2851,7 +2851,7 @@
 										valori de relaţie, atunci când nu le mai raportăm la
 										momentul vorbirii, ci la un alt timp.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">scl</ptr>
+										<ptr target="#A101376">scl</ptr>
 										<date>1954</date>
 										<citedRange>V, nr. 3-4, 327</citedRange>
 									</bibl>
@@ -2861,7 +2861,7 @@
 										care a avut-o la început, nu s-a mai întrebuinţat ca timp
 										relativ, ci s-a întrebuinţat ca timp <hi rend="bold">absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-f96722e1-47fd-55a6-45db-bc7250f05524">st.
+										<ptr target="#A103882">st.
 											gram</ptr>
 										<date>1957</date>
 										<citedRange>59</citedRange>
@@ -2871,7 +2871,7 @@
 									<quote>În limba română, la indicativ, timpuri <hi rend="bold">absolute</hi> sunt prezentul, perfectul, viitorul
 										întâi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-efc667b6-9c8d-779f-4147-ee61f08e56d5">intr.</ptr>
+										<ptr target="#A104816">intr.</ptr>
 										<date>1958</date>
 										<citedRange>153</citedRange>
 									</bibl>
@@ -2882,7 +2882,7 @@
 										simplu şi perfectul compus, timpuri <hi rend="bold">absolute</hi>, în raport cu mai mult ca perfectul, timp
 										relativ.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
+										<ptr target="#A101331">dsl</ptr>
 										<date>1997</date>
 										<citedRange>12</citedRange>
 									</bibl>
@@ -2892,7 +2892,7 @@
 										complementului, fie o omisiune acceptată curent de unele
 										verbe, ca în cazul utilizărilor <hi rend="bold">absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-baf2c428-266b-8f46-127f-ddbf552444c4">galr</ptr>
+										<ptr target="#A104505">galr</ptr>
 										<date>2008</date>
 										<citedRange>52</citedRange>
 									</bibl>
@@ -2907,7 +2907,7 @@
 											sau bând sau dormind” ... tranzitivul „a bea” e
 											întrebuinţat în mod <hi rend="bold">absolut</hi>.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-fa297eff-a24d-9797-1185-3a2a894a8fe6">pușcariu</ptr>
+											<ptr target="#A104747">pușcariu</ptr>
 											<date>1940</date>
 											<citedRange>153</citedRange>
 										</bibl>
@@ -2919,7 +2919,7 @@
 											suprimarea subiectului personal şi inserţia mărcii
 											„se”.</quote>
 										<bibl type="unknown">
-											<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+											<ptr target="#A102465">dsl</ptr>
 											<date>2001</date>
 											<citedRange>258</citedRange>
 										</bibl>
@@ -2934,7 +2934,7 @@
 										verb tranzitiv, ca şi „a zice”, e folosit rar cu valoare <hi rend="bold">absolută</hi>, adică fără obiectul direct
 										exprimat.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-229d2fe4-2b19-9065-237a-d3c19a58749c">brâncuș</ptr>
+										<ptr target="#A104273">brâncuș</ptr>
 										<date>1991</date>
 										<citedRange>173</citedRange>
 									</bibl>
@@ -2943,20 +2943,20 @@
 									<quote>Numeroase verbe tranzitive ajung, în utilizările <hi rend="bold">absolute</hi>, să-şi piardă complementul
 										direct.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-50b5cdaa-0a4e-06e7-0f03-9398ce8b0c73">galr</ptr>
+										<ptr target="#A101656">galr</ptr>
 										<date>2008</date>
 										<citedRange>343</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-31953c30-6402-4aa9-8dd1-40a9ae6046dd" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Ablativ absolut</term>
-								</form>
+								</re>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="ablativ"/>
 								<cit type="unknown">
@@ -2969,34 +2969,34 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-388a51ca-d0d1-4bd1-95f7-d55257154657" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 										<seg type="time" rend="usg">Ieșit din uz</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Genitiv absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">propoziţie în limba greacă, în care verbul este
 									înlocuit printr-un participiu sau printr-un adjectiv atributiv
 									în cazul genitiv.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+										<ptr target="#A102657">da</ptr>
 										<date>1913</date>
 										<citedRange/>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-34b5dcc5-5a86-4079-9b63-7f63f36270f3" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Superlativ absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">grad de comparație, la adjective și adverbe, care
 									exprimă un nivel mai înalt sau mai scăzut al însuşirii unui
 									obiect, fără stabilirea vreunei relaţii directe între acesta şi
@@ -3007,7 +3007,7 @@
 										de mod se formează, în vorbirea familiară şi populară cu
 										sinonimele afective ... ale lui „foarte”.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8c7f9076-94b0-8020-038e-488f7f422c50">iordan</ptr>
+										<ptr target="#A103211">iordan</ptr>
 										<date>1944</date>
 										<citedRange>170</citedRange>
 									</bibl>
@@ -3018,7 +3018,7 @@
 										în limba curentă, printr-un adverb care, prin
 										gramaticalizarea lui, şi-a pierdut forţa expresivă.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-eb7153fc-380e-73e5-724a-8254e3fb3ea2">vianu</ptr>
+										<ptr target="#A105268">vianu</ptr>
 										<date>1954</date>
 										<citedRange>561</citedRange>
 									</bibl>
@@ -3026,7 +3026,7 @@
 								<cit type="unknown">
 									<quote>Caracteristic pentru stilul său [al lui Slavici] este <hi rend="bold">superlativul absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bf36e9ee-4768-97e0-9d7e-c554138f6725">varlaam</ptr>
+										<ptr target="#A104061">varlaam</ptr>
 										<date>1958</date>
 										<citedRange>308</citedRange>
 									</bibl>
@@ -3036,7 +3036,7 @@
 										construi <hi rend="bold">superlativul absolut</hi> este
 										foarte mare: „admirabil”, „colosal”, „extraordinar”.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d5b92858-3644-75d8-3ce4-db6d56c53915">gram. rom.</ptr>
+										<ptr target="#A103775">gram. rom.</ptr>
 										<date>1963</date>
 										<citedRange>131</citedRange>
 									</bibl>
@@ -3049,7 +3049,7 @@
 										„foarte” + pozitivul adjectivului, ca structuri
 										curente.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-49accf20-8dd1-618c-92ac-ef73522c0812">coteanu</ptr>
+										<ptr target="#A103124">coteanu</ptr>
 										<date>1969</date>
 										<citedRange>149</citedRange>
 									</bibl>
@@ -3059,7 +3059,7 @@
                                         <hi rend="bold">Superlativul absolut</hi> este o
 										subcategorie dinamică în tot cursul istoriei limbii.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-76ab692e-80f3-178a-1872-b0d3bc2d02fc">dsl</ptr>
+										<ptr target="#A101331">dsl</ptr>
 										<date>2001</date>
 										<citedRange>520</citedRange>
 									</bibl>
@@ -3069,7 +3069,7 @@
 										înregistrat … cu un citat în care este folosit cu un
 										determinant gradual echivalabil cu <hi rend="bold">superlativul absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-6bf2fa8c-39a3-6dde-5579-fe4b01fc05af">avram</ptr>
+										<ptr target="#A102033">avram</ptr>
 										<date>2002</date>
 										<citedRange>56</citedRange>
 									</bibl>
@@ -3080,7 +3080,7 @@
 										comparaţie (<hi rend="bold">superlativul
 										absolut</hi>).</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-50b5cdaa-0a4e-06e7-0f03-9398ce8b0c73">galr</ptr>
+										<ptr target="#A101656">galr</ptr>
 										<date>2008</date>
 										<citedRange>154</citedRange>
 									</bibl>
@@ -3095,7 +3095,7 @@
 									definitivă, simplă şi compusă, dreaptă şi întoarsă, activă şi
 									pasivă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bae64b49-53d3-2615-3eca-689810229b1b">acte</ptr>
+									<ptr target="#A104615">acte</ptr>
 									<date>&lt;1840–1841&gt;</date>
 									<citedRange>97</citedRange>
 								</bibl>
@@ -3103,7 +3103,7 @@
 							<cit type="unknown">
 								<quote>Sânt două feluri de principale, principală <hi rend="bold">absolută</hi> şi principală relativă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d18b990b-48de-7dec-4b03-1ce0ef437178">i.
+									<ptr target="#A104372">i.
 										pop</ptr>
 									<date>1848</date>
 									<citedRange>23/26</citedRange>
@@ -3111,13 +3111,13 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-d27f352c-1575-4f0a-be5c-01c473c22ad7" n="10.">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="dom" rend="usg">JUR.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Drept absolut</term>
-							</form>
+							</re>
 							<def xml:id="id">drept care produce efecte faţă de toate persoanele
 								fizice sau juridice (ca dreptul la viață, dreptul la
 								proprietate).</def>
@@ -3126,7 +3126,7 @@
 									stăpânului unui domen un <hi rend="bold">drept absolut</hi>
 									asupra domenului său întreg.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-dedb4b99-23ef-25cc-2fd0-c83e8aab60bb">bălcescu</ptr>
+									<ptr target="#A102341">bălcescu</ptr>
 									<date>1852 (†)</date>
 									<citedRange>145</citedRange>
 								</bibl>
@@ -3135,7 +3135,7 @@
 								<quote>Părinţii n-au <hi rend="bold">drepturi absolute</hi> asupra
 									copiilor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-972b5250-9e30-902d-9f7e-dc3a72a60465">brăescu</ptr>
+									<ptr target="#A101220">brăescu</ptr>
 									<date>1930</date>
 									<citedRange>395</citedRange>
 								</bibl>
@@ -3145,7 +3145,7 @@
 										<hi rend="bold">drepturi absolute</hi> şi aspre
 									răspunderi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-db4a01b3-7b5c-7461-a19e-3fb46b1c0cba">petrescu</ptr>
+									<ptr target="#A102639">petrescu</ptr>
 									<date>1930</date>
 									<citedRange>209</citedRange>
 								</bibl>
@@ -3156,7 +3156,7 @@
 									... e limitat pe două treimi din domeniu de dreptul de posesorat
 									al țăranului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+									<ptr target="#A100156">ist.
 										lit</ptr>
 									<date>1968</date>
 									<citedRange>522</citedRange>
@@ -3165,7 +3165,7 @@
 							<cit type="unknown">
 								<quote>Orânduirea capitalistă ... priveşte proprietatea ca un <hi rend="bold">drept absolut</hi> şi exclusiv.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">d.
+									<ptr target="#A103998">d.
 										inst</ptr>
 									<date>1988</date>
 									<citedRange>391</citedRange>
@@ -3176,7 +3176,7 @@
 									naşterii dreptului la acţiune, care cel mai frecvent se produce
 									la data încălcării dreptului subiectiv (în cazul <hi rend="bold">drepturilor absolute</hi>).</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2cc0410c-73ef-2fc6-8247-079709a140c4">d.
+									<ptr target="#A103353">d.
 										dr.</ptr>
 									<date>1998</date>
 									<citedRange>48</citedRange>
@@ -3188,7 +3188,7 @@
 										<hi rend="bold">drept absolut</hi>, ..., respectiv usus,
 									fructus şi abusus, cât şi un drept exclusiv.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<ptr target="#A101950">mo</ptr>
 									<date>2007</date>
 									<citedRange>2</citedRange>
 								</bibl>
@@ -3197,7 +3197,7 @@
 								<quote>Spre deosebire de dreptul real, care face parte din grupa <hi rend="bold">drepturilor absolute</hi>, dreptul de creanţă
 									este un drept relativ.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d.
+									<ptr target="#A104975">d.
 										dr</ptr>
 									<date>2007</date>
 									<citedRange>265</citedRange>
@@ -3206,20 +3206,20 @@
 						</sense>
 						<sense xml:id="uuid-f3543336-87ed-40d2-9753-b570847eec3b" n="11.">
 							<sense xml:id="uuid-ec80d83f-c050-475b-9bce-c0f5d4c120cf" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Muzică absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">muzică (instrumentală) care se realizează prin
 									mijloace proprii, fără intermediul cuvântului sau al elementelor
 									programatice.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-30107373-406b-7ee6-9f58-c181703c5c40">d.
+										<ptr target="#A104603">d.
 											muz</ptr>
 										<date>1905</date>
 										<citedRange/>
@@ -3227,20 +3227,20 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-2e157b90-9534-4631-a1b5-4d872ba3aadb" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Înălţime absolută</term>
-								</form>
+								</re>
 								<def xml:id="id">calitate a unui instrument, a unei voci de a cânta
 									note foarte înalte.</def>
 								<cit type="unknown">
 									<quote>Astfel <hi rend="bold">înălţimea absolută</hi> a scării
 										poate fi uşor variată.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-13f5de19-6f4f-836d-06d7-451a6cf776f7">alexandru</ptr>
+										<ptr target="#A102422">alexandru</ptr>
 										<date>1956</date>
 										<citedRange>66</citedRange>
 									</bibl>
@@ -3250,26 +3250,26 @@
 										în ce priveşte <hi rend="bold">înălţimea absolută</hi> a
 										sunetelor.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-13f5de19-6f4f-836d-06d7-451a6cf776f7">alexandru</ptr>
+										<ptr target="#A102422">alexandru</ptr>
 										<date>1956</date>
 										<citedRange>56</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-ec672bfb-d4dd-41f0-b3a0-dca6911b0fb3" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 									<term>Auz absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">auz muzical înnăscut, foarte fin care distinge
 									raporturile dintre sunete fără un reper dat.</def>
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+										<ptr target="#A103264">dexi</ptr>
 										<date>2007</date>
 										<citedRange/>
 									</bibl>
@@ -3282,7 +3282,7 @@
 							<cit type="unknown">
 								<quote>D-na Constanza Manzini, primadona serie <hi rend="bold">absolută</hi>, ... accentuează notele bine.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filimon</ptr>
+									<ptr target="#A100283">filimon</ptr>
 									<date>1859</date>
 									<citedRange>358</citedRange>
 								</bibl>
@@ -3292,7 +3292,7 @@
 									interpretat cu multă inteligenţă dificila şi arida parte a lui
 									Arrigo.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filimon</ptr>
+									<ptr target="#A100283">filimon</ptr>
 									<date>1862</date>
 									<citedRange>405</citedRange>
 								</bibl>
@@ -3301,7 +3301,7 @@
 								<quote>Fu adusă Carlotta Griffani, primadona seria <hi rend="bold">absolută</hi>, care doi ani mai târziu era să facă furori
 									la Petersburg.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e61bd8c7-9b6a-31c4-56d3-04662ef423d5">ollănescu</ptr>
+									<ptr target="#A102649">ollănescu</ptr>
 									<date>1898</date>
 									<citedRange>122</citedRange>
 								</bibl>
@@ -3311,7 +3311,7 @@
 									„cântăreț <hi rend="bold">absolut</hi>” la aceeași
 									biserică.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+									<ptr target="#A100156">ist.
 										lit</ptr>
 									<date>1968</date>
 									<citedRange>645</citedRange>
@@ -3319,19 +3319,19 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-28419789-4241-4e32-b2df-c7fe1d5df672" n="12.">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="dom" rend="usg">ESTET.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Frumos absolut</term>
-							</form>
+							</re>
 							<def xml:id="id">categorie estetică care consideră frumosul drept sursa
 								originară a tuturor fenomenelor estetice.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+									<ptr target="#A102594">antonescu</ptr>
 									<date>1862</date>
 									<citedRange/>
 								</bibl>
@@ -3343,7 +3343,7 @@
 									teoretică dacă există sau nu <hi rend="bold">frumosul
 										absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9c694572-18a0-00de-3f49-ec4465251d00">maiorescu</ptr>
+									<ptr target="#A103054">maiorescu</ptr>
 									<date>1883</date>
 									<citedRange>507</citedRange>
 								</bibl>
@@ -3355,7 +3355,7 @@
 									să păstreze valoarea lor pentru toate timpurile şi pentru toţi
 									oamenii, este absurdă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">philippide</ptr>
+									<ptr target="#A102622">philippide</ptr>
 									<date>1894</date>
 									<citedRange>236</citedRange>
 								</bibl>
@@ -3364,7 +3364,7 @@
 								<quote>După Plotin, Frumosul fizic este strâns legat de Bine şi este
 									o emanaţie a <hi rend="bold">Frumosului absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-38572eda-93a4-3ca1-7510-9673c1a34d8c">drimba</ptr>
+									<ptr target="#A103100">drimba</ptr>
 									<date>1987</date>
 									<citedRange>218</citedRange>
 								</bibl>
@@ -3387,7 +3387,7 @@
 									preoţii să fie mântuiţi de toate taxele episcopale, de cârjă, de
 									dârjă.</quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-16c1b6df-0049-2e5b-3816-1032b41c4c32">b.
+									<ptr target="#A103024">b.
 										contemp</ptr>
 									<date>1847</date>
 									<citedRange>126</citedRange>
@@ -3396,7 +3396,7 @@
 							<cit type="unknown">
 								<quote>Făptuitorii feluritelor gramatice sunt toţi <hi rend="bold">absoluţi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f737f9a4-9941-2903-82f2-a79903c73303">russo</ptr>
+									<ptr target="#A101007">russo</ptr>
 									<date>1855</date>
 									<citedRange>63</citedRange>
 								</bibl>
@@ -3407,7 +3407,7 @@
 									deja de 7 ani, n-ar voi însă nicidecât a părăsi aceasta carieră
 									de profesor.</quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-58f3b2a5-3687-42c1-3246-2b0bd0b658f3">b.
+									<ptr target="#A104565">b.
 										contemp.</ptr>
 									<date>1875</date>
 									<citedRange>370</citedRange>
@@ -3418,7 +3418,7 @@
 										absoluţi</hi> să domine o frazeologie mai potrivită modului
 									ştiinţific de a scrie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d6773f88-2ad6-0475-85ad-c29d595422c3">arh.</ptr>
+									<ptr target="#A100415">arh.</ptr>
 									<date>1890</date>
 									<citedRange>II, 175</citedRange>
 								</bibl>
@@ -3428,7 +3428,7 @@
 									noroc pe lângă valoarea ce i-o cunosc, are nevoie de o prefaţă
 									semnată de un pedagog <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-89e396b5-3dea-9b9c-3be1-b8669e152d83">caragiale</ptr>
+									<ptr target="#A102980">caragiale</ptr>
 									<date>1908</date>
 									<citedRange>160</citedRange>
 								</bibl>
@@ -3438,7 +3438,7 @@
 									absolventului de facultate care, în terminologie latinistă, îşi
 									spune „filozof absolut” (adică „absolvent”).</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b6090ac1-5551-3619-6763-205ff58c9166">GRAM</ptr>
+									<ptr target="#A101963">GRAM</ptr>
 									<date>1954</date>
 									<citedRange>49</citedRange>
 								</bibl>
@@ -3447,7 +3447,7 @@
 								<quote>Rostogan, pedagogul <hi rend="bold">absolut</hi>, își
 									adaptează comportarea.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d12d15f1-422c-952d-0ba7-553a8e43218a">ist.
+									<ptr target="#A104161">ist.
 										lit</ptr>
 									<date>1973</date>
 									<citedRange>347</citedRange>
@@ -3457,7 +3457,7 @@
 								<quote>Patru ani mai târziu s-a întors în Ocna teolog <hi rend="bold">absolut</hi>, în căutare de soaţă şi de
 									parohie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+									<ptr target="#A104110">gheție</ptr>
 									<date>2002</date>
 									<citedRange>11</citedRange>
 								</bibl>
@@ -3493,7 +3493,7 @@
 										din examenul ce l-au făcut seminariştii din Râmnic, că n-au
 											ştiut<hi rend="bold"> absolute</hi> nimic.</quote>
 									<bibl type="ap.">
-										<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">b.
+										<ptr target="#A100073">b.
 											contemp.</ptr>
 										<date>1841</date>
 										<citedRange>84</citedRange>
@@ -3503,7 +3503,7 @@
 									<quote>Nimeni, dar <hi rend="bold">absolut</hi> nimeni dintre ai
 										d-voastră nu vrea să ştie de cum trăieşte Eminescu.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b39bfd72-a5e1-8ec8-94c0-d01d10783607">bacalbașa</ptr>
+										<ptr target="#A100311">bacalbașa</ptr>
 										<date>1889</date>
 										<citedRange>211</citedRange>
 									</bibl>
@@ -3512,7 +3512,7 @@
 									<quote>Deci <hi rend="bold">absolut</hi> niciun
 										contrast.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">gherea</ptr>
+										<ptr target="#A104304">gherea</ptr>
 										<date>1891</date>
 										<citedRange>430</citedRange>
 									</bibl>
@@ -3522,7 +3522,7 @@
 										nimeni, <hi rend="bold">absolut </hi>nimeni [la balul dat de
 										Curte].</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b37cef45-027c-9c75-a61b-21bb4cc15b36">bacalbașa</ptr>
+										<ptr target="#A100327">bacalbașa</ptr>
 										<date>1894</date>
 										<citedRange>160</citedRange>
 									</bibl>
@@ -3531,7 +3531,7 @@
 									<quote>Găina poate să trăiască două luni de zile fără să mănânce
 										şi să bea <hi rend="bold">absolut</hi> nimic!</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-ac917b3d-2ed8-6721-8a9e-00d40edd81c5">brătescu</ptr>
+										<ptr target="#A102271">brătescu</ptr>
 										<date>1898</date>
 										<citedRange>83</citedRange>
 									</bibl>
@@ -3539,7 +3539,7 @@
 								<cit type="unknown">
 									<quote>Ştii că ştiu tot, domnule Herdelea! Tot! <hi rend="bold">Absolut</hi> tot!</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-2cc96c4e-87f7-2304-8b70-824fe04a8e63">rebreanu</ptr>
+										<ptr target="#A101965">rebreanu</ptr>
 										<date>1920</date>
 										<citedRange>283</citedRange>
 									</bibl>
@@ -3548,7 +3548,7 @@
 									<quote>Noi toţi, dar <hi rend="bold">absolut</hi> toţi, trăim de
 										pe urma trudei acestui ţăran.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">rebreanu</ptr>
+										<ptr target="#A101804">rebreanu</ptr>
 										<date>1932</date>
 										<citedRange>9</citedRange>
 									</bibl>
@@ -3557,7 +3557,7 @@
 									<quote>Casele ... sunt aproape goale: un pat cu o ţoală, două
 										strachini, un tuciu, trei linguri de lemn. Atât şi <hi rend="bold">absolut</hi> nimic mai mult.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">bogza</ptr>
+										<ptr target="#A101781">bogza</ptr>
 										<date>1945</date>
 										<citedRange>354</citedRange>
 									</bibl>
@@ -3567,7 +3567,7 @@
 										din ceea ce ar putea scăpa de la moarte [pe
 										muncitori].</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-98ff2ee1-10a4-6bda-2b3e-f086b90a02d6">bogza</ptr>
+										<ptr target="#A100310">bogza</ptr>
 										<date>1953</date>
 										<citedRange>88</citedRange>
 									</bibl>
@@ -3577,7 +3577,7 @@
 											<hi rend="bold">absolut</hi> toate plantele prevăzute în
 										programa de cunoştinţe agricole.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-cc4ef462-778e-7d42-a031-fbc65a62094f">g.
+										<ptr target="#A100160">g.
 											învăț</ptr>
 										<date>1962</date>
 										<citedRange>nr. 652, 3</citedRange>
@@ -3588,7 +3588,7 @@
 										nu poate să şi-o amintească, Efim zace acum la
 										infirmerie.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-84dd596c-3c1f-a365-a2f6-96931e62169a">tudoran</ptr>
+										<ptr target="#A103660">tudoran</ptr>
 										<date>1966</date>
 										<citedRange>319</citedRange>
 									</bibl>
@@ -3597,7 +3597,7 @@
 									<quote>Nu te cunoaşte nimeni, dar <hi rend="bold">absolut</hi>
 										nimeni.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+										<ptr target="#A103162">ivasiuc</ptr>
 										<date>1970</date>
 										<citedRange>84</citedRange>
 									</bibl>
@@ -3605,7 +3605,7 @@
 								<cit type="unknown">
 									<quote>Dincolo de datele reale, nimic, <hi rend="bold">absolut</hi> nimic nu se mai află.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-54a2e0a9-2cfc-156a-6106-7a98cf0523ad">buzura</ptr>
+										<ptr target="#A105173">buzura</ptr>
 										<date>1977</date>
 										<citedRange>167</citedRange>
 									</bibl>
@@ -3614,7 +3614,7 @@
 									<quote>Pare s-o intereseze <hi rend="bold">absolut</hi>
 										totul.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+										<ptr target="#A101955">românia</ptr>
 										<date>1981</date>
 										<citedRange>nr. 4, 22</citedRange>
 									</bibl>
@@ -3623,7 +3623,7 @@
 									<quote>Nenea Căţelu, un pensionar nenorocit şi leneş, … are o
 										curte devastată parcă de război, unde nu creşte <hi rend="bold">absolut </hi>nimic.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b9bf02ec-4e9c-422c-4dc6-9dcb7cf17d44">cărtărescu</ptr>
+										<ptr target="#A104617">cărtărescu</ptr>
 										<date>1996</date>
 										<citedRange>10</citedRange>
 									</bibl>
@@ -3634,7 +3634,7 @@
 										familiale, fără a permite niciun fel de libertate
 										individuală.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-c5e4a58f-7117-08a7-005a-ad9ab5408318">d.
+										<ptr target="#A100881">d.
 											adm</ptr>
 										<date>2000</date>
 										<citedRange>155</citedRange>
@@ -3645,7 +3645,7 @@
 										niciun risc, îl asigură cel dintâi, un ins înalt, blond, a
 										cărui figură nu se zărea tocmai bine.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-39263bbb-0525-6407-9f6e-543288ff310e">gheție</ptr>
+										<ptr target="#A104110">gheție</ptr>
 										<date>2002</date>
 										<citedRange>155</citedRange>
 									</bibl>
@@ -3655,7 +3655,7 @@
 										„naţionalism” nu s-a opus niciodată, dar <hi rend="bold">absolut</hi> niciodată, dominaţiei împăraţilor
 										Austriei.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a8ed8da0-5a8b-162f-03e3-f886090f4a87">marino</ptr>
+										<ptr target="#A100940">marino</ptr>
 										<date>2005 (†)</date>
 										<citedRange>37</citedRange>
 									</bibl>
@@ -3672,7 +3672,7 @@
 								<cit type="unknown">
 									<quote/>
 									<bibl type="unknown">
-										<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+										<ptr target="#A102700">negulici</ptr>
 										<date>1848</date>
 										<citedRange/>
 									</bibl>
@@ -3682,7 +3682,7 @@
 										urgent şi <hi rend="bold">absolut</hi>
 										indispensabil”.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">eminescu</ptr>
+										<ptr target="#A102329">eminescu</ptr>
 										<date>1880</date>
 										<citedRange>260</citedRange>
 									</bibl>
@@ -3691,7 +3691,7 @@
 									<quote>Îmi sunt <hi rend="bold">absolut</hi> necesare cel puţin
 										două luni.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-fd845222-03e7-88b1-419b-f5f04d7c1e22">popa</ptr>
+										<ptr target="#A104035">popa</ptr>
 										<date>1921</date>
 										<citedRange>51</citedRange>
 									</bibl>
@@ -3699,7 +3699,7 @@
 								<cit type="unknown">
 									<quote>Ne arată pe omul ... lipsit de cele <hi rend="bold">absolut</hi> trebuincioase.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-784f92e3-00f7-03ed-1b50-9294e819032a">dragomirescu</ptr>
+										<ptr target="#A103681">dragomirescu</ptr>
 										<date>1927 (1906)</date>
 										<citedRange>14</citedRange>
 									</bibl>
@@ -3708,7 +3708,7 @@
 									<quote>Nu există un singur sistem biruitor, în mod <hi rend="bold">absolut</hi>, pe care să-l primească orice
 										minte.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-f0d82f5a-89a6-2a7d-91b4-c4fd36ac58de">papacostea</ptr>
+										<ptr target="#A102635">papacostea</ptr>
 										<date>1934</date>
 										<citedRange>14</citedRange>
 									</bibl>
@@ -3720,7 +3720,7 @@
 										de controverse, pe cari, de câte ori le-am găsit <hi rend="bold">absolut</hi> necesare, le-am aşezat în josul
 										paginilor, în note.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-8122a28f-6c05-8486-4054-21bd1cf3705e">ionescu</ptr>
+										<ptr target="#A102184">ionescu</ptr>
 										<date>1937</date>
 										<citedRange>8</citedRange>
 									</bibl>
@@ -3729,7 +3729,7 @@
 									<quote>Aceasta a fost <hi rend="bold">absolut</hi> necesar şi
 										întru totul just.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scânteia</ptr>
+										<ptr target="#A105030">scânteia</ptr>
 										<date>1951</date>
 										<citedRange>nr. 2 178</citedRange>
 									</bibl>
@@ -3738,7 +3738,7 @@
 									<quote>Era absolut necesară o şedinţă a C.C. al Partidului
 										Bolşevic.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-579f432a-581d-47c1-a519-0bcfaba9672b">magazin</ptr>
+										<ptr target="#A101800">magazin</ptr>
 										<date>1969</date>
 										<citedRange>nr. 3, 8</citedRange>
 									</bibl>
@@ -3747,7 +3747,7 @@
 									<quote>Pentru a merge însă între două puncte este <hi rend="bold">absolut</hi> necesar să fim convinşi că cele
 										două puncte există.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d9d95fde-74ee-4c94-4986-bc2019ba75da">blandiana</ptr>
+										<ptr target="#A104895">blandiana</ptr>
 										<date>1970</date>
 										<citedRange>42</citedRange>
 									</bibl>
@@ -3755,7 +3755,7 @@
 								<cit type="unknown">
 									<quote>Toate darurile, minus acele defecte <hi rend="bold">absolut</hi> indispensabile.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp.</ptr>
+										<ptr target="#A102040">contemp.</ptr>
 										<date>1981</date>
 										<citedRange>nr. 5, 9</citedRange>
 									</bibl>
@@ -3764,7 +3764,7 @@
 									<quote>Este <hi rend="bold">absolut</hi> necesar să lupţi, să te
 										îndoieşti.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-3482161f-8dcd-0cda-2474-b08b00878522">cinema</ptr>
+										<ptr target="#A104946">cinema</ptr>
 										<date>1984</date>
 										<citedRange>nr. 9, 17</citedRange>
 									</bibl>
@@ -3775,7 +3775,7 @@
 										pentru plata importurilor destinate dezvoltării
 										economico-sociale şi aprovizionării cu bunuri de consum <hi rend="bold">absolut</hi> indispensabile.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-313f5a70-48eb-7339-923a-46d0e3a64ee7">d.
+										<ptr target="#A102850">d.
 											ec.</ptr>
 										<date>1994</date>
 										<citedRange>191</citedRange>
@@ -3786,7 +3786,7 @@
 										modificări cu privire la modul în care rezultatul
 										deliberării a fost consemnat.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+										<ptr target="#A100630">d.
 											dr.</ptr>
 										<date>1997</date>
 										<citedRange> 626</citedRange>
@@ -3796,7 +3796,7 @@
 									<quote>Prezenţa numelui predicativ este <hi rend="bold">absolut
 										</hi>obligatorie.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-baf2c428-266b-8f46-127f-ddbf552444c4">galr</ptr>
+										<ptr target="#A104505">galr</ptr>
 										<date>2008</date>
 										<citedRange>288</citedRange>
 									</bibl>
@@ -3805,7 +3805,7 @@
 									<quote>Există stângaci total şi parţial stângaci; este <hi rend="bold">absolut</hi> neindicat să se contrarieze un
 										stângaci total.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+										<ptr target="#A103471">d.
 											logop</ptr>
 										<date>2011</date>
 										<citedRange>37</citedRange>
@@ -3827,7 +3827,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+									<ptr target="#A100126">pake</ptr>
 									<date>1862</date>
 									<citedRange/>
 								</bibl>
@@ -3837,7 +3837,7 @@
 									fost propagată cu mult talent de unii din filozofii secolului
 									trecut.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4c739388-72f0-2576-982c-321200526a22">ghica</ptr>
+									<ptr target="#A100642">ghica</ptr>
 									<date>1865</date>
 									<citedRange>116</citedRange>
 								</bibl>
@@ -3847,7 +3847,7 @@
 									cel Bun – este oare <hi rend="bold">absolut</hi>
 									imposibil?</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+									<ptr target="#A104752">eminescu</ptr>
 									<date>1872</date>
 									<citedRange>93</citedRange>
 								</bibl>
@@ -3857,7 +3857,7 @@
 									gradul de putere al fiecărei facultăţi a sufletului, prin simpla
 									inspecţiune a suprafeţei creierului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<ptr target="#A105088">conta</ptr>
 									<date>&lt;1875–1876&gt;</date>
 									<citedRange> 55</citedRange>
 								</bibl>
@@ -3867,7 +3867,7 @@
 									</hi>independentă; „răceală şi discreţie” până la un moment
 									dat.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahuță</ptr>
+									<ptr target="#A105134">vlahuță</ptr>
 									<date>1889</date>
 									<citedRange>128</citedRange>
 								</bibl>
@@ -3876,7 +3876,7 @@
 								<quote>Omului înzestrat cu adevărat talent îi este <hi rend="bold">absolut</hi> indiferentă judecata altuia despre operele
 									sale.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-6b6ea69e-31d1-3a1c-5739-3d5827224e4c">caragiale</ptr>
+									<ptr target="#A101115">caragiale</ptr>
 									<date>1897</date>
 									<citedRange>82</citedRange>
 								</bibl>
@@ -3885,7 +3885,7 @@
 								<quote>Fraza asta mie mi se pare <hi rend="bold">absolut</hi>
 									neînţeleasă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-91f55181-6fac-01bd-25cd-7a9705499543">bassarabescu</ptr>
+									<ptr target="#A102744">bassarabescu</ptr>
 									<date>1899</date>
 									<citedRange>53</citedRange>
 								</bibl>
@@ -3895,7 +3895,7 @@
 									tăgăduirea existenţei lui Dumnezeu, trebuie să admitem că
 									Dumnezeu e o fiinţă <hi rend="bold">absolut</hi> liberă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negulescu</ptr>
+									<ptr target="#A103907">negulescu</ptr>
 									<date>1945 (1910)</date>
 									<citedRange>88</citedRange>
 								</bibl>
@@ -3905,7 +3905,7 @@
 									totuşi <hi rend="bold">absolut</hi> în afară de aborigenii
 									romanisaţi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-670f7d55-0537-3ef0-5edd-6afdfd272fef">rev.
+									<ptr target="#A103375">rev.
 										ist</ptr>
 									<date>1915</date>
 									<citedRange>XVI, 192</citedRange>
@@ -3916,7 +3916,7 @@
 									moralistice, deci fără îndoială mai delicioasă decât a putut fi
 									vreodată.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<ptr target="#A100757">zarifopol</ptr>
 									<date>1926</date>
 									<citedRange>42</citedRange>
 								</bibl>
@@ -3934,7 +3934,7 @@
 								<quote>Firele ... rămân într-un plan <hi rend="bold">absolut</hi>
 									orizontal.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e2ff1385-5c7b-70d1-33fc-af1eee1a817e">muscel</ptr>
+									<ptr target="#A102497">muscel</ptr>
 									<date>1948</date>
 									<citedRange>245</citedRange>
 								</bibl>
@@ -3945,7 +3945,7 @@
 									sfârşit, nu şi poate găsi soluţia pe niciunul din planurile
 									realităţii imediate?</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4896547c-013a-7dfe-6c8b-dc3551c03e30">eliade</ptr>
+									<ptr target="#A100672">eliade</ptr>
 									<date>1963</date>
 									<citedRange>66</citedRange>
 								</bibl>
@@ -3953,7 +3953,7 @@
 							<cit type="unknown">
 								<quote>Atârna de-a lungul ferestrei ... Linie <hi rend="bold">absolut</hi> verticală.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">ivasiuc</ptr>
+									<ptr target="#A103162">ivasiuc</ptr>
 									<date>1970</date>
 									<citedRange>38</citedRange>
 								</bibl>
@@ -3961,7 +3961,7 @@
 							<cit type="unknown">
 								<quote>Nu simt această disperare. O să scap! ... Sunt <hi rend="bold">absolut </hi>nevinovat.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-081f6db9-1b36-a1f3-684d-c96052f86c9b">preda</ptr>
+									<ptr target="#A104121">preda</ptr>
 									<date>1980</date>
 									<citedRange>919</citedRange>
 								</bibl>
@@ -3971,7 +3971,7 @@
 									</hi>identic atât pentru judecători, cât şi pentru
 									procurori.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+									<ptr target="#A100630">d.
 										dr.</ptr>
 									<date>1997</date>
 									<citedRange>89</citedRange>
@@ -3980,7 +3980,7 @@
 							<cit type="unknown">
 								<quote>Noi cunoaştem că aceasta este o activitate <hi rend="bold">absolut</hi> permanentă a acestui partid politic.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c2130759-806d-9839-4fa3-67da93ab09d3">goma</ptr>
+									<ptr target="#A101605">goma</ptr>
 									<date>2003</date>
 									<citedRange>616</citedRange>
 								</bibl>
@@ -3991,7 +3991,7 @@
 									până la Volga, în oraşele năruite de diviziile germane mergând
 									spre est, apoi de cele ruseşti, înaintând spre vest.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">cărtărescu</ptr>
+									<ptr target="#A100299">cărtărescu</ptr>
 									<date>2007</date>
 									<citedRange>86</citedRange>
 								</bibl>
@@ -3999,7 +3999,7 @@
 							<cit type="unknown">
 								<quote>Argumentare <hi rend="bold">absolut</hi> justă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<ptr target="#A103264">dexi</ptr>
 									<date>2007</date>
 									<citedRange/>
 								</bibl>
@@ -4009,7 +4009,7 @@
 									aceluiaşi elev fiind, frecvent, <hi rend="bold">absolut</hi>
 									diferite.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+									<ptr target="#A103471">d.
 										logop</ptr>
 									<date>2011</date>
 									<citedRange>134</citedRange>
@@ -4026,7 +4026,7 @@
 										pricepe toate celea <hi rend="bold">absolut</hi> în felul şi
 										în proporţiunile în care le pricepem noi.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+										<ptr target="#A104752">eminescu</ptr>
 										<date>1872</date>
 										<citedRange>93</citedRange>
 									</bibl>
@@ -4034,7 +4034,7 @@
 								<cit type="unknown">
 									<quote>: Două mescioare înădite, cu şerveţele curate .... – <hi rend="bold">Absolut</hi> ca la mine la moşie!</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e3e34cda-0f9d-8409-9d35-91d61d7b066e">brăescu</ptr>
+										<ptr target="#A105267">brăescu</ptr>
 										<date>1921</date>
 										<citedRange>16</citedRange>
 									</bibl>
@@ -4046,7 +4046,7 @@
 										elementele comparate au <hi rend="bold">absolut</hi>
 										aceleaşi contexte.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+										<ptr target="#A102465">dsl</ptr>
 										<date>2001</date>
 										<citedRange>187</citedRange>
 									</bibl>
@@ -4059,7 +4059,7 @@
 								<quote>Câtimea unui lucru nu se poate arăta <hi rend="bold">absolut
 									</hi>prin ea însăşi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8d5a248e-00f0-08f4-8975-0e9edbc73e6e">poenaru</ptr>
+									<ptr target="#A100279">poenaru</ptr>
 									<date>1841</date>
 									<citedRange>1/16</citedRange>
 								</bibl>
@@ -4070,7 +4070,7 @@
 									grăbi mai puţin a le critica şi ai fi mai blând chiar în
 									condamnarea lor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0b59d0d3-3198-3d0f-00f3-8e8e12eb6b6d">ralet</ptr>
+									<ptr target="#A100783">ralet</ptr>
 									<date>1858</date>
 									<citedRange>41</citedRange>
 								</bibl>
@@ -4079,7 +4079,7 @@
 								<quote>Obiectele ce le văd, privite c-un ochi, sunt mai mici; cu
 									amândoi – mai mari; cât de mari sunt ele <hi rend="bold">absolut</hi>?</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-36c29ab3-5414-938b-1998-641fa9c035e7">eminescu</ptr>
+									<ptr target="#A104752">eminescu</ptr>
 									<date>1872</date>
 									<citedRange>93</citedRange>
 								</bibl>
@@ -4088,7 +4088,7 @@
 								<quote>În sfârşit, vine omul care <hi rend="bold">absolut</hi> şi
 									relativ are cel mai mare creier.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<ptr target="#A105088">conta</ptr>
 									<date>&lt;1875–1876&gt;</date>
 									<citedRange>44</citedRange>
 								</bibl>
@@ -4099,7 +4099,7 @@
 									domnesc <hi rend="bold">absolut</hi> asupra acelor
 									mlaştini.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9824637e-561e-2a7c-5eac-5f4fb2c09fc8">ciurea</ptr>
+									<ptr target="#A102618">ciurea</ptr>
 									<date>1898</date>
 									<citedRange>47</citedRange>
 								</bibl>
@@ -4108,7 +4108,7 @@
 								<quote>[Maiorescu] nu credea <hi rend="bold">absolut</hi> că România
 									va intra în război contra Puterilor Centrale.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușcariu</ptr>
+									<ptr target="#A101966">pușcariu</ptr>
 									<date>1917</date>
 									<citedRange>222</citedRange>
 								</bibl>
@@ -4119,7 +4119,7 @@
 									jună a speciei noastre, pe când voinţa funcţiona <hi rend="bold">absolut</hi>, neîmpiedicată de reţineri meschine şi
 									bolnăvicioase.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarifopol</ptr>
+									<ptr target="#A100757">zarifopol</ptr>
 									<date>1926</date>
 									<citedRange>22</citedRange>
 								</bibl>
@@ -4130,7 +4130,7 @@
 									relativ, fie în mod accidental, datorită unor anumite
 									împrejurări.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
+									<ptr target="#A105105">cod.
 										pen</ptr>
 									<date>1936</date>
 									<citedRange>60</citedRange>
@@ -4142,7 +4142,7 @@
 									particularităţi sunt <hi rend="bold">absolut</hi> sigure în
 									atestarea lui Creangă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<ptr target="#A103266">vianu</ptr>
 									<date>1956</date>
 									<citedRange>107</citedRange>
 								</bibl>
@@ -4151,7 +4151,7 @@
 								<quote>Fericitul câştigător, cel care nimerise, <hi rend="bold">absolut</hi> din întâmplare, ţinta, mergea în frunte,
 									ducându-şi în mână trofeul.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d5675494-3eb5-536e-a0a2-260355e13b50">cazimir</ptr>
+									<ptr target="#A103726">cazimir</ptr>
 									<date>1960</date>
 									<citedRange>77</citedRange>
 								</bibl>
@@ -4160,7 +4160,7 @@
 								<quote>În chip cu totul <hi rend="bold">absolut</hi> el îşi puse în
 									aplicare puţinele şi «sănătoasele» principii pedagogice.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+									<ptr target="#A104526">călinescu</ptr>
 									<date>1964 (1932)</date>
 									<citedRange>21</citedRange>
 								</bibl>
@@ -4169,7 +4169,7 @@
 								<quote>Era <hi rend="bold">absolut </hi>de la sine înţeles că nu-i
 									va spune nimic.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a783b1e5-4109-443d-6255-65abb912a3f4">IVASIUC</ptr>
+									<ptr target="#A103162">IVASIUC</ptr>
 									<date>1970</date>
 									<citedRange>91</citedRange>
 								</bibl>
@@ -4178,7 +4178,7 @@
 								<quote>Mintea îi era aceeaşi, <hi rend="bold">absolut</hi>
 									neschimbată.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">preda</ptr>
+									<ptr target="#A102333">preda</ptr>
 									<date>1975</date>
 									<citedRange>195</citedRange>
 								</bibl>
@@ -4187,7 +4187,7 @@
 								<quote>Era <hi rend="bold">absolut</hi> imposibil să încheie prima
 									propoziţiune din romanul lui.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia</ptr>
+									<ptr target="#A101955">românia</ptr>
 									<date>1984</date>
 									<citedRange>nr. 49, 3</citedRange>
 								</bibl>
@@ -4197,7 +4197,7 @@
 									a bunurilor şi dreptului proprietarului de a dispune liber şi
 										<hi rend="bold">absolut</hi> de bunul său.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-40aa6561-09b0-12d7-1c22-b7f1b7fc4b0c">d.
+									<ptr target="#A100630">d.
 										dr.</ptr>
 									<date>1997</date>
 									<citedRange>319</citedRange>
@@ -4210,7 +4210,7 @@
 									informaţie „anterioară”, deductibilă din context, o informaţie
 									„nouă”.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+									<ptr target="#A102465">dsl</ptr>
 									<date>2001</date>
 									<citedRange>227</citedRange>
 								</bibl>
@@ -4220,7 +4220,7 @@
 									mod <hi rend="bold">absolut</hi> a exercitării profesiei
 									salariatului sau a specializării pe care o deţine.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0ffb1289-1517-2717-a71b-a952a8a25507">cod.
+									<ptr target="#A100467">cod.
 										muncii</ptr>
 									<date>2003</date>
 									<citedRange>12</citedRange>
@@ -4240,7 +4240,7 @@
 								<quote>[JUPÂN DUMITRACHE] (<hi rend="italic">asemenea</hi>) Da
 									cocoană, nici mort – [IPINGESCU] (<hi rend="italic">asemenea</hi>) <hi rend="bold">Absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-61d58c69-a06d-a63b-2097-803ef2c38652">caragiale</ptr>
+									<ptr target="#A103243">caragiale</ptr>
 									<date>1879</date>
 									<citedRange>60</citedRange>
 								</bibl>
@@ -4250,7 +4250,7 @@
 									lipsesc amănuntele, pentru că nu am avut tot timpul
 									necesar.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c5417eae-2669-882f-0bf6-fbc11fc89cbc">anestin</ptr>
+									<ptr target="#A101665">anestin</ptr>
 									<date>1914</date>
 									<citedRange>159</citedRange>
 								</bibl>
@@ -4258,7 +4258,7 @@
 							<cit type="unknown">
 								<quote>Îţi trăsese linealurile chiar pe pielea goală? – <hi rend="bold">Absolut</hi>!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+									<ptr target="#A102965">bănuț</ptr>
 									<date>1931</date>
 									<citedRange>202</citedRange>
 								</bibl>
@@ -4266,7 +4266,7 @@
 							<cit type="unknown">
 								<quote>Chiar cu nimeni? zise Din Vasilescu. – <hi rend="bold">Absolut</hi>. M-am dus eu, na! făcu Gheorghe.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9cf1c191-a01d-a678-66e4-a8dbccbe6899">preda</ptr>
+									<ptr target="#A100966">preda</ptr>
 									<date>1972</date>
 									<citedRange>1 290</citedRange>
 								</bibl>
@@ -4297,24 +4297,24 @@
 										şi acum natura întreagă apărea ca un <hi rend="bold">absolut</hi> în sine, independent de orice putere din
 										afară de ea.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">crainic</ptr>
+										<ptr target="#A103476">crainic</ptr>
 										<date>1936</date>
 										<citedRange>65</citedRange>
 									</bibl>
 								</cit>
 							</sense>
 							<sense xml:id="uuid-57c801b1-5571-4fe1-ae74-d52d50a9a10d" n="✧">
-								<form type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată">
 									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
 									<term>În absolut </term>
-								</form>
-								<form type="unitate-semantică-subsumată">
+								</re>
+								<re type="unitate-semantică-subsumată">
 									<usg>
 										<seg type="plev" rend="usg">Rar</seg>
 									</usg>
 									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
 									<term>La absolut</term>
-								</form>
+								</re>
 								<def xml:id="id">(care există) fără comparaţie, fără a ţine cont de
 									condiţii, de circumstanţe;</def>
 								<def xml:id="uuid-b1cacad7-0153-436a-a6c1-7cca74e1cec6">în
@@ -4324,7 +4324,7 @@
 										consultarea membrilor din consiliu, atunci senatul s-a
 										crezut de tot insultat.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e1b65bb9-16a2-95a1-667b-8b1de1196419">aristia</ptr>
+										<ptr target="#A103762">aristia</ptr>
 										<date>1857</date>
 										<citedRange>86/23</citedRange>
 									</bibl>
@@ -4332,7 +4332,7 @@
 								<cit type="unknown">
 									<quote>Gide, şi el un spirit logic, nu putea admite <hi rend="bold">în absolut</hi> teza lui Barres.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-3bf13d85-9fee-05c4-0d68-24afa6c24680">bart</ptr>
+										<ptr target="#A104350">bart</ptr>
 										<date>1926</date>
 										<citedRange>349</citedRange>
 									</bibl>
@@ -4342,7 +4342,7 @@
 										fără apropiere critică acută, toate postulatele necredinţei
 										le tratează <hi rend="bold">în absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">protopopescu</ptr>
+										<ptr target="#A102432">protopopescu</ptr>
 										<date>1936</date>
 										<citedRange>77</citedRange>
 									</bibl>
@@ -4352,7 +4352,7 @@
 										mare măsură de cele vecine, care-l pot exalta sau îl pot
 										stinge.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d70fc9f4-05ba-116e-75a9-216763f46e94">oprescu</ptr>
+										<ptr target="#A101643">oprescu</ptr>
 										<date>1945</date>
 										<citedRange>422</citedRange>
 									</bibl>
@@ -4362,7 +4362,7 @@
 										realizare <hi rend="bold">în absolut</hi> a unei picturi
 										pure, emancipată de forma terestră.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b47210df-0b37-878a-2ca8-4d5de0158ed4">biberi</ptr>
+										<ptr target="#A103278">biberi</ptr>
 										<date>1973</date>
 										<citedRange>77</citedRange>
 									</bibl>
@@ -4370,7 +4370,7 @@
 								<cit type="unknown">
 									<quote>Avem două negaţii care dau o afirmaţie, o afirmaţie <hi rend="bold">la absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">lovinescu</ptr>
+										<ptr target="#A100725">lovinescu</ptr>
 										<date>1984 (†)</date>
 										<citedRange>132</citedRange>
 									</bibl>
@@ -4381,7 +4381,7 @@
 										român; amândouă se rezolvă în etern, <hi rend="bold">în
 											absolut</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-bfa628f5-a679-28b2-0617-e56f74eb9ce7">bernea</ptr>
+										<ptr target="#A102602">bernea</ptr>
 										<date>1986</date>
 										<citedRange>155</citedRange>
 									</bibl>
@@ -4392,7 +4392,7 @@
 										„identificarea” lor (<hi rend="bold">în
 										absolut</hi>).</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-44935b5a-39cb-96e7-0b9f-601167f99818">dsl</ptr>
+										<ptr target="#A102465">dsl</ptr>
 										<date>2001</date>
 										<citedRange>501</citedRange>
 									</bibl>
@@ -4407,7 +4407,7 @@
 									produs ... şciinţa <hi rend="bold">absolutului</hi> a lui
 									Hegel.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+									<ptr target="#A101958">curier</ptr>
 									<date>&lt;1836–1837&gt;</date>
 									<citedRange>233<hi rend="superscript">2</hi>/29</citedRange>
 								</bibl>
@@ -4415,7 +4415,7 @@
 							<cit type="unknown">
 								<quote>Mă bucur că ţi-ai deschis inima naturii… E <hi rend="bold">absolutul</hi> perfect; armonia infinită.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b044ba3b-0d02-7df0-0c83-bf27f39e7f78">delavrancea</ptr>
+									<ptr target="#A100305">delavrancea</ptr>
 									<date>1882</date>
 									<citedRange>16</citedRange>
 								</bibl>
@@ -4424,7 +4424,7 @@
 								<quote>Îndărătul relativului există <hi rend="bold">absolutul</hi>,
 									sau îndărătul aparinţelor există realitatea.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-dd821906-13bd-21e2-7746-92d6850c5153">maiorescu</ptr>
+									<ptr target="#A102061">maiorescu</ptr>
 									<date>&lt;1884–1909&gt;</date>
 									<citedRange>204</citedRange>
 								</bibl>
@@ -4434,7 +4434,7 @@
 									complexitate de fenomene care alcătuieşte viaţa socială afla
 									trăsături caracteristice; dar nu să mai alergăm după <hi rend="bold">absoluturi</hi> metafizice!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-087c8888-1ab3-6d11-8aa8-4d125d0d4604">gherea</ptr>
+									<ptr target="#A104304">gherea</ptr>
 									<date>&lt;1886-1887&gt;</date>
 									<citedRange>165</citedRange>
 								</bibl>
@@ -4445,7 +4445,7 @@
 									scapă observaţiei noastre, care ne învârtim într-o lume de
 									relativităţi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">philippide</ptr>
+									<ptr target="#A102622">philippide</ptr>
 									<date>1894</date>
 									<citedRange>136</citedRange>
 								</bibl>
@@ -4454,7 +4454,7 @@
 								<quote>[Neniţescu] imediat simte nevoia să îmbrăţişeze universalul
 									şi <hi rend="bold">absolutul</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-55ebfb28-4ffa-6b24-5bb3-8b962f2a1abe">vianu</ptr>
+									<ptr target="#A100350">vianu</ptr>
 									<date>1916</date>
 									<citedRange>15</citedRange>
 								</bibl>
@@ -4464,7 +4464,7 @@
 									definit şi fix, e izgonită ... din conştiinţa omului
 									modern.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a7b3dab1-7499-49dd-278a-24e9663b8f66">ralea</ptr>
+									<ptr target="#A103528">ralea</ptr>
 									<date>1924</date>
 									<citedRange>3</citedRange>
 								</bibl>
@@ -4474,7 +4474,7 @@
 									apărute .... Dar şi cărţile cădeau dedesubtul meridianului ei de
 									intelect, zgândărit şi exasperat de conştiinţa dreptului la <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">arghezi</ptr>
+									<ptr target="#A100631">arghezi</ptr>
 									<date>1942</date>
 									<citedRange>29</citedRange>
 								</bibl>
@@ -4483,7 +4483,7 @@
 								<quote>Aceste grupuri pot fi considerate ca subgrupuri ale grupului
 									proiectiv, care lasă invariantă o cuadrică: <hi rend="bold">absolutul</hi> spaţiului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-6d36bf86-0d5f-68db-3904-a49f53c93d07">vrănceanu</ptr>
+									<ptr target="#A102754">vrănceanu</ptr>
 									<date>1952</date>
 									<citedRange>28</citedRange>
 								</bibl>
@@ -4492,7 +4492,7 @@
 								<quote>Heidegger ... refuză să fie consecvent, adică să se arunce
 									de-a dreptul în sentimentul existenţial al <hi rend="bold">absolutului</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-679b177e-1770-31d4-8c74-3b09ff400889">dumitriu</ptr>
+									<ptr target="#A100097">dumitriu</ptr>
 									<date>1955</date>
 									<citedRange>329</citedRange>
 								</bibl>
@@ -4501,7 +4501,7 @@
 								<quote>În afară de poezii, Eminescu dovedeşte acum nişte preocupări
 									ce s-ar părea curioase de n-am cunoaşte firea însetată de <hi rend="bold">absolut</hi> a poetului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-18f92f94-3ea1-6fea-6c96-4a54c5dd801d">călinescu</ptr>
+									<ptr target="#A104526">călinescu</ptr>
 									<date>1964 (1932)</date>
 									<citedRange>21</citedRange>
 								</bibl>
@@ -4510,7 +4510,7 @@
 								<quote>Absolutul nu se poate divide în părţi (e indivizibil); căci,
 									dacă s-ar divide, ar însemna să fie mai multe <hi rend="bold">absoluturi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4a49de80-8284-6170-21f5-587ae11296ae">băncilă</ptr>
+									<ptr target="#A100968">băncilă</ptr>
 									<date>1970</date>
 									<citedRange>124</citedRange>
 								</bibl>
@@ -4519,7 +4519,7 @@
 								<quote>Încercare tragică de a împăca ştiinţa şi străduinţa
 									subiectivă cu <hi rend="bold">absolutul</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<ptr target="#A102040">contemp</ptr>
 									<date>1982</date>
 									<citedRange>nr. 15, 4</citedRange>
 								</bibl>
@@ -4529,7 +4529,7 @@
 										absolutul </hi>se regăseşte în miezul temelor fundamentale
 									ale filozofiei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">d.
+									<ptr target="#A102556">d.
 										enc</ptr>
 									<date>1987</date>
 									<citedRange>21</citedRange>
@@ -4549,7 +4549,7 @@
 										lumii şi finalitatea, problema suferinţei şi mizeriei
 										lugubrului univers.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-3bf13d85-9fee-05c4-0d68-24afa6c24680">bart</ptr>
+										<ptr target="#A104350">bart</ptr>
 										<date>1929</date>
 										<citedRange>453</citedRange>
 									</bibl>
@@ -4559,7 +4559,7 @@
 											<hi rend="bold">absolut </hi>şi impersonal, adică
 										unitatea supremă, ascunsă: Atman.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-d5c26738-82b8-63df-107e-8a5cf06c4957">blaga</ptr>
+										<ptr target="#A102911">blaga</ptr>
 										<date>1935</date>
 										<citedRange>78</citedRange>
 									</bibl>
@@ -4569,7 +4569,7 @@
 										viziunilor religioase legate de fiinţa <hi rend="bold">absolută</hi> ..., dar a existat şi există ...
 										independent de ele.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-905516de-3cb6-8773-6148-8f95e0240632">noica</ptr>
+										<ptr target="#A100688">noica</ptr>
 										<date>c. 1980</date>
 										<citedRange>328</citedRange>
 									</bibl>
@@ -4580,7 +4580,7 @@
 										limitat, cu alte cuvinte este şi necuprins şi
 										comprehensibil.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+										<ptr target="#A100785">d.
 											mitol</ptr>
 										<date>1989</date>
 										<citedRange>86</citedRange>
@@ -4591,7 +4591,7 @@
 										incoruptibile, atunci această lume ar echivala cu o regiune
 										a fiinţei <hi rend="bold">absolute</hi>.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-b6151a41-723c-8cea-880a-cf7082ed10a3">liiceanu</ptr>
+										<ptr target="#A102304">liiceanu</ptr>
 										<date>1994</date>
 										<citedRange>35</citedRange>
 									</bibl>
@@ -4603,7 +4603,7 @@
 										transcendentului <hi rend="bold">absolut</hi> la Gabriel
 										Marcel.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+										<ptr target="#A103471">d.
 											logop</ptr>
 										<date>2011</date>
 										<citedRange>287</citedRange>
@@ -4622,7 +4622,7 @@
 									trimeată-n bezna rece a <hi rend="bold">Absolutului</hi>
 									etern.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e3deb300-37ff-67e6-9242-68e512438375">topîrceanu</ptr>
+									<ptr target="#A104851">topîrceanu</ptr>
 									<date>1910</date>
 									<citedRange>84</citedRange>
 								</bibl>
@@ -4630,7 +4630,7 @@
 							<cit type="unknown">
 								<quote>Aportul ştiinţei la cunoaşterea omenească e eliminarea <hi rend="bold">absolutului</hi>, şi deci a Dumnezeului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-694a4814-0a34-4995-3f7d-73b2243c70b9">protopopescu</ptr>
+									<ptr target="#A102432">protopopescu</ptr>
 									<date>1936</date>
 									<citedRange>78</citedRange>
 								</bibl>
@@ -4641,7 +4641,7 @@
 									Logosului divin, o faţă a <hi rend="bold">Absolutului</hi>, a
 									esenţei divine unice.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a9f7919a-8b77-3668-0281-91af9ee1976b">d.
+									<ptr target="#A100785">d.
 										mitol</ptr>
 									<date>1989</date>
 									<citedRange>129</citedRange>
@@ -4651,7 +4651,7 @@
 								<quote>Experienţa de vârf conduce la o trăire specială de unificare
 									a Sinelui cu Universul, Dumnezeu, <hi rend="bold">Absolutul</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-08d22d42-20c4-0882-8444-e7d7094776ed">d.
+									<ptr target="#A103471">d.
 										logop</ptr>
 									<date>2011</date>
 									<citedRange>228</citedRange>
@@ -4668,7 +4668,7 @@
                                     <hi rend="bold">Absolutul</hi> în artă e peste
 									putinţă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-deb6a4cd-354c-38b5-69e5-77e7a13d9b1d">gherea</ptr>
+									<ptr target="#A105206">gherea</ptr>
 									<date>1887</date>
 									<citedRange>17</citedRange>
 								</bibl>
@@ -4677,7 +4677,7 @@
 								<quote>Ideea de „<hi rend="bold">absolut</hi>” stă la temelia
 									acestei organizaţii.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7ef5038-0884-79aa-8264-89f8d47d149b">blaga</ptr>
+									<ptr target="#A100930">blaga</ptr>
 									<date>1924</date>
 									<citedRange>67</citedRange>
 								</bibl>
@@ -4687,7 +4687,7 @@
 									le îneacă într-o masă vagă de <hi rend="bold">absolut</hi> şi
 									etern.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1061de55-301a-0721-0332-afb767422757">ralea</ptr>
+									<ptr target="#A102208">ralea</ptr>
 									<date>1927</date>
 									<citedRange>88</citedRange>
 								</bibl>
@@ -4696,7 +4696,7 @@
 								<quote>Tentaţia de aventură spirituală, de căutare într-un <hi rend="bold">absolut</hi> al cunoaşterii l-a chinuit [pe
 									Eliade] cu o efervescenţă netăgăduită. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5768138d-2939-597b-08d1-dc113f3d52ce">constantinescu</ptr>
+									<ptr target="#A103125">constantinescu</ptr>
 									<date>1930</date>
 									<citedRange>491</citedRange>
 								</bibl>
@@ -4704,7 +4704,7 @@
 							<cit type="unknown">
 								<quote>Acest sistem conducea la ceea ce am putea numi căutarea <hi rend="bold">absolutului </hi>în pictură.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e3e6c0e3-25ac-7a99-68cc-53ac5bc73156">oprescu</ptr>
+									<ptr target="#A101265">oprescu</ptr>
 									<date>1946</date>
 									<citedRange>293</citedRange>
 								</bibl>
@@ -4712,7 +4712,7 @@
 							<cit type="unknown">
 								<quote>Idealul artei este <hi rend="bold">absolutul</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2ebce3c-2cec-88f7-677f-32a0c1790965">ist.
+									<ptr target="#A100156">ist.
 										lit.</ptr>
 									<date>1968</date>
 									<citedRange>644</citedRange>
@@ -4723,7 +4723,7 @@
 									conştiinţa <hi rend="bold">absolutului</hi> oricărei creaţii
 									veritabile.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-27f3e676-5314-63b5-8546-a9ce42897347">manolescu</ptr>
+									<ptr target="#A100546">manolescu</ptr>
 									<date>1970</date>
 									<citedRange>37</citedRange>
 								</bibl>
@@ -4731,7 +4731,7 @@
 							<cit type="unknown">
 								<quote>Artistul trebuie să facă din lucrarea sa un <hi rend="bold">absolut</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<ptr target="#A102040">contemp</ptr>
 									<date>1971</date>
 									<citedRange>nr. 12, 3</citedRange>
 								</bibl>
@@ -4739,7 +4739,7 @@
 							<cit type="unknown">
 								<quote>Eu vreau <hi rend="bold">absolutul</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-bdaa59f1-9aef-441b-6328-31c801e085d3">flacăra</ptr>
+									<ptr target="#A102493">flacăra</ptr>
 									<date>1981</date>
 									<citedRange>nr. 39, 11</citedRange>
 								</bibl>

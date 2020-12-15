@@ -61,7 +61,7 @@
 								sunt mai ales trei imagini așa de uzate și <hi rend="bold">abuzate</hi>, încât poeții cei tineri ar face bine să se
 								ferească de ele: aceste sunt florile, stelele și filomelele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-287ad18f-8716-111c-6c06-1a4dcfcb6dcd">maiorescu</ptr>
+								<ptr target="#A101430">maiorescu</ptr>
 								<date>1867</date>
 								<citedRange>24</citedRange>
 							</bibl>
@@ -70,7 +70,7 @@
 							<quote>E dureros a vedea limba între atâta <hi rend="bold">abuzată
 								</hi>și schimosită.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e7df1e03-8d84-73e0-6bee-95514c7c5efa">familia</ptr>
+								<ptr target="#A103382">familia</ptr>
 								<date>1872</date>
 								<citedRange>322</citedRange>
 							</bibl>
@@ -138,22 +138,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<ptr target="#A102837">MDA</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<ptr target="#A103264">DEXI</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">DIC</ptr>
+						<ptr target="#A103590">DIC</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

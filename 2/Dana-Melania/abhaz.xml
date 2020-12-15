@@ -67,15 +67,15 @@
 					</sense>
 					<sense xml:id="uuid-beef959c-e6b7-4a36-a77f-c0acbd2ac7d0" n="2.">
 						<sense xml:id="uuid-8d5cc1ac-9049-4c00-b8da-0362f251c375" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Limba abhază</term>
-							</form>
+							</re>
 							<def xml:id="id">limbă din familia caucaziană, vorbită de abhazi.</def>
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-d019c87c-26f3-8ba9-77e8-eefb276779c3">lumii</ptr>
+									<ptr target="#A103816">lumii</ptr>
 									<date>1981</date>
 									<citedRange/>
 								</bibl>
@@ -85,7 +85,7 @@
 									fiind georgiana …. şi încă: cercheza, <hi rend="bold">abhaza</hi>, avara, lezghina, … în fine, cecena şi
 									inguşa.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3e794073-96ce-a5a2-171d-466688455f7c">goma</ptr>
+									<ptr target="#A103828">goma</ptr>
 									<date>1999</date>
 									<citedRange>325</citedRange>
 								</bibl>

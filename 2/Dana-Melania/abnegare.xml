@@ -56,7 +56,7 @@
 								pentru eroismul şi <hi rend="bold">abnegarea</hi> fiilor lui, ...
 								dete lumei pe pateticul maestru Bellini.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-927e2541-63d5-0974-270d-e3f053ca64b8">filim</ptr>
+								<ptr target="#A100283">filim</ptr>
 								<date>1859</date>
 								<citedRange>310</citedRange>
 							</bibl>
@@ -65,7 +65,7 @@
 							<quote>[Iezuiţii] goniră din inima tinerilor elevi amorul de patrie, <hi rend="bold">abnegarea</hi> pentru binele comun şi alte virtuţi
 								civile.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-751d3d72-4748-5f4a-33ab-d3ec96c52732">filim</ptr>
+								<ptr target="#A104919">filim</ptr>
 								<date>1861</date>
 								<citedRange>236</citedRange>
 							</bibl>
@@ -75,7 +75,7 @@
 								patrie … unde tot răsuflă <hi rend="bold">abnegare</hi>, sacrifice
 								pentru o idee mare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c1e72093-4fda-9821-721b-b445d3f23a62">bolint</ptr>
+								<ptr target="#A104485">bolint</ptr>
 								<date>1863</date>
 								<citedRange>297</citedRange>
 							</bibl>
@@ -87,7 +87,7 @@
 								eroii trecutului nostru şi cu mai multă <hi rend="bold">abnegare</hi> în ceea ce priveşte interesele noastre
 								comune.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a23f0892-12ba-52c1-837a-a3fba5659a37">emin</ptr>
+								<ptr target="#A104546">emin</ptr>
 								<date>1871</date>
 								<citedRange>497</citedRange>
 							</bibl>
@@ -96,7 +96,7 @@
 							<quote>Nu dar prin prescripţiuni de <hi rend="bold">abnegare</hi> se
 								întemeiază politica.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-242183fe-6eb9-9889-1b36-b3ae16e522c6">maiore</ptr>
+								<ptr target="#A101492">maiore</ptr>
 								<date>1874</date>
 								<citedRange>147</citedRange>
 							</bibl>
@@ -107,7 +107,7 @@
 								sângele vieţii de 20 de ani dă avânturi nobile, simţimânte eroice,
 								generozitate, voinicie, <hi rend="bold">abnegare</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1fdd41a7-11f9-43d6-80c5-1c8bcc1f8e1f">zamfire</ptr>
+								<ptr target="#A102652">zamfire</ptr>
 								<date>1883</date>
 								<citedRange>204</citedRange>
 							</bibl>
@@ -119,7 +119,7 @@
 								urmelor la o <hi rend="bold">abnegare</hi> a individualităţii
 								noastre naţionale.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3767bd90-35c0-3403-6bbc-0a673ad547f0">st.</ptr>
+								<ptr target="#A100710">st.</ptr>
 								<date>1889</date>
 								<citedRange>234</citedRange>
 							</bibl>
@@ -128,7 +128,7 @@
 							<quote>[Elitei paşoptiste] i-ar fi trebuit mult tact, multă <hi rend="bold">abnegare</hi>, şi mai ales multă vreme, ca să poată
 								înţălege poporul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-04a85443-70de-3c4c-1252-56a760956b70">barno</ptr>
+								<ptr target="#A102844">barno</ptr>
 								<date>1922</date>
 								<citedRange>328</citedRange>
 							</bibl>
@@ -140,7 +140,7 @@
 								eroice de <hi rend="bold">abnegare</hi> pentru o muncă culturală
 								fără odihnă şi pasionată.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-497ff649-1886-75bb-71cd-73023ce66144">gusti</ptr>
+								<ptr target="#A102949">gusti</ptr>
 								<date>1938</date>
 								<citedRange>306</citedRange>
 							</bibl>
@@ -149,7 +149,7 @@
 							<quote>Şaizeci de ani de osârdie şt canon echivalează cu o epocă de
 								zdruncin, <hi rend="bold">abnegare</hi> şi jertfă de sine.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f7f8aa5e-4c75-1973-68e2-fc3101895512">schiț</ptr>
+								<ptr target="#A101599">schiț</ptr>
 								<date>1959</date>
 								<citedRange>140</citedRange>
 							</bibl>
@@ -173,32 +173,32 @@
 					<idno type="formație.internă-trimitere-V."/><ptr targetLang="" type="unknown" subtype="unknown" target="abnega"/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<ptr target="#A105061">barci</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
@@ -208,22 +208,22 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

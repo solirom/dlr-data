@@ -1,144 +1,144 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/r_nedea" owner="r_nedea" group="dlr-redactors" mode="774" created="2019-04-16T05:42:11+03:00" deduplicate-blobs="false" version="2">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/r_nedea" owner="admin" group="dba" mode="774" created="2019-04-15T22:42:11+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="abstrage.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-18T06:55:16+02:00" modified="2020-05-19T04:40:58+03:00" filename="abstrage.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstrage.xml" owner="admin" group="dba" mode="644" created="2020-03-17T18:55:16+02:00" modified="2020-12-10T04:01:59+02:00" filename="abstrage.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstentionism.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-19T09:55:13+02:00" modified="2020-02-19T10:09:27+02:00" filename="abstentionism.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstentionism.xml" owner="admin" group="dba" mode="644" created="2020-02-18T19:55:13+02:00" modified="2020-12-10T04:01:57+02:00" filename="abstentionism.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstentionist.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-19T10:13:00+02:00" modified="2020-02-19T10:54:21+02:00" filename="abstentionist.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstentionist.xml" owner="admin" group="dba" mode="644" created="2020-02-18T20:13:00+02:00" modified="2020-12-10T04:01:20+02:00" filename="abstentionist.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstentiune.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-20T02:09:52+02:00" modified="2020-02-26T06:09:18+02:00" filename="abstentiune.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstentiune.xml" owner="admin" group="dba" mode="644" created="2020-02-19T12:09:52+02:00" modified="2020-12-10T04:01:44+02:00" filename="abstentiune.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbabil.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-15T05:19:20+02:00" modified="2020-01-23T05:53:49+02:00" filename="absorbabil.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbabil.xml" owner="admin" group="dba" mode="644" created="2020-01-14T15:19:20+02:00" modified="2020-12-10T04:01:45+02:00" filename="absorbabil.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbabilitate.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-15T05:22:10+02:00" modified="2020-01-23T05:55:03+02:00" filename="absorbabilitate.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbabilitate.xml" owner="admin" group="dba" mode="644" created="2020-01-14T15:22:10+02:00" modified="2020-12-10T03:55:22+02:00" filename="absorbabilitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbant.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-15T05:35:32+02:00" modified="2020-05-19T04:40:58+03:00" filename="absorbant.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbant.xml" owner="admin" group="dba" mode="644" created="2020-01-14T15:35:32+02:00" modified="2020-12-15T05:29:36+02:00" filename="absorbant.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbanta.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-16T05:15:12+02:00" modified="2020-01-22T13:26:42+02:00" filename="absorbanta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbanta.xml" owner="admin" group="dba" mode="644" created="2020-01-15T15:15:12+02:00" modified="2020-12-10T03:57:00+02:00" filename="absorbanta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractist.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-02T06:51:14+02:00" modified="2020-03-02T09:27:23+02:00" filename="abstractist.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractist.xml" owner="admin" group="dba" mode="644" created="2020-03-01T16:51:14+02:00" modified="2020-12-10T03:58:45+02:00" filename="abstractist.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbantic.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:24:16+02:00" modified="2020-01-23T05:51:40+02:00" filename="absorbantic.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbantic.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:24:16+02:00" modified="2020-12-10T04:01:17+02:00" filename="absorbantic.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbens.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T03:48:19+02:00" modified="2020-01-23T04:47:35+02:00" filename="absorbens.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbens.xml" owner="admin" group="dba" mode="644" created="2020-01-20T13:48:19+02:00" modified="2020-12-10T03:58:46+02:00" filename="absorbens.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbi.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:26:15+02:00" modified="2020-05-19T04:40:58+03:00" filename="absorbi.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbi.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:26:15+02:00" modified="2020-12-10T04:01:04+02:00" filename="absorbi.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbenta.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:27:03+02:00" modified="2020-01-23T05:19:27+02:00" filename="absorbenta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbenta.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:27:03+02:00" modified="2020-12-10T04:01:12+02:00" filename="absorbenta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbire.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:27:51+02:00" modified="2020-02-19T09:51:48+02:00" filename="absorbire.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbire.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:27:51+02:00" modified="2020-12-10T03:58:29+02:00" filename="absorbire.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbitiv.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:29:54+02:00" modified="2020-02-18T10:10:53+02:00" filename="absorbitiv.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbitiv.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:29:54+02:00" modified="2020-12-10T04:01:44+02:00" filename="absorbitiv.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractism.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-02T06:14:12+02:00" modified="2020-03-02T06:50:24+02:00" filename="abstractism.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractism.xml" owner="admin" group="dba" mode="644" created="2020-03-01T16:14:12+02:00" modified="2020-12-10T04:00:01+02:00" filename="abstractism.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbitivitate.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:30:15+02:00" modified="2020-05-19T04:40:58+03:00" filename="absorbitivitate.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbitivitate.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:30:15+02:00" modified="2020-12-10T03:59:41+02:00" filename="absorbitivitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbit2.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:31:16+02:00" modified="2020-02-18T09:18:34+02:00" filename="absorbit2.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbit2.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:31:16+02:00" modified="2020-12-10T04:01:44+02:00" filename="absorbit2.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbtie.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:32:00+02:00" modified="2020-02-19T09:52:43+02:00" filename="absorbtie.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbtie.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:32:00+02:00" modified="2020-12-15T05:29:37+02:00" filename="absorbtie.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbtiometrie.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:32:45+02:00" modified="2020-01-23T04:45:57+02:00" filename="absorbtiometrie.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbtiometrie.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:32:45+02:00" modified="2020-12-10T03:57:00+02:00" filename="absorbtiometrie.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbtiometru.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:33:07+02:00" modified="2020-01-23T04:34:55+02:00" filename="absorbtiometru.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbtiometru.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:33:07+02:00" modified="2020-12-10T04:01:21+02:00" filename="absorbtiometru.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbit1.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:45:30+02:00" modified="2020-02-18T04:10:28+02:00" filename="absorbit1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbit1.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:45:30+02:00" modified="2020-12-10T04:01:21+02:00" filename="absorbit1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorbitor.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-21T04:48:45+02:00" modified="2020-05-19T04:40:58+03:00" filename="absorbitor.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorbitor.xml" owner="admin" group="dba" mode="644" created="2020-01-20T14:48:45+02:00" modified="2020-12-10T04:01:21+02:00" filename="absorbitor.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abspeisoli.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T05:59:37+02:00" modified="2020-01-23T05:49:06+02:00" filename="abspeisoli.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abspeisoli.xml" owner="admin" group="dba" mode="644" created="2020-01-21T15:59:37+02:00" modified="2020-12-10T04:01:07+02:00" filename="abspeisoli.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abspalare.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T05:16:40+02:00" modified="2020-01-23T04:07:42+02:00" filename="abspalare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abspalare.xml" owner="admin" group="dba" mode="644" created="2020-01-21T15:16:40+02:00" modified="2020-12-10T03:59:00+02:00" filename="abspalare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absta.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T06:16:36+02:00" modified="2020-01-23T05:47:29+02:00" filename="absta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absta.xml" owner="admin" group="dba" mode="644" created="2020-01-21T16:16:36+02:00" modified="2020-12-10T03:59:34+02:00" filename="absta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstare.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T06:40:45+02:00" modified="2020-01-23T05:42:57+02:00" filename="abstare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstare.xml" owner="admin" group="dba" mode="644" created="2020-01-21T16:40:45+02:00" modified="2020-12-10T03:59:00+02:00" filename="abstare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstanta.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T07:02:25+02:00" modified="2020-01-23T05:40:08+02:00" filename="abstanta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstanta.xml" owner="admin" group="dba" mode="644" created="2020-01-21T17:02:25+02:00" modified="2020-12-10T03:55:44+02:00" filename="abstanta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abspala.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T03:29:31+02:00" modified="2020-01-23T03:59:36+02:00" filename="abspala.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abspala.xml" owner="admin" group="dba" mode="644" created="2020-01-21T13:29:31+02:00" modified="2020-12-10T03:59:00+02:00" filename="abspala.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstemiu.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-22T07:39:38+02:00" modified="2020-01-22T07:42:05+02:00" filename="abstemiu.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstemiu.xml" owner="admin" group="dba" mode="644" created="2020-01-21T17:39:38+02:00" modified="2020-01-21T17:42:05+02:00" filename="abstemiu.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absorber.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-01-23T05:22:51+02:00" modified="2020-01-23T05:34:37+02:00" filename="absorber.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absorber.xml" owner="admin" group="dba" mode="644" created="2020-01-22T15:22:51+02:00" modified="2020-12-10T04:01:21+02:00" filename="absorber.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstrain.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-04-01T06:46:55+03:00" modified="2020-04-01T06:52:32+03:00" filename="abstrain.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstrain.xml" owner="admin" group="dba" mode="644" created="2020-03-31T16:46:55+03:00" modified="2020-12-10T03:53:36+02:00" filename="abstrain.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstinent.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-20T04:23:20+02:00" modified="2020-02-20T05:40:20+02:00" filename="abstinent.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstinent.xml" owner="admin" group="dba" mode="644" created="2020-02-19T14:23:20+02:00" modified="2020-12-10T04:01:24+02:00" filename="abstinent.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractizat.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-05T07:36:45+02:00" modified="2020-03-05T13:13:26+02:00" filename="abstractizat.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractizat.xml" owner="admin" group="dba" mode="644" created="2020-03-04T17:36:45+02:00" modified="2020-12-10T03:57:34+02:00" filename="abstractizat.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractionist.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-16T11:55:17+02:00" modified="2020-03-17T04:38:34+02:00" filename="abstractionist.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractionist.xml" owner="admin" group="dba" mode="644" created="2020-03-15T23:55:17+02:00" modified="2020-12-10T04:00:25+02:00" filename="abstractionist.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractiv.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-02T09:50:05+02:00" modified="2020-03-03T12:19:08+02:00" filename="abstractiv.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractiv.xml" owner="admin" group="dba" mode="644" created="2020-03-01T19:50:05+02:00" modified="2020-12-10T04:01:44+02:00" filename="abstractiv.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractitate.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-02T09:30:43+02:00" modified="2020-03-02T09:49:23+02:00" filename="abstractitate.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractitate.xml" owner="admin" group="dba" mode="644" created="2020-03-01T19:30:43+02:00" modified="2020-12-10T04:01:12+02:00" filename="abstractitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractiza.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-03T12:26:39+02:00" modified="2020-03-04T07:12:01+02:00" filename="abstractiza.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractiza.xml" owner="admin" group="dba" mode="644" created="2020-03-02T22:26:39+02:00" modified="2020-12-10T04:01:47+02:00" filename="abstractiza.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractivitate.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-03T12:19:46+02:00" modified="2020-03-03T12:25:16+02:00" filename="abstractivitate.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractivitate.xml" owner="admin" group="dba" mode="644" created="2020-03-02T22:19:46+02:00" modified="2020-12-10T04:00:01+02:00" filename="abstractivitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstras.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-04-01T06:53:21+03:00" modified="2020-04-02T12:53:30+03:00" filename="abstras.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstras.xml" owner="admin" group="dba" mode="644" created="2020-03-31T16:53:21+03:00" modified="2020-12-10T04:01:44+02:00" filename="abstras.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractizare.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-05T04:13:04+02:00" modified="2020-03-05T07:32:16+02:00" filename="abstractizare.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractizare.xml" owner="admin" group="dba" mode="644" created="2020-03-04T14:13:04+02:00" modified="2020-12-10T04:01:06+02:00" filename="abstractizare.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractum.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-04T12:37:30+02:00" modified="2020-03-04T13:53:49+02:00" filename="abstractum.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractum.xml" owner="admin" group="dba" mode="644" created="2020-03-03T22:37:30+02:00" modified="2020-12-10T03:53:14+02:00" filename="abstractum.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractor.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-04T12:22:26+02:00" modified="2020-03-04T12:35:50+02:00" filename="abstractor.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractor.xml" owner="admin" group="dba" mode="644" created="2020-03-03T22:22:26+02:00" modified="2020-12-10T04:01:44+02:00" filename="abstractor.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractizant.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-04T07:18:04+02:00" modified="2020-03-04T10:36:51+02:00" filename="abstractizant.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractizant.xml" owner="admin" group="dba" mode="644" created="2020-03-03T17:18:04+02:00" modified="2020-12-10T03:59:33+02:00" filename="abstractizant.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstinenta.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-02-21T04:10:28+02:00" modified="2020-02-21T09:22:50+02:00" filename="abstinenta.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstinenta.xml" owner="admin" group="dba" mode="644" created="2020-02-20T14:10:28+02:00" modified="2020-12-10T04:01:52+02:00" filename="abstinenta.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstractionism.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-16T06:51:00+02:00" modified="2020-03-16T11:54:30+02:00" filename="abstractionism.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstractionism.xml" owner="admin" group="dba" mode="644" created="2020-03-15T18:51:00+02:00" modified="2020-12-10T04:00:25+02:00" filename="abstractionism.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abstragere.xml" owner="r_nedea" group="r_nedea" mode="644" created="2020-03-31T06:04:18+03:00" modified="2020-03-31T11:38:35+03:00" filename="abstragere.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abstragere.xml" owner="admin" group="dba" mode="644" created="2020-03-30T16:04:18+03:00" modified="2020-12-10T04:01:02+02:00" filename="abstragere.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

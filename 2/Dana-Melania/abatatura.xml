@@ -48,7 +48,7 @@
 									neclătinat şî ca să afle umblet întru poruncile lu Hristos fără
 									de <hi rend="bold">abătătură</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-25490484-0fa4-760f-2fa0-7ef08b152de3">ioas</ptr>
+									<ptr target="#A103584">ioas</ptr>
 									<date>1648</date>
 									<citedRange>302</citedRange>
 								</bibl>
@@ -61,7 +61,7 @@
 								<quote>Scoposul mieu ... priveşte ... la ajutorul şi folosul
 									neamului, iar nu la vreo netrebnică şi rea <hi rend="bold">abătătură</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-b16f6ae9-4550-50dd-0f42-4c9d0dc2572d">epis</ptr>
+									<ptr target="#A101133">epis</ptr>
 									<date>1829</date>
 									<citedRange>48/14 </citedRange>
 								</bibl>
@@ -87,7 +87,7 @@
 								Dămboviţii, iaste acel fund alăturea cu casa dumnealui pănă în
 								Dămboviţă, cu vad de moară.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8b82042e-300d-4679-5b04-d8ba230b5995">dâmb</ptr>
+								<ptr target="#A103171">dâmb</ptr>
 								<date>1721</date>
 								<citedRange>613</citedRange>
 							</bibl>
@@ -99,7 +99,7 @@
 								cu doaoă roate, în <hi rend="bold">abătătura</hi> Prahov[ei], tot în
 								moşiia Măgureni.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fe8d53cb-8ffb-2d19-a474-3a5c6bef12db">cantac</ptr>
+								<ptr target="#A101433">cantac</ptr>
 								<date>1775</date>
 								<citedRange>216</citedRange>
 							</bibl>
@@ -110,7 +110,7 @@
 								apii, cu toţii câţi au mori să îndemnează şi intră la orice
 								cheltuială şi face zăgasul şi abate iar apa.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e8bf5f1f-0064-1568-7a0d-731887e651bf">judic</ptr>
+								<ptr target="#A104916">judic</ptr>
 								<date>1777</date>
 								<citedRange>410</citedRange>
 							</bibl>
@@ -119,7 +119,7 @@
 							<quote>Viindu orânduiţii boeri pe malulu acei <hi rend="bold">abătături</hi> la vale, s-au vezut de faţă stricăciunna şi
 								mâncătura ce au făcută moşiei jăluitorului.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-c00cbbe4-4237-7b45-8157-65e5f795988b">urechi</ptr>
+								<ptr target="#A102976">urechi</ptr>
 								<date>1794</date>
 								<citedRange>232</citedRange>
 							</bibl>
@@ -130,7 +130,7 @@
 								şanţurilor ce se despart de Dâmboviţa cu curgere către
 								Sabar.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-bec92316-0f0c-0502-7a50-ca6c0369a789">urech</ptr>
+								<ptr target="#A101390">urech</ptr>
 								<date>1796</date>
 								<citedRange>687</citedRange>
 							</bibl>
@@ -140,7 +140,7 @@
 								aşijderea şi pentru acea <hi rend="bold">abătătură</hi> Dâmboviţei
 								ce este din dosul monăstirei Radului Vodă.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-6152d671-9b51-151a-386a-ab852636a6bf">urec</ptr>
+								<ptr target="#A102995">urec</ptr>
 								<date>1815</date>
 								<citedRange>729</citedRange>
 							</bibl>
@@ -170,17 +170,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

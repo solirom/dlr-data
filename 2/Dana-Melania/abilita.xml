@@ -50,7 +50,7 @@
 								<quote>În Bucureşti, pe vremea ocupaţiei ruseşti, ... <hi rend="bold">se abilita</hi> ca farmacist în 1829 Mihaiu
 									Eckhardt.</quote>
 								<bibl type="în">
-									<ptr target="#uuid-37597b06-5765-8386-2117-fcf1b4611dfe">acte</ptr>
+									<ptr target="#A101518">acte</ptr>
 									<date>1904</date>
 									<citedRange>VI [prefață]</citedRange>
 								</bibl>
@@ -59,7 +59,7 @@
 								<quote>Dr. Cândea, care a venit de la Sibiu, <hi rend="bold">abilitându-se</hi> aici, ne-a adus vestea că şi în Ardeal
 									sunt stări analoage.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+									<ptr target="#A101966">pușc</ptr>
 									<date>1919</date>
 									<citedRange>354</citedRange>
 								</bibl>
@@ -70,7 +70,7 @@
 									morţii şi nemuririi” a pierdut această situaţie şi cariera sa
 									universitară s-a închis.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negul</ptr>
+									<ptr target="#A104066">negul</ptr>
 									<date>1934</date>
 									<citedRange>196</citedRange>
 								</bibl>
@@ -88,7 +88,7 @@
 									<hi rend="bold">abilitat</hi> ghipsul ca materie expresivă,
 									primă şi ultimă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">adio</ptr>
+									<ptr target="#A103664">adio</ptr>
 									<date>1980</date>
 									<citedRange>243</citedRange>
 								</bibl>
@@ -106,7 +106,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -115,7 +115,7 @@
 							<quote>Există persoane anume abilitate pentru a le pune în
 								aplicare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">liter</ptr>
+								<ptr target="#A101955">liter</ptr>
 								<date>1982</date>
 								<citedRange>1982, nr. 12, 4</citedRange>
 							</bibl>
@@ -132,7 +132,7 @@
 									literare pentru întreaga societate, fiind singurul <hi rend="bold">abilitat</hi> să confere legitimitatea estetică
 									şi să furnizeze echipamentul de lectură standard.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2be2f94b-8190-0956-3f17-b67f949f1c79">cornea</ptr>
+									<ptr target="#A104445">cornea</ptr>
 									<date>1988</date>
 									<citedRange>112</citedRange>
 								</bibl>
@@ -152,7 +152,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+								<ptr target="#A102972">dm</ptr>
 								<date>1958</date>
 								<citedRange/>
 							</bibl>
@@ -162,7 +162,7 @@
 								ale caietului de sarcini al licenţei de transport constatate de
 								organele <hi rend="bold">abilitate</hi> să execute ordinul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">MO</ptr>
+								<ptr target="#A101950">MO</ptr>
 								<date>1998</date>
 								<citedRange>X, nr. 50 bis/54</citedRange>
 							</bibl>
@@ -174,7 +174,7 @@
 								utilizării cu orice titlu a substanţelor şi preparatelor periculoase
 								pentru salariaţi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0ffb1289-1517-2717-a71b-a952a8a25507">muncii</ptr>
+								<ptr target="#A100467">muncii</ptr>
 								<date>2003</date>
 								<citedRange>61</citedRange>
 							</bibl>
@@ -195,7 +195,7 @@
 									profesor în Jena (1887), îl vedem [pe Meyer-Lübke] urmărind cu
 									deosebită atenţie filologia românească.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1c3d1a17-a5d3-134b-7fac-f588046a7e9d">pușc</ptr>
+									<ptr target="#A103450">pușc</ptr>
 									<date>1938</date>
 									<citedRange>588</citedRange>
 								</bibl>
@@ -217,7 +217,7 @@
 								împrejurările de azi un nou tip de profesori, profesorii stagiari,
 								pe care Consiliul Dirigent îi angajează pe timp de trei ani.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușc</ptr>
+								<ptr target="#A101966">pușc</ptr>
 								<date>1919</date>
 								<citedRange>406</citedRange>
 							</bibl>
@@ -229,7 +229,7 @@
 								târziu, se întoarce în 1907 ca privat-docent de filosofie la
 								Universitatea din München.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a6ed29ab-529f-1f5d-1c7d-bf1f2d4e783d">vulc</ptr>
+								<ptr target="#A102023">vulc</ptr>
 								<date>1929</date>
 								<citedRange>192</citedRange>
 							</bibl>
@@ -261,12 +261,12 @@
 					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
 					<def>habilitá</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
@@ -293,52 +293,52 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

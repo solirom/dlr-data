@@ -40,7 +40,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-8a15adaa-1931-9b98-92b3-3bd44d79a3eb">caba</ptr>
+								<ptr target="#A100508">caba</ptr>
 								<date>1918</date>
 								<citedRange>94</citedRange>
 							</bibl>
@@ -62,7 +62,7 @@
 							<quote>C-amu te dau pe brânca lu’ plutonieru de jândari să te
 								abrictălească o ţâră! Ui’ la el!</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cdabddd3-46d9-4f22-29dd-274891555d10">beniuc</ptr>
+								<ptr target="#A104599">beniuc</ptr>
 								<date>1959</date>
 								<citedRange>404</citedRange>
 							</bibl>
@@ -70,7 +70,7 @@
 						<cit type="unknown">
 							<quote>Ia abrictălește-l o țâră! Nu vezi că nu te-ascultă?!</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<ptr target="#A101545">dialect</ptr>
 								<date>1960</date>
 								<citedRange>52</citedRange>
 							</bibl>
@@ -79,7 +79,7 @@
 							<quote>Trebuie să brictălim puțin copilul ăsta căci altfel nu face
 								nimic.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+								<ptr target="#A101545">dialect</ptr>
 								<date>1960</date>
 								<citedRange>281</citedRange>
 							</bibl>
@@ -87,7 +87,7 @@
 						<cit type="unknown">
 							<quote>De nu taci, te abrictălesc.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic</ptr>
+								<ptr target="#A100371">lexic</ptr>
 								<date>1967</date>
 								<citedRange>97</citedRange>
 							</bibl>
@@ -113,7 +113,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-86d355d1-22f3-16e6-8bd5-2673b6438d2f">etym</ptr>
+						<ptr target="#A103046">etym</ptr>
 						<date>1966</date>
 						<citedRange>s.v. abrictălui</citedRange>
 					</bibl>

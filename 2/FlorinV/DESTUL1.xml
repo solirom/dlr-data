@@ -203,17 +203,17 @@
                         </sense>
                         <sense xml:id="uuid-7ec3b59a-1cd0-4562-a25b-502edcb5b47a" n="2.">
                             <sense xml:id="uuid-5e335ad2-51a5-4e67-8118-52c2987bcb2f" n="◊">
-                                <form type="unitate-semantică-subsumată">
+                                <re type="unitate-semantică-subsumată">
                                     <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                     <term>A face destul</term>
-                                </form>
+                                </re>
                                 <def xml:id="uuid-39821a2e-b3db-42bc-858d-174c7afe5a78">a pune
                                     capăt</def>
                                 <cit type="unknown">
                                     <quote>Au trăbuit să fie oarece cauză grea foarte, carea îl
                                         împiedeca pre Adrian de a face destul deodată şi pismei. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-ed146fd3-0db5-45d0-829d-34456e825a4a"/>
+                                        <ptr target="#A102160"/>
                                         <date/>
                                         <citedRange> 28/30.</citedRange>
                                     </bibl>
@@ -227,7 +227,7 @@
                                 <cit type="unknown">
                                     <quote>Acest au zis: destul! De această masă eu-s sătul. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a"/>
+                                        <ptr target="#A102555"/>
                                         <date>1829</date>
                                         <citedRange> 20<hi rend="superscript">1</hi>/27.</citedRange>
                                     </bibl>
@@ -337,7 +337,7 @@
                             <cit type="unknown">
                                 <quote>De la gând până la practică este destulă cale. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-fa6fa47d-6758-0aa8-35c0-01b3fa9d8226"/>
+                                    <ptr target="#A102197"/>
                                     <date/>
                                     <citedRange>181</citedRange>
                                 </bibl>

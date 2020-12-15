@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">Pontb</ptr>
+								<ptr target="#A101803">Pontb</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -69,12 +69,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">Lmd</ptr>
+						<ptr target="#A102654">Lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>

@@ -47,7 +47,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange/>
 							</bibl>
@@ -63,7 +63,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavr</ptr>
+								<ptr target="#A103756">gavr</ptr>
 								<date>1847</date>
 								<citedRange/>
 							</bibl>
@@ -72,7 +72,7 @@
 							<quote><hi rend="bold">Abluțiune</hi>, subst[antiv] fem[inin], „spălare
 								legiută”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-89bdf10e-0db2-27a0-4131-bdbffefc22db">isaa</ptr>
+								<ptr target="#A100121">isaa</ptr>
 								<date>1856</date>
 								<citedRange>194</citedRange>
 							</bibl>
@@ -81,7 +81,7 @@
 							<quote>Sunt mai multe turbe …, făntâna d-<hi rend="bold">abluţiuni</hi>
 								(spălare) şi intrarea principală a marelui peristyl.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">viag</ptr>
+								<ptr target="#A101611">viag</ptr>
 								<date>1886</date>
 								<citedRange>48</citedRange>
 							</bibl>
@@ -90,7 +90,7 @@
 							<quote>În mijlocul atriumului [basilicii] se află obicinuit o fântână,
 								necesară <hi rend="bold">abluţiunilor</hi> rituale.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c8a108f7-029e-2fd0-8ab4-1f794e5aa659">opres</ptr>
+								<ptr target="#A100552">opres</ptr>
 								<date>1943</date>
 								<citedRange>41</citedRange>
 							</bibl>
@@ -99,7 +99,7 @@
 							<quote>În mijlocul curţii se găseşte fântâna pentru <hi rend="bold">abluţiuni</hi>, iar pe latura în care se fac rugăciunile cu
 								faţa spre Mecca – corpul de clădire numit „haram”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătăș</ptr>
+								<ptr target="#A101842">vătăș</ptr>
 								<date>1967</date>
 								<citedRange>170</citedRange>
 							</bibl>
@@ -117,7 +117,7 @@
 								primăriei din Cicârci aduceau pe tapet abluţiunile prescrise de A.
 								Coran. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9ad0f89e-81b0-3c83-5926-29e0d23c792b">polit</ptr>
+								<ptr target="#A100281">polit</ptr>
 								<date>1886</date>
 								<citedRange>131</citedRange>
 							</bibl>
@@ -127,7 +127,7 @@
 								care, după obicinuita <hi rend="bold">abluţie</hi>, l-au îmbrăcat cu
 								cele mai frumoase haine ce a avut. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">lib</ptr>
+								<ptr target="#A101579">lib</ptr>
 								<date>1888</date>
 								<citedRange>nr. 3 148, 2</citedRange>
 							</bibl>
@@ -138,7 +138,7 @@
 								municipale şi la pudră galbenă de deserturi în dauna mahalalelor,
 								aceste mădulare dispreţuite.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8">vine</ptr>
+								<ptr target="#A102973">vine</ptr>
 								<date>1926</date>
 								<citedRange>365</citedRange>
 							</bibl>
@@ -148,7 +148,7 @@
 								preajma morţii, stropindu-i cu apă rece, făcându-le <hi rend="bold">abluţiuni</hi> şi împachetări reci, urmând metoda lui
 								Caspar.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">bici</ptr>
+								<ptr target="#A100419">bici</ptr>
 								<date>2002</date>
 								<citedRange>184</citedRange>
 							</bibl>
@@ -164,7 +164,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+								<ptr target="#A104626">dn</ptr>
 								<date>1978</date>
 								<citedRange/>
 							</bibl>
@@ -207,67 +207,67 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<ptr target="#A102700">neguli</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<ptr target="#A101929">bălăș</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<ptr target="#A101803">pont</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<ptr target="#A102594">antone</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+						<ptr target="#A101394">șăine</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
@@ -277,42 +277,42 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

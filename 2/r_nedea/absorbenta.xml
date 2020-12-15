@@ -49,7 +49,7 @@
 									neutralisatoare, d. e. magnesia, în contra acidului
 									gastric.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.</ptr>
+									<ptr target="#A101816">enc.</ptr>
 									<date>1898</date>
 									<citedRange/>
 								</bibl>
@@ -57,7 +57,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+									<ptr target="#A100593">alexi</ptr>
 									<date>1905</date>
 									<citedRange/>
 								</bibl>
@@ -74,7 +74,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<ptr target="#A102594">antonescu</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -107,7 +107,7 @@
 						<number>absorbenţii </number>
 						<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
 						<bibl type="unknown">
-							<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+							<ptr target="#A100593">alexi</ptr>
 							<date>1905</date>
 							<citedRange/>
 						</bibl>
@@ -120,7 +120,7 @@
 					<usg><seg type="time" rend="usg">înv.</seg><seg type="plev" rend="usg">rar</seg></usg>
 					<def>absorbínță</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antone</ptr>
+						<ptr target="#A102594">antone</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>

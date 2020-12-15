@@ -43,7 +43,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">Lmd</ptr>
+								<ptr target="#A102654">Lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -78,7 +78,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<ptr target="#A102837">MDA</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>

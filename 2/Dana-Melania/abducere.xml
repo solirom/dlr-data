@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">cor</ptr>
+								<ptr target="#A100539">cor</ptr>
 								<date>&lt;1691–1697&gt;</date>
 								<citedRange>s. v. abduco, -is, -ere.</citedRange>
 							</bibl>
@@ -69,12 +69,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-03c4cab4-3a01-471e-5365-45aac7ba73a4">dn</ptr>
+						<ptr target="#A101288">dn</ptr>
 						<date>1997</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5a2069b1-64bc-307c-7f87-b9a5e5be2357">form</ptr>
+						<ptr target="#A103228">form</ptr>
 						<date>2015</date>
 						<citedRange>306</citedRange>
 					</bibl>

@@ -48,7 +48,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<ptr target="#A100126">pake</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -57,7 +57,7 @@
 							<quote>Câţiva din funcţionari se apropiară tiptil ... Era evident că se
 								petrecuse ceva, cum se zicea la contabilitate, „<hi rend="bold">abnormal</hi>”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">lina</ptr>
+								<ptr target="#A100631">lina</ptr>
 								<date>1942</date>
 								<citedRange>126</citedRange>
 							</bibl>
@@ -101,17 +101,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. r</ptr>
+						<ptr target="#A101816">enc. r</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>

@@ -46,7 +46,7 @@
 							<quote>Cea mai de pe urmă tabelă despre populațiunea județului Mehedinți
 								a fost următoarea: 27.300 birnici români din sate, zis <hi rend="bold">ablași</hi>, 290 birnici români din târguri.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b45b22da-26c6-9cbc-0b3d-29ba56cb90da">mehed</ptr>
+								<ptr target="#A100640">mehed</ptr>
 								<date>1868</date>
 								<citedRange>185</citedRange>
 							</bibl>
@@ -55,7 +55,7 @@
 							<quote><hi rend="bold">Ablas</hi> [=] se numeau astfel până la Unire –
 								1859 – birnicii în jud. Mehedinţi. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+								<ptr target="#A100171">agr</ptr>
 								<date>1937</date>
 								<citedRange>14</citedRange>
 							</bibl>
@@ -86,27 +86,27 @@
 					<note>„indulgență”</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">cior</ptr>
+						<ptr target="#A102054">cior</ptr>
 						<date>1966</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

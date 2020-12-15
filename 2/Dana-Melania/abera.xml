@@ -46,7 +46,7 @@
 										<hi rend="bold">aberează</hi> multe energii sufletești, din
 									cauza plusului lor de viață, spre misticism.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0191ce98-7ab6-069b-1f49-0b9677d2a327">personalism</ptr>
+									<ptr target="#A100892">personalism</ptr>
 									<date>1927</date>
 									<citedRange>601</citedRange>
 								</bibl>
@@ -62,7 +62,7 @@
 									paginile care <hi rend="bold">aberează</hi> de la
 									criteriu.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+									<ptr target="#A102040">contemp</ptr>
 									<date>1971</date>
 									<citedRange>nr. 1 262, 9</citedRange>
 								</bibl>
@@ -82,7 +82,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -90,7 +90,7 @@
 						<cit type="unknown">
 							<quote>A acuzat instituţia … nici mai mult, nici mai puţin decât că <hi rend="bold">aberează</hi>.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<ptr target="#A102996">dcr</ptr>
 								<date>2004</date>
 								<citedRange/>
 							</bibl>
@@ -123,22 +123,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<ptr target="#A103590">dicr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote>Şi de astăzi înainte volnici să fie d-lor toată breasla <hi rend="bold">abăgerească</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-87cfd2be-a48d-2108-90dc-29385a738b83">doc.
+								<ptr target="#A104111">doc.
 									bâ</ptr>
 								<date>1810</date>
 								<citedRange>192</citedRange>
@@ -54,7 +54,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<ptr target="#A102459">ddrf</ptr>
 								<date>1893</date>
 								<citedRange/>
 							</bibl>
@@ -98,12 +98,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>

@@ -36,10 +36,10 @@
                 </gramGrp>
                 <dictScrap xml:id="dlr-senses">
                     <sense xml:id="uuid-e44d0933-95c6-4ffe-8271-7181df147fe2" n="">
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                             <term>Acid acetilacetic</term>
-                        </form>
+                        </re>
                         <def xml:id="uuid-e733c170-79a8-4553-95a1-1572c4bdca02">acid instabil care se descompune în acetonă şi bioxid de carbon,
                         întâlnit în metabolismul lipidelor.</def>
                         <usg corresp="#uuid-e733c170-79a8-4553-95a1-1572c4bdca02">

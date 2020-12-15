@@ -36,19 +36,19 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-fc433d04-ba47-4775-8d39-323428fa16ea" n="">
 						<sense xml:id="uuid-72c7ce59-f945-47bf-ac17-2521a9c0d5db" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="time" rend="usg">Înv.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
 								<term>D-abieluşca </term>
-							</form>
+							</re>
 							<def xml:id="id">foarte puţin, doar.</def>
 							<cit type="unknown">
 								<quote>Numai <hi rend="bold">de-agheluşc</hi><hi rend="bold">a</hi>
 									l-atinsei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9cb768f9-a325-5258-8369-c0d717363f18">hasdeu</ptr>
+									<ptr target="#A102259">hasdeu</ptr>
 									<date>&lt;1884–1885&gt;</date>
 									<citedRange/>
 								</bibl>
@@ -60,7 +60,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+								<ptr target="#A103310">cdde</ptr>
 								<date>1907</date>
 								<citedRange/>
 							</bibl>
@@ -84,12 +84,12 @@
 					<usg>(<seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
 					<def>abeúșca</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+						<ptr target="#A103310">cdde</ptr>
 						<date>1907</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-c56ef41e-8b7a-04e7-7126-1fd895b63a8e">da</ptr>
+						<ptr target="#A101452">da</ptr>
 						<date>&lt;1949–1952&gt;</date>
 						<citedRange/>
 					</bibl>
@@ -103,17 +103,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-df7eb3e0-0ee3-5b9a-398e-02742dd91e61">cdde</ptr>
+						<ptr target="#A103310">cdde</ptr>
 						<date>1907</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange>s.v. abia</citedRange>
 					</bibl>

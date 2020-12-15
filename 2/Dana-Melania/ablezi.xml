@@ -40,7 +40,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">reg</ptr>
+									<ptr target="#A100371">reg</ptr>
 									<date>1967</date>
 									<citedRange>17</citedRange>
 								</bibl>
@@ -54,7 +54,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-a761b864-039a-2f5c-55a1-e50a34cb24b5">anchet</ptr>
+									<ptr target="#A104738">anchet</ptr>
 									<date>1959</date>
 									<citedRange>Valea Neagră de Jos – Vașcău</citedRange>
 								</bibl>
@@ -88,7 +88,7 @@
 						<cit type="unknown">
 							<quote>L-<hi rend="bold">a ablezit</hi> de pe lângă casă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">reg</ptr>
+								<ptr target="#A100371">reg</ptr>
 								<date>1967</date>
 								<citedRange>109</citedRange>
 							</bibl>

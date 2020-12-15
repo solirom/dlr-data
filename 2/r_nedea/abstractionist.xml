@@ -62,7 +62,7 @@
 								dat, evident definiţii, căci fără definiţii critica moare de foame
 								şi n-ar mai fi de niciun folos aparent.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a10bb920-140a-0573-5956-eb1c0534033a">arghezi</ptr>
+								<ptr target="#A101895">arghezi</ptr>
 								<date>1913</date>
 								<citedRange>95</citedRange>
 							</bibl>
@@ -71,7 +71,7 @@
 							<quote>Suprarealiştii şi aşa-numiţii <hi rend="bold">abstracţionişti</hi>, de exemplu, pictează de predilecţie bârne
 								în putrefacţie şi gunoi putrezit.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<ptr target="#A105067">viața</ptr>
 								<date>1953</date>
 								<citedRange>mai, nr. 5, 177</citedRange>
 							</bibl>
@@ -83,7 +83,7 @@
 									<hi rend="bold">abstracţioniştilor</hi>) nu există creaţie care
 								să nu plece de la ceea ce există efectiv.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<ptr target="#A105067">viața</ptr>
 								<date>1961</date>
 								<citedRange>mai, nr. 5, 142</citedRange>
 							</bibl>
@@ -93,7 +93,7 @@
 								cehoslovacul Kupka, în acelaşi timp şi literat, găsim un tablou
 								intitulat „Fugă în roşu şi albastru”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8a5112e7-6379-076d-924d-ab2a75068af5">oprescu</ptr>
+								<ptr target="#A104023">oprescu</ptr>
 								<date>1966</date>
 								<citedRange>82</citedRange>
 							</bibl>
@@ -134,12 +134,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>

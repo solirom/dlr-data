@@ -44,7 +44,7 @@
                                     <quote>De ce te dai lenei, d-aia mai mult ea te coprinde, ş-apoi
                                         tot ce este rău este foarte lipicios.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-a94fdffb-9856-2260-8ef4-10d7bdc34ae4"/>
+                                        <ptr target="#A100816"/>
                                         <date/>
                                         <citedRange>18</citedRange>
                                     </bibl>
@@ -76,7 +76,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-adad0834-8417-567a-4bf1-2893152c3480"/>
+                                        <ptr target="#A104676"/>
                                         <date/>
                                         <citedRange>305</citedRange>
                                     </bibl>
@@ -90,7 +90,7 @@
                                 <cit type="unknown">
                                     <quote>Semânţele cele glutinoase (lipicioase-deolaltă).</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-cfc3434c-4e10-3e4c-9625-7bb9216207af"/>
+                                        <ptr target="#A101910"/>
                                         <date/>
                                         <citedRange>121/1</citedRange>
                                     </bibl>
@@ -148,7 +148,7 @@
                             <cit type="unknown">
                                 <quote>Mândră mult frumoasă, La ochi mângâioasă, La faţă lipicoasă. </quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-50bad9fe-7db8-407c-0489-b16bf04a27ed"/>
+                                    <ptr target="#A102049"/>
                                     <date/>
                                     <citedRange>303</citedRange>
                                 </bibl>
@@ -194,7 +194,7 @@
                                 <quote>Neunire în politie şi neînvoinţa în cetate, ciuma şi lângoare
                                     cea mai rea şi troajna cea mai lipicioasă iaste.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8"/>
+                                    <ptr target="#A102915"/>
                                     <date/>
                                     <citedRange>141</citedRange>
                                 </bibl>
@@ -228,7 +228,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-c0f8823f-3c76-4aec-201c-c53ed4d69f25"/>
+                                        <ptr target="#A102616"/>
                                         <date/>
                                         <citedRange/>
                                     </bibl>
@@ -346,7 +346,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <ptr target="#A102044"/>
                                     <date/>
                                     <citedRange>12</citedRange>
                                 </bibl>
@@ -368,7 +368,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-d0cdd0e1-9618-6039-936b-c21ebc64a286"/>
+                                    <ptr target="#A102044"/>
                                     <date/>
                                     <citedRange>16</citedRange>
                                 </bibl>
@@ -385,7 +385,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-c0f8823f-3c76-4aec-201c-c53ed4d69f25"/>
+                                <ptr target="#A102616"/>
                                 <date/>
                                 <citedRange>37</citedRange>
                             </bibl>

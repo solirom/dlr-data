@@ -47,7 +47,7 @@
 								<quote>Ceea ce se cere numai e... să nu ce creeze un <hi rend="bold">abiz</hi> din ce în ce mai mare între fiinţa istorică a
 									neamului nostru şi între oamenii ce guvernează.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-62db2471-25b4-99e9-361f-89b3041514a9">emin</ptr>
+									<ptr target="#A101229">emin</ptr>
 									<date>1881</date>
 									<citedRange>26</citedRange>
 								</bibl>
@@ -56,7 +56,7 @@
 								<quote>Mie mi-e frică, zise ea, să mă apropii aşa tare de grilaj. Am
 									tentaţia <hi rend="bold">abisului</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9cf1c191-a01d-a678-66e4-a8dbccbe6899">singur</ptr>
+									<ptr target="#A100966">singur</ptr>
 									<date>1972</date>
 									<citedRange>1 368</citedRange>
 								</bibl>
@@ -83,7 +83,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+								<ptr target="#A100354">drlu</ptr>
 								<date>1822</date>
 								<citedRange/>
 							</bibl>
@@ -91,7 +91,7 @@
 						<cit type="unknown">
 							<quote>Vor trece toţi pe o punte îngustă, ce va fi peste un <hi rend="bold">abis</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c1e72093-4fda-9821-721b-b445d3f23a62">bolint</ptr>
+								<ptr target="#A104485">bolint</ptr>
 								<date>1856</date>
 								<citedRange>108</citedRange>
 							</bibl>
@@ -100,7 +100,7 @@
 							<quote><hi rend="bold">Abisuri</hi> spăimântătoare se deschideau sub
 								picioarele noastre.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f64fa4e6-8aef-9279-7828-01c01bb850e9">pelim</ptr>
+								<ptr target="#A103783">pelim</ptr>
 								<date>1858</date>
 								<citedRange>60</citedRange>
 							</bibl>
@@ -109,7 +109,7 @@
 							<quote>Nici luarăm seama cum trecurăm şi peste alt <hi rend="bold">abis</hi>, vreu să zic peste „curentul dracului” ... ce ne
 								scoasă drept la cheul de pe ţărmurile Asiei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0b59d0d3-3198-3d0f-00f3-8e8e12eb6b6d">ralet</ptr>
+								<ptr target="#A100783">ralet</ptr>
 								<date>1858</date>
 								<citedRange>92</citedRange>
 							</bibl>
@@ -117,7 +117,7 @@
 						<cit type="unknown">
 							<quote>Văzând că nu o privea nimeni, [Eloisa] se aruncă în fundul <hi rend="bold">abisului</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1e1b4e5f-6356-3af9-0dc1-43bd3f1f4eeb">escur</ptr>
+								<ptr target="#A105204">escur</ptr>
 								<date>&lt;1859–1860&gt;</date>
 								<citedRange>127</citedRange>
 							</bibl>
@@ -126,7 +126,7 @@
 							<quote>O scară cu câteva trepte, iarăşi de piatră, faciliteasă suirea pe
 								o măreaţă teraţă, spânzurată ca printr-un farmec d-asupra <hi rend="bold">abisului</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-96e4ed93-0037-77a9-50a7-4977c7f8126c">alexandres</ptr>
+								<ptr target="#A100831">alexandres</ptr>
 								<date>1863</date>
 								<citedRange>XXI</citedRange>
 							</bibl>
@@ -136,7 +136,7 @@
 								adâncile <hi rend="bold">abisuri</hi> de stâncă din dreapta şi din
 								stânga, înaintam toţi cu paşi îngrijaţi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c9e3750-9a9c-a5f0-85b3-5ada79839f4c">turcu</ptr>
+								<ptr target="#A101458">turcu</ptr>
 								<date>1896</date>
 								<citedRange>45</citedRange>
 							</bibl>
@@ -145,7 +145,7 @@
 							<quote>Cu Juliette de mână, Victor Hugo, pe malul râului, pe malul <hi rend="bold">abisurilor</hi>. Cu fruntea ridicată spre cer, spre
 								nori, oprea cu privirea păsările din zbor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bdf611f4-927d-612a-456d-9ce724a949bd">iones</ptr>
+								<ptr target="#A102797">iones</ptr>
 								<date>1935</date>
 								<citedRange>20</citedRange>
 							</bibl>
@@ -154,7 +154,7 @@
 							<quote>Pe marginea chiar a acestui cumplit <hi rend="bold">abis</hi> ...
 								nenumărate capre negre se plimbă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">olt</ptr>
+								<ptr target="#A101781">olt</ptr>
 								<date>1945</date>
 								<citedRange>351</citedRange>
 							</bibl>
@@ -162,7 +162,7 @@
 						<cit type="unknown">
 							<quote>Unii întorceau capul, dar de jur împrejur ne priveau aceleaşi <hi rend="bold">abisuri</hi> cenuşii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">rom</ptr>
+								<ptr target="#A105067">rom</ptr>
 								<date>1955</date>
 								<citedRange>aprilie, 244</citedRange>
 							</bibl>
@@ -177,7 +177,7 @@
 								<quote>Pentru o privire din ochii ei, adânci ca <hi rend="bold">abisul</hi>, aş fi sacrificat întreaga ştiinţă
 									omenească.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4584d196-3c4d-8167-5177-537606807cff">patraș</ptr>
+									<ptr target="#A102213">patraș</ptr>
 									<date>1909</date>
 									<citedRange>57</citedRange>
 								</bibl>
@@ -187,7 +187,7 @@
 									răutăţii, şi în care își au rădăcinile munţii rătăcirii, adică
 									duhurile răutăţii.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-65546b79-0ffb-6dcc-8fe3-53ec60a67750">filoc</ptr>
+									<ptr target="#A100676">filoc</ptr>
 									<date>1948</date>
 									<citedRange>389</citedRange>
 								</bibl>
@@ -216,7 +216,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+									<ptr target="#A101929">bălă</ptr>
 									<date>1859</date>
 									<citedRange/>
 								</bibl>
@@ -225,7 +225,7 @@
 								<quote>Iată-mă, repetă regele <hi rend="bold">abisului</hi>, aştept
 									ordinele tale!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1e1b4e5f-6356-3af9-0dc1-43bd3f1f4eeb">escur</ptr>
+									<ptr target="#A105204">escur</ptr>
 									<date>1860</date>
 									<citedRange>26</citedRange>
 								</bibl>
@@ -233,7 +233,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+									<ptr target="#A102594">anton</ptr>
 									<date>1862</date>
 									<citedRange/>
 								</bibl>
@@ -242,7 +242,7 @@
 								<quote>Şi când atingem malul eternului <hi rend="bold">abis</hi>,
 									Vedem că fericirea şi viaţa-au fost un vis.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1bd871af-2c54-12f8-9e3b-bf218c03a45b">negruzz</ptr>
+									<ptr target="#A101247">negruzz</ptr>
 									<date>&lt;1868–1869&gt;</date>
 									<citedRange>17</citedRange>
 								</bibl>
@@ -252,7 +252,7 @@
 									să metamorfozăm şi să convertim în lumină imensităţile de
 									întuneric ale <hi rend="bold">abisului</hi> nostru.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-75a42ba7-3198-6544-1c67-1adb315a9cfa">cior</ptr>
+									<ptr target="#A103873">cior</ptr>
 									<date>1936</date>
 									<citedRange>56</citedRange>
 								</bibl>
@@ -261,7 +261,7 @@
 								<quote>Mă pregătesc metodic pentru moarte. Să aibă moartea ce
 									devora, să aibă <hi rend="bold">abisul</hi> ce înghiţi!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d77e5874-7a69-42e5-3f77-a2f3a7214af0">mazil</ptr>
+									<ptr target="#A100529">mazil</ptr>
 									<date>1973</date>
 									<citedRange>292</citedRange>
 								</bibl>
@@ -269,7 +269,7 @@
 							<cit type="unknown">
 								<quote>În Infern, fiara nu poate fi decât câinele <hi rend="bold">Abisului</hi>, Cerber.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e9bf4718-2760-5309-7491-03e066571b99">lovin</ptr>
+									<ptr target="#A100725">lovin</ptr>
 									<date>1984 (†)</date>
 									<citedRange>36</citedRange>
 								</bibl>
@@ -279,7 +279,7 @@
 									înseamnă iadul (Hades) închipuit sub pământ ... care este locul
 									sufletelor păcătoase și al demonilor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7dbae051-8268-19e9-1d70-55a6f169145a">bibl</ptr>
+									<ptr target="#A101570">bibl</ptr>
 									<date>2005</date>
 									<citedRange>s.v. adâncul</citedRange>
 								</bibl>
@@ -299,7 +299,7 @@
 							<quote>Am căzut în cel mai afund <hi rend="bold">abis</hi> de
 								întristare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c512abc8-2dc6-a12b-338b-c047d7dc4030">heli</ptr>
+								<ptr target="#A103226">heli</ptr>
 								<date>1836</date>
 								<citedRange>29/8</citedRange>
 							</bibl>
@@ -308,7 +308,7 @@
 							<quote>În larg <hi rend="bold">abis</hi> de lacrămi de tot abandonată,
 								Ea-nalţă către acela ce-i dă nenorocire O mână rugătoare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-db5e8b65-a6f2-468c-774d-d15328324fff">aric</ptr>
+								<ptr target="#A101819">aric</ptr>
 								<date>1847</date>
 								<citedRange>19/14</citedRange>
 							</bibl>
@@ -318,7 +318,7 @@
 								din <hi rend="bold">abisul</hi> de infamie unde bramii te-au aruncat
 								de când te-ai născut? </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-45b56266-0136-75b4-9c21-812dd55659ea">pelim</ptr>
+								<ptr target="#A104381">pelim</ptr>
 								<date>1850</date>
 								<citedRange>39</citedRange>
 							</bibl>
@@ -327,7 +327,7 @@
 							<quote>Va continua a-i săpa <hi rend="bold">abisul</hi> în care trebuia
 								să cază.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-636c37f3-8262-7c91-9ad4-6a2d008c82ff">teul</ptr>
+								<ptr target="#A100292">teul</ptr>
 								<date>1856</date>
 								<citedRange>30/31</citedRange>
 							</bibl>
@@ -336,7 +336,7 @@
 							<quote>Deschideţi ochii odată, fraţi români, vedeţi <hi rend="bold">abysul</hi> ce stă supt picioarele noastre gata să
 								ne-nghiţă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3ece670d-3ec0-719c-3896-f4d3e1dc2d0c">viagiu</ptr>
+								<ptr target="#A101611">viagiu</ptr>
 								<date>1886</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -346,7 +346,7 @@
 								C. Arion n-ar fi izbutit să descopere <hi rend="bold">abisul</hi>
 								fără fund în care s-a aruncat.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9ad0f89e-81b0-3c83-5926-29e0d23c792b">polit</ptr>
+								<ptr target="#A100281">polit</ptr>
 								<date>1889</date>
 								<citedRange>413</citedRange>
 							</bibl>
@@ -356,7 +356,7 @@
 								obiectul din <hi rend="bold">abisurile</hi> şi întunecimile vieţii
 								omeneşti.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0f5a3b8e-3585-2917-8231-047ce2d850fe">chend</ptr>
+								<ptr target="#A100204">chend</ptr>
 								<date>1893</date>
 								<citedRange>91</citedRange>
 							</bibl>
@@ -364,7 +364,7 @@
 						<cit type="unknown">
 							<quote>Mirosea a mucedă vreme Şi auzeam că-n <hi rend="bold">abisuri</hi> adânci noaptea geme.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-662c1fed-7f99-44a2-14b9-0c10d4197fcb">isac</ptr>
+								<ptr target="#A101356">isac</ptr>
 								<date>&lt;1914–1944&gt;</date>
 								<citedRange>139</citedRange>
 							</bibl>
@@ -372,7 +372,7 @@
 						<cit type="unknown">
 							<quote>Zgomotul ... îndepărtat m-a înfiorat, creându-mi senzaţia <hi rend="bold">abisului</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">interv</ptr>
+								<ptr target="#A101153">interv</ptr>
 								<date>1968</date>
 								<citedRange>152</citedRange>
 							</bibl>
@@ -382,7 +382,7 @@
 								va locui cu el întotdeauna în <hi rend="bold">abisurile</hi>
 								interioare luminoase.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-58ae8ee0-11e9-0960-8e3b-954e60f452ee">jurn</ptr>
+								<ptr target="#A100852">jurn</ptr>
 								<date>1974</date>
 								<citedRange>179</citedRange>
 							</bibl>
@@ -392,7 +392,7 @@
 								orişice om cultivat şi inofensiv ca mine, sau trăiesc umilinţa de a
 								fi un exemplar degenerat al umanităţii? </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a6f144b5-551a-497b-10a7-f962efe19f23">dim</ptr>
+								<ptr target="#A100122">dim</ptr>
 								<date>1997 (1975)</date>
 								<citedRange>237</citedRange>
 							</bibl>
@@ -402,7 +402,7 @@
 								bâzâitoare şi broaşte care orăcăie, măgari, viermi, lupi, hiene
 								ş.a.m.d. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4a7fda37-68a1-9f46-73c4-128ad1983285">pleș</ptr>
+								<ptr target="#A103662">pleș</ptr>
 								<date>2003</date>
 								<citedRange>141</citedRange>
 							</bibl>
@@ -419,7 +419,7 @@
 							<quote>Vulgul îşi închipueşte un <hi rend="bold">abis</hi> între
 								filosofie şi ştiinţele fisice.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">sex</ptr>
+								<ptr target="#A101958">sex</ptr>
 								<date>&lt;1840–1842&gt;</date>
 								<citedRange>227 bis2/31</citedRange>
 							</bibl>
@@ -428,7 +428,7 @@
 							<quote>Pot aşadar exista raporturi escelente între stat şi stat, între
 								suveran şi suveran, între popoare însă va fi un profund <hi rend="bold">abis</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cb320988-0fec-2ae0-644c-c14ed2b11001">emin</ptr>
+								<ptr target="#A100334">emin</ptr>
 								<date>1879</date>
 								<citedRange>373</citedRange>
 							</bibl>
@@ -439,7 +439,7 @@
 								producţiunea în devălmăşie, însă „apropriaţiunea
 								individuală”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-96397f87-328c-877b-4291-9ac6671c4b6f">gher</ptr>
+								<ptr target="#A101870">gher</ptr>
 								<date>1885</date>
 								<citedRange>341</citedRange>
 							</bibl>
@@ -448,7 +448,7 @@
 							<quote><hi rend="bold">Abisul</hi> (prăpastie) între politeism şi
 								monoteism era nemărginit.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-12a0cac6-7811-6914-1a12-d437af023485">bari</ptr>
+								<ptr target="#A103315">bari</ptr>
 								<date>1889</date>
 								<citedRange>176</citedRange>
 							</bibl>
@@ -457,7 +457,7 @@
 							<quote>E un <hi rend="bold">abis</hi> între filosofia medievală şi cea
 								modernă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">negul</ptr>
+								<ptr target="#A103907">negul</ptr>
 								<date>1910</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -466,7 +466,7 @@
 							<quote>De aci până la o societate în care toată umanitatea să intre e un
 									<hi rend="bold">abis</hi> ce nu se poate trece.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-55ebfb28-4ffa-6b24-5bb3-8b962f2a1abe">vian</ptr>
+								<ptr target="#A100350">vian</ptr>
 								<date>1916</date>
 								<citedRange>9</citedRange>
 							</bibl>
@@ -475,7 +475,7 @@
 							<quote>Deşi persist să cred că [Iancu Flondor] este un bun român şi că
 								are mari calităţi, m-am convins că ne desparte un <hi rend="bold">abis</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">puș</ptr>
+								<ptr target="#A101966">puș</ptr>
 								<date>1919</date>
 								<citedRange>353</citedRange>
 							</bibl>
@@ -485,7 +485,7 @@
 								între el şi toată tinerimea dornică de reforme, a cărei călăuză era
 								Alecu Ghica.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c0804d30-08c9-2601-159e-52c57fb4a5de">roset</ptr>
+								<ptr target="#A101286">roset</ptr>
 								<date>1922</date>
 								<citedRange>482</citedRange>
 							</bibl>
@@ -494,7 +494,7 @@
 							<quote>Ce păcat că între vorba şi fapta acestui om intelignt şi foarte
 								pricepător, dar fără voinţă – stă un <hi rend="bold">abis</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arg</ptr>
+								<ptr target="#A101386">arg</ptr>
 								<date>1936</date>
 								<citedRange>377</citedRange>
 							</bibl>
@@ -504,7 +504,7 @@
 								vulturului şi starea depresivă pe care o acoperă devine şi mai
 								izbitor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-725668dc-7afb-81ef-4563-55b2e84a8483">nego</ptr>
+								<ptr target="#A100229">nego</ptr>
 								<date>1966</date>
 								<citedRange>63</citedRange>
 							</bibl>
@@ -513,7 +513,7 @@
 							<quote>Tolstoi, în „biografie” spune: de la nefiinţă la fiinţă – un <hi rend="bold">abis</hi>; de la fiinţă la conştiinţa de sine a
 								copilului de 4–5 ani – o distanţă extraordinară.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ab9fc272-3299-622a-5abb-420eca455797">gom</ptr>
+								<ptr target="#A101325">gom</ptr>
 								<date>1987</date>
 								<citedRange>115</citedRange>
 							</bibl>
@@ -525,7 +525,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -533,7 +533,7 @@
 						<cit type="unknown">
 							<quote>Gea ... născu pe Uranos, cerul înstelat, şi în urmă munţii şi <hi rend="bold">abisul</hi> mărilor, Pontos.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6526946e-1883-6427-0e7d-b5515f8d8e17">otes</ptr>
+								<ptr target="#A102904">otes</ptr>
 								<date>1907</date>
 								<citedRange>59</citedRange>
 							</bibl>
@@ -542,7 +542,7 @@
 							<quote>Bureţii Îşi mişcau pădurea vie pe <hi rend="bold">abise</hi> fără
 								fund.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9762f6a7-731a-8c7a-9008-a6ae12580613">amă</ptr>
+								<ptr target="#A102658">amă</ptr>
 								<date>&lt;1914–1916&gt;</date>
 								<citedRange>211</citedRange>
 							</bibl>
@@ -551,7 +551,7 @@
 							<quote>Valul ... smulge ultimul catarg al corăbiei, și o târăşte apoi în
 									<hi rend="bold">abis</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b6306794-4ef0-6e99-4912-257b52c724c6">olt</ptr>
+								<ptr target="#A101781">olt</ptr>
 								<date>1945</date>
 								<citedRange>349</citedRange>
 							</bibl>
@@ -563,7 +563,7 @@
 								legănându-se încet deasupra <hi rend="bold">abisului</hi>
 								albastru.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">ilies</ptr>
+								<ptr target="#A104183">ilies</ptr>
 								<date>1970</date>
 								<citedRange>265</citedRange>
 							</bibl>
@@ -586,7 +586,7 @@
 				<form type="writing">
 					<oVar>abiss</oVar>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">băl</ptr>
+						<ptr target="#A101929">băl</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
@@ -597,7 +597,7 @@
 				<form type="writing">
 					<oVar>abyss</oVar>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
@@ -618,112 +618,112 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asa</ptr>
+						<ptr target="#A104011">asa</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gav</ptr>
+						<ptr target="#A103756">gav</ptr>
 						<date>1847</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<ptr target="#A102700">negul</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-fd1b41f4-0e4e-57e7-90cf-b0d7b2189b7f">stam</ptr>
+						<ptr target="#A100536">stam</ptr>
 						<date>1851</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<ptr target="#A104850">poliz</ptr>
 						<date>1857</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">băl</ptr>
+						<ptr target="#A101929">băl</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pak</ptr>
+						<ptr target="#A100126">pak</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<ptr target="#A101803">pont</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">ant</ptr>
+						<ptr target="#A102594">ant</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barc</ptr>
+						<ptr target="#A105061">barc</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<ptr target="#A104144">costin</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<ptr target="#A102458">stein</ptr>
 						<date>1886</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">Șăin</ptr>
+						<ptr target="#A101394">Șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barc</ptr>
+						<ptr target="#A102977">barc</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alex</ptr>
+						<ptr target="#A100593">alex</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">Da</ptr>
+						<ptr target="#A102657">Da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<ptr target="#A101422">resm</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<ptr target="#A103663">șăin</ptr>
 						<date>1930</date>
 						<citedRange/>
 					</bibl>
@@ -733,52 +733,52 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<ptr target="#A104520">DL</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+						<ptr target="#A101547">ltr</ptr>
 						<date>1957</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d82be227-360e-8412-6d1e-d6497fc598ed">psihiatr</ptr>
+						<ptr target="#A102556">psihiatr</ptr>
 						<date>1987</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

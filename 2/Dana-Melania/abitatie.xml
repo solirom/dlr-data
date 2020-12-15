@@ -51,7 +51,7 @@
 								parte a anului s-arată mai cu seamă şi ce circumstanţă înlesnesc mai
 								în particular creşterea lor?</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6080c44e-1415-4e16-7a95-e03cb3cc3478">baras</ptr>
+								<ptr target="#A101387">baras</ptr>
 								<date>1861</date>
 								<citedRange>232</citedRange>
 							</bibl>
@@ -68,7 +68,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+									<ptr target="#A103264">dexi</ptr>
 									<date>2007</date>
 									<citedRange/>
 								</bibl>
@@ -83,7 +83,7 @@
 							<quote>Dreptul de us şi de <hi rend="bold">abitaţiune</hi> se stabilesc
 								şi se pierd în acelaşi chip ca usufructul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9c463d3e-5867-5618-46e9-e96b9bad8b5c">cod</ptr>
+								<ptr target="#A101418">cod</ptr>
 								<date>1864</date>
 								<citedRange>141</citedRange>
 							</bibl>
@@ -94,7 +94,7 @@
 								sunt uzufructul, <hi rend="bold">abitaţia</hi>, renta
 								viageră.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-675cfb62-905a-6578-4ca9-2ba1d1f308ad">pr</ptr>
+								<ptr target="#A101935">pr</ptr>
 								<date>1959</date>
 								<citedRange>158</citedRange>
 							</bibl>
@@ -102,7 +102,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">civ</ptr>
+								<ptr target="#A104975">civ</ptr>
 								<date>2007</date>
 								<citedRange/>
 							</bibl>
@@ -137,7 +137,7 @@
 					<usg><seg type="time" rend="usg">(înv.</seg>)</usg>
 					<def>habitáţie</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
@@ -157,27 +157,27 @@
 					<note>„locuinţă"</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<ptr target="#A101394">șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
@@ -187,52 +187,52 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hod</ptr>
+						<ptr target="#A105256">hod</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b33d8da7-2c89-95e6-4aca-d91ab9ee4d90">feud</ptr>
+						<ptr target="#A103998">feud</ptr>
 						<date>1987</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

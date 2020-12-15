@@ -61,7 +61,7 @@
                                 <cit type="unknown">
                                     <quote>la-ţi vâsla şi ad-o-ncoace.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-7e843c41-1e7f-1002-9320-dc6db108246f"/>
+                                        <ptr target="#A100686"/>
                                         <date/>
                                         <citedRange>42.</citedRange>
                                     </bibl>
@@ -75,7 +75,7 @@
                                 <cit type="unknown">
                                     <quote>Sapa-n mână mi-a luat, Loc de groapă mi-a săpat.</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-8615e31e-2233-82ab-9c1f-14efde965377"/>
+                                        <ptr target="#A100911"/>
                                         <date/>
                                         <citedRange> 49. </citedRange>
                                     </bibl>
@@ -93,7 +93,7 @@
                                     <quote>Luându-se o bucăţică de piatra-iadului de un căpătâi, cu
                                         un peticei de hârtie, spre a nu se arde degetele</quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-d115ea1b-4782-020b-1e55-383624425eaa"/>
+                                        <ptr target="#A100410"/>
                                         <date/>
                                         <citedRange> 357/8.</citedRange>
                                     </bibl>
@@ -108,7 +108,7 @@
                                     <quote>Ia plicul de pe mescioară, pecetluieşte-l cu pecetea de
                                         pe tăviţa cu călimările. </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-4935e635-8a80-a0db-1f06-502967ba6cbe"/>
+                                        <ptr target="#A101178"/>
                                         <date/>
                                         <citedRange>5</citedRange>
                                     </bibl>
@@ -145,7 +145,7 @@
                                 <cit type="unknown">
                                     <quote>[Copilul] nu lua ţâţa în gură miercurea şi vinerea . </quote>
                                     <bibl type="unknown">
-                                        <ptr target="#uuid-99a989f1-9fc4-2001-1ea1-3ebca6101373"/>
+                                        <ptr target="#A102039"/>
                                         <date/>
                                         <citedRange>386</citedRange>
                                     </bibl>
@@ -316,7 +316,7 @@
                             <cit type="unknown">
                                 <quote/>
                                 <bibl type="cf.">
-                                    <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                    <ptr target="#A104349"/>
                                     <date/>
                                     <citedRange/>
                                 </bibl>
@@ -363,19 +363,19 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-4e1dccc6-6d4a-483f-abab-e88090b949b3" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term> A lua în (ori, învechit, întru) stăpânire (sau în posesiune)
                                     (ceva sau pe cineva) = V. şi s t ă ­ p â n i r e (1).</term>
-                            </form>
-                            <form type="unitate-semantică-subsumată">
+                            </re>
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>a lua întru stăpânire (ceva sau pe cineva)</term>
-                            </form>
-                            <form type="unitate-semantică-subsumată">
+                            </re>
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
                                 <term>a lua în posesiune (ceva sau pe cineva)</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-3a39b106-0b94-44e0-9bf4-c613583544e2">a)a deveni proprietar; a se face stăpân. </def>
                             <def xml:id="uuid-70aee992-c8e2-433e-8669-94516e550f49"/>
                             <xr type="analog">
@@ -775,14 +775,14 @@
                                 <citedRange/>
                             </bibl>
                             <bibl type="unknown">
-                                <ptr target="#uuid-848fdddb-38cd-956d-9e4d-9c06172496b5"/>
+                                <ptr target="#A104511"/>
                                 <date/>
                                 <citedRange/>
                             </bibl>
                         </form>
                     </form>
                     <bibl type="unknown">
-                        <ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe"/>
+                        <ptr target="#A100563"/>
                         <date/>
                         <citedRange>4 220/762</citedRange>
                     </bibl>

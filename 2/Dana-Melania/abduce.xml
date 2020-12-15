@@ -48,7 +48,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ee02c1de-5c70-1b4e-8d14-9dc3d05b6562">corb</ptr>
+								<ptr target="#A100539">corb</ptr>
 								<date>&lt;1691–1697&gt;</date>
 								<citedRange>s. v. abduco, -is, -ere.</citedRange>
 							</bibl>
@@ -56,7 +56,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">Abducere</hi>, wegführen, duce de aci.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-198c092e-1b08-3302-02b3-8fd7f5dc0a20">iorgov</ptr>
+								<ptr target="#A102410">iorgov</ptr>
 								<date>1799</date>
 								<citedRange>177</citedRange>
 							</bibl>
@@ -89,32 +89,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barc</ptr>
+						<ptr target="#A105061">barc</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<ptr target="#A104144">costin</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alex</ptr>
+						<ptr target="#A100593">alex</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-03c4cab4-3a01-471e-5365-45aac7ba73a4">dn</ptr>
+						<ptr target="#A101288">dn</ptr>
 						<date>1997</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

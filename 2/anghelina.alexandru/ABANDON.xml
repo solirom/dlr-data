@@ -49,7 +49,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange/>
 							</bibl>
@@ -57,7 +57,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<ptr target="#A100126">pake</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -66,7 +66,7 @@
 							<quote><hi rend="bold">Abandonul</hi> vasului se poate face către toți
 								creditorii sau numai către unii dintr-înșii. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6e3eeb4-52ef-4d6b-1ae9-9907aea76486">cod.
+								<ptr target="#A105121">cod.
 									comer</ptr>
 								<date>1887</date>
 								<citedRange>172</citedRange>
@@ -79,7 +79,7 @@
 								său cu condițiune de a dispune de el până la complecta achitare a
 								cuotelor convenite.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc.
+								<ptr target="#A101816">enc.
 									rom</ptr>
 								<date>1898</date>
 								<citedRange/>
@@ -95,7 +95,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange/>
 							</bibl>
@@ -103,7 +103,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăine</ptr>
+								<ptr target="#A101394">șăine</ptr>
 								<date>1896</date>
 								<citedRange/>
 							</bibl>
@@ -111,7 +111,7 @@
 					</sense>
 					<sense xml:id="uuid-10d121c9-a323-4aec-a264-2e8aee228150" n="3.">
 						<sense xml:id="uuid-41e43f94-bb4f-4a10-94a6-d8fbccff9bf9" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
@@ -119,8 +119,8 @@
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abandon familial </term>
-							</form>
-							<form type="unitate-semantică-subsumată">
+							</re>
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
@@ -128,7 +128,7 @@
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 								<term>Abandon de familie </term>
-							</form>
+							</re>
 							<def xml:id="uuid-0e321113-5b85-4b5a-a1b9-899d3e214944">delict care
 								constă în părăsirea copiilor, a familiei, a celor asistați de către
 								persoana care are obligația legală de a-i întreține.</def>
@@ -141,7 +141,7 @@
 									morale, comite delictul de <hi rend="bold">abandon
 									familial</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d29ed398-9802-4242-3876-a8fca1e80826">cod.
+									<ptr target="#A105105">cod.
 										pen</ptr>
 									<date>1936</date>
 									<citedRange>136</citedRange>
@@ -151,7 +151,7 @@
 								<quote>Eroul mitic se caracterizează: printr-o biografie mirifică în
 									care intră naşterea miraculoasă, copilăria în <hi rend="bold">abandon familial</hi>, iniţierea.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c757b125-428d-3f7a-3722-ea6e585e894d">mitol.
+									<ptr target="#A104461">mitol.
 										rom</ptr>
 									<date>1985</date>
 									<citedRange>578</citedRange>
@@ -162,7 +162,7 @@
 									a unei infracţiuni care lezează relaţiile de familie (incest,
 										<hi rend="bold">abandon familial</hi>, viol etc.).</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">d. dr.
+									<ptr target="#A104975">d. dr.
 										ci</ptr>
 									<date>2007</date>
 									<citedRange>633</citedRange>
@@ -170,10 +170,10 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-edc2a703-59c2-4fce-937b-24db270b5161" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abandon școlar</term>
-							</form>
+							</re>
 							<def xml:id="uuid-776ada3d-26d2-4a42-aee7-9d7784c2f627">formă de abandon
 								constând în încetarea frecventării școlii înainte de încheierea
 								anului de studiu început.</def>
@@ -194,7 +194,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+								<ptr target="#A102700">negul</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -202,7 +202,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+								<ptr target="#A100126">pake</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -210,7 +210,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -220,7 +220,7 @@
 								la care ne invită onor. d. P. P. Carp este o politică de sinucidere
 								pentru statul român însuși.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-85668e16-572e-9ce7-8622-c83fcb0088ec">rev.
+								<ptr target="#A104379">rev.
 									rom</ptr>
 								<date>1909</date>
 								<citedRange>VII, nr. 8, 116</citedRange>
@@ -230,7 +230,7 @@
 							<quote>Un refuz în asemenea împrejurări ar fi fost un act de laşitate şi
 								un abandon al ţării mele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-dfd82d10-81da-1f8f-5b03-347268af1fe6">argetoianu</ptr>
+								<ptr target="#A100882">argetoianu</ptr>
 								<date>1940</date>
 								<citedRange>395</citedRange>
 							</bibl>
@@ -238,7 +238,7 @@
 						<cit type="unknown">
 							<quote>La un examen mai de aproape constat că e în acest <hi rend="bold">abandon</hi> un gust de „neputinţă” de a face altfel.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">voinescu</ptr>
+								<ptr target="#A102455">voinescu</ptr>
 								<date>1950</date>
 								<citedRange>589</citedRange>
 							</bibl>
@@ -247,7 +247,7 @@
 							<quote>Prin acceptarea a ceea ce există, inclusiv suferinţa, eu înţeleg
 								angajarea, care e o acţiune şi nu un abandon. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5bda1e3a-4573-19a0-8aea-14b20b50684a">risipitor</ptr>
+								<ptr target="#A102043">risipitor</ptr>
 								<date>1962</date>
 								<citedRange>695</citedRange>
 							</bibl>
@@ -256,7 +256,7 @@
 							<quote>Nu există poate o plăcere atât de mare ca acea sinteză, aproape
 								monstruoasă, între nelinişte şi dorinţa de <hi rend="bold">abandon</hi>, de a rămâne numai cu el.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-decea181-652c-88e9-a57c-a07478508d67">interval</ptr>
+								<ptr target="#A101153">interval</ptr>
 								<date>1968</date>
 								<citedRange>90</citedRange>
 							</bibl>
@@ -265,7 +265,7 @@
 							<quote>Această renunţare la… lume, şi la tine însuţi, acest abandon… mă
 								face să râd. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d6829673-1e41-6367-7339-e0f1526054d5">tiron</ptr>
+								<ptr target="#A103400">tiron</ptr>
 								<date>1982</date>
 								<citedRange>163</citedRange>
 							</bibl>
@@ -274,7 +274,7 @@
 							<quote>Repetatele tentative de a începe măcar ... romanul cu Adam și Eva
 								au eșuat. Iar dacă trece prea mult timp de la <hi rend="bold">abandon</hi>, imposibilă reluarea.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-435cce9f-36b7-5dcf-51c7-026517ae714f">goma</ptr>
+								<ptr target="#A101033">goma</ptr>
 								<date>1993</date>
 								<citedRange>199</citedRange>
 							</bibl>
@@ -283,7 +283,7 @@
 							<quote>Acesta [fundalul biblic] tinde să apară din ce în ce mai estompat
 								în creaţiile din ultima perioadă – semn nu de <hi rend="bold">abandon</hi>, ci de o minunată asimilare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-28611808-23c3-2b94-66e4-7f0cea2d469a">jinga</ptr>
+								<ptr target="#A102366">jinga</ptr>
 								<date>2001</date>
 								<citedRange>81</citedRange>
 							</bibl>
@@ -291,7 +291,7 @@
 					</sense>
 					<sense xml:id="uuid-cbce0cb5-168d-48df-a00a-a063811bc0e1" n="4.">
 						<sense xml:id="uuid-6a1525dc-6d89-454b-8b21-02bf0a1cdb43" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
@@ -299,14 +299,14 @@
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Abandon maritim</term>
-							</form>
+							</re>
 							<ptr type="trimitere" target="abandon (3)"/>
 							<cit type="unknown">
 								<quote>Abandonez, las, me retrag, părăsesc, renunţ; abandon,
 									renunţare, d. e. asiguratul renunţă la restul de marfă avariată;
 										<hi rend="bold">abandon maritim</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f8e05887-7b0b-06f3-5e21-f6ca09564f1c">panțu</ptr>
+									<ptr target="#A104998">panțu</ptr>
 									<date>1897</date>
 									<citedRange>287</citedRange>
 								</bibl>
@@ -318,7 +318,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-44d323b6-7a9e-40ea-2d32-f8ded7415f28">d.
+									<ptr target="#A101136">d.
 										marin</ptr>
 									<date>1982</date>
 									<citedRange/>
@@ -339,7 +339,7 @@
 								din ziua plecării vasului sau din ziua la care se referă ultimele
 								ştiri primite.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6e3eeb4-52ef-4d6b-1ae9-9907aea76486">cod.
+								<ptr target="#A105121">cod.
 									comer</ptr>
 								<date>1887</date>
 								<citedRange>172</citedRange>
@@ -361,7 +361,7 @@
 									delicios, o combinaţie de solemn cu familiar
 									încântătoare.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daefcc93-87c0-25da-8764-e552eb994aee">zarif</ptr>
+									<ptr target="#A100757">zarif</ptr>
 									<date>1934</date>
 									<citedRange>345</citedRange>
 								</bibl>
@@ -370,7 +370,7 @@
 								<quote>Ce frumos apoi cad liniile şi cât <hi rend="bold">„abandon”</hi> în mâinile legate, care dau din nou impresia
 									unor tulpine de floare. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-833217b7-95a7-44e6-514b-08b733b2290d">oprescu</ptr>
+									<ptr target="#A101292">oprescu</ptr>
 									<date>1934</date>
 									<citedRange>171</citedRange>
 								</bibl>
@@ -388,7 +388,7 @@
 							<quote>Dacă câte o dată era cam strâmtorată în <hi rend="bold">abandonul</hi> său, era căci nu era încă deprinsă bine cu noua
 								sa resoluție.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f86f8910-012f-7ea6-0b96-a5ded7eb4899">curier</ptr>
+								<ptr target="#A101958">curier</ptr>
 								<date>&lt;1844-1847&gt;</date>
 								<citedRange>V, 341</citedRange>
 							</bibl>
@@ -396,7 +396,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
@@ -404,7 +404,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -413,7 +413,7 @@
 							<quote>Trădarea în masă a şefilor ardeleni va îmbrânci pe ţărănişti,
 								orbeşte, într-un elan de total şi necondiţionat <hi rend="bold">abandon</hi>, în braţele guvernului Averescu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9855a1f1-3c50-98bb-1865-55ebfece1bd8">vinea</ptr>
+								<ptr target="#A102973">vinea</ptr>
 								<date>1926</date>
 								<citedRange>319</citedRange>
 							</bibl>
@@ -422,7 +422,7 @@
 							<quote>Rezemată acum de fotoliu, cu mâinile atârnându-i într-un săvârşit
 									<hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-85596dbb-200a-283a-287f-4400ca4e1ae4">anișoa</ptr>
+								<ptr target="#A103168">anișoa</ptr>
 								<date>1929</date>
 								<citedRange>94</citedRange>
 							</bibl>
@@ -431,7 +431,7 @@
 							<quote>Toate îmi par instruite de un elan idilic şi îndrumate spre pace,
 								repaos, <hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2f925cf5-3e91-7f2f-5510-2d1c77642bd6">botta</ptr>
+								<ptr target="#A100697">botta</ptr>
 								<date>1935</date>
 								<citedRange>99</citedRange>
 							</bibl>
@@ -440,7 +440,7 @@
 							<quote>Ce om întreg, ce calm adevărat de om de rasă domnitoare, ce
 								complet <hi rend="bold">abandon</hi> în voia lui Dumnezeu! </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9e7eaf7-4c19-5117-819c-9e18263d068a">VOINESCU</ptr>
+								<ptr target="#A102455">VOINESCU</ptr>
 								<date>1948</date>
 								<citedRange>508</citedRange>
 							</bibl>
@@ -458,7 +458,7 @@
 							<quote>Ca să scăpăm de el, nu avem decât o soluţie: <hi rend="bold">abandonul</hi> în infinit, cum e în cazul ideii de
 								Dumnezeu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d9dacd53-574b-71f6-8b1c-bb336d5ca131">spațiul</ptr>
+								<ptr target="#A101479">spațiul</ptr>
 								<date>1959</date>
 								<citedRange>295</citedRange>
 							</bibl>
@@ -467,7 +467,7 @@
 							<quote>Pumnii până atunci încleștați i se desfac încet, într-un gest de
 									<hi rend="bold">abandon</hi> și neputință.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-56d474e2-a131-2459-4eea-5c16a3c29acf">moartea</ptr>
+								<ptr target="#A104698">moartea</ptr>
 								<date>1964</date>
 								<citedRange>273</citedRange>
 							</bibl>
@@ -478,7 +478,7 @@
 									<hi rend="bold">abandon</hi> şi îşi propuse să-i scrie special
 								pentru a-i sugera nemulţumirea.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">m.
+								<ptr target="#A104183">m.
 									iliesc</ptr>
 								<date>1970</date>
 								<citedRange>150</citedRange>
@@ -489,7 +489,7 @@
 								lui într-un <hi rend="bold">abandon</hi> blând și fără
 								cuvinte.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-51090fef-7795-52c1-5cc2-1c5e06d5961e">delirul</ptr>
+								<ptr target="#A102333">delirul</ptr>
 								<date>1975</date>
 								<citedRange>406</citedRange>
 							</bibl>
@@ -499,7 +499,7 @@
 								prelungire a dulcelui <hi rend="bold">abandon</hi> din timpul
 								serii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e517589e-64d0-546c-791c-015555a8383f">cel
+								<ptr target="#A100366">cel
 									iubi</ptr>
 								<date>1980</date>
 								<citedRange>1 497</citedRange>
@@ -510,7 +510,7 @@
 								ispita comună de a nu pune la îndoială sursele cunoaşterii
 								noastre.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9b79af04-5865-5a7a-001e-d6e77a3d7269">cerul</ptr>
+								<ptr target="#A104522">cerul</ptr>
 								<date>1995</date>
 								<citedRange>314</citedRange>
 							</bibl>
@@ -522,7 +522,7 @@
 								lumina tandră a minţii. Un corp supus minţii până la ultima lui
 								celulă, un corp de voinţă şi de tânjire, de forţă şi de dulce <hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbitor</ptr>
+								<ptr target="#A101584">orbitor</ptr>
 								<date>2002</date>
 								<citedRange>283</citedRange>
 							</bibl>
@@ -532,7 +532,7 @@
 								şi-n ordinea imuabilă a firii. Este un fel de <hi rend="bold">abandon</hi>, justificat de neputinţa opunerii
 								rezistenţei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0f760699-528b-a4b4-4c64-f6f14ffd4150">catolicii</ptr>
+								<ptr target="#A104307">catolicii</ptr>
 								<date>2005</date>
 								<citedRange>171</citedRange>
 							</bibl>
@@ -550,7 +550,7 @@
 						<cit type="unknown">
 							<quote>[Pentagon]: Învins la puncte! [Bălălău]: Knock-out prin <hi rend="bold">abandon</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f706c711-5e83-860d-7658-fcfed23c91e7">ciprian</ptr>
+								<ptr target="#A104834">ciprian</ptr>
 								<date>1946</date>
 								<citedRange/>
 							</bibl>
@@ -583,7 +583,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
@@ -593,47 +593,47 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-936bde71-48da-15c5-8112-1320f5f07e73">ABC</ptr>
+						<ptr target="#A105176">ABC</ptr>
 						<date>&lt;1942–1943&gt;</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<ptr target="#A102972">DM</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<ptr target="#A104937">der</ptr>
 						<date>1962</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">Dn</ptr>
+						<ptr target="#A104626">Dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-c75dd412-9b80-6c22-0d40-fecc71513064">ec. pia</ptr>
+						<ptr target="#A101489">ec. pia</ptr>
 						<date>1994</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">dr. priv</ptr>
+						<ptr target="#A100965">dr. priv</ptr>
 						<date>1997</date>
 						<citedRange>633</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">dr. civ</ptr>
+						<ptr target="#A104975">dr. civ</ptr>
 						<date>2007</date>
 						<citedRange>633</citedRange>
 					</bibl>

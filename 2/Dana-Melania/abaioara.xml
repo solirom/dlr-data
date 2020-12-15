@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="ap.">
-								<ptr target="#uuid-d4a76fd4-91e5-9c88-2f46-1ab764cb9cdb">bogdan</ptr>
+								<ptr target="#A103210">bogdan</ptr>
 								<date>1609</date>
 								<citedRange/>
 							</bibl>
@@ -55,7 +55,7 @@
 								cuptoşită cu atlaz roşu, şi iar o dulamă de zarba cuptoşită cu
 								bogasiu, şi o <hi rend="bold">abăioară</hi> vechi şi spartă.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">Hem</ptr>
+								<ptr target="#A102873">Hem</ptr>
 								<date>1621</date>
 								<citedRange>89</citedRange>
 							</bibl>
@@ -65,7 +65,7 @@
 								cinstea unui domn, cu toate podoabele Domneșt[i], cu scărele de
 								argint și cu <hi rend="bold">abăioară</hi> de săirmă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-831c487f-160d-4c6c-5713-4d4074aa89fe">doc</ptr>
+								<ptr target="#A100099">doc</ptr>
 								<date>1647</date>
 								<citedRange>27</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 								cu <hi rend="bold">abăioare</hi> roşii şî călăreții de pre dânşii
 								înarmați, oboară de boi, turme de oi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-739fd8d3-5759-a212-3f74-e7d1b36444ec">ioasaf</ptr>
+								<ptr target="#A102684">ioasaf</ptr>
 								<date>1648</date>
 								<citedRange>263</citedRange>
 							</bibl>
@@ -86,7 +86,7 @@
 							<quote>Mulţi belescu de tot pre oamini şi întind pialea omului pre lemne
 								şi o facu <hi rend="bold">abăioară</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7a3be8ce-1187-a2d4-329b-fd53e52f00db">istorii</ptr>
+								<ptr target="#A100918">istorii</ptr>
 								<date>&lt;1664–1668&gt;</date>
 								<citedRange>210</citedRange>
 							</bibl>
@@ -96,7 +96,7 @@
 								rafturi, cu şa cu florile de sărmă, cu <hi rend="bold">abăioara</hi>
 								iară cu flori de sărmă</quote>
 							<bibl type="în">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<ptr target="#A102873">hem</ptr>
 								<date>1689</date>
 								<citedRange>90</citedRange>
 							</bibl>
@@ -105,7 +105,7 @@
 							<quote>: 20 000 de <hi rend="bold">abăioare</hi> de piei de peaşte de
 								mare, şi acela nicĕ un her nu-l tae.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<ptr target="#A102873">hem</ptr>
 								<date/>
 								<citedRange/>
 							</bibl>
@@ -134,7 +134,7 @@
 					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abăiúră </def>
 					<bibl type="ap.">
-						<ptr target="#uuid-d4a76fd4-91e5-9c88-2f46-1ab764cb9cdb">bogdan</ptr>
+						<ptr target="#A103210">bogdan</ptr>
 						<date>1609</date>
 						<citedRange/>
 					</bibl>
@@ -151,32 +151,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<ptr target="#A102873">hem</ptr>
 						<date>1887</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-790dad4a-2d4c-3aeb-4177-0a198e7f83c5">seche</ptr>
+						<ptr target="#A104771">seche</ptr>
 						<date>1969</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4cebded3-a294-97fc-8fe5-0eefae33a162">suciu</ptr>
+						<ptr target="#A105222">suciu</ptr>
 						<date>2009</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

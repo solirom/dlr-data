@@ -50,7 +50,7 @@
 								întâmplare are loc moştenirea „<hi rend="bold">ab</hi>
 								<hi rend="bold">intestato</hi>” (adecă fără testament).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b192a56a-8543-a2da-4a96-c119f09d490a">calim</ptr>
+								<ptr target="#A105113">calim</ptr>
 								<date>1833</date>
 								<citedRange>303</citedRange>
 							</bibl>
@@ -59,7 +59,7 @@
 							<quote>Clironomiile „<hi rend="bold">ab-intestato</hi>” erau cu totul
 								ale Cutiei milelor, alipită la Epitropie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bec92316-0f0c-0502-7a50-ca6c0369a789">urec</ptr>
+								<ptr target="#A101390">urec</ptr>
 								<date>1893</date>
 								<citedRange>445</citedRange>
 							</bibl>
@@ -68,7 +68,7 @@
 							<quote>Moştenire <hi rend="bold">ab intestato</hi> = moştenirea pe basa
 								legii în lipsa de testament</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+								<ptr target="#A101816">enc</ptr>
 								<date>1898</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -78,7 +78,7 @@
 								legate precum şi despre cei desmoşteniţi pentru ingratitudine
 								[Subtitlu].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-429e7b6f-9d3d-a445-6f19-f5d3275e003d">berech</ptr>
+								<ptr target="#A100995">berech</ptr>
 								<date>1933</date>
 								<citedRange>49</citedRange>
 							</bibl>
@@ -89,7 +89,7 @@
 								unui breslaş? Era o normă general admisă sau excepţii binevoitoare
 								la unele din bresle? </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-56708453-1f3b-a04c-42f3-f4bf144e894c">bresl</ptr>
+								<ptr target="#A100201">bresl</ptr>
 								<date>1939</date>
 								<citedRange>128</citedRange>
 							</bibl>
@@ -99,7 +99,7 @@
 								defunctul nu a lăsat testament şi a cărei deschidere e regulată prin
 								lege şi testamentară, când defunctul a lăsat testament.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4ff8667f-670c-8806-57c3-ec0d17de2b5c">enc</ptr>
+								<ptr target="#A100727">enc</ptr>
 								<date>1942</date>
 								<citedRange>73</citedRange>
 							</bibl>
@@ -107,7 +107,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-4388ffc7-5f5b-38d1-52fb-1cb89cff399f">priv</ptr>
+								<ptr target="#A100965">priv</ptr>
 								<date>1997</date>
 								<citedRange/>
 							</bibl>
@@ -115,7 +115,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+								<ptr target="#A102765">jur</ptr>
 								<date>1999</date>
 								<citedRange/>
 							</bibl>
@@ -123,7 +123,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-13008a20-8baa-450d-51fb-4484e86e0f49">civ</ptr>
+								<ptr target="#A104975">civ</ptr>
 								<date>2007</date>
 								<citedRange/>
 							</bibl>
@@ -147,22 +147,22 @@
 					<usg>(<seg type="hint" rend="usg">formă latinizantă</seg>)</usg>
 					<def>ab intestáto</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asach</ptr>
+						<ptr target="#A104011">asach</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<ptr target="#A102458">stein</ptr>
 						<date>1886</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
@@ -172,7 +172,7 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+						<ptr target="#A102765">jur</ptr>
 						<date>1999</date>
 						<citedRange/>
 					</bibl>
@@ -186,27 +186,27 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<ptr target="#A104011">asachi</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antones</ptr>
+						<ptr target="#A102594">antones</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<ptr target="#A102458">stein</ptr>
 						<date>1886</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
@@ -216,12 +216,12 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<ptr target="#A104937">der</ptr>
 						<date>1962</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<ptr target="#A100981">dn</ptr>
 						<date>2002</date>
 						<citedRange/>
 					</bibl>
@@ -231,12 +231,12 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-8a23a018-9dd7-18d8-3eba-6dd0be2625e9">fundam</ptr>
+						<ptr target="#A104312">fundam</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-8daaf9d1-a2ab-0046-7f40-12258e3276c6">dan</ptr>
+						<ptr target="#A104351">dan</ptr>
 						<date>2013</date>
 						<citedRange/>
 					</bibl>

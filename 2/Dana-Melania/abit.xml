@@ -48,7 +48,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+								<ptr target="#A101929">bălă</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -70,7 +70,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+									<ptr target="#A102654">lmd</ptr>
 									<date>1871</date>
 									<citedRange/>
 								</bibl>
@@ -80,7 +80,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -110,7 +110,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>

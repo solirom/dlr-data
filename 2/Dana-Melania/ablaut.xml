@@ -54,7 +54,7 @@
 								numesc ei „Umlaut”, nu „<hi rend="bold">Ablaut</hi>”) s-ar strica
 								dacă sunetele ä, ö, ü s-ar scrie prin alte semne.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-287ad18f-8716-111c-6c06-1a4dcfcb6dcd">maiore</ptr>
+								<ptr target="#A101430">maiore</ptr>
 								<date>1866</date>
 								<citedRange>362</citedRange>
 							</bibl>
@@ -64,7 +64,7 @@
 								primitivă existenţă a limbilor indogermane, însă nu aparţine
 								excluziv acelui timp.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a3d861e5-813a-6bba-6dc7-7fe5325357b8">phil</ptr>
+								<ptr target="#A102622">phil</ptr>
 								<date>1894</date>
 								<citedRange>226</citedRange>
 							</bibl>
@@ -94,32 +94,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

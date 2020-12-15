@@ -43,7 +43,7 @@
 								<quote>Fugi deochiu fierbinte, că te-ajung <hi rend="bold">aborii
 									</hi>de părinte. </quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<ptr target="#A102873">hem</ptr>
 									<date>1887</date>
 									<citedRange>104</citedRange>
 								</bibl>
@@ -53,21 +53,21 @@
 									</hi>sufla-te-oi,/ În munţi săci,/În pietrele reci,/ La Maria să
 									nu te mai întorci. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1d68ddba-9ee2-22ce-38e1-c80feafa2e3e">folc</ptr>
+									<ptr target="#A101646">folc</ptr>
 									<date>1979</date>
 									<citedRange>193</citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-6b0d0c3b-745c-4c89-ac24-6787f8ec7657" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="proverb"/>
 								<term>A scoate aburi pe gură</term>
-							</form>
-							<form type="unitate-semantică-subsumată">
+							</re>
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="proverb"/>
 								<term>A scoate abur pe gură</term>
-							</form>
+							</re>
 							<def xml:id="id">se spune despre cei care vorbesc zadarnic.</def>
 							<cit type="unknown">
 								<quote/>
@@ -88,7 +88,7 @@
 									vor. Trimite-veri <hi rend="bold">aburul </hi>lor şi se vor
 									tămădui şi noi-veri faţa pământului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-78f96293-38fd-9526-1e8a-a752038a4b37">hur.</ptr>
+									<ptr target="#A104101">hur.</ptr>
 									<date>&lt;1500–1510&gt; </date>
 									<citedRange>174</citedRange>
 								</bibl>
@@ -98,7 +98,7 @@
 									trecătoriu carele nu să mai întoarnă de câte ori mâniară pre El
 									în pustie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4f5cc7ea-5f3f-9824-6219-1368acfe0153">alba
+									<ptr target="#A102267">alba
 										iu</ptr>
 									<date>1651</date>
 									<citedRange>397</citedRange>
@@ -110,7 +110,7 @@
 									dobitoacele, toată hiara şi toată gânganiia, caria-ş pre
 									naştiria sa.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d173c7e6-7403-2624-8980-10e6198943ce">danov</ptr>
+									<ptr target="#A102991">danov</ptr>
 									<date>&lt;1678–1689&gt;</date>
 									<citedRange>5</citedRange>
 								</bibl>
@@ -119,7 +119,7 @@
 								<quote>Şi ca cum ari o socoteală pune, precum duhul omului ca <hi rend="bold">aburul </hi>dobitocului, muritoriu, şi în nemică
 									întorcătoriu să fie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-285780b4-83cf-8e29-1894-2c0d613b94bb">divanu</ptr>
+									<ptr target="#A102845">divanu</ptr>
 									<date>1698</date>
 									<citedRange>213</citedRange>
 								</bibl>
@@ -131,7 +131,7 @@
 									piialea de oase şi pieptul de spinare i să lipisă. Carea
 									înghiţind vicleşugul, preste puţine dzile ş-au borât <hi rend="bold">aburul</hi>. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">cantemir</ptr>
+									<ptr target="#A102915">cantemir</ptr>
 									<date>&lt;1704–1705&gt; </date>
 									<citedRange>507</citedRange>
 								</bibl>
@@ -143,7 +143,7 @@
 									având dobitocul <hi rend="bold">abur</hi> în loc de suflet, dar
 									văzul e tot văz.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-af66267f-51fe-177f-20dd-3c35bc899a5e">delavr</ptr>
+									<ptr target="#A101064">delavr</ptr>
 									<date>1885</date>
 									<citedRange>90</citedRange>
 								</bibl>
@@ -153,7 +153,7 @@
 									sufletul omului este neperitoriu, și deaca se desparte de trup,
 									se duce la D[umne]dzeu pentru ca să-și iea răsplată. </quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<ptr target="#A102873">hem</ptr>
 									<date>1887</date>
 									<citedRange>104</citedRange>
 								</bibl>
@@ -163,7 +163,7 @@
 									mai mult să schimbă, vine alte patru, ș-așa în sfârșit până iese
 										<hi rend="bold">aburu</hi> ăla trebui să fiie păzit.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5f567dbc-766a-5953-9557-d27fbe2b09b3">dobr.</ptr>
+									<ptr target="#A104754">dobr.</ptr>
 									<date>&lt;1972–1975&gt; </date>
 									<citedRange>671</citedRange>
 								</bibl>
@@ -171,7 +171,7 @@
 							<cit type="✧ POP.">
 								<quote>N-au suflet, un fel de <hi rend="bold">abur</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">ALR</ptr>
+									<ptr target="#A100563">ALR</ptr>
 									<date/>
 									<citedRange>5652/514</citedRange>
 								</bibl>
@@ -179,7 +179,7 @@
 							<cit type="unknown">
 								<quote>N-au suflet, numai <hi rend="bold">abor</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">ALR</ptr>
+									<ptr target="#A100563">ALR</ptr>
 									<date/>
 									<citedRange>5652/235</citedRange>
 								</bibl>
@@ -206,7 +206,7 @@
 						<cit type="unknown">
 							<quote>Nece <hi rend="bold">amu</hi> e abur în rrostu lor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-78f96293-38fd-9526-1e8a-a752038a4b37">psal</ptr>
+								<ptr target="#A104101">psal</ptr>
 								<date>&lt;1500–1510&gt;</date>
 								<citedRange>200</citedRange>
 							</bibl>
@@ -215,7 +215,7 @@
 							<quote>Ce va fi viața noastră? <hi rend="bold">Aburu </hi>easte, cea ce
 								puținelu iveaște se, după acea piare. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-73b70cd8-8335-162a-2eba-22341c3208f5">cod.
+								<ptr target="#A102219">cod.
 									vor</ptr>
 								<date>&lt;1563–1583&gt; </date>
 								<citedRange>358</citedRange>
@@ -225,7 +225,7 @@
 							<quote>Idolii păgânilor ... Gură au şi nu pot să grăiască, Cu ochi sânt
 								şi nu pot să zărească, Urechi au şi nu potu să audză, Nice <hi rend="bold">aburu</hi> nu le iaste-n budză.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3757e31b-6968-9f18-7427-fdda2ca7034f">dosoftei</ptr>
+								<ptr target="#A104223">dosoftei</ptr>
 								<date>1673</date>
 								<citedRange>963</citedRange>
 							</bibl>
@@ -236,7 +236,7 @@
 								audzul urechilor, şi miredzma nasului, adecă răsuflul <hi rend="bold">aburului</hi> şi gustarea rostului şi purcesul
 								trupului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f44014e6-70b8-7ef5-036b-71c725667ca9">danovici</ptr>
+								<ptr target="#A103769">danovici</ptr>
 								<date>&lt;1678–1689&gt;</date>
 								<citedRange>309</citedRange>
 							</bibl>
@@ -247,7 +247,7 @@
 								de răspuns la împăratul, care, deaca audzî, să mânie şi chemă tot
 								senatul. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5e5e623b-5cb8-84b8-02fc-7ab758556d01">dosoftei</ptr>
+								<ptr target="#A103629">dosoftei</ptr>
 								<date>1686</date>
 								<citedRange>martie 7/37</citedRange>
 							</bibl>
@@ -258,7 +258,7 @@
 								iaste, şi încă pană la cel mai de pre urmă <hi rend="bold">abur
 								</hi>a fi şi silesc.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">cantemir</ptr>
+								<ptr target="#A102915">cantemir</ptr>
 								<date>&lt;1704–1705&gt;</date>
 								<citedRange>451</citedRange>
 							</bibl>
@@ -268,7 +268,7 @@
 								se poticnea, din nări răsufla <hi rend="bold">aburi </hi>fierbinţi
 								şi din gură i se strecurau bale spumoase. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-464697d6-82c2-3177-6afa-7611a6f6186b">asachi</ptr>
+								<ptr target="#A104059">asachi</ptr>
 								<date>1859</date>
 								<citedRange>244</citedRange>
 							</bibl>
@@ -278,7 +278,7 @@
 								întregi, de rămân numai locuri pustii, molipsind prin <hi rend="bold">aburul</hi> sau răsuflare ... alți oameni ce să pot
 								întâlni. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a132d6dd-4fdf-98b6-061b-a19ff8933ad5">cuparencu</ptr>
+								<ptr target="#A104629">cuparencu</ptr>
 								<date>1860</date>
 								<citedRange>9/9</citedRange>
 							</bibl>
@@ -288,7 +288,7 @@
 								câmpul luciu, scoţând <hi rend="bold">aburi</hi> lungi pe
 								nare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4b93afe6-5f7f-11bb-31b1-6c41747e3c35">alecs</ptr>
+								<ptr target="#A102749">alecs</ptr>
 								<date>1868</date>
 								<citedRange>316</citedRange>
 							</bibl>
@@ -296,7 +296,7 @@
 						<cit type="unknown">
 							<quote>: O! reci fiori de groază prin sufletul meu trec. Răsuflu-<hi rend="bold">aburi </hi>de moarte. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-eb01df21-7f5f-3dd0-2b4e-71a0d39e92fd">alecs</ptr>
+								<ptr target="#A104616">alecs</ptr>
 								<date>1880</date>
 								<citedRange>700</citedRange>
 							</bibl>
@@ -305,7 +305,7 @@
 							<quote>Caii și boii suflau <hi rend="bold">aburi</hi> deși,
 								cenușii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-85203b36-479d-7bcc-8b43-f341dc8e8d57">sadov</ptr>
+								<ptr target="#A102006">sadov</ptr>
 								<date>1904</date>
 								<citedRange>626</citedRange>
 							</bibl>
@@ -313,7 +313,7 @@
 						<cit type="unknown">
 							<quote>Armăsarul se ducea ca o porumbiţă încolţită de uleu; <hi rend="bold">aburii</hi> de pe nările lui te frigeau. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-81aa44c7-8235-4480-1d3d-8e62aeee1092">delavr</ptr>
+								<ptr target="#A103001">delavr</ptr>
 								<date>1916</date>
 								<citedRange>293</citedRange>
 							</bibl>
@@ -322,7 +322,7 @@
 							<quote><hi rend="bold">Aburii</hi> ieșiți pe nări se depuneau în jurul
 								gurii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6551b3bd-6a9b-74a1-8d55-75041d9c1869">dragomir</ptr>
+								<ptr target="#A102257">dragomir</ptr>
 								<date>1925</date>
 								<citedRange>41</citedRange>
 							</bibl>
@@ -332,7 +332,7 @@
 								respirației și îi părea rău că n-a putut să-i spună ceva ce ar fi
 								înveselit-o. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a2b6ee11-0bd0-1e09-6d6f-8bfacc018f38">ardelea</ptr>
+								<ptr target="#A103033">ardelea</ptr>
 								<date>1926</date>
 								<citedRange>204</citedRange>
 							</bibl>
@@ -341,7 +341,7 @@
 							<quote>[Ceilalți doi oameni] înfulicau repede ... suflând în același
 								timp <hi rend="bold">aburi </hi>de foc prin colțurile gurii. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e4715047-28e3-9067-13b6-3e5042219d18">sadov</ptr>
+								<ptr target="#A103186">sadov</ptr>
 								<date>1935</date>
 								<citedRange>139</citedRange>
 							</bibl>
@@ -352,7 +352,7 @@
 								cu izmă printre dinţi, Copitele să-ndemne şi-agalele spinări,
 								Suflând <hi rend="bold">aburi</hi> pe nări.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-90baca8c-7c22-9dcd-23b9-ceff1d4e9468">căline</ptr>
+								<ptr target="#A100749">căline</ptr>
 								<date>1963 (†)</date>
 								<citedRange>214</citedRange>
 							</bibl>
@@ -362,7 +362,7 @@
 								îndoială, ieşind pe gura muribundei un <hi rend="bold">abur</hi>
 								alb. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ba97f876-34ca-390e-7925-cab91fe94705">cimpoe</ptr>
+								<ptr target="#A101839">cimpoe</ptr>
 								<date>2001</date>
 								<citedRange>95</citedRange>
 							</bibl>
@@ -371,7 +371,7 @@
 							<quote>Ţac, şi o fată în capul gol, scoţând <hi rend="bold">aburi
 								</hi>din gura care tocmai striga ceva, era trasă şi ea-n poză. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">orbitor</ptr>
+								<ptr target="#A100299">orbitor</ptr>
 								<date>2007</date>
 								<citedRange>181</citedRange>
 							</bibl>
@@ -379,7 +379,7 @@
 						<cit type="✧ POP.">
 							<quote>Îș trage <hi rend="bold">abor</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-abe463cd-83a9-4a6d-72c8-81a0d7f40a12">ALR</ptr>
+								<ptr target="#A104276">ALR</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>MN 23</citedRange>
 							</bibl>
@@ -396,7 +396,7 @@
 									para foc ş-au făcut mijlocul peştiei răcoros ca un <hi rend="bold">abur</hi> de roaă suflând şi nemică dânşii foc
 									nu să atingia.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d173c7e6-7403-2624-8980-10e6198943ce">danov</ptr>
+									<ptr target="#A102991">danov</ptr>
 									<date>&lt;1678–1689&gt;</date>
 									<citedRange>117</citedRange>
 								</bibl>
@@ -404,7 +404,7 @@
 							<cit type="unknown">
 								<quote>Apropierea ei îl umple și îl tulbură ca <hi rend="bold">aburul </hi>unui vânt întunecat.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunat</ptr>
+									<ptr target="#A103840">lunat</ptr>
 									<date>1964 (†)</date>
 									<citedRange>164</citedRange>
 								</bibl>
@@ -412,7 +412,7 @@
 							<cit type="unknown">
 								<quote>Prin fereastră norii-mi pătrund în odaie ca un <hi rend="bold">abur</hi> cu steluţe de gheaţă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbi</ptr>
+									<ptr target="#A101584">orbi</ptr>
 									<date>2002</date>
 									<citedRange>38</citedRange>
 								</bibl>
@@ -429,7 +429,7 @@
 									să părăsască, uşile şi ferestrile simţirilor, despre tot <hi rend="bold">aburul </hi>şi vântul tulburării astupându-să,
 									tare să să păzască.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">cantemir</ptr>
+									<ptr target="#A102915">cantemir</ptr>
 									<date>&lt;1704–1705&gt;</date>
 									<citedRange>771</citedRange>
 								</bibl>
@@ -450,7 +450,7 @@
 								grindirea, neaoa, bruma, abur de vicol, ce le facu
 								cuvâ&lt;n&gt;tul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-78f96293-38fd-9526-1e8a-a752038a4b37">psalt</ptr>
+								<ptr target="#A104101">psalt</ptr>
 								<date>&lt;1500–1510&gt; </date>
 								<citedRange>210</citedRange>
 							</bibl>
@@ -458,7 +458,7 @@
 						<cit type="unknown">
 							<quote>Sufla-va <hi rend="bold">aburul </hi>și cure-vor apele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-78f96293-38fd-9526-1e8a-a752038a4b37">psalt</ptr>
+								<ptr target="#A104101">psalt</ptr>
 								<date>&lt;1500–1510&gt;</date>
 								<citedRange>210</citedRange>
 							</bibl>
@@ -469,7 +469,7 @@
 								puținea vreame, șî încă nu bucurie, ce numai o sminteală şî o
 								înşelăciune a răotății ceştii lumi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-25490484-0fa4-760f-2fa0-7ef08b152de3">varlaa</ptr>
+								<ptr target="#A103584">varlaa</ptr>
 								<date>1648</date>
 								<citedRange>161</citedRange>
 							</bibl>
@@ -478,7 +478,7 @@
 							<quote>Corăbiiariul carile în lineşte furtuna nu socoteşte şi găuricea
 								carea pişteşte cu vreme nu călăfătuiaşte, în <hi rend="bold">abur</hi>, vivor, şi în picătură apă fără măsură află.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">ist.
+								<ptr target="#A102915">ist.
 									ier</ptr>
 								<date>&lt;1704–1705&gt;</date>
 								<citedRange>543</citedRange>
@@ -488,7 +488,7 @@
 							<quote>Pe stejar las martur Ce-acum ne umbreşte Ş-a vântului <hi rend="bold">abur </hi>Ce duios prin strune viind ne
 								boceşte.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-72a03e9a-1888-9e3e-6134-808f0dfc4fbc">stamati</ptr>
+								<ptr target="#A104551">stamati</ptr>
 								<date>1853</date>
 								<citedRange>19</citedRange>
 							</bibl>
@@ -496,7 +496,7 @@
 						<cit type="unknown">
 							<quote>Îndată pornirăm, Și venirăm Pe fața pământului, Pe <hi rend="bold">aburii</hi> vântului.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+								<ptr target="#A102873">HEM</ptr>
 								<date>1887</date>
 								<citedRange>105</citedRange>
 							</bibl>
@@ -506,7 +506,7 @@
 								învăluite de fâșii ușoare de <hi rend="bold">aburi
 								</hi>reci.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a0c894e2-676b-8a5f-0857-969d6d61a32b">cron.
+								<ptr target="#A102262">cron.
 									f</ptr>
 								<date>1955</date>
 								<citedRange>375</citedRange>
@@ -516,7 +516,7 @@
 							<quote>Simțeam căușul palmei gol Și-un <hi rend="bold">abur</hi>,
 								neatins de frunze, trecea Bănuitor prin trupul meu.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f9f16485-05eb-a433-a185-17a114202346">blandiana</ptr>
+								<ptr target="#A101634">blandiana</ptr>
 								<date>1974</date>
 								<citedRange>50</citedRange>
 							</bibl>
@@ -535,7 +535,7 @@
 									atunce să zacă cu dosul în sus, derept să nu facă dedesupt
 									udătură.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f9651051-3af4-3cc4-3b63-3cec121757c9">liturgh</ptr>
+									<ptr target="#A103982">liturgh</ptr>
 									<date>1570</date>
 									<citedRange>128</citedRange>
 								</bibl>
@@ -544,7 +544,7 @@
 								<quote>Oile … de <hi rend="bold">aburea</hi> și vapura care iasă din
 									vite, se nădușesc.</quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-c56ef41e-8b7a-04e7-7126-1fd895b63a8e">DA</ptr>
+									<ptr target="#A101452">DA</ptr>
 									<date>1806</date>
 									<citedRange/>
 								</bibl>
@@ -553,7 +553,7 @@
 								<quote>Încă mai sânt ăn trupul nostru și părți aburoase, precum: <hi rend="bold">aburea</hi> pialei, plămânelor, și aburea
 									zăroasă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-412a4b14-37a2-1440-4a87-99e57a7a2a19">ungureanu</ptr>
+									<ptr target="#A100061">ungureanu</ptr>
 									<date>1830</date>
 									<citedRange>13/4</citedRange>
 								</bibl>
@@ -563,7 +563,7 @@
 									unui arc şi <hi rend="bold">aburi</hi> groşi ieşeau din
 									el.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-08da663c-1f64-9714-3747-433caacb93db">amint</ptr>
+									<ptr target="#A101357">amint</ptr>
 									<date>1835</date>
 									<citedRange>30</citedRange>
 								</bibl>
@@ -577,7 +577,7 @@
 							<cit type="unknown">
 								<quote>[La răsăritul soarelui] cresc nori ca <hi rend="bold">aburi</hi> grei dintr-o căldare.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-51504029-54e6-6877-6c9f-99a76f037174">caleid</ptr>
+									<ptr target="#A102166">caleid</ptr>
 									<date>1908</date>
 									<citedRange>139</citedRange>
 								</bibl>
@@ -588,7 +588,7 @@
 									Duhul lui negru ca smoala a stat o vreme nemișcat ca un crâmpei
 									de <hi rend="bold">abur </hi>pe o baltă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2eb0b50d-7edf-a629-9d29-21817e9d344a">șun</ptr>
+									<ptr target="#A102767">șun</ptr>
 									<date>1943</date>
 									<citedRange>199</citedRange>
 								</bibl>
@@ -596,7 +596,7 @@
 							<cit type="unknown">
 								<quote>Bun rămas, pământule, Că de-acuma eu m-am dus Ca un <hi rend="bold">abure</hi> pe sus.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-cd7f94dc-24c1-81f6-792c-d1671bc79b13">mușate</ptr>
+									<ptr target="#A102803">mușate</ptr>
 									<date>1950</date>
 									<citedRange>270</citedRange>
 								</bibl>
@@ -617,7 +617,7 @@
 									boiarii împăratului, fiind voievodă pre oşti cu meserearea
 									lui.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-25490484-0fa4-760f-2fa0-7ef08b152de3">varlaam</ptr>
+									<ptr target="#A103584">varlaam</ptr>
 									<date>1648</date>
 									<citedRange>87</citedRange>
 								</bibl>
@@ -627,7 +627,7 @@
 									d-au ajuns atât de nalt, zeilor, până la voi … astăzi cu favor a
 									noastră ascultaţi fierbinte rugăciune.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0a2d0230-2fa3-25df-58b6-a22d3cab3c8e">teatru</ptr>
+									<ptr target="#A101663">teatru</ptr>
 									<date>1834</date>
 									<citedRange>467</citedRange>
 								</bibl>
@@ -637,7 +637,7 @@
 									ierte mortului păcatele, iar pe de alta să aibă şi el <hi rend="bold">aburi</hi>, adecă căldură sau jertfă în cealaltă
 									lume.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-cbf3c647-0fe2-69f0-1d02-24ce2d8f5c2d">marian</ptr>
+									<ptr target="#A102917">marian</ptr>
 									<date>1892</date>
 									<citedRange>191</citedRange>
 								</bibl>
@@ -646,7 +646,7 @@
 								<quote>Ar fi răbdat bătaia cea mai cruntă ... numai să fi găsit bani
 									spre a-şi îngropa copilul şi spre a-i face o fărâmă de <hi rend="bold">abur</hi>, iar mai apoi pomenile.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-76edd6f7-59b0-3dfb-104e-dac0e89e1740">neamuri</ptr>
+									<ptr target="#A102527">neamuri</ptr>
 									<date>1906</date>
 									<citedRange>246</citedRange>
 								</bibl>
@@ -656,7 +656,7 @@
 									strachină doo de <hi rend="bold">abur</hi> așa, di
 									mâncare.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5f567dbc-766a-5953-9557-d27fbe2b09b3">dobr.</ptr>
+									<ptr target="#A104754">dobr.</ptr>
 									<date>&lt;1972–1975&gt;</date>
 									<citedRange>671</citedRange>
 								</bibl>
@@ -672,7 +672,7 @@
 									noianul atmosferii, i-au găsit trepete, au osebit <hi rend="bold">aburii </hi>din ciață, și au zărit norii cei
 									umezi și cei uscați.</quote>
 								<bibl type="în">
-									<ptr target="#uuid-6c710e5b-0999-32af-78b4-726584c76e25">BRV</ptr>
+									<ptr target="#A102088">BRV</ptr>
 									<date>1798</date>
 									<citedRange>405</citedRange>
 								</bibl>
@@ -683,7 +683,7 @@
 									pe faţa pământului nu s-ar împrăştia şi, prin răutatea lor, ţări
 									întregi ar rămâne fără lăcuitori.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0f24308d-3e50-9dfd-8a81-3540bcd17103">scrieri
+									<ptr target="#A105098">scrieri
 										cul</ptr>
 									<date>1840</date>
 									<citedRange>454</citedRange>
@@ -693,7 +693,7 @@
 								<quote>Soarele în <hi rend="bold">abur</hi> ca un foc
 									roșește.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-55b56a81-4d5d-62ff-0c9f-87cf292a2b5c">bolintin</ptr>
+									<ptr target="#A103045">bolintin</ptr>
 									<date>1847</date>
 									<citedRange>126</citedRange>
 								</bibl>
@@ -702,7 +702,7 @@
 								<quote>Cerul ... se acoperea de un nor și niște <hi rend="bold">aburi</hi> groși, ridicându-se de prin înălțimea munților
 									și de pe pietrele cele cu totul colosale și râpoase.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f64fa4e6-8aef-9279-7828-01c01bb850e9">pelimon</ptr>
+									<ptr target="#A103783">pelimon</ptr>
 									<date>1858</date>
 									<citedRange>60</citedRange>
 								</bibl>
@@ -712,7 +712,7 @@
 									acoperit de <hi rend="bold">aburi</hi> ce învălesc cu ceață
 									închisă vârfurile dealurilor și întunecă azurul cerului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5fc16372-7d30-98e4-3317-25afe2d2a2ca">românia
+									<ptr target="#A101579">românia
 										l</ptr>
 									<date>1886</date>
 									<citedRange>nr. 2 600, 3</citedRange>
@@ -722,7 +722,7 @@
 								<quote>Cuvântul „nimbus” … ne explică natura acestei lumini
 									circulare compacte, căci el însemnează un „<hi rend="bold">abure</hi> luminos” sau „un nor alb”.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3777677b-4b88-2939-86cc-0f12697e99c1">hasdeu</ptr>
+									<ptr target="#A104557">hasdeu</ptr>
 									<date>1894</date>
 									<citedRange>368</citedRange>
 								</bibl>
@@ -730,7 +730,7 @@
 							<cit type="unknown">
 								<quote>Peste târg, peste livezi negre, peste sat, odihneau <hi rend="bold">aburi</hi> uşori.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-85203b36-479d-7bcc-8b43-f341dc8e8d57">precu</ptr>
+									<ptr target="#A102006">precu</ptr>
 									<date>1904</date>
 									<citedRange>647</citedRange>
 								</bibl>
@@ -739,7 +739,7 @@
 								<quote>Creşteau, în depărtare, alte dealuri şi un văzduh de <hi rend="bold">aburi </hi>şi de nouri absorbea în el culorile
 									şi strălucirea soarelui.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-45864167-7906-00a2-8773-8373c9ed80f5">galac</ptr>
+									<ptr target="#A101071">galac</ptr>
 									<date>1913</date>
 									<citedRange>14</citedRange>
 								</bibl>
@@ -748,7 +748,7 @@
 								<quote>Cerul sclipea înfășurat într-un <hi rend="bold">abur</hi> de
 									negură.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f6020286-a33a-95f0-5c7e-6c84986f9357">neagu</ptr>
+									<ptr target="#A101403">neagu</ptr>
 									<date>1968</date>
 									<citedRange>21</citedRange>
 								</bibl>
@@ -758,7 +758,7 @@
 									fabuloşi, de o albeaţă strălucitoare, coborâseră prin desişurile
 									dealurilor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e517589e-64d0-546c-791c-015555a8383f">cel
+									<ptr target="#A100366">cel
 										iub</ptr>
 									<date>1980</date>
 									<citedRange>1 368</citedRange>
@@ -769,7 +769,7 @@
 									totul părea simplu, paşnic, nevinovat, ca o stampă optimistă a
 									progresului, în toate sectoarele.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-25353b8c-7912-725e-06cb-820886c68f82">adio</ptr>
+									<ptr target="#A103664">adio</ptr>
 									<date>1992</date>
 									<citedRange>418</citedRange>
 								</bibl>
@@ -783,7 +783,7 @@
 							<cit type="unknown">
 								<quote>Să văz după munți la vale cum se las-ai serii <hi rend="bold">aburi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-272bb014-6e99-205b-8922-fcb4787f444b">suliot</ptr>
+									<ptr target="#A100893">suliot</ptr>
 									<date>1847</date>
 									<citedRange>2/14</citedRange>
 								</bibl>
@@ -793,7 +793,7 @@
 									ridică Și, plutind deasupra luncii, printre ramuri se
 									despică.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-4b93afe6-5f7f-11bb-31b1-6c41747e3c35">pasteluri</ptr>
+									<ptr target="#A102749">pasteluri</ptr>
 									<date>1869</date>
 									<citedRange>339</citedRange>
 								</bibl>
@@ -802,7 +802,7 @@
 								<quote>Un <hi rend="bold">abur </hi>care se mută dintr-un loc
 									într-altul, asta fusese dânsa.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-66ae8cbc-6538-50c6-46af-8811c1474fa9">gârlean</ptr>
+									<ptr target="#A100754">gârlean</ptr>
 									<date>1907</date>
 									<citedRange>137</citedRange>
 								</bibl>
@@ -821,7 +821,7 @@
 								poate să fie, altul nime fără însul nu l-au vădzut, şi dzice cum
 								fumul acesta s-au făcut din aburul mării.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-058e3b2a-5457-7a4c-66ee-881607fa8579">apolo</ptr>
+								<ptr target="#A103853">apolo</ptr>
 								<date>jum. sec. XVII</date>
 								<citedRange>102</citedRange>
 							</bibl>
@@ -832,7 +832,7 @@
 								liamnele în sus ramurile sale crescu, focul în sus para
 								izbucniaşte.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6c7b4f0f-8bfd-12e7-6da5-16c52b577a29">ceasor</ptr>
+								<ptr target="#A102519">ceasor</ptr>
 								<date>&lt;1703–1709&gt;</date>
 								<citedRange>276</citedRange>
 							</bibl>
@@ -842,7 +842,7 @@
 								ficaţii Ursului pătrunsără, de unde adevărata înflăciune
 								scornindu-să,… înaintea a toate gloatele crăpă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">cantemir</ptr>
+								<ptr target="#A102915">cantemir</ptr>
 								<date>&lt;1704–1705&gt;</date>
 								<citedRange>506</citedRange>
 							</bibl>
@@ -854,7 +854,7 @@
 								puteria Sfântului Duh făr’ de nice o sămânță de bărbat,
 								zemislindu-se, s-au făcut trupul Domnului Hristos.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-90c249a7-602d-7301-0426-df0f8a9a56d6">didah</ptr>
+								<ptr target="#A103023">didah</ptr>
 								<date>&lt;1709–1716&gt;</date>
 								<citedRange>197</citedRange>
 							</bibl>
@@ -863,7 +863,7 @@
 							<quote>Se formează din <hi rend="bold">aburii</hi> pământului, ploaea,
 								zăpada, grindina.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e4440564-0b1c-5257-6004-b43e9efda768">genil</ptr>
+								<ptr target="#A102575">genil</ptr>
 								<date>1835</date>
 								<citedRange>107/26</citedRange>
 							</bibl>
@@ -872,7 +872,7 @@
 							<quote><hi rend="bold">Aburi </hi>seau vapori se înțeleg aburirile ce
 								ies din materii fluide.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6ec6b3eb-3212-3e33-21f6-739223ba8da1">encolpi</ptr>
+								<ptr target="#A100664">encolpi</ptr>
 								<date>1849</date>
 								<citedRange>20/29</citedRange>
 							</bibl>
@@ -882,7 +882,7 @@
 								cărți groase și fac să se vadă literele scrise c-o soluție de vismut
 								în acrime nitrică.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ccbb325f-83e7-4adc-612b-8b3b58b52701">stamati</ptr>
+								<ptr target="#A104201">stamati</ptr>
 								<date>1849</date>
 								<citedRange>9/2</citedRange>
 							</bibl>
@@ -892,7 +892,7 @@
 								căldura; căci videm că ea fără să fearbă, în temperatura obișnuită,
 								și neîmpedecând-o apăsarea aerului, încet încet se preface în <hi rend="bold">abori</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ccbb325f-83e7-4adc-612b-8b3b58b52701">stamati</ptr>
+								<ptr target="#A104201">stamati</ptr>
 								<date>1849</date>
 								<citedRange>104/16</citedRange>
 							</bibl>
@@ -901,7 +901,7 @@
 							<quote>Mulțimea <hi rend="bold">aburilor</hi> cu care era încărcat
 								aerul, au trebuit să aibă o mărime colosală.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-766f4357-65ba-3cea-668f-dd6639e7a05f">ape.
+								<ptr target="#A104124">ape.
 									min</ptr>
 								<date>1851</date>
 								<citedRange>84/21</citedRange>
@@ -911,7 +911,7 @@
 							<quote>În munţi e libertate, Căci <hi rend="bold">aborii</hi> cei răi,
 								Din gropi, nu pot străbate Prin aer, sus la ei. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-72c8972a-1af5-70e6-76d5-80cbcaf12f11">mureșan</ptr>
+								<ptr target="#A101259">mureșan</ptr>
 								<date>1851</date>
 								<citedRange>44</citedRange>
 							</bibl>
@@ -920,7 +920,7 @@
 							<quote>Desupra <hi rend="bold">aburilor</hi> ce vor face aceli pietri,
 								să se atârne partea pătimindă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3046b3c4-7376-8e0f-208a-bbf75cd39976">doctor</ptr>
+								<ptr target="#A103589">doctor</ptr>
 								<date>1858</date>
 								<citedRange>78/21</citedRange>
 							</bibl>
@@ -930,7 +930,7 @@
 								groapă săpată din nou astfel, încât din fundul ei ieșia încă un
 								ușure <hi rend="bold">abur </hi>de căldura pământului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-66c6a3f7-4cb8-3d5e-1507-6586072557ce">emines</ptr>
+								<ptr target="#A104713">emines</ptr>
 								<date>&lt;1868–1869&gt;</date>
 								<citedRange>191</citedRange>
 							</bibl>
@@ -940,7 +940,7 @@
 								aflători în aer e cu atât mai mică, cu cât ne vom urca mai sus în
 								atmosferă peste suprafața mării.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima
+								<ptr target="#A104856">sima
 									al</ptr>
 								<date>1890</date>
 								<citedRange>74</citedRange>
@@ -951,7 +951,7 @@
 								imputat apelor Oltului, întâlnite în albia cristalină a Căii-Lactee
 								cu <hi rend="bold">aburii</hi> Mediteranei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">cortin</ptr>
+								<ptr target="#A100959">cortin</ptr>
 								<date>1924</date>
 								<citedRange>269</citedRange>
 							</bibl>
@@ -961,7 +961,7 @@
 								timp şi o bună ventilaţie, s-a imaginat un sistem de bolţi
 								suprapuse.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8122a28f-6c05-8486-4054-21bd1cf3705e">arhit</ptr>
+								<ptr target="#A102184">arhit</ptr>
 								<date>1937</date>
 								<citedRange>380</citedRange>
 							</bibl>
@@ -971,7 +971,7 @@
 								după-amiaza, când matahala ieșea pe gangul casei, cu ochii înroșiți
 								de somn și de <hi rend="bold">aburi</hi>. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9b63f60a-3cef-2704-5142-8aeec6e1094d">hronic</ptr>
+								<ptr target="#A102390">hronic</ptr>
 								<date>&lt;1945–1946&gt;</date>
 								<citedRange>55</citedRange>
 							</bibl>
@@ -981,7 +981,7 @@
 								întinderea căreia <hi rend="bold">aburi </hi>se ridică neîncetat, ca
 								şi cum apele lui ar fi fierbinţi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fee11b49-443a-33ea-85f1-a48b08d93ff7">bogza</ptr>
+								<ptr target="#A104159">bogza</ptr>
 								<date>1947</date>
 								<citedRange>75</citedRange>
 							</bibl>
@@ -991,7 +991,7 @@
 								răsărise, iar cerul înalt şi amorţit înghiţea leneş ultimii nori de
 								ploaie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-71e6af7f-34d2-9c75-375a-854dd07d670b">morom</ptr>
+								<ptr target="#A101930">morom</ptr>
 								<date>1955</date>
 								<citedRange>908</citedRange>
 							</bibl>
@@ -1001,7 +1001,7 @@
 								aşternuţi pe ea se risipiră şi îşi recăpătă luciul şi
 								conturul.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">vinea</ptr>
+								<ptr target="#A103840">vinea</ptr>
 								<date>1964 (†)</date>
 								<citedRange>49</citedRange>
 							</bibl>
@@ -1010,7 +1010,7 @@
 							<quote>Se uită pe fereastră și dădu drumul ștergătoarelor de cauciuc
 								care-i curățară geamul de <hi rend="bold">aburul </hi>ploii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-524df20b-766f-5efe-1f81-23ca15b38339">nord</ptr>
+								<ptr target="#A105151">nord</ptr>
 								<date>1967</date>
 								<citedRange>300</citedRange>
 							</bibl>
@@ -1018,7 +1018,7 @@
 						<cit type="unknown">
 							<quote>În baie era foarte cald și robinetele toate luceau prin <hi rend="bold">aburii </hi>ușori.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-69e03c5a-4a2d-9449-93ce-c5fe03024c65">iliescu</ptr>
+								<ptr target="#A104183">iliescu</ptr>
 								<date>1970</date>
 								<citedRange>184</citedRange>
 							</bibl>
@@ -1028,7 +1028,7 @@
 								fantastic Și scoate <hi rend="bold">aburi </hi>deocamdată, aburește
 								oglinda cerului, Ca să nu se spargă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-669b31fb-3db5-69a2-1643-85c146c65fce">sorescu</ptr>
+								<ptr target="#A101107">sorescu</ptr>
 								<date>1976</date>
 								<citedRange>662</citedRange>
 							</bibl>
@@ -1037,7 +1037,7 @@
 							<quote><hi rend="bold">Aburi </hi>otrăvitori se-nălţau din smârcul cu
 								ochiuri azurii de apă limpede.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">orbitor</ptr>
+								<ptr target="#A100299">orbitor</ptr>
 								<date>2007</date>
 								<citedRange>490</citedRange>
 							</bibl>
@@ -1052,7 +1052,7 @@
 									gustaţi cum Dumnădzău ştie, ce budzele noastre de dulceaţa <hi rend="bold">aburilor</hi> acelora trei dzâle să lipiia ca de
 									stride.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c2050689-6ce8-1345-9a00-71cd470b5261">viața
+									<ptr target="#A101613">viața
 										s</ptr>
 									<date>1682</date>
 									<citedRange>octombrie 80<hi rend="superscript">v</hi>/8</citedRange>
@@ -1064,7 +1064,7 @@
 									mirosuri, dzâsără: „Aceasta svântului nu trebuie, ce să o mâncăm
 									şi să dăm tămâie”.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-5e5e623b-5cb8-84b8-02fc-7ab758556d01">viața
+									<ptr target="#A103629">viața
 										s</ptr>
 									<date>1686</date>
 									<citedRange>aprilie 96<hi rend="superscript">v</hi>/24</citedRange>
@@ -1075,7 +1075,7 @@
 									gândurile acoperite şi cuvintele negândite la ivală
 									scoate.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-334a347b-62bc-0d06-8f63-d65489bd39d8">cantemir</ptr>
+									<ptr target="#A102915">cantemir</ptr>
 									<date>&lt;1704–1705&gt;</date>
 									<citedRange>568</citedRange>
 								</bibl>
@@ -1083,7 +1083,7 @@
 							<cit type="unknown">ȚICHINDEAL<quote>Capul lui cel mare nu au simţit
 									alta fără <hi rend="bold">aburul</hi> de vin
 									bătrân.</quote><bibl type="în">
-									<ptr target="#uuid-6c710e5b-0999-32af-78b4-726584c76e25">brv</ptr>
+									<ptr target="#A102088">brv</ptr>
 									<date>1808</date>
 									<citedRange>529</citedRange>
 								</bibl></cit>
@@ -1091,7 +1091,7 @@
 								<quote>Pentru care acestea sunt bune, <hi rend="bold">abur</hi> cald
 									de mușățel și clistiruri. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-6d86b460-4394-5aa3-167f-4b5cc6af08b8">sporer</ptr>
+									<ptr target="#A104468">sporer</ptr>
 									<date>1839</date>
 									<citedRange>57/5</citedRange>
 								</bibl>
@@ -1101,7 +1101,7 @@
 									crâşmăresei au produs efectul lor, încep horele, râsurile,
 									tropotele.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c3d3c888-1680-2331-6d5f-6446cc0097e4">negru</ptr>
+									<ptr target="#A102114">negru</ptr>
 									<date>1852</date>
 									<citedRange>303</citedRange>
 								</bibl>
@@ -1111,7 +1111,7 @@
 									Dintr-însele ies <hi rend="bold">aburi</hi>, ce împrăștie un
 									miros dulce, un miros sfânt.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-47aefa64-0d51-7d97-9d6b-b698f6428bf6">demetrescu</ptr>
+									<ptr target="#A102630">demetrescu</ptr>
 									<date>1893</date>
 									<citedRange>115</citedRange>
 								</bibl>
@@ -1121,7 +1121,7 @@
 									alții se simțeau înfiorați de cascada de rime care se amesteca
 									în aer cu <hi rend="bold">aburii </hi>cafelei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-18a794c1-672c-1e23-406e-5a8fcddc7552">bacalb</ptr>
+									<ptr target="#A100815">bacalb</ptr>
 									<date>1894</date>
 									<citedRange>159</citedRange>
 								</bibl>
@@ -1130,7 +1130,7 @@
 								<quote>Un <hi rend="bold">abur</hi> tare, îmbătător îmi înecă
 									respirarea.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahuț</ptr>
+									<ptr target="#A105134">vlahuț</ptr>
 									<date>1894</date>
 									<citedRange>206</citedRange>
 								</bibl>
@@ -1140,7 +1140,7 @@
 									fumegând <hi rend="bold">abori </hi>groşi şi înecători, de pe-un
 									fund rotat de scânduri.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8f735df7-2423-5d8d-3234-dfbed822a396">syb</ptr>
+									<ptr target="#A104974">syb</ptr>
 									<date>1902</date>
 									<citedRange>181</citedRange>
 								</bibl>
@@ -1150,7 +1150,7 @@
 									simţi, prin văi trecând, <hi rend="bold">Aburi </hi>calzi de
 									mămăligă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1da1cd1e-55cc-a250-459f-d1f8b79043c4">fire</ptr>
+									<ptr target="#A102041">fire</ptr>
 									<date>1903</date>
 									<citedRange>162</citedRange>
 								</bibl>
@@ -1159,7 +1159,7 @@
 								<quote><hi rend="bold">Aburii </hi>mămăliguții și ai fripurii îmi
 									gâdilară nările.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-fa6c40f6-1bfc-8719-8f56-892cc86665a9">sadoveanu</ptr>
+									<ptr target="#A101571">sadoveanu</ptr>
 									<date>1904</date>
 									<citedRange>91</citedRange>
 								</bibl>
@@ -1169,7 +1169,7 @@
 									ridicat în slavă de laudele băieților, posomorâtul Fausto se
 									descrețise și râdea cu hohot.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-38641a30-8ffa-7765-98a3-c5aa250835de">ascanio</ptr>
+									<ptr target="#A101268">ascanio</ptr>
 									<date>1905</date>
 									<citedRange>339</citedRange>
 								</bibl>
@@ -1178,7 +1178,7 @@
 								<quote><hi rend="bold">Aburul </hi>de la supă se ridica până în
 									lumina lămpii, umplând camera de miros de bucate.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8a656f90-8da4-4f7c-2728-4bba85cc8349">scatiu</ptr>
+									<ptr target="#A102892">scatiu</ptr>
 									<date>1907</date>
 									<citedRange>190</citedRange>
 								</bibl>
@@ -1188,7 +1188,7 @@
 									pâine atunci scoasă din cuptor, o pâine rumenă, mare, și din
 									care un miros plăcut se înălța în <hi rend="bold">aburi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d7b81efd-38c4-2f4e-a693-b5ed826c8624">strigoi</ptr>
+									<ptr target="#A100127">strigoi</ptr>
 									<date>1920</date>
 									<citedRange>16</citedRange>
 								</bibl>
@@ -1197,7 +1197,7 @@
 								<quote>Buna Lina, când intră năduşită şi cu ceva <hi rend="bold">abur </hi>de friptură pe ea, găsi că totul e în cea mai
 									bună ordine.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7179166c-13b1-2f15-4bc8-c7ddfa654fec">bach</ptr>
+									<ptr target="#A104274">bach</ptr>
 									<date>1927</date>
 									<citedRange>177</citedRange>
 								</bibl>
@@ -1206,7 +1206,7 @@
 								<quote>Mioara adulmecând şi ea <hi rend="bold">aburii</hi> de supă –
 									A, mănânc şi eu.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c7ad8c7b-6966-36a7-5cdf-bc1a22d47bbd">mioara</ptr>
+									<ptr target="#A101171">mioara</ptr>
 									<date>1929</date>
 									<citedRange>82</citedRange>
 								</bibl>
@@ -1215,7 +1215,7 @@
 								<quote>Aerul s-a îmbâcsit de fum și de<hi rend="bold"> aburi</hi> de
 									vinuri grele.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f34241da-0416-656b-80fa-6f7e03666549">rebreanu</ptr>
+									<ptr target="#A101804">rebreanu</ptr>
 									<date>1932</date>
 									<citedRange>180</citedRange>
 								</bibl>
@@ -1224,7 +1224,7 @@
 								<quote>Tatăl meu ... și-a dat sufletul printre <hi rend="bold">aburi
 									</hi>acri de șampanie.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunate</ptr>
+									<ptr target="#A103840">lunate</ptr>
 									<date>1964 (†)</date>
 									<citedRange>110</citedRange>
 								</bibl>
@@ -1233,7 +1233,7 @@
 								<quote>Își potrivea bretelele și adulmeca <hi rend="bold">aburul
 									</hi>cafelei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">românia
+									<ptr target="#A101955">românia
 										li</ptr>
 									<date>1982</date>
 									<citedRange>nr. 15, 5</citedRange>
@@ -1245,7 +1245,7 @@
 										<hi rend="bold">aburi </hi>încărcaţi de arome culinare
 									năvăliseră pe palier.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ba97f876-34ca-390e-7925-cab91fe94705">simion
+									<ptr target="#A101839">simion
 										l</ptr>
 									<date>2001</date>
 									<citedRange>197</citedRange>
@@ -1256,7 +1256,7 @@
 									se-amesteca, în mahalaua fermecată a memoriei lui, cu <hi rend="bold">aburul </hi>ciorbelor şi duhoarea de nesuportat,
 									acră şi lemnoasă, a degetelor pline de pete de tutun.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-31e61b1f-3e77-82e4-9cbc-013adad245f7">orbitor</ptr>
+									<ptr target="#A100299">orbitor</ptr>
 									<date>2007</date>
 									<citedRange/>
 								</bibl>
@@ -1272,7 +1272,7 @@
 									</hi>primăverii şi privea brazdele lucitoare cu dragoste
 									pătimaşă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2cc96c4e-87f7-2304-8b70-824fe04a8e63">ion</ptr>
+									<ptr target="#A101965">ion</ptr>
 									<date>1920</date>
 									<citedRange>316</citedRange>
 								</bibl>
@@ -1282,7 +1282,7 @@
 									din inerţie sau alcool, din boală, din aproximaţie sau
 									mistificare, îmi repugnă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-62e51d67-407a-1672-9361-1ed7dccc1945">isabel</ptr>
+									<ptr target="#A103581">isabel</ptr>
 									<date>1930</date>
 									<citedRange>71</citedRange>
 								</bibl>
@@ -1310,7 +1310,7 @@
 								zmirna cea aleasă am dat bună-mirosire. Ca halvani şi onix şi stacti
 								şi ca <hi rend="bold">aburul</hi> livanului în cort.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c52ee0b5-743c-a21e-7938-60424e9f0d5b">biblia</ptr>
+								<ptr target="#A101672">biblia</ptr>
 								<date>1688</date>
 								<citedRange>676</citedRange>
 							</bibl>
@@ -1318,7 +1318,7 @@
 						<cit type="unknown">
 							<quote>Unii [copaci] precum nucul, eniperii ș.a. slobod un feliu de <hi rend="bold">aburi</hi> narcotici seau amețitori.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">macr</ptr>
+								<ptr target="#A100383">macr</ptr>
 								<date>1838</date>
 								<citedRange>84/25</citedRange>
 							</bibl>
@@ -1327,7 +1327,7 @@
 							<quote>Cu fața în <hi rend="bold">aburii </hi>tutunului, zâmbea privind
 								ferestrele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7b9df9b3-15c8-7e7e-1085-a2c75f6218ec">masa</ptr>
+								<ptr target="#A101097">masa</ptr>
 								<date>1946</date>
 								<citedRange>301</citedRange>
 							</bibl>
@@ -1336,7 +1336,7 @@
 							<quote>Un <hi rend="bold">abur</hi> umed de zoaie şi de rufă opărită
 								umplea aerul cu un miros aspru, apăsător.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa9e4478-a591-7f8a-4bd4-2565e8036663">biruit</ptr>
+								<ptr target="#A103531">biruit</ptr>
 								<date>2002</date>
 								<citedRange>289</citedRange>
 							</bibl>
@@ -1344,7 +1344,7 @@
 						<cit type="✧ POP.">
 							<quote>Iasă <hi rend="bold">abure </hi>dân gunoi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c2d43c1-029d-1ba0-a2a1-306daeca71ac">ALRM</ptr>
+								<ptr target="#A104648">ALRM</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>h 310</citedRange>
 							</bibl>
@@ -1352,7 +1352,7 @@
 						<cit type="✧ POP.">
 							<quote>Iesă <hi rend="bold">abor</hi> din gunoi, afumă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c2d43c1-029d-1ba0-a2a1-306daeca71ac">ALRM</ptr>
+								<ptr target="#A104648">ALRM</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>h 310</citedRange>
 							</bibl>
@@ -1360,7 +1360,7 @@
 						<cit type="✧ POP.">
 							<quote>Iesă așa un fel de <hi rend="bold">habur</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c2d43c1-029d-1ba0-a2a1-306daeca71ac">ALRM</ptr>
+								<ptr target="#A104648">ALRM</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>h 310</citedRange>
 							</bibl>
@@ -1368,14 +1368,14 @@
 					</sense>
 					<sense xml:id="uuid-19eadd1f-57fc-4570-b3d4-a788a1293884" n="5.">
 						<sense xml:id="uuid-ff993e59-1f68-4061-95fc-b6fa836e1013" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Baie de abur</term>
-							</form>
-							<form type="unitate-semantică-subsumată">
+							</re>
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Baie de aburi</term>
-							</form>
+							</re>
 							<def xml:id="id">cameră cu aburi de temperatură și densitate reglabille,
 								folosită pentru relaxare sau în scopuri terapeutice;</def>
 							<def xml:id="uuid-b013cd57-ed91-482c-86a1-31347516ddb3">expunere a
@@ -1389,7 +1389,7 @@
 									trupul, ca-ntr-o <hi rend="bold">baie de aburi</hi>, şi
 									sudoarea-i izvora şi-l năclăia din creştet până-n tălpi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-eb96a600-0f51-5a38-3d77-9f41cc234277">vlahu</ptr>
+									<ptr target="#A105134">vlahu</ptr>
 									<date>1885</date>
 									<citedRange>83</citedRange>
 								</bibl>
@@ -1400,7 +1400,7 @@
 									puternic pentru promovarea funcţiunilor pielii, circulaţiei
 									sângelui şi recreării nervilor.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima al </ptr>
+									<ptr target="#A104856">sima al </ptr>
 									<date>1888</date>
 									<citedRange>34</citedRange>
 								</bibl>
@@ -1408,7 +1408,7 @@
 							<cit type="unknown">
 								<quote>Ieri, înainte de prânz, am fost în oraş să iau o <hi rend="bold">baie de abur</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8e79dac2-a5fb-6d25-783e-e2df42a93538">pușcariu</ptr>
+									<ptr target="#A101966">pușcariu</ptr>
 									<date>1915</date>
 									<citedRange>87</citedRange>
 								</bibl>
@@ -1418,7 +1418,7 @@
 										<hi rend="bold">baie de aburi</hi> la fabrica de
 									postav.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-855b117d-53ea-60b6-566a-3747e013698c">minulescu</ptr>
+									<ptr target="#A104755">minulescu</ptr>
 									<date>1922</date>
 									<citedRange>109</citedRange>
 								</bibl>
@@ -1427,7 +1427,7 @@
 								<quote>[Mândrea Nicolae] obicinuit făcea înainte de prelegere o<hi rend="bold"> baie de aburi</hi> şi venea roş ca para la
 									prelegerea sa.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-71ad635d-8ab2-5ef5-99b3-b95320179b9e">i.
+									<ptr target="#A101266">i.
 										negru</ptr>
 									<date>1924</date>
 									<citedRange>276</citedRange>
@@ -1437,7 +1437,7 @@
 								<quote>Drumul lung te duce până la oboseală. După o <hi rend="bold">baie de aburi</hi> te simţi parcă mai puţin
 									păcătos.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-895583f4-1fe9-5aaf-0f54-04a163ff6215">mușatesc</ptr>
+									<ptr target="#A104575">mușatesc</ptr>
 									<date>1967</date>
 									<citedRange>66</citedRange>
 								</bibl>
@@ -1449,7 +1449,7 @@
 									o socoteau ei, – cu duş cu apă caldă şi, afară, cu o piscină
 									anexă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-80f80b6c-2aef-4136-041a-5594a1f7261a">ist.
+									<ptr target="#A101931">ist.
 										cult</ptr>
 									<date>1984</date>
 									<citedRange>263</citedRange>
@@ -1460,7 +1460,7 @@
 									iar alimentaţia, bazată pe carne şi pâine, se dovedea a fi
 									consistentă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">biciul</ptr>
+									<ptr target="#A100419">biciul</ptr>
 									<date>2002</date>
 									<citedRange>190</citedRange>
 								</bibl>
@@ -1477,7 +1477,7 @@
 										prin lirica franceză, avându-i în cabină – mecanic și
 										fochist – pe Michel Deguy.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-87013d2f-5ca0-0619-8762-9dedc2179a1b">inspir</ptr>
+										<ptr target="#A103812">inspir</ptr>
 										<date>1980</date>
 										<citedRange>904</citedRange>
 									</bibl>
@@ -1494,7 +1494,7 @@
 									vapor (<hi rend="bold">aburi</hi>) ca să le dea știre că sunt
 									musulmani. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7e707efe-9547-a2e3-2bfe-49c6bb3f7015">curierul</ptr>
+									<ptr target="#A102582">curierul</ptr>
 									<date>1829</date>
 									<citedRange>36<hi rend="superscript">1</hi>/9</citedRange>
 								</bibl>
@@ -1503,7 +1503,7 @@
 								<quote>De câtăva vreme să vede la Londra o <hi rend="bold">trăsură
 										de</hi> vapor (<hi rend="bold">aburi</hi>) cu călători. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albina</ptr>
+									<ptr target="#A102555">albina</ptr>
 									<date>1834</date>
 									<citedRange>216<hi rend="superscript">2</hi>/42</citedRange>
 								</bibl>
@@ -1512,7 +1512,7 @@
 								<quote>Jurnalele străine au vorbit în zilele trecute de un <hi rend="bold">plug cu aburi</hi>, carele într-un ceas ară cât
 									una sută pluguri de-ale noastre, câte cu opt boi.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-15a41777-4219-6d6f-7641-5f0762765388">informa</ptr>
+									<ptr target="#A101914">informa</ptr>
 									<date>1844</date>
 									<citedRange>419</citedRange>
 								</bibl>
@@ -1522,7 +1522,7 @@
 									sgomotul fără încetare al <hi rend="bold">mahinelor de
 									abur</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8a597850-72bb-72fb-11ad-29c2fb278780">educ</ptr>
+									<ptr target="#A104760">educ</ptr>
 									<date>1844</date>
 									<citedRange>5/26</citedRange>
 								</bibl>
@@ -1530,7 +1530,7 @@
 							<cit type="unknown">
 								<quote>[Napoleon] a întâlnit pe Fulton venind din America pe <hi rend="bold">vasul</hi> său <hi rend="bold">cu aburi</hi>. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1e1b4e5f-6356-3af9-0dc1-43bd3f1f4eeb">escurs</ptr>
+									<ptr target="#A105204">escurs</ptr>
 									<date>1858</date>
 									<citedRange>54</citedRange>
 								</bibl>
@@ -1541,7 +1541,7 @@
 									nu voi fi îndemnat să fac o plimbare până la Giurgiu cu <hi rend="bold">vaporul cu aburi</hi>, apoi un salt până la
 									Bucureşti.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-7937fe09-7862-8c4a-7442-116d90212a27">coresp</ptr>
+									<ptr target="#A102523">coresp</ptr>
 									<date>1868</date>
 									<citedRange>357</citedRange>
 								</bibl>
@@ -1551,7 +1551,7 @@
 									au făcut o <hi rend="bold">moară cu abur</hi>, o fabrică de
 									făină, o fabrică de spirt, de gaz.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-8ad058d1-92a7-5372-a6dc-16af8d0fa4d3">orat</ptr>
+									<ptr target="#A102829">orat</ptr>
 									<date>1878</date>
 									<citedRange>35</citedRange>
 								</bibl>
@@ -1560,7 +1560,7 @@
 								<quote>Locomobila şi <hi rend="bold">vasul cu abur</hi> au schimbat
 									starea lumii într-o jumătate de secol.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-13e77242-4b1c-7f0c-5a35-417226084364">pământul</ptr>
+									<ptr target="#A100254">pământul</ptr>
 									<date>1884</date>
 									<citedRange>71</citedRange>
 								</bibl>
@@ -1570,7 +1570,7 @@
 									pompa mânată de un <hi rend="bold">motor cu aburi </hi>ridică
 									apa în rezervoarele aşezate în podurile celor trei case.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f271e295-09e7-67e8-032a-16b44b2a2e70">scrieri
+									<ptr target="#A103360">scrieri
 										ped</ptr>
 									<date>1894</date>
 									<citedRange>293</citedRange>
@@ -1582,7 +1582,7 @@
 									mechanica ce are aburul, se combină într însa într un chip nou,
 									neexistent până atunci.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e53e8e25-997f-50d5-2737-27275c075eae">enc.
+									<ptr target="#A101517">enc.
 										rom</ptr>
 									<date>1900</date>
 									<citedRange>851</citedRange>
@@ -1593,7 +1593,7 @@
 									de plug, tu i-ai adus complicate <hi rend="bold">pluguri cu
 										aburi</hi>, ca să facă arătura adâncă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d6de6a2a-966a-4825-a171-7a6c563b924d">fantome</ptr>
+									<ptr target="#A103749">fantome</ptr>
 									<date>1911</date>
 									<citedRange>51</citedRange>
 								</bibl>
@@ -1603,7 +1603,7 @@
 									într-o <hi rend="bold">moară cu abur</hi> şi toţi au făcut o
 									boală numită zeism.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-3bf51352-9c2f-4ba3-0f0c-9069469993db">babeș</ptr>
+									<ptr target="#A104949">babeș</ptr>
 									<date>1923</date>
 									<citedRange>736</citedRange>
 								</bibl>
@@ -1612,7 +1612,7 @@
 								<quote>În 1699, Papin construise cea dintâi <hi rend="bold">corabie
 										cu aburi</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-da9e2dfb-0ada-88bd-1ae7-c861c72f276a">pag.
+									<ptr target="#A100538">pag.
 										ale</ptr>
 									<date>1925</date>
 									<citedRange>104</citedRange>
@@ -1623,7 +1623,7 @@
 									numiri: Trireme antice, galere romane … <hi rend="bold">vase cu
 										aburi</hi>, de marfă şi de pasageri.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-1bc791e9-7623-8b80-1c15-832fd86031c3">corabie</ptr>
+									<ptr target="#A103847">corabie</ptr>
 									<date>1931</date>
 									<citedRange>432</citedRange>
 								</bibl>
@@ -1633,7 +1633,7 @@
 									vaporul cu ajutorul unor frânghii de metal și-l trec prin
 									mijlocul basinului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-daac3336-4487-18ac-5b1c-eed4503a5355">america</ptr>
+									<ptr target="#A104917">america</ptr>
 									<date>1934</date>
 									<citedRange>164</citedRange>
 								</bibl>
@@ -1645,7 +1645,7 @@
 									atelier mecanic şi face şi el, cu cele zece degete ale lui, o
 										<hi rend="bold">trăsură cu aburi</hi>. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d274a65a-23ec-a7a9-56e5-39cb79b18a22">tablete</ptr>
+									<ptr target="#A102201">tablete</ptr>
 									<date>1938</date>
 									<citedRange>310</citedRange>
 								</bibl>
@@ -1655,7 +1655,7 @@
 									frică, deoarece un <hi rend="bold">vapor cu aburi</hi> nu poate
 									să fie răsturnat de furtună.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f750ec17-6534-6a2f-881c-78d5755130bd">Un
+									<ptr target="#A102117">Un
 										Om</ptr>
 									<date>1957</date>
 									<citedRange>101</citedRange>
@@ -1668,7 +1668,7 @@
 									putini uriaşe, necesare probabil pentru <hi rend="bold">cazanul
 										de aburi</hi> al locomobilei.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-2f7cb1f8-9f79-86da-45e5-64c0458d46db">morom</ptr>
+									<ptr target="#A100328">morom</ptr>
 									<date>1967</date>
 									<citedRange>334</citedRange>
 								</bibl>
@@ -1679,7 +1679,7 @@
 									de-abia aştepta să ajungă în dreptul ferestrei deschise şi să
 									respire adânc.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d6829673-1e41-6367-7339-e0f1526054d5">tiron</ptr>
+									<ptr target="#A103400">tiron</ptr>
 									<date>1982</date>
 									<citedRange>80</citedRange>
 								</bibl>
@@ -1690,7 +1690,7 @@
 									corintic şi <hi rend="bold">motorul cu aburi</hi>! Cam
 									totul!</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-13b13986-0073-8258-6d0d-4d143fff9ca2">marilen</ptr>
+									<ptr target="#A101898">marilen</ptr>
 									<date>1999</date>
 									<citedRange>87</citedRange>
 								</bibl>
@@ -1700,7 +1700,7 @@
 									Hamelin, iar cea engleză, alcătuită, mai ales, din<hi rend="bold"> vase cu aburi</hi>, de viceamiralul Sir James
 									Dundas.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">biciul</ptr>
+									<ptr target="#A100419">biciul</ptr>
 									<date>2002</date>
 									<citedRange>208</citedRange>
 								</bibl>
@@ -1711,7 +1711,7 @@
 										<hi rend="bold">locomotivă cu aburi</hi> din lume, numită
 									„Locomotion”, pe linia ferată Stockton-Darlington.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ace03799-0914-8ba7-68c0-3d0244ab5348">D.
+									<ptr target="#A104209">D.
 										Enc</ptr>
 									<date>2006</date>
 									<citedRange>536</citedRange>
@@ -1819,7 +1819,7 @@
 						<cit type="unknown">
 							<quote>Capacu [alambicului] priimește vaporii (<hi rend="bold">aborul</hi>) cei în sus rădicați.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-37263d52-5c2e-251b-55cf-8c6af90c29b5">maior</ptr>
+								<ptr target="#A101690">maior</ptr>
 								<date>1813</date>
 								<citedRange>86/17</citedRange>
 							</bibl>
@@ -1829,7 +1829,7 @@
 								pe steclişoare pentru ultuire, trebuie să o ţie asupra <hi rend="bold">aburului </hi>de apă fierbinte, ca să se moaie
 								materia.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e6379df8-1b3f-412e-262c-d51938b7129c">acte
+								<ptr target="#A102865">acte
 									b</ptr>
 								<date>1816</date>
 								<citedRange>279</citedRange>
@@ -1839,7 +1839,7 @@
 							<quote>Cu agiutorul vaporului (<hi rend="bold">aburului</hi>) să pot
 								bine ocârmui balonile și a să face călătorii prin aer.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a3acf831-9a55-60f2-67d1-fd37703f056a">albina</ptr>
+								<ptr target="#A102555">albina</ptr>
 								<date>1837</date>
 								<citedRange>115<hi rend="superscript">2</hi>/7</citedRange>
 							</bibl>
@@ -1848,7 +1848,7 @@
 							<quote>Aștepți acum vremea fierberii … atunci nu mai es afară așa mulți
 									<hi rend="bold">aburi </hi>prin găuricea țevișoarei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9345deb1-1f06-58b0-1d8a-64d118a05728">factor</ptr>
+								<ptr target="#A102967">factor</ptr>
 								<date>1837</date>
 								<citedRange>7/3</citedRange>
 							</bibl>
@@ -1867,7 +1867,7 @@
 								din pricina elasticităţei lor o putere nespusă de mare, de unde s-au
 								luat întrebuirea lor la maşine de vapor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange>18<hi rend="superscript">2</hi>/48</citedRange>
 							</bibl>
@@ -1876,7 +1876,7 @@
 							<quote>Să se toarne acea apă peste rufele de spălat … acoperindu-le cu
 								ceva gros care să oprească cu totul <hi rend="bold">aburii</hi>. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-68590409-18c7-6211-8958-4e5f5c1b7379">penescu</ptr>
+								<ptr target="#A101113">penescu</ptr>
 								<date>1846</date>
 								<citedRange>56/15</citedRange>
 							</bibl>
@@ -1885,7 +1885,7 @@
 							<quote>Prin puțină apă schimbată în<hi rend="bold"> abur</hi> (vapor),
 								s-a făcut rege al spațiului și al pământului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9297fca9-3d8b-9987-1129-e9c2304d97dd">minun</ptr>
+								<ptr target="#A101124">minun</ptr>
 								<date>1850</date>
 								<citedRange>109</citedRange>
 							</bibl>
@@ -1895,7 +1895,7 @@
 								mişcare maşinele numite maşine de vapor, cu care se învârtesc
 								morile, se mână corăbiile.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2c2d7458-a0ba-0521-151e-51b9c8ed95ee">calend</ptr>
+								<ptr target="#A101006">calend</ptr>
 								<date>1861 (1845)</date>
 								<citedRange>389/16</citedRange>
 							</bibl>
@@ -1905,7 +1905,7 @@
 								răcește, atunci o parte din el se preschimbă ori în mici bășicuțe de
 								apă ... ori în picături de apă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3a3b1882-0a69-1908-0842-0495aa51a058">sima
+								<ptr target="#A104856">sima
 									al</ptr>
 								<date>1890</date>
 								<citedRange>73</citedRange>
@@ -1914,7 +1914,7 @@
 						<cit type="unknown">
 							<quote>Îi desfac scrisorile cu <hi rend="bold">abur </hi>cald.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c7ad8c7b-6966-36a7-5cdf-bc1a22d47bbd">mioara</ptr>
+								<ptr target="#A101171">mioara</ptr>
 								<date>1929</date>
 								<citedRange>106</citedRange>
 							</bibl>
@@ -1924,7 +1924,7 @@
 								care cad peste sulurile de oţel să omoare temperatura, se ridică
 								până-sus, înlăcrămându-i ochii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1658b1ca-8db3-9061-2261-a885bfdb8ac3">sahia</ptr>
+								<ptr target="#A102236">sahia</ptr>
 								<date>1932</date>
 								<citedRange>54</citedRange>
 							</bibl>
@@ -1932,7 +1932,7 @@
 						<cit type="unknown">
 							<quote>Trenul care venea dinspre Dunăre intră în gară, răbufnind <hi rend="bold">aburi</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a0c894e2-676b-8a5f-0857-969d6d61a32b">cron.
+								<ptr target="#A102262">cron.
 									f</ptr>
 								<date>1955</date>
 								<citedRange>398</citedRange>
@@ -1941,7 +1941,7 @@
 						<cit type="unknown">
 							<quote>Apeductul ... este pus în funcțiune prin forța <hi rend="bold">aburilor</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-099a367f-50a7-2f44-9b05-e4a967e950ae">vindec</ptr>
+								<ptr target="#A101238">vindec</ptr>
 								<date>1967</date>
 								<citedRange>136</citedRange>
 							</bibl>
@@ -1951,7 +1951,7 @@
 								lui s-a răcit, <hi rend="bold">aburul </hi>a lăsat dâre uscându-se
 								pe pereții de sticlă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-02c43717-3c64-8691-0ddc-29b9eb471265">dumitriu</ptr>
+								<ptr target="#A104658">dumitriu</ptr>
 								<date>1982</date>
 								<citedRange>119</citedRange>
 							</bibl>
@@ -1961,7 +1961,7 @@
 								izbituri, jetul unei instalaţii care aruncă <hi rend="bold">aburi
 								</hi>pe sub ușă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-dbd85727-4e34-00c7-4aef-416000fe5c85">vișniec</ptr>
+								<ptr target="#A101630">vișniec</ptr>
 								<date>1996</date>
 								<citedRange>128</citedRange>
 							</bibl>
@@ -1970,7 +1970,7 @@
 							<quote>Vreo trei oale fierbeau pe aragazul din bucătărie, umplând casa
 								de <hi rend="bold">aburi</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbitor</ptr>
+								<ptr target="#A101584">orbitor</ptr>
 								<date>2002</date>
 								<citedRange>312</citedRange>
 							</bibl>
@@ -1978,7 +1978,7 @@
 						<cit type="✧ POP.">
 							<quote>Iese <hi rend="bold">abori</hi> din apă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<ptr target="#A100177">alr</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>420/ 80</citedRange>
 							</bibl>
@@ -1986,7 +1986,7 @@
 						<cit type="✧ POP.">
 							<quote>Iasă <hi rend="bold">aburile </hi>din oală.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<ptr target="#A100177">alr</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>420/ 85</citedRange>
 							</bibl>
@@ -1994,7 +1994,7 @@
 						<cit type="✧ POP.">
 							<quote>A fiert de scoate <hi rend="bold">abur</hi> [apa].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-39588783-0d80-a781-2ca3-87058ac73a08">alr</ptr>
+								<ptr target="#A100177">alr</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>420/896</citedRange>
 							</bibl>
@@ -2002,7 +2002,7 @@
 						<cit type="✧ POP.">
 							<quote>Face <hi rend="bold">abure</hi> [apa].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
+								<ptr target="#A100563">alr</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>2543/102</citedRange>
 							</bibl>
@@ -2010,7 +2010,7 @@
 						<cit type="✧ POP.">
 							<quote>Iese <hi rend="bold">habur </hi>din ea [din apă].</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-abc28ec8-8337-24ac-3108-35b7a13a4bfe">alr</ptr>
+								<ptr target="#A100563">alr</ptr>
 								<date>&lt;1930–1937&gt;</date>
 								<citedRange>2543/899</citedRange>
 							</bibl>
@@ -2018,7 +2018,7 @@
 						<cit type="✧ POP.">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f82826af-64f7-50b8-83d0-eb2254f809c6">alrr</ptr>
+								<ptr target="#A101896">alrr</ptr>
 								<date/>
 								<citedRange>533/222</citedRange>
 							</bibl>
@@ -2037,7 +2037,7 @@
 								expansibilă (putincioasă a se întinde) ce se formează prin căldură
 								din trupuri vârtoase sau curgătoare.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange>18<hi rend="superscript">2</hi>/38</citedRange>
 							</bibl>
@@ -2047,7 +2047,7 @@
 								lichidului în solid este o apropiere a moleculelor în urma
 								dispozițiunii treptate a forțelor repulsive.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-59acd60d-9937-05fa-27ff-d3090fc97364">ondul</ptr>
+								<ptr target="#A105298">ondul</ptr>
 								<date>&lt;1876–1877&gt;</date>
 								<citedRange>160</citedRange>
 							</bibl>
@@ -2058,7 +2058,7 @@
 								cantitate anumită de apă cată să se prefacă în<hi rend="bold">
 									abur</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6b030d96-5649-1498-66e7-73a6c1cd9bf9">eminescu</ptr>
+								<ptr target="#A103298">eminescu</ptr>
 								<date>&lt;1876-1880&gt;</date>
 								<citedRange>956</citedRange>
 							</bibl>
@@ -2067,7 +2067,7 @@
 							<quote>La majoritatea vaporizatoarelor folosite în tehnică solventul
 								care vaporizează e apa, iar agentul e <hi rend="bold">aburul</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-114c96ca-0e07-7874-2b78-7db33658a2c6">LTR</ptr>
+								<ptr target="#A101267">LTR</ptr>
 								<date>1966</date>
 								<citedRange>423</citedRange>
 							</bibl>
@@ -2077,24 +2077,24 @@
 								trei ori pe zi, cu <hi rend="bold">aburi </hi>de oţet vărsat pe
 								cărămizi fierbinţi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">biciul</ptr>
+								<ptr target="#A100419">biciul</ptr>
 								<date>2002</date>
 								<citedRange>130</citedRange>
 							</bibl>
 						</cit>
 					</sense>
 					<sense xml:id="uuid-89f85623-9c5f-4015-847d-1d720a4ef259" n="7.">
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 							<term>Abur poluant</term>
-						</form>
+						</re>
 						<def xml:id="id">amestec de vapori de apă şi aer, degajat în atmosferă în
 							timpul unor procese industriale, care conţine poluanţi solizi, lichizi
 							sau gazoşi.</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e02f49ee-9962-782c-9a2e-7eb0d76f099d">D.
+								<ptr target="#A104829">D.
 									Ecol</ptr>
 								<date>1982</date>
 								<citedRange/>
@@ -2113,7 +2113,7 @@
 								trebui să nu se vadă niciun mișăl, niciun ticălos întră alte popoare
 								din Ungaria.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e2e0b08f-3f6f-159a-9334-d788ba873243">bojinc</ptr>
+								<ptr target="#A103147">bojinc</ptr>
 								<date>1828</date>
 								<citedRange>86/32</citedRange>
 							</bibl>
@@ -2122,7 +2122,7 @@
 							<quote>El avu un <hi rend="bold">abur</hi> de gelozie care îl făcu să se
 								uite şi să intre în bal cu şoşonii de pâslă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d304abc6-6e26-28db-2e84-4ba72ee645a3">elena</ptr>
+								<ptr target="#A100132">elena</ptr>
 								<date>1862</date>
 								<citedRange>310</citedRange>
 							</bibl>
@@ -2131,7 +2131,7 @@
 							<quote>Își pusese numai un <hi rend="bold">abur </hi>de rumeneală în
 								obraji și câte puțintel roș la sfârcul urechilor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-316acb43-2380-5488-3d3a-7c1b065968f7">jderi</ptr>
+								<ptr target="#A101979">jderi</ptr>
 								<date>1935</date>
 								<citedRange>96</citedRange>
 							</bibl>
@@ -2140,7 +2140,7 @@
 							<quote>În fiecare oră un <hi rend="bold">abur</hi> de pulbere se aşterne
 								peste luciul de lac al mesei de lucru.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-5c141897-0b66-4060-6c1e-431e8dbd1a3a">vântul</ptr>
+								<ptr target="#A101920">vântul</ptr>
 								<date>1937</date>
 								<citedRange>58</citedRange>
 							</bibl>
@@ -2149,7 +2149,7 @@
 							<quote>Pentru a avea un <hi rend="bold">abur </hi>de căldură, tata
 								reteza câte un pom din curte.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4fef303e-a28f-7b98-5523-c77832840781">zilele</ptr>
+								<ptr target="#A102323">zilele</ptr>
 								<date>1949</date>
 								<citedRange>131</citedRange>
 							</bibl>
@@ -2158,7 +2158,7 @@
 							<quote>Dă un <hi rend="bold">abur </hi>de sare plăticilor şi le aşează
 								în proţap.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c718c2d7-6369-3aac-9fb8-b4052685129b">nada</ptr>
+								<ptr target="#A102989">nada</ptr>
 								<date>1950</date>
 								<citedRange>438</citedRange>
 							</bibl>
@@ -2168,7 +2168,7 @@
 								se decoloreze ca o haină după ani de purtare, un <hi rend="bold">abur </hi>de lumină extrem de rară începu să se ridice, pe
 								nesimţite. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbitor</ptr>
+								<ptr target="#A101584">orbitor</ptr>
 								<date>2002</date>
 								<citedRange>288</citedRange>
 							</bibl>
@@ -2183,7 +2183,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic
+									<ptr target="#A100371">lexic
 										re</ptr>
 									<date>1967</date>
 									<citedRange>56</citedRange>
@@ -2198,17 +2198,17 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-37f9cf58-0027-2f6b-7336-e756324129d5">lexic
+									<ptr target="#A100371">lexic
 										re</ptr>
 									<date>1967</date>
 									<citedRange>56</citedRange>
 								</bibl>
 							</cit>
 						</sense>
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 							<term>A fi numa cu abur</term>
-						</form>
+						</re>
 						<def xml:id="id"/>
 						<cit type="unknown">
 							<quote/>
@@ -2305,92 +2305,92 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-79b7ad6e-44f3-65dc-2f9a-018442fa382b">val.</ptr>
+						<ptr target="#A102306">val.</ptr>
 						<date>c. 1650</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+						<ptr target="#A101244">micu</ptr>
 						<date>&lt;1780–1801&gt;</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6ec3350e-8f7d-61d9-48a9-b92f1945662c">drlu</ptr>
+						<ptr target="#A100354">drlu</ptr>
 						<date>1822</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-1281e58f-02ac-8c5c-1307-21f5a4d73765">LB</ptr>
+						<ptr target="#A102434">LB</ptr>
 						<date>1825</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+						<ptr target="#A100837">vailla</ptr>
 						<date>1839</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+						<ptr target="#A104011">asachi</ptr>
 						<date>1842</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cd97ace9-26c8-9100-3297-a0ca67f5a76a">iser</ptr>
+						<ptr target="#A105107">iser</ptr>
 						<date>1850</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+						<ptr target="#A104850">polizu</ptr>
 						<date>1857</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășes</ptr>
+						<ptr target="#A101929">bălășes</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-009de9ad-3212-16d1-26f5-0408e5b00805">petri</ptr>
+						<ptr target="#A100377">petri</ptr>
 						<date>1861</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbr</ptr>
+						<ptr target="#A101803">pontbr</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcianu</ptr>
+						<ptr target="#A105061">barcianu</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
+						<ptr target="#A103452">cihac</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">HEM</ptr>
+						<ptr target="#A102873">HEM</ptr>
 						<date>1887</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4e00444f-93f8-4acb-73d6-80002fc38ea3">gheție</ptr>
+						<ptr target="#A101337">gheție</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
@@ -2400,57 +2400,57 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+						<ptr target="#A100914">LTR</ptr>
 						<date>1949</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+						<ptr target="#A104520">DL</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<ptr target="#A102972">DM</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b">dialect</ptr>
+						<ptr target="#A101545">dialect</ptr>
 						<date>1960</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">ciorăn</ptr>
+						<ptr target="#A102054">ciorăn</ptr>
 						<date>1966</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc.</ptr>
+						<ptr target="#A102361">enc.</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-687105d0-5026-68c2-0ebc-7f32f4e4a724">gr. bas</ptr>
+						<ptr target="#A103592">gr. bas</ptr>
 						<date>2000</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

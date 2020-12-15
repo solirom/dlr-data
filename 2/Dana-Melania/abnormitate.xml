@@ -58,7 +58,7 @@
 						<cit type="unknown">
 							<quote>Ba încă se pot întâmpla și mai mari <hi rend="bold">abnormități</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c667674f-70c3-9034-5de9-7dc4abcb344d">macr</ptr>
+								<ptr target="#A100383">macr</ptr>
 								<date>1838</date>
 								<citedRange>41</citedRange>
 							</bibl>
@@ -66,7 +66,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-a99d9cd7-0245-1ba4-826f-5069274e5f03">wert</ptr>
+								<ptr target="#A104941">wert</ptr>
 								<date>1858</date>
 								<citedRange>53</citedRange>
 							</bibl>
@@ -75,7 +75,7 @@
 							<quote>Societatea este destul de bine organizată pentru a se garanta, în
 								contra unor asemenea <hi rend="bold">abnormităţi</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-287ad18f-8716-111c-6c06-1a4dcfcb6dcd">maiore</ptr>
+								<ptr target="#A101430">maiore</ptr>
 								<date>1872</date>
 								<citedRange>188</citedRange>
 							</bibl>
@@ -87,7 +87,7 @@
 								observarea <hi rend="bold">abnormităţilor</hi> naturale
 								(monştri).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fd86ef6b-5946-a62c-4235-b4a69a4198ac">p.
+								<ptr target="#A101454">p.
 									fil</ptr>
 								<date>&lt;1885-1909&gt;</date>
 								<citedRange>162</citedRange>
@@ -99,7 +99,7 @@
 								anumit Săndulescu la Bucureşti, şi va vedea la ce <hi rend="bold">abnormităţi</hi> duce spiritul acesta de negustorie al
 								diletanţilor. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-81ded4b9-5e50-848f-4f58-12aa52f93257">chend</ptr>
+								<ptr target="#A102650">chend</ptr>
 								<date>1910</date>
 								<citedRange>209</citedRange>
 							</bibl>
@@ -141,57 +141,57 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">neguli</ptr>
+						<ptr target="#A102700">neguli</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<ptr target="#A104850">poliz</ptr>
 						<date>1857</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barci</ptr>
+						<ptr target="#A105061">barci</ptr>
 						<date>1868</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costine</ptr>
+						<ptr target="#A104144">costine</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7cb68de6-39e8-6191-7710-61be522222dc">stein</ptr>
+						<ptr target="#A102458">stein</ptr>
 						<date>1886</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc. r</ptr>
+						<ptr target="#A101816">enc. r</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
@@ -201,27 +201,27 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

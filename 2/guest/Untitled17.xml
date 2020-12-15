@@ -36,11 +36,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-e113917d-4f35-4101-b7ba-186edcebcb62" n="">
 						<sense xml:id="uuid-61e6ad79-da73-414e-89d0-e8db66383e25" n="">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
 								<term/>
 								<term type="etym" targetLang="" subtype="element.extern-calc"/>
-							</form>
+							</re>
 							<def xml:id="uuid-2196e2e0-7e3a-4583-bcb9-21f9d9436c4d"/>
 						</sense>
 						<def xml:id="uuid-bf1ca2fe-34a8-4c7c-86e9-c8c1ec0ea2f7">definitie</def>

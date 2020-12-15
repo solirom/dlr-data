@@ -47,7 +47,7 @@
 								<quote><hi rend="bold">Abăluța</hi> boului. Lung e drumul
 									Giurgiului. Dar mai lung al dorului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c56ef41e-8b7a-04e7-7126-1fd895b63a8e">da</ptr>
+									<ptr target="#A101452">da</ptr>
 									<date>˂1949–1952˃</date>
 									<citedRange/>
 								</bibl>
@@ -57,7 +57,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -86,7 +86,7 @@
 					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abalúţă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<ptr target="#A102873">hem</ptr>
 						<date>1887</date>
 						<citedRange/>
 					</bibl>
@@ -103,7 +103,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodoș</ptr>
+						<ptr target="#A105256">hodoș</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>

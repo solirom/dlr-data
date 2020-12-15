@@ -47,7 +47,7 @@
 									află și protocolul orig[inal] ultim al ep[isco]pului Clain, în
 									care sunt cuprinse cauzele <hi rend="bold">abzicerei</hi> sale. </quote>
 								<bibl type="ap.">
-									<ptr target="#uuid-2f6fe568-7ef8-0dda-2b35-987eb0455196">b.
+									<ptr target="#A100073">b.
 										contemp.</ptr>
 									<date>1874</date>
 									<citedRange>332</citedRange>
@@ -59,7 +59,7 @@
 									b)... să nu mă considerați mai departe membru al Societății
 									Teatrale Române.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">bănuț</ptr>
+									<ptr target="#A102965">bănuț</ptr>
 									<date>1931</date>
 									<citedRange>104</citedRange>
 								</bibl>
@@ -108,7 +108,7 @@
 					<usg><seg type="geo" rend="usg">reg.</seg></usg>
 					<def>abzâcere</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-0f8326a5-0338-3187-6e7b-561186dc9b97">Teaha</ptr>
+						<ptr target="#A104302">Teaha</ptr>
 						<date>1961</date>
 						<citedRange>127</citedRange>
 					</bibl>
@@ -125,7 +125,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+						<ptr target="#A101712">LR</ptr>
 						<date>1959</date>
 						<citedRange>nr. 3</citedRange>
 					</bibl>

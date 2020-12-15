@@ -57,7 +57,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zoot</ptr>
+								<ptr target="#A100603">zoot</ptr>
 								<date>1969</date>
 								<citedRange/>
 							</bibl>
@@ -86,17 +86,17 @@
 					<usg><seg type="plev" rend="usg">rar</seg></usg>
 					<def>abdomenoscóp</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-41648593-4498-292e-1d3d-ef42757302b5">zoot</ptr>
+						<ptr target="#A100603">zoot</ptr>
 						<date>1969</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
@@ -113,12 +113,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>

@@ -51,7 +51,7 @@
 								<quote>Noi, Nazareii Sionului, cari luminam mai tare ca zăpada, am
 									ajuns ca nişte <hi rend="bold">abisinieni</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-f253ad04-4236-6b56-21ed-c29436c937f4">filocal</ptr>
+									<ptr target="#A102303">filocal</ptr>
 									<date>1947</date>
 									<citedRange>26</citedRange>
 								</bibl>
@@ -78,7 +78,7 @@
 								făcură un rege creştin, Abiat, fiul acestuia, voind să surpe
 								idolatria, nu izbuti la Mecca.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c1e72093-4fda-9821-721b-b445d3f23a62">bolint</ptr>
+								<ptr target="#A104485">bolint</ptr>
 								<date>1856</date>
 								<citedRange>105</citedRange>
 							</bibl>
@@ -86,7 +86,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">Abisinienii</hi> s-au revoltat.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3cbdcd8d-440d-725b-1865-f754c6467da3">emin</ptr>
+								<ptr target="#A102329">emin</ptr>
 								<date>1880</date>
 								<citedRange>79</citedRange>
 							</bibl>
@@ -95,7 +95,7 @@
 							<quote>Rimbaud fusese unul dintre cei dintâi europeni care vândură <hi rend="bold">abisinienilor</hi> armele cu care mai târziu aveau
 								să servească în războiul cu Italia. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-30e82483-8945-3aaf-a60f-608fa2262116">minul</ptr>
+								<ptr target="#A100153">minul</ptr>
 								<date>1908</date>
 								<citedRange>13</citedRange>
 							</bibl>
@@ -103,7 +103,7 @@
 						<cit type="unknown">
 							<quote>Se reproduce groaznicul articol ... care r[e]comanda aţâţarea <hi rend="bold">abisinenilor</hi> contra Italiei. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-670f7d55-0537-3ef0-5edd-6afdfd272fef">rev</ptr>
+								<ptr target="#A103375">rev</ptr>
 								<date>1915</date>
 								<citedRange>sept.-oct., 198</citedRange>
 							</bibl>
@@ -113,7 +113,7 @@
 								lupta modernă, au fost incapabili să opună o rezistenţă
 								serioasă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-856ed535-40f7-2fff-995d-9044da0318fa">diam</ptr>
+								<ptr target="#A102721">diam</ptr>
 								<date>1938</date>
 								<citedRange>226</citedRange>
 							</bibl>
@@ -121,33 +121,33 @@
 					</sense>
 					<sense xml:id="uuid-ae8d0b45-7a22-45fe-b882-bc00ffd66680" n="2.">
 						<sense xml:id="uuid-fe046556-58ab-4d39-ba37-d1d56b776010" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Limba abisiniană</term>
-							</form>
+							</re>
 							<def xml:id="id">idiom vorbită de abisinieni.</def>
 							<cit type="unknown">
 								<quote>Limbile <hi rend="bold">abisiniene</hi> sau etiopiene se
 									vorbesc în Abisinia.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-efc667b6-9c8d-779f-4147-ee61f08e56d5">intr</ptr>
+									<ptr target="#A104816">intr</ptr>
 									<date>1958</date>
 									<citedRange>207</citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-7062d972-5afa-48d2-aea2-57ffd8ae79bd" n="">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
 								<term>Italo-abisinian</term>
-							</form>
+							</re>
 							<def xml:id="id">care se referă la italieni și la abisinieni.</def>
 							<cit type="unknown">
 								<quote>Nu sunt decât cinci oameni în Europa care să cunoască dosarul
 										<hi rend="bold">italo-abisinian</hi>, şi nimeni nu-1
 									cunoaşte ca mine.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e006fa74-0cbc-10c8-0779-6a7023ca3820">arget</ptr>
+									<ptr target="#A101386">arget</ptr>
 									<date>1936</date>
 									<citedRange>365</citedRange>
 								</bibl>
@@ -165,7 +165,7 @@
 								cu dungi de var (amintind fie un adolescent <hi rend="bold">abisinian</hi>, fie cine ştie ce opacă presimţire în lacătul ca
 								un heleşteu al inimii).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b920d5e7-139e-335c-4090-42e3f367395d">voron</ptr>
+								<ptr target="#A100925">voron</ptr>
 								<date>1929</date>
 								<citedRange>14</citedRange>
 							</bibl>
@@ -173,7 +173,7 @@
 						<cit type="unknown">
 							<quote>Anglia este direct interesată în menţinerea statului <hi rend="bold">abisinian</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-856ed535-40f7-2fff-995d-9044da0318fa">dictat</ptr>
+								<ptr target="#A102721">dictat</ptr>
 								<date>1938</date>
 								<citedRange>265</citedRange>
 							</bibl>
@@ -182,7 +182,7 @@
 							<quote>Dar războiul <hi rend="bold">abisinian</hi> propriu-zis e
 								terminat.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0d947705-7974-822a-666c-fd1afc270da5">sebast</ptr>
+								<ptr target="#A101967">sebast</ptr>
 								<date>1941</date>
 								<citedRange>336</citedRange>
 							</bibl>

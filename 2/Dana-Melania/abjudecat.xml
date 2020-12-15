@@ -43,7 +43,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+								<ptr target="#A102977">barci</ptr>
 								<date>1900</date>
 								<citedRange/>
 							</bibl>
@@ -77,12 +77,12 @@
 					<usg><seg type="time" rend="usg">(înv.</seg>, <seg type="plev" rend="usg">rar</seg>)</usg>
 					<def>abjudicát, -ă</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<ptr target="#A102700">negul</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>

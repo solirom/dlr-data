@@ -50,7 +50,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+								<ptr target="#A101929">bălăș</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -83,22 +83,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange>44</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d94b6eea-149d-812e-1ddb-1e045801388c">form. cu</ptr>
+						<ptr target="#A101158">form. cu</ptr>
 						<date>1978</date>
 						<citedRange>44</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange>60</citedRange>
 					</bibl>

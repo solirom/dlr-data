@@ -60,7 +60,7 @@
 										abur, fiind „suflare”, abureală este aproape sinonim cu
 										aburel și cu borilă.</quote>
 									<bibl type="unknown">
-										<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+										<ptr target="#A102873">hem</ptr>
 										<date>1887</date>
 										<citedRange>107, s. v. <hi rend="italic">abureală</hi></citedRange>
 									</bibl>
@@ -70,7 +70,7 @@
 										furtună și <hi rend="bold">aburel</hi>, când este prea
 										mic.</quote>
 									<bibl type="ap.">
-										<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+										<ptr target="#A102873">hem</ptr>
 										<date>1887</date>
 										<citedRange>107</citedRange>
 									</bibl>
@@ -84,7 +84,7 @@
 									înfocată, roaâ nu umădă și cu aburelu de vântu pemintescu, ce
 									roaâ înfocată cu <hi rend="bold">aburelu </hi>dumnedzăescu ce
 									suflă cu focu.</quote><bibl type="ap.">
-									<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+									<ptr target="#A102873">hem</ptr>
 									<date>1683</date>
 									<citedRange>107</citedRange>
 								</bibl></cit>
@@ -98,7 +98,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">polizu</ptr>
+									<ptr target="#A104850">polizu</ptr>
 									<date>1857</date>
 									<citedRange/>
 								</bibl>
@@ -153,7 +153,7 @@
 						</gramGrp>
 						<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
 						<bibl type="unknown">
-							<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+							<ptr target="#A102977">barcianu</ptr>
 							<date>1900</date>
 							<citedRange/>
 						</bibl>
@@ -162,7 +162,7 @@
 				<re type="lexical-variant-section">
 					<def>aborél</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+						<ptr target="#A102873">hem</ptr>
 						<date>1887</date>
 						<citedRange/>
 					</bibl>
@@ -179,32 +179,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-40cb5362-724f-269a-24da-bf8c431d4c14">jahres</ptr>
+						<ptr target="#A105305">jahres</ptr>
 						<date>165</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

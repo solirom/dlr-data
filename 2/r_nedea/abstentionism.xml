@@ -51,7 +51,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+								<ptr target="#A104937">der</ptr>
 								<date>1962</date>
 								<citedRange/>
 							</bibl>
@@ -59,7 +59,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-86ca3ab0-3882-90be-613c-dbedfcd1328e">d.
+								<ptr target="#A105172">d.
 									pol</ptr>
 								<date>1975</date>
 								<citedRange/>
@@ -68,7 +68,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">m. d.
+								<ptr target="#A102765">m. d.
 									jur</ptr>
 								<date>1999</date>
 								<citedRange/>
@@ -104,42 +104,42 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7c6c361c-614b-864d-8d9a-215698351831">mde</ptr>
+						<ptr target="#A102496">mde</ptr>
 						<date>1972</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc.</ptr>
+						<ptr target="#A102361">d. enc.</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<ptr target="#A101486">ndu</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<ptr target="#A103590">dicr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

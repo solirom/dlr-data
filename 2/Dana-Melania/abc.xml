@@ -49,7 +49,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+								<ptr target="#A101929">bălăș</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -57,7 +57,7 @@
 						<cit type="unknown">
 							<quote>Şirul regulat al literilor se numeşte alfabet sau <hi rend="bold">abece</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-42c8b0be-69fe-393d-170c-3c2725296746">anuar</ptr>
+								<ptr target="#A104342">anuar</ptr>
 								<date>1864</date>
 								<citedRange>888</citedRange>
 							</bibl>
@@ -78,7 +78,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+								<ptr target="#A101929">bălăș</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -88,13 +88,13 @@
 								[Maiorescu] a putut ajunge la întreaga direcţie a culturii
 								române.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-27f3e676-5314-63b5-8546-a9ce42897347">manolesc</ptr>
+								<ptr target="#A100546">manolesc</ptr>
 								<date>1970</date>
 								<citedRange>43</citedRange>
 							</bibl>
 							<quote><hi rend="bold">ABC</hi>-ul agresivităţii.</quote>
 							<bibl type="în">
-								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<ptr target="#A102996">dcr</ptr>
 								<date>2006</date>
 								<citedRange/>
 							</bibl>
@@ -102,7 +102,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="în">
-								<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+								<ptr target="#A102996">dcr</ptr>
 								<date>2009</date>
 								<citedRange/>
 							</bibl>
@@ -137,12 +137,12 @@
 					<usg><seg type="time" rend="usg">înv.</seg></usg>
 					<def>abeţé</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vaill</ptr>
+						<ptr target="#A100837">vaill</ptr>
 						<date>1839</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-577d80f1-7836-33bc-2ef7-a66f4f8a565f">poliz</ptr>
+						<ptr target="#A104850">poliz</ptr>
 						<date>1857</date>
 						<citedRange/>
 					</bibl>
@@ -159,72 +159,72 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<ptr target="#A104144">costin</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<ptr target="#A102654">LMD</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">DDRF</ptr>
+						<ptr target="#A102459">DDRF</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-02ef8232-35e8-6de3-7dae-7dfe717d8406">enc</ptr>
+						<ptr target="#A101816">enc</ptr>
 						<date>1898</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<ptr target="#A103663">șăin</ptr>
 						<date>1930</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-c2f56bf1-9c34-8c26-8f36-95dc60bd0288"> TDRG</ptr>
+						<ptr target="#A104642"> TDRG</ptr>
 						<date>1986</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">dn</ptr>
+						<ptr target="#A100981">dn</ptr>
 						<date>2002</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-3a349e5b-1710-69c5-92e6-099d5882891e">dex</ptr>
+						<ptr target="#A105243">dex</ptr>
 						<date>2009</date>
 						<citedRange/>
 					</bibl>

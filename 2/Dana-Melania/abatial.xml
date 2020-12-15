@@ -45,7 +45,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -55,7 +55,7 @@
 								e că mânăstirile marilor drumuri de pelerinaj au pus stăpânire pe
 								„chansons de geste” existente, le-au pecetluit cu pecetea lor <hi rend="bold">abaţială</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-976561d9-6adf-9ea1-7273-a6d7ed8905d2">tradiția</ptr>
+								<ptr target="#A101540">tradiția</ptr>
 								<date>1945</date>
 								<citedRange>36</citedRange>
 							</bibl>
@@ -65,7 +65,7 @@
 								întâia în veşmânt auster <hi rend="bold">abaţial</hi>, a doua cu
 								botfori, păr vâlvoi, făcând gesturi extravagante.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8f45b473-7b75-3b4f-3ede-868165fd3074">călinescu</ptr>
+								<ptr target="#A102274">călinescu</ptr>
 								<date>&lt;1963-1964&gt;</date>
 								<citedRange>357</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 								portalului principal al bisericii <hi rend="bold">abaţiale</hi> din
 								Souillac.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-20103aea-2bcb-66b8-598a-d873a8910f91">vătășianu</ptr>
+								<ptr target="#A101842">vătășianu</ptr>
 								<date>1967</date>
 								<citedRange>297</citedRange>
 							</bibl>
@@ -86,7 +86,7 @@
 							<quote>Influenţa truverilor (la fel ca cea a trubadurilor) a pătruns
 								chiar şi în şcolile episcopale sau <hi rend="bold">abaţiale</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f8406ad0-9cb6-9f29-404c-4a7542698ac5">drim</ptr>
+								<ptr target="#A100629">drim</ptr>
 								<date>1990</date>
 								<citedRange>582</citedRange>
 							</bibl>
@@ -109,7 +109,7 @@
 				<form type="writing">
 					<oVar>abbaţial</oVar>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<ptr target="#A101929">bălășescu</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
@@ -142,7 +142,7 @@
 					<form type="writing">
 						<oVar>abbațiale</oVar>
 						<bibl type="unknown">
-							<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+							<ptr target="#A102654">LMD</ptr>
 							<date>1871</date>
 							<citedRange/>
 						</bibl>
@@ -158,47 +158,47 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+						<ptr target="#A102700">negulici</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășescu</ptr>
+						<ptr target="#A101929">bălășescu</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">vocab</ptr>
+						<ptr target="#A104144">vocab</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">LMD</ptr>
+						<ptr target="#A102654">LMD</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-eed9b1c1-0bc1-559e-89e6-7b35b4e64ef2">alexi</ptr>
+						<ptr target="#A102277">alexi</ptr>
 						<date>1908</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

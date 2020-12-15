@@ -43,7 +43,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+								<ptr target="#A102325">medic</ptr>
 								<date>2007</date>
 								<citedRange/>
 							</bibl>
@@ -86,7 +86,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

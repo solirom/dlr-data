@@ -37,10 +37,10 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-e418a628-1c02-4ea3-925f-121321d5d777" n="">
 						<sense xml:id="uuid-5c445294-e1b8-45e1-b73f-f6d7cf41699c" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Cavitate abdominală</term>
-							</form>
+							</re>
 							<def xml:id="id">cavitate cuprinsă între pereţii abdomenului (1)</def>
 							<cit type="unknown">
 								<quote>Canalul mistuitor începe la gură, trece pe gât prin toracs,
@@ -49,7 +49,7 @@
 									la strâmtoarea de jos a ligheanului dinaintea cocsului prin
 									gaura şezutului.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kret</ptr>
+									<ptr target="#A103303">kret</ptr>
 									<date>1843</date>
 									<citedRange>267</citedRange>
 								</bibl>
@@ -58,7 +58,7 @@
 								<quote>Autopsia va începe cu deschiderea celor 3 mari cavități:
 									cefalică, toracică și <hi rend="bold">abdominală</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+									<ptr target="#A101950">mo</ptr>
 									<date>1895</date>
 									<citedRange>nr. 22, 688</citedRange>
 								</bibl>
@@ -68,7 +68,7 @@
 									împărţită de ezocolonul transvers în etajul supramezocolic şi
 									etajul inframezocolic.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medic</ptr>
+									<ptr target="#A100818">medic</ptr>
 									<date>1969</date>
 									<citedRange>15</citedRange>
 								</bibl>
@@ -76,7 +76,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">medic</ptr>
+									<ptr target="#A102325">medic</ptr>
 									<date>2007</date>
 									<citedRange/>
 								</bibl>
@@ -94,7 +94,7 @@
 							<quote>În vâna cava de jos merg de să deschid toate vinele ce correspund
 								la arterile care nascu din aorta <hi rend="bold">abdominală</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a2aa2c61-4e44-9dd5-9ba6-b710b6a94b74">kret</ptr>
+								<ptr target="#A103303">kret</ptr>
 								<date>1843</date>
 								<citedRange>423</citedRange>
 							</bibl>
@@ -104,7 +104,7 @@
 								Abandonament! Abandonare! etc. abdomen, <hi rend="bold">abdominal</hi> etc., abordabil! … D[omnul] Eliad le dă vorbe de
 								origine romană şi necesarii la curăţirea (?!) şi cultura (!) limbei
 								române!! Ferească-ne Dumnezeu!</quote><bibl type="ap.">
-								<ptr target="#uuid-cd41c0ba-6b4c-89f8-464d-d5cf285a856f">contemp</ptr>
+								<ptr target="#A100444">contemp</ptr>
 								<date>1847</date>
 								<citedRange>272</citedRange>
 							</bibl></cit>
@@ -112,7 +112,7 @@
 							<quote>O altă ordine de cauze ... căşună desvoltarea unui schir, care
 								ajunge de pustieşte toată capacitatea <hi rend="bold">abdominală</hi> (a burţii).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7bfb2531-5de3-85f0-86f6-7dfba6033081">brez</ptr>
+								<ptr target="#A101650">brez</ptr>
 								<date>1852</date>
 								<citedRange>266</citedRange>
 							</bibl>
@@ -121,7 +121,7 @@
 							<quote>Epidemii n-au existat; s-au constatat în comuna Curtești 2 casuri
 								sporadice de typhus <hi rend="bold">abdominal</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6f8ed817-3166-84f4-0691-79fc5e5c46ae">mo</ptr>
+								<ptr target="#A101950">mo</ptr>
 								<date>1887</date>
 								<citedRange>nr. 138, 3339</citedRange>
 							</bibl>
@@ -129,7 +129,7 @@
 						<cit type="unknown">
 							<quote>Persoanele nervoase adeseori au dureri sau nevralgii <hi rend="bold">abdominale</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3ca45961-71cd-3d88-638b-2a8a635a2d30">bian</ptr>
+								<ptr target="#A104442">bian</ptr>
 								<date>1910</date>
 								<citedRange>s. v. abdomen.</citedRange>
 							</bibl>
@@ -139,7 +139,7 @@
 								proeminenţa <hi rend="bold">abdominală</hi> prinsă sub scândura prea
 								lată a mesei.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-87fd52fc-4ea3-8b4b-9683-cfd8832009f9">tempi</ptr>
+								<ptr target="#A102965">tempi</ptr>
 								<date>1931</date>
 								<citedRange>87</citedRange>
 							</bibl>
@@ -149,7 +149,7 @@
 								pieptului şi a pântecelui ... trei temperamente diferite: cranian,
 								toracic şi <hi rend="bold">abdominal</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">genez</ptr>
+								<ptr target="#A104066">genez</ptr>
 								<date>1934</date>
 								<citedRange>26</citedRange>
 							</bibl>
@@ -158,7 +158,7 @@
 							<quote>Ridicăm cu un tampon de tifon cheagul de sânge ce s-ar găsi în
 								cavitatea <hi rend="bold">abdominală</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">agr</ptr>
+								<ptr target="#A100171">agr</ptr>
 								<date>1937</date>
 								<citedRange>703</citedRange>
 							</bibl>
@@ -167,7 +167,7 @@
 							<quote>Desenele întunecate ... sunt mult mai rare, şi de multe ori
 								înlocuite cu pete singuratice, mai ales către mijlocul părţii <hi rend="bold">abdominale</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b3d1e300-36ee-8b84-19ad-fec8ac92a222">linț</ptr>
+								<ptr target="#A102882">linț</ptr>
 								<date>1954</date>
 								<citedRange>134</citedRange>
 							</bibl>
@@ -176,7 +176,7 @@
 							<quote>Prin contractarea muşchilor <hi rend="bold">abdominali</hi> faţa
 								ventrală se apropie de cea dorsală.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-be377332-92c6-0b48-6c48-86d72f683879">zool</ptr>
+								<ptr target="#A104582">zool</ptr>
 								<date>1962</date>
 								<citedRange>69</citedRange>
 							</bibl>
@@ -184,7 +184,7 @@
 						<cit type="unknown">
 							<quote>Tratamentul este chirurgical şi constă în refacerea peretelui <hi rend="bold">abdominal</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7cee2b75-7f97-4140-1d7f-858dc29a000b">abc</ptr>
+								<ptr target="#A102606">abc</ptr>
 								<date>1964</date>
 								<citedRange>190</citedRange>
 							</bibl>
@@ -193,7 +193,7 @@
 							<quote>Durerea <hi rend="bold">abdominală</hi> acută severă necesită
 								întotdeauna o consultație chirurgicală.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">viața</ptr>
+								<ptr target="#A104207">viața</ptr>
 								<date>2000</date>
 								<citedRange>XII, nr. 3 525</citedRange>
 							</bibl>
@@ -205,7 +205,7 @@
 								diverticulară, anevrism al aortei <hi rend="bold">abdominale</hi>,
 								chist renal).</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-9aa5c5aa-901f-07e4-7ad6-d1e6e3b35754">litiaz</ptr>
+								<ptr target="#A103733">litiaz</ptr>
 								<date>2000</date>
 								<citedRange>211</citedRange>
 							</bibl>
@@ -216,7 +216,7 @@
 								ajutorul meu, stări de vomă, dureri <hi rend="bold">abdominale</hi>
 								oribile, frisoane violente şi crampe la stomac.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d7f5762e-4aa6-486b-7e34-1cd5da8c594a">bici</ptr>
+								<ptr target="#A100419">bici</ptr>
 								<date>2002</date>
 								<citedRange>228</citedRange>
 							</bibl>
@@ -226,7 +226,7 @@
 								unui mulaj anatomic, lăsând să i se vadă aparatul reproducător, în
 								culorile cărnii crude.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ad3c317b-3ab4-8f4e-a3a2-84342d1478c4">orbit</ptr>
+								<ptr target="#A101584">orbit</ptr>
 								<date>2002</date>
 								<citedRange>245</citedRange>
 							</bibl>
@@ -261,82 +261,82 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negul</ptr>
+						<ptr target="#A102700">negul</ptr>
 						<date>1848</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+						<ptr target="#A101803">pont</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costin</ptr>
+						<ptr target="#A104144">costin</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+						<ptr target="#A102654">lmd</ptr>
 						<date>1871</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+						<ptr target="#A102459">ddrf</ptr>
 						<date>1893</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăin</ptr>
+						<ptr target="#A101394">șăin</ptr>
 						<date>1896</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barci</ptr>
+						<ptr target="#A102977">barci</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resm</ptr>
+						<ptr target="#A101422">resm</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-30338344-233e-6ff4-2d2d-2c3375ef445a">hodo</ptr>
+						<ptr target="#A105256">hodo</ptr>
 						<date>1929</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-9b024e14-0807-2ff3-83ac-7ff06535350a">șăin</ptr>
+						<ptr target="#A103663">șăin</ptr>
 						<date>1930</date>
 						<citedRange/>
 					</bibl>
@@ -346,32 +346,32 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
@@ -381,12 +381,12 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

@@ -50,7 +50,7 @@
 							<quote>Înlocuirea laptelui matern prin alte alimente necesare sugarului
 								se numeşte <hi rend="bold">ablactare</hi>. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-1618a94e-9b89-3b62-95d4-5e3831e409db">belea</ptr>
+								<ptr target="#A100192">belea</ptr>
 								<date>1959</date>
 								<citedRange>658</citedRange>
 							</bibl>
@@ -90,12 +90,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

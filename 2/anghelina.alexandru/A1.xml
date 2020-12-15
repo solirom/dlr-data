@@ -40,14 +40,14 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-ea6eff8c-1806-4af7-86d0-c46ca5f54144" n="1.">
 						<sense xml:id="uuid-02cd0b57-21d1-4055-89f6-bc94959203d0" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 								<term>De la a până la z</term>
-							</form>
-							<form type="unitate-semantică-subsumată">
+							</re>
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
 								<term>De la a la zed</term>
-							</form>
+							</re>
 							<def xml:id="id">de la început până la sfârşit; totul, în
 								întregime.</def>
 							<cit type="unknown">
@@ -57,7 +57,7 @@
 									pe toată întinderea alfabetului, <hi rend="bold">de la a până la
 										zed</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-af18c20a-2868-4d01-9196-b09487fa6393">lunatec</ptr>
+									<ptr target="#A103840">lunatec</ptr>
 									<date>1964 (†)</date>
 									<citedRange>95</citedRange>
 								</bibl>
@@ -82,7 +82,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-7650620e-08ed-643c-5961-fe11c31f1373">deleanu</ptr>
+								<ptr target="#A101262">deleanu</ptr>
 								<date>1818</date>
 								<citedRange>193<hi rend="superscript">r</hi>/5</citedRange>
 							</bibl>
@@ -92,7 +92,7 @@
 								<hi rend="bold">A</hi>... cea dântâiu slovă din slovele limbii
 								rumânești.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-44115d1d-0921-99d6-7253-7b1556c38757">golescu</ptr>
+								<ptr target="#A101120">golescu</ptr>
 								<date>c. 1832</date>
 								<citedRange>22<hi rend="superscript">r</hi>/2</citedRange>
 							</bibl>
@@ -100,7 +100,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-68c39099-90ad-6ff7-96c8-64f041fda360">iacov</ptr>
+								<ptr target="#A100983">iacov</ptr>
 								<date>1755</date>
 								<citedRange>1/2</citedRange>
 							</bibl>
@@ -108,7 +108,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+								<ptr target="#A101244">micu</ptr>
 								<date>1801</date>
 								<citedRange/>
 							</bibl>
@@ -116,7 +116,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-cc76b256-163b-54b5-7079-619375a80677">vailla</ptr>
+								<ptr target="#A100837">vailla</ptr>
 								<date>1839</date>
 								<citedRange/>
 							</bibl>
@@ -124,7 +124,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poenaru</ptr>
+								<ptr target="#A100761">poenaru</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -132,7 +132,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălășe</ptr>
+								<ptr target="#A101929">bălășe</ptr>
 								<date>1859</date>
 								<citedRange/>
 							</bibl>
@@ -140,7 +140,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+								<ptr target="#A102594">antonescu</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -148,7 +148,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pontbri</ptr>
+								<ptr target="#A101803">pontbri</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -156,7 +156,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-72fd0ad0-6905-475d-7782-80f0c2e594f7">lmd</ptr>
+								<ptr target="#A102654">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -164,7 +164,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-db994243-75a0-8ec8-58ea-7ef28e3f725b">barcianu</ptr>
+								<ptr target="#A103385">barcianu</ptr>
 								<date>1886</date>
 								<citedRange/>
 							</bibl>
@@ -172,7 +172,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f736c3f9-3f87-3ecc-2224-2624624d6fb0">ddrf</ptr>
+								<ptr target="#A102459">ddrf</ptr>
 								<date>1893</date>
 								<citedRange/>
 							</bibl>
@@ -180,7 +180,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăineanu</ptr>
+								<ptr target="#A101394">șăineanu</ptr>
 								<date>1896</date>
 								<citedRange/>
 							</bibl>
@@ -196,7 +196,7 @@
 									pe celelalte corelative ale sale, adică pe imaginea „b” sau
 									„c”.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-e7817998-2920-4e86-0c87-67f540ba12e6">conta</ptr>
+									<ptr target="#A105088">conta</ptr>
 									<date>&lt;1875-1876&gt;</date>
 									<citedRange>90</citedRange>
 								</bibl>
@@ -242,7 +242,7 @@
 								<quote>Amperul (<hi rend="bold">A</hi>) — intensitatea unui curent
 									electric constant.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+									<ptr target="#A104288">d.
 										fiz</ptr>
 									<date>1972</date>
 									<citedRange>416</citedRange>
@@ -263,7 +263,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+									<ptr target="#A100914">ltr</ptr>
 									<date>1949</date>
 									<citedRange/>
 								</bibl>
@@ -275,7 +275,7 @@
 									de arie <hi rend="bold">A</hi> este egal cu intensitatea I a
 									curentului electric ce trece prin acea suprafaţă.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">d.
+									<ptr target="#A104288">d.
 										fiz</ptr>
 									<date>1972</date>
 									<citedRange>103</citedRange>
@@ -318,7 +318,7 @@
 						</gramGrp>
 						<usg>(<hi rend="italic"><seg type="register style" rend="usg">rar,</seg></hi>
 							<seg type="gram" rend="usg">n.</seg>)</usg>
-						<bibl type="unknown"><ptr target="#uuid-6a72abe7-5b85-5723-1aa3-2a8f35142e70">doom</ptr><date>2005</date><citedRange/></bibl>
+						<bibl type="unknown"><ptr target="#A101959">doom</ptr><date>2005</date><citedRange/></bibl>
 					</form>
 				</form>
 				<etym cert="high">
@@ -326,12 +326,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-edf29db5-150a-a634-52df-f0d1552ba11c">tdrg</ptr>
+						<ptr target="#A105129">tdrg</ptr>
 						<date>1903</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">DA</ptr>
+						<ptr target="#A102657">DA</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
@@ -341,52 +341,52 @@
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">Scriban</ptr>
+						<ptr target="#A104836">Scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">ltr</ptr>
+						<ptr target="#A100914">ltr</ptr>
 						<date>1949</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">DM</ptr>
+						<ptr target="#A102972">DM</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">DN</ptr>
+						<ptr target="#A101317">DN</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">DEX</ptr>
+						<ptr target="#A102930">DEX</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">d. enc</ptr>
+						<ptr target="#A102361">d. enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">MDA</ptr>
+						<ptr target="#A102837">MDA</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+						<ptr target="#A103264">DEXI</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

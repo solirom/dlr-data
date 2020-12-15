@@ -44,7 +44,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -54,7 +54,7 @@
 								moment de mânie: testament ab-irato, legațiune (diată) făcută în
 								supărare, necas.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+								<ptr target="#A102594">anton</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -62,7 +62,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">Adirato</hi> [=] mânios, cu mânie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2e4fcb84-4275-503e-06b6-bb2eaa73433f">vorob</ptr>
+								<ptr target="#A104143">vorob</ptr>
 								<date>1869</date>
 								<citedRange>13</citedRange>
 							</bibl>
@@ -70,7 +70,7 @@
 						<cit type="unknown">
 							<quote>A acționa <hi rend="bold">ab irato</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cf06a4e5-7088-4648-a3e2-744f21500d72">enc</ptr>
+								<ptr target="#A103126">enc</ptr>
 								<date>1999</date>
 								<citedRange>459</citedRange>
 							</bibl>
@@ -78,7 +78,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">Ab-irato</hi> [=] (o acțiune) la mânie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0fe464a8-7353-17d7-0795-45a56bff6e0b">dn</ptr>
+								<ptr target="#A102212">dn</ptr>
 								<date>2008</date>
 								<citedRange>20</citedRange>
 							</bibl>
@@ -114,17 +114,17 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e8e40de3-97b6-3f3d-219f-767dc94b607f">jur</ptr>
+						<ptr target="#A102765">jur</ptr>
 						<date>1999</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>

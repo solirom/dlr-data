@@ -41,7 +41,7 @@
 							<cit type="unknown">
 								<quote/>
 								<bibl type="unknown">
-									<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+									<ptr target="#A100761">hill</ptr>
 									<date>1840</date>
 									<citedRange/>
 								</bibl>
@@ -65,7 +65,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">poen</ptr>
+								<ptr target="#A100761">poen</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -82,7 +82,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+								<ptr target="#A100761">hill</ptr>
 								<date>1840</date>
 								<citedRange/>
 							</bibl>
@@ -92,7 +92,7 @@
 								dv. veţi putea <hi rend="bold">abima</hi> întru ceva marile acte
 								comise de acei bărbaţi.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-24bd8140-3230-65bb-a682-ae5d00ef8eda">bacalb</ptr>
+								<ptr target="#A103309">bacalb</ptr>
 								<date>1892</date>
 								<citedRange>85</citedRange>
 							</bibl>
@@ -100,7 +100,7 @@
 						<cit type="unknown">
 							<quote>Dansezi ca o cizmă, se enervă ea. Îmi <hi rend="bold">abimezi</hi> pantofii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-83610f5b-4b99-3d0a-2333-d8d572af17d8">străin</ptr>
+								<ptr target="#A100589">străin</ptr>
 								<date>1955</date>
 								<citedRange>323</citedRange>
 							</bibl>
@@ -133,12 +133,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">anton</ptr>
+						<ptr target="#A102594">anton</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>

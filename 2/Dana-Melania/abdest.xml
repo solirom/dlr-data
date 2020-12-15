@@ -50,7 +50,7 @@
 								numescu <hi rend="bold">abdestu</hi> şi cred a fi curăţitoriu dă
 								păcate.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-82d30bcb-917a-3c64-19fc-efc9f3380e85">văcăr</ptr>
+								<ptr target="#A101443">văcăr</ptr>
 								<date>1794</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -79,7 +79,7 @@
 					<usg><seg type="time" rend="usg">înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 					</usg>
 					<def>abdés</def>
-					<bibl type="unknown"><ptr target="#uuid-5aa91346-6da3-716b-3dcf-038998634c5c">gavra</ptr><date/>1847<citedRange/></bibl>
+					<bibl type="unknown"><ptr target="#A103756">gavra</ptr><date/>1847<citedRange/></bibl>
 					<gramGrp>
 						<pos value="s."/>
 						<gen value=""/>
@@ -96,32 +96,32 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-f4489ad9-65fb-335a-73d4-19a054d93d34">hill</ptr>
+						<ptr target="#A100761">hill</ptr>
 						<date>1840</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălă</ptr>
+						<ptr target="#A101929">bălă</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">pake</ptr>
+						<ptr target="#A100126">pake</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bbeceb82-7dde-11b6-92ae-23a16ea60be2">antonescu</ptr>
+						<ptr target="#A102594">antonescu</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-f30e2e8f-3cad-4847-7417-325f22884871">enc</ptr>
+						<ptr target="#A101874">enc</ptr>
 						<date>1935</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-4cebded3-a294-97fc-8fe5-0eefae33a162">suciu</ptr>
+						<ptr target="#A105222">suciu</ptr>
 						<date>2010</date>
 						<citedRange/>
 					</bibl>

@@ -45,7 +45,7 @@
 									înlocuiesc termenii abstracți, într-un moment în care s-au ivit
 									primele rudimente ale inteligenței <hi rend="bold">abstractoare</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-c9339073-9175-0bc6-8481-5bcd5eb61516">vianu</ptr>
+									<ptr target="#A103266">vianu</ptr>
 									<date>1961</date>
 									<citedRange>209</citedRange>
 								</bibl>
@@ -54,19 +54,19 @@
 							care utilizează abstracțiuni.</def><cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d4a74f90-999a-7711-a3c0-365063498d88">negulici</ptr>
+								<ptr target="#A102700">negulici</ptr>
 								<date>1848</date>
 								<citedRange/>
 							</bibl>
 						</cit><cit type="unknown">
 							<quote>Acest om extrem de inteligent [Caragiale], … acest <hi rend="bold">abstractor</hi>, care extrage esențialul … are în
 								compoziție … destule caractere clasice.</quote>
-							<bibl type="unknown"><ptr target="#uuid-556f4cde-6193-504c-14b3-92d071e71d83">ibrăil</ptr><date>1926</date>48</bibl>
+							<bibl type="unknown"><ptr target="#A104228">ibrăil</ptr><date>1926</date>48</bibl>
 						</cit><cit type="unknown">
 							<quote>Artistul e <hi rend="bold">un abstractor</hi> și un clasificator
 								ca și omul de știință.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d2c66a4a-894a-9786-0a0a-6429a2777595">contemp</ptr>
+								<ptr target="#A102040">contemp</ptr>
 								<date>1986</date>
 								<citedRange>nr. 520, 1</citedRange>
 							</bibl>
@@ -99,17 +99,17 @@
 					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="fr" type="unknown" subtype="unknown">abstracteur</term></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-e6f0f4d6-1654-205b-2004-26f4c2832fb4">protopo</ptr>
+						<ptr target="#A100126">protopo</ptr>
 						<date>1862</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+						<ptr target="#A104144">costinescu</ptr>
 						<date>1870</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<ptr target="#A101486">ndu</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>

@@ -46,7 +46,7 @@
 							<cit type="unknown">
 								<quote>M-a îmbătrânit, mi-a scos peri albi, Și ea, Șade tot <hi rend="bold">abanos</hi>, țapăn și vârtos.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ed6a58dd-3ce6-9629-1b99-18503eeb1638">pann</ptr>
+									<ptr target="#A104374">pann</ptr>
 									<date>1847</date>
 									<citedRange>78</citedRange>
 								</bibl>
@@ -63,7 +63,7 @@
 							<quote>Acolo [în Etiopia] iaste aur mult și pili și copacii toți
 								sălbatici și <hi rend="bold">abanos</hi>. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7a3be8ce-1187-a2d4-329b-fd53e52f00db">istorii</ptr>
+								<ptr target="#A100918">istorii</ptr>
 								<date>&lt;1664-1668&gt;</date>
 								<citedRange>176</citedRange>
 							</bibl>
@@ -71,7 +71,7 @@
 						<cit type="unknown">
 							<quote>Într-acest ostrov să face mult chiperiu și <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c55359b2-58d4-3502-0db4-907943b77565">hotiniu</ptr>
+								<ptr target="#A103567">hotiniu</ptr>
 								<date>1795</date>
 								<citedRange>148/7</citedRange>
 							</bibl>
@@ -79,7 +79,7 @@
 						<cit type="unknown">
 							<quote>Pe strâmte căi, prin crâng de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-98e7e938-59b5-82eb-0789-9f1306f11532">cump</ptr>
+								<ptr target="#A104529">cump</ptr>
 								<date>&lt;1941-1944&gt;</date>
 								<citedRange>339</citedRange>
 							</bibl>
@@ -89,7 +89,7 @@
 								duritatea de la fragilitatea lemnului de balsa și de tei până la
 								duritatea aproape de piatră a <hi rend="bold">abanosului</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c65cb38b-3d8f-9391-2a0b-ee03c3f357c3">gridan</ptr>
+								<ptr target="#A104554">gridan</ptr>
 								<date>2003</date>
 								<citedRange>150</citedRange>
 							</bibl>
@@ -98,7 +98,7 @@
 							<quote>Verde foaie <hi rend="bold">abanos</hi>, Rămâi taică
 								sănătos.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cf04a3d8-8d27-5c89-9a65-0113377749a4">folc.
+								<ptr target="#A102805">folc.
 									do</ptr>
 								<date>1887</date>
 								<citedRange>498</citedRange>
@@ -108,7 +108,7 @@
 							<quote>Frunzuliță d-<hi rend="bold">abanos</hi>, Trece sara pe din
 								dos.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-652aa152-2c8c-29f7-5256-30afafd96f0f">m.
+								<ptr target="#A101297">m.
 									fol</ptr>
 								<date>ante 1897</date>
 								<citedRange>235</citedRange>
@@ -117,7 +117,7 @@
 						<cit type="unknown">
 							<quote>Frundză verdi di-<hi rend="bold">abănos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ec81040c-0937-96e6-22e8-c02ae78f9f2c">vasiliu</ptr>
+								<ptr target="#A100316">vasiliu</ptr>
 								<date>1897</date>
 								<citedRange>109</citedRange>
 							</bibl>
@@ -126,7 +126,7 @@
 							<quote>În fundul salei era o estradă încunjurată cu o balustradă de lemn
 								de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e5b3265c-8ea4-0183-5389-88158b06a646">leon</ptr>
+								<ptr target="#A103055">leon</ptr>
 								<date>1821</date>
 								<citedRange>30/1</citedRange>
 							</bibl>
@@ -134,7 +134,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-b037cd7d-9a33-1a5a-264b-252152d462e4">asachi</ptr>
+								<ptr target="#A104011">asachi</ptr>
 								<date>1842</date>
 								<citedRange/>
 							</bibl>
@@ -143,7 +143,7 @@
 							<quote>În fundul salei era o stradă ceva mai înaltă, ocolită cu grile de
 								lemn de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-45b56266-0136-75b4-9c21-812dd55659ea">coliba</ptr>
+								<ptr target="#A104381">coliba</ptr>
 								<date>1850</date>
 								<citedRange>17</citedRange>
 							</bibl>
@@ -151,7 +151,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<ptr target="#A101803">pont</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -159,7 +159,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-f898d895-439a-9db2-459c-cf84aa455625">barcia</ptr>
+								<ptr target="#A105061">barcia</ptr>
 								<date>1868</date>
 								<citedRange/>
 							</bibl>
@@ -167,7 +167,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -175,7 +175,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<ptr target="#A102406">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -183,7 +183,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-4b4eac99-9d0d-2f49-a30b-5aa201204669">șăinea</ptr>
+								<ptr target="#A101394">șăinea</ptr>
 								<date>1896</date>
 								<citedRange/>
 							</bibl>
@@ -191,7 +191,7 @@
 						<cit type="unknown">
 							<quote>Avea două bufete vaste de lemn de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-8227364b-7cfc-73a8-5323-d328797b50e9">galaction</ptr>
+								<ptr target="#A101089">galaction</ptr>
 								<date>1832</date>
 								<citedRange>47</citedRange>
 							</bibl>
@@ -207,24 +207,24 @@
 								<quote>Noaptea viind triumfătoare, Cu steag negru-ntunecos... Stând
 									în tron de <hi rend="bold">abanos</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-a4b551bd-a30f-1633-878f-a33b91067ef0">mumulean</ptr>
+									<ptr target="#A105047">mumulean</ptr>
 									<date>1937</date>
 									<citedRange>222</citedRange>
 								</bibl>
 							</cit>
 						</sense>
 						<sense xml:id="uuid-756008a5-e364-4be6-95c8-0e1215c260bf" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
 								<term>De abanos</term>
-							</form>
+							</re>
 							<def xml:id="id">foarte negru, negru-lucios. </def>
 							<cit type="unknown">
 								<quote>Câteva grece cu părul de <hi rend="bold">abanos</hi> și cu
 									ochii negri, ce se plimbau dinaintea bisericei … fură marture
 									nepăsătoare acestei întâmplări ciudate.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-0b59d0d3-3198-3d0f-00f3-8e8e12eb6b6d">ralet</ptr>
+									<ptr target="#A100783">ralet</ptr>
 									<date>1858</date>
 									<citedRange>111</citedRange>
 								</bibl>
@@ -232,7 +232,7 @@
 							<cit type="unknown">
 								<quote>Mariţa începu să-i împletească părul cel de <hi rend="bold">abanos</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ebec3bd9-7421-3ae1-1477-b9425c163741">gane</ptr>
+									<ptr target="#A101871">gane</ptr>
 									<date>1870</date>
 									<citedRange>73</citedRange>
 								</bibl>
@@ -241,7 +241,7 @@
 								<quote>În bogăția părului cu reflexe de <hi rend="bold">abanos</hi>
 									strălucea beteala.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-28e59a77-66b3-23bf-6163-2742c98137be">conv.
+									<ptr target="#A101752">conv.
 										lit</ptr>
 									<date>1920</date>
 									<citedRange>LII, nr. 7, 398</citedRange>
@@ -254,7 +254,7 @@
 									aspre, regulate, ale feţei străjuită de o mustaţă cât o pată de
 									tuş. </quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața
+									<ptr target="#A105067">viața
 										ro</ptr>
 									<date>1954</date>
 									<citedRange>martie, nr. 3, 230</citedRange>
@@ -267,7 +267,7 @@
 							<quote>1 săcrei viarde; 1 săcreiaș de <hi rend="bold">abanos</hi> și
 								poleit.</quote>
 							<bibl type="ap.">
-								<ptr target="#uuid-0818f98e-54f3-9d86-8b90-b9a391cb2e60">hem</ptr>
+								<ptr target="#A102873">hem</ptr>
 								<date>1669</date>
 								<citedRange>83</citedRange>
 							</bibl>
@@ -276,7 +276,7 @@
 							<quote>Au scos dintr-însa o tablă mică de trei picioare de lată şi de
 								doaă de lungă, de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6c7b4f0f-8bfd-12e7-6da5-16c52b577a29">ceasornicul</ptr>
+								<ptr target="#A102519">ceasornicul</ptr>
 								<date>&lt;1703-1709&gt;</date>
 								<citedRange>677</citedRange>
 							</bibl>
@@ -288,7 +288,7 @@
 								cincizeci de ani. La belșugul de <hi rend="bold">abanos</hi> și de
 								mahon … adăoga o nebunească risipă de trandafiri.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4c03df96-0476-8335-8436-3a5736ea7bf4">craii</ptr>
+								<ptr target="#A101592">craii</ptr>
 								<date>1929</date>
 								<citedRange>65</citedRange>
 							</bibl>
@@ -297,7 +297,7 @@
 							<quote>Egiptenii … aducea … <hi rend="bold">abanos</hi> …
 								aromate.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e4440564-0b1c-5257-6004-b43e9efda768">genilie</ptr>
+								<ptr target="#A102575">genilie</ptr>
 								<date>1835</date>
 								<citedRange>10/18</citedRange>
 							</bibl>
@@ -305,7 +305,7 @@
 						<cit type="unknown">
 							<quote>Mobilierele cele căptușite cu <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2ddfa547-a65b-6aeb-0a06-2dc7795968d9">indiana</ptr>
+								<ptr target="#A101973">indiana</ptr>
 								<date>1847</date>
 								<citedRange>5/25</citedRange>
 							</bibl>
@@ -313,7 +313,7 @@
 						<cit type="unknown">
 							<quote>Cioplan purta... în mână un toiag de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-464697d6-82c2-3177-6afa-7611a6f6186b">asachi</ptr>
+								<ptr target="#A104059">asachi</ptr>
 								<date>1853</date>
 								<citedRange>213</citedRange>
 							</bibl>
@@ -322,7 +322,7 @@
 							<quote>Aș bufni în râsul cel mai veninos să văd un trubadur-modern: cu
 								inimă imensă... cu baston de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b044ba3b-0d02-7df0-0c83-bf27f39e7f78">delavran</ptr>
+								<ptr target="#A100305">delavran</ptr>
 								<date>1881</date>
 								<citedRange>346</citedRange>
 							</bibl>
@@ -330,7 +330,7 @@
 						<cit type="unknown">
 							<quote>Orele unsprezece sunau la pendula de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-051f526c-6beb-56b9-47b1-bd92a31a7a05">macedons</ptr>
+								<ptr target="#A102711">macedons</ptr>
 								<date>1892</date>
 								<citedRange>86</citedRange>
 							</bibl>
@@ -339,7 +339,7 @@
 							<quote>M-am uitat cu atenție la pălăria lui moale, la jacheta bine
 								croită, la bastonul său de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4584d196-3c4d-8167-5177-537606807cff">patrașcanu</ptr>
+								<ptr target="#A102213">patrașcanu</ptr>
 								<date>1909</date>
 								<citedRange>81</citedRange>
 							</bibl>
@@ -348,7 +348,7 @@
 							<quote>Acele mătănii erau făcute din materiile cele mai diverse: lemn de
 								odagaciu, chiparos,... <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c0804d30-08c9-2601-159e-52c57fb4a5de">r.
+								<ptr target="#A101286">r.
 									rose</ptr>
 								<date>1922</date>
 								<citedRange>407</citedRange>
@@ -358,7 +358,7 @@
 							<quote>Își lărgise eșarfa de mătase și-și sprijinea trupul într-un șarpe
 								înțelept de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-cc4875ce-a18d-7042-1a71-4a0cf6f46432">blocada</ptr>
+								<ptr target="#A103794">blocada</ptr>
 								<date>1947</date>
 								<citedRange>84</citedRange>
 							</bibl>
@@ -367,7 +367,7 @@
 							<quote>Așezat la măsuța de <hi rend="bold">abanos</hi>... Câmpineanu se
 								pregătea să scrie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-70cab96c-9832-0a21-8312-037e0fe532cf">un om</ptr>
+								<ptr target="#A104719">un om</ptr>
 								<date>1953</date>
 								<citedRange>693</citedRange>
 							</bibl>
@@ -375,7 +375,7 @@
 						<cit type="unknown">
 							<quote>Te duc în patul biblic de cedru și-<hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-90baca8c-7c22-9dcd-23b9-ceff1d4e9468">lauda</ptr>
+								<ptr target="#A100749">lauda</ptr>
 								<date>1963</date>
 								<citedRange>126</citedRange>
 							</bibl>
@@ -383,7 +383,7 @@
 						<cit type="unknown">
 							<quote>Se juca cu nește mătănii de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-74a955f1-8024-0b07-2cf7-0d8b1d656be7">săptăm</ptr>
+								<ptr target="#A103240">săptăm</ptr>
 								<date>1981</date>
 								<citedRange>181</citedRange>
 							</bibl>
@@ -392,7 +392,7 @@
 							<quote>Am văzut cum, sub ochii mei chiar, se deschidea capacul unei
 								ascunzători... pe fundul căreia lucea întunecat <hi rend="bold">abanosul</hi> celei mai frumoase casete orientale. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d0cab3c8-3b2d-8cc8-0add-84cfc8501cf7">calpuz</ptr>
+								<ptr target="#A101084">calpuz</ptr>
 								<date>1987</date>
 								<citedRange>7</citedRange>
 							</bibl>
@@ -400,7 +400,7 @@
 						<cit type="unknown">
 							<quote>Faraonul înfăţişat pe o frescă este aşezat lângă un scaun de <hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c65cb38b-3d8f-9391-2a0b-ee03c3f357c3">gridan</ptr>
+								<ptr target="#A104554">gridan</ptr>
 								<date>2003</date>
 								<citedRange>30</citedRange>
 							</bibl>
@@ -409,7 +409,7 @@
 							<quote>Egiptenii … se neguțătoria pe Marea Roșie ... și aducea avoriu,
 									<hi rend="bold">abanos</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e4440564-0b1c-5257-6004-b43e9efda768">genilie</ptr>
+								<ptr target="#A102575">genilie</ptr>
 								<date>1835</date>
 								<citedRange>10/18</citedRange>
 							</bibl>
@@ -417,7 +417,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef795010-695a-350c-22b3-8a94b6465a92">pont</ptr>
+								<ptr target="#A101803">pont</ptr>
 								<date>1862</date>
 								<citedRange/>
 							</bibl>
@@ -425,7 +425,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5581a084-5fa2-7bec-4527-ea2834948255">costinescu</ptr>
+								<ptr target="#A104144">costinescu</ptr>
 								<date>1870</date>
 								<citedRange/>
 							</bibl>
@@ -433,7 +433,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-8d350ade-00eb-4dcb-0b9b-9907de8d84b0">lmd</ptr>
+								<ptr target="#A102406">lmd</ptr>
 								<date>1871</date>
 								<citedRange/>
 							</bibl>
@@ -479,62 +479,62 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-97e5baa8-4226-852b-4031-7c9f19168409">barcianu</ptr>
+						<ptr target="#A102977">barcianu</ptr>
 						<date>1900</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0387ef15-8ba1-07a6-23cd-7ea453dc9a5f">d. silv</ptr>
+						<ptr target="#A104190">d. silv</ptr>
 						<date>1936</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scriban</ptr>
+						<ptr target="#A104836">scriban</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<ptr target="#A104937">der</ptr>
 						<date>1962</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6becd917-13fa-a264-18df-fa33d2eb08b8">ciorănescu</ptr>
+						<ptr target="#A102054">ciorănescu</ptr>
 						<date>1966</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">ndu</ptr>
+						<ptr target="#A104645">ndu</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

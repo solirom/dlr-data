@@ -35,10 +35,10 @@
                 </gramGrp>
                 <dictScrap xml:id="dlr-senses">
                     <sense xml:id="uuid-92af0a36-d98b-477b-a57d-f03ce38137be" n="">
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                             <term>Acid acetic</term>
-                        </form>c<def xml:id="uuid-bcfc4a86-ac10-4d5d-bbe6-e8eda6876f0b">acid organic
+                        </re>c<def xml:id="uuid-bcfc4a86-ac10-4d5d-bbe6-e8eda6876f0b">acid organic
                             obținut sintetic sau prin oxidarea alcoolului etilic, care se prezintă
                             ca un lichid incolor, cu miros înţepător şi este folosit în industria
                             coloranţilor, farmaceutică, în alimentaţie (în concentraţie de 3-9%, sub
@@ -53,10 +53,10 @@
                         </cit>
                     </sense>
                     <sense xml:id="uuid-415c78fb-a4fc-41fb-8406-90a61016ae10" n="">
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                             <term>Aldehidă acetică</term>
-                        </form>
+                        </re>
                         <def xml:id="uuid-24449fb6-3e4d-4d98-96b0-36a06addd6f7">v. aldehidă</def>
                         <cit type="unknown">
                             <quote/>
@@ -68,10 +68,10 @@
                         </cit>
                     </sense>
                     <sense xml:id="uuid-05abbf27-8ff6-4437-b1f4-1d4dadf81716" n="">
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                             <term>Anhidridă acetică</term>
-                        </form>.<def xml:id="uuid-9806253c-98d8-41ac-86c8-e24395c15879">v.
+                        </re>.<def xml:id="uuid-9806253c-98d8-41ac-86c8-e24395c15879">v.
                             anhidridă</def>
                         <cit type="unknown">
                             <quote/>
@@ -83,10 +83,10 @@
                         </cit>
                     </sense>
                     <sense xml:id="uuid-5bd3644b-5dc6-4e78-abfc-b5ff00213bca" n="">
-                        <form type="unitate-semantică-subsumată">
+                        <re type="unitate-semantică-subsumată">
                             <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
                             <term>Fermentaţie acetică</term>
-                        </form>e<def xml:id="uuid-45cd27fe-04ab-4eb7-8e93-2cf0feeca4d3">fermentaţie
+                        </re>e<def xml:id="uuid-45cd27fe-04ab-4eb7-8e93-2cf0feeca4d3">fermentaţie
                             care transformă alcoolul etilic în acid acetic, folosită la fabricarea
                             oţetului</def>
                         <cit type="unknown">

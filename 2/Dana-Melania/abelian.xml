@@ -47,7 +47,7 @@
 								la un grup <hi rend="bold">abelian</hi>, în transcriere
 								aditivă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a20fec0e-9727-80c7-5519-e7a074375313">spirit</ptr>
+								<ptr target="#A103177">spirit</ptr>
 								<date>1940</date>
 								<citedRange>178</citedRange>
 							</bibl>
@@ -55,7 +55,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-589a7882-1340-476f-7e38-aa08b3da16d8">LTR</ptr>
+								<ptr target="#A100914">LTR</ptr>
 								<date>1949</date>
 								<citedRange/>
 							</bibl>
@@ -64,7 +64,7 @@
 							<quote>Aceste formule ne arată că operatorii „X2”, „X3” constituesc un
 								subgrup invariant şi <hi rend="bold">abelian</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2e631c11-035a-321e-9acf-4432661c2a56">geom</ptr>
+								<ptr target="#A100516">geom</ptr>
 								<date>1954</date>
 								<citedRange/>
 							</bibl>
@@ -102,12 +102,12 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc</ptr>
+						<ptr target="#A102361">enc</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>

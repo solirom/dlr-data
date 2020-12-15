@@ -34,10 +34,10 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-2e822079-0c0c-4405-92e0-4d2eabdd5392" n="1.">
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 							<term>Corn în abzaț</term>
-						</form>
+						</re>
 						<def xml:id="uuid-3bb6bc9d-e419-41c6-9128-b0eba6407618">= căprior la
 							acoperișul casei, care iese în afara peretelui aproximativ 80 cm. </def>
 						<usg corresp="#uuid-3bb6bc9d-e419-41c6-9128-b0eba6407618">
@@ -49,7 +49,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-a5ab6f5f-23f8-6945-7370-ff75c44640d9">arvinte</ptr>
+								<ptr target="#A104158">arvinte</ptr>
 								<date>1957</date>
 								<citedRange>137</citedRange>
 							</bibl>
@@ -65,7 +65,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+								<ptr target="#A101712">LR</ptr>
 								<date>1974</date>
 								<citedRange>471</citedRange>
 							</bibl>
@@ -93,7 +93,7 @@
 					Iaşi, nr. 1–2, 174).<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-847a0658-00f4-2755-7958-7538ba443df8">LR</ptr>
+						<ptr target="#A101712">LR</ptr>
 						<date>1974</date>
 						<citedRange>131</citedRange>
 					</bibl>

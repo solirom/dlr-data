@@ -52,7 +52,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+								<ptr target="#A101244">micu</ptr>
 								<date>&lt;1780–1801&gt;</date>
 								<citedRange/>
 							</bibl>
@@ -61,7 +61,7 @@
 							<quote><hi rend="bold">Abărlău</hi>: Un blid în care se strĕcură
 								laptele.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e8afea6a-1ac4-02b4-49d5-f89e4d2f9836">moții</ptr>
+								<ptr target="#A102962">moții</ptr>
 								<date>1888</date>
 								<citedRange>97</citedRange>
 							</bibl>
@@ -69,7 +69,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-5a5c8ba0-9178-0be8-6459-d18e13980d1a">jahres</ptr>
+								<ptr target="#A105128">jahres</ptr>
 								<date>1896</date>
 								<citedRange>286</citedRange>
 							</bibl>
@@ -98,12 +98,12 @@
 					<usg><seg type="time" rend="usg">înv.</seg> și <seg type="geo" rend="usg">reg.</seg></usg>
 					<def>abârlắu</def>
 					<bibl type="unknown">
-						<ptr target="#uuid-21c97941-16a4-8dcc-002b-4703e4b40084">micu</ptr>
+						<ptr target="#A101244">micu</ptr>
 						<date>(&lt;1780–1801&gt;</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-848fdddb-38cd-956d-9e4d-9c06172496b5">ardeal</ptr>
+						<ptr target="#A104511">ardeal</ptr>
 						<date>1906</date>
 						<citedRange/>
 					</bibl>
@@ -134,27 +134,27 @@
 					<note>vas de opărit</note></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-7240e073-6b8b-897e-a17e-58c3be6640d3">da</ptr>
+						<ptr target="#A102657">da</ptr>
 						<date>1913</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0b867a6c-6f1a-4c7e-1f7e-55f0c0412667">form</ptr>
+						<ptr target="#A102713">form</ptr>
 						<date>1972</date>
 						<citedRange>134</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-cc5709c5-3cf3-30d9-99bd-889cf9f92e22">delr</ptr>
+						<ptr target="#A103438">delr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-5a2069b1-64bc-307c-7f87-b9a5e5be2357">form</ptr>
+						<ptr target="#A103228">form</ptr>
 						<date>2015</date>
 						<citedRange>505</citedRange>
 					</bibl>

@@ -1,12 +1,12 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/mirceaminica" owner="mirceaminica" group="dlr-redactors" mode="774" created="2019-08-17T02:21:52+03:00" deduplicate-blobs="false" version="2">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/mirceaminica" owner="admin" group="dba" mode="774" created="2019-08-16T19:21:52+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="ROBISOR.xml" owner="mirceaminica" group="mirceaminica" mode="644" created="2020-02-15T04:43:41+02:00" modified="2020-02-15T04:43:41+02:00" filename="ROBISOR.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ROBISOR.xml" owner="admin" group="dba" mode="644" created="2020-02-14T14:43:41+02:00" modified="2020-02-14T14:43:41+02:00" filename="ROBISOR.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="FARBA_1.xml" owner="mirceaminica" group="dba" mode="640" created="2019-08-27T06:18:53+03:00" modified="2019-10-22T07:05:16+03:00" filename="FARBA_1.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="FARBA_1.xml" owner="admin" group="dba" mode="640" created="2019-08-26T16:18:53+03:00" modified="2020-12-10T04:01:45+02:00" filename="FARBA_1.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="FALANSTER.xml" owner="mirceaminica" group="dba" mode="640" created="2019-08-24T08:15:28+03:00" modified="2020-02-03T07:16:38+02:00" filename="FALANSTER.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="FALANSTER.xml" owner="admin" group="dba" mode="640" created="2019-08-23T18:15:28+03:00" modified="2020-12-10T04:01:44+02:00" filename="FALANSTER.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

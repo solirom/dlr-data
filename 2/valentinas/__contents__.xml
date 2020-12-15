@@ -1,15 +1,15 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/valentinas" owner="valentinas" group="dlr-redactors" mode="774" created="2019-04-16T05:42:13+03:00" deduplicate-blobs="false" version="2">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/valentinas" owner="admin" group="dba" mode="774" created="2019-04-15T22:42:13+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Untitled.xml" owner="valentinas" group="valentinas" mode="644" created="2020-01-06T05:32:35+02:00" modified="2020-05-19T04:40:58+03:00" filename="Untitled.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="Untitled.xml" owner="admin" group="dba" mode="644" created="2020-01-05T15:32:35+02:00" modified="2020-12-10T04:01:20+02:00" filename="Untitled.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abrict.xml" owner="valentinas" group="valentinas" mode="644" created="2019-12-16T09:04:38+02:00" modified="2020-06-09T03:20:48+03:00" filename="abrict.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abrict.xml" owner="admin" group="dba" mode="644" created="2019-12-15T19:04:38+02:00" modified="2020-12-10T04:01:17+02:00" filename="abrict.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abrictalui.xml" owner="valentinas" group="valentinas" mode="644" created="2020-02-15T03:44:36+02:00" modified="2020-02-15T03:44:36+02:00" filename="abrictalui.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abrictalui.xml" owner="admin" group="dba" mode="644" created="2020-02-14T13:44:36+02:00" modified="2020-02-14T13:44:36+02:00" filename="abrictalui.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="abrictali.xml" owner="valentinas" group="valentinas" mode="644" created="2020-02-15T03:43:19+02:00" modified="2020-02-15T03:43:19+02:00" filename="abrictali.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="abrictali.xml" owner="admin" group="dba" mode="644" created="2020-02-14T13:43:19+02:00" modified="2020-12-10T04:01:20+02:00" filename="abrictali.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

@@ -52,13 +52,13 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-52036ada-0f07-40c5-a511-fd98540d1e81" n="1.">
 						<sense xml:id="uuid-f41ed5c6-b38b-4e96-afce-1af053a44454" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<usg>
 									<seg type="dom" rend="usg">GEOL.</seg>
 								</usg>
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Puț absorbant</term>
-							</form>
+							</re>
 							<def xml:id="id"/>
 							<ptr type="trimitere" target="puţ2 (I 1)"/>
 							<cit type="unknown">
@@ -83,7 +83,7 @@
 							<cit type="unknown">
 								<quote><hi rend="bold">Absorbante</hi> zilnice.</quote>
 								<bibl type="în">
-									<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+									<ptr target="#A102996">dcr</ptr>
 									<date>2003</date>
 									<citedRange/>
 								</bibl>
@@ -93,7 +93,7 @@
 									ce foloseau, „în acea perioadă a lunii”, bunicile şi
 									străbunicile noastre?</quote>
 								<bibl type="în">
-									<ptr target="#uuid-049b3fe8-9253-6455-5efd-b0c8d2844a66">dcr</ptr>
+									<ptr target="#A102996">dcr</ptr>
 									<date>2010</date>
 									<citedRange/>
 								</bibl>
@@ -141,7 +141,7 @@
 							<quote>Proprietatea cea <hi rend="bold">absorbantă</hi> a cărbunelui s-a
 								întrebuințat în industrie.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0004de07-6d28-5356-a2b8-82b865288fe8">Marin</ptr>
+								<ptr target="#A101163">Marin</ptr>
 								<date>1852</date>
 								<citedRange>49/36</citedRange>
 							</bibl>
@@ -151,7 +151,7 @@
 								conţinută de apă şi … această căldură stă „latentă”, de vreme ce ea
 								nu încălzeşte corpul <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-59acd60d-9937-05fa-27ff-d3090fc97364">Ondul.</ptr>
+								<ptr target="#A105298">Ondul.</ptr>
 								<date>&lt;1876–1877&gt;</date>
 								<citedRange>160</citedRange>
 							</bibl>
@@ -160,7 +160,7 @@
 							<quote>Perii <hi rend="bold">absorbanți</hi> sunt constituiți dintr-o
 								desvoltare a celulelor epidermice ale radicelor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">Enc.</ptr>
+								<ptr target="#A100171">Enc.</ptr>
 								<date>1937</date>
 								<citedRange>17</citedRange>
 							</bibl>
@@ -172,7 +172,7 @@
 							<quote>Pământul datorește puterea <hi rend="bold">absorbantă</hi>
 								argilei și humusului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">Enc.</ptr>
+								<ptr target="#A100171">Enc.</ptr>
 								<date>1937</date>
 								<citedRange>17</citedRange>
 							</bibl>
@@ -182,7 +182,7 @@
 								cu unitatea, adică absoarbe toată energia radiantă ce cade pe
 								suprafaţa sa, se numeşte corp absolut negru.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b8618a78-9b68-7489-90b3-36c135d5231f">Țițeica</ptr>
+								<ptr target="#A100691">Țițeica</ptr>
 								<date>1948</date>
 								<citedRange>194</citedRange>
 							</bibl>
@@ -191,7 +191,7 @@
 							<quote>Puterea <hi rend="bold">absorbantă</hi> pentru toate radiaţiile
 								este maximă pentru culoarea neagră.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-78c43e43-6dff-9a62-2322-da5fb0f163d7">Agrotehnic</ptr>
+								<ptr target="#A102890">Agrotehnic</ptr>
 								<date>1958</date>
 								<citedRange>92</citedRange>
 							</bibl>
@@ -200,7 +200,7 @@
 							<quote>Tubul digestiv, când nu lipsește, cuprinde întotdeauna un faringe
 								ectodermis și un intestin endodermic, cu rol <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-3fa109b6-4898-538d-3cf2-d56f16dc860f">Fauna</ptr>
+								<ptr target="#A100963">Fauna</ptr>
 								<date>1960</date>
 								<citedRange>49</citedRange>
 							</bibl>
@@ -208,7 +208,7 @@
 						<cit type="unknown">
 							<quote>Puterea <hi rend="bold">absorbantă</hi> a unui burete.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ND</ptr>
+								<ptr target="#A101486">ND</ptr>
 								<date>2008</date>
 								<citedRange/>
 							</bibl>
@@ -233,7 +233,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">Absorbant</hi> pentru lumină.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-64d20768-8a98-34d3-08ca-3e56937c485a">tehn.</ptr>
+								<ptr target="#A101852">tehn.</ptr>
 								<date>1953</date>
 								<citedRange/>
 							</bibl>
@@ -241,7 +241,7 @@
 						<cit type="unknown">
 							<quote>Se obțin valorile lui ΔR în diferiți <hi rend="bold">absorbanți</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-bf911d93-27a4-9464-983d-f497dc7b7567">sanielevici</ptr>
+								<ptr target="#A104973">sanielevici</ptr>
 								<date>1956</date>
 								<citedRange>180</citedRange>
 							</bibl>
@@ -250,7 +250,7 @@
 							<quote>Conductoarele sunt <hi rend="bold">absorbanți</hi> ai undelor
 								electromagnetice.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-eda6190d-6eb2-7c3f-8173-c55ad9376b1d">ltr</ptr>
+								<ptr target="#A101547">ltr</ptr>
 								<date>1957</date>
 								<citedRange>20</citedRange>
 							</bibl>
@@ -258,7 +258,7 @@
 						<cit type="unknown">
 							<quote><hi rend="bold">A[bsorbant]</hi> de neutroni.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+								<ptr target="#A104937">der</ptr>
 								<date>1962</date>
 								<citedRange/>
 							</bibl>
@@ -267,7 +267,7 @@
 							<quote>Rezonatorii Helmholtz sunt folosiţi ca <hi rend="bold">absorbanţi</hi> selectivi de sunet, în scopul unor corecţii
 								acustice a încăperilor.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fd2d6546-4eba-8875-0e54-891ef6313c3f">fiz</ptr>
+								<ptr target="#A104288">fiz</ptr>
 								<date>1972</date>
 								<citedRange>400</citedRange>
 							</bibl>
@@ -276,7 +276,7 @@
 							<quote>Acest atom de sunet se vede dintr-o dată înghiţit de puternica
 								ventuză a lui „h” aspirat, ca de un suflu <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b85328f1-8046-87b6-42e7-f109337ea058">papu</ptr>
+								<ptr target="#A100301">papu</ptr>
 								<date>1977</date>
 								<citedRange>124</citedRange>
 							</bibl>
@@ -314,7 +314,7 @@
 								protectoratul rusesc, care se arătase atât de îngreuitor şi de <hi rend="bold">absorbant</hi>, şi punerea lui sub scutul tuturor
 								puterilor europene.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e0e9943f-1e40-75db-17c1-77ebbe1436bd">xenopol</ptr>
+								<ptr target="#A105117">xenopol</ptr>
 								<date>1896</date>
 								<citedRange>193</citedRange>
 							</bibl>
@@ -325,7 +325,7 @@
 								mijlocie – latifundiile … accentuează încă procesul ruinând direct
 								ţărănimea.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-f2e9f3d5-8179-94f0-442e-1312ffac8cba">stere</ptr>
+								<ptr target="#A102549">stere</ptr>
 								<date>1908</date>
 								<citedRange>490</citedRange>
 							</bibl>
@@ -334,7 +334,7 @@
 							<quote>Orice idee ... devenea un argument pentru concluziile sale
 								proprii, [Eminescu] era un temperament <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ae8da82f-206d-1127-09ae-12c2edcda2b7">ibrăile</ptr>
+								<ptr target="#A104650">ibrăile</ptr>
 								<date>1913</date>
 								<citedRange>337</citedRange>
 							</bibl>
@@ -343,7 +343,7 @@
 							<quote>Romanul, genul cel mai complex şi cel mai <hi rend="bold">absorbant</hi> de tendinţe, de concepţii şi de forme inovate, a
 								adoptat şi freamătul proteic al inconştientului.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-95d94add-5c45-0e9a-a603-33c0acf72709">olt.</ptr>
+								<ptr target="#A103702">olt.</ptr>
 								<date>1931</date>
 								<citedRange>X, 438</citedRange>
 							</bibl>
@@ -353,7 +353,7 @@
 								la toate exigenţele ei fireşti ... şi o sensibilitate <hi rend="bold">absorbantă</hi> şi impulsivă în stare să se exalteze
 								singură până la maximum.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-64007927-51a3-7d77-7fa6-858d3cc63f2d">negul</ptr>
+								<ptr target="#A104066">negul</ptr>
 								<date>1934</date>
 								<citedRange>124</citedRange>
 							</bibl>
@@ -362,7 +362,7 @@
 							<quote>Despărțirea de sofismele comuniste a fost așadar o treptată
 								ruptură cu un univers învăluitor și <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aa95d40e-57d9-760a-0cf6-8d9bb6bc7f9d">mihăil</ptr>
+								<ptr target="#A103591">mihăil</ptr>
 								<date>1995</date>
 								<citedRange>341</citedRange>
 							</bibl>
@@ -384,7 +384,7 @@
 						<cit type="unknown">ZAMFIRESCU<quote>Așa e lumea: de dânsa nu e scăpare
 								decât într o sinceră lucrare de artă, – bună, rea, numai sinceră şi
 									<hi rend="bold">absorbantă</hi> să fie.</quote><bibl type="în">
-								<ptr target="#uuid-26c23469-3714-7ac0-2382-7b81b2a6905a">doc.
+								<ptr target="#A103379">doc.
 									lit</ptr>
 								<date>1895</date>
 								<citedRange>152</citedRange>
@@ -394,7 +394,7 @@
 								şi mai <hi rend="bold">absorbantă</hi> ce se poate trăi pe
 								pământ.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-51470cdb-5db9-14f0-415c-9ce3816d72e3">zamfirescu</ptr>
+								<ptr target="#A103924">zamfirescu</ptr>
 								<date>1897</date>
 								<citedRange>364</citedRange>
 							</bibl>
@@ -403,7 +403,7 @@
 							<quote>Cu toate ocupaţiile sale, atât de numeroase şi de <hi rend="bold">absorbante</hi>, el [Cosimo dei Medici] chema adesea la sine pe
 								Ficino, şi la Florenţa.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-29f4e91b-408b-87b8-1fe1-534000c0727b">NEGUL</ptr>
+								<ptr target="#A103907">NEGUL</ptr>
 								<date>1910</date>
 								<citedRange>325</citedRange>
 							</bibl>
@@ -412,7 +412,7 @@
 							<quote>După căsătorie, în Bucureşti, Adrian începu o viaţă agitată şi
 									<hi rend="bold">absorbantă</hi> de gazetar.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-b2ecaa78-47d0-1dfb-259a-695ea05e287d">SADOV</ptr>
+								<ptr target="#A102827">SADOV</ptr>
 								<date>1921</date>
 								<citedRange>210</citedRange>
 							</bibl>
@@ -421,7 +421,7 @@
 							<quote>Observasem, cu toată preocuparea mea <hi rend="bold">absorbantă</hi>, de mai multe ori, în scaiul ceţii, un contur
 								feminin.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-ef390407-7672-4428-0456-8cdb6de84704">ARGHEZI</ptr>
+								<ptr target="#A101128">ARGHEZI</ptr>
 								<date>1925</date>
 								<citedRange>26</citedRange>
 							</bibl>
@@ -431,7 +431,7 @@
 								preocuparea <hi rend="bold">absorbantă</hi>, România e poate cea din
 								urmă ţară unde o asemenea problemă nu există încă.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-7cbecc8a-5344-5c10-0ef3-f87e4ec55252">CRAINIC</ptr>
+								<ptr target="#A103476">CRAINIC</ptr>
 								<date>1936</date>
 								<citedRange>8</citedRange>
 							</bibl>
@@ -441,7 +441,7 @@
 								aceasta, se datorește … pasiunii <hi rend="bold">absorbante</hi>
 								pentru Marta.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-95931603-6387-27fc-13d6-1ae8cbb2353f">CONSTANTINES</ptr>
+								<ptr target="#A101428">CONSTANTINES</ptr>
 								<date>1942</date>
 								<citedRange>617</citedRange>
 							</bibl>
@@ -449,7 +449,7 @@
 						<cit type="unknown">
 							<quote>Muncă <hi rend="bold">absorbantă</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">DL</ptr>
+								<ptr target="#A104520">DL</ptr>
 								<date>1955</date>
 								<citedRange/>
 							</bibl>
@@ -458,7 +458,7 @@
 							<quote>Talentul [actorului] e atât de expresiv în sine, încât dispare
 								toată ambianţa anihilată de valoarea personajului <hi rend="bold">absorbant</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-a2ff414e-3385-2892-5802-f98d8aef5eae">ARGHEZI</ptr>
+								<ptr target="#A100959">ARGHEZI</ptr>
 								<date>1956</date>
 								<citedRange>503</citedRange>
 							</bibl>
@@ -466,7 +466,7 @@
 						<cit type="unknown">
 							<quote>Atunci … nu m-aş fi găsit departe de atmosfera <hi rend="bold">absorbantă</hi> a sălilor de birou ale Prefecturii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-0bc9898a-97d1-6dde-7acb-75c23cd3730d">bănul</ptr>
+								<ptr target="#A101182">bănul</ptr>
 								<date>1965</date>
 								<citedRange>130</citedRange>
 							</bibl>
@@ -475,7 +475,7 @@
 							<quote>În faţa acestui orizont atât de deschis încât pare aproape <hi rend="bold">absorbant</hi>, intuiţia artistului caută o serie de
 								certitudini moral-filozofice.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-552be625-6d3e-797a-0ce6-94b850d87d45">viața</ptr>
+								<ptr target="#A105067">viața</ptr>
 								<date>1970</date>
 								<citedRange>februarie, 2, 147</citedRange>
 							</bibl>
@@ -484,7 +484,7 @@
 							<quote>Printre primele mărturii ale unei preocupări <hi rend="bold">absorbante</hi> şi statornice, să notăm articolele şi
 								informaţiile din „Oltul”.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-2798eb81-7368-41e5-5512-3708153da688">hoba</ptr>
+								<ptr target="#A105197">hoba</ptr>
 								<date>1983</date>
 								<citedRange>141</citedRange>
 							</bibl>
@@ -492,7 +492,7 @@
 						<cit type="unknown">
 							<quote>Lectură <hi rend="bold">absorbantă</hi>.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+								<ptr target="#A101486">ndu</ptr>
 								<date>2008</date>
 								<citedRange/>
 							</bibl>
@@ -527,92 +527,92 @@
 					engl. absorbent.<note/></etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-aa353779-596b-8658-572f-0f7f273d5627">bălăș</ptr>
+						<ptr target="#A101929">bălăș</ptr>
 						<date>1859</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-937caa7d-a2a7-94a2-2b91-0d25e100224f">alexi</ptr>
+						<ptr target="#A100593">alexi</ptr>
 						<date>1905</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-6841a367-6384-30a1-296c-3ece39a34426">resmer</ptr>
+						<ptr target="#A101422">resmer</ptr>
 						<date>1924</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-d3b1b875-5c2c-0c9b-649a-bb63f4b04a34">enc.</ptr>
+						<ptr target="#A100171">enc.</ptr>
 						<date>1937</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b657e09a-4087-2670-3438-e52ee2614300">scrib</ptr>
+						<ptr target="#A104836">scrib</ptr>
 						<date>1939</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0c36ac52-646f-0672-9e6c-fbba229000fe">dl</ptr>
+						<ptr target="#A104520">dl</ptr>
 						<date>1955</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-63f09067-a053-08be-4700-9f98d6d851ca">dm</ptr>
+						<ptr target="#A102972">dm</ptr>
 						<date>1958</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-94a8c06f-7ebb-622f-2433-1590aff3717d">dn</ptr>
+						<ptr target="#A101317">dn</ptr>
 						<date>1961</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12029450-58a5-1986-49da-71baa3f58130">der</ptr>
+						<ptr target="#A104937">der</ptr>
 						<date>1962</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-568c0e24-174e-7a6b-63ac-bf2bdd5a1fe1">ursu</ptr>
+						<ptr target="#A103537">ursu</ptr>
 						<date>1962</date>
 						<citedRange>139</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">medical</ptr>
+						<ptr target="#A100818">medical</ptr>
 						<date>1969</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-db4b84d0-1d92-4d68-01cc-a2a90b744ec8">dex</ptr>
+						<ptr target="#A102930">dex</ptr>
 						<date>1975</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e7431cf3-2fea-2a55-5b2a-6b45c9a76ed5">d. e. șt</ptr>
+						<ptr target="#A102051">d. e. șt</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-12cd2437-19d9-1f62-92c9-b8f0a028a682">enc.</ptr>
+						<ptr target="#A102361">enc.</ptr>
 						<date>1993</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-b9f74351-6400-784e-5654-154128d48dfb">mda</ptr>
+						<ptr target="#A102837">mda</ptr>
 						<date>2001</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-e0426995-9082-9ecd-3d33-906f4d5a3956">ndu</ptr>
+						<ptr target="#A101486">ndu</ptr>
 						<date>2008</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-0be0afd9-0940-53ae-70d0-499d28e69f08">dicr</ptr>
+						<ptr target="#A103590">dicr</ptr>
 						<date>2011</date>
 						<citedRange/>
 					</bibl>

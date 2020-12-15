@@ -46,7 +46,7 @@
                             <cit type="unknown">
                                 <quote>Traian ...a u luat chivernisala dălogilor împărăţiii.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-02982330-74c8-8dec-63a2-b9d2bf654288"/>
+                                    <ptr target="#A102066"/>
                                     <date/>
                                     <citedRange>186</citedRange>
                                 </bibl>
@@ -61,7 +61,7 @@
                                 <quote>Foaie verde siminoc Duc bărbat la iarmaroc; Cine-a da un leu
                                     şi un zlot îl dau cu dârlog cu tot.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-cbd41b02-07e5-a249-99eb-027b9bf59bae"/>
+                                    <ptr target="#A100898"/>
                                     <date/>
                                     <citedRange>779.</citedRange>
                                 </bibl>
@@ -102,7 +102,7 @@
                             <quote>Cu ajutorul lui Dumnezeu să să ştie ce am târguit: undelemn oca
                                 300, căte bani 36, 220 ... 3 ibunce. 3 părechi de dărlogi.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-2e4139d4-87d5-00dc-216f-ce3a755b7134"/>
+                                <ptr target="#A101746"/>
                                 <date>(a. 1700)</date>
                                 <citedRange>18</citedRange>
                             </bibl>
@@ -110,10 +110,10 @@
                     </sense>
                     <sense xml:id="uuid-97e3961b-2419-48ec-ac15-a8e93f1b3542" n="2.">
                         <sense xml:id="uuid-a2a0e2fc-eee2-4f0b-a5d4-ecf92426c846" n="◊">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
                                 <term>cal de dârloagă</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-f2bfb37b-93c1-4af3-baa0-cb6625c7fd47">Dârlog (2)</def>
                             <xr type="trimitere" corresp="#uuid-f2bfb37b-93c1-4af3-baa0-cb6625c7fd47">
                                 <ptr target="dârlog (2)."/>
@@ -154,11 +154,11 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-51a108da-0795-4e66-8baf-bf81e1654e12" n="">
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>(A fî sau a ajunge, a se băga)
                                 slugă la (sau, neobişnuit, după) dârloagă</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-68548cf7-8f5e-4969-87a6-bc992acb1ef5">(a fi sau a ajunge, din cauza sărăciei, a prostiei, a lenei)
                                 condus, comandat de un om nepriceput, nevrednic, inferior.</def>
                             <cit type="unknown">
@@ -177,7 +177,7 @@
                                 <cit type="unknown">
                                     <quote/>
                                     <bibl type="cf.">
-                                        <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                        <ptr target="#A104349"/>
                                         <date/>
                                         <citedRange/>
                                     </bibl>
@@ -194,11 +194,11 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <form type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată">
                                 <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
                                 <term>A-i pune cuiva dârlogii de
                                 nas</term>
-                            </form>
+                            </re>
                             <def xml:id="uuid-0e7ffa69-648a-44b9-8622-c9abbde2c8b3"/>
                             <usg corresp="#uuid-0e7ffa69-648a-44b9-8622-c9abbde2c8b3">
                                 <seg type="geo" rend="usg">regional</seg>
@@ -223,7 +223,7 @@
                             <cit type="unknown">
                                 <quote>Şi-a luat şi el de nevastă o dârloagă.</quote>
                                 <bibl type="unknown">
-                                    <ptr target="#uuid-77d8613d-1816-2ad6-4b66-22bbcb96755c"/>
+                                    <ptr target="#A102592"/>
                                     <date/>
                                     <citedRange>141.</citedRange>
                                 </bibl>
@@ -254,7 +254,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-ef5cbb86-926a-12af-a6f2-350f3a63026e"/>
+                                <ptr target="#A103777"/>
                                 <date/>
                                 <citedRange>338</citedRange>
                             </bibl>
@@ -268,7 +268,7 @@
                         <cit type="unknown">
                             <quote>Dârlogii iţelor,</quote>
                             <bibl type="cf.">
-                                <ptr target="#uuid-8b1e8fc4-34f7-15c7-173a-6ac696ca61d9"/>
+                                <ptr target="#A104349"/>
                                 <date/>
                                 <citedRange/>
                             </bibl>
@@ -287,7 +287,7 @@
                                 ca de exemplu Clisura Dunării, unde este denumită „dârlogi” sau
                                 „pleteri”.</quote>
                             <bibl type="unknown">
-                                <ptr target="#uuid-5a5ba065-32c8-105e-46ef-3b009a6e425c"/>
+                                <ptr target="#A103222"/>
                                 <date/>
                                 <citedRange>164</citedRange>
                             </bibl>
@@ -301,7 +301,7 @@
                         <cit type="unknown">
                             <quote/>
                             <bibl type="cf.">
-                                <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                                <ptr target="#A101545"/>
                                 <date/>
                                 <citedRange>67</citedRange>
                             </bibl>
@@ -343,7 +343,7 @@
                             <citedRange>h 293/705,</citedRange>
                         </bibl>
                         <bibl type="unknown">
-                            <ptr target="#uuid-a7034822-76d5-2103-4315-1c96f3d55b2b"/>
+                            <ptr target="#A101545"/>
                             <date/>
                             <citedRange>67</citedRange>
                         </bibl>
@@ -503,12 +503,12 @@
                         <seg type="geo" rend="usg">regional</seg>
                     </usg>
                     <bibl type="cf.">
-                        <ptr target="#uuid-77d8613d-1816-2ad6-4b66-22bbcb96755c"/>
+                        <ptr target="#A102592"/>
                         <date/>
                         <citedRange>168</citedRange>
                     </bibl>
                     <bibl type="cf.">
-                        <ptr target="#uuid-fd83c6ab-45ae-17bf-23df-16aa316e909d"/>
+                        <ptr target="#A100112"/>
                         <date/>
                         <citedRange>163</citedRange>
                     </bibl>

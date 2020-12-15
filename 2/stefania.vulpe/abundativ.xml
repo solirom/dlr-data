@@ -42,7 +42,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-088ec688-131b-488b-0cac-9d3dda83a503"/>
+								<ptr target="#A100715"/>
 								<date>1851</date>
 								<citedRange>124</citedRange>
 							</bibl>
@@ -77,7 +77,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-2ca4092a-0d5c-17d2-2b17-f8c7fe278f84">form. cuv</ptr>
+						<ptr target="#A103069">form. cuv</ptr>
 						<date>1967</date>
 						<citedRange>92</citedRange>
 					</bibl>

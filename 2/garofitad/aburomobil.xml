@@ -50,7 +50,7 @@
 								mişcare de un motor cu aburi de tipul celor ce se fabricau prin anul
 								1911... <hi rend="bold">Aburomobilul</hi> cântăreşte 500 kg. </quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-4b073c09-3218-71e1-60ca-32ae4ec28bfc">scânt</ptr>
+								<ptr target="#A105030">scânt</ptr>
 								<date>1974</date>
 							</bibl>
 							<bibl type="în">
@@ -87,7 +87,7 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-b1c80698-630a-7d1d-40f6-bf4df7fa5774">NDU</ptr>
+						<ptr target="#A104645">NDU</ptr>
 						<date>2006</date>
 						<citedRange/>
 					</bibl>

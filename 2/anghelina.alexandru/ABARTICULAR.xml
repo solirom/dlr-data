@@ -38,10 +38,10 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-4b9b2875-b1eb-47d8-88d2-9206848261b0" n="">
 						<sense xml:id="uuid-9fac087d-3a1b-45bf-9ead-e9ba6235f990" n="✧">
-							<form type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată">
 								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
 								<term>Reumatism abarticular</term>
-							</form>
+							</re>
 							<def xml:id="id">denumire generică a unor simptome cu evoluţie acută,
 								subacută sau cronică, caracterizate prin durere, sensibilitate
 								locală etc.</def>
@@ -51,7 +51,7 @@
 									coloanei vertebrale, boala degenerativă a articulaţiilor ... şi
 										<hi rend="bold">r</hi>[eumatism] <hi rend="bold">abarticular</hi>.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-9157d622-9248-6833-0d36-190fd1b60326">med.</ptr>
+									<ptr target="#A102325">med.</ptr>
 									<date>2007</date>
 									<citedRange>912</citedRange>
 								</bibl>
@@ -61,7 +61,7 @@
 										abarticular</hi> al centurilor este o afecțiune relativ
 									rară.</quote>
 								<bibl type="unknown">
-									<ptr target="#uuid-ea6849ab-4e3b-7941-8b70-a1f2399e42dd">viața</ptr>
+									<ptr target="#A104207">viața</ptr>
 									<date>2009</date>
 									<citedRange>nr. 8, 7</citedRange>
 								</bibl>
@@ -76,7 +76,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-974c87e8-a02f-9f51-4371-06823edba0de">d.
+								<ptr target="#A100818">d.
 									medical</ptr>
 								<date>1969</date>
 								<citedRange/>
@@ -112,22 +112,22 @@
 				</etym>
 				<note type="bibliographic-references">
 					<bibl type="unknown">
-						<ptr target="#uuid-41375659-4b62-4865-64f1-3721c0a89a28">dn</ptr>
+						<ptr target="#A104626">dn</ptr>
 						<date>1978</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-3e875e6b-3540-3d69-81ab-fd0c1d135256">form. cuv</ptr>
+						<ptr target="#A101725">form. cuv</ptr>
 						<date>1978</date>
 						<citedRange>45</citedRange>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">dexi</ptr>
+						<ptr target="#A103264">dexi</ptr>
 						<date>2007</date>
 						<citedRange/>
 					</bibl>
 					<bibl type="unknown">
-						<ptr target="#uuid-bf7d424f-9b0c-290c-7a1d-f6be10d70fe7">term. asis</ptr>
+						<ptr target="#A103213">term. asis</ptr>
 						<date>2009</date>
 						<citedRange/>
 					</bibl>

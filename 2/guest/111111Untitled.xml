@@ -35,15 +35,15 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-73fff873-a8dd-4faa-b1ef-6ebd78a0f579" n="1.">
 						<sense xml:id="uuid-bb18de00-6c69-4681-83d2-92027bcaa269" n=""/>
-						<form type="unitate-semantică-subsumată">
+						<re type="unitate-semantică-subsumată">
 							<idno n="tip-unitate-semantică-subsumată" type="construction"/>
 							<term>asd</term>
-						</form>
+						</re>
 						<def xml:id="uuid-9966fe91-3d2a-419a-9732-a2bbb0d0bce9">def</def>
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-e9266513-1e6e-15da-9fbf-580a0b4e7589">cihac</ptr>
+								<ptr target="#A103452">cihac</ptr>
 								<date>1879</date>
 								<citedRange/>
 							</bibl>
@@ -58,7 +58,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-d0938539-112f-9f10-9cae-72033b1e3ef8">aaron</ptr>
+								<ptr target="#A103742">aaron</ptr>
 								<date/>
 								<citedRange/>
 							</bibl>

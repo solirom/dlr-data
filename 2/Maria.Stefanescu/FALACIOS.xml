@@ -56,7 +56,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="cf.">
-								<ptr target="#uuid-75be852d-6861-786f-67aa-0b89598b3bb0">DA</ptr>
+								<ptr target="#A103079">DA</ptr>
 								<date>1940</date>
 								<citedRange/>
 							</bibl>
@@ -64,7 +64,7 @@
 						<cit type="unknown">
 							<quote>Determinați de o natură falacioasă, unii îl urau.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-aedd7d82-764a-872d-889a-dbc512435196">ARGHEZI</ptr>
+								<ptr target="#A100631">ARGHEZI</ptr>
 								<date>1942</date>
 								<citedRange>165</citedRange>
 							</bibl>
@@ -73,7 +73,7 @@
 							<quote>Imagini instabile, falacioase, multiplicate la infinit,
 								reflectate una în alta.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-6e41edf3-611a-6559-7053-a43b025f0a76">MARINO</ptr>
+								<ptr target="#A103578">MARINO</ptr>
 								<date>1973</date>
 								<citedRange>229</citedRange>
 							</bibl>
@@ -82,7 +82,7 @@
 							<quote>Argumentul… că cititorii își smulg cărțile lui din mână… este
 								falacios şi se bazează pe confuzia valorii.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-c5140764-8f7d-3d15-a57a-12c79b4b583d">ROMÂNIA
+								<ptr target="#A101955">ROMÂNIA
 									LITERARĂ</ptr>
 								<date>1983</date>
 								<citedRange>nr. 33, 9/3</citedRange>
@@ -93,7 +93,7 @@
 								falacios și contraproductiv cultural,… îl va încânta și pe neofit,
 								și pe savant.</quote>
 							<bibl type="unknown">
-								<ptr target="#uuid-fe063340-18c8-6ab7-9d29-1f818bd5042e">SCL</ptr>
+								<ptr target="#A101376">SCL</ptr>
 								<date>2000</date>
 								<citedRange>313</citedRange>
 							</bibl>
@@ -101,7 +101,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="cf.">
-								<ptr target="#uuid-dcc59840-0206-8dbc-258a-0ddcc9928c39">MDN</ptr>
+								<ptr target="#A100981">MDN</ptr>
 								<date>2002</date>
 								<citedRange/>
 							</bibl>
@@ -109,7 +109,7 @@
 						<cit type="unknown">
 							<quote/>
 							<bibl type="unknown">
-								<ptr target="#uuid-7d312e7b-2458-2c58-1fca-e6f90dfc29a6">DEXI</ptr>
+								<ptr target="#A103264">DEXI</ptr>
 								<date>2007</date>
 								<citedRange/>
 							</bibl>
