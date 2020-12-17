@@ -429,27 +429,27 @@
 					</sense>
 					<sense xml:id="uuid-5ffa3372-78a5-41a7-9f69-56f8fb277393" n="2. ">
 						<sense xml:id="uuid-f6730fca-d91c-4a75-9368-07f3bda59b12" n="◊">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">LOG.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Reducere la absurd</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">LOG.</seg>
 									<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Ducere la absurd</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">LOG.</seg>
 									<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Deducere la absurd</term>
 							</re>
 							<def xml:id="uuid-2d51eb9d-7603-42cc-9aba-96c22f31274b">metodă de
@@ -520,8 +520,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-5b270cb5-9859-4719-a123-a9eb708b27d3" n="◊">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Filozofia absurdului </term>
 							</re>
 							<def xml:id="uuid-fe122f6a-8115-47ef-ba5b-c7e6c185f638">concepție,
@@ -566,18 +566,18 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-2f58da1c-4d30-4340-9818-d0ed654c418a" n="◊">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">LIT. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Literatura absurdului </term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">LIT. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Teatrul absurdului</term>
 							</re>
 							<def xml:id="uuid-46bc3d80-05b5-4a00-90a3-9e4587e61d6f">direcţie
@@ -647,8 +647,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-aa3e6b1f-d929-418c-88d3-1ee9b8b6f712" n="◊">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+								
 								<term>Prin absurd</term>
 							</re>
 							<def xml:id="uuid-abc0d4cf-4e5f-4f7f-afe5-5cefb063c212">admiţând un

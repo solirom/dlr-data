@@ -341,8 +341,8 @@
 					</sense>
 					<sense xml:id="uuid-5de7aa04-b281-4ae9-b156-f325fd07ea34" n="3.">
 						<sense xml:id="uuid-da1a8cc1-1ec2-4a39-bd1f-c2fbfe95c2d3" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de autoritate</term>
 							</re>
 							<def xml:id="id">delict săvârşit de un funcţionar sau de un organ
@@ -457,8 +457,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-aea57b6f-26ea-4fc4-8e83-864f52f78d1a" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de putere</term>
 							</re>
 							<def xml:id="id"/>
@@ -477,8 +477,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-7334ad64-9948-4d6e-8e1b-0887ad1cd24b" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de funcție și atribuții</term>
 							</re>
 							<def xml:id="id"/>
@@ -498,8 +498,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-18ddcd64-7fc1-4cdf-ae7d-5e2e4d243c90" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de poziție dominantă</term>
 							</re>
 							<def xml:id="id"/>
@@ -518,8 +518,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-f4707102-7287-4355-976a-b3aee4cad1c6" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de încredere</term>
 							</re>
 							<def xml:id="id">delict constând în însuşirea, înstrăinarea sau refuzul
@@ -583,8 +583,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-78a4c1e3-40c4-4d95-b8fa-5e8b848994bb" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz în serviciu</term>
 							</re>
 							<def xml:id="id">delict comis de un funcționar în exercițiul
@@ -618,8 +618,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-28932e9d-268f-44d3-a476-7fdb182e85bc" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz de drept</term>
 							</re>
 							<def xml:id="id">delict constând în exercitarea unui drept cu
@@ -656,8 +656,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-23334c81-0404-440d-b5cc-5131e5ca326e" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>abuz sexual</term>
 							</re>
 							<def xml:id="id">delict constând în întreținere de relații sexuale
@@ -690,8 +690,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-cc82bc0a-6cf6-426b-a940-04b78f56ad98" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+								
 								<term>prin abuz</term>
 							</re>
 							<def xml:id="id">în mod abuziv.</def>
@@ -749,8 +749,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-cc0f4f39-31d4-4e00-b8e2-184ab09dfe51" n="✦">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+								
 								<term>printr-un abuz</term>
 							</re>
 							<def xml:id="id"/>

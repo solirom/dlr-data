@@ -48,8 +48,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-d08306a1-5228-4a75-8602-99fece927b9c" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>Adresă bibliografică </term>
                             </re>
                             <def xml:id="uuid-f56407f4-0a3a-4f30-8b64-0781bb7964f6"> totalitatea datelor privind apariţia unei cărţi</def>
@@ -62,8 +62,8 @@
                                 </bibl>
                             </cit>
                         </sense>
-                        <sense xml:id="uuid-74fc29d5-57c3-459f-8b24-ee68d102e984" n="">♦ <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="prepositional-locution"/>
+                        <sense xml:id="uuid-74fc29d5-57c3-459f-8b24-ee68d102e984" n="">♦ <re type="unitate-semantică-subsumată" subtype="prepositional-locution">
+                                
                                 <term>La adresa</term>
                             </re>
                             <def xml:id="uuid-85f542f9-34dc-4a7d-9dac-bd95d59b2a5d"> referitor la cineva sau ceva.</def>
@@ -78,8 +78,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-202ed73a-926d-412a-b346-3d3cc29fe03c" n="♦">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A greşi adresa</term>
                             </re>
                             <def xml:id="uuid-06fed652-d502-456b-b13f-72e465e1075d">a) a nimeri în alt loc sau la altă persoană decât cea
@@ -99,8 +99,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-1fb91c7c-29f2-44f5-b5a1-eeb25148b363" n="♦">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A greşi adresa</term>
                             </re>
                             <def xml:id="uuid-0c165155-3cda-4005-a566-bcd574170ba4">b) a avea o părere greşită despre cineva sau ceva, a se înşela

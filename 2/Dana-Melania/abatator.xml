@@ -173,11 +173,11 @@
 						</sense>
 						<sense xml:id="uuid-f8ecb297-af84-4f0b-bcaa-cd93a20f6b7e" n="2.">
 							<sense xml:id="uuid-4874a75b-35d8-44a8-9bcf-33f7afef95ae" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abătător de fulger</term>
 								</re>
 								<def xml:id="id">paratrăznet</def>

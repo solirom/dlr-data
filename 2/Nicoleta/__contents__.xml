@@ -1,6 +1,6 @@
 <collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/data/dlr/entries/Nicoleta" owner="admin" group="dba" mode="774" created="2019-04-15T22:42:13+03:00" deduplicate-blobs="false" version="2">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="absolutist.xml" owner="admin" group="dba" mode="644" created="2020-01-20T15:12:23+02:00" modified="2020-12-15T05:24:18+02:00" filename="absolutist.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absolutist.xml" owner="admin" group="dba" mode="644" created="2020-01-20T15:12:23+02:00" modified="2020-12-17T05:05:23+02:00" filename="absolutist.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="absolutistic.xml" owner="admin" group="dba" mode="644" created="2020-01-21T15:46:05+02:00" modified="2020-12-10T04:01:14+02:00" filename="absolutistic.xml" mimetype="application/xml">
@@ -27,7 +27,7 @@
     <resource type="XMLResource" name="absoluitate.xml" owner="admin" group="dba" mode="644" created="2020-01-14T13:51:02+02:00" modified="2020-12-10T04:01:40+02:00" filename="absoluitate.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absolut.xml" owner="admin" group="dba" mode="644" created="2020-01-14T14:12:26+02:00" modified="2020-12-15T05:24:13+02:00" filename="absolut.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absolut.xml" owner="admin" group="dba" mode="644" created="2020-01-14T14:12:26+02:00" modified="2020-12-17T05:05:23+02:00" filename="absolut.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="absolutamente.xml" owner="admin" group="dba" mode="644" created="2020-01-15T15:42:34+02:00" modified="2020-12-10T04:01:40+02:00" filename="absolutamente.xml" mimetype="application/xml">
@@ -54,7 +54,7 @@
     <resource type="XMLResource" name="absolutisime.xml" owner="admin" group="dba" mode="644" created="2020-01-15T16:35:52+02:00" modified="2020-12-10T03:59:58+02:00" filename="absolutisime.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="absolutism.xml" owner="admin" group="dba" mode="644" created="2020-01-15T16:40:48+02:00" modified="2020-12-15T05:24:15+02:00" filename="absolutism.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="absolutism.xml" owner="admin" group="dba" mode="644" created="2020-01-15T16:40:48+02:00" modified="2020-12-17T05:05:23+02:00" filename="absolutism.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="XMLResource" name="absolutizare.xml" owner="admin" group="dba" mode="644" created="2020-02-02T13:56:57+02:00" modified="2020-12-10T04:01:40+02:00" filename="absolutizare.xml" mimetype="application/xml">

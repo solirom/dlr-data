@@ -66,8 +66,8 @@
 					</sense>
 					<sense xml:id="uuid-fb6903c9-8843-423a-a5db-5e57665a29a7" n="2.">
 						<sense xml:id="uuid-d4e022e9-f0fd-487d-b054-8d6e2d25301a" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
+							<re type="unitate-semantică-subsumată" subtype="compound">
+								
 								<term>Italo-abisin</term>
 							</re>
 							<def xml:id="id">care se referă și la italieni și la abisini.</def>

@@ -38,8 +38,8 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-cd766ce5-f41f-4d0c-8fe8-ada850d61d1b" n="1">
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+						<re type="unitate-semantică-subsumată" subtype="unknown">
+							
 							<term/>
 						</re>
 						<def xml:id="uuid-e9a99c0a-07e2-4e58-92a1-2f8ebc26e261"/>

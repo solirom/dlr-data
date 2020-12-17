@@ -335,19 +335,19 @@
 									</bibl>
 								</cit>
 							</sense>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+								
 								<term>Din abundență</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+								
 								<term>În abundență</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="unknown">
 								<usg>
 									<seg type="time" rend="usg">Înv. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								
 								<term>Cu abundență</term>
 							</re>
 							<def xml:id="id"/>
@@ -361,19 +361,19 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-5cab6e54-0a7e-450d-8b0e-56f576fe98a3" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<re type="unitate-semantică-subsumată" subtype="phrase">
+								
 								<term>Cornul abundenței</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<re type="unitate-semantică-subsumată" subtype="phrase">
+								
 								<term>Corn al abundenței</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="unknown">
 								<usg>
 									<seg type="time" rend="usg">Înv. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								
 								<term>Corn de abundență</term>
 							</re>
 							<def xml:id="id">simbol al bogăției și al prosperității, reprezentat
@@ -583,8 +583,8 @@
 					</sense>
 					<sense xml:id="uuid-f3544a10-bfac-4ab4-8315-b9d099ec03dd" n="2.">
 						<sense xml:id="uuid-7b7ede99-893e-4bce-892b-bfc54ccf4674" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Societatea abundenței </term>
 							</re>
 							<def xml:id="id">societate caracterizată printr-un stadiu avansat al

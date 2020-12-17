@@ -37,11 +37,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-4468339f-8a19-42b2-ab77-7e482bbdbdd9" n="1.">
 						<sense xml:id="uuid-8a0833a1-66c1-46ee-bc59-6672b54558b8" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GEOGR.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Depozite abisale</term>
 							</re>
 							<def xml:id="id">sedimente aflate pe fundul oceanului planetar.</def>
@@ -55,18 +55,18 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-0b1f2a36-a6b5-4fef-bd91-30366c792f22" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GEOGR.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Groapă abisală</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="unknown">
 								<usg>
 									<seg type="dom" rend="usg">GEOGR.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								
 								<term>Fosă abisală</term>
 							</re>
 							<def xml:id="id">ormă majoră a reliefului fundului oceanelor, cu aspect
@@ -81,11 +81,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-13df522d-9ee9-450f-96bb-97cac508c7f4" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GEOL.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term> Rocă abisală</term>
 							</re>
 							<def xml:id="id">rocă intrusivă plutonică, consolidată la mari adâncimi
@@ -262,8 +262,8 @@
 					</sense>
 					<sense xml:id="uuid-be161569-11b4-4413-9eec-79f803cd59e0" n="2.">
 						<sense xml:id="uuid-73a96284-8135-4df1-bd22-7832cd4f5c70" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Categorii abisale</term>
 							</re>
 							<def xml:id="id">categorii ale inconştientului care, în concepţia lui L.
@@ -280,8 +280,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-d366f114-b05e-466f-ba21-f83eb390696d" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Psihologie abisală</term>
 							</re>
 							<def xml:id="id">termen folosit pentru desemnarea curentelor

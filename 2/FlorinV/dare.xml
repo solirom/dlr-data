@@ -42,8 +42,8 @@
                         <sense xml:id="uuid-8412786e-25d6-4279-bac2-3cce77596315" n="">
                             <sense xml:id="uuid-eeb9cf18-a0e2-49c6-a53b-c61b82fb409f" n="1.">
                                 <sense xml:id="uuid-9fc9ac05-2e27-4b88-9145-decb6527cc13" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>dare de seamă</term>
                                     </re>
                                     <def xml:id="uuid-3788d23a-c240-40e5-ae95-483c26ac3d4f">a) raport, referat asupra unei activităţi, a unei
@@ -62,8 +62,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-3405a027-2d00-47d9-b3f1-ab76df98b930" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>dare la semn</term>
                                     </re>
                                     <def xml:id="uuid-903fefd1-25ec-4871-9677-272caab9a8ad">tragere la ţintă.</def>
@@ -77,8 +77,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-668b7314-7113-4c30-aff2-7a33789c3581" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>darea de
                                         mână/mâinii</term>
                                     </re>

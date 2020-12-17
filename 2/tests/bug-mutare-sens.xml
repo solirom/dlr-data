@@ -186,8 +186,8 @@
               </cit>
             </sense>
             <sense xml:id="uuid-cf13cc02-e9d6-400c-8b53-10a60955156f" n="✧">
-              <re type="unitate-semantică-subsumată">
-                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+              <re type="unitate-semantică-subsumată" subtype="syntagma">
+                
                 <term>Abataj frontal</term>
               </re>
               <def xml:id="id">abataj făcut pe un front foarte lung, în direcția filonului.</def>
@@ -202,8 +202,8 @@
               </cit>
             </sense>
             <sense xml:id="uuid-46885b91-de92-493c-919b-34dcef138000" n="✧">
-              <re type="unitate-semantică-subsumată">
-                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+              <re type="unitate-semantică-subsumată" subtype="syntagma">
+                
                 <term>Abataj hidraulic</term>
               </re>
               <def xml:id="id">abataj realizat cu jet de apă sub presiune.</def>

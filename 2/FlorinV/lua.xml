@@ -82,16 +82,16 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ac6ca981-00be-4341-a20c-0aa39bf46fa4" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term> A lua armele (în mână)</term>
                             </re>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term> A lua armele (în mâini)</term>
                             </re>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>a lua arme (asupra cuiva)</term>
                             </re>
                             <def xml:id="uuid-5c5f417b-bd16-44ff-8393-a2dbeecee9af">a se înarma, a se pregăti de luptă (contra cuiva). </def>
@@ -253,23 +253,23 @@
                                         </bibl>
                                     </cit>
                                 </sense>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>a lua în stăpânire (ceva sau pe cineva)</term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>a lua în posesiune (ceva sau pe cineva)</term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>a lua întru stăpânire (ceva sau pe cineva)</term>
                                     <usg>
                                         <seg type="time" rend="usg">înv.</seg>
                                     </usg>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>a lua întru posesiune (ceva sau pe cineva)</term>
                                     <usg>
                                         <seg type="time" rend="usg">înv.</seg>
@@ -288,12 +288,12 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-31f193af-d71a-4c84-a4aa-06c230f39fd3" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term> A lua cu o mână şi a da cu alta </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term> A lua cu o mână şi a da cu zece</term>
                                 </re>
                                 <def xml:id="uuid-e9054de2-bb6d-494e-9143-017fcaf81add"/>
@@ -313,12 +313,12 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-becc7ae9-9b51-4ad2-abad-1c2c9edafe9f" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term> A lua (ceva) înapoi </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>A lua (ceva) îndărăt </term>
                                 </re>
                                 <def xml:id="uuid-b1ed1fde-5a77-4443-81a4-f573e9f720a9">a retrage ceva dat, oferit, dăruit etc. </def>
@@ -341,8 +341,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-a036b378-1a77-44d6-9cde-87e8bdf8d9e7" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>A lua caimacul</term>
                                 </re>
                                 <def xml:id="uuid-f3e48426-ce8e-4189-bcd0-1146a054e80a"/>
@@ -359,12 +359,12 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-70759ee7-c2a2-4f03-bd8f-84bb81119fbe" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term> A um bla să ia două piei de pe (o) oaie </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>a lua două piei de pe o oaie</term>
                                 </re>
                                 <def xml:id="uuid-cca2a23b-5c55-46c1-b374-8838e9053796">a urmări sau a obţine un câştig exagerat. </def>
@@ -381,16 +381,16 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-cc57fdbd-6649-406a-9321-8d272aeb6d59" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>A um bla după cai morţi să le ieie potcoavele </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term> A porni după cai morţi să le ieie potcoavele </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term>A căuta cai morţi să le ieie potcoavele</term>
                                 </re>
                                 <def xml:id="uuid-c24c40d6-0636-436d-9acf-8ed19900fec6">a-şi pierde vremea cu lucruri fară rost, fară importanţă
@@ -484,8 +484,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-19e0e9ea-5ba2-4761-9c46-39f7ff748ba8" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term> A nu şti de unde să iei pe (cineva) </term>
                                 </re>
                                 <def xml:id="uuid-9d7972f3-6a0e-475f-aa09-5086558f8351">a nu-şi aduce aminte în ce împrejurări ai cunoscut pe
@@ -500,12 +500,12 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-5d77fd50-ee54-40f2-878c-591efbf0a808" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term> Ia, dacă ai de unde </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term> ia(-l) de unde nu e (ori nu-i)</term>
                                 </re>
                                 <def xml:id="uuid-890649a4-454e-47d8-81a5-b161f551700a">se spune despre cineva (sau despre ceva) care nu se mai
@@ -526,12 +526,12 @@
                                 <usg corresp="#uuid-0d49c00f-7068-436a-bbcc-8883d4ae36eb">
                                     <seg type="gram" rend="usg">refl. pas.</seg>
                                 </usg>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term> Nici asta nu se ia din drum </term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                <re type="unitate-semantică-subsumată" subtype="unknown">
+                                    
                                     <term> Asta nu se ia din drum </term>
                                 </re>
                                 <def xml:id="uuid-8182b386-f20c-46fa-85c0-052e7effc375"/>

@@ -144,8 +144,8 @@
                                 </bibl>
                             </cit>
                         </sense>
-                        <re type="unitate-semantică-subsumată">
-                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                        <re type="unitate-semantică-subsumată" subtype="syntagma">
+                            
                             <term>Dodă nică cu furnică</term>
                         </re>
                         <def xml:id="uuid-837729ee-d34f-4337-b397-f4080eb95d0a">numele unui joc de copii nedefinit mai îndeaproape. </def>

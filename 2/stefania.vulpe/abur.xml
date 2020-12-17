@@ -60,12 +60,12 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-6b0d0c3b-745c-4c89-ac24-6787f8ec7657" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+							<re type="unitate-semantică-subsumată" subtype="proverb">
+								
 								<term>A scoate aburi pe gură</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+							<re type="unitate-semantică-subsumată" subtype="proverb">
+								
 								<term>A scoate abur pe gură</term>
 							</re>
 							<def xml:id="id">se spune despre cei care vorbesc zadarnic.</def>
@@ -1368,12 +1368,12 @@
 					</sense>
 					<sense xml:id="uuid-19eadd1f-57fc-4570-b3d4-a788a1293884" n="5.">
 						<sense xml:id="uuid-ff993e59-1f68-4061-95fc-b6fa836e1013" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Baie de abur</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Baie de aburi</term>
 							</re>
 							<def xml:id="id">cameră cu aburi de temperatură și densitate reglabille,
@@ -2084,8 +2084,8 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-89f85623-9c5f-4015-847d-1d720a4ef259" n="7.">
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+						<re type="unitate-semantică-subsumată" subtype="syntagma">
+							
 							<term>Abur poluant</term>
 						</re>
 						<def xml:id="id">amestec de vapori de apă şi aer, degajat în atmosferă în
@@ -2205,8 +2205,8 @@
 								</bibl>
 							</cit>
 						</sense>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
 							<term>A fi numa cu abur</term>
 						</re>
 						<def xml:id="id"/>

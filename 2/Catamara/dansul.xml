@@ -227,8 +227,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-3ea5086d-72ad-4df0-ac3f-49e0845cb6c6" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                    
                                     <term>Ca pe dânsul</term>
                                 </re>
                                 <def xml:id="uuid-d3d7049b-a3a3-4b6b-8d6c-7453db9c3f4b"/>
@@ -245,8 +245,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-b9ca5c2e-03e4-47a5-afa6-fef5f6dcb1cd" n="">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                    
                                     <term>sau ca pe dânsa</term>
                                 </re>
                                 <def xml:id="uuid-d998c7e9-d1d2-4e12-842d-46771a7d14a3">straşnic (1)</def>
@@ -365,8 +365,8 @@
                         </sense>
                         <sense xml:id="uuid-3abca09d-8926-4bf9-9d5c-9bc64477e53c" n="3.">
                             <sense xml:id="uuid-81688849-8174-454d-a6b1-cfe4be621720" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>De dânsele</term>
                                 </re>
                                 <def xml:id="uuid-c8ae85d8-6d34-4775-a569-98bc94b77810">Dânsul (II 3).</def>
@@ -410,8 +410,8 @@
                         </sense>
                         <sense xml:id="uuid-02a7cf3f-ccf4-4979-954a-e03bf1c2f450" n="4.">
                             <sense xml:id="uuid-f99fd2a8-5092-4fb7-89d5-d5b6d022c271" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>De dânsele</term>
                                 </re>
                                 <def xml:id="uuid-8e8854b2-e3c1-433b-82cd-1defcb063838">Dânsul (II 4).</def>

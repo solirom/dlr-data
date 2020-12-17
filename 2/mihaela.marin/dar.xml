@@ -41,8 +41,8 @@
                         <sense xml:id="uuid-351ca35f-bada-4636-812b-17b0bf7cfdeb" n="1.">
                             <sense xml:id="uuid-36f7ad14-2d52-40fc-8ae5-9bde13300eb5" n="♦">
                                 <sense xml:id="uuid-574194ac-4b8f-466b-a8a8-b201e78d0d5a" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Darul miresei</term>
                                     </re>
                                     <def xml:id="uuid-a75b630a-0fb4-488a-b495-4a63b1694348">sumă de bani pe care mireasa o primeşte personal în
@@ -60,8 +60,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-b35df675-f4f0-450b-9d48-3a3dd3411e86" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Darul
                                         bucătarului</term>
                                     </re>
@@ -78,8 +78,8 @@
                                         </bibl>
                                     </cit>
                                     <sense xml:id="uuid-42c01cec-66af-4022-ba4f-c99c5e908241" n="♦">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                            
                                             <term>Sfintele Daruri/
                                             Darul lui Dumnezeu</term>
                                         </re>
@@ -168,8 +168,8 @@
                                     </bibl>
                                 </cit>
                                 <sense xml:id="uuid-4cd058aa-c96d-4810-a95e-adf1202c9712" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                    <re type="unitate-semantică-subsumată" subtype="verbal-locution">
+                                        
                                         <term>A aduce cuiva daruri/a
                                         da cuiva daruri/a duce cuiva daruri/a lăsa cuiva
                                         daruri</term>
@@ -214,8 +214,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-c2ec36fa-b15c-4c69-9ef5-fedd5800cb74" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>Dar manual</term>
                                 </re>
                                 <def xml:id="uuid-f4a17c83-e1e4-4866-b96c-2545a5713de3">donaţie exceptată de la formele obişnuite cerute pentru
@@ -276,8 +276,8 @@
                                 </sense>
                             </sense>
                             <sense xml:id="uuid-476523a2-3e36-46f1-909d-424bc9256ec7" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="adjectival-locution">
+                                    
                                     <term>De dar</term>
                                 </re>
                                 <def xml:id="uuid-fd584a2a-e569-4121-9de1-f69dfbf97e41">primit gratuit</def>
@@ -308,8 +308,8 @@
                                 </sense>
                             </sense>
                             <sense xml:id="uuid-86e21aee-71ca-404c-90d7-56456d598d03" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                    
                                     <term>În dar</term>
                                 </re>
                                 <def xml:id="uuid-953ba9e6-8b5a-44f3-94f9-c6d5e131b4d5">fără plată, în mod gratuit;</def>
@@ -378,8 +378,8 @@
                         </sense>
                         <sense xml:id="uuid-4ec9394f-831e-4830-86bc-1e85b87c1555" n="3.">
                             <sense xml:id="uuid-e04b76db-9a3d-49d9-8db1-7abb2a3316fa" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="verbal-locution">
+                                    
                                     <term>A cădea la daruri</term>
                                 </re>
                                 <def xml:id="uuid-c9384ecf-1f0f-48c9-96ca-031c67a85499">a mitui;</def>
@@ -437,8 +437,8 @@
                         </sense>
                         <sense xml:id="uuid-702bef10-cd90-4e3d-94e9-b5e213a94d79" n="5.">
                             <sense xml:id="uuid-f9d1dade-ea39-471f-8230-8bec14b52bc5" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A face darul cuiva</term>
                                 </re>
                                 <def xml:id="uuid-6c182243-fdeb-4b04-8725-d824c89ed8ff">a face o favoare cuiva</def>
@@ -482,8 +482,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-ea4a97e5-e93e-4f0e-8bea-1b0f2b2744b5" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>În starea darului/ A fi în
                                     starea darului</term>
                                 </re>
@@ -546,8 +546,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-93f33749-ef2e-4570-a09c-33df2736a23e" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
+                                <re type="unitate-semantică-subsumată" subtype="adjectival-locution">
+                                    
                                     <term>Cu dar</term>
                                 </re>
                                 <def xml:id="uuid-86555213-ac19-42cd-b9d6-7ad9cca889b0">cu calităţi deosebite</def>
@@ -561,8 +561,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-7898bff8-4944-4a4a-a823-0633c94f5393" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A avea darul să .../ A avea
                                     darul de a .../ A avea darul de...</term>
                                 </re>
@@ -661,8 +661,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-533469a6-bee3-4634-a40d-cdb69625eaed" n="2.">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>Darul preoţiei</term>
                             </re>
                             <def xml:id="uuid-fbad7a75-4bdc-476d-a34b-d679edf2ee77">Har conferit preoţilor la hirotonisire</def>

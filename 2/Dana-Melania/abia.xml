@@ -157,8 +157,8 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-63a9baa1-f7b9-4d6e-8f3f-532fffabdbdb" n="">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+									
 									<term>De abia </term>
 								</re>
 								<def xml:id="id">cu foarte mare greutate.</def>
@@ -349,8 +349,8 @@
 						</sense>
 						<sense xml:id="uuid-78f3dc17-ab53-451f-bf46-933b38774a10" n="2.">
 							<sense xml:id="uuid-3b4a3d62-7fe5-463e-afcb-d91f3dd66263" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+									
 									<term>De abia</term>
 								</re>
 								<def xml:id="id">cu foarte mare drag.</def>
@@ -431,8 +431,8 @@
 						</sense>
 						<sense xml:id="uuid-c5db7ddc-7d01-40ba-bb38-2e6fe8998f5d" n="3.">
 							<sense xml:id="uuid-8077b81d-d094-4371-b18f-ffdcfa15cd8e" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+									
 									<term>De abia</term>
 								</re>
 								<def xml:id="id">într-o foarte mică măsură.</def>
@@ -688,8 +688,8 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-06d30cea-e0e7-4879-bff0-fcf0d79aba74" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+									
 									<term>De abia</term>
 								</re>
 								<def xml:id="id">cu foarte puţină vreme înainte.</def>

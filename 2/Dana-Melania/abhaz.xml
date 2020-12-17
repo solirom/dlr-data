@@ -67,8 +67,8 @@
 					</sense>
 					<sense xml:id="uuid-beef959c-e6b7-4a36-a77f-c0acbd2ac7d0" n="2.">
 						<sense xml:id="uuid-8d5cc1ac-9049-4c00-b8da-0362f251c375" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Limba abhază</term>
 							</re>
 							<def xml:id="id">limbă din familia caucaziană, vorbită de abhazi.</def>

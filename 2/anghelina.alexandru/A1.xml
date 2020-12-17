@@ -40,12 +40,12 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-ea6eff8c-1806-4af7-86d0-c46ca5f54144" n="1.">
 						<sense xml:id="uuid-02cd0b57-21d1-4055-89f6-bc94959203d0" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<re type="unitate-semantică-subsumată" subtype="phrase">
+								
 								<term>De la a până la z</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<re type="unitate-semantică-subsumată" subtype="phrase">
+								
 								<term>De la a la zed</term>
 							</re>
 							<def xml:id="id">de la început până la sfârşit; totul, în

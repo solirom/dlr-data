@@ -215,11 +215,11 @@
 						</sense>
 						<sense xml:id="uuid-5791ee51-ee05-45b9-8a48-aee7a23e2419" n="3.">
 							<sense xml:id="uuid-4878c935-d97a-42f4-b040-1750ab35fece" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>A avea a ochi</term>
 								</re>
 								<def xml:id="id">
@@ -253,11 +253,11 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>A lua a ochi </term>
 								</re>
 								<def xml:id="uuid-017b4efd-f515-456c-9ccd-1b14a23fd300">a lua la
@@ -850,11 +850,11 @@
 						</sense>
 						<sense xml:id="uuid-f31d7ca7-2b07-4e49-b347-144c78eb8249" n="3.">
 							<sense xml:id="uuid-9b604bd5-6462-4e55-83f6-72913eb59277" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>Mustăţile îi caută a oală</term>
 								</re>
 								<def xml:id="id"/>
@@ -1634,11 +1634,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-64ebc29d-1c31-455e-9815-14e795627d7d" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+									
 									<term>A samă</term>
 								</re>
 								<def xml:id="id">
@@ -1655,11 +1655,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-7ff96ac7-6bea-49fb-b4c7-97dff6292719" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+									
 									<term>A bună seamă</term>
 								</re>
 								<def xml:id="id"/>
@@ -1674,49 +1674,49 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-0a6ae609-7d86-4cd6-9963-62afdcd5ff82" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase adverbial-locution">
 									<usg>
 										<seg type="register style" rend="usg">
 											<hi rend="italic">Pop.</hi>
 										</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase adverbial-locution"/>
+									
 									<term>Cu de-a sila </term>
 								</re>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="register style" rend="usg">
 											<hi rend="italic">Pop.</hi>
 										</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>De-a sila</term>
 								</re>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="silă (I 2)"/>
 							</sense>
 							<sense xml:id="uuid-256ad42e-0bb3-41b5-9cb2-6d0af2d6ff78" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="verbal-locution">
+									
 									<term>A băga a samă</term>
 								</re>
 								<ptr type="trimitere" target="băga"/>
 							</sense>
 							<sense xml:id="uuid-37fad64b-6715-4f56-8c92-d897ac5437aa" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg> și <seg type="register style" rend="usg">
 											<hi rend="italic">pop.</hi>
 										</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+									
 									<term>A-bușile</term>
 								</re>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+									
 									<term>A-busălea</term>
 								</re>
 								<def xml:id="id"/>
@@ -1731,23 +1731,23 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-09b956e0-fecb-4393-a2e9-1c8f2f6c1da9" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+									
 									<term>De-a bușile</term>
 								</re>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>De-a bușa</term>
 								</re>
 								<def xml:id="id"/>
 								<ptr type="trimitere" target="buș"/>
 							</sense>
 							<sense xml:id="uuid-a56e35df-5303-4bbe-9da3-b7986cdf5e83" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+								<re type="unitate-semantică-subsumată" subtype="phrase">
+									
 									<term>De-a fir a păr</term>
 								</re>
 								<def xml:id="id"/>
@@ -1988,11 +1988,11 @@
 						</sense>
 						<sense xml:id="uuid-d9393560-5689-4009-ac68-a9782a7bf3d3" n="9.">
 							<sense xml:id="uuid-29ddc31f-fdfa-45f6-87f5-c6868a597a2e" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>A ce?</term>
 								</re>
 								<def xml:id="id">cum se justifică? pentru ce?</def>

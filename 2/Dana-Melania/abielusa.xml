@@ -36,11 +36,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-0d4f4f4f-a144-429e-93c0-8b6b831d8b0f" n="">
 						<sense xml:id="uuid-de4d78aa-f83e-4d5c-9df8-b472d3a51f63" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 								<usg>
 									<seg type="time" rend="usg">Înv.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								
 								<term>D-abieluşa</term>
 							</re>
 							<def xml:id="id">foarte greu</def>

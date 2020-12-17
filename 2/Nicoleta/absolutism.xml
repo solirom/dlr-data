@@ -172,8 +172,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-e0b2fb48-b533-4581-9146-434d693ca5eb" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Absolutism luminat</term>
 							</re>
 							<def xml:id="id">regim politic din a doua jumătate a sec. XVIII specific

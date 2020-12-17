@@ -363,17 +363,17 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-4e1dccc6-6d4a-483f-abab-e88090b949b3" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term> A lua în (ori, învechit, întru) stăpânire (sau în posesiune)
                                     (ceva sau pe cineva) = V. şi s t ă ­ p â n i r e (1).</term>
                             </re>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>a lua întru stăpânire (ceva sau pe cineva)</term>
                             </re>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                            <re type="unitate-semantică-subsumată" subtype="unknown">
+                                
                                 <term>a lua în posesiune (ceva sau pe cineva)</term>
                             </re>
                             <def xml:id="uuid-3a39b106-0b94-44e0-9bf4-c613583544e2">a)a deveni proprietar; a se face stăpân. </def>

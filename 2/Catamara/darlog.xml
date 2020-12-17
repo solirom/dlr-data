@@ -110,8 +110,8 @@
                     </sense>
                     <sense xml:id="uuid-97e3961b-2419-48ec-ac15-a8e93f1b3542" n="2.">
                         <sense xml:id="uuid-a2a0e2fc-eee2-4f0b-a5d4-ecf92426c846" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>cal de dârloagă</term>
                             </re>
                             <def xml:id="uuid-f2bfb37b-93c1-4af3-baa0-cb6625c7fd47">Dârlog (2)</def>
@@ -154,8 +154,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-51a108da-0795-4e66-8baf-bf81e1654e12" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>(A fî sau a ajunge, a se băga)
                                 slugă la (sau, neobişnuit, după) dârloagă</term>
                             </re>
@@ -194,8 +194,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A-i pune cuiva dârlogii de
                                 nas</term>
                             </re>

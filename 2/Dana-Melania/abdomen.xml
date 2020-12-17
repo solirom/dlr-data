@@ -65,11 +65,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-725bc846-ead5-45c0-b9bd-d7c43915bed9" n="">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abdomen acut</term>
 							</re>
 							<def xml:id="id">sindrom abdominal cu debut brusc, caracterizat prin
@@ -98,15 +98,15 @@
 							<usg corresp="#uuid-67a2a174-30a7-4bc4-b812-93a6002fe988">
 								<seg type="dom" rend="usg">MED.</seg>
 							</usg>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Abdomen de broască</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abdomen de batracian</term>
 							</re>
 							<def xml:id="id">aspect particular al abdomenului la bolnavii cu ascită
@@ -130,11 +130,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-3df71b6c-2cb7-42f5-852d-9e9c24a40a45" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abdomen în corabie</term>
 							</re>
 							<def xml:id="id">aspect particular al abdomenului, a cărui parte

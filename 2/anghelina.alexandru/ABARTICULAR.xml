@@ -38,8 +38,8 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-4b9b2875-b1eb-47d8-88d2-9206848261b0" n="">
 						<sense xml:id="uuid-9fac087d-3a1b-45bf-9ead-e9ba6235f990" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Reumatism abarticular</term>
 							</re>
 							<def xml:id="id">denumire generică a unor simptome cu evoluţie acută,

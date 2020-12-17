@@ -36,11 +36,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-ae765c72-1440-4946-9cce-93b239fbc71c" n="">
 						<sense xml:id="uuid-df93e1f9-194c-4f8b-b58c-6917b3fb7439" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 								<usg>
 									<seg type="geo" rend="usg">Prin Maram.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								
 								<term>De-abcialuca</term>
 							</re>
 							<def xml:id="id">de abia</def>

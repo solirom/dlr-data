@@ -35,8 +35,8 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-73fff873-a8dd-4faa-b1ef-6ebd78a0f579" n="1.">
 						<sense xml:id="uuid-bb18de00-6c69-4681-83d2-92027bcaa269" n=""/>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="construction"/>
+						<re type="unitate-semantică-subsumată" subtype="construction">
+							
 							<term>asd</term>
 						</re>
 						<def xml:id="uuid-9966fe91-3d2a-419a-9732-a2bbb0d0bce9">def</def>

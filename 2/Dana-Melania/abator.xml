@@ -112,8 +112,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-69945285-151a-4295-a3a0-75829708b271" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+							<re type="unitate-semantică-subsumată" subtype="phrase">
+								
 								<term>A intra la abator</term>
 							</re>
 							<def xml:id="id">a-i veni rândul la examinarea orală.</def>

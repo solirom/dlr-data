@@ -195,15 +195,15 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-e6c4486d-80e5-410d-97b4-7c369b22ec1b" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces cald</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+							<re type="unitate-semantică-subsumată" subtype="unknown">
+								
 								<term>Abces acut</term>
 							</re>
 							<def xml:id="id">abces însoţit de durere cu caracter pulsatil, căldură
@@ -230,11 +230,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-ec0c8f72-2292-4344-83f0-682de2b32dd5" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="unknown">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								
 								<term>Abces rece</term>
 							</re>
 							<def xml:id="id">abces, de obicei tuberculos, cu evoluţie lentă,
@@ -260,11 +260,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-ae7bfba9-93f0-46a1-8f02-241943374f46" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces de lapte </term>
 							</re>
 							<def xml:id="id">abces care complică o infecţie a glandei mamare.</def>
@@ -290,9 +290,9 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-68a4685b-489a-40d5-8b19-236ff2251fe4" n="✧">
-                            <re type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>MED.</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces dentar</term>
 							</re>
                             <def xml:id="id">colecţie purulentă cu punct de plecare dentar,
@@ -316,11 +316,11 @@
 								</bibl>
 							</cit>60</sense>
 						<sense xml:id="uuid-1c505bd2-b916-4787-9d9a-ae4d9b20d1b2" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces alveolar</term>
 							</re>
 							<def xml:id="id">abces situat într-o alveolă dentară. </def>
@@ -343,11 +343,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-5f662fb4-d153-4452-9cc7-bd9a5a2ce738" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces cerebral </term>
 							</re>
 							<def xml:id="id">colecţie purulentă bine determinată, situată la nivelul
@@ -383,11 +383,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-8099e48f-ad0c-4966-afd0-9d3a10e42e47" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces pulmonar</term>
 							</re>
 							<def xml:id="id">proces supurativ provocat de germeni piogeni aerobi,
@@ -422,11 +422,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-8f5d189d-9c12-4ad4-a2fc-499026a73994" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces amigdalian</term>
 							</re>
 							<def xml:id="id">colecţie purulentă dezvoltată în criptele amigdaliene
@@ -441,11 +441,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-9a44aaea-eaf9-42bd-a313-e398c092bb22" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces urinos</term>
 							</re>
 							<def xml:id="id">abces produs prin infiltraţia urinei în ţesutul
@@ -460,11 +460,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-6dc826c4-8ea9-4f4c-bf57-45d11f4b5bee" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abces steril</term>
 							</re>
 							<def xml:id="id">abces al cărui conţinut, după cultură, nu duce la

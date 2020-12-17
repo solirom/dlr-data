@@ -375,20 +375,20 @@
 						</cit>
 					</sense>
 					<sense xml:id="uuid-a19ae2f6-93ed-41c6-9f2b-903861e20006" n="✧">
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
 							<term>A abunda în acest sens</term>
 						</re>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
 							<term>A abunda în sensul acesta</term>
 						</re>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
 							<term>A abunda în sensul cuiva</term>
 						</re>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
 							<term>A abunda în sensul a ceva</term>
 						</re>
 						<def xml:id="uuid-61b0d012-3b73-4997-922a-a6cad0af2b6f">a fi cu totul de

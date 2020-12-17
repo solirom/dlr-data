@@ -45,8 +45,8 @@
 							<case value=""/>
 							<subc value=""/>
 						</gramGrp>
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+						<re type="unitate-semantică-subsumată" subtype="unknown">
+							
 							<term/>
 						</re>
 						<def xml:id="uuid-5b5f80f1-4a05-4177-beb8-b124732feea2"/>

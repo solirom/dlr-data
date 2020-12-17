@@ -121,8 +121,8 @@
 					</sense>
 					<sense xml:id="uuid-ae8d0b45-7a22-45fe-b882-bc00ffd66680" n="2.">
 						<sense xml:id="uuid-fe046556-58ab-4d39-ba37-d1d56b776010" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Limba abisiniană</term>
 							</re>
 							<def xml:id="id">idiom vorbită de abisinieni.</def>
@@ -137,8 +137,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-7062d972-5afa-48d2-aea2-57ffd8ae79bd" n="">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="compound"/>
+							<re type="unitate-semantică-subsumată" subtype="compound">
+								
 								<term>Italo-abisinian</term>
 							</re>
 							<def xml:id="id">care se referă la italieni și la abisinieni.</def>

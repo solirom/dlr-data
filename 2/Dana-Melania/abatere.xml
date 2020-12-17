@@ -212,11 +212,11 @@
 						</sense>
 						<sense xml:id="uuid-58cf9402-d8e4-4749-b90b-863d2b7150dc" n="2.">
 							<sense xml:id="uuid-b7ae5b75-796f-42f6-a1e5-f1f23968a9a9" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">JUR.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abatere disciplinară</term>
 								</re>
 								<def xml:id="id">încălcare de către un salariat a normelor legale,
@@ -482,11 +482,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-7fc3edce-04a0-4e59-a9ef-45cc121e201e" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
                                         <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar </seg>
                                     </usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abatere de la vorbă</term>
 								</re>
 								<def xml:id="id"/>
@@ -577,11 +577,11 @@
 						</sense>
 						<sense xml:id="uuid-dc204c5b-88af-4288-87fd-7bac7bb9c34e" n="8.">
 							<sense xml:id="uuid-86684be2-1179-4420-bb2c-653b9424156a" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">MAR.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abatere în carenă</term>
 								</re>
 								<def xml:id="id"/>
@@ -658,11 +658,11 @@
 						</sense>
 						<sense xml:id="uuid-2dddd05d-13cd-48b1-bb56-a5b1ea75fa70" n="10.">
 							<sense xml:id="uuid-617e4e8e-a18d-456e-bbdb-c9014419e28d" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">ECON.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abatere monetară </term>
 								</re>
 								<def xml:id="id">factor de natură inflaţionistă caracterizat prin
@@ -679,11 +679,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-360bfe26-3a41-4603-b740-a994740f0ac1" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
                                         <seg type="dom" rend="usg">ECON.</seg>, <seg type="dom" rend="usg">ECOL.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Abatere-standard </term>
 								</re>
 								<def xml:id="id">indicator de măsurare a amplitudinii dispersiei
@@ -705,11 +705,11 @@
 									</bibl>
 								</cit>
 							</sense>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ECON.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abatere fiscală</term>
 							</re>
 							<def xml:id="id">parte procentuală din venit, scutită de impozit.</def>

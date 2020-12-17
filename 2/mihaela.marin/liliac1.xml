@@ -40,8 +40,8 @@
                     <sense xml:id="uuid-ef1fe26a-2b26-4abb-8687-125b088613d2" n="1.">
                         <sense xml:id="uuid-a6081ef3-a675-40e8-b2a4-a888f55c5afb" n="a)">
                             <sense xml:id="uuid-53d8d7d1-e029-4721-86a7-ad5824168849" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac nemţesc)</term>
                                 </re>
                                 <def xml:id="uuid-1f57321e-a467-479a-9a35-4db5ce590a96">v. LILIAC
@@ -56,8 +56,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-86c4af32-b48d-42ce-8383-5e0923e55a01" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac roşu)</term>
                                 </re>
                                 <def xml:id="uuid-1847a6d6-6027-4788-bfa8-3b2dc58796a8">v. LILIAC
@@ -72,8 +72,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-0ab98016-de6e-4cbd-8c90-7f007193ea78" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac sălbatic)</term>
                                 </re>
                                 <def xml:id="uuid-11818f94-3800-4e76-b8c0-2b439547a830">v. LILIAC
@@ -128,8 +128,8 @@
                         </sense>
                         <sense xml:id="uuid-e1bafe7f-304d-4ce3-8f33-5b4eb305b0dc" n="b)">
                             <sense xml:id="uuid-9da5298d-9483-45bf-b1bd-2de45be61b42" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac-franţuzesc)</term>
                                 </re>
                                 <def xml:id="uuid-f9b9a7ed-aa60-4cb1-bb58-b0a3d4ff18cc">v. LILIAC
@@ -144,8 +144,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-a910e926-9a63-473a-8e54-abdab2218066" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>( Şi în sintagma liliac nemţesc)</term>
                                 </re>
                                 <def xml:id="uuid-dcd3ab1d-1e5b-4ec6-9368-4ad0366c1075">v. LILIAC
@@ -160,8 +160,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-2398eaf4-e108-459c-8344-5235a9b404cf" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac persan)</term>
                                 </re>
                                 <def xml:id="uuid-ab7d50aa-df16-4be6-a0a8-074067ab1887">v. LILIAC
@@ -197,8 +197,8 @@
                         </sense>
                         <sense xml:id="uuid-a71f40cd-af55-458f-b1e4-d0433379e99e" n="c)">
                             <sense xml:id="uuid-22618fe6-7cc9-43c6-a027-f8ed93c30255" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac nemţesc)</term>
                                 </re>
                                 <def xml:id="uuid-8dbcf3ca-004e-4114-bd0f-2ae7b5917884">v. LILIAC
@@ -225,8 +225,8 @@
                                 </bibl>
                             </cit>
                             <sense xml:id="uuid-2fcf3987-0195-4862-92f6-63a0da4c52c9" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>liliac chinezesc</term>
                                 </re>
                                 <def xml:id="uuid-25d1b031-ca9a-4933-8da1-7eee70f6adb4">v. LILIAC
@@ -243,8 +243,8 @@
                         </sense>
                         <sense xml:id="uuid-8fba3ee8-5822-4758-807b-ef252b843644" n="d)">
                             <sense xml:id="uuid-78f149b9-c3af-46bf-9204-080ebc7640b2" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>(Şi în sintagma liliac românesc)</term>
                                 </re>
                                 <def xml:id="uuid-8eef7d6f-a429-45c5-8d8a-87396fbbd80a"> v. LILIAC
@@ -341,8 +341,8 @@
                     </sense>
                     <sense xml:id="uuid-98a3c726-9bc8-4e5a-ad7e-9312e02d3d4b" n="2.">
                         <sense xml:id="uuid-9fb239c7-c029-406b-8cee-2fa74648be49" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>(Şi în sintagma liliac de munte)</term>
                             </re>
                             <def xml:id="uuid-40d47d3f-9234-4e56-a7f4-e5322fa903a7">v. LILIAC
@@ -415,8 +415,8 @@
                     <sense xml:id="uuid-55511f3f-671c-4956-ba9c-ac2cc325fa19" n="6.">
                         <sense xml:id="uuid-7bfef34c-e4fb-4389-afe7-25fb6246d370" n="a)">
                             <sense xml:id="uuid-adb406ad-51ed-42f5-9628-9f2cf38e686b" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <re type="unitate-semantică-subsumată" subtype="compound">
+                                    
                                     <term>(Şi în forma liliac-de-câmp)</term>
                                 </re>
                                 <def xml:id="uuid-c6ed550f-af41-4311-a0c7-941522447b81">v. v. LILIAC
@@ -431,8 +431,8 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-8d2c1e6e-42ec-4df9-a954-3ebfcfc2c95b" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <re type="unitate-semantică-subsumată" subtype="compound">
+                                    
                                     <term>(Şi în forma liliac-de-toamnă) </term>
                                 </re>
                                 <def xml:id="uuid-fb38bff3-338f-4c8f-b84a-9b068a193f35">v. LILIAC
@@ -446,8 +446,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-sălbatic</term>
                             </re>
                             <def xml:id="uuid-3797b1a6-b572-4bd9-b7b9-626d5763f75b">albăstrică
@@ -463,8 +463,8 @@
                         </sense>
                         <sense xml:id="uuid-db2e175c-ad6d-4a8e-949d-8fe46106ab07" n="b)">
                             <sense xml:id="uuid-97da287f-1f39-4cb0-b9d2-9b226e80c488" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <re type="unitate-semantică-subsumată" subtype="compound">
+                                    
                                     <term>liliac-de-pădure</term>
                                 </re>
                                 <def xml:id="uuid-0797a53f-df9b-4294-b122-e7dfffa88109">v. LILIAC
@@ -478,8 +478,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-sălbatic</term>
                             </re>
                             <def xml:id="uuid-b374c6d5-0802-4641-a287-fd32877ec7a4">tulichină
@@ -495,8 +495,8 @@
                         </sense>
                         <sense xml:id="uuid-2006941e-c5d1-49d4-841e-3634087b9682" n="">
                             <sense xml:id="uuid-aab0fd79-3ffd-485d-9d70-c3edf23c154a" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                <re type="unitate-semantică-subsumată" subtype="compound">
+                                    
                                     <term>(sau liliac-franţuzesc)</term>
                                 </re>
                                 <def xml:id="uuid-60beaa58-de2b-4519-82d7-59af3d937b05">v.
@@ -510,8 +510,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-de-grădină</term>
                             </re>
                             <def xml:id="uuid-307c18d9-659e-4c3c-bef3-8e2274b71dc4">nopticoasă
@@ -526,8 +526,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-60d7c0ec-7d12-4428-b1d7-87e84818dcba" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-nemţesc</term>
                             </re>
                             <def xml:id="uuid-d3cb8de3-3487-41d2-8bcd-65f8ffec3d5b">brumărele (Phlox
@@ -542,8 +542,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-c08bb0d1-09cb-40ee-93de-71263afd6454" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-galben</term>
                             </re>
                             <def xml:id="uuid-d199d5b1-3ade-41f9-9704-24657c8b63e7">cuişoare (Ribes
@@ -561,8 +561,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-9ce587de-51af-4ee7-a2d5-95f91edfcef6" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>liliac-de-mare</term>
                             </re>
                             <def xml:id="uuid-bd5235b4-9939-49ba-bfa7-428374aaef1d">crin de toamnă

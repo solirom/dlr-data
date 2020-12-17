@@ -45,8 +45,8 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-1631e269-6b0d-4f20-aafa-e0fccaad858e" n="1."/>
 					<sense xml:id="uuid-8130571d-cfa2-42e2-a2ea-1bcfa15f5ef0" n="">
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+						<re type="unitate-semantică-subsumată" subtype="unknown">
+							
 							<term/>
 							<term type="etym" targetLang="sq" subtype="element.extern-calc">hdg</term>
 						</re>

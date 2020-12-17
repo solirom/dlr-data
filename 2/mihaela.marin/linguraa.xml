@@ -63,8 +63,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-22bdea11-8d39-4b42-ab8e-ea490326cb14" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>(Şi în sintagma) lingură
                                 mare</term>
                             </re>
@@ -79,8 +79,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-d282a1a4-cd71-438a-a3f0-dd43c27daf37" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A începe de la lingură de
                                 lemn</term>
                             </re>
@@ -95,8 +95,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-402f217b-808d-48e8-82f2-01b8be2918b4" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                            <re type="unitate-semantică-subsumată" subtype="saying">
+                                
                                 <term>Unde nu-ţi fierbe oala, nu-ţi
                                 băga lingura!. </term>
                             </re>
@@ -112,8 +112,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ec5c35f4-4628-4ccf-841d-62aa5a3704b9" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Cu lingura (cea mare)</term>
                             </re>
                             <def xml:id="uuid-31e4b2fc-1e25-482e-82bc-0e4fa9c101f7">în cantintate mare,</def>
@@ -141,8 +141,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-8b91bbf0-7a3f-42e4-b5fd-4fa7721f04c3" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A(-i) pune cuiva lingura (sau
                                 lingurile) la (sau în, de) brâu</term>
                             </re>
@@ -164,8 +164,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-039f87bc-bd52-420c-bddf-46c12a7a8d99" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i pune cuiva lingura (sau
                                 lingurile) la gât</term>
                             </re>
@@ -181,8 +181,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-0fdd66ea-1c0c-429b-807b-5937aa3f780d" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i atârna cuiva ligura (sau
                                 lingurile) la (în, de) brâu</term>
                             </re>
@@ -198,8 +198,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a53dad6a-0941-489b-9061-93052ba07749" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i atârna cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
                             </re>
@@ -215,8 +215,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-724e3fe7-24d6-4ac8-93ba-e74940134d8f" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i spânzura cuiva lingura (sau
                                 lingurile) la (în, de) brâu</term>
                             </re>
@@ -233,8 +233,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-94e21c6e-4251-4af2-8753-47d19fea8fa8" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i lega cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
                             </re>
@@ -250,8 +250,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a2d71a28-bea0-4b95-8ca8-8792c0ca4012" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>A-i lega cuiva lingura (sau
                                 lingurile) la (în, de) gât</term>
                             </re>
@@ -267,8 +267,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-553f5213-1389-4391-b225-233bebd1f4b5" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Cu lingura/ cu lingura cea
                                 mare</term>
                             </re>
@@ -284,8 +284,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-252904c4-d4c4-422a-a15a-c9dd67cdfb40" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A mânca banii cu lingura/ a-i
                                 mânca cuiva banii cu lingura/ a-i mânca cuiva aurul cu lingura/a-i
                                 mânca cuiva averea cu lingura</term>
@@ -305,8 +305,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-a11f4869-2755-4a97-a102-eb9b28a1066d" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A mânca averea cu lingura/A
                                 mânca leafa cu lingura</term>
                             </re>
@@ -321,8 +321,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-8c861226-03c2-4616-a112-7860950dc9e5" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A se lăsa de lingură/ A lăsa
                                 lingura</term>
                             </re>
@@ -340,8 +340,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-2f83bf69-8e32-426b-8512-1e69ebc96473" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A fi cât lingura</term>
                             </re>
                             <def xml:id="uuid-b2c63f2b-fb80-4379-84d7-ac646c336534">a fi mic de tot</def>
@@ -416,8 +416,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-59f083e7-fced-4f59-9936-acfcae7df64b" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                            <re type="unitate-semantică-subsumată" subtype="proverb">
+                                
                                 <term>Cu o lingură de miere prinzi
                                 mai multe muşte ecât cu două butoaie de oţet</term>
                             </re>
@@ -456,8 +456,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>Cât ar bea o lingură de apă/cum
                                 ar bea o lingură de apă</term>
                             </re>
@@ -472,8 +472,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-748f1d6b-6de6-4030-bc59-cce4b6208214" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>Să o sorbi într-o lingură de
                                 apă sau ca dintr-o lingură de apă</term>
                             </re>
@@ -492,8 +492,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-50605108-0ce0-4c89-aab3-40681b9ea4ca" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>L-ar sorbi într-o lingură de
                                 apă/L-ar sorbi într-o lingură de sorbitură/L-ar înghiţi într-o
                                 lingură de apă/L-ar înghiţi într-o lingură de sorbitură</term>
@@ -511,8 +511,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ddd5c817-c7bf-478c-a912-e8321fbf3c11" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A împărţi lingură cu
                                 lingură</term>
                             </re>
@@ -551,8 +551,8 @@
                     </sense>
                     <sense xml:id="uuid-b2af54c8-c701-48f1-bd3c-9395f2dd6d76" n="II.">
                         <sense xml:id="uuid-3e48eb55-6368-4f43-b733-e7e7efb8d31b" n="1.">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>(Şi în sintagma) Lingura cea
                                 mare</term>
                             </re>n<def xml:id="uuid-450893d1-104d-4258-ae5c-c09c12dc1cbd">Unealtă de forma unei linguri de dimensiuni
@@ -605,8 +605,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>Lingură de car/lingură de
                                 roţi/lingură mare</term>
                             </re>n<def xml:id="uuid-15139e72-df08-4212-bffd-c692fd26c548">Unealtă de rotărie sau de dogărie
@@ -627,8 +627,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7bce2132-b089-473b-bbf9-4a33a52cda7c" n="3.">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>(Şi în sintagmele) Lingură de
                                 văcălit/ lingură de mătărit/lingură de maltăr</term>
                             </re>n<def xml:id="uuid-552eeef7-f72b-4366-acfe-ec19cf19ed67">Unealtă de zidărie cu care se ia tencuiala.</def>
@@ -675,8 +675,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-37ffd533-8b77-4564-ad12-aefe84356e7a" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>(Şi în sintagma) Lingură de
                                 metezit</term>
                             </re>n<def xml:id="uuid-702eabde-e426-42fd-844c-7633c8202db8">Unealtă de zidărie cu care se netezeşte
@@ -702,8 +702,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-eb9462f4-02a9-403f-93b2-81e82531893a" n="5.">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>Lingură de licărit/lingură de
                                 curăţat</term>
                             </re>
@@ -785,8 +785,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-f820bb7e-e471-437b-a90c-e4b2f7dcf5f7" n="9.">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                            <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                
                                 <term>Lingura pieptului</term>
                             </re>
                             <def xml:id="uuid-7a37be2a-da91-4ff9-815a-cd1a76dd8e3d">furca pieptului</def>
@@ -998,8 +998,8 @@
                     </sense>
                     <sense xml:id="uuid-55c666a6-05fd-4794-b3c7-ff988b2e8268" n="III.">
                         <sense xml:id="uuid-ca8b645e-536f-409b-8c20-035254986aa0" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>Lingura-zânelor/lingura-zânei/lingura-frumoaselor</term>
                             </re>
                             <def xml:id="uuid-b1a9f1d8-a573-43c3-b4fe-9a2a01fabb8e">Numele unei specii de ciuperci lemnoase, de culoare brună-roşcată,
@@ -1037,8 +1037,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-ae210721-4519-4102-bfa3-3cd7fc4f09dc" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>lingura-popii</term>
                             </re>i<def xml:id="uuid-e579883f-9360-47c6-a8f7-95be78404952">popilnic (1) (Asarum europaeum)</def>
                             <usg corresp="#uuid-e579883f-9360-47c6-a8f7-95be78404952">
@@ -1054,8 +1054,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7bec9a35-0149-41c1-abad-8a695742bc1f" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>linura-Maicii-Domnului</term>
                             </re>i<def xml:id="uuid-6bd44483-8c27-4517-9213-f9f0fd906bd7">lingurea (II) (Cochlearia
                                 officinalis)</def>
@@ -1072,8 +1072,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-66c04cd8-28ef-4829-be61-c8fec90bc161" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>lingura-Maicii-Preceşte/lingura-strigoaicei</term>
                             </re>u<def xml:id="uuid-060a0805-7676-4100-becf-85f4aed9d7b5">nume
                                 dat unor specii de bureţi mici neomestibili, de culoare roşiatică
@@ -1094,7 +1094,7 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-1f63dd54-9539-49c6-846c-23aca5479062" n="◊">
-                            <re type="unitate-semantică-subsumată">
+                            <re type="unitate-semantică-subsumată" subtype="">
                                 <term>lingură-vântoasă</term>
                             </re>
                             <def xml:id="uuid-b03c918f-78d0-43c0-8985-c4aac4a4a8e0">nume dat unei specii de ciuperci (<hi rend="italic">Clavaria delphus pistillaris</hi>).</def>
@@ -1111,8 +1111,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-0eb029d8-5604-4305-a1df-ee06c539fc0c" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>lingura-plugului</term>
                             </re>u<def xml:id="uuid-c9fad835-5cdb-4e36-a93e-08994b839b01">nume dat unei plante nedefinite mai îndeaproape.</def>
                             <usg corresp="#uuid-c9fad835-5cdb-4e36-a93e-08994b839b01">
@@ -1128,8 +1128,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-e5d0295d-729c-421f-b5f2-508ab5dbe845" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>lingura-popii</term>
                             </re>o<def xml:id="uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">mormoloc (1)</def>
                             <xr type="syn" corresp="#uuid-c7a1db66-e6d4-486d-a81e-8588f7c9639a">
@@ -1152,8 +1152,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-75dc8cb5-186c-496e-8758-22ecfaec47b4" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                            <re type="unitate-semantică-subsumată" subtype="compound">
+                                
                                 <term>Lingurile-vântului</term>
                             </re>
                             <def xml:id="uuid-e1b440a0-8944-4e89-8515-80daa67b8660">vânturătoare (<hi rend="bold">II 1</hi>).</def>

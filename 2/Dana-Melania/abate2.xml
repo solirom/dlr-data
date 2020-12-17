@@ -353,12 +353,12 @@
 						</sense>
 						<sense xml:id="uuid-89703e0b-5844-45c9-8f48-b7d84f06f76f" n="2.">
 							<sense xml:id="uuid-40402ffe-15a5-4afb-a7bd-69b7404d0233" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="verbal-locution">
+									
 									<term>A se abate de la subiect</term>
 								</re>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="verbal-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="verbal-locution">
+									
 									<term>A se abate din vorbă</term>
 								</re>
 								<def xml:id="id">a face digresiuni.</def>
@@ -855,11 +855,11 @@
 						</sense>
 						<sense xml:id="uuid-072bc503-f665-47f7-b6d5-0084c8eb4927" n="5.">
 							<sense xml:id="uuid-0374bc08-a49b-4fea-8156-b2f378a408fd" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="phrase">
 									<usg>
 										<seg type="geo" rend="usg">Prin nord-estul Olt.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+									
 									<term>Ce ţi-a abătut?</term>
 								</re>
 								<def xml:id="id">Ce ţi-a venit?</def>

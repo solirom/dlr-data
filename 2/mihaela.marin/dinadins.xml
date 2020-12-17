@@ -128,8 +128,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Cu dinadinsul</term>
                             </re>
                             <def xml:id="uuid-729df483-ac01-45ab-ab77-d352bff9b67a"/>
@@ -249,8 +249,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Cu tot dinadinsul</term>
                             </re>
                             <def xml:id="uuid-d24fecf7-b9ab-40b5-ac24-005460a11abd"/>
@@ -315,8 +315,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Mai cu dinadinsul</term>
                             </re>
                             <def xml:id="uuid-dee8aeb6-bf69-4b25-83be-a31beadba007"/>
@@ -344,8 +344,8 @@
                                     </bibl>
                                 </cit>
                             </sense>
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                            <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                
                                 <term>Prin dinadins</term>
                             </re>
                             <def xml:id="uuid-d879b88e-dd0a-4bd9-85fd-e5320f4d71df"/>

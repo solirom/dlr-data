@@ -37,11 +37,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-edbb4c94-54f5-4ca5-a7c1-be2c482748f3" n="1">
 						<sense xml:id="uuid-8654ae60-18d5-446c-b01e-3989eb7cccb8" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="time" rend="usg"> Înv. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Friptură aburită</term>
 							</re>
 							<def xml:id="id">friptură rumenită şi cu miros plăcut.</def>
@@ -55,11 +55,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-cb8df30d-5135-49e4-b987-28c741839610" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="time" rend="usg">Înv. </seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Vin aburit</term>
 							</re>
 							<def xml:id="id">vin tare şi aromatic.</def>
@@ -119,11 +119,11 @@
 						</sense>
 						<sense xml:id="uuid-65194b55-cc59-4301-a00f-a55a421fbd4e" n="✦">
 							<sense xml:id="uuid-d402f07b-ccc4-4f5f-b865-ecd3f502af7e" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="time" rend="usg">Înv.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Faţă aburită</term>
 								</re>
 								<def xml:id="id">faţă înroşită de emoţie</def>
@@ -252,9 +252,9 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-77298e63-fa7a-43ad-8266-2cd8ff4307ae" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="phrase">
 								<usg>(<seg type="gram" rend="usg">Adverbial</seg>) <seg type="coloc" rend="usg">În expr.</seg></usg>
-								<idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+								
 								<term>A dormi aburat </term>
 							</re>
 							<def xml:id="id">a dormi dus sau buştean.</def>

@@ -243,8 +243,8 @@
 					</sense>
 					<sense xml:id="uuid-107cf6c6-2357-49b8-be40-46f95b4ceb40" n="4.">
 						<sense xml:id="uuid-3bbed6b7-faa1-4120-b1ff-1be439353f32" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Scut de ablație</term>
 							</re>
 							<def xml:id="id">dispozitiv construit din materiale speciale care

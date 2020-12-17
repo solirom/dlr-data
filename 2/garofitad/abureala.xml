@@ -39,8 +39,8 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-733af58d-b173-4ee7-97b0-ce0e4c8fea97" n="1.">
 						<sense xml:id="uuid-1fc31710-481d-465a-9976-3efb94bb413a" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adjectival-locution">
+								
 								<term>O abureală de</term>
 							</re>
 							<def xml:id="id">cantitate mică (din ceva).</def>

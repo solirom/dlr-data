@@ -72,8 +72,8 @@
 							<number value=""/>
 						</gramGrp>
 						<sense xml:id="uuid-818a6589-3239-4afd-9420-69647eca5c45" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Limba abazină </term>
 							</re>
 							<def xml:id="id">limbă din familia caucaziană înrudită cu abhaza.</def>

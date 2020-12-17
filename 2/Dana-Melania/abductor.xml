@@ -37,11 +37,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-1d6e602d-3c1f-43b3-b50a-562621d65f3d" n="">
 						<sense xml:id="uuid-a3935932-290f-4606-b643-3b102cd3b85c" n="">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ANAT.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Muşchi abductor</term>
 							</re>
 							<def xml:id="id">muşchi care permite, care realizează mișcarea de
@@ -78,8 +78,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-3c75337b-806c-4844-a716-cff1f3bd5ab9" n="">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Tub abductor</term>
 							</re>
 							<def xml:id="id">tub prin intermediul căruia pot fi absorbite gazele

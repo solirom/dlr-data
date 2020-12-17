@@ -36,9 +36,9 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-cde7d740-498d-41d7-9f9b-7445566811e4" n="">
 						<sense xml:id="uuid-c8bebab1-55cb-4a9d-a18c-c49f774b915a" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="adverbial-locution">
 								<usg><seg type="geo" rend="usg">Reg</seg>.</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+								
 								<term>D-abiuţa</term>
 							</re>
 							<def xml:id="id">cu foarte mare greutate</def>

@@ -39,8 +39,8 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-707b9a2a-d93f-49bc-8c5e-fa86506cc58e" n="">
 						<sense xml:id="uuid-5e154082-a296-4681-b2ab-a99871246c34" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Ablativ absolut</term>
 							</re>
 							<def xml:id="id">construcţie sintactică specifică limbii latine,

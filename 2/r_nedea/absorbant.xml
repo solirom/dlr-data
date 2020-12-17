@@ -52,11 +52,11 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-52036ada-0f07-40c5-a511-fd98540d1e81" n="1.">
 						<sense xml:id="uuid-f41ed5c6-b38b-4e96-afce-1af053a44454" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GEOL.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Puț absorbant</term>
 							</re>
 							<def xml:id="id"/>

@@ -89,8 +89,8 @@
                                         </bibl>
                                     </cit>
                                     <sense xml:id="uuid-1ec7cb51-3ef1-425d-b3aa-5b0a6f5b5b52" n="">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                        <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                            
                                             <term>Cât pui pe limbă</term>
                                         </re>
                                         <def xml:id="uuid-aab0b3f1-702b-4fb5-9ff8-857224ea4e39">foarte puţin</def>
@@ -121,8 +121,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-eaafb5aa-e4ad-492d-9572-d698e8067796" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>limbă neagră</term>
                                     </re>
                                     <def xml:id="uuid-2d9695b5-fe8d-4124-8ecc-517cada1beca">numele unei boli la om, nedefinită mai
@@ -145,8 +145,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-7af814ae-647f-41fc-a05e-95726ed30d10" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase compound">
+                                        
                                         <term>(A
                                             alerga sau a umbla, a veni, a
                                             aştepta etc.) cu limba scoasă
@@ -201,8 +201,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-eed1bd9a-d7e3-43fe-8122-1d250ae8495e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A scoate (sau a-i ieşi
                                         cuiva) limba de-un cot</term>
                                     </re>
@@ -229,8 +229,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-9c10cebc-9d7c-46cc-9cf9-4681fc4024bf" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase compound">
+                                        
                                         <term>A asuda sub limbă</term>
                                     </re>
                                     <def xml:id="uuid-a3e66f81-93ce-4601-baed-34fd83b0ce47">a se plânge că a muncit prea mult, deşi, în realitate,
@@ -249,8 +249,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8fb99ee7-5507-4519-8dfb-1dd924c596c3" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A năduşi sub limbă </term>
                                     </re>
                                     <def xml:id="uuid-ea8a5b2f-f3b9-44b7-9b36-704fe0a4eb7b">a se simţi istovit, ajuns la capătul puterilor.</def>
@@ -269,8 +269,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8c6e5c13-789f-4876-b65f-91983a23f233" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-l trece (pe cineva) apa sub limbă</term>
                                     </re>
                                     <def xml:id="uuid-b1ebd37d-b54c-4a5a-a32d-b03db3817367">a-i fi foarte frig, a fi îngheţat.</def>
@@ -317,8 +317,8 @@
                                             </bibl>
                                         </cit>
                                         <sense xml:id="uuid-c235bb53-c692-493a-bf1e-0e5088ac035f" n="">
-                                            <re type="unitate-semantică-subsumată">
-                                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                                
                                                 <term>A (nu) pune pe limbă (ceva)</term>
                                             </re>
                                             <def xml:id="uuid-78296408-4f83-4fa6-83de-9f46819fb099">a (nu) gusta, a (nu) mânca</def>
@@ -332,8 +332,8 @@
                                             </cit>
                                         </sense>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Nici limba nu-i asudă</term>
                                     </re>
                                     <cit type="unknown">
@@ -345,8 +345,8 @@
                                         </bibl>
                                     </cit>
                                     <sense xml:id="uuid-f12e6c45-18f5-4221-905c-35b4c2e5d578" n="">A scoate limba la (cineva sau
-                                            ceva)<re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                            ceva)<re type="unitate-semantică-subsumată" subtype="phrase">
+                                            
                                             <term>A scoate limba la (cineva sau ceva)</term>
                                         </re>
                                         <def xml:id="uuid-8ac11b80-b5a8-486c-9bc9-368a62d87928">a-şi manifesta dispreţul printr-un gest indecent,
@@ -370,8 +370,8 @@
                                     </sense>
                                 </sense>
                                 <sense xml:id="uuid-34cd9f10-56e8-468e-a915-febb244f467a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Nu-ţi băga limba unde nu-ţi fierbe
                                             oala,</term>
                                     </re>
@@ -388,8 +388,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d918a6b0-25c8-427e-a427-f874c542c25f" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                                    <re type="unitate-semantică-subsumată" subtype="saying">
+                                        
                                         <term>Subţire (sau moale) (de) (poţi) s-o (ori
                                             să-l) tai
                                         (sau spargi) cu limba</term>
@@ -514,8 +514,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2b7de9d8-db21-4f66-bf63-c0c765ea1248" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Limba oase n-are</term>
                                     </re>
                                     <def xml:id="uuid-d8781820-ffed-4a30-8e87-72768fdf2100">poţi spune cuiva ceva, îl poţi sfătui, ştiind însă că
@@ -530,8 +530,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-6672ca4b-13f9-4607-83ca-3a7046221846" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Limba oase n-are, dar (sau şi) oase
                                             sfarmă</term>
                                     </re>
@@ -562,8 +562,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d3f4b1d3-336b-4e81-8d05-b286dbd2fe5a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Limba izbeşte în dintele ce te doare</term>
                                     </re>
                                     <def xml:id="uuid-92facaaf-8a5f-456a-a607-6cdbdbcc3b46">te defăimează unde îţi pasă</def>
@@ -585,8 +585,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8a8ea76e-b5dc-4957-9dfb-9c6b1db60a62" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Toată pasărea pe limba ei piere </term>
                                     </re>
                                     <def xml:id="uuid-568f3004-820e-4e21-8dee-3771db9c8bd9">într-un fel sau altul, fiecare suportă consecinţele
@@ -601,8 +601,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-a7a9d0cd-c9c0-4008-8ada-7b243f12916b" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Frântură (sau frământare) de limbă</term>
                                     </re>
                                     <def xml:id="uuid-a165864b-0ac7-4395-b703-a801b91ed234">vorbire încâlcită, incoerentă;</def>
@@ -625,8 +625,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-33f603e3-edb2-4279-91d6-dd49fb0cb844" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Carte cu limbă de moarte</term>
                                     </re>
                                     <def xml:id="uuid-cddb174d-2bca-4fe5-b592-1a36e347b642">Testament (<hi rend="bold">1</hi>).</def>
@@ -645,8 +645,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d73e5f31-a96c-4e3d-8385-e5bf50bcc686" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă strâmbă</term>
                                     </re>
                                     <def xml:id="uuid-455522bc-6a1b-45eb-9142-34bbecc68a89">Calomnie</def>
@@ -663,8 +663,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-b9cf4bde-925e-45b2-b656-58edf1182b6e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Răsura limbii</term>
                                     </re>
                                     <def xml:id="uuid-a1bdcb41-e83a-40a5-8e87-38e1b87449a5">amendă aplicată celui găsit vinovat de calomnie.</def>
@@ -712,8 +712,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(A
                                             avea) limbă lungă sau (a fi) lung de (ori
                                             la, în) limbă
@@ -731,8 +731,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8b5df284-f0a0-4f3b-9be7-350d200c2308" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(A
                                             fi sau a avea) limbă (foarte) ascuţită (ori veninoasă, otrăvită, rea, neagră, de şarpe)</term>
                                     </re>
@@ -748,8 +748,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d0be768f-0a85-4a09-af05-eab5e35d1828" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                    <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                        
                                         <term>Cu limbă înveninată (sau veninoasă) </term>
                                     </re>
                                     <def xml:id="uuid-30982511-87fd-4ca4-9a7f-9677a5a260b4">(în legătură cu verbe ca „a spune”, „a ponegri” etc.)
@@ -765,8 +765,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-7d7dbc14-dce6-4171-ae74-c2515eb00fc8" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A înţepa cu limba ori (regional) a avea ţepi (sau piper
                                             pe, aguridă sub) limbă</term>
                                     </re>
@@ -834,8 +834,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(A
                                             fi) slobod la limbă (sau limbă slobodă) ori a
                                             avea limba dezlegată</term>
@@ -851,8 +851,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-691af351-fd41-4d1c-b336-f5087916b9b8" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i muşca (sau a-1
                                         fura) (pe cineva) şarpele de limbă</term>
                                     </re>
@@ -867,8 +867,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-6d98a19d-db4c-4dc3-a092-ce6e24a373f0" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi cu două limbi sau a avea (mai) multe limbi</term>
                                     </re>
                                     <def xml:id="uuid-4e1c26c1-63e0-4331-9c96-e5891ad5624e">a fi mincinos, ipocrit, faţarnic</def>
@@ -898,8 +898,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d60bbd65-c55d-426c-a329-9dc70c3504b5" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fl iute de
                                         limbă</term>
                                     </re>
@@ -914,8 +914,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e487f44f-ecb8-4e69-8c89-e6928805fab4" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A avea limba ascuţită sau a-i umbla limba cu ascuţime</term>
                                     </re>
                                     <def xml:id="uuid-ba91302b-9435-4858-ad58-7c672b1f6137">a fi înzestrat cu însuşirea de a vorbi convingător,
@@ -932,8 +932,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-1608292f-bd77-467b-a558-570f245a4e72" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i sta (sau a-i)
                                             umbla pe limbă</term>
                                     </re>
@@ -976,8 +976,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi muşca limba (sau, învechit, i n t
                                         r a n z. la limbă) </term>
                                     </re>
@@ -1025,8 +1025,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi înghiţi limba</term>
                                     </re>
                                     <def xml:id="uuid-260d8b6e-3a13-4ce2-8bd5-3fcac3f6c827"/>
@@ -1040,8 +1040,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-44b6edd3-5c83-4f29-b873-87181112aeca" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi ţine (sau a-şi
                                             băga) limba (în gură)</term>
                                     </re>
@@ -1089,8 +1089,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi pune frâu Ia limbă (sau limbii) ori a-şi
                                             înfrâna (sau a-şi struni) limba</term>
                                     </re>
@@ -1105,8 +1105,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-03e44c89-433a-4ea8-b7ae-b600fa940dc5" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A trage (pe cineva) de
                                             limbă</term>
                                     </re>
@@ -1126,8 +1126,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-c0af13b4-3fb0-49c1-9d64-7a803352ab37" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A (i) (se) dezlega (cuiva) limba sau a se
                                             dezlega (ori a prinde) la limbă sau a prinde
                                             limbă </term>
@@ -1175,8 +1175,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A (i) (se) dezlega (cuiva) limba </term>
                                     </re>
                                     <def xml:id="uuid-7864cb1f-dc69-4487-afbe-6c20a8f4f3f8"/>
@@ -1190,8 +1190,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-c30ebc4a-b310-465f-91e5-22304cf67487" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi bate limba (în
                                             gură de pomană) sau a-şi toci
                                             limba ori a bate limba (cuiva)</term>
@@ -1208,8 +1208,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2b09b7ea-990c-44bc-980c-082c3bfedaee" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i merge (cuiva) limba
                                             ca o moară stricată (sau de
                                             vânt) ori a-i toca (cuiva) limba în gură sau a-i
@@ -1240,8 +1240,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d57cf784-2e74-4597-a008-ff40b1df885c" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A avea mâncărime (sau, regional, mâncărici, mâncătură) la (sau de) limbă ori a avea vierme (sau,
                                         regional, gâdilici)la limbă sau a-l
                                             mânca (ori a-l arde) limba sau (regional) a-l frige limba (ori la
@@ -1291,8 +1291,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A (i) se lega (cuiva) limba (în gură) sau a-i pieri
                                         (ori a-i îngheţa, a i se lua, a i se
                                             scurta, a i se îngroşa, a i se încurca) (cuiva) limba</term>
@@ -1308,8 +1308,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2c421904-8961-41d0-b656-57992ff89314" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i lega (sau a-i
                                             scurta, a-i tăia) (cuiva) limba ori a lega (pe cineva)
                                             de limbă</term>
@@ -1327,8 +1327,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-ca9c7e5e-8211-48aa-b1bb-3990835c6128" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A (i) se încurca (sau a
                                             i se împiedica) (cuiva) limba (în
                                             gură ori la vorbă)</term>
@@ -1345,8 +1345,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e4af709d-bcf4-49bf-85c9-7c7788e9b37e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A avea limba
                                         legată</term>
                                     </re>
@@ -1361,8 +1361,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-30bbde8d-1ddd-4d8c-97bd-3c42206ba133" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A nu avea limbă în gură (sau de grăit)</term>
                                     </re>
                                     <def xml:id="uuid-8a4f72b3-90e8-4537-8e8d-2891ebd7b148">a nu putea, a nu voi sau a nu îndrăzni să vorbească,
@@ -1377,8 +1377,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-41243dc9-b4c8-48c2-9fe9-40789a0026f9" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i fî (cuiva) limba
                                             legată</term>
                                     </re>
@@ -1397,8 +1397,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-51e59230-f3b6-42e5-ab8c-b0620161bed7" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fî împiedicat la limbă (sau, popular,
                                             cu limba împiedicată) </term>
                                     </re>
@@ -1439,8 +1439,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(A fi) limbă Iată</term>
                                     </re>
                                     <def xml:id="uuid-cd331263-f850-41ae-8792-0a89fe450a34"/>
@@ -1457,8 +1457,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-78f0d5c2-1fac-4d0c-805d-b73ded9ba6d6" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vorbi (sau a grăi) în
                                             vârful limbii (sau în, pe
                                             limbă) sau a-i fi (cuiva) limba împiedicată</term>
@@ -1477,8 +1477,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-ce5b0eb5-e9e6-43c0-84ae-746eac357743" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi pişcat (sau
                                             înţepat) la limbă sau a fi prins de
                                             limbă</term>
@@ -1497,8 +1497,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-6781d217-59e6-4521-a32d-453fc2ac5d31" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A avea păr pe limbă </term>
                                     </re>
                                     <def xml:id="uuid-c798d10b-f1a6-404e-b1af-a3c47c479dd1">a fi lipsit de educaţie, necioplit; a fi prost.</def>
@@ -1515,8 +1515,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-4424be1e-bf54-400d-bc11-34f7c8a3bb59" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(A
                                             avea) limbă de aur</term>
                                     </re>
@@ -1532,8 +1532,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-4c06a742-b790-4ebe-bba3-7baeec48202e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi cu limba fagur de miere</term>
                                     </re>
                                     <def xml:id="uuid-ed6f3621-e656-4f29-ba63-c902dd249267">a vorbi foarte frumos, a fi elocvent</def>
@@ -1547,8 +1547,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d973726d-5cdd-494d-b9dc-b54d6f705a10" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Puşchea pe limbă-ţi sau puşchea-ţi pe limbă</term>
                                     </re>
                                     <def xml:id="uuid-dad8a0b1-53ea-4c1d-9939-65b2adda4c5a">se spune celui care vorbeşte despre ceva neplăcut,
@@ -1568,8 +1568,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-cbf46c67-6081-4587-aa1c-9f9cf7ce4c8e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                                    <re type="unitate-semantică-subsumată" subtype="saying">
+                                        
                                         <term>I se bate limba-n gură ca calicii la
                                             pomană,</term>
                                     </re>
@@ -1585,8 +1585,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-6e968b75-8a9e-4a38-bb78-1d031c78db1d" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                                    <re type="unitate-semantică-subsumată" subtype="saying">
+                                        
                                         <term>Parcă-I trage cineva de limbă,</term>
                                     </re>
                                     <def xml:id="uuid-96e6e476-3890-417e-8dbb-d8caf94d6b9b">se spune despre cineva care vorbeşte mult, neputând să
@@ -1601,8 +1601,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-800cfdb1-b9f1-477a-8259-a3ba11f66301" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Nu i-a (sau nu
                                             mi-a etc.) tors mama (sau mamă-sa, mă-sa) pe
                                             limbă</term>
@@ -1619,8 +1619,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e125cd3d-9135-4680-a62a-e5f289f9f48d" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-şi toarce pe limbă</term>
                                     </re>
                                     <def xml:id="uuid-34bc754c-e0d7-4943-9426-3d7e6babf737">a se gândi bine înainte de a vorbi, de a spune
@@ -1636,8 +1636,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-428f2ef4-3ff9-4631-bf7f-f6f59f8fd304" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>(Spune,
                                             suduie etc.) cum îi vine (sau
                                             ce-i vine) pe
@@ -1657,8 +1657,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-1c456a4d-7f60-44aa-a110-c0ee4ee3a463" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Îmi umblă prin limbă (sau pe vârful limbii) ori îmi vine (sau îmi stă) pe limbă (şi nu pot să
                                             spun)</term>
                                     </re>
@@ -1675,8 +1675,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-6fe59df3-c186-46bd-8c83-94585fe28cff" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A-i sta (cuiva) pe
                                             limbă (ceva) </term>
                                     </re>
@@ -1714,8 +1714,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>L-au muşcat albinele (sau l-a muşcat albina) de
                                             limbă</term>
                                     </re>
@@ -1733,8 +1733,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-20475e66-1149-451e-b381-87e762999989" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Gură am (sau ai,
                                             are etc.) (şi) limbă n-am
                                             (ori n-ai, n-are etc.) </term>
@@ -1751,8 +1751,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-cf7a6bd6-cedb-4840-b2f0-9cab4d1af902" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Inima o are pe limbă sau ce-i pe inimă aceea-i şi pe limbă ori
                                             ce are-n suflet are şi pe limbă,</term>
                                     </re>
@@ -1776,8 +1776,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-62a6ea79-cd01-4318-91d3-717d0fb4d525" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="proverb"/>
+                                    <re type="unitate-semantică-subsumată" subtype="proverb">
+                                        
                                         <term>Zici din gură că-ţi sânt dragă, limbă plină
                                             de otravă sau dulce la limbă, amar
                                             la inimă,</term>
@@ -1801,8 +1801,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-fe0b3875-f8ea-431b-adc6-bad149331919" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="adverbial-locution"/>
+                                    <re type="unitate-semantică-subsumată" subtype="adverbial-locution">
+                                        
                                         <term>Cu (sau prin)limbă (ori limba, grai)
                                             de moarte</term>
                                     </re>
@@ -1823,8 +1823,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-736d1e8c-95ee-4657-ba0e-6de66d2a665a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A da limbă (prin ţară)</term>
                                     </re>
                                     <def xml:id="uuid-65110d39-6510-474a-84b8-eae2e295f01f">a da de veste tuturor, a face să se ştie pretutindeni. </def>
@@ -2289,8 +2289,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-bouîui</term>
                                     </re>
                                     <def xml:id="uuid-dc4d1b7b-5ab4-4b45-8b3f-e861b2397d00"/>
@@ -2433,8 +2433,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-cerbului</term>
                                     </re>
                                     <def xml:id="uuid-79d45cc6-455f-4c22-8ab1-77eebb8cc1da"/>
@@ -2613,8 +2613,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-cucului</term>
                                     </re>
                                     <def xml:id="uuid-9e205b9b-98f7-4366-ba46-f48511173406"/>
@@ -2692,8 +2692,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-mării</term>
                                     </re>
                                     <def xml:id="uuid-9e2cd716-0551-4b61-a029-1a443430b661"/>
@@ -2787,8 +2787,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-mielului</term>
                                     </re>
                                     <def xml:id="uuid-b56c80bb-30b3-47fc-9919-b22394863f92"/>
@@ -2805,8 +2805,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-7e67f9b5-5d9f-4b34-acfd-adfebe0ca13b" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-oii</term>
                                     </re>
                                     <def xml:id="uuid-037b1d05-58ee-4f2b-bc81-4f4e2941a292"/>
@@ -2864,8 +2864,8 @@
                                         </cit>
                                     </sense>
                                     <sense xml:id="uuid-179af504-3f4c-4453-ad1f-60bbcde65a12" n="c">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                        <re type="unitate-semantică-subsumată" subtype="compound">
+                                            
                                             <term>și limba oii cea
                                             amară</term>
                                         </re>
@@ -2989,8 +2989,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>sau
                                             limba oaiei</term>
                                     </re>
@@ -3064,8 +3064,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba peștelui</term>
                                     </re>
                                     <def xml:id="uuid-7971d91f-11fe-40c9-94e5-71f863010794"/>
@@ -3122,8 +3122,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba soacrei</term>
                                     </re>
                                     <def xml:id="uuid-859bf082-f7ae-4474-871d-466ad1f8304f"/>
@@ -3261,8 +3261,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba șarpelui</term>
                                     </re>
                                     <def xml:id="uuid-65a9104a-5730-4b3c-b5b5-e622be031ec9"/>
@@ -3279,8 +3279,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-eb98f7cc-bdd9-4b43-91f1-624a807e239d" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-vrăbiei</term>
                                     </re>
                                     <def xml:id="uuid-0c7fde7f-52af-4f9c-9d89-12806845cafa">mică plantă erbacee anuală, cu frunze
@@ -3345,8 +3345,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-apei</term>
                                     </re>
                                     <def xml:id="uuid-9e24a879-cb04-4652-9013-bd61933d8116"/>
@@ -3364,8 +3364,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-3e052f5b-e532-4295-a4fd-5ce0604fa920" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-bălţii</term>
                                     </re>
                                     <def xml:id="uuid-cb5dd110-d780-451d-a383-4eb42d1dcbf1"/>
@@ -3383,8 +3383,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-f99d92fa-cfef-4197-a8eb-d8d58f1a4af7" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>sau limba
                                         bălților</term>
                                     </re>
@@ -3411,8 +3411,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-4c636ac2-533b-4328-8ba1-d59127517f49" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-boierului</term>
                                     </re>
                                     <def xml:id="uuid-0ac88570-cf65-4bc7-b875-6ed1e3f57c07">barba-boierului (Aiuga laxmanni).</def>
@@ -3480,8 +3480,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-broaştei </term>
                                     </re>
                                     <def xml:id="uuid-d9da691e-fd01-41f8-b498-f4b5255dee5f"/>
@@ -3499,8 +3499,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-1e904094-85a9-424d-a654-d47a5e123b78" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-caprei</term>
                                     </re>
                                     <def xml:id="uuid-4c5129c4-50ba-4028-990f-0dc2d911e499">nume dat unei specii de lăptucă.</def>
@@ -3518,8 +3518,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-c9e2ff78-35a5-43b9-b8b6-cb0ab7252ccd" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-căii</term>
                                     </re>
                                     <def xml:id="uuid-853c79fc-0ef0-4cb0-9d08-db483fd27d78">arăriel (Cynoglossum officinale)</def>
@@ -3545,8 +3545,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-95e2765c-804e-4c73-8c5e-94ede021d0c6" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-căţelei</term>
                                     </re>
                                     <def xml:id="uuid-ae87c724-e86d-4eb2-9b35-2fcdd054e9d6">nume dat unei plante nedefinite mai îndeaproape.</def>
@@ -3650,8 +3650,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-câinelui</term>
                                     </re>
                                     <def xml:id="uuid-34e56420-2b79-479e-bfcf-dd6343d51a12"/>
@@ -3669,8 +3669,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2aea1ae4-ef11-41c5-8176-d7efaae9eca9" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-gâştei</term>
                                     </re>
                                     <def xml:id="uuid-4d36502a-2167-4710-99a0-3587992183e0">bob-de-ţarină (Lathyrus sylvester)</def>
@@ -3689,8 +3689,8 @@
                                 </sense>
                                 <sense xml:id="uuid-2b128aad-ab0f-48fc-a84e-0d2783982ccd" n="">
                                     <sense xml:id="uuid-9ee6bae7-bef7-4d74-92c1-8b28201aca24" n="a">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                        <re type="unitate-semantică-subsumată" subtype="compound">
+                                            
                                             <term>și
                                             limba-vecină</term>
                                         </re>
@@ -3758,8 +3758,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-vecinei</term>
                                     </re>
                                     <def xml:id="uuid-c0a4e945-d577-4e3c-9f65-1c2d68a787f1"/>
@@ -3777,8 +3777,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-a5a9f1ec-a934-470c-8201-f758f9fb881c" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-mânzului</term>
                                     </re>
                                     <def xml:id="uuid-80a03221-a8be-4f5c-9a86-46e1da9cbf12">pătlagină (Plantago media)</def>
@@ -3796,8 +3796,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0cf15a30-d000-44bf-8ec8-c1348bf32a07" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-păsării</term>
                                     </re>
                                     <def xml:id="uuid-21788738-1c74-4569-8c95-ae850de24bfb">liliuţă (Anthericum ramosum)</def>
@@ -3815,8 +3815,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2211ddfc-51ad-4fca-b9d0-d778a38103ad" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-păsăricii</term>
                                     </re>
                                     <def xml:id="uuid-ec49be3b-1333-41b1-b9b3-345249e804b0">torţei1 (1)</def>
@@ -3846,8 +3846,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-5095f2f6-3c7d-43fd-8891-20af508d1c08" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-răţoiului</term>
                                     </re>
                                     <def xml:id="uuid-513b1cb9-2735-4240-9f52-12bb29a0db8a">nume dat unei plante nedefinite mai îndeaproape.</def>
@@ -3866,8 +3866,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-4cdc3b09-245a-4686-9214-6ad27e441766" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-şopârlei</term>
                                     </re>
                                     <def xml:id="uuid-2b887fe3-28dd-48ab-987e-1829027bec9f">dornic (Falcaria vulgaris)</def>
@@ -3885,8 +3885,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d62b9e18-00ac-4d67-96c4-1dd2c0f10852" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-ţigăncii</term>
                                     </re>
                                     <def xml:id="uuid-f721eb68-f99b-44bd-9d6c-d8924116f047">nume dat unei plante nedefinite mai îndeaproape.</def>
@@ -3975,8 +3975,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limba-vacii</term>
                                     </re>
                                     <def xml:id="uuid-5953d2cb-a4e3-48a6-8951-f6e26bac1dd6"/>
@@ -3994,8 +3994,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-72e5ccf0-7881-40c9-8a3c-8eb8c210c15d" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limbă-de-piatră</term>
                                     </re>
                                     <def xml:id="uuid-247aeb18-a2ee-49ae-b8d8-f75d47da819a">foaie-grasă (Pinguicula vulgaris)</def>
@@ -4013,8 +4013,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-ae7951b6-5383-44d7-b17c-ab5a6d98709a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="compound"/>
+                                    <re type="unitate-semantică-subsumată" subtype="compound">
+                                        
                                         <term>limbă-de-mare</term>
                                     </re>
                                     <def xml:id="uuid-5c576935-09ec-4cdc-be12-9845c1aacd65">peşte teleostean marin cu corpul oval, puternic turtit
@@ -4089,8 +4089,8 @@
                             </sense>
                             <sense xml:id="uuid-989a22f3-b9b9-497c-be6f-029706b25681" n="2.">
                                 <sense xml:id="uuid-886e4a6b-7154-4e86-a857-b97cbf39e653" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă naturală</term>
                                     </re>
                                     <def xml:id="uuid-3976c495-676c-4fa5-b386-33fa858ddb76">limbă (A III 2)</def>
@@ -4110,8 +4110,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-b5e74bc5-1bba-4a5c-a5a0-0c58fc89158d" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă flexionară</term>
                                     </re>
                                     <def xml:id="uuid-54badcb2-e23c-4d4d-8c4a-c471e5682bd5">limbă (A III 2) în care raporturile gramaticale se
@@ -4130,8 +4130,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-67827050-5743-4366-8d38-4985b6bf19f5" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă
                                         aglutinantă</term>
                                     </re>
@@ -4149,8 +4149,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-105f9ad0-de7a-42e7-b419-b8a40e8609c8" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă izolantă</term>
                                     </re>
                                     <def xml:id="uuid-e5d54679-ec36-48e6-bb3b-eac2b7553626">limbă (A III 2) care foloseşte mai ales procedee
@@ -4167,8 +4167,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-357b14fd-3fe4-41b4-b81e-c36a1887475d" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă analitică</term>
                                     </re>
                                     <def xml:id="uuid-3b6cfe37-b202-4ef8-9481-76831e44fe78">limbă (A III 2) flexionară în care raporturile
@@ -4185,8 +4185,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-572a5b48-621d-4905-8ac1-1d91bbf17734" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă sintetică</term>
                                     </re>
                                     <def xml:id="uuid-bc0e9768-a7a6-41d8-ae53-d84a1317de4a">limbă (A III 2) flexionară în care raporturile
@@ -4202,8 +4202,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-cd5ad5e5-0a62-49d6-b7d7-91cc16e4fb3f" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă maternă</term>
                                     </re>
                                     <def xml:id="uuid-db1687d5-2f00-46cd-94b5-478846c090f0"/>
@@ -4217,8 +4217,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d78f23d1-1569-4a0e-b13b-c7ee92981564" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limba-mumă</term>
                                     </re>
                                     <def xml:id="uuid-eb48e783-91e6-42f7-93a3-3bcb7469459d"/>
@@ -4236,8 +4236,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-c3384845-4042-429b-a6bf-6dfae5ae51bd" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limba maicei</term>
                                     </re>
                                     <def xml:id="uuid-8f46322a-d183-4aa0-81c8-8a078c1c8643">limbă (A III 2) pe care o învaţă cineva în prima
@@ -4256,8 +4256,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e2f75639-828f-47fa-827f-0231523852d7" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term> Limbă-bază</term>
                                     </re>
                                     <def xml:id="uuid-037bacf6-7a7e-45aa-8e23-935565edbcdb"/>
@@ -4271,8 +4271,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-baf0b441-f293-4a54-9561-9dae33c60d65" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă-mamă</term>
                                     </re>
                                     <def xml:id="uuid-1055daa9-59cc-4f6a-8729-c0c86d40b906"/>
@@ -4286,8 +4286,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-a7e570a9-09c5-4439-8a29-c3e8132a886a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>ori limbă de
                                         bază</term>
                                     </re>
@@ -4303,8 +4303,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-aabf1465-f8f0-4d74-b1cf-317a7bf92b5c" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă modernă</term>
                                     </re>
                                     <def xml:id="uuid-8eb00cc0-bf84-4f1a-96d9-3952fbe84dbe">imbă (A III 2) vorbită în zilele noastre sau într-o
@@ -4321,8 +4321,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-cf1c1a4a-56c8-492a-ab1b-5019422e542f" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă clasica</term>
                                     </re>
                                     <def xml:id="uuid-c99a84c2-63fd-47b8-916a-ee3df8ad4397">limbă (A III 2) care aparţine Antichităţii
@@ -4344,8 +4344,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d919685d-6651-462c-a71c-4e708a143872" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă vie</term>
                                     </re>
                                     <def xml:id="uuid-01990791-d315-4c62-a487-eb19f42021c3">limbă (A III 2) care se vorbeşte în mod curent, care
@@ -4360,8 +4360,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-a532b1e9-bb47-4b1b-bbfc-8d1c3564b855" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă moartă</term>
                                     </re>
                                     <def xml:id="uuid-68c60f98-1835-499e-b3fd-3f58400cb9e2">limbă (A III 2) păstrată numai în scris.</def>
@@ -4376,8 +4376,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-7787cc5d-2289-4263-8643-6ab510e115aa" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă naţională</term>
                                     </re>
                                     <def xml:id="uuid-d8b2cdd7-66d0-47c7-8628-059f70723534"/>
@@ -4391,8 +4391,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-43aad998-77b3-4e47-b7b7-d8e04d20a381" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau
                                         naţionalicească</term>
                                     </re>
@@ -4411,8 +4411,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0406c2a9-2e9c-45e4-8e0d-8e0abdfe68f3" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>ori limba maicii
                                         patrie</term>
                                     </re>
@@ -4432,8 +4432,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2ead707d-1f35-4aef-9875-c32841b4f629" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă de stat</term>
                                     </re>
                                     <def xml:id="uuid-e4e07795-4384-4b7b-a535-7c97fcdb44cf"/>
@@ -4447,8 +4447,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-85e66e71-948b-4a00-9f80-19d5837cb90b" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă
                                         oficială</term>
                                     </re>
@@ -4463,8 +4463,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-9eca84a2-0b63-41bf-a9ad-e44bfeba9f99" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>limbă oficioasă</term>
                                     </re>
                                     <def xml:id="uuid-c1ad21da-a9b9-4a66-bd0e-885f60f61d48">limbă (A III 2) utilizată în administraţia unui stat
@@ -4485,8 +4485,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-ecac220f-b902-4320-b2c5-67b307b67cd6" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vorbi aceeași limbă
                                         (cu cineva)</term>
                                     </re>
@@ -4501,8 +4501,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e9b34900-93b3-40c8-a469-fa2f38e4ad40" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vorbi tot aceeași
                                         limbă (cu cineva)</term>
                                     </re>
@@ -4517,8 +4517,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-eddd6d07-014a-40bc-975f-5430b9167719" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vorbi tot o limbă (cu
                                         cineva)</term>
                                     </re>
@@ -4538,8 +4538,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-eee9bd48-a890-48d6-bd50-d202fbcd4bb9" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vorbi limbi
                                         diferite</term>
                                     </re>
@@ -4557,8 +4557,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-af9e8ba0-6b3b-4905-a8a6-6f81a336437b" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă
                                         chinezească</term>
                                     </re>
@@ -4617,8 +4617,8 @@
                             </sense>
                             <sense xml:id="uuid-b3fa3528-8770-449f-a440-367ade815286" n="4.">
                                 <sense xml:id="uuid-829af4f7-2531-47da-996b-143ddf3882ee" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă comună</term>
                                     </re>
                                     <def xml:id="uuid-a935dce7-49e8-4046-bf21-4d1cd52fc3a7"/>
@@ -4663,8 +4663,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă
                                         obștească</term>
                                     </re>
@@ -4682,8 +4682,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-7546a40e-d339-450b-b17f-cabbf3e6aa2b" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă veche </term>
                                     </re>
                                     <def xml:id="uuid-dac42ff0-8ee9-4d09-a177-e6634d05dd81">limbă (A III 2) vorbită în perioadele din trecut,
@@ -4699,8 +4699,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-afd397c4-8c9f-4b8a-9409-a163a13db381" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă literară</term>
                                     </re>
                                     <def xml:id="uuid-dd7a8bad-01bd-4370-a843-acab249441f2">v. literar.</def>
@@ -4717,8 +4717,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-4eb4bc57-de5a-4875-af3a-fe6198a04037" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă populară</term>
                                     </re>
                                     <def xml:id="uuid-0325a92b-92c7-4159-87e3-6bc05a5798b1"/>
@@ -4732,8 +4732,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-f7d96bef-72f4-4646-9a42-423a825ed958" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă
                                         poporală</term>
                                     </re>
@@ -4751,8 +4751,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-da5973e7-9d8a-444f-b1fc-3d16d988e64a" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă
                                         vulgară</term>
                                     </re>
@@ -4767,8 +4767,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-168d9a7f-bcdb-4a07-9a24-1e060b474698" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>limba obștii</term>
                                     </re>
                                     <def xml:id="uuid-e2611c42-5167-4dc6-8888-78ed81668be2"/>
@@ -4785,8 +4785,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-254e6a8e-b9ea-42b8-955e-44386fac99b6" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>ori limba
                                         poporului</term>
                                     </re>
@@ -4805,8 +4805,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-2785d6a5-de8d-403b-9f29-e4780738db8c" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă curentă</term>
                                     </re>
                                     <def xml:id="uuid-1f65a530-2d59-4a5a-8fcd-69e1a99dda16"/>
@@ -4820,8 +4820,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-21711f10-fa3f-4314-b7b8-91aafca151e2" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>sau limbă de toate
                                         zilele</term>
                                     </re>
@@ -4836,8 +4836,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-e7464051-8397-415b-b7fc-c37e6249721e" n="">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>ori limbă de
                                         comunicație</term>
                                     </re>
@@ -4853,8 +4853,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d0b85b80-05c8-42c4-9303-0c88a5071d8b" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă scrisă</term>
                                     </re>
                                     <def xml:id="uuid-f96be729-27e4-408e-a9cf-17fc8701846d">aspect al unei limbi (A III 2) nașionale consemnat în
@@ -4869,8 +4869,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d1d3ecac-0d7a-4bff-b5c5-b4e01763f9a6" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limbă vorbită</term>
                                     </re>
                                     <def xml:id="uuid-d3cc120e-60c7-414a-a104-52589d2d1564">Aspect al unei limbi (A III 2) întrebuințat obișnuit
@@ -4900,8 +4900,8 @@
                             </sense>
                             <sense xml:id="uuid-f2076c80-0a50-4f01-b8b9-f252130de97c" n="5.">
                                 <sense xml:id="uuid-f0f58336-a529-4fe4-aad2-fd4c81052124" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Pe (ori în) limba mea
                                         (sau a ta, a lor etc.)</term>
                                     </re>
@@ -4974,8 +4974,8 @@
                             <sense xml:id="uuid-ec51b86b-4832-4937-9110-cbcd7eefdd52" n="1.">
                                 <sense xml:id="uuid-f74ebd0b-67cb-4c41-b1d5-0db87c231bd5" n="a)">
                                     <sense xml:id="uuid-585fae51-0eae-406e-905c-46355402c4f6" n="◊">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                            
                                             <term>Limba de
                                             clopot</term>
                                         </re>
@@ -5147,8 +5147,8 @@
                                 </sense>
                                 <sense xml:id="uuid-858695ae-d114-457d-916c-c1ee06c4d75a" n="h)">
                                     <sense xml:id="uuid-40608e43-5bb6-48d3-ba81-09e9bf064f3a" n="◊">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                            
                                             <term>limba
                                             crăcilor</term>
                                         </re>
@@ -5166,8 +5166,8 @@
                                         </cit>
                                     </sense>
                                     <sense xml:id="uuid-c31c490d-b2d5-448d-bb18-9e1fc040ed7f" n="◊">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                        <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                            
                                             <term>craci cu
                                             limbă</term>
                                         </re>
@@ -5238,8 +5238,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-04e67155-c6ca-4331-9b6a-d45f8faec50a" n="l)">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Limba de la
                                         mojar</term>
                                     </re>

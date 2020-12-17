@@ -214,8 +214,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-756008a5-e364-4be6-95c8-0e1215c260bf" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution"/>
+							<re type="unitate-semantică-subsumată" subtype="adjectival-locution">
+								
 								<term>De abanos</term>
 							</re>
 							<def xml:id="id">foarte negru, negru-lucios. </def>

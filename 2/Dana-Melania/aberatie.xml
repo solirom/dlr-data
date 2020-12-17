@@ -39,18 +39,18 @@
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-d670fcfc-80e3-4703-b529-60c886ffcf37" n="">
 						<sense xml:id="uuid-053ca4c9-cd2e-45f8-a87e-53a96db916b0" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">FIZ.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberație cromatică</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">FIZ.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberație de refrangibilitate</term>
 							</re>
 							<def xml:id="id">defecţiune a unui sistem optic, care, prin
@@ -110,25 +110,25 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-d96ffeb9-7550-4844-86be-9309c95b0d8d" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ASTRON.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie a luminii</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ASTRON.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie a stelelor</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ASTRON.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberație anuală</term>
 							</re>
 							<def xml:id="id">variaţie aparentă a poziţiei unui astru pe cer datorită
@@ -192,11 +192,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-340a238e-a30f-4239-8b4b-7c88fe975141" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">PSIH.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie mintală</term>
 							</re>
 							<def xml:id="id">deviere parţială sau totală a activităţilor mentale
@@ -265,11 +265,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-f767c2cf-082f-4f6e-a436-aed1d42218ac" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">FIZ.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberație de sfericitate</term>
 							</re>
 							<def xml:id="id">defecţiune a unui sistem optic, care duce la obţinerea
@@ -285,11 +285,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-a4e54ce0-42ac-45ce-b2ba-f1e9ce663b4a" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie vizuală</term>
 							</re>
 							<def xml:id="id">astigmatism.</def>
@@ -303,18 +303,18 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-e623482a-d185-4355-870c-90e7638d01bd" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GENET.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie cromozomială</term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">GENET.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie genetică</term>
 							</re>
 							<def xml:id="id">modificare a numărului sau a structurii unuia sau a
@@ -359,11 +359,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-49901bb5-62fd-4bab-b891-afaa2454137b" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">MED.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Aberaţie sexuală</term>
 							</re>
 							<def xml:id="id">formă pervertită de satisfacere a instinctului sexual;

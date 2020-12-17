@@ -94,13 +94,13 @@
 						</sense>
 						<sense xml:id="uuid-a6a5aa9d-8315-42c7-95fc-d3cc52165d66" n="2.">
 							<sense xml:id="uuid-273affaa-7823-44a1-9738-6285a5367598" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
                                         <seg type="dom" rend="usg">IST.</seg>, <seg type="dom" rend="usg">LINGV.</seg> (<seg type="hint" rend="usg">În
 											opoziţie cu <hi rend="italic">cronologie
 											relativă</hi>
                                         </seg>)</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Cronologie absolută</term>
 								</re>
 								<def xml:id="id">cronologie care determină cu exactitate anul, luna,
@@ -149,11 +149,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-630f491b-eae5-4049-938d-7c37536d7730" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FILOS.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Adevăr absolut</term>
 								</re>
 								<def xml:id="id"/>
@@ -168,11 +168,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-4fcca1a0-b118-49c1-be82-8a7d33a3c131" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">EC.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Plusvaloare absolută </term>
 								</re>
 								<def xml:id="id"/>
@@ -187,11 +187,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-cc68ab1c-57c4-4c9c-bccb-5af33d9e86f4" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">PSIH.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Prag senzorial absolut</term>
 								</re>
 								<def xml:id="id">limita inferioară şi superioară până la care
@@ -532,12 +532,12 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Putere absolută </term>
 								</re>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<re type="unitate-semantică-subsumată" subtype="unknown">
+									
 									<term>Autoritate absolută </term>
 								</re>
 								<def xml:id="id">putere sau autoritate care nu cunoaşte limite, fără
@@ -672,12 +672,12 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-a0eab17b-9480-4d5f-a847-2f403d0a73b7" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="unknown">
 									<usg>
 										<seg type="dom" rend="usg">POLIT.</seg> (<seg type="hint" rend="usg">În opoziție cu <hi rend="italic">monarhie
 												constituțională</hi>
                                         </seg>) </usg>
-									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+									
 									<term>Monarhie absolută </term>
 								</re>
 								<def xml:id="id">formă de guvernare a statului în care monarhul are
@@ -819,11 +819,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-062e4ad9-6165-46cb-97dc-ce6b89e10fd8" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
                                         <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
                                     </usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Mandat absolut </term>
 								</re>
 								<def xml:id="id">mandat de la îndeplinirea căruia nu se poate
@@ -1332,15 +1332,15 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Majoritate absolută</term>
 								</re>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="unknown">
 									<usg>
                                         <seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg>
                                     </usg>
-									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+									
 									<term>Maioritate absolută </term>
 								</re>
 								<def xml:id="id">majoritate egală cu jumătate plus unu din numărul
@@ -1539,8 +1539,8 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Premieră absolută</term>
 								</re>
 								<def xml:id="id"/>
@@ -1554,15 +1554,15 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-9222ebdb-1ca3-47bf-8cc2-70cb1e0739de" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">SPORT</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Campion mondial absolut</term>
 								</re>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								<re type="unitate-semantică-subsumată" subtype="unknown">
+									
 									<term>Campion absolut</term>
 								</re>
 								<def xml:id="id">concurent căruia i se acordă cel mai înalt titlu al
@@ -2171,8 +2171,8 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Valoare absolută</term>
 								</re>
 								<def xml:id="id"/>
@@ -2186,11 +2186,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-326b1e6f-853b-40e1-9d62-4f3549fc4ad5" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Mişcare absolută</term>
 								</re>
 								<def xml:id="id">deplasarea unui corp faţă de un sistem de referinţă
@@ -2228,8 +2228,8 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-fe71a196-62a6-460a-9ece-8861d8533018" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Altitudine absolută</term>
 								</re>
 								<def xml:id="id">înălțimea unui punct de pe suprafața scoarței
@@ -2255,11 +2255,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-77bb7b78-7687-4cb9-966a-15e03d1dc6be" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">AGRIC.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Greutate absolută</term>
 								</re>
 								<def xml:id="id">greutate a unui număr de 1 000 de seminţe,
@@ -2286,11 +2286,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-09e4ad18-f236-4dd9-b168-bdaa564bf55b" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Temperatură absolută</term>
 								</re>
 								<def xml:id="id">temperatură exprimată în grade Kelvin, pornind de
@@ -2357,11 +2357,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-509dba0c-259f-42d2-af12-538a570967cc" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Timp absolut</term>
 								</re>
 								<def xml:id="id">timpul în care durata unui fenomen e independentă
@@ -2383,11 +2383,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-87dacc98-3b48-4585-85d2-207ddbbf60c6" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Spaţiu absolut</term>
 								</re>
 								<def xml:id="id">spaţiul fizic euclidian în care dimensiunile
@@ -2412,11 +2412,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-32fcb390-3cbd-4179-8529-067f4f1c8901" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">AV.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Înălţime absolută de zbor</term>
 								</re>
 								<def xml:id="id">înălţime la care se găseşte aeronava faţă de
@@ -2432,11 +2432,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-c0692ea3-b21f-4509-99bd-5362eedcc0e0" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Viteză absolută</term>
 								</re>
 								<def xml:id="id">viteza unui corp considerată în ea însăşi.</def>
@@ -2472,11 +2472,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-91d462e3-8256-4fea-9bbc-2e0d31664a2a" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Deviaţie absolută</term>
 								</re>
 								<def xml:id="id">diferenţa dintre un element şi un punct dat.</def>
@@ -2491,11 +2491,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-7102e864-8d77-424a-8d30-bfced11328f8" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Eroare absolută</term>
 								</re>
 								<def xml:id="id">valoarea absolută a diferenței dintre valoarea
@@ -2524,11 +2524,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-14976adb-a7e2-459c-9d36-05d4defabf20" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">FIZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Corp absolut negru</term>
 								</re>
 								<def xml:id="id">corp care absoarbe toată cantitatea de energie
@@ -2609,8 +2609,8 @@
 										</bibl>
 									</cit>
 								</sense>
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
+									
 									<term>Zero absolut</term>
 								</re>
 								<def xml:id="id"/>
@@ -2742,11 +2742,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-3f027a26-c620-4a6d-974d-8147efd8d999" n="8.">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">CHIM.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Alcool absolut</term>
 							</re>
 							<def xml:id="id">alcool (etilic) lipsit de apă şi de alte impurităţi,
@@ -2950,11 +2950,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-31953c30-6402-4aa9-8dd1-40a9ae6046dd" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Ablativ absolut</term>
 								</re>
 								<def xml:id="id"/>
@@ -2969,12 +2969,12 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-388a51ca-d0d1-4bd1-95f7-d55257154657" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 										<seg type="time" rend="usg">Ieșit din uz</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Genitiv absolut</term>
 								</re>
 								<def xml:id="id">propoziţie în limba greacă, în care verbul este
@@ -2990,11 +2990,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-34b5dcc5-5a86-4079-9b63-7f63f36270f3" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">GRAM.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Superlativ absolut</term>
 								</re>
 								<def xml:id="id">grad de comparație, la adjective și adverbe, care
@@ -3111,11 +3111,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-d27f352c-1575-4f0a-be5c-01c473c22ad7" n="10.">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">JUR.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Drept absolut</term>
 							</re>
 							<def xml:id="id">drept care produce efecte faţă de toate persoanele
@@ -3206,11 +3206,11 @@
 						</sense>
 						<sense xml:id="uuid-f3543336-87ed-40d2-9753-b570847eec3b" n="11.">
 							<sense xml:id="uuid-ec80d83f-c050-475b-9bce-c0f5d4c120cf" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Muzică absolută</term>
 								</re>
 								<def xml:id="id">muzică (instrumentală) care se realizează prin
@@ -3227,11 +3227,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-2e157b90-9534-4631-a1b5-4d872ba3aadb" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Înălţime absolută</term>
 								</re>
 								<def xml:id="id">calitate a unui instrument, a unei voci de a cânta
@@ -3257,11 +3257,11 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-ec672bfb-d4dd-41f0-b3a0-dca6911b0fb3" n="✧">
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="syntagma">
 									<usg>
 										<seg type="dom" rend="usg">MUZ.</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+									
 									<term>Auz absolut</term>
 								</re>
 								<def xml:id="id">auz muzical înnăscut, foarte fin care distinge
@@ -3319,11 +3319,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-28419789-4241-4e32-b2df-c7fe1d5df672" n="12.">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="dom" rend="usg">ESTET.</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Frumos absolut</term>
 							</re>
 							<def xml:id="id">categorie estetică care consideră frumosul drept sursa
@@ -4304,15 +4304,15 @@
 								</cit>
 							</sense>
 							<sense xml:id="uuid-57c801b1-5571-4fe1-ae74-d52d50a9a10d" n="✧">
-								<re type="unitate-semantică-subsumată">
-									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+								<re type="unitate-semantică-subsumată" subtype="adjectival-locution adverbial-locution">
+									
 									<term>În absolut </term>
 								</re>
-								<re type="unitate-semantică-subsumată">
+								<re type="unitate-semantică-subsumată" subtype="adjectival-locution adverbial-locution">
 									<usg>
 										<seg type="plev" rend="usg">Rar</seg>
 									</usg>
-									<idno n="tip-unitate-semantică-subsumată" type="adjectival-locution adverbial-locution"/>
+									
 									<term>La absolut</term>
 								</re>
 								<def xml:id="id">(care există) fără comparaţie, fără a ţine cont de

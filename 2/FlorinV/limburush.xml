@@ -39,8 +39,8 @@
                 <dictScrap xml:id="dlr-senses">
                     <sense xml:id="uuid-5ffc7705-5f01-4b70-91d0-73f16c0092e6" n="1.">
                         <sense xml:id="uuid-39e3ed72-d842-4346-9a69-a6b1ad849015" n="◊">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                            <re type="unitate-semantică-subsumată" subtype="phrase">
+                                
                                 <term>A avea limburuş</term>
                             </re>
                             <def xml:id="uuid-22b49ab7-605b-4f75-b2c7-92fe9e736f0b">A fi peltic.</def>

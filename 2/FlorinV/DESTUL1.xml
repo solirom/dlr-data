@@ -203,8 +203,8 @@
                         </sense>
                         <sense xml:id="uuid-7ec3b59a-1cd0-4562-a25b-502edcb5b47a" n="2.">
                             <sense xml:id="uuid-5e335ad2-51a5-4e67-8118-52c2987bcb2f" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A face destul</term>
                                 </re>
                                 <def xml:id="uuid-39821a2e-b3db-42bc-858d-174c7afe5a78">a pune

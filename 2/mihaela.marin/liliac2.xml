@@ -113,8 +113,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-5d7fd3f7-60de-4834-9783-1d9f154ce09f" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                            <re type="unitate-semantică-subsumată" subtype="saying">
+                                
                                 <term>Umblă noaptea ca
                                 lililecii</term>
                             </re>
@@ -129,8 +129,8 @@
                             </cit>
                         </sense>
                         <sense xml:id="uuid-7f21088e-df55-4b16-a21d-823e132d1242" n="">
-                            <re type="unitate-semantică-subsumată">
-                                <idno n="tip-unitate-semantică-subsumată" type="saying"/>
+                            <re type="unitate-semantică-subsumată" subtype="saying">
+                                
                                 <term>Stă ascuns ca un liliac</term>
                             </re>
                             <def xml:id="uuid-88122c29-b83d-4e31-bc6e-db647b6f4d14">se zice despre cei care duc o viaţă retrasă</def>

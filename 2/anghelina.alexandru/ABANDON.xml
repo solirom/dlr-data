@@ -111,22 +111,22 @@
 					</sense>
 					<sense xml:id="uuid-10d121c9-a323-4aec-a264-2e8aee228150" n="3.">
 						<sense xml:id="uuid-41e43f94-bb4f-4a10-94a6-d8fbccff9bf9" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
 									</hi>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abandon familial </term>
 							</re>
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="unknown">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
 									</hi>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+								
 								<term>Abandon de familie </term>
 							</re>
 							<def xml:id="uuid-0e321113-5b85-4b5a-a1b9-899d3e214944">delict care
@@ -170,8 +170,8 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-edc2a703-59c2-4fce-937b-24db270b5161" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Abandon școlar</term>
 							</re>
 							<def xml:id="uuid-776ada3d-26d2-4a42-aee7-9d7784c2f627">formă de abandon
@@ -291,13 +291,13 @@
 					</sense>
 					<sense xml:id="uuid-cbce0cb5-168d-48df-a00a-a063811bc0e1" n="4.">
 						<sense xml:id="uuid-6a1525dc-6d89-454b-8b21-02bf0a1cdb43" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<hi rend="italic">
 										<seg type="dom" rend="usg">JUR.</seg>
 									</hi>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Abandon maritim</term>
 							</re>
 							<ptr type="trimitere" target="abandon (3)"/>

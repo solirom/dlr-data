@@ -146,9 +146,9 @@
 					</sense>
 					<sense xml:id="uuid-9639e3ca-31b8-47dc-8f91-b361331447bf" n="2.">
 						<sense xml:id="uuid-c6f580a6-8468-439e-a408-696728ffc343" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Absolutisto-ţarist </term>
 							</re>
 							<def xml:id="id">care este bazat pe absolutismul din Rusia
@@ -170,9 +170,9 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-cc3ac185-a39f-472e-ad05-1678e3c600d6" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg><seg type="time" rend="usg">Înv.</seg>, <seg type="plev" rend="usg">rar</seg></usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Absolutisto-parazitar</term>
 							</re>
 							<def xml:id="id">care are trăsături specifice absolutismului și claselor
@@ -192,11 +192,11 @@
 							</cit>
 						</sense>
 						<sense xml:id="uuid-60661583-a0a0-4ca7-905b-10b82110635a" n="✧">
-							<re type="unitate-semantică-subsumată">
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
 								<usg>
 									<seg type="plev" rend="usg">Rar</seg>
 								</usg>
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+								
 								<term>Absolutisto-poliţist</term>
 							</re>
 							<def xml:id="id">care are caracteristici absolutiste și

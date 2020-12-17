@@ -244,8 +244,8 @@
 					</sense>
 					<sense xml:id="uuid-877934f8-9f3c-411c-960c-96cb12e5a258" n="3.">
 						<sense xml:id="uuid-a21ba11d-b2c8-421d-8c21-d2263e02aa85" n="✧">
-							<re type="unitate-semantică-subsumată">
-								<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+							<re type="unitate-semantică-subsumată" subtype="syntagma">
+								
 								<term>Absorbţie intestinală </term>
 							</re>
 							<def xml:id="id">pătrundere în sânge şi în limfă a produşilor rezultaţi

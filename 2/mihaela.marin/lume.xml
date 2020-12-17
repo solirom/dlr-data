@@ -40,17 +40,17 @@
                     <sense xml:id="uuid-05e44a90-e415-414c-92ca-049039966dde" n="A.">
                         <sense xml:id="uuid-6dc1a3c0-ce38-4675-897e-32dc0e11be52" n="1.">
                             <sense xml:id="uuid-d0c6243b-b37f-48a6-a6b7-896ddd3b6891" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A ieși la lume/a ieși la lumea de sus</term>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A ieşi în lume/A ieşi în lumea de sus</term>
                                     <usg><seg type="plev" rend="usg">rar</seg></usg>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                <re type="unitate-semantică-subsumată" subtype="phrase">
+                                    
                                     <term>A ieşi pe lume/A ieşi pe lumea de sus</term>
                                     <usg><seg type="register style" rend="usg">popular</seg></usg>
                                 </re>
@@ -70,14 +70,14 @@
                                 </cit>
                             </sense>
                             <sense xml:id="uuid-81843850-034a-4226-a7d4-88421f2f2c68" n="◊">
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>Lumea ochiului</term>
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
                                 </re>
-                                <re type="unitate-semantică-subsumată">
-                                    <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                    
                                     <term>Lumina ochilor</term>
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>și
                                     <usg><seg type="time" rend="usg">înv.</seg><seg type="geo" rend="usg">regional</seg></usg>
@@ -126,8 +126,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A scoate pe cineva la lume/A scoate ceva la
                                             lume</term>
                                     </re>
@@ -142,8 +142,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0c46bf14-f5f7-4d30-a51d-04d0b3c3b9ea" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A vedea lumea</term>
                                     </re>
                                     <def xml:id="uuid-391a8620-9832-4518-ae96-13464fe91cc9">a fi eliberat din temniţă</def>
@@ -173,8 +173,8 @@
                                         </cit>
                                     </sense>
                                     <sense xml:id="uuid-4135471e-6cc3-4799-91ef-f3e29ea01240" n="◊">
-                                        <re type="unitate-semantică-subsumată">
-                                            <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                        <re type="unitate-semantică-subsumată" subtype="phrase">
+                                            
                                             <term>A întuneca lumea</term>
                                             <usg><seg type="time" rend="usg">înv.</seg></usg>
                                         </re>
@@ -233,8 +233,8 @@
                                     </sense>
                                 </sense>
                                 <sense xml:id="uuid-4c68c74c-1221-434d-aa58-b442ac4899f9" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A ise întuneca (cuiva) lumea ochilor</term>
                                     </re>
                                     <def xml:id="uuid-7769fa87-5e26-4c70-b80e-347127edd985">a fi foarte mânios</def>
@@ -262,8 +262,8 @@
                                             </bibl>
                                         </cit>
                                     </sense>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <re type="unitate-semantică-subsumată" subtype="unknown">
+                                        
                                         <term>A nu(-şi) vedea lumea înaintea ochilor</term>
                                     </re>
                                     <def xml:id="uuid-fc8587f2-476e-40e1-8f67-b9c24a3ac49e"/>
@@ -291,8 +291,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-0d1b37ce-775e-4fe0-a9d3-029f075ddff9" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A se afla la lume</term>
                                     </re>
                                     <def xml:id="uuid-1d0debdf-23f7-4829-bec2-d12031e351b6">a fi cunoscut</def>
@@ -369,8 +369,8 @@
                         <sense xml:id="uuid-a70bd33b-0b8d-43ea-801c-464c36e053e2" n="I.">
                             <sense xml:id="uuid-e6604d9b-f98d-4b61-aeb2-616a0eae8af9" n="1.">
                                 <sense xml:id="uuid-54b95cd4-89d7-4764-b744-4a93341248bf" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <re type="unitate-semantică-subsumată" subtype="unknown">
+                                        
                                         <term/>
                                     </re>
                                     <def xml:id="uuid-d910c1ba-2123-4826-8dec-2444fed7044f"/>
@@ -413,8 +413,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-9cec9b3c-d294-49b5-803f-7e0878d8cd88" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Lumea siderală </term>
                                     </re>
                                     <def xml:id="uuid-01bd1e9d-1062-4952-9d36-c4b2612d8e98">sistem de aştri sau de galaxii; ansamblul stelelor </def>
@@ -431,21 +431,21 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-491cd363-27e2-4a4d-94c9-1e6d33f633a1" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Concepţie despre lume </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Concepţie despre viaţă</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Concept despre lume</term>
                                         <usg><seg type="time" rend="usg">înv.</seg></usg>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Concept despre viaţă</term>
                                         <usg><seg type="time" rend="usg">înv.</seg></usg>
                                     </re>
@@ -468,8 +468,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-49e16313-e7ec-4e26-b7c0-335820fad17e" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+                                    <re type="unitate-semantică-subsumată" subtype="syntagma">
+                                        
                                         <term>Boierul lumii</term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
                                     </re>
@@ -492,28 +492,28 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-06754e7f-a2ab-40e9-a198-326ce33e1ce9" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când lumea </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când lumea şi pământul </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când e lumea </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când e lumea şi pământul </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când cu lumea </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când cu lumea şi pământul </term>
                                     </re>
                                     <def xml:id="uuid-f030538b-ebb6-4559-93fa-d2e4daae7a5d">de foarte multă vreme</def>
@@ -534,16 +534,16 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-d235a4b2-990e-45a7-bee5-a4d59499ca30" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când e lumea lume</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când a fost lumea lume </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>De când lumea e lume </term>
                                     </re>
                                     <def xml:id="uuid-31ad90db-cd4c-4289-a29f-e3e27c9871aa">dintotdeauna</def>
@@ -562,16 +562,16 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-8915f283-b51d-40d0-be0d-0765c773c244" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Cât lumea şi pământul</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Cât e lumea şi pământul</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Cât va fi lumea şi pământul</term>
                                     </re>
                                     <def xml:id="uuid-f3527a9f-6fe4-4aa3-bc13-ebf655128f88">fără limită, fără sfârşit (în spaţiu şi timp)</def>
@@ -591,18 +591,18 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-14f3aeaf-8d7c-44f6-a92b-22a9208f3a17" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Până-i lumea lume ori până-i lumea şi pământul, până-i
                                             lume </term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <re type="unitate-semantică-subsumată" subtype="unknown">
+                                        
                                         <term>Până-i lumea şi pământul </term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="unknown"/>
+                                    <re type="unitate-semantică-subsumată" subtype="unknown">
+                                        
                                         <term> Până-i lume</term>
                                     </re>
                                     <def xml:id="uuid-c2f8b85e-1781-4b51-9771-8b25f881e16c">veşnic</def>
@@ -621,16 +621,16 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-3dcff8af-9cfd-4aed-80a1-8ade82842351" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi bătrân ca lumea</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi bătrân cât lumea</term>
                                     </re>
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>A fi bătrân de când lumea</term>
                                     </re>
                                     <def xml:id="uuid-039c159a-e29e-47f9-a29a-24608af31437">(a fi) foarte bătrân</def>
@@ -645,8 +645,8 @@
                                     </cit>
                                 </sense>
                                 <sense xml:id="uuid-1648d2fb-1210-4fb2-9efa-1a2a07f6a417" n="◊">
-                                    <re type="unitate-semantică-subsumată">
-                                        <idno n="tip-unitate-semantică-subsumată" type="phrase"/>
+                                    <re type="unitate-semantică-subsumată" subtype="phrase">
+                                        
                                         <term>Câte-s în lume, toate</term>
                                         <usg><seg type="register style" rend="usg">popular</seg></usg>
                                     </re>

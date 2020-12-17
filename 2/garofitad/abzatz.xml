@@ -34,8 +34,8 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-2e822079-0c0c-4405-92e0-4d2eabdd5392" n="1.">
-						<re type="unitate-semantică-subsumată">
-							<idno n="tip-unitate-semantică-subsumată" type="syntagma"/>
+						<re type="unitate-semantică-subsumată" subtype="syntagma">
+							
 							<term>Corn în abzaț</term>
 						</re>
 						<def xml:id="uuid-3bb6bc9d-e419-41c6-9128-b0eba6407618">= căprior la
