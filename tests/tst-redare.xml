@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-8ee556bc-bf12-4f9f-8ff0-b51f3d4615ed" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-10-24T11:14:02+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="1">CUV</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">CUV</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="s."/>
+                    <gen value="m. si f."/>
+                    <number value="invar."/>
+                    <case value="gen.-dat. și"/>
+                    <subc value="art."/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-9323fb78-2675-4bea-a40d-4a266ef99d0c" n="A.">
+                        <sense xml:id="uuid-a0371f43-5927-410e-b158-00e84d48e5b8" n="I.">
+                            <sense xml:id="uuid-597c72a0-eeab-4e53-bf4e-24b667857c15" n="1.">
+                                <gramGrp>
+                                    <pos value="s."/>
+                                    <gen value="m. si f."/>
+                                    <number value="invar."/>
+                                    <case value="voc."/>
+                                    <subc value="art."/>
+                                </gramGrp>
+                                <def xml:id="uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044">def 1</def>
+                                <usg type="gram" value="rar.la" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044" rend="">romani</usg>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="sin1-def-1" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044">
+                                    <usg type="gram" value="rar.la" rend="">sin1-def-1</usg>
+                                </ptr>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="sin2-def-1" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044">
+                                    <usg type="gram" value="rar.la" rend="">sin2-def-1</usg>
+                                </ptr>
+                                <ptr targetLang="" type="analog" subtype="unknown" target="analog-def-1" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044"/>
+                                <ptr targetLang="" type="asoc" subtype="unknown" target="asoc-def-1" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044"/>
+                                <ptr targetLang="" type="antonim" subtype="unknown" target="ant-def-1" corresp="#uuid-dcc05d0b-c8e9-45d6-8c22-8d535166f044"/>
+                                <def xml:id="uuid-46b18990-fc59-46d5-acc7-5d28c2db1525">def 2</def>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="sin1-def-2" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525">
+                                    <usg type="gram" value="rar.la" rend="">sin1-def-2</usg>
+                                </ptr>
+                                <ptr targetLang="" type="syn" subtype="unknown" target="sin2-def-2" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525">
+                                    <usg type="gram" value="rar.la" rend="">sin2-def-2</usg>
+                                </ptr>
+                                <ptr targetLang="" type="analog" subtype="unknown" target="analog-def-2" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525"/>
+                                <ptr targetLang="" type="asoc" subtype="unknown" target="asoc-def-2" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525"/>
+                                <ptr targetLang="" type="antonim" subtype="unknown" target="ant-def-2" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525"/>
+                                <usg type="gram" value="rar.la" corresp="#uuid-46b18990-fc59-46d5-acc7-5d28c2db1525" rend="">straini</usg>
+                                <cit>
+                                    <quote>citat sensul 1</quote>
+                                    <bibl type="unknown">
+                                        <ptr target="ARGHEZI, B. ARGHEZI, P. T. ARGHEZI, S. XVIII | ARGHEZI, Cu Baston."/>
+                                        <date>1879</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-2d34cc1c-c414-470b-bedf-3397cf8e47c3" n="2.">
+                                <def xml:id="uuid-97055d8c-97c8-42a0-a211-8a56343c76bd"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-a45e3b98-3992-435d-965b-8bbf9276163b" n="◊">
+                                <gramGrp>
+                                    <pos value="vb."/>
+                                    <iType value="I"/>
+                                    <subc value="fact."/>
+                                    <subc value="impers."/>
+                                </gramGrp>
+                                <def xml:id="uuid-1bc98c18-802e-488b-8ed4-ccca95d7b29a">test cat gram sens</def>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <sense xml:id="uuid-3a83b35e-427a-4f10-b81c-129a0ecd94ef" n="3.">
+                                <def xml:id="uuid-b46eb088-f063-4547-905d-6b8189fce113"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <re type="lexical-variant-section">
+                                    <usg type="obj" value="complementul.indică" rend="">var.lex.sens3</usg>
+                                    <def xml:id="uuid-0d327f20-d23d-442b-9975-c46dcae9b3f4">var.lex.sens3</def>
+                                    <gramGrp>
+                                        <pos value="s."/>
+                                        <gen value="f."/>
+                                        <number value="sg."/>
+                                        <case value="voc."/>
+                                        <subc value="art."/>
+                                    </gramGrp>
+                                    <form type="accentuation-variant">
+                                        <stress xml:lang="ro-x-accent-lowcase-vowels">var.le3xx</stress>
+                                        <usg type="time" value="înv." rend="">var.lex</usg>
+                                        <bibl type="în">
+                                            <ptr target="DM | DM"/>
+                                            <date>1989</date>
+                                            <citedRange>22</citedRange>
+                                        </bibl>
+                                    </form>
+                                    <form type="pronunciation" value="bisyllabic">
+                                        <syll xml:lang="ro-x-accent-lowcase-vowels">lar.lex.hiat</syll>
+                                        <pron xml:lang="ro-x-accent-lowcase-vowels">var.lex.str</pron>
+                                        <pRef xml:lang="ro-x-accent-lowcase-vowels">var.lex.pron</pRef>
+                                        <usg type="time" value="înv." rend="">ind silabatie</usg>
+                                        <bibl type="în">
+                                            <ptr target="DM | DM"/>
+                                            <date>1989</date>
+                                            <citedRange>22 silabatie</citedRange>
+                                        </bibl>
+                                    </form>
+                                    <form type="writing">
+                                        <oVar>lar.lex.scris</oVar>
+                                        <usg type="time" value="înv." rend="">var.le.scr</usg>
+                                    </form>
+                                    <form type="abbreviation">
+                                        <abbr>abrev</abbr>
+                                        <oVar>var.abrev</oVar>
+                                    </form>
+                                    <form type="grammatical-information">
+                                        <idno type="grammatical-information-type-for-vb"/>
+                                        <form type="grammatical-information-for-verb" corresp="3">
+                                            <mood value="ind."/>
+                                            <tns value="prez."/>
+                                            <per value="pers. 1"/>
+                                            <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">forma gram</form>
+                                            <stress xml:lang="ro-x-accent-lowcase-vowels">var
+                                                acc</stress>
+                                            <usg type="time" value="înv." rend="">var acc</usg>
+                                            <bibl type="unknown">
+                                                <ptr target="DM | DM"/>
+                                                <date>1989</date>
+                                                <citedRange>22</citedRange>
+                                            </bibl>
+                                        </form>
+                                    </form>
+                                    <bibl type="unknown">
+                                        <ptr target="DM | DM"/>
+                                        <date>1987</date>
+                                        <citedRange>22</citedRange>
+                                    </bibl>
+                                </re>
+                            </sense>
+                            <sense xml:id="uuid-b6acacad-77bf-4b5c-b573-3c8642b8f6d8" n="4.">
+                                <def xml:id="uuid-5f960384-e104-4f39-9b9f-0f6384b6ada1"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                                <etym cert="high">
+                                    <idno type="unul.sau.mai.multe.sensuri-sensul-cf..etimon"/>
+                                    <ptr targetLang="" type="unul.sau.mai.multe.sensuri-sensul" target="unknown"/>
+                                    <term xml:lang="ru" type="unul.sau.mai.multe.sensuri-sensul-cf.">asdf</term>
+                                </etym>
+                            </sense>
+                            <sense xml:id="uuid-3f3f027a-387b-4ba3-91bc-bae9a0377ef4" n="5.">
+                                <re type="unitate-semantică-subsumată" subtype="verbal-locution">
+                                    <usg type="obj" value="complementul.indică" rend="">obiecte</usg>
+                                    <subc value="refl. pas."/>
+                                    
+                                    <term>A face ceva</term>
+                                    <term type="etym" targetLang="bg" subtype="cuvântul.titlu-element.extern-calc">asd</term>
+                                    <form type="abbreviation">
+                                        <abbr>abrev</abbr>
+                                        <oVar>var abrev.</oVar>
+                                    </form>
+                                </re>
+                                <def xml:id="uuid-5fb5dc10-6ec9-4c5d-9cd4-b22d42c34086"/>
+                                <cit>
+                                    <quote/>
+                                    <bibl type="unknown">
+                                        <ptr target="unknown"/>
+                                        <date/>
+                                        <citedRange/>
+                                    </bibl>
+                                </cit>
+                            </sense>
+                            <def xml:id="uuid-ea4c5693-8e18-45c2-b598-77509a0b4c6f"/>
+                            <cit>
+                                <quote/>
+                                <bibl type="unknown">
+                                    <ptr target="unknown"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <def xml:id="uuid-3ad05237-e07e-4695-8db1-b78ddf5dd14d"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-4807247d-35ce-4bad-9b59-26cb7a6b8c83" n="">
+                        <def xml:id="uuid-26776453-5173-4933-9a28-56f01abd3799"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="accentuation-variant">
+                    <stress xml:lang="ro-x-accent-lowcase-vowels">var acc</stress>
+                    <usg type="gram" value="rar.la" rend="">feminin</usg>
+                    <bibl type="în">
+                        <ptr target="DM | DM"/>
+                        <date>1998</date>
+                        <citedRange>22</citedRange>
+                    </bibl>
+                </form>
+                <form type="articulation">
+                    <term>articulat</term>
+                </form>
+                <form type="pronunciation" value="trisyllabic">
+                    <syll xml:lang="ro-x-accent-lowcase-vowels">a-b-c</syll>
+                    <pron xml:lang="ro-x-accent-lowcase-vowels">strain</pron>
+                    <pRef xml:lang="ro-x-accent-lowcase-vowels">var.pron</pRef>
+                    <usg type="gram" value="rar.la" rend="">pron</usg>
+                    <bibl type="cf.">
+                        <ptr target="DM | DM"/>
+                        <date>1999</date>
+                        <citedRange>33</citedRange>
+                    </bibl>
+                </form>
+                <form type="writing">
+                    <oVar>var.scr</oVar>
+                    <usg type="gram" value="rar.la" rend="">feminin</usg>
+                </form>
+                <form type="abbreviation">
+                    <abbr>abrev.</abbr>
+                    <oVar>var.abrev</oVar>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-pl"/>
+                    <form type="grammatical-information-for-plural" corresp="1">
+                        <number>forma.pl</number>
+                        <gramGrp>
+                            <pos value="subst."/>
+                            <number value="pl."/>
+                        </gramGrp>
+                        <usg type="gram" value="rar.la" rend="">gram</usg>
+                        <bibl type="cf.">
+                            <ptr target="DM | DM"/>
+                            <date>1999</date>
+                            <citedRange>22</citedRange>
+                        </bibl>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-case"/>
+                    <form type="grammatical-information-for-case" corresp="1">
+                        <case value="voc.">asd</case>
+                        <usg type="gram" value="rar.la" rend="">caz</usg>
+                        <bibl type="cf.">
+                            <ptr target="DM | DM"/>
+                            <date>1999</date>
+                            <citedRange>22</citedRange>
+                        </bibl>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-adj-et-al"/>
+                    <idno type="grammatical-information-subtype-for-fem-sg"/>
+                    <form type="grammatical-information-for-fem-sg">
+                        <term>-Ă</term>
+                    </form>
+                </form>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="1">
+                        <mood value="cond.-opt."/>
+                        <tns value="prez."/>
+                        <per value="pers. 3"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">scrie</form>
+                        <stress xml:lang="ro-x-accent-lowcase-vowels">scrié</stress>
+                        <usg type="gram" value="rar.la" rend="">Antim</usg>
+                        <bibl type="cf.">
+                            <ptr target="DM | DM"/>
+                            <date>1999</date>
+                            <citedRange>34</citedRange>
+                        </bibl>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <usg type="gram" value="rar.la" rend="">feminin</usg>
+                    <def xml:id="uuid-a934003c-c0cc-4ed8-bd06-cd95b8c53696">var.lex</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="I"/>
+                        <subc value="fact."/>
+                        <subc value="impers."/>
+                    </gramGrp>
+                    <form type="accentuation-variant">
+                        <stress xml:lang="ro-x-accent-lowcase-vowels">vac.acc</stress>
+                        <usg type="gram" value="rar.la" rend="">var.acc</usg>
+                        <bibl type="unknown">
+                            <ptr target="DM | DM"/>
+                            <date>1999</date>
+                            <citedRange>22</citedRange>
+                        </bibl>
+                    </form>
+                    <form type="pronunciation" value="bisyllabic">
+                        <syll xml:lang="ro-x-accent-lowcase-vowels">a-b-c-varianta</syll>
+                        <pron xml:lang="ro-x-accent-lowcase-vowels">abc.str</pron>
+                        <pRef xml:lang="ro-x-accent-lowcase-vowels">abc.str.var</pRef>
+                        <usg type="gram" value="rar.la" rend="">var</usg>
+                        <bibl type="cf.">
+                            <ptr target="DM | DM"/>
+                            <date>1999</date>
+                            <citedRange>33</citedRange>
+                        </bibl>
+                    </form>
+                    <form type="writing">
+                        <oVar>var.scr</oVar>
+                        <usg type="gram" value="rar.la" rend="">var</usg>
+                    </form>
+                    <form type="abbreviation">
+                        <abbr>abr</abbr>
+                        <oVar>abr.var</oVar>
+                    </form>
+                    <form type="grammatical-information">
+                        <idno type="grammatical-information-type-for-vb"/>
+                        <form type="grammatical-information-for-verb" corresp="12">
+                            <mood value="cond.-opt."/>
+                            <tns value="perf. s."/>
+                            <per value="pers. 3"/>
+                            <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">asd</form>
+                        </form>
+                    </form>
+                    <bibl type="unknown">
+                        <ptr target="DM | DM"/>
+                        <date>1999</date>
+                        <citedRange>332</citedRange>
+                    </bibl>
+                    <etym cert="high">
+                        <idno type="variantă-directă-din.lat."/>
+                        <term xml:lang="" type="unknown" subtype="unknown">asd</term>
+                    </etym>
+                </re>
+                <etym cert="high">
+                    <idno type="cuvântul.titlu-element.extern-trimitere-Cf."/>
+                    <term xml:lang="sq" type="unknown" subtype="unknown">asd</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

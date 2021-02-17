@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-731ca268-03ad-4fff-87f8-87d45d2f537d" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-10-02T12:41:26+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n=""/><stress xml:lang="ro-x-accent-upcase-vowels"/>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-5fb76a92-81e3-403c-9389-19bfab64201f" n="">
+                        <def xml:id="uuid-f0320e02-155c-4ac5-8652-77df0faa44e7"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-b630c12c-f84b-4cc2-b26e-8a756e028b46" n="">
+                        <def xml:id="uuid-a90edf12-c890-4552-8de0-2d74092ce68a"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <etym cert="high">
+                    <idno type="unknown"/>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-ace70677-63aa-4a29-9e85-4fa7cf6d6748" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author/>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2016-05-23T09:32:30+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">LAMINA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">LAMINÁ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="vb."/>
+                    <iType value="I"/>
+                    <subc value="vb.-tranz."/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-d1861040-36f5-452d-a7f2-d204be810e6b" n="1.">
+                        <def xml:id="uuid-d0e16ad4-2836-43c9-b6cd-e3637f54a439">A transforma, la cald sau la rece, în lame, fire sau bare cu
+                            ajutorul laminorului (1)</def>
+                        <usg type="" value="complementul.indică" corresp="#uuid-d0e16ad4-2836-43c9-b6cd-e3637f54a439" rend="">materiale care pot fi prelucrate prin deformare plastică</usg>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="PONTBRIANT, D. (DA) PONTBRIANT | PONTBRIANT, D."/>
+                                <date>1862</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="LM | LMD II"/>
+                                <date>1876</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DDRF (DA) FRÉDÉRIC DAMÉ | DDRF II"/>
+                                <date>1894</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="BARCIANU | BARCIANU-POPOVICI, D.3"/>
+                                <date>1900</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="ALEXI, W. (DA) ALEXI | ALEXI, D. Rom.-Germ."/>
+                                <date>1894 (1905)</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="RESMERIŢĂ, D. | RESMERIŢĂ, D. Et."/>
+                                <date>1924</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target=" | CADE"/>
+                                <date>[1926-1931]</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="SCRIBAN, D. | SCRIBAN, D."/>
+                                <date>1939</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>Fiul său a laminat tablă în făbricuța lui proprie.</quote>
+                            <bibl type="unknown">
+                                <ptr target="V. ROM. | V. Rom. (R. US)"/>
+                                <date>1945</date>
+                                <citedRange>29</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DL | DL II"/>
+                                <date>1956</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DM | DM"/>
+                                <date>1958</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DEX | DEX"/>
+                                <date>1975</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>Fiecare schimb să lamineze zilnic cel puţin un lingou peste
+                                plan.</quote>
+                            <bibl type="unknown">
+                                <ptr target="SCÂNTEIA | Scânteia"/>
+                                <date>1977</date>
+                                <citedRange>10022</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DN3 | DN3"/>
+                                <date>1978</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-3e4233e5-a90d-4f8c-b18d-0ae96658cd2a" n="2.">
+                        <def xml:id="uuid-aad51198-1754-46eb-934a-ad2678f404a8">A întinde, a subţia şi a omogeniza cu laminorul (2) fibrele
+                            textile în procesul de filare, în vederea toarcerii lor</def>
+                        <usg type="" value="Text." corresp="#uuid-aad51198-1754-46eb-934a-ad2678f404a8" rend=""/>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DL | DL II"/>
+                                <date>1956</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DM | DM"/>
+                                <date>1958</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DEX | DEX"/>
+                                <date>1975</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DN3 | DN3"/>
+                                <date>1978</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-61ab15cb-ef8c-4708-96c7-27432ff61bd7" n="3.">
+                        <def xml:id="uuid-7d107572-eea7-4e93-bdab-4a93cbc517de">A micşora secţiunea de curgere a unui jet de fluid</def>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DL | DL II"/>
+                                <date>1956</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DM | DM"/>
+                                <date>1958</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DEX | DEX"/>
+                                <date>1975</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DN3 | DN3"/>
+                                <date>1978</date>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-0181091b-39fe-4f75-973e-64d2fdabdcd9" n="">
+                        <def xml:id="uuid-da8c490d-5da5-40cb-99fb-c4a4b8410c49"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value=""/>
+                        <form type="details-for-grammatical-information-for-verb">laminez</form>
+                    </form>
+                </form>
+                <etym>
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <certainty cert="high" locus="value"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">laminer</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>

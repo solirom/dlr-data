@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-77465fab-f78d-4b90-bb18-309f7729e4ee" version="3.3.0" source="0.21">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+				<author/>
+				<editor role="reviewer"/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Romanian Academy, Philology and Literature Section</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>born digital</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when-iso="2020-02-21T12:42:40+0200"/>
+			</creation>
+		</profileDesc>
+		<revisionDesc/>
+	</teiHeader>
+	<text type="editing-mode-dlr">
+		<body>
+			<entry>
+				<form type="headword">
+					<orth n="6">casă</orth>
+					<stress xml:lang="ro-x-accent-upcase-vowels"/>
+					<syll/>
+					<pron/>
+				</form>
+				<gramGrp>
+					<pos value=""/>
+				</gramGrp>
+				<dictScrap xml:id="dlr-senses">
+					<sense xml:id="uuid-177a2567-28e4-4a5f-b729-0dd74900b1e0" n="1">
+						<re type="unitate-semantică-subsumată" subtype="phrase">
+							
+							<term>expr</term>
+						</re>
+						<def xml:id="uuid-b411bb34-6e42-4a6d-8f8b-3095cbef0018"/>
+						<ptr type="trimitere" target="casă7"/>
+						<cit type="unknown">
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<dictScrap xml:id="dex-senses">
+					<sense xml:id="uuid-e7fe6611-63d0-46c3-9a88-d0dba6bdc2b7" n="">
+						<def xml:id="uuid-8c1d3f69-870e-42f5-8f5f-a73b82a81c95"/>
+						<cit>
+							<quote/>
+							<bibl type="unknown">
+								<ptr target="unknown"/>
+								<date/>
+								<citedRange/>
+							</bibl>
+						</cit>
+					</sense>
+				</dictScrap>
+				<etym cert="high">
+					<idno type="unknown"/>
+				</etym>
+			</entry>
+		</body>
+	</text>
+</TEI>

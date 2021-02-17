@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uuid-d80b8d8c-d5a0-4f36-a0ef-961ea786d4f6" version="3.3.0" source="0.18">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>anghelina.alexandru</author>
+                <editor role="reviewer"/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Linguistic Institute of the Romanian Academy</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when-iso="2017-10-05T10:24:39+0300"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="editing-mode-dlr">
+        <body>
+            <entry>
+                <form type="headword">
+                    <orth n="">DEBARCA</orth>
+                    <stress xml:lang="ro-x-accent-upcase-vowels">DEBARCÁ</stress>
+                    <syll/>
+                    <pron/>
+                </form>
+                <gramGrp>
+                    <pos value="vb."/>
+                    <iType value="I"/>
+                    <subc value=""/>
+                    <subc value=""/>
+                </gramGrp>
+                <dictScrap xml:id="dlr-senses">
+                    <sense xml:id="uuid-3b8d935d-2eb9-47d4-9224-7645764d29b0" n="1.">
+                        <sense xml:id="uuid-add38582-3c8e-4bec-8410-417b848ad595" n="◊">
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value=""/>
+                                <subc value=""/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-590e53f9-79c1-4705-b43f-391655f1cf65"/>
+                            <cit>
+                                <quote>Desbarcându-se la scala oraşului s-au dus pe gios pănă la
+                                    geamie</quote>
+                                <bibl type="unknown">
+                                    <ptr target="AR (18...) | Albina Rom."/>
+                                    <date>1829</date>
+                                    <citedRange>151/15</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>136 ostaşi … desbarcându-se din corăbiile lor în 7 şalupe …
+                                    au agiuns nevătămaţi la ţărmurile numitei cetăţi</quote>
+                                <bibl type="unknown">
+                                    <ptr target="AR (18...) | Albina Rom."/>
+                                    <date>1829</date>
+                                    <citedRange>501/44</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-df5dca84-d896-4160-bb81-8c239d761459" n="♦">
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="tranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-4b10ced4-214d-4f36-9003-5ddd03bafb06">A descărca dintr-o navă sau vehicul pe uscat</def>
+                            <usg type="unknown" value="" corresp="#uuid-4b10ced4-214d-4f36-9003-5ddd03bafb06" rend=""/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="unknown" corresp="#uuid-4b10ced4-214d-4f36-9003-5ddd03bafb06"/>
+                            <ptr targetLang="" type="analog" subtype="unknown" target="unknown" corresp="#uuid-4b10ced4-214d-4f36-9003-5ddd03bafb06"/>
+                            <ptr targetLang="" type="asoc" subtype="unknown" target="unknown" corresp="#uuid-4b10ced4-214d-4f36-9003-5ddd03bafb06"/>
+                            <def xml:id="uuid-5f0f4a8b-d736-4464-92c8-960648e7b5d6"/>
+                            <ptr targetLang="" type="syn" subtype="unknown" target="unknown" corresp="#uuid-5f0f4a8b-d736-4464-92c8-960648e7b5d6"/>
+                            <cit>
+                                <quote>Flota franţuzească ... a debarcat 3 000 de ostaşi</quote>
+                                <bibl type="unknown">
+                                    <ptr target="CR (18...) | Curierul Rom."/>
+                                    <date>1839</date>
+                                    <citedRange>321/2</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>Dezbarcându-şi prizonierii, îi luă între puşti ca să-i ducă
+                                    să-i închidă în cazarmă</quote>
+                                <bibl type="unknown">
+                                    <ptr target="SION, C. SION, POEZII | SION, Poezii"/>
+                                    <date/>
+                                    <citedRange>279</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-46fa9548-f2bd-41a9-94f6-0f79f024cd98" n="◊">
+                            <def xml:id="uuid-4d1f0045-eb42-4324-ae51-f828204d4098"/>
+                            <usg type="register style sem" value="fig." corresp="#uuid-4d1f0045-eb42-4324-ae51-f828204d4098" rend=""/>
+                            <cit>
+                                <quote>A făcut din materialul „Mioriţii”o operă care ajunge ca să-l
+                                    debarce dincolo de veacurile uitării</quote>
+                                <bibl type="unknown">
+                                    <ptr target="SADOVEANU, E. SADOVEANU, O. XX | SADOVEANU, Pub. II"/>
+                                    <date/>
+                                    <citedRange>280</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-b1c4f1e8-aa3a-4760-885b-3b60093188be" n="◊">
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="refl. pas."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-304a7c3d-8720-4827-b7b2-0277f5c8d805"/>
+                            <cit>
+                                <quote>După luarea Sevastopolului, când garda imperială franceză
+                                    suferise mari pierderi, s-a debarcat un număr de recruţi pentru
+                                    împlinirea golurilor</quote>
+                                <bibl type="unknown">
+                                    <ptr target="EMINESCU, I. V. EMINESCU, N. EMINESCU, O. XI EMINESCU, S. P. (DA) EMINESCU, S. P. I | EMINESCU, Pub. III"/>
+                                    <date/>
+                                    <citedRange>105</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote>Încă câţiva paşi mai departe, şi se opriră la locul unde se
+                                    debarcă cânii din trenuri</quote>
+                                <bibl type="unknown">
+                                    <ptr target="MIRONESCU, S. | MIRONESCU, Art. Soc."/>
+                                    <date/>
+                                    <citedRange>184</citedRange>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <sense xml:id="uuid-4c021359-deb0-4d84-a449-e5397945f4d7" n="♦">
+                            <gramGrp>
+                                <pos value="vb."/>
+                                <iType value="I"/>
+                                <subc value="intranz."/>
+                                <subc value=""/>
+                            </gramGrp>
+                            <def xml:id="uuid-5dcc8707-2692-4118-8ef2-ca592d3450ed">A descinde într-o localitate sau într-un loc</def>
+                            <usg type="register style" value="glumeț" corresp="#uuid-5dcc8707-2692-4118-8ef2-ca592d3450ed" rend=""/>
+                            <cit>
+                                <quote>Îi povesti apoi pe îndelete cum a debarcat în
+                                    capitală</quote>
+                                <bibl type="unknown">
+                                    <ptr target="REBREANU, O. VIII REBREANU, R. I | REBREANU, Răsc. I"/>
+                                    <date/>
+                                    <citedRange>21</citedRange>
+                                </bibl>
+                            </cit>
+                            <cit>
+                                <quote/>
+                                <bibl type="cf.">
+                                    <ptr target="DEX | DEX"/>
+                                    <date/>
+                                    <citedRange/>
+                                </bibl>
+                            </cit>
+                        </sense>
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value="I"/>
+                            <subc value="intranz. tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-a2128cb4-1042-42d4-857c-c3ca6f68d8f1">A se da jos, a coborî pe uscat (chei, mal) de pe o navă</def>
+                        <def xml:id="uuid-3389b001-8173-4c50-a9aa-55e61c013a0c">a coborî din tren, din avion sau dintr-un alt vehicul</def>
+                        <usg type="sem" value="p..ext." corresp="#uuid-3389b001-8173-4c50-a9aa-55e61c013a0c" rend=""/>
+                        <cit>
+                            <quote>Dezbărcând întru această peninsulă au adus cel mai de pre urmă
+                                agiutoriu</quote>
+                            <bibl type="unknown">
+                                <ptr target="AR (18...) | Albina Rom."/>
+                                <date>1829</date>
+                                <citedRange>80`1`/37</citedRange>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote>Toţi câţi desbărcară acolo ... aduseră Cartrega la
+                                dăznădăjduire</quote>
+                            <bibl type="unknown">
+                                <ptr target="CĂPĂŢINEANU, M. R. | CĂPĂŢINEANU, M. Romani. – T."/>
+                                <date/>
+                                <citedRange>34/13</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-eb9d926b-0a9b-41e9-8953-535e0b0b28e5" n="2.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value="I"/>
+                            <subc value="tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-4a150e5a-f0b3-40bc-b142-0aaf65f015f7">A ataca ţărmul inamic cu trupe aduse pe nave (speciale)</def>
+                        <cit>
+                            <quote>Aflându-mă cu armada dezbărcată în insula cea mai depărtată,
+                                hotărâi ca să plec cu toată armada</quote>
+                            <bibl type="unknown">
+                                <ptr target="GORJAN, H. I | GORJAN, Halima – T. I"/>
+                                <date/>
+                                <citedRange>130/17</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-570fe462-d2ce-4002-870e-f904274045d3" n="3.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value="I"/>
+                            <subc value="tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-6cd79acc-ac52-431b-9426-b5d80faaf15b">A acosta</def>
+                        <usg type="time" value="înv." corresp="#uuid-6cd79acc-ac52-431b-9426-b5d80faaf15b" rend=";"/>
+                        <usg type="obj" value="complementul.indică" corresp="#uuid-6cd79acc-ac52-431b-9426-b5d80faaf15b" rend="">corăbii</usg>
+                        <cit>
+                            <quote>Au sosit la Rio numai una corabie cu 70 ofiţeri: alta au fost
+                                sâlită a desbărca în insulile Canare</quote>
+                            <bibl type="unknown">
+                                <ptr target="AR (18...) | Albina Rom."/>
+                                <date>1829</date>
+                                <citedRange>762/39</citedRange>
+                            </bibl>
+                        </cit>
+                    </sense>
+                    <sense xml:id="uuid-49708ee2-4d35-4930-b170-a33c45a26072" n="4.">
+                        <gramGrp>
+                            <pos value="vb."/>
+                            <iType value="I"/>
+                            <subc value="tranz."/>
+                            <subc value=""/>
+                        </gramGrp>
+                        <def xml:id="uuid-19f4c661-83ba-467b-a5e6-67a740fba582">A înlocui dintr-o funcţie, de la conducere</def>
+                        <ptr targetLang="" type="syn" subtype="unknown" target="a da afară" corresp="#uuid-19f4c661-83ba-467b-a5e6-67a740fba582"/>
+                        <ptr targetLang="" type="syn" subtype="unknown" target="a concedia" corresp="#uuid-19f4c661-83ba-467b-a5e6-67a740fba582"/>
+                        <usg type="register style" value="familiar" corresp="#uuid-19f4c661-83ba-467b-a5e6-67a740fba582" rend=";"/>
+                        <usg type="obj" value="complementul.indică" corresp="#uuid-19f4c661-83ba-467b-a5e6-67a740fba582" rend="">persoane</usg>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="RESMERIŢĂ, D. | RESMERIŢĂ, D. Et."/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                        <cit>
+                            <quote/>
+                            <bibl type="cf.">
+                                <ptr target="DL | DL I"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <dictScrap xml:id="dex-senses">
+                    <sense xml:id="uuid-6cd5780e-9d7d-4954-b684-94d95e0033e0" n="">
+                        <def xml:id="uuid-4114a5ed-1b3f-4925-8795-a684f0a3414f"/>
+                        <cit>
+                            <quote/>
+                            <bibl type="unknown">
+                                <ptr target="unknown"/>
+                                <date/>
+                                <citedRange/>
+                            </bibl>
+                        </cit>
+                    </sense>
+                </dictScrap>
+                <form type="grammatical-information">
+                    <idno type="grammatical-information-type-for-vb"/>
+                    <form type="grammatical-information-for-verb" corresp="">
+                        <mood value="ind."/>
+                        <tns value="prez."/>
+                        <per value="pers. 1"/>
+                        <form xml:lang="ro-x-accent-lowcase-vowels" type="details-for-grammatical-information-for-verb">debárc</form>
+                    </form>
+                </form>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-dccbd412-af60-4960-9b61-25de13108d6f">dezbarcá</def>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend=""/>
+                    <form type="writing">
+                        <oVar>desbarca</oVar>
+                    </form>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-504f60dc-9f93-431f-a94b-9c12bb436e41">dezbărcá</def>
+                    <gramGrp>
+                        <pos value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend=""/>
+                    <form type="writing">
+                        <oVar>desbărca</oVar>
+                    </form>
+                </re>
+                <re type="lexical-variant-section">
+                    <def xml:id="uuid-3da6bd71-958e-4c82-b7f2-ac5dbc0c089e">dizbărcá</def>
+                    <gramGrp>
+                        <pos value="vb."/>
+                        <iType value="I"/>
+                        <subc value=""/>
+                        <subc value=""/>
+                    </gramGrp>
+                    <usg type="time" value="înv." rend=""/>
+                    <form type="writing">
+                        <oVar>disbărca</oVar>
+                    </form>
+                </re>
+                <etym cert="high">
+                    <idno type="cuvântul.titlu-element.extern-împrumut-etimon.sigur"/>
+                    <term xml:lang="fr" type="unknown" subtype="unknown">débarquer</term>
+                </etym>
+            </entry>
+        </body>
+    </text>
+</TEI>
