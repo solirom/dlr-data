@@ -35,128 +35,18 @@
 				</gramGrp>
 				<dictScrap xml:id="dlr-senses">
 					<sense xml:id="uuid-e113917d-4f35-4101-b7ba-186edcebcb62" n="">
+						<re type="unitate-semantică-subsumată" subtype="saying">
+							<term/>
+							<term type="etym" targetLang="" subtype="element.extern-calc">a</term>
+						</re>
 						<sense xml:id="uuid-61e6ad79-da73-414e-89d0-e8db66383e25" n="">
 							<re type="unitate-semantică-subsumată" subtype="unknown">
-								
 								<term/>
 								<term type="etym" targetLang="" subtype="element.extern-calc"/>
 							</re>
 							<def xml:id="uuid-2196e2e0-7e3a-4583-bcb9-21f9d9436c4d"/>
 						</sense>
 						<def xml:id="uuid-bf1ca2fe-34a8-4c7c-86e9-c8c1ec0ea2f7">definitie</def>
-						<ptr type="trimitere" target="unknown"/>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date> Înc. sec. XVII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>1650</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date> Înc. sec. XVI</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date> Înc. sec. XVIII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date> Înc. sec. XIX</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sec. XVI</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sec. XVII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sec. XVIII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sec. XIX</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>c. 1832</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sf. sec. XVI</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sf. sec. XVII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sf. sec. XVIII</date>
-								<citedRange/>
-							</bibl>
-						</cit>
-						<cit type="unknown">
-							<quote/>
-							<bibl type="unknown">
-								<ptr target="unknown"/>
-								<date>sf. sec. XIX</date>
-								<citedRange/>
-							</bibl>
-						</cit>
 					</sense>
 				</dictScrap>
 				<dictScrap xml:id="dex-senses">
@@ -182,8 +72,7 @@
 					</etym>
 				</re>
 				<etym cert="high">
-					<idno type="formație.internă-trimitere-De.la-s..pr."/>
-                    <ptr targetLang="" type="unknown" subtype="unknown" target="unknown"/>
+					<idno type="element.extern-împrumut-etimon.sigur"/><term xml:lang="" type="unknown" subtype="unknown"/>
 				</etym>
 			</entry>
 		</body>
